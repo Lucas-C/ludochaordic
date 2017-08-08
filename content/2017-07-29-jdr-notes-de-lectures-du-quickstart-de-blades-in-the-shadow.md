@@ -1,6 +1,6 @@
 Title: [FR] Notes de lectures du QuickStart de Blades In The Dark
 Date: 2017-07-29 17:07
-Tags: jdr, bladesintheshadow, opinion, review
+Tags: lang:fr, jdr, bladesintheshadow, opinion, review
 Slug: jdr-notes-de-lectures-du-quickstart-de-blades-in-the-shadow
 ---
 [![](/lucas/blog/content/images/2017/07/EHP_Blades_Pageheader.jpg)](http://www.evilhat.com/home/blades-in-the-dark/)
