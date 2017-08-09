@@ -1,7 +1,7 @@
 Title: Détection d'une archive gzip corrompue en Python
 Date: 2015-08-23 16:08
 Tags: lang:fr, python, gzip, zlib, requests, crc, open-data, meteo, ipython
-Slug: fr-detection-dune-archive-gzip-corrompue-en-python
+Slug: detection-dune-archive-gzip-corrompue-en-python
 ---
 Il y a quelques jours, un ami m'a demandé de jeter un oeil à un problème qu'il recontrait: alors qu'il analysait des données de [donneespubliques.meteofrance.fr](http://donneespubliques.meteofrance.fr) dans un [IPython notebook](http://ipython.org/notebook.html), en utilisant la fantastique lib [requests](http://docs.python-requests.org), il a été confronté à un bug étrange:
 

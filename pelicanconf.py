@@ -6,25 +6,6 @@ AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'
 SITESUBTITLE = 'Fantaisies programatico-ludiques'
 DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
-SITEURL = ''
-
-PATH = 'content'
-
-TIMEZONE = 'Europe/Paris'
-
-DEFAULT_LANG = 'fr'
-
-THEME = '/root/pelican-mg'
-
-PLUGIN_PATHS = ['/root/pelican-plugins']
-PLUGINS = ['sitemap', 'tipue_search']
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
@@ -47,11 +28,39 @@ SOCIAL = (('github', 'https://github.com/Lucas-C'),
           ('shaarli', 'https://chezsoi.org/shaarli'),
           ('youtube', 'https://www.youtube.com/playlist?list=FLF8xTv55ZmwikWWmWLPEAZQ'),)
 
+TIMEZONE = 'Europe/Paris'
+DEFAULT_LANG = 'fr'
+
+PATH = 'content'
+
+THEME = '/root/pelican-mg'
+DIRECT_TEMPLATES = ('index', 'search', 'tipue_search')
+TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
+MG_DISABLE_SUMMARY = True
+
+PLUGIN_PATHS = ['/root/pelican-plugins']
+PLUGINS = ['sitemap', 'tipue_search']
+
+ARCHIVE_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+
 DEFAULT_PAGINATION = False
+
+
+#######################################
+# Config options specific to dev-mode:
+#######################################
+
+SITEURL = ''
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'tipue_search')
-TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 

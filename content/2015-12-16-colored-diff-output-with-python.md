@@ -1,7 +1,7 @@
 Title: Colored diff output with Python
 Date: 2015-12-16 12:12
 Tags: lang:en, python, color, colorama, diff
-Slug: en-colored-diff-output-with-python
+Slug: colored-diff-output-with-python
 ---
 Say you are generating a colored diff output with the standard `difflib` Python package:
 ```

@@ -1,7 +1,7 @@
 Title: Problème avec Windows Update & .NET, Sysinternals et l'enfer des DLLs
 Date: 2015-05-16 16:05
 Tags: lang:fr, windows, sysinternals, dll, -net
-Slug: fr-towerfall-windows-sysinternals-et-lenfer-des-dlls
+Slug: towerfall-windows-sysinternals-et-lenfer-des-dlls
 ---
 Cette après-midi, j'ai enfin résolu un problème d'installation de Microsoft .NET Framework qui datait de presque un an.
 

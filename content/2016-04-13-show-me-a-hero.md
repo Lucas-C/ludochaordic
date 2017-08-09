@@ -1,7 +1,7 @@
 Title: Show me a hero
 Date: 2016-04-13 03:04
 Tags: lang:fr, the-wire, david-simon, serie-tv, annees-80, urbanisme, politique
-Slug: fr-show-me-a-hero
+Slug: show-me-a-hero
 ---
 Depuis une dizaine d'années, j'ai cette petite idée dans un tiroir. Une série télé qui présenterait le quotidien de politiciens, présentés comme des super héros. Peut-être en insérrant des passages où ils se verraient les uns les autres en justaucorps et collans multicolores. Ou alors par un habile jeu de mise en scène, suggérer des regards lasers, ou des costumes moulants cachés sous les costards. Mais avec, au final, l'idée de mettre en évidence leurs egos, leurs ambitions, leurs capacités parfois hors du commun.
 

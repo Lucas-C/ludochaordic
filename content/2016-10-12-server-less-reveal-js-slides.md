@@ -1,7 +1,7 @@
 Title: Server-less reveal.js slides
 Date: 2016-10-12 11:10
 Tags: lang:en, reveal-js, bash, http, local-server, slides, script
-Slug: en-server-less-reveal-js-slides
+Slug: server-less-reveal-js-slides
 ---
 I love [reveal.js](http://lab.hakim.se/reveal-js). I've been using it for years. But the other day, I was badly bitten by its requirement on a local HTTP server.
 

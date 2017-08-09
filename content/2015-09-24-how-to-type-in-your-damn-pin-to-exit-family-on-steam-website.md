@@ -1,7 +1,7 @@
 Title: How to type in your damn PIN to exit Family View on Steam website
 Date: 2015-09-24 23:09
 Tags: lang:en, javascript, console, hack, steam, browser, pin, password, form, input
-Slug: en-how-to-type-in-your-damn-pin-to-exit-family-on-steam-website
+Slug: how-to-type-in-your-damn-pin-to-exit-family-on-steam-website
 ---
 This evening I faced a really annoying bug: while able to exit Family View by entering my PIN in `Steam.exe`, I could not do so when trying to access the Steam website.
 I simply could not pass the page "Adults, enter your PIN below to exit Family View." Neither with Chrome nor Firefox: the input field just silently ignored anything I typed in, and the "Submit" button stayed un-clickable.

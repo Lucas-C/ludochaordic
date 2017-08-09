@@ -1,7 +1,7 @@
 Title: Bonne année ! A vos dons, prêt ? Partez !
 Date: 2015-01-10 16:01
 Tags: lang:fr, dons, libre, gnu, framasoft, mozilla, quadrature-du-net, eff, fondation-wikimedia, efs
-Slug: fr-bonne-annee-a-vos-dons-pret-partez
+Slug: bonne-annee-a-vos-dons-pret-partez
 ---
 <img src="/lucas/wwcb/photos/SuperDupont_OuiNideIou.jpg" style="height:400px" alt="Oui Nide Iou" title="SuperDupont par Gotlib">
 

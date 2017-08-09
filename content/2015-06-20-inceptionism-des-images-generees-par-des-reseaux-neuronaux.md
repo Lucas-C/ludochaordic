@@ -1,7 +1,7 @@
 Title: "Inceptionism" : des images générées par des réseaux neuronaux
 Date: 2015-06-20 14:06
 Tags: lang:fr, neural-network, image-processing, machine-learning, clouds, inception, magic, auditive-escape
-Slug: fr-inceptionism-des-images-generees-par-des-reseaux-neuronaux
+Slug: inceptionism-des-images-generees-par-des-reseaux-neuronaux
 ---
 [Voici la galerie en question](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB), et voici une bande son pour accompagner la lecture de cet article:
 http://auditiveescape.bandcamp.com/album/noted-wind

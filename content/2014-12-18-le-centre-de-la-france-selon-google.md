@@ -1,7 +1,7 @@
 Title: Le centre de la France selon Google
 Date: 2014-12-18 11:12
 Tags: lang:fr, google, jq, curl, geoip, france, tresor
-Slug: fr-le-centre-de-la-france-selon-google
+Slug: le-centre-de-la-france-selon-google
 ---
 C'était la prise de conscience rigolote de ce matin :)
 

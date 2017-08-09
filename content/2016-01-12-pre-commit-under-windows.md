@@ -1,7 +1,7 @@
 Title: pre-commit under Windows
 Date: 2016-01-12 19:01
 Tags: lang:en, bash, python, wget, windows, git, hooks, pre-commit, pip, cygwin, apt-cyg, lynx, pacman, msys2
-Slug: en-pre-commit-under-windows
+Slug: pre-commit-under-windows
 ---
 First, lets mention [Git Bash](//msysgit.github.com) (aka _msysgit_) : the old version was a PITA to extend with additional packages (e.g. adding common C libs like libxml), and the new one (renamed [Git for Windows](//git-for-windows.github.io)), is based on MSYS2, but does not include a package manager.
 

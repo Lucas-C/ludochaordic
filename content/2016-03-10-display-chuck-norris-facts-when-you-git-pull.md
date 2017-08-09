@@ -1,7 +1,7 @@
 Title: Display Chuck Norris facts when you git pull !
 Date: 2016-03-10 12:03
 Tags: lang:en, git, hooks, chuck-norris, jenkins
-Slug: en-display-chuck-norris-facts-when-you-git-pull
+Slug: display-chuck-norris-facts-when-you-git-pull
 ---
 ...in just one command :
 

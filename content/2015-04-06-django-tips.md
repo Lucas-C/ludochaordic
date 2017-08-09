@@ -1,7 +1,7 @@
 Title: Django tips & tricks
 Date: 2015-04-06 20:04
 Tags: lang:en, python, html, color, debug, django, template, heroku, pythonrc, database_url, constants, dry, graph
-Slug: en-django-tips
+Slug: django-tips
 ---
 I recently worked on a short website project using Django & Heroku. It was my very time using this Python framework, and I really liked it !
 

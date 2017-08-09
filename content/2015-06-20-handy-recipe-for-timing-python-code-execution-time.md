@@ -1,7 +1,7 @@
 Title: Handy recipe for timing Python code execution time
 Date: 2015-06-20 15:06
 Tags: lang:en, python, recipe, trace, decorator, context-manager, time
-Slug: en-handy-recipe-for-timing-python-code-execution-time
+Slug: handy-recipe-for-timing-python-code-execution-time
 ---
 The `timeit` module is useful for micro benchmarks, but does not allow to measure execution time of large snippets, as it requires the code tested to fit in a string.
 Hence, I went looking for a context or decorator-based solution. And I found [this bug report](https://bugs.python.org/issue19495) commented by Guido van Rossum, recommending a few recipes.

@@ -1,7 +1,7 @@
 Title: Quickly deleting all your old SauceLabs jobs
 Date: 2015-02-17 08:02
 Tags: lang:en, shell, xargs, perl, curl, saucelabs
-Slug: en-quickly-deleting-all-your-old-saucelabs-jobs
+Slug: quickly-deleting-all-your-old-saucelabs-jobs
 ---
 In a nutshell:
 

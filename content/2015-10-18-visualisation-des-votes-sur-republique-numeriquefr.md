@@ -1,7 +1,7 @@
 Title: Visualisation des votes sur republique-numerique.fr
 Date: 2015-10-18 23:10
 Tags: lang:fr, statistics, data-visualization, republique-numerique, charts
-Slug: fr-visualisation-des-votes-sur-republique-numeriquefr
+Slug: visualisation-des-votes-sur-republique-numeriquefr
 ---
 Quelques essais de visualisation de données pour célébrer la fin de cette expérimentation de débat citoyen en ligne.
 

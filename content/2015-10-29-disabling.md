@@ -1,7 +1,7 @@
 Title: Disabling error stack traces with SpringBoot, but only in prod
 Date: 2015-10-29 12:10
 Tags: lang:en, yaml, java, controller, springboot, exception, http, stacktrace, profile, conditional, property, war
-Slug: en-disabling
+Slug: disabling
 ---
 
 

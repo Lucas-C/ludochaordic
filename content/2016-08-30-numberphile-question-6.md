@@ -1,7 +1,7 @@
 Title: Numberphile question 6
 Date: 2016-08-30 05:08
-Tags: lang:en, _preview
-Slug: en-numberphile-question-6
+Tags: lang:en
+Slug: numberphile-question-6
 Status: draft
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>

@@ -1,7 +1,7 @@
 Title: Equivalent for Linux of Windows Python launcher 'py'
 Date: 2015-01-12 19:01
 Tags: lang:en, bash, python, pep, windows, launcher, shorthand, mailing-list
-Slug: en-equivalent-for-linux-of-windows-python-launcher-py
+Slug: equivalent-for-linux-of-windows-python-launcher-py
 ---
 Under Windows, CPython is shipped with a [very useful `py` command](https://docs.python.org/3/using/windows.html#python-launcher-for-windows).
 

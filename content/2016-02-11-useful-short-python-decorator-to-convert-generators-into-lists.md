@@ -1,7 +1,7 @@
 Title: Useful short Python decorator to convert generators into lists
 Date: 2016-02-11 12:02
 Tags: lang:en, python, recipe, decorator, generators, list, vowels, yield
-Slug: en-useful-short-python-decorator-to-convert-generators-into-lists
+Slug: useful-short-python-decorator-to-convert-generators-into-lists
 ---
 Python generators are awesome. Why ?
 

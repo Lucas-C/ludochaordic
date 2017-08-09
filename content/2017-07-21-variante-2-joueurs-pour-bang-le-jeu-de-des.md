@@ -1,7 +1,7 @@
 Title: Variante 2 joueurs pour BANG! - Le jeu de dés
 Date: 2017-07-21 07:07
 Tags: lang:fr, jeu-de-societe, variante, boardgamegeek, gamedesign, duel, bang, dice
-Slug: fr-variante-2-joueurs-pour-bang-le-jeu-de-des
+Slug: variante-2-joueurs-pour-bang-le-jeu-de-des
 ---
 _(English version: [on boardgamegeek](https://boardgamegeek.com/article/26459280) - there is also [another 2 players variant](https://boardgamegeek.com/thread/1176865/2-player-variant-hidden-roles-shootout-mode) there)_
 

@@ -1,7 +1,7 @@
 Title: Follow a process progress to read a file
 Date: 2014-10-08 05:10
 Tags: lang:en, bash, pv, proc, throughput, socat, watch, monitor, read, progress, file-descriptor
-Slug: en-follow-a-progress-progress-to-read-a-file
+Slug: follow-a-progress-progress-to-read-a-file
 ---
 Do you know the `pv` command ? It's really nifty.
 

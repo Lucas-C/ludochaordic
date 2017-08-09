@@ -1,7 +1,7 @@
 Title: Fun with Javascript string obfuscation
 Date: 2014-11-14 01:11
 Tags: lang:en, javascript, obfuscation, string, brainfuck, fail, js1k, node-js, console, trick
-Slug: en-fun-with-javascript-string-obfuscation
+Slug: fun-with-javascript-string-obfuscation
 ---
 Inspired by [this tweeter post by Marcus Lagergren](//twitter.com/lagergren/statuses/337484475204255744) and the [JS1K competition](http://minddotout.wordpress.com/2013/04/28/js1k-tips-writing-tiny-javascript/), here is a valid Javascript code snippet for you obfuscated code lovers:
 

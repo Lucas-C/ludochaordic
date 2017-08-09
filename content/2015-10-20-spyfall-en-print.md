@@ -1,7 +1,7 @@
 Title: SpyFall en print&play
 Date: 2015-10-20 19:10
 Tags: lang:fr, template, printplay, svg, i18n, board-game, cards
-Slug: fr-spyfall-en-print
+Slug: spyfall-en-print
 ---
 ![](/lucas/blog/content/images/2015/10/spy-2.jpg)
 

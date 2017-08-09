@@ -1,7 +1,7 @@
 Title: Cross-browsers testing : zuul or sauce-tap-runner to replace testling by SauceLabs ?
 Date: 2015-02-09 16:02
 Tags: lang:en, javascript, testling, tap, unit-testing, browser-testing, zuul, saucelabs, travis-ci, mocha, quint, jasmine, ecovoit
-Slug: en-cross-browsers-testing-zuul-or-brtapsauce-to-replace-testling-by-saucelabs
+Slug: cross-browsers-testing-zuul-or-brtapsauce-to-replace-testling-by-saucelabs
 ---
 [Since July 2014](//github.com/substack/testling/issues/88), **Substack** great cross-browsers testing tool `testling` has been unavailable.
 

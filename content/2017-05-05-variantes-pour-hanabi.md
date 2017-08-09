@@ -1,7 +1,7 @@
 Title: Variantes pour Hanabi
 Date: 2017-05-05 19:05
 Tags: lang:fr, jeu-de-societe, variante, boardgamegeek, gamedesign, hanabi
-Slug: fr-variantes-pour-hanabi
+Slug: variantes-pour-hanabi
 ---
 [![](/lucas/blog/content/images/2017/05/utakata_hanabi___sasuke_ver__by_net1204-d3icqzj.jpg)](http://net1204.deviantart.com/art/Utakata-Hanabi-212226463)
 

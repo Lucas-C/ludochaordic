@@ -1,7 +1,7 @@
 Title: Recyclage rigolo
 Date: 2015-09-26 15:09
 Tags: lang:fr, blender, recycling, lamp, diy
-Slug: fr-recyclage-rigolo
+Slug: recyclage-rigolo
 ---
 Petit bricolage du week-end dernier donc je suis assez content :
 

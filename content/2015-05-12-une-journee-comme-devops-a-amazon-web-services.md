@@ -1,7 +1,7 @@
 Title: Une journée comme DevOps à Amazon Web Services
 Date: 2015-05-12 21:05
 Tags: lang:fr, devops, aws, humantalks, mainelabs, talk, slides, reveal-js
-Slug: fr-une-journee-comme-devops-a-amazon-web-services
+Slug: une-journee-comme-devops-a-amazon-web-services
 ---
 Ce soir aux HumanTalks de MaineLabs, j'ai eu la plaisir de faire une petite présentation sur mon boulot comme DevOps à Amazon Web Services lors de mes 2 années à Dublin.
 

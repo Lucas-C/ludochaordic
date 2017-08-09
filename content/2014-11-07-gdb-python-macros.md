@@ -1,7 +1,7 @@
 Title: gdb Python macros
 Date: 2014-11-07 11:11
 Tags: lang:en, python, gdb, configuration, rc, prompt, color, history, ptrace, symbol, macro, pgrep, debug
-Slug: en-gdb-python-macros
+Slug: gdb-python-macros
 ---
 This post aims to introduce a very useful tool to debug low-level issues in Python, how to enhance it and finally how to solve two annoying common problems.
 

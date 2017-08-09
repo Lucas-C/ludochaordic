@@ -1,7 +1,7 @@
 Title: Intro à Lua et ses utilisations dans Nginx & Redis
 Date: 2017-05-17 16:05
 Tags: lang:fr, python, slides, reveal-js, voyages-sncf, markdown, lua, nginx, redis
-Slug: fr-intro-a-lua-et-ses-utilisations-dans-nginx
+Slug: intro-a-lua-et-ses-utilisations-dans-nginx
 ---
 Une courte présentation que j'ai donné cette après-midi à [Voyages-sncf.com Technologies](http://jobs.voyages-sncf.com) :
 

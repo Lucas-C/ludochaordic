@@ -1,7 +1,7 @@
 Title: Solving a painful browserify limitation : portable source files selection with a wildcard pattern
 Date: 2016-02-25 15:02
 Tags: lang:en, node-js, browserify, bundle, windows, npm, glob, portability
-Slug: en-solving-a-painful-browserify-limitation
+Slug: solving-a-painful-browserify-limitation
 ---
 In any UNIX shell, the following will always work out of the box:
 ```
