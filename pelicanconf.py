@@ -41,6 +41,8 @@ MG_DISABLE_SUMMARY = True
 PLUGIN_PATHS = ['/root/pelican-plugins']
 PLUGINS = ['sitemap', 'tipue_search']
 
+ISSO_BASE_URL = '/lucas/isso'
+
 ARCHIVE_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 CATEGORY_SAVE_AS = ''
