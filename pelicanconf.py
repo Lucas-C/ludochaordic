@@ -28,6 +28,10 @@ SOCIAL = (('github', 'https://github.com/Lucas-C'),
           ('shaarli', 'https://chezsoi.org/shaarli'),
           ('youtube', 'https://www.youtube.com/playlist?list=FLF8xTv55ZmwikWWmWLPEAZQ'),)
 
+SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/logo_la-quadrature-du-net_20x20.png', 'Faites un don à la Quadrature !'),
+            ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/button_80x15_framasoft.png', 'Soutenez Framasoft !'),
+            ('April', 'http://www.april.org/adherer', 'http://www.april.org/files/cartouche_april-jadhere.png', 'Promouvoir et soutenir le logiciel libre'))
+
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
 
