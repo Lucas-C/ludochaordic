@@ -1,4 +1,4 @@
-Title: [EN] Web scraping with Scrapy
+Title: Web scraping with Scrapy
 Date: 2014-09-09 11:09
 Tags: lang:en, script, grep, scrapy, python, web-scraping, rpg, image, goblin, dict, wget, prog
 Slug: web-scraping-with-scrapy
@@ -114,4 +114,4 @@ And now I can search all those JPEG file names with a simple `grep` !
 <br>
 **EDIT**[8/10/2014]: as an exercise, you could try to scrape all the tags from [Justin Mason Weblog](http://taint.org/) and then use [tagcrowd.com](http://tagcrowd.com) (or the fantastic Javascript library [d3-cloud](http://www.jasondavies.com/wordcloud)) to generate the following tags cloud:
 
-<img src="/lucas/blog/content/images/2014/Oct/jmason_weblog_tagscloud.png" alt="Justin Mason Weblog PNG Tags Cloud"/>
+<img src="images/2014/Oct/jmason_weblog_tagscloud.png" alt="Justin Mason Weblog PNG Tags Cloud"/>

@@ -26,7 +26,7 @@ Failed to sanitise file!
 Miracle of the Internets, I found an explanation for this specific error [here](//github.com/khaledhosny/ots/blob/master/docs/HowToFix.md), in the spare documentation of this very same project.
 Alas, without any suggestion for a fix :(
 
-![](/lucas/blog/content/images/2016/02/xkcd_979_wisdom_of_the_ancients.png)
+![](images/2016/02/xkcd_979_wisdom_of_the_ancients.png)
 
 But now I will demonstrate how to fix an `.otf` file presenting this problem.
 The following also works with `.ttf` / `.woff` / `.woff2` files, and by the way, [css3FontConverter](//github.com/zoltan-dulac/css3FontConverter) is **magic** to convert your font files to all the formats needed to be displayed nicely in old browsers as well as modern ones : it even generates the CSS declaration !

@@ -5,7 +5,7 @@ Slug: recyclage-rigolo
 ---
 Petit bricolage du week-end dernier donc je suis assez content :
 
-<img src="/lucas/blog/content/images/2015/09/blendix-lux.jpg">
+<img src="images/2015/09/blendix-lux.jpg">
 
 Un blender hors d'usage + une douille & son ampoule + 2 petits dominos à fils électrique = une magnifique lampe !
 

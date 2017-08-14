@@ -1,4 +1,4 @@
-Title: [FR] God I hate Java Regex API
+Title: God I hate Java Regex API
 Date: 2015-05-19 16:05
 Tags: lang:en, python, java, regexp, api, matcher, prog
 Slug: god-i-hate-java-regex-api

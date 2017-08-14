@@ -3,7 +3,7 @@ Date: 2017-07-01 08:07
 Tags: lang:en, latpop, phone, equitable, repairability, oss, fairphone, nantes
 Slug: is-there-any-equitable-dump-phone-out-there
 ---
-<img src="/lucas/blog/content/images/2017/07/CargoCultFeaturePhone.jpg" style="max-height: 300px">
+<img src="images/2017/07/CargoCultFeaturePhone.jpg" style="max-height: 300px">
 
 Hello all.
 
@@ -32,6 +32,6 @@ I'm just going to put down and share my findings here:
 
 - for repairability, Greenpeace launched a comparator for laptops, tablets & smartphones recently: https://www.rethink-it.org
 
-<img src="/lucas/blog/content/images/2017/07/naga44.png" alt="Naga44 logo" title="Naga44 logo">
+<img src="images/2017/07/naga44.png" alt="Naga44 logo" title="Naga44 logo">
 
 - currently the best solution seems to be refurbished phones and computers. Living in Nantes, I'm going to look into [Alis44](http://www.alis44.org) & [Naga44](http://www.naga44.org) for laptops, and [LeBonCoin](https://www.leboncoin.fr) for dumbphones

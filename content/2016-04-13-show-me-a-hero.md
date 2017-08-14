@@ -14,38 +14,38 @@ J'ai été très ému en les regardant. Et j'ai ressenti un élan d'inspiration,
 
 Comme je déteste les "spoilers", je vais me livrer - en quelques mots - à ce délicat exercice d'équilibriste qui consiste à essayer de donner envie de visionner cette série, tout en en parlant le moins possible.
 
-![](/lucas/blog/content/images/2016/04/Capture-d--cran-de-2016-04-13-06-00-18.png)
+![](images/2016/04/Capture-d--cran-de-2016-04-13-06-00-18.png)
 
 En bref, il est question de la vie politique à la fin des années 80 à Yonkers, une petite ville des Etats-Unis, et notamment du débat autour de la construction de logements sociaux.
 
 Des le premier épisode, deux morceaux de Bruce Springsteen débutent la [bande son](//www.youtube.com/playlist?list=PLkLimRXN6NKx58EYzH7Yxrr-HCbIzdMQT) et installent l'ambiance.
 Les accents des personnages sont marqués. La lumière sur chaque plan magnifiquement maîtrisée. Style vestimentaire, coupes de cheveux, intérieurs d'appartements et extérieurs urbains... tout est d'époque, impeccable.
 
-![](/lucas/blog/content/images/2016/04/Capture-d--cran-de-2016-04-13-05-56-09.png)
+![](images/2016/04/Capture-d--cran-de-2016-04-13-05-56-09.png)
 
 Petit à petit, on suit les trajectoires croisées d'une vingtaine de personnages. Tantôt des habitants des "projects", les cités HLM américaines, tantôt des politiciens, conseillers municipaux ou membres de l'administration.
 
 En terme de narration, cette minisérie utilise une astuce redoutable : au fil des épisodes, des pistes (et parfois des fausses pistes !) sont discrètement amenées pour expliquer la toute première scène de la série, quelque peu énigmatique.
 
-![](/lucas/blog/content/images/2016/04/Capture-d--cran-de-2016-04-13-05-53-32---2.png)
+![](images/2016/04/Capture-d--cran-de-2016-04-13-05-53-32---2.png)
 
 Un personnage central se détache : Nick Wasicsko, jeune candidat au poste de maire. Ambitieux, idéaliste, il évoluera du tout au tout au cour de la série.
 
 Une chose qui m'a frappé : tous comme les autres personnages politiques de la série, on le voit assez régulièrement désoeuvré, en totale opposition avec les personnages féminins  issus des citées.
 
-![](/lucas/blog/content/images/2016/04/I_am_a_hero.png)
+![](images/2016/04/I_am_a_hero.png)
 
 Bien plus que Nick Wasicko, trop prévisible à mon goût, l'histoire de Doreen Henderson m'a véritablement scotché.
 
 Sans rien déflorer, elle joue un rôle discret mais incroyablement poignant, en miroir complet de Nick.
 
-![](/lucas/blog/content/images/2016/04/Capture-d--cran-de-2016-04-13-05-48-53.png)
+![](images/2016/04/Capture-d--cran-de-2016-04-13-05-48-53.png)
 
 Bref, je ne peux que vous recommander chaudement cette série.
 Sans être exempt de défauts - l'intrigue centrale monopolise vraiment excessivement la vie politique de la ville - c'est une petite perle à mettre entre toutes mains.
 
 Et cérise sur le gateau, le dernier épisode se conclut avec des photos d'époques, faisant échos à des moments clefs de la série.
 
-![](/lucas/blog/content/images/2016/04/Capture-d--cran-de-2016-04-13-05-44-29.png)
+![](images/2016/04/Capture-d--cran-de-2016-04-13-05-44-29.png)
 
 Quant à mon idée de série, je vais la garder dans un coin de tiroir pour le moment ;)

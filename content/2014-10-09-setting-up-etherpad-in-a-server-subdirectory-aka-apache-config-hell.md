@@ -3,7 +3,7 @@ Date: 2014-10-09 22:10
 Tags: lang:en, etherpad, journal, diary, logbook, apache, config, sed, xargs, relative, url, proxy, html, prog
 Slug: setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell
 ---
-![](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif)
+![](images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif)
 
 I truly think [Etherpad](//github.com/ether/etherpad-lite) is an amazing piece of software. Not so much for its code base quality than for its extraordinary range of usages.
 
@@ -48,7 +48,7 @@ Now simply restart Apache, and Bob's your uncle !
     sudo service apache2 restart
     sudo tail -F /var/log/apache2/*.log # watch that everything is OK
 
-![](/lucas/blog/content/images/2014/Oct/PowerRanger_stunt_GotYou.gif)
+![](images/2014/Oct/PowerRanger_stunt_GotYou.gif)
 
 <br/><br/><br/><br/><br/><br/><br/>
 

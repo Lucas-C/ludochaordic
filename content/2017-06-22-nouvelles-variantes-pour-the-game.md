@@ -12,7 +12,7 @@ Pour faire suite à [mon précédent post sur ce jeu génial](https://chezsoi.or
 
 Dans le cas où un joueur n'a pas assez de cartes en main pour jouer le minimum de cartes requis : la partie n'est **pas** perdue tant qu'il arrive à jouer toutes ses cartes à son tour. De même si un joueur n'a plus **aucune** carte, il se contente de suivre les règles de pioche en vigueur et la partie continue.
 
-![](/lucas/blog/content/images/2017/06/TheGameHanabi-2.png)
+![](images/2017/06/TheGameHanabi-2.png)
 
 - **"The Game: Hanabi"** : cette variante pour 2 joueurs change un certain nombre de règles:
   * les joueurs ont désormais en main à la fois des cartes visibles (uniquement d'eux, comme dans le jeu classique), et **des cartes tournées vers le partenaire** (comme dans Hanabi).

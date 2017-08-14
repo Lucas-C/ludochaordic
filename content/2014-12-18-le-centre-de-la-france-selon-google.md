@@ -9,7 +9,7 @@ Petite explication: plusieurs des services web de géolocalisation gracieusement
 
 La façon la plus simple de spécifier cette zone est d'indiquer au service les coordonnées du centre d'un carré géographique. Exemple pour la France:
 
-![](/lucas/blog/content/images/2014/Dec/le_centre_de_la_France_square.png)
+![](images/2014/Dec/le_centre_de_la_France_square.png)
 
 Or Google fournit un valeur par défaut précise pour ces coordonnées...
 
@@ -21,8 +21,8 @@ Or Google fournit un valeur par défaut précise pour ces coordonnées...
 
 Où se trouve donc le centre de la France alors ? Pas très loin de Montluçon il semblerait :
 
-![](/lucas/blog/content/images/2014/Dec/le_centre_de_la_France_map.jpg)
+![](images/2014/Dec/le_centre_de_la_France_map.jpg)
 
 Vous seriez pas curieux de creuser dans cette clairière vous ? Je parie qu'un trésor nous attend...
 
-![](/lucas/blog/content/images/2014/Dec/le_centre_de_la_France_satelite.jpg)
+![](images/2014/Dec/le_centre_de_la_France_satelite.jpg)

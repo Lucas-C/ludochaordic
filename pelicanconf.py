@@ -35,21 +35,27 @@ SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/lo
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
 
-PATH = 'content'
+PATH = './content'
 
-PLUGIN_PATHS = ['/root/pelican-plugins']
-PLUGINS = ['representative_image', 'tag_cloud']
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['image_process', 'representative_image', 'tag_cloud']
 
-THEME = '/root/pelican-mg'
+IMAGE_PROCESS = {
+    'thumb': ['scale_out 300 300 False'],
+}
+IMAGE_PROCESS_EXCLUDE = ['tipue_search.json']
+
+THEME = '../pelican-mg'
 DIRECT_TEMPLATES = ('index', 'search', 'tagcloud', 'tipue_search')
-ISSO_BASE_URL = '/lucas/isso'
 TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
+ISSO_BASE_URL = '/lucas/isso'
 TAG_CLOUD_STEPS = 6
 TAG_CLOUD_SORTING = 'alphabetically'
 TAG_CLOUD_BADGE = True
 MG_NO_EXCERPT = True
 MG_DISABLE_SUMMARY = True
-MG_FILTER_TAGS = ['lang:fr', 'lang:en', 'jeux', 'maths', 'prog']
+MG_FILTER_TAGS = ['jeux', 'maths', 'prog']
+MG_LANG_FILTER_TAGS = ['fr', 'en']  # 'lang:'-prefixed tags
 
 ARCHIVE_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
@@ -72,5 +78,5 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 

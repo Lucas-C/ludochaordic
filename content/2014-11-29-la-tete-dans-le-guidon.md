@@ -15,7 +15,7 @@ Vendredi après-midi, alors que je refactorisais le contenu du Makefile de mon p
 
 Un [Makefile](http://fr.wikipedia.org/wiki/Makefile) est un outil d'automatisation assez ancien, mais toujours très utile et souvent employé, et je pensais que le temps investi sur ce problème serait rentabilisé en réutilisant cette nouvelle "recette" dans mes projets futurs...
 
-<img src="/lucas/blog/content/images/2014/Dec/JonHamm_YeahSure.gif" title="Ouiii, c'est ça..." alt="JonHamm"/>
+<img src="images/2014/Dec/JonHamm_YeahSure.gif" title="Ouiii, c'est ça..." alt="JonHamm"/>
 
 Cette idée faisait suite à ma trouvaille pour afficher les messages de Makefile en couleur, utilisée dans [mon article précédent](https://chezsoi.org/lucas/blog/2014/11/27/en-javascript-testing-adapting-testling-in-browser-tap-rendering/).
 Cela peut sembler un peu vain, mais je trouve qu'un peu de couleur améliore énormément la lisibilité en fenêtre console.
@@ -83,7 +83,7 @@ Je vais essayer de disséquer ce qui me passe par la tête lorsque je perds plus
 4. **"c'est toujours utile à savoir faire"** : ça me resservira sûrement dans le futur de savoir ça. Il faut toujours continuer à apprendre non ?
 
 5. quitte à la faire proprement, **"autant faire une solution générique"**.
-<img src="/lucas/blog/content/images/2014/Dec/xkcd_the_general_problem.png" title="xkcd.com/974" alt="xkcd.com/974"/>
+<img src="images/2014/Dec/xkcd_the_general_problem.png" title="xkcd.com/974" alt="xkcd.com/974"/>
 
 
 ### Quelques astuces pour éviter ces écueils
@@ -98,7 +98,7 @@ Pour s'en prévenir, une règle d'or: **YAGNI**, [You Ain't Gonna Need It](//fr.
 	* ce biais cognitif là est dénommé _"[Planning fallacy](//en.wikipedia.org/wiki/Planning_fallacy)"_ chez nos confrères anglophones. Estimer la durée d'une tâche, c'est difficile. Et de manière générale, on a tendance à sous-estimer.
     * si on ne fait pas attention au temps qui passe, 10min deviennent facilement 60.
     * ce schéma peut se répéter à la prochaine difficulté rencontrée, et entraîner une succession de "tâches digressives" façon boule de neige.
-<img src="/lucas/blog/content/images/2014/Dec/TeteDansLeGuidon_spiral.png" title="Réalisé avec zwibbler.com" alt="Spiral of side-tasks digression"/>
+<img src="images/2014/Dec/TeteDansLeGuidon_spiral.png" title="Réalisé avec zwibbler.com" alt="Spiral of side-tasks digression"/>
 Pour éviter cet écueil, il faut se forcer à ne pas partir dans la moindre "tâche digressive"  : souvenez vous, utilisez un journal de tâches annexes, et YAGNI !
 Et pour éviter les sous-estimations, une seule solution: devenir meilleur à estimer les durées de tâches. Le livre _"[The Pragmatic Programmer](http://blog.codinghorror.com/a-pragmatic-quick-reference/)"_ recommande de garder un suivi de ses estimations, pour apprendre de ses erreurs.
 Une solution didactique pour s'y entraîner : la [technique _Pomodoro_](//fr.wikipedia.org/wiki/Technique_Pomodoro).
@@ -109,7 +109,7 @@ Au fond, il s'agit essentiellement d'un problème de **motivation** et de **disc
 4. **"c'est toujours utile à apprendre"** : là, c'est illusion de l'apprentissage comme une fin et pas comme un moyen. Comprenez-moi bien : je suis un partisant 100% convaincu de l'apprentissage continu tout au long de la vie; mais apprendre peut devenir une addiction, et il est trompeur de penser que toutes les sources de connaissance sont aussi enrichissantes et utiles les unes que les autres.
 En pratique : deux douzaines de réponses détaillées sur _StackOverflow_ ont bien moins de valeur que de suivre un cours entier de _Coursera_ ou _Codeademy_ sur un sujet nouveau.
 Il n'est pas utile de connaître tous les _hacks_ du monde, parfois mieux vaut réfléchir par soi-même à une solution plus simple.
-<img src="/lucas/blog/content/images/2014/Dec/A_mindless_worker_is_a_happy_worker.jpg" alt="Futurama: shut up and do your job !">
+<img src="images/2014/Dec/A_mindless_worker_is_a_happy_worker.jpg" alt="Futurama: shut up and do your job !">
 
 5. **"autant faire une solution générique"**  : là, c'est l'_[Over-engineering](//en.wikipedia.org/wiki/Overengineering)_ qui guète. 
 La solution la plus simple et rapide est parfois la meilleure, pas besoin de tomber dans l'écueil de la solution inutilement générique.

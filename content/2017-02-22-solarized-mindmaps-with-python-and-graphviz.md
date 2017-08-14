@@ -26,9 +26,9 @@ The command: `./graphviz_mindmap.py seasons.txt`.
 
 The results, with various `layout` parameters:
 
-![default layout](/lucas/blog/content/images/2017/02/seasons_twopi.png)
+![default layout](images/2017/02/seasons_twopi.png)
 
-![sfdp layout](/lucas/blog/content/images/2017/02/seasons_sfdp.png)
+![sfdp layout](images/2017/02/seasons_sfdp.png)
 
 ![dot layout](/lucas/blog/content/images/2017/02/seasons_dot.png)
 
@@ -53,7 +53,7 @@ Another, deeper, example:
         often referred to as dark chocolate, 35-45% Chocolate liquor
 </pre>
 
-![default layout](/lucas/blog/content/images/2017/02/chocolates_twopi.png)
+![default layout](images/2017/02/chocolates_twopi.png)
 
 A last one:
 <pre>The Bubonic Plague

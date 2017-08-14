@@ -65,7 +65,7 @@ Instead of this default value, I just changed the code to load the XML file corr
 
 Strangely, loading a mindmap was really slow. Here is what Firefox Network tab showed when loading the viewser in a new private window:
 
-![](/lucas/blog/content/images/2017/03/Firefox_WiseMapping_RequestCount1.png)
+![](images/2017/03/Firefox_WiseMapping_RequestCount1.png)
 
 I realized that for some crazy reason, when the JS editor component was loading, it retrieved the Maven `pom.xml` file from disk, parsed it and then loaded those files one per one ! And with jQuery adding a `?_=${timestamp}` query parameter each time, to avoid browser caches !! `JSPomLoader` is the class responsible for this absurdity this in [mindplot-min.js](https://bitbucket.org/wisemapping/wisemapping-open-source/src/v4.0.3/wise-editor/src/main/webapp/js/mindplot-min.js).
 
@@ -83,7 +83,7 @@ The second command makes `editor.js` use our new `mindplot-bundle.js` instead of
 
 The result:
 
-![](/lucas/blog/content/images/2017/03/Firefox_WiseMapping_RequestCount2.png)
+![](images/2017/03/Firefox_WiseMapping_RequestCount2.png)
 
 ### Avoiding unwanted LocalStorage cache
 

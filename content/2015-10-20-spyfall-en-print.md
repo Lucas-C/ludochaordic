@@ -3,7 +3,7 @@ Date: 2015-10-20 19:10
 Tags: lang:fr, template, printplay, svg, i18n, board-game, cards, jeux
 Slug: spyfall-en-print
 ---
-![](/lucas/blog/content/images/2015/10/spy-2.jpg)
+![](images/2015/10/spy-2.jpg)
 
 La semaine dernière, j'ai enfin offert à un ami le petit jeu de cartes que j'ai bricolé ces dernières semaines.
 

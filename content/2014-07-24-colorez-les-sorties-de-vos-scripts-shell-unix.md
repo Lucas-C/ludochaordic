@@ -1,4 +1,4 @@
-Title: [FR] Colorez les sorties de vos Makefile & scripts shell unix
+Title: Colorez les sorties de vos Makefile & scripts shell unix
 Date: 2014-07-24 16:07
 Tags: lang:fr, bash, unix, couleur, script, shell, makefile, prog
 Slug: colorez-les-sorties-de-vos-scripts-shell-unix

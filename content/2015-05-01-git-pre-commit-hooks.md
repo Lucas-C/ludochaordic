@@ -5,7 +5,7 @@ Slug: git-pre-commit-hooks
 ---
 I'd like to introduce you to an **awesome git companion** : [`pre-commit` hooks by Yelp](http://pre-commit.com).
 
-![](/lucas/blog/content/images/2015/05/pre-commit-logo.png)
+![](images/2015/05/pre-commit-logo.png)
 
 Git hooks are scripts that `git` executes before or after events such as: commit, push, and receive.
 
@@ -37,7 +37,7 @@ This config tells `pre-commit` to use 2 predefined hooks, that check for trailin
 The checks will automagically be executed whenever you do a commit, preventing you to commit files that don't pass the checks.
 Here is an exemple of the resulting terminal output in case of a hook failure:
 
-![](/lucas/blog/content/images/2015/08/pre-commit.png)
+![](images/2015/08/pre-commit.png)
 
 You can also invoke the hooks manually:
 
@@ -73,4 +73,4 @@ Example:
     files: .html$
 ```
 
-<a href="http://www.commitstrip.com/fr/2012/03/06/pre-commit-hook-irl/">![](/lucas/blog/content/images/2015/05/Strip-SVN-800-final.jpg)</a>
+<a href="http://www.commitstrip.com/fr/2012/03/06/pre-commit-hook-irl/">![](images/2015/05/Strip-SVN-800-final.jpg)</a>

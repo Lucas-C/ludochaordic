@@ -3,7 +3,7 @@ Date: 2017-02-10 15:02
 Tags: lang:en, jenkins, groovy, pipeline, https, prog
 Slug: making-https-calls-in-a-pure-groovy-shared-lib-for-jenkins-pipeline
 ---
-![](/lucas/blog/content/images/2017/02/butler-devil.png)
+![](images/2017/02/butler-devil.png)
 
 Recently I lost a lot of time on this. Hence I want to share a working solution, even if i cannot take the time to detail the issue.
 
