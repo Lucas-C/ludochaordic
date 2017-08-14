@@ -1,6 +1,6 @@
 Title: Nouvelles variantes pour The Game
 Date: 2017-06-22 11:06
-Tags: lang:fr, jeu-de-societe, variante, the-game, gamedesign
+Tags: lang:fr, jeu-de-societe, variante, the-game, gamedesign, jeux
 Slug: nouvelles-variantes-pour-the-game
 ---
 Pour faire suite à [mon précédent post sur ce jeu génial](https://chezsoi.org/lucas/blog/2016/11/13/fr-une-variante-pour-the-game/), voici 2 autres variantes que nous avons inventé et testé avec ma compagne:

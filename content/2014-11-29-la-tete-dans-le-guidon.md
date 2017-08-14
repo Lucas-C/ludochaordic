@@ -1,6 +1,6 @@
 Title: La tête dans le guidon
 Date: 2014-11-29 16:11
-Tags: lang:fr, makefile, yagni, kiss, time-management, organisation
+Tags: lang:fr, makefile, yagni, kiss, time-management, organisation, prog
 Slug: la-tete-dans-le-guidon
 ---
 En anglais, le titre pourrait se traduire par _"The head to the grindstone"_, soit littéralement "la tête sur la meule à aiguiser".

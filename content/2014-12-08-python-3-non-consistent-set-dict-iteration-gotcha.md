@@ -1,6 +1,6 @@
 Title: Python 3 non consistent set & dict iteration gotcha
 Date: 2014-12-08 19:12
-Tags: lang:en, python, dict, security, perl, hash, iteration, gotcha, backward-compatibility, set, ministat, csvstat
+Tags: lang:en, python, dict, security, perl, hash, iteration, gotcha, backward-compatibility, set, ministat, csvstat, prog
 Slug: python-3-non-consistent-set-dict-iteration-gotcha
 ---
 Consider the following Python expression:

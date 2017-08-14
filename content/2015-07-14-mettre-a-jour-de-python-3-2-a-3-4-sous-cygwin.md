@@ -1,6 +1,6 @@
 Title: Mettre à jour de Python 3.2 à 3.4 sous Cygwin
 Date: 2015-07-14 11:07
-Tags: lang:fr, python, pip, cygwin, apt-cyg
+Tags: lang:fr, python, pip, cygwin, apt-cyg, prog
 Slug: mettre-a-jour-de-python-3-2-a-3-4-sous-cygwin
 ---
 Depuis mai 2015, [Python 3.4 est disponoble sous Cygwin](https://www.cygwin.com/ml/cygwin/2015-05/msg00080.html).

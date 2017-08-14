@@ -1,6 +1,6 @@
 Title: Daniel Linssen
 Date: 2017-07-31 01:07
-Tags: lang:en, game-jam, video-game, indie-game, ludum-dare, daniel-lindsen
+Tags: lang:en, game-jam, video-game, indie-game, ludum-dare, daniel-lindsen, jeux
 Slug: daniel-linssen
 Status: draft
 ---

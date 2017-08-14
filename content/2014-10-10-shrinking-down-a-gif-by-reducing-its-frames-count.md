@@ -1,6 +1,6 @@
 Title: Shrink down a GIF by reducing its frames count
 Date: 2014-10-10 03:10
-Tags: lang:en, bash, image, frames, gif, imagemagick, convert, fps, size, delay
+Tags: lang:en, bash, image, frames, gif, imagemagick, convert, fps, size, delay, prog
 Slug: shrinking-down-a-gif-by-reducing-its-frames-count
 ---
 To illustrate my [previous post](https://chezsoi.org/lucas/blog/2014/10/10/en-setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell/) and keep images at a reasonable size, I had to shrink down the top GIF from [14Mb](https://lh3.googleusercontent.com/-W4wSdhJ2O3A/UfgjKpNKBCI/AAAAAAAAAac/UGbf_GaXjA4/w400-h225-no/Cloudberry+Kingdom+difficulty.gif) to [3.2Mb](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif).

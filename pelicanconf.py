@@ -37,15 +37,18 @@ DEFAULT_LANG = 'fr'
 
 PATH = 'content'
 
-THEME = '/root/pelican-mg'
-DIRECT_TEMPLATES = ('index', 'search', 'tipue_search')
-TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
-MG_DISABLE_SUMMARY = True
-
 PLUGIN_PATHS = ['/root/pelican-plugins']
-PLUGINS = ['sitemap', 'tipue_search']
+PLUGINS = ['representative_image', 'tag_cloud']
 
+THEME = '/root/pelican-mg'
+DIRECT_TEMPLATES = ('index', 'search', 'tagcloud', 'tipue_search')
 ISSO_BASE_URL = '/lucas/isso'
+TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
+TAG_CLOUD_STEPS = 6
+TAG_CLOUD_SORTING = 'alphabetically'
+TAG_CLOUD_BADGE = True
+MG_DISABLE_SUMMARY = True
+MG_FILTER_TAGS = ['lang:fr', 'lang:en', 'jeux', 'maths', 'prog']
 
 ARCHIVE_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''

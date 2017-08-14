@@ -1,6 +1,6 @@
 Title: JSONP & exceptions with Spring web 4
 Date: 2017-05-19 12:05
-Tags: lang:en, java, spring, jsonp, exception, javascript, callback
+Tags: lang:en, java, spring, jsonp, exception, javascript, callback, prog
 Slug: properly-handling-exceptions
 ---
 Since Spring 4.1, it is really easy to enable [JSONP](https://en.wikipedia.org/wiki/JSONP) on an API controller:

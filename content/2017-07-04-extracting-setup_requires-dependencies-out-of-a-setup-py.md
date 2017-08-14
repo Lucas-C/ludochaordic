@@ -1,6 +1,6 @@
 Title: Extracting setup_requires dependencies out of a setup.py
 Date: 2017-07-04 12:07
-Tags: lang:en, python, setup-py, dependencies
+Tags: lang:en, python, setup-py, dependencies, prog
 Slug: extracting-setup_requires-dependencies-out-of-a-setup-py
 ---
 I ended up not using this code, but it may be useful to others:

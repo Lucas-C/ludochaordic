@@ -72,5 +72,8 @@ stopserver:
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	sed -n '/<ul class="mg-tagcloud">/,/<\/ul>/p' $(OUTPUTDIR)/tagcloud.html > tagcloud.html.tmp
+	sed -i '/<!-- tagcloud -->/ r tagcloud.html.tmp' $(OUTPUTDIR)/pages/edito.html
+	$(RM) tagcloud.html.tmp
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish

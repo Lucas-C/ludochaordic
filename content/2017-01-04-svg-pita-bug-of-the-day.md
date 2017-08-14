@@ -1,6 +1,6 @@
 Title: svg PITA bug of the day
 Date: 2017-01-04 14:01
-Tags: lang:en, bug, html, svg, href, codepen, angry, angularjs
+Tags: lang:en, bug, html, svg, href, codepen, angry, angularjs, prog
 Slug: svg-pita-bug-of-the-day
 ---
 Today I've been struggling to understand why this does not work in Firefox, but is OK in Chrome:

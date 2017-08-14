@@ -1,6 +1,6 @@
 Title: Bonjour, monde !
 Date: 2014-07-16 13:07
-Tags: lang:fr, ghost-tag, license, backup, project, start, theme, isso, comments
+Tags: lang:fr, ghost-tag, license, backup, project, start, theme, isso, comments, prog
 Slug: bonjour-monde
 ---
 Ça y est, c'est ouvert !

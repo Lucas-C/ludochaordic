@@ -1,6 +1,6 @@
 Title: Quickly finding where you PHP script is stuck
 Date: 2015-09-03 10:09
-Tags: lang:en, gdb, php, stacktrace, stuck, wait, stdin, drush, unicode
+Tags: lang:en, gdb, php, stacktrace, stuck, wait, stdin, drush, unicode, prog
 Slug: quickly-finding-where-you-php-script-is-stuck
 ---
 First, install PHP debugging extensions for `gdb`, for example:

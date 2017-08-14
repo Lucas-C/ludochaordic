@@ -1,6 +1,6 @@
 Title: Solving BeanCreationException: Error creating bean with name 'entityManagerFactory'
 Date: 2015-06-03 12:06
-Tags: lang:en, springboot, bean, maven, version, exception, hibernate
+Tags: lang:en, springboot, bean, maven, version, exception, hibernate, prog
 Slug: solving-beancreationexception-error-creating-bean-with-name-entitymanagerfactory
 ---
 I've lost quite some time on this error recently :

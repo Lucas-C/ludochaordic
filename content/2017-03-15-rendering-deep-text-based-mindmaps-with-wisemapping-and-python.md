@@ -1,6 +1,6 @@
 Title: Rendering deep text-based mindmaps with WiseMapping and Python
 Date: 2017-03-15 20:03
-Tags: lang:en, python, mindmap, javascript, bundle, framasoft, markdown
+Tags: lang:en, python, mindmap, javascript, bundle, framasoft, markdown, prog
 Slug: rendering-deep-text-based-mindmaps-with-wisemapping-and-python
 ---
 In this blog post, I'm going to demonstrate how to reuse [WiseMapping](http://wisemapping.com) HTML+JS rendering engine to easily visualize...

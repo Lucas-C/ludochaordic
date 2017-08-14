@@ -1,6 +1,6 @@
 Title: Command history in a Python 3 virtualenv
 Date: 2016-06-30 11:06
-Tags: lang:en, bash, python, history, virtualenv, bug, pew
+Tags: lang:en, bash, python, history, virtualenv, bug, pew, prog
 Slug: command-history-in-a-python-3-virtualenv
 ---
 Due to a [long standing bug](https://github.com/pypa/virtualenv/issues/355), no history file will be kept of the commands you enter in an interactive shell when using a Python 3 virtualenv.

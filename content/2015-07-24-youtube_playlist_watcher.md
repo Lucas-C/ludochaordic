@@ -1,6 +1,6 @@
 Title: youtube_playlist_watcher
 Date: 2015-07-24 11:07
-Tags: lang:fr, python, youtube, playlist, cron, email, json
+Tags: lang:fr, python, youtube, playlist, cron, email, json, prog
 Slug: youtube_playlist_watcher
 ---
 Depuis plusieurs années, je ruminais contre Youtube: chaque fois qu'une vidéo est supprimée d'une playlist (parce que l'utilisateur qui l'avait uploadé l'a supprimé par exemple), son nom n'est même pas conservé, seul un lien mort persiste dans la liste.

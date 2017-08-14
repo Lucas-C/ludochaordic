@@ -1,6 +1,6 @@
 Title: A Python iterator to list all UTF8 characters
 Date: 2016-04-14 12:04
-Tags: lang:en, python, iteration, utf8, character, newline, line-feed, ascii, code-point
+Tags: lang:en, python, iteration, utf8, character, newline, line-feed, ascii, code-point, prog
 Slug: a-python-iterator-to-list-all-utf8-characters
 ---
 Last week, I made up a basic TCP server in Python, to receive log lines. To split log lines, I used the ascii line feed ascii character : \n aka 0xa in hexadecimal.

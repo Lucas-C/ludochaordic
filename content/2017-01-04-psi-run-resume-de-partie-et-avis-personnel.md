@@ -1,6 +1,6 @@
 Title: Psi*Run : résumé de partie et avis personnel
 Date: 2017-01-04 19:01
-Tags: lang:fr, jdr, psyrun, rpg-bonhomme, narration-collective, compte-rendu, mecaniques-de-jeu
+Tags: lang:fr, jdr, psyrun, rpg-bonhomme, narration-collective, compte-rendu, mecaniques-de-jeu, jeux
 Slug: psi-run-resume-de-partie-et-avis-personnel
 ---
 <img src="/lucas/jdr/psirun/couverture.png">

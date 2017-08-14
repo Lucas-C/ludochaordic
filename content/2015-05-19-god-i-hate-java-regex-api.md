@@ -1,6 +1,6 @@
 Title: [FR] God I hate Java Regex API
 Date: 2015-05-19 16:05
-Tags: lang:en, python, java, regexp, api, matcher
+Tags: lang:en, python, java, regexp, api, matcher, prog
 Slug: god-i-hate-java-regex-api
 ---
 Pourquoi, mais pourquoi faut-il **3 lignes** en Java pour juste extraire un groupe d'une expression régulière qui "match" ???

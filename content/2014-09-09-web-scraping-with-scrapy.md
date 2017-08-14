@@ -1,6 +1,6 @@
 Title: [EN] Web scraping with Scrapy
 Date: 2014-09-09 11:09
-Tags: lang:en, script, grep, scrapy, python, web-scraping, rpg, image, goblin, dict, wget
+Tags: lang:en, script, grep, scrapy, python, web-scraping, rpg, image, goblin, dict, wget, prog
 Slug: web-scraping-with-scrapy
 ---
 As a tabletop RPG game master, whenever I need to imagine a universe background for a scenario, I need illustrations to picture myself the atmosphere, and get some inspiration.

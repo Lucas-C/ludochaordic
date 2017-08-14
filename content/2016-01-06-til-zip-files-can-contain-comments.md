@@ -1,11 +1,11 @@
 Title: TIL zip files can contain comments
 Date: 2016-01-08 12:01
-Tags: lang:en, python, jq, json, zip, pythonchallenge
-Slug: 2
+Tags: lang:en, python, jq, json, zip, pythonchallenge, prog
+Slug: til-zip-files-can-contain-comments
 ---
 ... and the standard UNIX tool `zipinfo` cannot display them !
 
-![](http://www.pythonchallenge.com/pc/def/channel.jpg)
+![](/lucas/blog/content/images/2016/01/pythonchallenge-channel.jpg)
 
 So here is Python one-liner to extract them, and other useful meta informations:
 

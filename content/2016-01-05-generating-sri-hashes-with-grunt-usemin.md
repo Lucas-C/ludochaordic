@@ -1,6 +1,6 @@
 Title: Generating SRI hashes with grunt-usemin
 Date: 2016-01-05 12:01
-Tags: lang:en, javascript, node-js, grunt, sri, integrity, cors, yeoman, usemin, execsync, nominjs, css, uglify
+Tags: lang:en, javascript, node-js, grunt, sri, integrity, cors, yeoman, usemin, execsync, nominjs, css, uglify, prog
 Slug: generating-sri-hashes-with-grunt-usemin
 ---
 I'm not really crazy about Yeoman's [grunt-usemin](//github.com/yeoman/grunt-usemin) : I find painful the way it enforces a unique pipeline, with its preliminary `useminPrepare` task and `:generated` targets.

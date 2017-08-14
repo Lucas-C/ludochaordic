@@ -1,6 +1,6 @@
 Title: Mimicking testling HTML rendering of TAP javascript tests
 Date: 2014-11-26 18:11
-Tags: lang:en, python, html, javascript, browserify, testling, tap, makefile, perl, bundle, hack, simpleserver, webbrowser, unit-testing
+Tags: lang:en, python, html, javascript, browserify, testling, tap, makefile, perl, bundle, hack, simpleserver, webbrowser, unit-testing, prog
 Slug: javascript-testing-adapting-testling-in-browser-tap-rendering
 ---
 This post is only relevant to you if you use `browserify`. For a good introduction to this powerful Javascript bundling tool, check [this doc](//github.com/substack/browserify-handbook).

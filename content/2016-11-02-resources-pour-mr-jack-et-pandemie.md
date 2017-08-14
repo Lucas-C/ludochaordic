@@ -1,6 +1,6 @@
 Title: Resources pour Mr Jack et Pandémie
 Date: 2016-11-02 19:11
-Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, forum, asymetrique, equilibrage
+Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, forum, asymetrique, equilibrage, jeux
 Slug: resources-pour-mr-jack-et-pandemie
 ---
 ![](/lucas/blog/content/images/2016/11/P1040810_small.JPG)

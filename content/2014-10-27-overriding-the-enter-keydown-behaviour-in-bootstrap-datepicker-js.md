@@ -1,6 +1,6 @@
 Title: Overriding the <Enter> keydown behaviour in bootstrap-datepicker.js
 Date: 2014-10-27 22:10
-Tags: lang:en, javascript, jquerry, date, picker, event, keydown, enter, xpath, idempotent
+Tags: lang:en, javascript, jquerry, date, picker, event, keydown, enter, xpath, idempotent, prog
 Slug: overriding-the-enter-keydown-behaviour-in-bootstrap-datepicker-js
 ---
 I've got many post ideas in the past two weeks, but none of them made it to the blog yet. While those scribbles are maturing, there is a short hack for the wonderful [datepicker](//eternicode.github.io/bootstrap-datepicker) pluging for [bootstrap.js](http://getbootstrap.com).

@@ -1,6 +1,6 @@
 Title: Replicating PHPSESSID and srctoken session authentication with mitmproxy
 Date: 2014-12-11 09:12
-Tags: lang:en, python, proxy, php, session, mitmproxy, srctoken, phpsessid, network, traffic
+Tags: lang:en, python, proxy, php, session, mitmproxy, srctoken, phpsessid, network, traffic, prog
 Slug: replicating-phpsessid-and-srctoken-session-authentication-with-mitmproxy
 ---
 A month ago, I wanted to automate queries to a website that is using the PHPSESSID cookie to keep track of sessions. I struggled a lot and couldn't find any documentation covering the behaviour I was observing. But yesterday I finally found a solution !
