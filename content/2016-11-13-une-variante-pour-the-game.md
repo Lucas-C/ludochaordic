@@ -10,7 +10,7 @@ Slug: une-variante-pour-the-game
 Le principe est d'ajouter une dimension tactique en rajoutant des jetons au jeu (n'importe quels pions feront l'affaire) :
 
 - la main de chaque joueur est réduite d'une carte
-- la partie débute avec 2 jetons par joueur et aucun au centre de la table 
+- la partie débute avec 2 jetons par joueur et aucun au centre de la table
 - à son tour, un joueur peut choisir de jouer normalement ou bien de ne jouer qu'**une** carte en plaçant au centre de la table **un de ses jeton**; ou bien encore il peut passer entièrement son tour en y plaçant **deux jetons**
 - lorsqu'un joueur pose une carte en effectuant **un saut**, **il récupère immédiatement un jeton** s'il y en a au centre de la table
 

@@ -31,14 +31,14 @@ print = /bin/echo -e "\x1b[36m\#\# $(1)\x1b[0m"
 .PHONY: build
 
 build: $(OUT_FILE)
-	@:
+    @:
 
 $(OUT_FILE): $(SRC_FILES)
-	@$(call print,"Bob is starting building")
-	$(COMPILER) $(SRC_FILES)
-    
+    @$(call print,"Bob is starting building")
+    $(COMPILER) $(SRC_FILES)
+
 help:
-	@$(call print,"build: Guess what ? Bob's gonna build !")
+    @$(call print,"build: Guess what ? Bob's gonna build !")
 
 ```
 
@@ -46,12 +46,12 @@ Ma première approche fut d'essayer de définir une variable d'environnement dan
 
 ```
 build: $(SRC_FILES)
-	@$(call print,"Bob is starting building")
-	$(_)$(COMPILER) $(SRC_FILES)
+    @$(call print,"Bob is starting building")
+    $(_)$(COMPILER) $(SRC_FILES)
 
 help: _=\#
 help: $(wordlist 2,3,$(MAKECMDGOALS))
-	@:
+    @:
 ```
 
 Comme ça me semblait excessivement complexe et un peu fastidieux de préfixer toutes les commandes par `$(_)`, j'ai envisagé une autre solution.
@@ -60,7 +60,7 @@ J'ai réalisé qu'un simple `grep -A1 $targetname Makefile` était suffisant pou
 
 ```
 help:
-	@grep -A1 $(wordlist 2,3,$(MAKECMDGOALS)) Makefile | tail -n 1
+    @grep -A1 $(wordlist 2,3,$(MAKECMDGOALS)) Makefile | tail -n 1
 ```
 
 Les inconvénients ? Pas de couleurs, il fallait encore supprimer le hideux préfixe `@$(call print` de la ligne extraite, et cela forçait à rajouter des messages aux cibles "façades" comme `build`.
@@ -90,12 +90,12 @@ Je vais essayer de disséquer ce qui me passe par la tête lorsque je perds plus
 Ces cinq points sont des exemples parfaits de biais cognitifs. Je ne suis pas le premier développeur à penser qu'[il est important de savoir les reconnaître](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) :
 
 1. **"maintenant ou jamais"** : il y a deux aspects ici:
-	* on surévalue l'importance d'une tâche mineure : est-ce si grave de ne pas la réaliser ? Lorsqu'on a la tête dans le guidon, on met de côté l'importance d'accomplir l'objectif global : quel que soit son urgence et la satisfaction personnelle bien plus grande qu'on en retirera, on ne voit qu'à court terme le défi technique qui nous fait face.
+    * on surévalue l'importance d'une tâche mineure : est-ce si grave de ne pas la réaliser ? Lorsqu'on a la tête dans le guidon, on met de côté l'importance d'accomplir l'objectif global : quel que soit son urgence et la satisfaction personnelle bien plus grande qu'on en retirera, on ne voit qu'à court terme le défi technique qui nous fait face.
 Pour s'en prévenir, une règle d'or: **YAGNI**, [You Ain't Gonna Need It](//fr.wikipedia.org/wiki/YAGNI). Si cette tâche n'est **pas nécessaire** à la réalisation de l'objectif, **ne perdez pas votre temps** avec !
-	* on a peur d'oublier, de ne pas avoir le temps plus tard. Pour éviter ça, rien de plus simple : **notez-la dans une liste de tâches annexes**. Plus tard, avec le recul nécessaire, vous pourrez relire cette liste et reprioriser les plus urgentes. C'est aussi un très bon moyen de l'exorciser: la savoir notée quelque part me donne la tranquilité d'esprit nécessaire pour la chasser de mes pensées. Salvatore Sanfilippo, l'auteur de [Redis](http://redis.io), a écrit un très intéressant article sur ce sujet : ["la programmation par report de tâche"](http://antirez.com/news/51).
+    * on a peur d'oublier, de ne pas avoir le temps plus tard. Pour éviter ça, rien de plus simple : **notez-la dans une liste de tâches annexes**. Plus tard, avec le recul nécessaire, vous pourrez relire cette liste et reprioriser les plus urgentes. C'est aussi un très bon moyen de l'exorciser: la savoir notée quelque part me donne la tranquilité d'esprit nécessaire pour la chasser de mes pensées. Salvatore Sanfilippo, l'auteur de [Redis](http://redis.io), a écrit un très intéressant article sur ce sujet : ["la programmation par report de tâche"](http://antirez.com/news/51).
 
 2. **"ça ne prendra que 10min"** :
-	* ce biais cognitif là est dénommé _"[Planning fallacy](//en.wikipedia.org/wiki/Planning_fallacy)"_ chez nos confrères anglophones. Estimer la durée d'une tâche, c'est difficile. Et de manière générale, on a tendance à sous-estimer.
+    * ce biais cognitif là est dénommé _"[Planning fallacy](//en.wikipedia.org/wiki/Planning_fallacy)"_ chez nos confrères anglophones. Estimer la durée d'une tâche, c'est difficile. Et de manière générale, on a tendance à sous-estimer.
     * si on ne fait pas attention au temps qui passe, 10min deviennent facilement 60.
     * ce schéma peut se répéter à la prochaine difficulté rencontrée, et entraîner une succession de "tâches digressives" façon boule de neige.
 <img src="images/2014/Dec/TeteDansLeGuidon_spiral.png" title="Réalisé avec zwibbler.com" alt="Spiral of side-tasks digression"/>
@@ -111,7 +111,7 @@ En pratique : deux douzaines de réponses détaillées sur _StackOverflow_ ont b
 Il n'est pas utile de connaître tous les _hacks_ du monde, parfois mieux vaut réfléchir par soi-même à une solution plus simple.
 <img src="images/2014/Dec/A_mindless_worker_is_a_happy_worker.jpg" alt="Futurama: shut up and do your job !">
 
-5. **"autant faire une solution générique"**  : là, c'est l'_[Over-engineering](//en.wikipedia.org/wiki/Overengineering)_ qui guète. 
+5. **"autant faire une solution générique"**  : là, c'est l'_[Over-engineering](//en.wikipedia.org/wiki/Overengineering)_ qui guète.
 La solution la plus simple et rapide est parfois la meilleure, pas besoin de tomber dans l'écueil de la solution inutilement générique.
 Autrement dit : KISS, [Keep It Simple, Stupid](//fr.wikipedia.org/wiki/Principe_KISS) !
 Et puis YAGNI aussi !
@@ -132,21 +132,21 @@ Mon humble avis:
 
 ### Epilogue
 
-Quant au Makefile, j'ai opté pour le strict minimum : 
+Quant au Makefile, j'ai opté pour le strict minimum :
 
 ```
 build: $(OUT_FILE)
-	@:
+    @:
 
 $(OUT_FILE): $(SRC_FILES)
-	# Bob is starting building
-	$(COMPILER) $(SRC_FILES)
-    
+    # Bob is starting building
+    $(COMPILER) $(SRC_FILES)
+
 help:
-	# make -n target           # --dry-run : get targets description
-	# make -B target           # --always-make : force execution of targets commands, even if dependencies are satisfied
-	# make DEBUG=0             # variable override
-	# make --debug[=abijmv]    # enable variants of make verbose output
+    # make -n target           # --dry-run : get targets description
+    # make -B target           # --always-make : force execution of targets commands, even if dependencies are satisfied
+    # make DEBUG=0             # variable override
+    # make --debug[=abijmv]    # enable variants of make verbose output
 ```
 
 Pas de `make help $targetname`: juste de simples commentaires affichés à l'exécution et sur un `make --dry-run $targetname`.
@@ -155,7 +155,7 @@ Au revoir également l'appel au `print` coloré : la coloration se fera désorma
 
 ```
 .........
-# comments 
+# comments
 regexp=^#.*
 colours=green
 count=stop

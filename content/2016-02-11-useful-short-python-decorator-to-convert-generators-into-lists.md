@@ -29,7 +29,7 @@ But this isn't very good in terms of code readibility & maintainability: if one 
 ```
 selected_vowels = list_vowels_before('a')
 if selected_vowels:
-	print('AMAZING: there are vowels BEFORE the letter "a" !!')
+    print('AMAZING: there are vowels BEFORE the letter "a" !!')
 ```
 
 In case you want to use the generators syntax, but ensure that a function always return a list, here is a simple recipe you can use:
@@ -37,9 +37,9 @@ In case you want to use the generators syntax, but ensure that a function always
 ```
 # This @decorator is totally optional, but it is a recommended best practice
 try:  # We try to import GrahamDumpleton/wrapt if available
-	from wrapt import decorator
+    from wrapt import decorator
 except ImportError:  # fallback to the standard, less complete equivalent
-	from functools import wraps as decorator
+    from functools import wraps as decorator
 
 @decorator
 def aslist(generator):
@@ -57,8 +57,8 @@ def list_vowels_before(char):
         if vowel >= char:
             return
         yield vowel
-        
+
 selected_vowels = list_vowels_before('a')
 if selected_vowels:
-	print('This will never be printed ;)')
+    print('This will never be printed ;)')
 ```

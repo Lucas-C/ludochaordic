@@ -36,7 +36,7 @@ def trace_exec_time(end_callback=None, **kwargs):
             @wraps(func)
             def wrapper(*func_args, **func_kwargs):
                 with benchmark(func_args=func_args, func_kwargs=func_kwargs,
-                		       func_name=func.__name__, **kwargs):
+                               func_name=func.__name__, **kwargs):
                     return func(*func_args, **func_kwargs)
             return wrapper
         return decorator
@@ -48,14 +48,14 @@ The triple args/kwargs variable shadowing is ugly, but that keeps the code short
 
 There are some usage examples:
 
-	@trace_exec_time(end_callback=print)
+    @trace_exec_time(end_callback=print)
     def add(a, b):
-    	return a + b
-    
+        return a + b
+
     add(2, b=3)  # -> {'func_kwargs': {'b': 3}, 'exec_duration': 1.9-06, 'func_args': (2,), 'func_name': 'add'}
 
     with trace_exec_time(name='Heavy calculation') as report:
-    	result = big_compute(list_of_things)
+        result = big_compute(list_of_things)
     print(report['name'], "%0.3fs" % report['exec_duration'])  # -> Heavy calculation 10.576s
 
 __[UPDATED] on 2016/08/04__
@@ -80,7 +80,7 @@ def compute_timing_stats(timings_in_ms):
         'pstdev': statistics.pstdev(timings_in_ms),
         'sum': total
    }
-   
+
 def percentile(sorted_data, percent):
     """
     Find the percentile of a list of values.

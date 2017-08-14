@@ -3,7 +3,7 @@ Date: 2014-10-03 23:10
 Tags: lang:fr, street-art, grenoble, sheep, poesie
 Slug: thesheepest-grenoble-street-art
 ---
-<img src="images/2014/Oct/thesheepest_windowhead.jpg" alt="Un mouton à la fenêtre" width="200" style="display:block;"> 
+<img src="images/2014/Oct/thesheepest_windowhead.jpg" alt="Un mouton à la fenêtre" width="200" style="display:block;">
 
 Très court post ce soir, juste pour mentionner cet artiste qui me tient à coeur. Pourquoi ? Parce que ses moutons narquois ont contribué à me faire tomber amoureux de Grenoble. De passage là-bas la semaine dernière, ces stickers laineux dissimulés un peu partout en ville ont été ma madeleine nostalgique le temps de quelques trajets en tram.
 

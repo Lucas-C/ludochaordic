@@ -35,28 +35,28 @@ print = /bin/echo -e "\x1b[36m\#\# $(1)\x1b[0m"
 tests: $(TESTS_HTML)
 
 $(TESTS_HTML): $(HTML_INDEX) $(TESTS_BUNDLE) $(PRELUDE)
-	@$(call print,'Building the HTML file for rendering tests in a browser')
-	perl -p -e "s/$(OUT_BUNDLE)/$(TESTS_BUNDLE)/ && print '\
-		<pre id=\"__testling_output\">\
+    @$(call print,'Building the HTML file for rendering tests in a browser')
+    perl -p -e "s/$(OUT_BUNDLE)/$(TESTS_BUNDLE)/ && print '\
+        <pre id=\"__testling_output\">\
         </pre>\
-		<script type=\"text/javascript\" src=\"$(PRELUDE)\"defer>\
+        <script type=\"text/javascript\" src=\"$(PRELUDE)\"defer>\
         </script>\
-		'" $(HTML_INDEX) > $(TESTS_HTML)
+        '" $(HTML_INDEX) > $(TESTS_HTML)
 
 $(TESTS_BUNDLE): $(TESTS_FILES)
-	@$(call print,'Generating JS tests bundle')
-	browserify $(TESTS_FILES) > $(TESTS_BUNDLE)
+    @$(call print,'Generating JS tests bundle')
+    browserify $(TESTS_FILES) > $(TESTS_BUNDLE)
 
 $(PRELUDE):
-	@$(call print,'Retrieving & browserifying testling prelude')
-	wget https://raw.githubusercontent.com/substack/testling/master/browser/prelude.js
-	browserify prelude.js > $(PRELUDE)
-	rm prelude.js
-    
+    @$(call print,'Retrieving & browserifying testling prelude')
+    wget https://raw.githubusercontent.com/substack/testling/master/browser/prelude.js
+    browserify prelude.js > $(PRELUDE)
+    rm prelude.js
+
 view-tests: $(TESTS_HTML)
-	@$(call print,'Creating a local server & opening the tests HTML page in a local browser')
-	python -m webbrowser http://localhost:8080/$(TESTS_HTML)
-	python -m SimpleHTTPServer 8080
+    @$(call print,'Creating a local server & opening the tests HTML page in a local browser')
+    python -m webbrowser http://localhost:8080/$(TESTS_HTML)
+    python -m SimpleHTTPServer 8080
 ```
 
 Basically, here is what happens when running `make tests` :
@@ -67,5 +67,5 @@ Basically, here is what happens when running `make tests` :
     - one including the _tests-bundle.js_ script
     - one including the _browserified\_testling\_prelude.js_ script
     - one defining a `<pre>` block where the tests output will be displayed
-    
+
 Et voilà !

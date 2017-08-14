@@ -45,7 +45,7 @@ Then you can use it as an `if` condition in your templates :
 ```
 {% load hasattribute %}
 {% if user|hasattribute:'homeaddress' %}
-	{{ user.homeaddress }}
+    {{ user.homeaddress }}
 {% endif %}
 ```
 <br><br>

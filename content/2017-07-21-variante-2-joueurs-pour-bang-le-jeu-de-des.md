@@ -45,7 +45,7 @@ Les combinaisons possibles changent cependant:
 
 - <img src="images/2017/07/bang-2p-variant-dynamite.png" class="dice-face"> <img src="images/2017/07/bang-2p-variant-dynamite.png" class="dice-face"> <img src="images/2017/07/bang-2p-variant-dynamite.png" class="dice-face"> : de la même manière que dans le jeu original, les dynamites ne peuvent être relancées, et obtenir 3 dynamites signifie **perdre 1 carte planque**, au choix
 
-- <img src="images/2017/07/bang-2p-variant-shot1.png" class="dice-face"> <img src="images/2017/07/bang-2p-variant-shot2.png" class="dice-face"> : les tirs vous permettent, **en défaussant un jeton munition**, 
+- <img src="images/2017/07/bang-2p-variant-shot1.png" class="dice-face"> <img src="images/2017/07/bang-2p-variant-shot2.png" class="dice-face"> : les tirs vous permettent, **en défaussant un jeton munition**,
 de détruire une carte planque de l'adversaire, sur la ligne la plus proche de vous (1) ou la plus loin (2)
 
 - <img src="images/2017/07/bang-2p-variant-arrow.png" class="dice-face"> <img src="images/2017/07/bang-2p-variant-arrow.png" class="dice-face"> : vous plantez ces 2 flèches dans une planche pour la fixer devant une fenêtre, et **récupérez ainsi 1 carte planque dans une colonne où il vous en reste encore une**

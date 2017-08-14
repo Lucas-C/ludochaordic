@@ -5,9 +5,9 @@ Slug: display-chuck-norris-facts-when-you-git-pull
 ---
 ...in just one command :
 
-	cd path/to/your/git/repo
-    
-	cat <<EOF >.git/hooks/pre-rebase
+    cd path/to/your/git/repo
+
+    cat <<EOF >.git/hooks/pre-rebase
     #!/bin/sh
     echo -n \$'\x1b[36m' # start coloration (cyan)
     curl -s https://raw.githubusercontent.com/jenkinsci/chucknorris-plugin/master/src/main/java/hudson/plugins/chucknorris/FactGenerator.java | sed '1,/FACTS = {/d;s/^ \+"//;s/"..\?$//;/^$/,$d' | shuf -n 1

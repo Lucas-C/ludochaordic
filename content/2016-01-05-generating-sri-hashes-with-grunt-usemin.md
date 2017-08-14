@@ -15,7 +15,7 @@ var execSync = require('child_process').execSync;
 var compute_sri_hash = function (filename, algo) {
     algo = algo || 'sha256';
     return algo + '-' + execSync('openssl dgst -' + algo + ' -binary ' + filename
-    	    + ' | openssl enc -base64 -A');
+            + ' | openssl enc -base64 -A');
 };
 
 module.exports = function (grunt) {

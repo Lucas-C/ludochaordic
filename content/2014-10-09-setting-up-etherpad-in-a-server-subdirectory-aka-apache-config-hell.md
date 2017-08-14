@@ -29,9 +29,9 @@ After hours of googling (more precisely [duckduckgoing](//duckduckgo.com)) and a
 
 First, assuming you have an Etherpad node.js process ready & listening on port 9001, you'll have to configure Apache to use mod\_proxy\_html:
 
-	sudo apt-get install libapache2-mod-proxy-html libxml2-dev
+    sudo apt-get install libapache2-mod-proxy-html libxml2-dev
     sudo a2enmod proxy_html xml2enc
-    
+
 Then, there is the magic config:
 
     <Location /pad>

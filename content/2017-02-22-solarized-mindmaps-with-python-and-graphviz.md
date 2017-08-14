@@ -38,7 +38,7 @@ Another, deeper, example:
         contains nothing but chocolate liquor
     Cocoa Powder
         cocoa solids remain when most of the pressed into liquor.
-    Chocolate liquor 
+    Chocolate liquor
         center(nib) of the cocoa bean, ground until liquifies, no alcohol.
     Milk Chocolate-
         contains 10% chocolate Liquor, most commonly eaten.
@@ -47,7 +47,7 @@ Another, deeper, example:
     Dutch-Pressed Cocoa
         has a darker color but milder chocolate flavor.
     Bittersweet Chocolate
-        the darkest of eating chocolate liquor, has the highest %  
+        the darkest of eating chocolate liquor, has the highest %
         may contain extra cocoa butter
     Semi Sweet Chocolate
         often referred to as dark chocolate, 35-45% Chocolate liquor
@@ -60,15 +60,15 @@ A last one:
     What is it?
         Some may know it as 'The Black Death'
         It is a disease that once hit Europe in the Middle Ages
-        In just two years, 25 million people died of the plague. In ten years, the plague had killed over 1/3 of Europe's population. 
+        In just two years, 25 million people died of the plague. In ten years, the plague had killed over 1/3 of Europe's population.
     Religious beliefs
         Many people had thought that it was God punishing them for being wicked.
     How did it spread?
         Infected rats carried the disease.
-        The Bubonic Plague started in Asia and then struck Africa and Europe.        
+        The Bubonic Plague started in Asia and then struck Africa and Europe.
     How did people react to this disease?
         People locked their doors to protect themselves from the awful disease.
-        Others had burnt the hours filled with the dead and the sky was filled with ashes.    
+        Others had burnt the hours filled with the dead and the sky was filled with ashes.
     Sarah Bernal 8AE
     1348-1349
 </pre>

@@ -51,10 +51,10 @@ class HtmlDirectoryCrawler(scrapy.Spider):
                 yield FileUrl(url=child_url)
     def closed(self, reason):
         ordered_ext_counter = OrderedDict(sorted(
-        		self.ext_counter.iteritems(),
-    			key=lambda (k,v): (v,k)))
+                self.ext_counter.iteritems(),
+                key=lambda (k,v): (v,k)))
         self.log("Stats on extensions found:\n{}".format(
-        		json.dumps(ordered_ext_counter, indent=4)),
+                json.dumps(ordered_ext_counter, indent=4)),
                 level=scrapy.log.INFO)
 ```
 
@@ -72,23 +72,23 @@ The following command runs the scraper and dumps its output in a file named _crp
 2014-09-09 13:50:43+0200 [html_dir_crawler.pyc] INFO: Closing spider (finished)
 2014-09-09 13:50:43+0200 [html_dir_crawler.pyc] INFO: Stats on extensions found:
 ...
-            "PNG": 60, 
-            "URL": 69, 
-            "jpe": 70, 
-            "pdf": 134, 
-            "html": 162, 
-            "FCW": 194, 
-            "zip": 216, 
-            "BMP": 235, 
-            "htm": 419, 
-            "psd": 608, 
-            "bmp": 657, 
-            "jpeg": 854, 
-            "fcw": 892, 
-            "db": 1051, 
-            "JPG": 1192, 
-            "gif": 1872, 
-            "png": 2989, 
+            "PNG": 60,
+            "URL": 69,
+            "jpe": 70,
+            "pdf": 134,
+            "html": 162,
+            "FCW": 194,
+            "zip": 216,
+            "BMP": 235,
+            "htm": 419,
+            "psd": 608,
+            "bmp": 657,
+            "jpeg": 854,
+            "fcw": 892,
+            "db": 1051,
+            "JPG": 1192,
+            "gif": 1872,
+            "png": 2989,
             "jpg": 27162
         }
 2014-09-09 13:50:43+0200 [html_dir_crawler.pyc] INFO: Stored json feed (39340 items) in: crpp0001.uqtr.ca.json

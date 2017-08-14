@@ -21,7 +21,7 @@ pv -btr /dev/zero | socat - tcp:$host:7070 # on the sending server side
 # Monitor progress of a command
 gzip access.log | pv > access.log.gz
 
-# Copy a file and watch its progress 
+# Copy a file and watch its progress
 pv sourcefile > destfile
 ```
 

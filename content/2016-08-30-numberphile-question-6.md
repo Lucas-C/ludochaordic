@@ -16,7 +16,7 @@ Alright, teenage mathematicians that tackled this enigma were only given an hour
 
 The problem was given in the International Mathematical Olympiads of 1988 in this form:
 
-\`"Given " (a, b) in NN² " such as " ab+1 " divides " a²+b² ","\`  
+\`"Given " (a, b) in NN² " such as " ab+1 " divides " a²+b² ","\`
 \`"prove that " (a²+b²)/(ab+1) " is a square."\`
 
 As soon as I saw the question, I stopped the video and started scribbling.
@@ -59,9 +59,9 @@ Now lets prove this.
 
 <hr>
 
-\`"Given " (a, b) in NN² " such as " ab+1 " divides " a²+b² " (1),"\`  
-\`"Lets define " g = gcd(a, b) "."\`  
-\`g² " divides " a² " and " b² " and hence also divides " a² + b² "."\`  
-\`"Then given (1) :" EE K in NN " such as " a²+b² = Kg²(ab+1) "."\`  
-\`"By definition of " g " : " gcd(g, ab + 1) = 1 " and hence " gcd(g², ab + 1) = 1 "."\`  
+\`"Given " (a, b) in NN² " such as " ab+1 " divides " a²+b² " (1),"\`
+\`"Lets define " g = gcd(a, b) "."\`
+\`g² " divides " a² " and " b² " and hence also divides " a² + b² "."\`
+\`"Then given (1) :" EE K in NN " such as " a²+b² = Kg²(ab+1) "."\`
+\`"By definition of " g " : " gcd(g, ab + 1) = 1 " and hence " gcd(g², ab + 1) = 1 "."\`
 \`"Consequently " K " divides " a²+b² "(2) ."\`

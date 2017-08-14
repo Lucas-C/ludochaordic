@@ -28,7 +28,7 @@ Et il est important de les aider:
 
 Voici donc quelques pistes pour leur faire un don, de temps ou d'argent :
 
-- trouvez l'organisme dédié à supporter **votre langage de programmation favori**, par exemple la [Python Software Foundation](//www.python.org/psf/donations/). 
+- trouvez l'organisme dédié à supporter **votre langage de programmation favori**, par exemple la [Python Software Foundation](//www.python.org/psf/donations/).
 
 - vous utilisez **Linux** ? Vous avez probablement déjà tapé quelques commandes dans un terminal console : [`ls`, `cp`](http://en.wikipedia.org/wiki/GNU_Core_Utilities) ? Et peut être aussi utilisé `Gimp`, `Pidgin`, `bash`, `emacs`, `gdb`, `less`, `make`, `screen`, `sed`, `gzip` ou `tar` ? Tous ces programmes sont développés et maintenus par le projet [GNU](http://www.gnu.org), sponsorisé par la [Free Software Fundation](http://www.fsf.org/). La FSF accepte les donations, vous pouvez trouver les détails de leurs actions [ici](http://www.fsf.org/campaigns/), et il existe une [branche européenne](//fsfe.org/work.fr.html), mais vous pouvez aussi [contribuer de plein d'autres façons](http://www.gnu.org/server/takeaction.html). Enfin, si vous voulez devenir le Jango Fett du logiciel libre (ou son sponsor), GNU [suggère](http://www.gnu.org/software/hurd/donate.html) le système de primes de la [FOSS factory](http://www.fossfactory.org).
 

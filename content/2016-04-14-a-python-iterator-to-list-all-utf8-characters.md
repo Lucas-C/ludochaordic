@@ -9,12 +9,12 @@ But then I wondered : could this byte appear elsewhere in the UTF8-encoded strin
 
 To find out, I wrote a [small Python script](//github.com/Lucas-C/linux_configuration/blob/master/languages/python/utf8_iterator.py) that list all possible UTF8 characters. Here is its output:
 ```
-$ time python3 utf8_iterator.py 
+$ time python3 utf8_iterator.py
 4-bytes-max UTF8 potential characters count 2164864
 4-bytes-max UTF8 decodable characters count 1112064
 UTF8 characters containing the 0x0a newline byte: [b'\n']
 
-real	0m8.003s
+real    0m8.003s
 ```
 
 So, there is no other UTF8 character containing the 0x0a byte !

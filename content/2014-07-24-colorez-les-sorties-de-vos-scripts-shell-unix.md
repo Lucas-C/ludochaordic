@@ -60,7 +60,7 @@ echo "$(tput bold)$(tput smul)$(tput setab 6)Hello World$(tput sgr0)"
 Dernière astuce: la commande `aha` permet de convertir les couleurs ANSI en HTML !
 
 ```
-# echo "${_BOLD}${_UNDER}${_ICYAN}Hello World${_END}" | aha --no-header       
+# echo "${_BOLD}${_UNDER}${_ICYAN}Hello World${_END}" | aha --no-header
 <span style="font-weight:bold;"></span><span style="text-decoration:underline;font-weight:bold;"></span><span style="background-color:teal;text-decoration:underline;font-weight:bold;">Hello World</span>
 ```
 
@@ -72,7 +72,7 @@ Dernière astuce: la commande `aha` permet de convertir les couleurs ANSI en HTM
 cyan = /bin/echo -e "\x1b[36m\#\# $1\x1b[0m"
 
 all:
-	@$(call cyan,"Hello world !")
+    @$(call cyan,"Hello world !")
 ```
 
 <br><hr><br>

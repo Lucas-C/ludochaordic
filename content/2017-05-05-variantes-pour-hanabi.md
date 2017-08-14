@@ -41,7 +41,7 @@ Règles modifiées :
   * la carte "DEBUT" peut remplacer un "1" ou un "5" en début de pile. Un "2" ou un "4" peuvent ensuite être joués dessus, puis l'ordre des cartes sera fixé (croissant ou décroissant). Une carte "DEBUT" jouée alors que la pile correspondante est déjà commencé vous fait prendre un jeton rouge.
   * on ne peut donner d'indice de valeur sur les cartes "DEBUT", uniquement des indices de couleur
   * finir une pile de 5 cartes permet bien toujours de récupérer un indice
-    
+
 - **Personnages** _(non encore testé)_ Source: [BoardGameGeek](https://boardgamegeek.com/thread/1688194/hanabi-characters-variant). Cette variante consiste en une vingtaine de cartes _Personnage_, tirées au hasard en début de partie par chaque joueur. Si vous souhaiter la tester, je vous invite à vous rendre sur BoardGameGeek pour y télécharger le fichier PDF contenant les cartes en anglais.
 
 - **Jetons de la honte** _(non encore testé)_ : distribués pour éviter trop de "méta-jeu" et d'informations divulguées intentionnellement à demi-mot. cf. https://boardgamegeek.com/thread/867083/shame-token

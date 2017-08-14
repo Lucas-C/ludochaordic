@@ -54,7 +54,7 @@ if ! [ -e vnu.jar ]; then
 fi
 
 cat "$@" | filter_out_XUAcompat_line \
-		 | filter_out_mustaches \
+         | filter_out_mustaches \
          | java -jar vnu.jar -
 ```
 
@@ -69,15 +69,15 @@ Now, compare it to the following equivalent Python code:
 #   USAGE: ./vnu_html_checker.py $file.html
 #      OR: ./vnu_html_checker.py < $file.html
 
-import os.path, re  
+import os.path, re
 from sys import argv, exit, stderr, stdin
 import sh
 sh = sh(_err=stderr)
 
-VNU_GITHUB = 'https://github.com/validator/validator'  
+VNU_GITHUB = 'https://github.com/validator/validator'
 VNU_VERSION = '20150207'
 
-def download_vnu_jar():  
+def download_vnu_jar():
     zip_filename = 'vnu-{}.jar.zip'.format(VNU_VERSION)
     download_url = '{}/releases/download/{}/{}'.format(
             VNU_GITHUB, VNU_VERSION, zip_filename)
@@ -86,25 +86,25 @@ def download_vnu_jar():
     sh.mv('vnu/vnu.jar', '.')
     sh.rm('-r', 'vnu/', zip_filename)
 
-def filter_out_xuacompat_line(input_pipe):  # seen as an error by VNU  
+def filter_out_xuacompat_line(input_pipe):  # seen as an error by VNU
     return (l for l in input_pipe if 'meta http-equiv="X-UA-Compatible"' not in l)
 
-def filter_out_mustaches(input_pipe):  
+def filter_out_mustaches(input_pipe):
     return (re.sub('{[{%][^{}]+[%}]}', 'DUMMY_MUSTACHE', l) for l in input_pipe)
 
-if not os.path.isfile('vnu.jar'):  
+if not os.path.isfile('vnu.jar'):
     download_vnu_jar()
 
-if len(argv) > 1:  
+if len(argv) > 1:
     pipe = sh.cat(argv[1], _iter=True)
-else:  
+else:
     pipe = sh.cat(_in=stdin, _iter=True)
-pipe = filter_out_xuacompat_line(pipe)  
+pipe = filter_out_xuacompat_line(pipe)
 pipe = filter_out_mustaches(pipe)
 parsed_html = ''.join(pipe).encode('utf8')
-try:  
+try:
     sh.java('-jar', 'vnu.jar', '-', _in=parsed_html)
-except sh.ErrorReturnCode as error:  
+except sh.ErrorReturnCode as error:
     exit(error.exit_code)
 ```
 

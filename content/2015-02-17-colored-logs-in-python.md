@@ -36,7 +36,7 @@ class ColorLogsWrapper(object):
         if attr_name not in 'debug info warning error critical':
             return getattr(self.logger, attr_name)
         log_level = getattr(logging, attr_name.upper())
-         # mimicking logging/__init__.py behaviour 
+         # mimicking logging/__init__.py behaviour
         if not self.logger.isEnabledFor(log_level):
             return
 
@@ -58,7 +58,7 @@ LOGGER.critical('Critical')
 ```
 
 Output:
-<pre style="font-family: monospace;">$ py colored_logger.py 
+<pre style="font-family: monospace;">$ py colored_logger.py
 2015-02-17 10:38:04,802 - pid:16089 colored_logger.py:39    DEBUG| <span style="color:darkcyan;">Debug</span>
 2015-02-17 10:38:04,802 - pid:16089 colored_logger.py:40     INFO| <span style="color:darkgreen;">Info</span>
 2015-02-17 10:38:04,802 - pid:16089 colored_logger.py:41  WARNING| <span style="color:gold;">Warning</span>
