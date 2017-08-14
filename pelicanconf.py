@@ -47,6 +47,7 @@ TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
 TAG_CLOUD_STEPS = 6
 TAG_CLOUD_SORTING = 'alphabetically'
 TAG_CLOUD_BADGE = True
+MG_NO_EXCERPT = True
 MG_DISABLE_SUMMARY = True
 MG_FILTER_TAGS = ['lang:fr', 'lang:en', 'jeux', 'maths', 'prog']
 
