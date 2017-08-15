@@ -40,7 +40,7 @@ I found the answer in [this StackOverflow answer](http://stackoverflow.com/a/149
 <blockquote>This is the result of a security fix from 2012, which was enabled by default in Python 3.3. [...]
 Hash randomization causes the iteration order of dicts and sets to be unpredictable and differ across Python runs.</blockquote>
 
-<img src="/lucas/wwcb/photos/ACourtDArgument.gif" alt="[A court d'argument]" title="Fireflyyyyy !">
+<img src="/images/wwcb/ACourtDArgument.gif" alt="[A court d'argument]" title="Fireflyyyyy !">
 
 
 **EDIT [9/12/2014]** by curiosity, I checked if the hashes are uniformly distributed :

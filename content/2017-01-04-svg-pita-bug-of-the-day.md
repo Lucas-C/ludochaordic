@@ -27,6 +27,6 @@ I found the answer here: <http://stackoverflow.com/a/18265336/636849>
 
 Yes, that innocuous `<base>` tag is the culprit.
 
-<img src="/lucas/wwcb/photos/angry-must-resist.jpeg">
+<img src="/images/wwcb/angry-must-resist.jpeg">
 
 Beware of this bug, as now with Angular 2 a `base` meta tag has to be there by default.

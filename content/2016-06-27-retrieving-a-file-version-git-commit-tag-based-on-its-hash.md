@@ -8,7 +8,7 @@ Today, I did some tests on a server where an old version of our project was depl
 Yeah, I know what your thinking : <em>there must be another way</em>. Surely this information should be somewhere in your deployment system.
 Probably. But that's no excuse to skip a good git scripting exercise !
 
-<img src="/lucas/wwcb/photos/you-got-it-wrong-alphabet.jpg" title="You're doing it wrong">
+<img src="/images/wwcb/you-got-it-wrong-alphabet.jpg" title="You're doing it wrong">
 
 Ok, so here is the situation :
 

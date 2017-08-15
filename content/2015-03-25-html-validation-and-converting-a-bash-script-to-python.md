@@ -3,7 +3,7 @@ Date: 2015-03-25 21:03
 Tags: lang:en, bash, script, shell, grep, stream, python, wget, sed, html, vnu, sh-py, jar, prog
 Slug: html-validation-and-converting-a-bash-script-to-python
 ---
-<img src="/lucas/wwcb/photos/AngryShouting_LionKing.gif" alt="">
+<img src="/images/wwcb/AngryShouting_LionKing.gif" alt="">
 
 ### Die shell script, DIE !
 

@@ -3,7 +3,7 @@ Date: 2015-01-10 16:01
 Tags: lang:fr, dons, libre, gnu, framasoft, mozilla, quadrature-du-net, eff, fondation-wikimedia, efs
 Slug: bonne-annee-a-vos-dons-pret-partez
 ---
-<img src="/lucas/wwcb/photos/SuperDupont_OuiNideIou.jpg" style="height:400px" alt="Oui Nide Iou" title="SuperDupont par Gotlib">
+<img src="/images/wwcb/SuperDupont_OuiNideIou.jpg" style="height:400px" alt="Oui Nide Iou" title="SuperDupont par Gotlib">
 
 L'année dernière, j'avais été touché par l'article de @nicolasy "[Noël est passé, mais il vous reste quelques cadeaux à faire !](http://artimuses.be/2013/12/noel-est-passe-mais-il-vous-reste-quelques-cadeaux-a-faire/)" En cette rentrée 2015, je me permets de lui piquer l'idée.
 
@@ -44,7 +44,7 @@ Voici donc quelques pistes pour leur faire un don, de temps ou d'argent :
 <br>
 **Défendre Internet**
 
-<img src="/lucas/wwcb/photos/nsa_killed_Internet_have_to_build_a_gnu_one.jpg" alt="Grumpy cat : NSA killed the Internet - Now I have to build a new one">
+<img src="/images/wwcb/nsa_killed_Internet_have_to_build_a_gnu_one.jpg" alt="Grumpy cat : NSA killed the Internet - Now I have to build a new one">
 
 - **[Framasoft](//framasoft.org)** est une mon organisation favorite. Cette association française promouvoit le logiciel libre depuis 2001. La liste de leurs projets est impressionnante: [framapad](//framapad.org), [framadate](//framadate.org), [framamindmap](//framindmap.org), [framapack](//www.framapack.org/), [framakey](//www.framakey.org)... Vous pouvez [leur faire un don](//soutenir.framasoft.org) ou [contribuer directement](//contact.framasoft.org/participer/).
 

@@ -11,4 +11,4 @@ C'est pourquoi j'ai écrit un petit script Python pour y remédier : [youtube\_p
 
 Une fois installé dans un _cron job_, il effectue une sauvegarde journalière de votre playlist au format JSON, et vous alerte par email lorsqu'une vidéo est supprimée ou devient inaccessible.
 
-<img src="/lucas/wwcb/photos/NinjaTurtlesPowerRangers.gif">
+<img src="/images/wwcb/NinjaTurtlesPowerRangers.gif">

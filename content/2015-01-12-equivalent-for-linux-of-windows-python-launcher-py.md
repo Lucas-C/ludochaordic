@@ -7,7 +7,7 @@ Under Windows, CPython is shipped with a [very useful `py` command](https://docs
 
 [PEP-397](https://www.python.org/dev/peps/pep-0397/) describes in details its behaviour, and its C implementation can be found [in the CPYthon Mercurial repository](https://hg.python.org/cpython/file/8b3c609f3f73/PC/launcher.c).
 
-<img src="/lucas/wwcb/photos/IronMan_INeedIt.gif" alt="IronMan_INeedIt.gif" title="python -m antigravity">
+<img src="/images/wwcb/IronMan_INeedIt.gif" alt="IronMan_INeedIt.gif" title="python -m antigravity">
 
 There has already been a lenghty discussion [in the "python-ideas" mailing list](https://mail.python.org/pipermail/python-ideas/2014-April/thread.html#27633) to write a Linux equivalent. I agree with what Éric Araujo wrote, that there isn't really a need for such a tool under Linux.
 

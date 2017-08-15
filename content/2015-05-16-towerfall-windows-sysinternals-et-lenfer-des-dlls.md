@@ -10,7 +10,7 @@ Dans l'espoir que ça puisse aider quelqu'un qui rencontre la même erreur, et p
 J'ai Windows Seven en dual-boot, et ne l'utilise plus très souvent désormais, essentiellement pour jouer à des jeux vidéos de temps en temps.
 En relisant mes notes de debug d'août 2014, où ce problème m'a explosé à la tronche pour la première fois, je vois **beaucoup** de détresse.
 
-<img src="/lucas/wwcb/photos/computer-smash-Mark-Wahlberg-angry.gif">
+<img src="/images/wwcb/computer-smash-Mark-Wahlberg-angry.gif">
 
 J'ai passé plusieurs dizaines d'heures à essayer de résoudre le souci, pour finalement abandonner.
 Tout a commencé par une erreur 0x80073712 systématique de Windows Update, empêchant toute mise à jour du sytème. Je retranscris ici l'intégralité de mes périgrinations, peut-être que quelqu'un y reconnaîtra des symptômes:
