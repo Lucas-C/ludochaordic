@@ -16,5 +16,6 @@ RELATIVE_URLS = False
 # Reverting speed optmization settings
 TAG_SAVE_AS = 'tag/{slug}.html'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
+WRITE_SELECTED = []
 
 DELETE_OUTPUT_DIRECTORY = True

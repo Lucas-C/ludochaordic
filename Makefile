@@ -35,8 +35,8 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
-html: html-generate insert-tagcloud
-	@:
+html: html-generate
+	$(MAKE) insert-tagcloud
 
 html-generate:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -73,15 +73,16 @@ stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish: publish-generate insert-tagcloud
-	@:
+publish: publish-generate
+	$(MAKE) insert-tagcloud
 
 publish-generate:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-insert-tagcloud: $(OUTPUTDIR)/pages/bienvenue.html
+insert-tagcloud:
 	sed -n '/<ul class="mg-tagcloud">/,/<\/ul>/p' $(OUTPUTDIR)/tagcloud.html > tagcloud.html.tmp
-	sed -i '/<!-- tagcloud -->/ r tagcloud.html.tmp' $<
+	sed -i '/<!-- tagcloud -->/ r tagcloud.html.tmp' $(OUTPUTDIR)/pages/bienvenue.html
 	$(RM) tagcloud.html.tmp
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish
+
