@@ -23,7 +23,7 @@ Today I've been struggling to understand why this does not work in Firefox, but 
 ```
 Here is a [codepen snippet](http://codepen.io/anon/pen/WRNqxg) to test if your browser display a circle or not.
 
-I found the answer here: http://stackoverflow.com/a/18265336/636849
+I found the answer here: <http://stackoverflow.com/a/18265336/636849>
 
 Yes, that innocuous `<base>` tag is the culprit.
 

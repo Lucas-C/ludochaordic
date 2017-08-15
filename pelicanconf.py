@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from os.path import dirname, join
 
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'
@@ -21,7 +22,6 @@ LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ("Galerie d'Elliot Jolivet aka 10seï", 'https://www.behance.net/10sei'),
          ('Galerie de Camille Cesbron', 'http://camillecesbron.wix.com/peintreillustratrice'),)
 
-# Social widget
 SOCIAL = (('github', 'https://github.com/Lucas-C'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
           ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
@@ -37,6 +37,16 @@ DEFAULT_LANG = 'fr'
 
 PATH = './content'
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.tables': {},
+    },
+    'output_format': 'html5',
+}
+
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['image_process', 'representative_image', 'tag_cloud']
 
@@ -48,20 +58,26 @@ IMAGE_PROCESS_EXCLUDE = ['tipue_search.json']
 THEME = '../pelican-mg'
 DIRECT_TEMPLATES = ('index', 'search', 'tagcloud', 'tipue_search')
 TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
+DEFAULT_PAGINATION = False
+
 ISSO_BASE_URL = '/lucas/isso'
+
 TAG_CLOUD_STEPS = 6
 TAG_CLOUD_SORTING = 'alphabetically'
 TAG_CLOUD_BADGE = True
+
 MG_NO_EXCERPT = True
 MG_DISABLE_SUMMARY = True
 MG_FILTER_TAGS = ['jeux', 'maths', 'prog']
 MG_LANG_FILTER_TAGS = ['fr', 'en']  # 'lang:'-prefixed tags
 
+CATEGORY_SAVE_AS = ''
 ARCHIVE_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
-CATEGORY_SAVE_AS = ''
 
-DEFAULT_PAGINATION = False
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
 
 
 #######################################
@@ -69,14 +85,10 @@ DEFAULT_PAGINATION = False
 #######################################
 
 SITEURL = ''
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-# Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+# Making output generation faster:
+TAG_SAVE_AS = ''
+FEED_ALL_ATOM = None
+STATIC_CHECK_IF_MODIFIED = True # pending pelican 3.8.0 release
+WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in ('index.html', 'dungeon-janitor.html', 'pages/open-source.html')]

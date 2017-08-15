@@ -50,23 +50,23 @@ Ce que j'ai moins aimé:
 Traduction approximative des actions/attributs:
 
 - _Insight_: perspicacité
-  * **Hunt**: chasser une cible -> rassemble des infos sur sa position et ses mouvements ; attaquer avec précision ; faire feu à distance
-  * **Study**: étudier un document, une personne ou un objet attentivement ; améliorer ses connaissances ; faire des recherches
-  * **Survey**: enquêter sur un lieu ou une situation ; anticiper un danger ; rassembler des infos sur des opportunités ou des vulnérabilités
-  * **Tinker**: bricoler pour créer des objets, les modifier, les désactiver ou les réparer ; désactiver un piège, crocheter une serrure ou ouvrir un coffre ; utiliser les appareils steampunks et électroplasmiques de la ville à votre avantage
+    * **Hunt**: chasser une cible -> rassemble des infos sur sa position et ses mouvements ; attaquer avec précision ; faire feu à distance
+    * **Study**: étudier un document, une personne ou un objet attentivement ; améliorer ses connaissances ; faire des recherches
+    * **Survey**: enquêter sur un lieu ou une situation ; anticiper un danger ; rassembler des infos sur des opportunités ou des vulnérabilités
+    * **Tinker**: bricoler pour créer des objets, les modifier, les désactiver ou les réparer ; désactiver un piège, crocheter une serrure ou ouvrir un coffre ; utiliser les appareils steampunks et électroplasmiques de la ville à votre avantage
 - _Prowess_:
-  * **Finesse** : vol à la tire, dextérité, tours de passe-passe ; diriger un véhicule ou une monture
-  * **Prowl** : être discret et franchir les obstacles ; escalader, nager, courir, sauter, retomber sur ses pieds ; embuscades au corps-à-corps - poignarder, trancher la gorge, etc.
-  * **Skirmish** : combat avec un adversaire au corps-à-corps ; attaquer ou défendre une position ; rixes & bagarres
-  * **Wreck** : détruire un endroit, un objet ou un obstacle avec sauvagerie ou un sabotage minutieux ; enfoncer des défenses avec force ; créer une distraction ou provoquer le chaos
+    * **Finesse** : vol à la tire, dextérité, tours de passe-passe ; diriger un véhicule ou une monture
+    * **Prowl** : être discret et franchir les obstacles ; escalader, nager, courir, sauter, retomber sur ses pieds ; embuscades au corps-à-corps - poignarder, trancher la gorge, etc.
+    * **Skirmish** : combat avec un adversaire au corps-à-corps ; attaquer ou défendre une position ; rixes & bagarres
+    * **Wreck** : détruire un endroit, un objet ou un obstacle avec sauvagerie ou un sabotage minutieux ; enfoncer des défenses avec force ; créer une distraction ou provoquer le chaos
 - _Resolve_:
-  * **Attune** : le domaine des esprits ; concentrer l'énergie électroplasmique ; percevoir et communiquer avec les fantômes ; comprendre la spectrologie
-  * **Command** : obtenir l'obéissance via la force de votre personnalité ; intimider et menacer ; diriger une action coordonnée en équipe
-  * **Consort** : grâce à vos connexions (héritage, passé, amis, rivaux...) gagner accès à des ressources, des informations, des contacts, ou des endroits
-  * **Sway** : influencer quelqu'un par le charme, la tromperie, le déguisement, ou le bluff ; faire changer les attitudes ou les comportements par la manipulation ou la séduction
+    * **Attune** : le domaine des esprits ; concentrer l'énergie électroplasmique ; percevoir et communiquer avec les fantômes ; comprendre la spectrologie
+    * **Command** : obtenir l'obéissance via la force de votre personnalité ; intimider et menacer ; diriger une action coordonnée en équipe
+    * **Consort** : grâce à vos connexions (héritage, passé, amis, rivaux...) gagner accès à des ressources, des informations, des contacts, ou des endroits
+    * **Sway** : influencer quelqu'un par le charme, la tromperie, le déguisement, ou le bluff ; faire changer les attitudes ou les comportements par la manipulation ou la séduction
 
-Toutes les feuilles de perso / gang sont téléchargeables sur le site officiel en anglais: http://www.evilhat.com/home/blades-in-the-dark-downloads/
+Toutes les feuilles de perso / gang sont téléchargeables sur le site officiel en anglais: <http://www.evilhat.com/home/blades-in-the-dark-downloads/>
 
-De plus il semble y avoir de chouettes scenarios ici: https://fictivefantasies.wordpress.com/blades-in-the-dark/
+De plus il semble y avoir de chouettes scenarios ici: <https://fictivefantasies.wordpress.com/blades-in-the-dark/>
 
 Et comme j'ai finalement craqué pour commander "Aux Marches du Pouvoir", ce sera l'occasion de comparer d'ici quelques semaines avec un autre jeu dans la même ambiance, mais qui prend un angle plus narrativiste :)

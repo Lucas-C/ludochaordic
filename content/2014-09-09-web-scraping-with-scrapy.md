@@ -6,7 +6,7 @@ Slug: web-scraping-with-scrapy
 As a tabletop RPG game master, whenever I need to imagine a universe background for a scenario, I need illustrations to picture myself the atmosphere, and get some inspiration.
 I usually simply surf the web from blog to blog, or spend some time on inspirational websites like [DeviantArt](//www.deviantart.com), [Tumblr](//www.tumblr.com), [Unurth](http://unurth.com) or [DarkRoastedBlend](http://www.darkroastedblend.com/).
 
-But last week, I stumbled upon [Sylvain Robert great illustration gallery]( http://crpp0001.uqtr.ca/w4/campagne/images).
+But last week, I stumbled upon [Sylvain Robert great illustration gallery](http://crpp0001.uqtr.ca/w4/campagne/images).
 It has thousands of fantasy images, from D&D to comics.
 
 But... I was only looking for goblin illustrations.

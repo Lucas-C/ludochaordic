@@ -4,7 +4,7 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=/usr/share/nginx/html/lucas/newblog
+OUTPUTDIR=/usr/share/nginx/html/lucas/blog
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
@@ -35,11 +35,14 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
-html:
+html: html-generate insert-tagcloud
+	@:
+
+html-generate:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	[ ! -d $(OUTPUTDIR) ] || $(RM) -r $(OUTPUTDIR)
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -70,10 +73,15 @@ stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
+publish: publish-generate insert-tagcloud
+	@:
+
+publish-generate:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+
+insert-tagcloud: $(OUTPUTDIR)/pages/bienvenue.html
 	sed -n '/<ul class="mg-tagcloud">/,/<\/ul>/p' $(OUTPUTDIR)/tagcloud.html > tagcloud.html.tmp
-	sed -i '/<!-- tagcloud -->/ r tagcloud.html.tmp' $(OUTPUTDIR)/pages/edito.html
+	sed -i '/<!-- tagcloud -->/ r tagcloud.html.tmp' $<
 	$(RM) tagcloud.html.tmp
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish

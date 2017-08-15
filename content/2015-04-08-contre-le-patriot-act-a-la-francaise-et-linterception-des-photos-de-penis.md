@@ -4,7 +4,7 @@ Tags: lang:fr, untagged
 Slug: contre-le-patriot-act-a-la-francaise-et-linterception-des-photos-de-penis
 ---
 Il reste 7 jours pour se mobiliser :
-http://sous-surveillance.fr
+<http://sous-surveillance.fr>
 
 Aux USA, les américains en ont assez de ce Patriot Act initiallement approuvé par George Bush, et veulent le réformer. Pourquoi répéter leurs erreurs avec ce projet de loi relatif au Renseignement ??
 

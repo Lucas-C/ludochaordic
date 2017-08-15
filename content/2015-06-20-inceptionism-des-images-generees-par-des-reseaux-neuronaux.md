@@ -4,7 +4,7 @@ Tags: lang:fr, neural-network, image-processing, machine-learning, clouds, incep
 Slug: inceptionism-des-images-generees-par-des-reseaux-neuronaux
 ---
 [Voici la galerie en question](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB), et voici une bande son pour accompagner la lecture de cet article:
-http://auditiveescape.bandcamp.com/album/noted-wind
+<http://auditiveescape.bandcamp.com/album/noted-wind>
 
 Maintenant quelques explications: ce que vous admirez, ce sont des images générées par une forme d'intelligence artificielle appelée "réseau neuronal".
 

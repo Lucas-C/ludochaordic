@@ -9,14 +9,14 @@ La semaine dernière, j'ai enfin offert à un ami le petit jeu de cartes que j'a
 
 Comme je pense qu'ils pourra en amuser plus d'un, voici une version prête à imprimer !
 
-**https://chezsoi.org/lucas/spyfall** ([PDF](/lucas/spyfall/spyfall_print-and-play.pdf))
+<https://chezsoi.org/lucas/spyfall> ([PDF](/lucas/spyfall/spyfall_print-and-play.pdf))
 
 # Le jeu
 Pour une description complète, je vous recommande [la review de Swatsh sur VindJeu](http://www.vindjeu.eu/2015/01/23/spyfall-agent-trouble/).
 
 Cette version à pour particularité que chaque lieu est une référence à une jeu vidéo. Retrouverez-vous tous les clins d'oeil ? :)
 
-Les règles complètes en anglais: http://international.hobbyworld.ru/download/rules/international/Spyfall\_rules_ENG.pdf.
+Les règles complètes en anglais: <http://international.hobbyworld.ru/download/rules/international/Spyfall\_rules_ENG.pdf>
 
 <img src="/lucas/wwcb/photos/OnlyOneToGiveAShitAboutRules.gif">
 
@@ -34,8 +34,8 @@ Bien mieux que me précédent bricolages de cartes sour Word...
 
 L'idée originale de réaliser une version maison de ce jeu revient à mon ami, qui m'a fait découvrir l'existence de 2 apps, au code open-source, pour jouer sur smartphone:
 
-- http://spyfall.meteor.com
-- http://spyfall.adrianocola.com
+- <http://spyfall.meteor.com>
+- <http://spyfall.adrianocola.com>
 
 Comme le travail de localisation avait déjà été fait sur ces apps, je l'ai simplement réutilisé dans cette version print & play. Merci à Evan Brumley et tous les gens qui ont contribué aux traductions !
 

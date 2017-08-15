@@ -5,7 +5,7 @@ Slug: genealogy-tree-visualization-with-d3-js
 ---
 I'm happy to introduce you with [genealogic-d3](https://github.com/Lucas-C/genealogic-d3), a Javascript visualization library to nicely display genealogy trees that I've been working on during the past 3 days.
 
-I'm quite satisfied by the result. You'll find a live demo you can play with at https://chezsoi.org/lucas/genealogic-d3/skywalker.html
+I'm quite satisfied by the result. You'll find a live demo you can play with at <https://chezsoi.org/lucas/genealogic-d3/skywalker.html>
 
 I used the Skywalker family as an example, but it is really very easy to adapt to [any other family](http://mentalfloss.com/article/27833/11-fictional-family-trees).
 

@@ -6,7 +6,7 @@ Slug: gdb-python-macros
 This post aims to introduce a very useful tool to debug low-level issues in Python, how to enhance it and finally how to solve two annoying common problems.
 
 ### 1. Debugging Python with gdb
-All the basics are there : https://wiki.python.org/moin/DebuggingWithGdb
+All the basics are there : <https://wiki.python.org/moin/DebuggingWithGdb>
 
 Tl;dr :
 ```
@@ -14,7 +14,7 @@ gdb -p $(pgrep -f your_running_python_program_name)
 ```
 
 ### 2. Installing the macros for Python
-<q>A set of GDB macros are distributed with Python that aid in debugging the Python process.</q> (from: https://wiki.python.org/moin/DebuggingWithGdb#GDB_Macros).
+<q>A set of GDB macros are distributed with Python that aid in debugging the Python process.</q> (from: <https://wiki.python.org/moin/DebuggingWithGdb#GDB_Macros>).
 
 One-liner to install those macros:
 ```
@@ -57,7 +57,7 @@ END
 ```
 
 All the credit for this trick goes to [Peter Jay Salzman](http://web.archive.org/web/20140831120136/http://dirac.org/linux/gdb/03-Initialization,_Listing,_And_Running.php#the%3Ctt%3E.gdbinit%3C/tt%3Efile).
-Here is also a more complete improved _.gdbinit_ : http://reverse.put.as/gdbinit/.
+Here is also a more complete improved _.gdbinit_ : <http://reverse.put.as/gdbinit/>.
 
 ### 4. Solving: 'ptrace: Operation not permitted'
 
@@ -75,7 +75,7 @@ echo 0 > /proc/sys/kernel/yama/ptrace_scope # to execute as root
 Or setting `kernel.yama.ptrace_scope = 0` in _/etc/sysctl.d/10-ptrace.conf_.
 
 ### 5. Solving: 'No symbol "co" in current context'
-This one is trickier. It's a known issue described in https://wiki.python.org/moin/DebuggingWithGdb#GDB_Macros. The recommended solution is to <q>Recompile python with make CFLAGS=-g -fno-inline -fno-strict-aliasing</q> (the alternative patch did not work for me).
+This one is trickier. It's a known issue described in <https://wiki.python.org/moin/DebuggingWithGdb#GDB_Macros>. The recommended solution is to <q>Recompile python with make CFLAGS=-g -fno-inline -fno-strict-aliasing</q> (the alternative patch did not work for me).
 
 Yeah, I know, *SIGH*...
 
@@ -114,10 +114,10 @@ You now have access to all the following commands:
 * py-locals
 * py-print
 
-On the other hand, the latest version of the _gdbinit_ file on the new Mercurial repository doesn't seem to work: https://hg.python.org/cpython/raw-file/default/Misc/gdbinit.
+On the other hand, the latest version of the _gdbinit_ file on the new Mercurial repository doesn't seem to work: <https://hg.python.org/cpython/raw-file/default/Misc/gdbinit>.
 I get a _'No symbol "\_PyUnicode\_AsString" in current context.'_ error message.
 
-**EDIT (2016/04/15):** a more recent article on the subject : http://podoliaka.org/2016/04/10/debugging-cpython-gdb/
+**EDIT (2016/04/15):** a more recent article on the subject : <http://podoliaka.org/2016/04/10/debugging-cpython-gdb/>
 
 The following commands taken from this article helped me once:
 ```

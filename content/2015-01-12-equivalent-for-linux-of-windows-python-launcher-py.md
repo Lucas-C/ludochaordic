@@ -11,4 +11,4 @@ Under Windows, CPython is shipped with a [very useful `py` command](https://docs
 
 There has already been a lenghty discussion [in the "python-ideas" mailing list](https://mail.python.org/pipermail/python-ideas/2014-April/thread.html#27633) to write a Linux equivalent. I agree with what Éric Araujo wrote, that there isn't really a need for such a tool under Linux.
 
-But I find it useful to use a `py -3.4 -m pip install $pkg` or `py 27 $file` shorthand, and hence I wrote a basic bash script equivalent : https://github.com/Lucas-C/linux_configuration/blob/master/bin/py.
+But I find it useful to use a `py -3.4 -m pip install $pkg` or `py 27 $file` shorthand, and hence I wrote a basic bash script equivalent : <https://github.com/Lucas-C/linux_configuration/blob/master/bin/py>

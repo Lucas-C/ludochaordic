@@ -9,8 +9,8 @@ Hence, I went looking for a context or decorator-based solution. And I found [th
 Here is another one, that can be used either as a decorator or as a "with-context", combining the following inspirations:
 
 - [timeit.Timer.timeit](https://hg.python.org/cpython/file/tip/Lib/timeit.py#l165) from the standard library
-- http://dabeaz.blogspot.it/2010/02/function-that-works-as-context-manager.html
-- http://code.activestate.com/recipes/577896/
+- <http://dabeaz.blogspot.it/2010/02/function-that-works-as-context-manager.html>
+- <http://code.activestate.com/recipes/577896/>
 
 ```python
 import gc

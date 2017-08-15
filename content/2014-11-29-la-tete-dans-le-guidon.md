@@ -178,11 +178,11 @@ Suite à la découverte de la technique _Pomodoro_ et de la lecture de _"Reality
 Techniquement:
 
 - Python 3
-- persitence des données basique : https://docs.python.org/3/library/persistence.html
+- persitence des données basique : <https://docs.python.org/3/library/persistence.html>
 - rendu à travers le navigateur ? Pros: portable, _user-friendly_. Cons: plus complexe à coder que d'autres solutions basées sur des bibliothèques existantes d'interaction-utilisateur ?
 
 Maaaais... il existe déjà des centaines de projets similaires, donc je ne le coderai pas :)
-https://github.com/search?q=pomodoro : 1273 résultats, 148 en Python.
+<https://github.com/search?q=pomodoro> : 1273 résultats, 148 en Python.
 Je vais juste essayer [ce package sous Ubuntu](http://askubuntu.com/a/190675/185582).
 
 <br>

@@ -30,7 +30,7 @@ I'm just going to put down and share my findings here:
 
 - there is an Ecolabel for electronics products : [TCO certified](http://tcocertified.com)
 
-- for repairability, Greenpeace launched a comparator for laptops, tablets & smartphones recently: https://www.rethink-it.org
+- for repairability, Greenpeace launched a comparator for laptops, tablets & smartphones recently: <https://www.rethink-it.org>
 
 <img src="images/2017/07/naga44.png" alt="Naga44 logo" title="Naga44 logo">
 

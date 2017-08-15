@@ -7,23 +7,21 @@ Do you know the `pv` command ? It's really nifty.
 
 There are a few use cases:
 
-```bash
-echo "You can simulate on-screen typing just like in the movies" | pv -qL 10
+    echo "You can simulate on-screen typing just like in the movies" | pv -qL 10
 
-# Show the incoming TCP packets rate:
-tcpdump tcp -w - | pv -btr >/dev/null
+    # Show the incoming TCP packets rate:
+    tcpdump tcp -w - | pv -btr >/dev/null
 
-# Show the maximum throughput between two machines:
-# (provided the correct iptables OUTPUT/INPUT rules allowing traffic through port 7070 are set)
-socat - tcp-listen:7070 > /dev/null # on the receiving host side
-pv -btr /dev/zero | socat - tcp:$host:7070 # on the sending server side
+    # Show the maximum throughput between two machines:
+    # (provided the correct iptables OUTPUT/INPUT rules allowing traffic through port 7070 are set)
+    socat - tcp-listen:7070 > /dev/null # on the receiving host side
+    pv -btr /dev/zero | socat - tcp:$host:7070 # on the sending server side
 
-# Monitor progress of a command
-gzip access.log | pv > access.log.gz
+    # Monitor progress of a command
+    gzip access.log | pv > access.log.gz
 
-# Copy a file and watch its progress
-pv sourcefile > destfile
-```
+    # Copy a file and watch its progress
+    pv sourcefile > destfile
 
 Actually the last two examples are the most common usages.
 

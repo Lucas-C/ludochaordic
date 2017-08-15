@@ -7,9 +7,9 @@ Slug: making-https-calls-in-a-pure-groovy-shared-lib-for-jenkins-pipeline
 
 Recently I lost a lot of time on this. Hence I want to share a working solution, even if i cannot take the time to detail the issue.
 
-I'm taking about writing reusable code for Jenkinsfiles : https://jenkins.io/doc/book/pipeline/shared-libraries/
+I'm taking about writing reusable code for Jenkinsfiles : <https://jenkins.io/doc/book/pipeline/shared-libraries/>
 
-One cannot simply use Groovy `HTTPBuilder`, because of Jenkins 2 custom Groovy interpreter that follow the *Continuation Passing Style* paradigm : https://github.com/jenkinsci/workflow-cps-plugin#technical-design
+One cannot simply use Groovy `HTTPBuilder`, because of Jenkins 2 custom Groovy interpreter that follow the *Continuation Passing Style* paradigm : <https://github.com/jenkinsci/workflow-cps-plugin#technical-design>
 
 Hence the solution is to invoke the [http_request](https://jenkins.io/doc/pipeline/steps/http_request/) plugin :
 

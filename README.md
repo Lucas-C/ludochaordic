@@ -1,3 +1,3 @@
 
     pip install pelican markdown beautifulsoup4 pillow
-    make OUTPUTDIR=output devserver
+    make DEBUG=1 OUTPUTDIR=output devserver

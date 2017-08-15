@@ -23,7 +23,7 @@ python3 -m http.server
 ```
 You only need: `git`, `python3`, `rsync` and `sed`.
 
-**EDIT [2017/08/02]**: in the end I put the viewer in a separate repo: https://github.com/Lucas-C/wisemapping-simple-viewer
+**EDIT [2017/08/02]**: in the end I put the viewer in a separate repo: <https://github.com/Lucas-C/wisemapping-simple-viewer>
 
 ### Genesis of the project
 

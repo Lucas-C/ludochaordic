@@ -165,7 +165,7 @@ pip install pyparsing==1.5.7 && pip install pydot && ./manage.py graph_models -a
 <br><br>
 
 # **More tips & tricks for the Frenchies**
-- http://sametmax.com/mieux-que-python-virtualenvwrapper-pew/
-- http://www.miximum.fr/checklist-bonnes-pratiques-django.html.html
+- <http://sametmax.com/mieux-que-python-virtualenvwrapper-pew/>
+- <http://www.miximum.fr/checklist-bonnes-pratiques-django.html.html>
 
 **EDIT [16/05/2015]**: another good read: [Django anti-patterns](http://docs.quantifiedcode.com/python-code-patterns/django/index.html)

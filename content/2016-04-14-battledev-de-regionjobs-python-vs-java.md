@@ -20,7 +20,7 @@ Toutefois, il y a un petit quelque chose qui m'est resté en travers de la gorge
 
 Je m'explique: lors de la BattleDev, chaque participant à le choix de formuler sa réponse dans la langue de son choix. Personnellement, j'ai participé en Python.
 
-En fin de concours, la société Isograd qui a mit en place le challenge révèle des solutions possibles à chaque question. Celles-ci sont disponibles sur cette page: http://www.isograd.com/FR/solutionconcours.php (choisir "Battle Dev RegionsJob - Mars 2016").
+En fin de concours, la société Isograd qui a mit en place le challenge révèle des solutions possibles à chaque question. Celles-ci sont disponibles sur cette page: <http://www.isograd.com/FR/solutionconcours.php> (choisir "Battle Dev RegionsJob - Mars 2016").
 
 Si vous allez y jeter un oeil, vous pourrez constater que selon les langages, la solution de la question 5 est plus ou moins complexe:
 

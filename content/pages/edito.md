@@ -1,5 +1,0 @@
-Title: Edito
----
-
-<!-- tagcloud -->
-

@@ -14,7 +14,7 @@ client.calls.create(to='+33241XXXXXX',
                     record=True, url=twiml_url)
 ```
 
-The twiml URL refers to a short XML file I created online on Twilio web console at `https://www.twilio.com/console/dev-tools/twiml-bins`:
+The twiml URL refers to a short XML file I created online on Twilio web console at <https://www.twilio.com/console/dev-tools/twiml-bins>:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
@@ -22,6 +22,6 @@ The twiml URL refers to a short XML file I created online on Twilio web console 
 </Response>
 ```
 
-After executing the script, I found the recorded audio message at `https://www.twilio.com/console/voice/dashboard`, where I was able to download it as MP3 or WAV:
+After executing the script, I found the recorded audio message at <https://www.twilio.com/console/voice/dashboard>, where I was able to download it as MP3 or WAV:
 
 ![](images/2017/05/2017-05-17-18_40_04-Twilio-Console---Voice-Logs-Calls.png)
