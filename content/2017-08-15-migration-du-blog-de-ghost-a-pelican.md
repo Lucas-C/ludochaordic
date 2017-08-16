@@ -30,7 +30,7 @@ Et au passage: c'est son anniversaire ! 3 ans :)
     * commentaires isso (+ cron pour recevoir des emails lorsque des commentaires sont ajoutés: [gist](https://gist.github.com/Lucas-C/42373e6451a28e4c59026c129c1abb73))
     * gestion des tags, manquante
     * correction de bugs en passant les templates au validateur HTML W3C
-    * ajout du blogroll et de liens/icônes dans la barre latéraleet
+    * ajout du blogroll et de liens/icônes dans la barre latérale
     * ajout d'un tag cloud
     * ajout d'images miniatures pour caque article dans l'index, avec redimensionnement automatique pour ne pas avoir une page trop lourde
     * plus d'hébergement de resources sur des CDNs
