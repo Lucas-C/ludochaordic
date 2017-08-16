@@ -10,4 +10,4 @@ In a nutshell:
       | perl -wpe 's/\r$//' \
       | xargs -I{} curl -u $SUN:$SAK -X DELETE "https://saucelabs.com/rest/v1/$SUN/jobs/{}"
 
-<img src="/images/wwcb/Climate-global_warming_level-_Earth_on_Fire.jpg" alt="Earth Kaboom">
+<img src="images/wwcb/Climate-global_warming_level-_Earth_on_Fire.jpg" alt="Earth Kaboom">

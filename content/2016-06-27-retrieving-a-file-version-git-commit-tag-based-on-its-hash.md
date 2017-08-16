@@ -8,7 +8,7 @@ Today, I did some tests on a server where an old version of our project was depl
 Yeah, I know what your thinking : <em>there must be another way</em>. Surely this information should be somewhere in your deployment system.
 Probably. But that's no excuse to skip a good git scripting exercise !
 
-<img src="/images/wwcb/you-got-it-wrong-alphabet.jpg" title="You're doing it wrong">
+<img src="images/wwcb/you-got-it-wrong-alphabet.jpg" title="You're doing it wrong">
 
 Ok, so here is the situation :
 
@@ -61,4 +61,4 @@ $ git-identify-filehash pre_commit/main.py e292c72c6c86e8809bd792a630e7f90ac811c
 c3c98af Support pre-commit from inside submodules - oldest tag including this commit: v0.7.1
 ```
 
-![](/lucas/wwcb/photos/OMG.gif)
+![](images/wwcb/OMG.gif)

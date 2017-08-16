@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://chezsoi.org/lucas/newblog'
+SITEURL = 'https://chezsoi.org/lucas/blog'
 RELATIVE_URLS = False
 
 # Reverting speed optmization settings

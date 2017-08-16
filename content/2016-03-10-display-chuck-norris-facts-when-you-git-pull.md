@@ -16,6 +16,6 @@ Slug: display-chuck-norris-facts-when-you-git-pull
 
 And enjoy the message next time you `git pull` !
 
-<img src="/images/wwcb/chuck_norris_approve.gif">
+<img src="images/wwcb/chuck_norris_approve.gif">
 
 Thanks to [jenkinsci/chucknorris-plugin](https://github.com/jenkinsci/chucknorris-plugin) developpers for collecting those facts.

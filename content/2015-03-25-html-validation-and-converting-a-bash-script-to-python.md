@@ -3,7 +3,7 @@ Date: 2015-03-25 21:03
 Tags: lang:en, bash, script, shell, grep, stream, python, wget, sed, html, vnu, sh-py, jar, prog
 Slug: html-validation-and-converting-a-bash-script-to-python
 ---
-<img src="/images/wwcb/AngryShouting_LionKing.gif" alt="">
+<img src="images/wwcb/AngryShouting_LionKing.gif" alt="">
 
 ### Die shell script, DIE !
 
@@ -123,7 +123,7 @@ But look at the benefits !
 
 I hope I convinced you: next time you write a script, **think about Python** !
 
-But BEWARE, even Python scripts can become [spaghetti code monsters](/lucas/wwcb/photos/Ill_just_write_a_quick_script...-catacrac.net.png).
+But BEWARE, even Python scripts can become [spaghetti code monsters](images/wwcb/Ill_just_write_a_quick_script...-catacrac.net.png).
 
 **EDIT[17/08/2015]** : as long as the interpreter is installed on your system, you can run a standalone Python script just like a Bash script and easily benefit from the THOUSANDS libraries in Pypy, including `sh.py`, by invoking `pip` FROM YOUR SCRIPT !
 

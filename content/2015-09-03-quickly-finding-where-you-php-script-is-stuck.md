@@ -27,4 +27,4 @@ In my case, I found out my `drush` command was stuck waiting for text from `stdi
 You noticed the difference ?
 Yes, it's subttle and god damn confusing: the first argument contains the [unicode character EN-DASH](http://www.fileformat.info/info/unicode/char/2013/index.htm).
 
-<img src="/images/wwcb/cereal-guy-cereal-guy-spitting.png">
+<img src="images/wwcb/cereal-guy-cereal-guy-spitting.png">

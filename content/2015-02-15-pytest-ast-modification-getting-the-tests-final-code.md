@@ -43,7 +43,7 @@ def dummy_test():
         raise AssertionError(@pytest_ar._format_explanation(@py_format1))
 ```
 
-<img src="/images/wwcb/Mowgli-and-Kaa.jpg" alt="Mowgli hypnotized by Kaa">
+<img src="images/wwcb/Mowgli-and-Kaa.jpg" alt="Mowgli hypnotized by Kaa">
 
 Now, I want to conclude on a more nuanced tone: not everything is perfect in the Pytest world, and I have a few pain points to mention:
 
