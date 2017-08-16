@@ -7,7 +7,7 @@ Tags: lang:en
 <div class="uk-grid">
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/intro-lua">
-            <img class="uk-align-center" src="lucas/slides/intro-lua/lua-logo.gif" alt="Logo Lua">
+            <img class="uk-align-center" src="/lucas/slides/intro-lua/lua-logo.gif" alt="Logo Lua">
             <div class="uk-thumbnail-caption">
                 <div class="uk-text-bold uk-text-primary">Intro à Lua</div>
                 <dl class="uk-description-list-list">
@@ -20,7 +20,7 @@ Tags: lang:en
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/tks_2016-04-22">
-            <img class="uk-align-center" style="width: 50%" src="lucas/slides/tks_2016-04-22/cygwin-logo.png" alt="Logo Cygwin">
+            <img class="uk-align-center" style="width: 50%" src="/lucas/slides/tks_2016-04-22/cygwin-logo.png" alt="Logo Cygwin">
             <div class="uk-thumbnail-caption">
                 <div class="uk-text-bold uk-text-primary">Unix shell, Bash & Cygwin</div>
                 <dl class="uk-description-list-list">
@@ -33,7 +33,7 @@ Tags: lang:en
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/python_frameworks_web_2016-02-26">
-            <img class="uk-align-center" src="lucas/slides/python_frameworks_web_2016-02-26/python.jpg" alt="Logo Python">
+            <img class="uk-align-center" src="/lucas/slides/python_frameworks_web_2016-02-26/python.jpg" alt="Logo Python">
             <div class="uk-thumbnail-caption">
                 <div class="uk-text-bold uk-text-primary">Intro aux frameworks web Python</div>
                 <dl class="uk-description-list-list">
@@ -46,7 +46,7 @@ Tags: lang:en
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/HTML_2015-05-12">
-            <img class="uk-align-center" src="lucas/slides/HTML_2015-05-12/cloud-aws.png" alt="Logo Amazon Web Services">
+            <img class="uk-align-center" src="/lucas/slides/HTML_2015-05-12/cloud-aws.png" alt="Logo Amazon Web Services">
             <div class="uk-thumbnail-caption">
                 <div class="uk-text-bold uk-text-primary">Devops à Amazon</div>
                 <dl class="uk-description-list-list">
