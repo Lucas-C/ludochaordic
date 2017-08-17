@@ -10,7 +10,7 @@ Je ne veux pas vous parler du jeu de [farbs](http://farbs.org) en Puzzle Script:
 (je n'ai toujours pas compris comment il se jouait)
 
 Non, le concierge de donjon dont je souhaite vanter les mérites est celui d'[Anna Anthropy](http://auntiepixelante.com),
-disponible sur la plateforme de jeux vidéos "indés" `itch.io` : <https://w.itch.io/dungeon-janitors-apprentice>
+disponible sur la plateforme `itch.io` : <https://w.itch.io/dungeon-janitors-apprentice>
 
 <br>
 
@@ -26,6 +26,8 @@ Les mécaniques sont simplissimes: il s'agit simplement d'un dialogue improvisé
 
 Une manche s'arrête lorsqu'un joueur consent la victoire à l'autre, parce qu'il est à court d'inspiration
 ou qu'il s'esclaffe à la dernière énormité proférée par son partenaire.
+
+Au final, ça ressemble pas à mal à "Oui, Seigneur des Ténèbres", pour 2 joueurs et en plus simple :)
 
 La partie que nous avons faite avec un ami a durée environ une heure,
 et ce fut une belle tranche de rigolade.
