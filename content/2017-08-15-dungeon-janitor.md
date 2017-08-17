@@ -4,7 +4,7 @@ Tags: lang:fr, puzzlescript, video-game, donjon, jdr, JohnHarper, jeux, @Matt
 Slug: dungeon-janitor
 ---
 
-![](images/2017/08/DungeonJanitor.jpg)
+![Carte de donjon tirée de DungeonJanitor](images/2017/08/DungeonJanitor.jpg)
 
 Je ne veux pas vous parler du jeu de [farbs](http://farbs.org) en Puzzle Script: <http://www.puzzlescript.net/play.html?p=6866423>
 (je n'ai toujours pas compris comment il se jouait)

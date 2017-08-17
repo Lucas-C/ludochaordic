@@ -3,7 +3,7 @@ Date: 2017-07-29 17:07
 Tags: lang:fr, jdr, bladesintheshadow, opinion, review, jeux
 Slug: jdr-notes-de-lectures-du-quickstart-de-blades-in-the-shadow
 ---
-[![](images/2017/07/EHP_Blades_Pageheader.jpg)](http://www.evilhat.com/home/blades-in-the-dark/)
+[![Banière de Blades in the dark](images/2017/07/EHP_Blades_Pageheader.jpg)](http://www.evilhat.com/home/blades-in-the-dark/)
 
 Voici quels notes en vrac suite à ma lecture du QuickStart guide v3 (beaucoup de choses ont donc pu changer dans la version finale).
 

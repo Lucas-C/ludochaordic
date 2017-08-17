@@ -4,7 +4,7 @@ Tags: lang:fr, blog, python, pelican, ghost, prog
 Slug: migration-du-blog-de-ghost-a-pelican
 ---
 
-[![](images/2017/08/ghost2pelican.png)](https://www.artlimited.net/image/fr/219453)
+[![Pelikan Man 009 by Francesco Sambo](images/2017/08/ghost2pelican.png)](https://www.artlimited.net/image/fr/219453)
 
 Ça y est ! Bascule effectuée !
 
