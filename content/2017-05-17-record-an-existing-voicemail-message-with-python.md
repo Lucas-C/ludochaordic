@@ -24,4 +24,4 @@ The twiml URL refers to a short XML file I created online on Twilio web console 
 
 After executing the script, I found the recorded audio message at <https://www.twilio.com/console/voice/dashboard>, where I was able to download it as MP3 or WAV:
 
-![](images/2017/05/2017-05-17-18_40_04-Twilio-Console---Voice-Logs-Calls.png)
+![Screenshot of Twilio web console](images/2017/05/2017-05-17-18_40_04-Twilio-Console---Voice-Logs-Calls.png)

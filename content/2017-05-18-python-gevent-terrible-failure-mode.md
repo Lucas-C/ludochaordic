@@ -15,7 +15,7 @@ print('THIS WILL NEVER BE PRINTED !!!')
 
 Guess what ? The string message will never get printed :(
 
-![](images/2017/05/96cb6a3bd576058ccc3ca0442099c9f7_silent-memes-image-memes-at-relatablycom-silent-meme_400-400.jpeg)
+![Mister Bean meme image - Silent But Deadly](images/2017/05/96cb6a3bd576058ccc3ca0442099c9f7_silent-memes-image-memes-at-relatablycom-silent-meme_400-400.jpeg)
 
 Simply remove the `monkey.patch_all` line and you'll get a pretty `socket.gaierror: [Errno 8] Name or service not known`.
 

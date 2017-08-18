@@ -7,7 +7,7 @@ I love [reveal.js](http://lab.hakim.se/reveal-js). I've been using it for years.
 
 What happenned was that I was invited to make a short presentation in a youth and cultural center. I had prepared some slides with reveal.js, but once in their computer room, I realized a firewall was installed on each and every computer there, blocking any attempt to launch a simple local server with `python -m http.server` or a simple [Mongoose server](https://www.cesanta.com/products/binary). And no one had the admin rights over this firewall !
 
-![](images/wwcb/daffy_tree_slam.gif)
+![Daffy Duck slamming itself on a tree](images/wwcb/daffy_tree_slam.gif)
 
 There is currently [no](https://github.com/hakimel/reveal.js/issues/610) [plan](https://github.com/hakimel/reveal.js/issues/673) from the devs behind reveal.js to get rid of this requirement. Hence I developed a workaround !
 

@@ -19,7 +19,7 @@ src2pdf () {
 }
 ```
 
-There is an example of [PDF result](/lucas/blog/content/images/2015/Fev/UnixUsefulCmds.pdf).
+There is an example of [PDF result, 133Ko](/lucas/blog/images/2015/Fev/UnixUsefulCmds.pdf).
 
 Alternatively, if you have syntax coloring enabled in vim, e.g. with the great `syntastic` plugin, export to PostScript is trivial :
 
@@ -35,6 +35,6 @@ set printfont=:h9
 set printoptions=number:y,left:5pc
 ```
 
-And [the final .ps file](/lucas/blog/content/images/2015/Fev/UnixUsefulCmds.ps).
+And [the final .ps file](/lucas/blog/images/2015/Fev/UnixUsefulCmds.ps).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wudV1c9jLKM" frameborder="0" allowfullscreen></iframe>

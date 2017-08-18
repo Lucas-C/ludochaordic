@@ -3,7 +3,7 @@ Date: 2014-10-10 03:10
 Tags: lang:en, bash, image, frames, gif, imagemagick, convert, fps, size, delay, prog
 Slug: shrinking-down-a-gif-by-reducing-its-frames-count
 ---
-To illustrate my [previous post](https://chezsoi.org/lucas/blog/2014/10/10/en-setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell/) and keep images at a reasonable size, I had to shrink down the top GIF from [14Mb](https://lh3.googleusercontent.com/-W4wSdhJ2O3A/UfgjKpNKBCI/AAAAAAAAAac/UGbf_GaXjA4/w400-h225-no/Cloudberry+Kingdom+difficulty.gif) to [3.2Mb](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif).
+To illustrate my [previous post](https://chezsoi.org/lucas/blog/2014/10/10/en-setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell/) and keep images at a reasonable size, I had to shrink down the top GIF from [14Mb](https://lh3.googleusercontent.com/-W4wSdhJ2O3A/UfgjKpNKBCI/AAAAAAAAAac/UGbf_GaXjA4/w400-h225-no/Cloudberry+Kingdom+difficulty.gif) to [3.2Mb](/lucas/blog/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif).
 
 Usually, online GIF converters will provide the ability to lower down the image dimensions. Another solution to reduce its size is to simply skip some frames.
 
@@ -49,11 +49,11 @@ $ ls -sh *.gif | sort -r
 
 There are the results:
 
-- [Cloudberry-Kingdom-difficulty.gif](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty.gif)
-- [Cloudberry-Kingdom-difficulty\_reduced\_x2.gif](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x2.gif)
-- [Cloudberry-Kingdom-difficulty\_reduced\_x3.gif](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif)
-- [Cloudberry-Kingdom-difficulty\_reduced\_x4.gif](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x4.gif)
-- [Cloudberry-Kingdom-difficulty\_reduced\_x5.gif](/lucas/blog/content/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x5.gif)
+- [Cloudberry-Kingdom-difficulty.gif](/lucas/blog/images/2014/Oct/Cloudberry-Kingdom-difficulty.gif)
+- [Cloudberry-Kingdom-difficulty\_reduced\_x2.gif](/lucas/blog/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x2.gif)
+- [Cloudberry-Kingdom-difficulty\_reduced\_x3.gif](/lucas/blog/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif)
+- [Cloudberry-Kingdom-difficulty\_reduced\_x4.gif](/lucas/blog/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x4.gif)
+- [Cloudberry-Kingdom-difficulty\_reduced\_x5.gif](/lucas/blog/images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x5.gif)
 
 This function also rely on the `gifsicle` command, that is dedicated to creating and editing GIFs. It can be more useful and reliable than ImageMagick `identify` to extract information. E.g. you can extract the frames count this way:
 

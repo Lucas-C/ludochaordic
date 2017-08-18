@@ -61,4 +61,4 @@ $ git-identify-filehash pre_commit/main.py e292c72c6c86e8809bd792a630e7f90ac811c
 c3c98af Support pre-commit from inside submodules - oldest tag including this commit: v0.7.1
 ```
 
-![](images/wwcb/OMG.gif)
+![Oh My God](images/wwcb/OMG.gif)

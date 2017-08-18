@@ -30,7 +30,7 @@ The results, with various `layout` parameters:
 
 ![sfdp layout](images/2017/02/seasons_sfdp.png)
 
-![dot layout](/lucas/blog/content/images/2017/02/seasons_dot.png)
+![dot layout](/lucas/blog/images/2017/02/seasons_dot.png)
 
 Another, deeper, example:
 <pre>Types of Chocolate
@@ -73,4 +73,4 @@ A last one:
     1348-1349
 </pre>
 
-![default layout](/lucas/blog/content/images/2017/02/plague_twopi.png)
+![default layout](/lucas/blog/images/2017/02/plague_twopi.png)

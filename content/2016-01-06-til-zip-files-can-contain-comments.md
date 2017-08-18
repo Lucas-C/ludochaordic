@@ -5,7 +5,7 @@ Slug: til-zip-files-can-contain-comments
 ---
 ... and the standard UNIX tool `zipinfo` cannot display them !
 
-![](images/2016/01/pythonchallenge-channel.jpg)
+![Photo of a zipper](images/2016/01/pythonchallenge-channel.jpg)
 
 So here is Python one-liner to extract them, and other useful meta informations:
 

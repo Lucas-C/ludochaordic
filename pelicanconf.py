@@ -91,4 +91,4 @@ RELATIVE_URLS = True
 TAG_SAVE_AS = ''
 FEED_ALL_ATOM = None
 STATIC_CHECK_IF_MODIFIED = True # pending pelican 3.8.0 release
-WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in ('index.html', 'aux-marches-du-pouvoir.html')]
+WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in ('index.html', 'tagcloud.html', 'pages/bienvenue.html')]

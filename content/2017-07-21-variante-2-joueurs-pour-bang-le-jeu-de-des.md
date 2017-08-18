@@ -5,7 +5,7 @@ Slug: variante-2-joueurs-pour-bang-le-jeu-de-des
 ---
 _(English version: [on boardgamegeek](https://boardgamegeek.com/article/26459280) - there is also [another 2 players variant](https://boardgamegeek.com/thread/1176865/2-player-variant-hidden-roles-shootout-mode) there)_
 
-![](images/2017/07/bang-jeudedes-contenu.jpg)
+![Photo du jeu BANG! Le jeu de dés](images/2017/07/bang-jeudedes-contenu.jpg)
 
 [BANG! - Le jeu de dés](https://www.trictrac.net/jeu-de-societe/bang-le-jeu-de-des) est un de mes jeux favoris. Je trouve sa mécanique de Yams revisitée, combinée à une version épurée du jeu [WANTED!](https://www.trictrac.net/jeu-de-societe/wanted) original, avec rôles cachés et portées de tir, très réussi.
 
@@ -59,7 +59,7 @@ de détruire une carte planque de l'adversaire, sur la ligne la plus proche de v
 
 ### Duel
 
-![](images/2017/07/Bang-role-cards.jpg)
+![Cartes rôles du jeu BANG! Le jeu de dés](images/2017/07/Bang-role-cards.jpg)
 
 Le duel se base sur le principe du feuille / papier / ciseau.
 

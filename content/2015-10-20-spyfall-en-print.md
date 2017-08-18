@@ -3,20 +3,20 @@ Date: 2015-10-20 19:10
 Tags: lang:fr, template, printplay, svg, i18n, board-game, cards, jeux
 Slug: spyfall-en-print
 ---
-![](images/2015/10/spy-2.jpg)
+![The Spy character from Team Fortress 2](images/2015/10/spy-2.jpg)
 
 La semaine dernière, j'ai enfin offert à un ami le petit jeu de cartes que j'ai bricolé ces dernières semaines.
 
 Comme je pense qu'ils pourra en amuser plus d'un, voici une version prête à imprimer !
 
-<https://chezsoi.org/lucas/spyfall> ([PDF](/lucas/spyfall/spyfall_print-and-play.pdf))
+<https://chezsoi.org/lucas/spyfall> ([PDF, 3.47Mo](/lucas/spyfall/spyfall_print-and-play.pdf))
 
 # Le jeu
 Pour une description complète, je vous recommande [la review de Swatsh sur VindJeu](http://www.vindjeu.eu/2015/01/23/spyfall-agent-trouble/).
 
 Cette version à pour particularité que chaque lieu est une référence à une jeu vidéo. Retrouverez-vous tous les clins d'oeil ? :)
 
-Les règles complètes en anglais: <http://international.hobbyworld.ru/download/rules/international/Spyfall\_rules_ENG.pdf>
+Les règles complètes en anglais: [PDF, 1,58Mo](http://international.hobbyworld.ru/download/rules/international/Spyfall_rules_ENG.pdf)
 
 <img src="images/wwcb/OnlyOneToGiveAShitAboutRules.gif">
 

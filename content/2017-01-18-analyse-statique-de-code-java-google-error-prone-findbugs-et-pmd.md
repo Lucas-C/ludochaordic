@@ -3,7 +3,7 @@ Date: 2017-01-18 13:01
 Tags: lang:fr, findbugs, google, error-prone, java, maven, pmd, static-code-analysis, prog
 Slug: analyse-statique-de-code-java-google-error-prone-findbugs-et-pmd
 ---
-![](images/2017/01/img_3069.jpg)
+![Illustration of a bug insect under a magnifying glass](images/2017/01/img_3069.jpg)
 
 Ce court article détaille comment mettre en place simplement 3 analyseurs de code statique avec Maven.
 
@@ -132,4 +132,4 @@ Facebook a développé un outil très prometteur nommé [infer](http://fbinfer.c
 
 Si malgré tout vous souhaitez le tester, il est possible de [le lancer via Docker](https://www.lolware.net/2016/02/12/argon2-code-review.html).
 
-![](images/2017/01/oh-no-the-robots.jpg)
+![Comic strip: Oh no! The robotos are KILLING us!!! - Bu WHY?!? We never programmed them to do THIS!!! - <code snippet:> if (isCrazyMurderingRobot = true) kill(humans)](images/2017/01/oh-no-the-robots.jpg)

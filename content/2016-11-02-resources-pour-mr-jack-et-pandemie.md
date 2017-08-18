@@ -3,7 +3,7 @@ Date: 2016-11-02 19:11
 Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, forum, asymetrique, equilibrage, jeux
 Slug: resources-pour-mr-jack-et-pandemie
 ---
-![](images/2016/11/P1040810_small.JPG)
+![Boîtes de ces deux jeux de société](images/2016/11/P1040810_small.JPG)
 
 Un petit article pour partager quelques trouvailles de variantes et de scénarios pour ces deux excellents jeux.
 
@@ -23,7 +23,7 @@ Voici donc quelques chouettes resources:
 On peut notament y trouver 2 scénarios prometteurs, **Isolation** & **Government Shutdown**, que nous comptons tester bientôt.
 Il y a également toutes les règles de l'extension **On The Brink**, y compris la très intéressante règle du **BioTerroriste**.
 
-- j'ai également trouvé sur le site BoardGameGeek une [règle alternative de **BioTerroriste**](//boardgamegeek.com/filepage/33653/bioterrorist-variant-pdf-rules-v09), imaginé par un fan avant la sortie de l'extension.
+- j'ai également trouvé sur le site BoardGameGeek une [règle alternative de **BioTerroriste** (PDF, 87 Ko)](//boardgamegeek.com/filepage/33653/bioterrorist-variant-pdf-rules-v09), imaginé par un fan avant la sortie de l'extension.
 
 - ce site comporte également [une liste exhaustive de tous les rôles possibles](//boardgamegeek.com/filepage/64531/all-pandemic-roles-official-custom), sous forme de page web "standalone" avec un bouton "génération d'une sélection aléatoire de rôles".
 

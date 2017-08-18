@@ -6,7 +6,7 @@ Slug: la-tete-dans-le-guidon
 En anglais, le titre pourrait se traduire par _"The head to the grindstone"_, soit littéralement "la tête sur la meule à aiguiser".
 Rigolo non ?
 
-Au vu du sujet cependant, _"Tales of a lost afternoon"_ sonnerait mieux je trouve. En effet, cet article va traiter d'organisation personnelle du temps. Le sujet est vaste, et il ne s'agira pas ici de parler de [procrastination](/lucas/blog/content/images/2014/Dec/Levels_of_Procrastination.jpg) ou d'outils de gestion de projet (j'ai déjà écris à propos d'[Etherpad](/lucas/blog/2014/10/10/en-setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell)). Il s'agit simplement de partager mon expérience personnelle, et de suggérer quelques astuces pour tout ceux qui ont déjà perdu un peu trop de temps à coder "la tête dans le guidon" comme moi.
+Au vu du sujet cependant, _"Tales of a lost afternoon"_ sonnerait mieux je trouve. En effet, cet article va traiter d'organisation personnelle du temps. Le sujet est vaste, et il ne s'agira pas ici de parler de [procrastination](/lucas/blog/images/2014/Dec/Levels_of_Procrastination.jpg) ou d'outils de gestion de projet (j'ai déjà écris à propos d'[Etherpad](/lucas/blog/2014/10/10/en-setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell)). Il s'agit simplement de partager mon expérience personnelle, et de suggérer quelques astuces pour tout ceux qui ont déjà perdu un peu trop de temps à coder "la tête dans le guidon" comme moi.
 
 Pas forcément passionnant à priori donc. Mais bon, quitte à perdre son temps, autant en profiter pour apprendre de ses erreurs !
 

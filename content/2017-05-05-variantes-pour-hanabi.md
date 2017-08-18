@@ -3,13 +3,13 @@ Date: 2017-05-05 19:05
 Tags: lang:fr, jeu-de-societe, variante, boardgamegeek, gamedesign, hanabi, jeux
 Slug: variantes-pour-hanabi
 ---
-[![](images/2017/05/utakata_hanabi___sasuke_ver__by_net1204-d3icqzj.jpg)](http://net1204.deviantart.com/art/Utakata-Hanabi-212226463)
+[![Illustration représentant des feux d'artifices aux couleur d'Hanabi](images/2017/05/utakata_hanabi___sasuke_ver__by_net1204-d3icqzj.jpg)](http://net1204.deviantart.com/art/Utakata-Hanabi-212226463)
 
 [Hanabi](https://www.trictrac.net/jeu-de-societe/hanabi) est un de nos jeux préférés, à moi et ma compagne. Et certainement celui auquel on a joué le plus de fois. Et on ne l'a toujours pas complètement battu !
 
 Voici quelque idées de variantes pour renouveler un peu le plaisir :
 
-- **Ikebana** _(non encore testé)_ : est la soeur jumelle d'Hanabi. Ces deux jeux ont été à l'origine conçu ensemble par Antoine Bauza. _Ikebana_ est une règle alternative pour jouer à un jeu compétitif avec les même cartes. Les règles sont disponibles en ligne : <http://regle.jeuxsoc.fr/ikeba_rg.pdf>
+- **Ikebana** _(non encore testé)_ : est la soeur jumelle d'Hanabi. Ces deux jeux ont été à l'origine conçu ensemble par Antoine Bauza. _Ikebana_ est une règle alternative pour jouer à un jeu compétitif avec les même cartes. Les règles sont disponibles en ligne : [Règles d'Ikeba (PDF, 636Ko)](http://regle.jeuxsoc.fr/ikeba_rg.pdf)
 
 - **Variante rapide pour 2 joueurs** _(testé : un peu trop aléatoire)_ Source: [BoardGameGeek](https://boardgamegeek.com/thread/1122247/quick-hanabi-2-experienced-players).
 On restreint le matériel à :

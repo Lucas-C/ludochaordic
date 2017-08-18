@@ -3,7 +3,7 @@ Date: 2016-11-13 18:11
 Tags: lang:fr, jeu-de-societe, variante, the-game, gamedesign, boardgamegeek, jeux
 Slug: une-variante-pour-the-game
 ---
-![](images/2016/11/TheGame.png)
+![Boîte du jeu The Game](images/2016/11/TheGame.png)
 
 [The Game](//www.trictrac.net/jeu-de-societe/the-game-1) est un très chouette jeu de cartes coopératif. Voici une variante que nous avons testé hier soir à trois, sur une idée originale d'un ami (merci Nicolas !).
 

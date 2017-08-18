@@ -11,3 +11,11 @@
     -   id: remove-crlf
         exclude: npp/.*\.xml
     -   id: remove-tabs
+-   repo: local
+    hooks:
+    -   id: forbid-empty-img-alt-in-markdown
+        name: Ensure Markdown images have an alternative text for accessibility
+        language: pcre
+        entry: "!\\[\\]\\("
+        files: \.md$
+        exclude: rendering-deep-text-based-mindmaps-with-wisemapping-and-python

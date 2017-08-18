@@ -1,6 +1,6 @@
 Title: Rendering deep text-based mindmaps with WiseMapping and Python
 Date: 2017-03-15 20:03
-Tags: lang:en, python, mindmap, javascript, bundle, framasoft, markdown, prog
+Tags: lang:en, python, mindmap, javascript, bundle, framasoft, markdown, prog, performances
 Slug: rendering-deep-text-based-mindmaps-with-wisemapping-and-python
 ---
 In this blog post, I'm going to demonstrate how to reuse [WiseMapping](http://wisemapping.com) HTML+JS rendering engine to easily visualize...
@@ -65,7 +65,7 @@ Instead of this default value, I just changed the code to load the XML file corr
 
 Strangely, loading a mindmap was really slow. Here is what Firefox Network tab showed when loading the viewser in a new private window:
 
-![](images/2017/03/Firefox_WiseMapping_RequestCount1.png)
+![Firefox screenshot: 287 requests, 1 292,48 KB, 30,26s](images/2017/03/Firefox_WiseMapping_RequestCount1.png)
 
 I realized that for some crazy reason, when the JS editor component was loading, it retrieved the Maven `pom.xml` file from disk, parsed it and then loaded those files one per one ! And with jQuery adding a `?_=${timestamp}` query parameter each time, to avoid browser caches !! `JSPomLoader` is the class responsible for this absurdity this in [mindplot-min.js](https://bitbucket.org/wisemapping/wisemapping-open-source/src/v4.0.3/wise-editor/src/main/webapp/js/mindplot-min.js).
 
@@ -83,7 +83,7 @@ The second command makes `editor.js` use our new `mindplot-bundle.js` instead of
 
 The result:
 
-![](images/2017/03/Firefox_WiseMapping_RequestCount2.png)
+![Firefox screenshot: 170 requests, 808,26 KB, 7,28s](images/2017/03/Firefox_WiseMapping_RequestCount2.png)
 
 ### Avoiding unwanted LocalStorage cache
 
@@ -110,7 +110,7 @@ In order to do so I wrote a [Python script](https://github.com/Lucas-C/linux_con
         __**bold italic**__
     Hyperlinks
         [My blog](https://chezsoi.org/lucas/blog)
-        ![](https://chezsoi.org/lucas/blog/content/images/2014/Jul/bw-2.jpg)
+        ![](https://chezsoi.org/lucas/blog/images/2014/Jul/bw-2.jpg)
 </pre>
 
 ```
