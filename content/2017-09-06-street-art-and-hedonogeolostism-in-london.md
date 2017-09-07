@@ -1,4 +1,4 @@
-Title: Street art and hedonogeolotism in London
+Title: Street art and hedonogeolostism in London
 Date: 2017-09-07 09:00
 Tags: lang:en, street-art, london, neologism, lazyloading
 Slug: street-art-and-hedonogeolostism-in-london
@@ -9,7 +9,7 @@ This post may just look like a good excuse to show some holiday pictures (and re
 I was in London last week, and I had the chance to make a tour of some great street art spots around Liverpool Street station, thanks to Fabrizio Gallozzi.
 This post is just a galery to share some great art pieces I liked.
 
-What's about "**hedonogeolotism**" you may ask ? It's a neologism I made up.
+What's about "**hedonogeolostism**" you may ask ? It's a neologism I made up.
 It means: **pleasure of feeling geographically lost**.
 I love visiting a new city and not beeing able to tell in which direction is my starting point.
 Feeling like each new street I walk in is a new place to discover.
