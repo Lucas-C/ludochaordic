@@ -12,7 +12,7 @@ DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
 LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ("Justin Mason's Weblog", 'http://taint.org'),
          ('J.P. Villain (Access42) @Twitter', 'https://twitter.com/villainjp'),
-         ('Sam & Max', 'https://twitter.com/sam_et_max'),
+         ('Sam & Max @Twitter', 'https://twitter.com/sam_et_max'),
          ('Blog de David Larlet', 'https://larlet.fr/david/blog/'),
          ('Reflets.info', 'https://reflets.info'),
          ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
