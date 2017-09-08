@@ -14,7 +14,7 @@ Tags: lang:en
                     <dt>Date</dt><dd>2017/05/17</dd>
                     <dt>Lieu</dt><dd>Voyages-Sncf.com Technologies</dd>
                 </dl>
-                <p>Une très courte présentation du langage Lua, destinée à des devs souhaitant contribuer dans <a href="https://getkong.org">Kong</a></p>
+                <p>Une très courte présentation du langage Lua, destinée à des devs souhaitant contribuer dans Kong (cf. https://getkong.org)</p>
             </div>
         </a>
     </div>
