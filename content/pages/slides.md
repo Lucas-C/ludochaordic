@@ -14,7 +14,7 @@ Tags: lang:en
                     <dt>Date</dt><dd>2017/05/17</dd>
                     <dt>Lieu</dt><dd>Voyages-Sncf.com Technologies</dd>
                 </dl>
-                <p>Un retour d'expérience sur les pratiques "Devops" que nous utilisions lorsque je travaillais à AWS à Dublin.</p>
+                <p>Une très courte présentation du langage Lua, destinée à des devs souhaitant contribuer dans <a href="https://getkong.org">Kong</a></p>
             </div>
         </a>
     </div>
@@ -27,7 +27,7 @@ Tags: lang:en
                     <dt>Date</dt><dd>2016/04/22</dd>
                     <dt>Lieu</dt><dd>Voyages-Sncf.com Technologies</dd>
                 </dl>
-                <p>Un retour d'expérience sur les pratiques "Devops" que nous utilisions lorsque je travaillais à AWS à Dublin.</p>
+                <p>Une introduction à Cygwin et quelques trucs &amps; astuces pour gagner du temps en shell</p>
             </div>
         </a>
     </div>
@@ -40,7 +40,7 @@ Tags: lang:en
                     <dt>Date</dt><dd>2016/02/26</dd>
                     <dt>Lieu</dt><dd>Voyages-Sncf.com Technologies</dd>
                 </dl>
-                <p>Un retour d'expérience sur les pratiques "Devops" que nous utilisions lorsque je travaillais à AWS à Dublin.</p>
+                <p>Une rapide vue d'ensemble sur les frameworks pour développer des applis web en Python</p>
             </div>
         </a>
     </div>
