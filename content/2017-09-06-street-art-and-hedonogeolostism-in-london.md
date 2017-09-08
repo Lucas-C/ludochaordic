@@ -1,6 +1,6 @@
 Title: Street art and hedonogeolostism in London
 Date: 2017-09-07 09:00
-Tags: lang:en, street-art, london, neologism, lazyloading
+Tags: lang:en, street-art, london, neologism, lazyloading, david-larlet
 Slug: street-art-and-hedonogeolostism-in-london
 ---
 
@@ -116,8 +116,8 @@ Hence, because it is a concept I like, I just made up a word from approximative 
 
 
 PS: As a side note, I used [lazyslides](//afarkas.github.io/lazysizes) to achieve the photos lazy loading effect,
-which has [a plugin](https://github.com/aFarkas/lazysizes/tree/master/plugins/noscript) to let images display normally if JS is disabled,
-using `<noscript>` tags.
+which has [a plugin](https://github.com/aFarkas/lazysizes/tree/master/plugins/noscript) to let images display normally if JS is disabled, using `<noscript>` tags.
+A very good article explaining why this is important: https://larlet.fr/david/blog/2017/without-javascript/
 
 
 
