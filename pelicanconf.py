@@ -92,5 +92,9 @@ TAG_SAVE_AS = ''
 FEED_ALL_ATOM = None
 STATIC_CHECK_IF_MODIFIED = True # pending pelican 3.8.0 release
 STATIC_CREATE_LINKS = True # pending pelican 3.8.0 release
-WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in ('index.html', 'daniel-lindsen.html')]
+WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
+    'index.html',
+    'daniel-lindsen.html',
+    'premiere-partie-test-de-blades-in-dark.html',
+)]
 

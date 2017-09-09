@@ -33,6 +33,17 @@ La partie que nous avons faite avec un ami a durée environ une heure,
 et ce fut une belle tranche de rigolade.
 Mon adversaire était redoutable pour trouver des prétexte, je lui tire mon chapeau !
 
+Voici quelques unes des corvées énoncées:
+- nettoyer les os des squelettes
+- laver les outils du bourreau
+- récurer le gouffre sans fond
+- aller me chercher un crayon et une plume
+- apporter cette lettre au roi des gobelins
+- aller chercher de la viande dans le séchoir
+- laver le vomi de gobelin dans leur salle de jeu suite à au banquet d'hier soir (ils étaient déchâinés)
+- donner aux fourmis rouges les cadavres d'aventuriers qui trainent dans le couloir des orcs
+- apporter sa paye au dragon : voici une bourse de pièces d'or
+
 Je vous recommande l'expérience, pourquoi pas lors d'un long trajet en voiture pour égayer un peu l'ambiance :)
 J'ai toutefois trouvé **très** utile d'avoir la carte du donjon sous les yeux pour l'insipration.
 

@@ -2,6 +2,7 @@ Title: Street art and hedonogeolostism in London
 Date: 2017-09-07 09:00
 Tags: lang:en, street-art, london, neologism, lazyloading, david-larlet
 Slug: street-art-and-hedonogeolostism-in-london
+Image: images/2017/09/p1050971.JPG
 ---
 
 This post may just look like a good excuse to show some holiday pictures (and really it is), sorry about that :)
@@ -54,7 +55,11 @@ Hence, because it is a concept I like, I just made up a word from approximative 
 
 <div class="lazyload" data-noscript=""><noscript><img src="images/2017/09/p1050928.JPG"></noscript></div>
 
-<div class="lazyload" data-noscript=""><noscript><img src="images/2017/09/p1050929.JPG"></noscript></div>
+<figure>
+    <div class="lazyload" data-noscript=""><noscript><img alt="Mirror photo" src="images/2017/09/p1050929.JPG"></noscript></div>
+    <figcaption>I found this one above quite funny and original: instead of a sprayed painting or a stencil,
+    it consisted simply of a mirror on the wall,where you could see your reflection. Hence the group photo :)</figcaption>
+</figure>
 
 <div class="lazyload" data-noscript=""><noscript><img src="images/2017/09/p1050930.JPG"></noscript></div>
 
