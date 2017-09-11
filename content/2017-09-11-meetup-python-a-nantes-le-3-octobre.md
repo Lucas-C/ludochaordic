@@ -6,7 +6,7 @@ Slug: meetup-python-a-nantes-le-3-octobre
 
 <img src="images/2017/09/afpy-nantes.jpg" alt="Logo AFPY à Nantes" class="column-img">
 
-Avec Thomas Durey, nous organisons un meetup à Nantes mardi 3 octobre dans les locaux de [Voyages-Sncf.com](https://open.voyages-sncf.com/groupe/qui-sommes-nous) avec l'[AFPY](https://www.afpy.org) pour échanger autour du langage Python !
+Avec Thomas Durey, nous organisons un meetup à Nantes mardi 3 octobre dans les locaux de [Voyages-Sncf.com](https://open.voyages-sncf.com/groupe/qui-sommes-nous) avec l'[AFPY](http://nantes.afpy.org/meetup-du-mois-doctobre-2017-a-voyages-sncfcom-technologies-nantes.html) pour échanger autour du langage Python !
 
 Au programme des talks pour le moment :
 
