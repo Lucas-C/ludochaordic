@@ -57,3 +57,6 @@ setup(
     setup_requires=['damn42'],
 )
 ```
+
+**EDIT[2017/09/11]** : many more `setup.py` parsing alternatives can be found here:
+https://github.com/nexB/scancode-toolkit/issues/253#issuecomment-270905807
