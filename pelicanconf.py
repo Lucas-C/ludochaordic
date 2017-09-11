@@ -95,6 +95,6 @@ STATIC_CREATE_LINKS = True # pending pelican 3.8.0 release
 WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'index.html',
     'daniel-lindsen.html',
-    'premiere-partie-test-de-blades-in-dark.html',
+    'meetup-python-a-nantes-le-3-octobre.html',
 )]
 

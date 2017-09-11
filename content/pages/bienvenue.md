@@ -63,4 +63,8 @@ Le choix est purement arbitraire, ce sont simplement les articles dont je suis l
 .clear-floats {
     clear: both;
 }
+article li {
+  position: relative;
+  left: 1em;
+}
 </style>
