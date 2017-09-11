@@ -5,7 +5,7 @@ Slug: premiere-partie-test-de-blades-in-dark
 Image: images/2017/09/f7e12590ecc0f025dc93f885c6fc92cc.jpg
 ---
 
-J'avais déjà évoqué ce jeu de manière très rapide dans [un post précédent](/lucas/blog/jdr-notes-de-lectures-du-quickstart-de-blades-in-the-shadow.html).
+J'avais déjà évoqué ce jeu de manière très rapide dans [un post précédent](/lucas/blog/jdr-notes-de-lectures-du-quickstart-de-blades-in-the-dark.html).
 
 Voici un petit compte-rendu de notre première partie d'il y a quelques semaines, qui a été un franc succès je crois :)
 
