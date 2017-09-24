@@ -6,6 +6,34 @@ Tags: lang:en
 
 <div class="uk-grid">
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+        <a class="uk-thumbnail" href="/lucas/slides/pyconfr2017-pre-commit-hooks">
+            <img class="uk-align-center" src="/lucas/slides/pyconfr2017-pre-commit-hooks/pre-commit-logo.png" alt="Logo pre-commit Python">
+            <div class="uk-thumbnail-caption">
+                <div class="uk-text-bold uk-text-primary">Hooks de pre-commit pour git</div>
+                <dl class="uk-description-list-list">
+                    <dt>Date</dt><dd>2017/09/23</dd>
+                    <dt>Lieu</dt><dd>PyConFr 2017</dd>
+                    <dt>PDF</dt><dd><a href="/lucas/slides/PyConFr2017_Hooks-de-pre-commit-pour-git.pdf">slides annotés</a></dd>
+                </dl>
+                <p>Description du fonctionnement et des bénéfices du gestionnaire de hooks git pre-commit.com</p>
+            </div>
+        </a>
+    </div>
+    <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+        <a class="uk-thumbnail" href="/lucas/slides/pyconfr2017-mindmap-par-sms">
+            <img class="uk-align-center" src="/lucas/slides/pyconfr2017-mindmap-par-sms/CargoCultFeaturePhone.jpg" alt="Dumb phone">
+            <div class="uk-thumbnail-caption">
+                <div class="uk-text-bold uk-text-primary">Mindmap web contrôlée par sms</div>
+                <dl class="uk-description-list-list">
+                    <dt>Date</dt><dd>2017/09/24</dd>
+                    <dt>Lieu</dt><dd>PyConFr 2017</dd>
+                    <dt>PDF</dt><dd><a href="/lucas/slides/PyConFr2017_Mindmap-web-controlee-par-sms-avec-Python-et-Twilio.pdf">slides annotés</a></dd>
+                </dl>
+                <p>Comment utiliser l'API sms Twilio, git, Python et du recyclage de projet OSS pour créer une mindmap "pense-bête"</p>
+            </div>
+        </a>
+    </div>
+    <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/intro-lua">
             <img class="uk-align-center" src="/lucas/slides/intro-lua/lua-logo.gif" alt="Logo Lua">
             <div class="uk-thumbnail-caption">
