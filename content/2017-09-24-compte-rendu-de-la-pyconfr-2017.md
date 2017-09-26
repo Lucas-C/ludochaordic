@@ -4,6 +4,9 @@ Tags: lang:fr, python, open-source, hackathon, documentation, talk, conference, 
 Slug: compte-rendu-de-la-pyconfr-2017
 ---
 
+<img src="images/2017/09/pyconfr-2017-logo.png" alt="Logo PyConFr 2017"
+     style="display: block; margin: 0 auto">
+
 Cette année, [voyages-sncf.com](https://open.voyages-sncf.com) m'a permis d'aller à la conférence annuelle Python à Toulouse.
 
 <img src="images/2017/09/logo_voyages-sncf.com.png" alt="Logo voyages-sncf.com"
