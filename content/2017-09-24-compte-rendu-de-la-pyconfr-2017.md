@@ -15,7 +15,7 @@ Cette année, [voyages-sncf.com](https://open.voyages-sncf.com) m'a permis d'all
 En vrac, voici un petit résumé personnel de cette PyConFr.
 
 J'y étais présent 3 jours sur 4 (sprint le premier et conférences les deux autres),
-et j'y ai donné donné 2 présentations, dont le contenu est disponible sur la pages [slides](/pages/slides.html).
+et j'y ai donné donné 2 présentations, dont le contenu est disponible sur la pages [slides](pages/slides.html).
 
 <!-- toc -->
 
