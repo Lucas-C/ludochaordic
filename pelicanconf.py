@@ -23,11 +23,12 @@ LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ("Galerie d'Elliot Jolivet aka 10seï", 'https://www.behance.net/10sei'),
          ('Galerie de Camille Cesbron', 'http://camillecesbron.wix.com/peintreillustratrice'),)
 
-SOCIAL = (('github', 'https://github.com/Lucas-C'),
-          ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
+SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
+          ('youtube', 'https://www.youtube.com/playlist?list=FLF8xTv55ZmwikWWmWLPEAZQ'),
+          ('github', 'https://github.com/Lucas-C'),
           ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
-          ('shaarli', 'https://chezsoi.org/shaarli'),
-          ('youtube', 'https://www.youtube.com/playlist?list=FLF8xTv55ZmwikWWmWLPEAZQ'),)
+          ('travis-ci', 'https://travis-ci.org/Lucas-C'),
+          ('linkedin', 'https://www.linkedin.com/in/lucascimon'))
 
 SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/logo_la-quadrature-du-net_20x20.png', 'Faites un don à la Quadrature !'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/button_80x15_framasoft.png', 'Soutenez Framasoft !'),
