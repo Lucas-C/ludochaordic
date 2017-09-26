@@ -13,11 +13,11 @@ Tags: lang:en
                 <dl class="uk-description-list-list">
                     <dt>Date</dt><dd>2017/09/23</dd>
                     <dt>Lieu</dt><dd>PyConFr 2017</dd>
-                    <dt>PDF</dt><dd><a href="/lucas/slides/PyConFr2017_Hooks-de-pre-commit-pour-git.pdf">slides annotés</a></dd>
                 </dl>
                 <p>Description du fonctionnement et des bénéfices du gestionnaire de hooks git pre-commit.com</p>
             </div>
         </a>
+        <a href="/lucas/slides/PyConFr2017_Hooks-de-pre-commit-pour-git.pdf">Slides PDF annotés</a>
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/pyconfr2017-mindmap-par-sms">
@@ -27,11 +27,11 @@ Tags: lang:en
                 <dl class="uk-description-list-list">
                     <dt>Date</dt><dd>2017/09/24</dd>
                     <dt>Lieu</dt><dd>PyConFr 2017</dd>
-                    <dt>PDF</dt><dd><a href="/lucas/slides/PyConFr2017_Mindmap-web-controlee-par-sms-avec-Python-et-Twilio.pdf">slides annotés</a></dd>
                 </dl>
                 <p>Comment utiliser l'API sms Twilio, git, Python et du recyclage de projet OSS pour créer une mindmap "pense-bête"</p>
             </div>
         </a>
+        <a href="/lucas/slides/PyConFr2017_Mindmap-web-controlee-par-sms-avec-Python-et-Twilio.pdf">Slides PDF annotés</a>
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/intro-lua">

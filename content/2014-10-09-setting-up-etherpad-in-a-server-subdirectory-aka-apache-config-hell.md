@@ -1,6 +1,6 @@
 Title: Setting-up Etherpad in a server subdirectory -aka- Apache config hell
 Date: 2014-10-09 22:10
-Tags: lang:en, etherpad, journal, diary, logbook, apache, config, sed, xargs, relative, url, proxy, html, prog
+Tags: lang:en, etherpad, journal, diary, logbook, apache, configuration, sed, xargs, relative, url, proxy, html, prog
 Slug: setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell
 ---
 ![Animation showing a difficult as hell platformer video game](images/2014/Oct/Cloudberry-Kingdom-difficulty_reduced_x3.gif)
