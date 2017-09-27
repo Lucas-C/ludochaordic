@@ -8,9 +8,10 @@ Slug: meetup-python-a-nantes-le-3-octobre
 
 Avec Thomas Durey, nous organisons un meetup à Nantes mardi 3 octobre dans les locaux de [Voyages-Sncf.com](https://open.voyages-sncf.com/groupe/qui-sommes-nous) avec l'[AFPY](http://nantes.afpy.org/meetup-du-mois-doctobre-2017-a-voyages-sncfcom-technologies-nantes.html) pour échanger autour du langage Python !
 
-Au programme des talks pour le moment :
+Au programme :
 
-- Tests BDD pour workflow [luigi](https://github.com/spotify/luigi) avec [behave](http://pythonhosted.org/behave/)
+- un _talk_ sur les pipelines [luigi](https://github.com/spotify/luigi) et comment les tester avec [behave](http://pythonhosted.org/behave/)
+- nous vous proposerons ensuite de participer à un barcamp autours de Python, dont vous proposerez les sujets. L'idée est simplement de se retrouver et de décider sur place des sujets de discussions qui vous intéressent, de les aborder ensemble en différents groupes, puis de mettre en commun ce qui s'est dit pendant les ateliers.
 
 Nous souhaiterions avoir plus de sujets, donc n'hésitez pas à proposer votre talk !
 
