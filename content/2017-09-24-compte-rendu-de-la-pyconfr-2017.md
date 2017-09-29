@@ -108,6 +108,8 @@ En cours de refonte pour Python 3 (Zope 4), avec un nouveau projet : **Guillotin
 
 Ce CMS est déployable sur Heroku et apparemment extrêmement simple à prendre en main.
 
+Vidéo: <https://www.youtube.com/watch?v=FFIK3neBhMI&list=PLetYPqNT2qjAinIBr976XSjJObaa-zUy5&index=1>
+
 
 ## 11h30 : Les Aventuriers du Packaging Perdu - Joachim Jablon & Stéphane Angel
 
@@ -236,6 +238,8 @@ c'est assez fou de réaliser que les _core devs_ Python sont quasi-tous de volon
 Un _core dev_ est également autorisé par son employeur à consacrer la majeure partie de son temps à Python.
 En dehors de ces deux personnes, **Python est entièrement développé et maintenu par des bénévoles sur leur temps libre !!**
 
+Vidéo: <https://www.youtube.com/watch?v=iEDFRCNDZNE&list=PLetYPqNT2qjAinIBr976XSjJObaa-zUy5&index=6>
+
 
 ## 18h30 : C'est quoi être différent ? - Haïkel Guémar
 
@@ -348,6 +352,8 @@ Clairement l'outil que j'utiliserais pour organiser une conf.
 Présentation de <https://pythonlinks.info>.
 
 Plutôt que de répéter son contenu, je vous invite à regarder la vidéo d'introduction au projet sur la page d’accueil du site.
+
+Vidéo: <https://www.youtube.com/watch?v=eZynCkvjjhE&list=PLetYPqNT2qjAinIBr976XSjJObaa-zUy5&index=4>
 
 
 # Bilan
