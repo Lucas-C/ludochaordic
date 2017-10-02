@@ -20,8 +20,9 @@ LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ('Blog de Victor Stinner', 'https://haypo.github.io'),
          ('Neal Krawetz Hacker Factor Blog', 'http://www.hackerfactor.com/blog/'),
          ('Jeff Atwodd Coding Horror', 'http://blog.codinghorror.com'),
-         ("Galerie d'Elodie Olivier", 'http://elodie-olivier.com'),
+         ("Galerie photo de CheckSam", 'http://www.dumondedanslobjectif.com'),
          ("Galerie d'Elliot Jolivet aka 10seï", 'https://www.behance.net/10sei'),
+         ("Galerie d'Elodie Olivier", 'http://elodie-olivier.com'),
          ('Galerie de Camille Cesbron', 'http://camillecesbron.wix.com/peintreillustratrice'),)
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
