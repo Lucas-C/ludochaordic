@@ -66,6 +66,8 @@ C'est un sacré chantier, chapeau bas à lui de l'avoir entamé !
 
 Suite à un rapide échange avec Julien, j'ai soumis une _pull-request_ pour remplacer tous les usages du verbe "retourner" par "renvoyer" ou "revenir" afin d'éviter tout ambiguïté: <https://github.com/python/python-docs-fr/pull/29>
 
+A noter qu'il est possible, et encore plus simple, de contribuer à cette traduction via <https://www.transifex.com/python-doc/public/>
+
 J'ai ensuite commencé à jeter un oeil à un bug concernant le changement de langage dans l'interface web de la doc Python (<http://bugs.python.org/issue31146>), mais je ne suis pas allé au bout au cours de ce sprint.
 
 
