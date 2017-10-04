@@ -277,6 +277,8 @@ Briser les barrières mentales:
 
 # Jour 3 - dimanche 24 septembre
 
+Le matin avait lieu l'AG annuelle de l'AFPY, dont voici le CR : <https://www.afpy.org/news/pv-de-lassemblee-generale-ordinaire-2017>
+
 ## 11h : Frets On Fire (X) et son écosystème après 11 ans - François Magimel
 
 Projet gagnant de l'_Assembly demo party_ 2006, issue à l'origine d'une boîte suédoise,
@@ -363,7 +365,7 @@ Vidéo: <https://www.youtube.com/watch?v=eZynCkvjjhE&list=PLetYPqNT2qjAinIBr976X
 Il y a au moins deux conférences qui m'avaient l'air très intéressants mais auxquelles, absence d'ubiquité oblige, je n'ai pas pu assister:
 celle sur [le solver Z3](https://github.com/Z3Prover/z3) de Michael Scherer, et celle sur l'histoire du standard Unicode de Guillaume Ayoub.
 
-Normalement toutes les présentations ont été filmées. Je mettrai cette page à jour avec les liens vers les vidéos & _slides_ lorsqu'ils seront disponibles.
+Les présentations ont été filmées: <https://www.youtube.com/playlist?list=PLetYPqNT2qjAinIBr976XSjJObaa-zUy5>
 
 A noter qu'en parallèle de la conférence, un ["Crypto challenge"](https://www.bde.enseeiht.fr/~deniauv/affiche.pdf) était organisé.
 Je ne me suis essayé qu'aux premières étapes (un bot <https://riot.im> était impliqué),
