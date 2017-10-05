@@ -33,12 +33,30 @@ et j'y ai donné donné 2 présentations, dont le contenu est disponible sur la 
 - [Jour 3 - dimanche 24 septembre](#jour-3---dimanche-24-septembre)
     * [11h : Frets On Fire (X) et son écosystème après 11 ans - François Magimel](#11h--frets-on-fire-x-et-son-ecosysteme-apres-11-ans---francois-magimel)
     * [12h : nuka - libérez le vilain devops qui est en vous - Gael Pasgrimaud](#12h--nuka---liberez-le-vilain-devops-qui-est-en-vous---gael-pasgrimaud)
-    * [14h : Construire et gérer un opérateur Internet en Python - Florian Vichot](#14h--construire-et-gerer-un-operateur-internet-en-python---florian-vichot)
+    * [14h : Construire et gérer un opérateur Internet en Python - Florian Vichot - Wifirst](#14h--construire-et-gerer-un-operateur-internet-en-python---florian-vichot---wifirst)
     * [16h30 : Organisez vos conférences avec PonyConf - Elie Bouttier](#16h30--organisez-vos-conferences-avec-ponyconf---elie-bouttier)
     * [17h : Python and Poland Directories - Christopher Lozinski](#17h--python-and-poland-directories---christopher-lozinski)
 - [Bilan](#bilan)
 
 <!-- tocstop -->
+
+<script>
+['h1', 'h2'].forEach(function (selector) {
+    document.querySelectorAll(selector).forEach(function (title) {
+        if (!title.classList.length) {
+            title.id = title.textContent
+                            .toLowerCase()
+                            .replace(/[()?:,'&]/g, '')
+                            .replace(/[à]/g, 'a')
+                            .replace(/[ç]/g, 'c')
+                            .replace(/[éêè]/g, 'e')
+                            .replace(/[ï]/g, 'i')
+                            .replace(/ /g, '-');
+        }
+    });
+});
+</script>
+
 
 # Jour 1 - vendredi 22 septembre
 
