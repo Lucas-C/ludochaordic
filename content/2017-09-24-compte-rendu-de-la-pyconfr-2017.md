@@ -40,23 +40,6 @@ et j'y ai donné donné 2 présentations, dont le contenu est disponible sur la 
 
 <!-- tocstop -->
 
-<script>
-['h1', 'h2'].forEach(function (selector) {
-    document.querySelectorAll(selector).forEach(function (title) {
-        if (!title.classList.length) {
-            title.id = title.textContent
-                            .toLowerCase()
-                            .replace(/[()?:,'&]/g, '')
-                            .replace(/[à]/g, 'a')
-                            .replace(/[ç]/g, 'c')
-                            .replace(/[éêè]/g, 'e')
-                            .replace(/[ï]/g, 'i')
-                            .replace(/ /g, '-');
-        }
-    });
-});
-</script>
-
 
 # Jour 1 - vendredi 22 septembre
 
@@ -391,3 +374,22 @@ mais à ce qu'on m'a dit il était tordu à souhait !
 
 Enfin, ça a surtout été l'occasion de faire de chouettes rencontres: Stéphane, Kevin, Damien, Florian, Hugo, Ludo, Antoine, Victor...
 Au plaisir de vous revoir à la prochaine convention ;)
+
+
+
+<script>
+['h1', 'h2'].forEach(function (selector) {
+    document.querySelectorAll(selector).forEach(function (title) {
+        if (!title.classList.length) {
+            title.id = title.textContent
+                            .toLowerCase()
+                            .replace(/[()?:,'&]/g, '')
+                            .replace(/[à]/g, 'a')
+                            .replace(/[ç]/g, 'c')
+                            .replace(/[éêè]/g, 'e')
+                            .replace(/[ï]/g, 'i')
+                            .replace(/ /g, '-');
+        }
+    });
+});
+</script>
