@@ -80,6 +80,9 @@ Ce projet de _Bibliothèques Sans Frontières_ est une application Django motori
 
 ![](images/2017/09/IdeasBox.jpg)
 
+Pour en savoir un peu plus sur ces projets de BSF, je vous invite à écoute l'émission récente de la radio Nova sur le sujet:
+<http://www.nova.fr/podcast/neo-geo/neo-geo-gren-seme-de-la-reunion-et-jeremy-lachal-de-bibliotheque-sans-frontieres>
+
 J'ai également découvert à cette occasion [Kiwix](http://wiki.kiwix.org), un beau projet à but humanitaire dont bénéficient plus d'1 million d'utilisateurs chaque année:
 
 > **Tout le monde n'a pas accès à Internet**
