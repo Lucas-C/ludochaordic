@@ -80,6 +80,8 @@ Ce projet de _Bibliothèques Sans Frontières_ est une application Django motori
 
 ![](images/2017/09/IdeasBox.jpg)
 
+Mathieu Bridon en parle plus en détails sur son blog: <https://mathieu.daitauha.fr/blog/2017/09/25/de-retour-de-pycon-fr-et-du-sprint-ideascube/>
+
 Pour en savoir un peu plus sur ces projets de BSF, je vous invite à écoute l'émission récente de la radio Nova sur le sujet:
 <http://www.nova.fr/podcast/neo-geo/neo-geo-gren-seme-de-la-reunion-et-jeremy-lachal-de-bibliotheque-sans-frontieres>
 
