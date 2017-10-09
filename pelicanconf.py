@@ -100,6 +100,4 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'index.html',
     'daniel-lindsen.html',
     'pages/slides.html',
-    'compte-rendu-de-la-pyconfr-2017.html',
 )]
-

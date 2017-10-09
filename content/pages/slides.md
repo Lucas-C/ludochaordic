@@ -6,6 +6,20 @@ Tags: lang:en
 
 <div class="uk-grid">
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+        <a class="uk-thumbnail" href="/lucas/slides/meetup-afpy-nantes-luigi">
+            <img class="uk-align-center" src="/lucas/slides/meetup-afpy-nantes-luigi/luigi-in-car.png" alt="Le personnage de jeu vidéo Luigi dans une voiture">
+            <div class="uk-thumbnail-caption">
+                <div class="uk-text-bold uk-text-primary">Pipelines luigi &amp; tests BDD behave</div>
+                <dl class="uk-description-list-list">
+                    <dt>Date</dt><dd>2017/10/3</dd>
+                    <dt>Lieu</dt><dd>Meetup AFPY Python @voyages-sncf.com Nantes</dd>
+                </dl>
+                <p>Notre utilisation des bibliothèques <code>luigi</code> et <code>behave</code> et un retour d'expérience des défis rencontrés avec</p>
+            </div>
+        </a>
+        <a href="https://github.com/Lucas-C/meetup-afpy-nantes-luigi">Sources reveal.js</a>
+    </div>
+    <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/pyconfr2017-pre-commit-hooks">
             <img class="uk-align-center" src="/lucas/slides/pyconfr2017-pre-commit-hooks/pre-commit-logo.png" alt="Logo pre-commit Python">
             <div class="uk-thumbnail-caption">
@@ -18,6 +32,7 @@ Tags: lang:en
             </div>
         </a>
         <a href="/lucas/slides/PyConFr2017_Hooks-de-pre-commit-pour-git.pdf">Slides PDF annotés</a>
+        <a href="https://github.com/Lucas-C/pyconfr2017-pre-commit-hooks">Sources reveal.js</a>
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/pyconfr2017-mindmap-par-sms">
@@ -32,6 +47,7 @@ Tags: lang:en
             </div>
         </a>
         <a href="/lucas/slides/PyConFr2017_Mindmap-web-controlee-par-sms-avec-Python-et-Twilio.pdf">Slides PDF annotés</a>
+        <a href="https://github.com/Lucas-C/pyconfr2017-mindmap-par-sms">Sources reveal.js</a>
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/intro-lua">
