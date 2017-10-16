@@ -31,6 +31,11 @@ Le meetup est gratuit mais il faut s'inscrire sur <http://www.meetup.com/Nantes-
    style="max-width: 100%">
 </a>
 
+<br>
+
+**EDIT [2017/10/12]**: un compte-rendu de ce meetup est disponible sur le site de l'AFPY nantaise:
+http://nantes.afpy.org/compte-rendu-du-meetup-du-mois-doctobre-2017.html
+
 <style>
 @media screen and (min-width: 40rem) {
     .column-img {
