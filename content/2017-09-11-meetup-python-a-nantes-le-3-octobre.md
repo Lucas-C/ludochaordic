@@ -17,7 +17,7 @@ Nous souhaiterions avoir plus de sujets, donc n'hésitez pas à proposer votre t
 
 Un buffet dinatoire sera servi pour l'occasion. RDV dès 18h30 pour débuter les talks à 19h.
 
-Si vous avez des questions ou des remarques concernant le meetup, contactez-nous sur la liste de diffusion : <http://lists.afpy.org/nantes/>
+Si vous avez des questions ou des remarques concernant le meetup, contactez-nous sur la liste de diffusion : <http://lists.afpy.org/mailman/listinfo/nantes>
 
 Le meetup est gratuit mais il faut s'inscrire sur <http://www.meetup.com/Nantes-Python-Meetup>
 
