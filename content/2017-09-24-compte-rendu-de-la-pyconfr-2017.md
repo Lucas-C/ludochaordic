@@ -78,7 +78,7 @@ Avec beaucoup de patience, [Mathieu Bridon](https://mathieu.daitauha.fr/blog/) e
 
 Ce projet de _Bibliothèques Sans Frontières_ est une application Django motorisant les [Ideas Box](http://www.ideas-box.org).
 
-![](images/2017/09/IdeasBox.jpg)
+![IdeasBox: portable media-center for refugee and vulnerable populations](images/2017/09/IdeasBox.jpg)
 
 Mathieu Bridon en parle plus en détails sur son blog: <https://mathieu.daitauha.fr/blog/2017/09/25/de-retour-de-pycon-fr-et-du-sprint-ideascube/>
 
