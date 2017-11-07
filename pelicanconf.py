@@ -82,6 +82,10 @@ AUTHOR_SAVE_AS = ''
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
+EXTRA_ATOM_FEED = {
+    'name': 'Shaarli',
+    'url': 'https://chezsoi.org/shaarli/?do=atom'
+}
 
 
 #######################################
