@@ -8,6 +8,9 @@ SITENAME = 'Ludochaordic'
 SITESUBTITLE = 'Fantaisies programatico-ludiques'
 DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
 
+# Readings, from most recent to oldest
+READINGS = ({'img_url': 'images/readings/l-art-internet.jpg', 'description': "L'Art Internet - Rachel Greene"},)
+
 # Blogroll
 LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ("Justin Mason's Weblog", 'http://taint.org'),
