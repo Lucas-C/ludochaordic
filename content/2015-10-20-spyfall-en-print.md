@@ -30,7 +30,7 @@ Pour les devs, je recommande vivement le procédé, qui permet du "templating" d
 
 Bien mieux que me précédent bricolages de cartes sour Word...
 
-<img src="images/wwcb/SaPlaceEstDansUnMus%C3%A9e.gif">
+<img src="images/wwcb/SaPlaceEstDansUnMusée.gif">
 
 L'idée originale de réaliser une version maison de ce jeu revient à mon ami, qui m'a fait découvrir l'existence de 2 apps, au code open-source, pour jouer sur smartphone:
 

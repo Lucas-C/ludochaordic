@@ -9,7 +9,10 @@ SITESUBTITLE = 'Fantaisies programatico-ludiques'
 DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
 
 # Readings, from most recent to oldest
-READINGS = ({'img_url': 'images/readings/l-art-internet.jpg', 'description': "L'Art Internet - Rachel Greene"},)
+READINGS = (
+    {'img_url': 'images/readings/l-art-internet.jpg', 'description': "L'Art Internet - Rachel Greene"},
+    {'img_url': 'images/readings/The-Thrilling-Adventures-of-Lovelace-and-Babbage.jpg', 'description': 'The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer'},
+)
 
 # Blogroll
 LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
@@ -106,5 +109,5 @@ STATIC_CREATE_LINKS = True # pending pelican 3.8.0 release
 WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'index.html',
     'daniel-lindsen.html',
-    'quelques-courts-metrages-des-utopiales-2017.html',
+    'certification-developpeur-rgaa-access42.html',
 )]
