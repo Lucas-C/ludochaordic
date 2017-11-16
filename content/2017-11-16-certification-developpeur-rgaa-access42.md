@@ -20,15 +20,10 @@ Pour plus de détails, je vous recommande:
 J'ai découvert l'accessibilité numérique lors d'une formation via mon travail à [voyages-sncf.com](https://www.voyages-sncf.com).
 Elle était passionnante, et dispensée par Jean-Pierre Villain, co-fondateur de la société Access42.
 
-<figure>
-  <img src="images/2017/11/JPVillain_Access42.png" alt="Jean-Pierre Villain" title="Jean-Pierre Villain">
-  <figcaption>Source: <a href="http://mieux-lemag.fr/access42-collectif-se-reapproprie-projet-dentreprise/">Interview du magazine Mieux</a></figcaption>
-</figure>
+![Logo d'Access42](images/2017/11/access42.jpg)
 
 [Access42](https://access42.net/prestations) est une [SCOP](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative) spécialisée dans l'accessibilité numérique,
 autrice du [référentiel d’accessibilité numérique de l'état français](https://references.modernisation.gouv.fr/rgaa-accessibilite/).
-
-![Logo d'Access42](images/2017/11/access42.jpg)
 
 Après avoir eu entre-temps l'occasion de développer [quelques](https://github.com/Lucas-C/pre-commit-hooks-lxml#fr-accessibilité-rgaa) [hooks de pre-commit git](https://github.com/Lucas-C/pre-commit-hooks-java#fr-accessibilité-rgaa) pour valider des critèrs d'accessibilité
 (à savoir: seul 20% environ des critères du RGAA sont automatisables), j'ai passé l'examen de certification de la formation à la fin du mois d'octobre.
