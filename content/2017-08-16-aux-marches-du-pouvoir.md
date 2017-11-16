@@ -118,6 +118,6 @@ Quelques retours des 3 autres joueurs:
 
 
 <style>
-img { display: block; margin: 0 auto; }
-figcaption { text-align: center; }
+article img { display: block; margin: 0 auto; }
+article figcaption { text-align: center; }
 </style>

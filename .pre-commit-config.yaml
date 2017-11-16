@@ -18,4 +18,4 @@
         language: pcre
         entry: "!\\[\\]\\("
         files: \.md$
-        exclude: rendering-deep-text-based-mindmaps-with-wisemapping-and-python
+        exclude: certification-developpeur-rgaa-access42|rendering-deep-text-based-mindmaps-with-wisemapping-and-python

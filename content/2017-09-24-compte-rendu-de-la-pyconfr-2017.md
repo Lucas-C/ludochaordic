@@ -4,13 +4,11 @@ Tags: lang:fr, python, open-source, hackathon, documentation, talk, conference, 
 Slug: compte-rendu-de-la-pyconfr-2017
 ---
 
-<img src="images/2017/09/pyconfr-2017-logo.png" alt="Logo PyConFr 2017"
-     style="display: block; margin: 0 auto">
+<img src="images/2017/09/pyconfr-2017-logo.png" alt="Logo PyConFr 2017">
 
 Cette année, [voyages-sncf.com](https://open.voyages-sncf.com) m'a permis d'aller à la conférence annuelle Python à Toulouse.
 
-<img src="images/2017/09/logo_voyages-sncf.com.png" alt="Logo voyages-sncf.com"
-     style="display: block; margin: 0 auto">
+<img src="images/2017/09/logo_voyages-sncf.com.png" alt="Logo voyages-sncf.com">
 
 En vrac, voici un petit résumé personnel de cette PyConFr.
 
@@ -48,7 +46,7 @@ Durant les deux jours de sprints nous étions tous rassemblés dans une grande s
 
 Il était proposé de contribuer à des projets Python parmi [une dizaine de présents](https://www.pycon.fr/2017/programme.html#sprints).
 A vue de nez, il y avait dans l'après-midi une soixante de personne concentrées sur leurs ordinateurs portables,
-regroupées par petits groupes autour de quelques tables.    
+regroupées par petits groupes autour de quelques tables.
 Un développeur connaissant le projet était sur place pour le présenter,
 indiquer quelques bugs faciles et accompagner les contributeurs.
 
@@ -173,7 +171,7 @@ Une présentation très complète détaillant beaucoup de conseils pour concevoi
 par le développeur de [Gnocchi](https://github.com/gnocchixyz/gnocchi).
 
 <img src="images/2017/09/gnocchi-logo.png" alt="Logo Gnocchi"
-     style="display: block; margin: 0 auto; max-width: 20rem">
+     style="max-width: 20rem">
 
 Les _slides_ de ce _talk_ étaient très complets. Voici quelques notes en pagaille qui en sont issues.
 
@@ -291,7 +289,7 @@ Projet gagnant de l'_Assembly demo party_ 2006, issue à l'origine d'une boîte 
 l'aventure continue pour clone de GuitarHero libre, _cloné_ de nombreuses fois.
 
 <img src="images/2017/09/frets-on-fire.png" alt="Illustration du jeu"
-     style="display: block; margin: 0 auto; max-height: 15rem">
+     style="max-height: 15rem">
 
 La dernière mouture activement maintenue s'appelle [FoFiX](http://fretsonfire.wikidot.com/fofix-install).
 
@@ -306,7 +304,7 @@ Et, chose que je trouve absolument géniale, un chercheur canadien a adapté _Fr
 Présentation d'un outil de déploiement fonctionnellement proche d'Ansible: [nuka](https://github.com/bearstech/nuka)
 
 <img src="images/2017/09/bearstech-logo.jpg" alt="Logo bearstech"
-     style="display: block; margin: 0 auto; max-height: 10rem">
+     style="max-height: 10rem">
 
 A bearstech ils utilisaient initialement un outil maison, [pussh](https://github.com/bearstech/pussh), très robuste,
 mais leurs clients souhaitaient quelque chose de plus moderne / sexy.
@@ -398,3 +396,7 @@ Au plaisir de vous revoir à la prochaine convention ;)
     });
 });
 </script>
+
+<style>
+article img { display: block; margin: 0 auto; }
+</style>
