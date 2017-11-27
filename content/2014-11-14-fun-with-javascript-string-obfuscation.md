@@ -29,3 +29,5 @@ Now, the commented source code of my own generic ASCII-to-NoAlnum translator can
 **EDIT[19/12/2014]** : there is an equivalent one for Python : <http://benkurtovic.com/2014/06/01/obfuscating-hello-world.html>
 
 **EDIT[3/03/2016]** : funnily, the recent vulnerability [Ebay has been exposed to](http://blog.checkpoint.com/2016/02/02/ebay-platform-exposed-to-severe-vulnerability/) relies on the very same trick, except that with [JSFuck](http://www.jsfuck.com) or [hieroglyphy](http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html?utm_content=buffer489d0&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer) you only need 6 non-alphanumeric characters !
+
+**EDIT[27/11/2017]** : more creative codeing : http://aem1k.com
