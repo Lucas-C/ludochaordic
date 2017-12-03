@@ -1,5 +1,6 @@
 Title: Bienvenue
 Tags: lang:fr
+Summary: Bienvenue sur ce blog :) Je me présente en quelques mots
 ---
 
 <figure class="column-img">
