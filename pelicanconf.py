@@ -109,6 +109,6 @@ STATIC_CHECK_IF_MODIFIED = True # pending pelican 3.8.0 release
 STATIC_CREATE_LINKS = True # pending pelican 3.8.0 release
 WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'index.html',
-    'daniel-lindsen.html',
-    'certification-developpeur-rgaa-access42.html',
+    'tagcloud.html',
+    #'daniel-lindsen.html',
 )]
