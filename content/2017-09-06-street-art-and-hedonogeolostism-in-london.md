@@ -144,5 +144,3 @@ img {
     transition: opacity 300ms;
 }
 </style>
-<script src="images/lazysizes-4.0.0-rc3.min.js" async=""></script>
-<script src="images/lazysizes-4.0.0-rc3.noscript.min.js" async=""></script>
