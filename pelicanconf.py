@@ -112,5 +112,6 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/bienvenue.html',
     'tagcloud.html',
 
+    'pencil-park.html',
     'daniel-lindsen.html',
 )]
