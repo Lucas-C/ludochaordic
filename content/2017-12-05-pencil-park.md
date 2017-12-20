@@ -8,11 +8,11 @@ disponbile en _print & play_ sur [boardgamegeek](https://boardgamegeek.com/filep
 
 Et je le recommande chaudement !
 
-![](images/2017/12/pencil-park.jpg)
+![Couverture du jeu Pencil Park](images/2017/12/pencil-park.jpg)
 
 Le jeu m'a fait beaucoup pensé à **La route des vignes**, que j'avais agréablement découvert au festival "Paris est ludique" en juin dernier.
 
-![](images/2017/12/la-route-des-vignes.jpg)
+![Couverture du jeu La route des vignes](images/2017/12/la-route-des-vignes.jpg)
 
 Il partage la même mécanique de tirage aléatoire imposant à chaque joueur un nouvel élement à placer sur la feuille de papier quadrillée devant lui,
 le plongeant ainsi dans un casse-tête géométrique compétitif.

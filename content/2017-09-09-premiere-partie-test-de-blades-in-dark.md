@@ -14,7 +14,7 @@ Voici un petit compte-rendu de notre première partie d'il y a quelques semaines
 
 [<img src="images/2017/09/f8023ad16d6734862e3899c200b0d612.jpg" alt="Ludius Dalmore" title="Ludius Dalmore">](images/2017/09/f8023ad16d6734862e3899c200b0d612.jpg)
 
-- **Ludius Dalmore** : chef du gang; ancien capitaine de navire chasseur de léviathans; très sec, avec une grande barbe; connu pour avoir fracasse des bâteaux dans le port de Duskwall; champion du vol de marchandise en cours de transport; se bat avec 2 haches
+- **Ludius Dalmore** : chef du gang; ancien capitaine de navire chasseur de léviathans; très sec, avec une grande barbe; connu pour avoir fracassé des bâteaux dans le port de Duskwall; champion du vol de marchandise en cours de transport; se bat avec 2 haches
 - **Ethnos** (PJ: _Hound_) : noble des "Dagger Isles"; très pieux et repentant; ancien freelance recruté dans le gang par la soeur de Ludius
 - **Eric Stamp** (PJ: _Cutter_) : féroce combattant originaire de Tycheros, dont la violence est à la hauteur de la réputation de démons qu'ont ces "étrangers"; recruté après avoir détruit un bâtiment entier alors que le gang opérait un casse à proximité
 - **Elaria** (PJ: _Lurk_) : voleuse originaire d'une famille pauvre de travailleurs d'Akoros, recueillie par Ludius très jeune; a fait de la prison pour cambriolage; toxicomane
@@ -117,25 +117,24 @@ les PJs rejoignent le gang des Crows dans un hangar des docks pour le deal prév
     <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour</a></figcaption>
 </figure>
 
-Les PJs semblent les premiers au RDV. Après une demi-heure, toujours pas de trace des Crows, quant un homme de main vient les prévenir de déguerpir,
-car la milice est en train de faire une raffle dans le quartier.
+Les PJs semblent les premiers au RDV. Après une demi-heure, toujours pas de trace des Crows, lorsque surgit un de leurs hommes de main. Il les prévient de déguerpir car la milice est en train de faire une raffle dans le quartier.
 
 Le groupe se scinde alors : Melvir et Eric fuient en direction du quartier d'habitation le plus proche, tandis qu'Elvira et Ethnos échappent de peu
 à une pluie de balles d'un char de la milice sur les docks, et trouvent leur salut en plongeant dans l'eau.
-De leur côté, Eric et Melvir manquent de peu de tomber sur la milice, et se planquent finalement dans les quartiers des domestiques d'une résidence pour la nuit.
+De leur côté, Eric et Melvir manquent de peu de tomber sur la milice, et Eric se planque finalement dans les quartiers des domestiques d'une résidence pour la nuit.
 
 <hr>
 
 De retour à la planque, Stravul leur révèle qu'il a fait ce qu'il a pu. Laudius est mort.
 Enfin... partiellement.
 
-Laudius, horrifié et perdu, quite la planque en rage.
+Laudius, horrifié de ce qu'il est devenu, quite la planque en rage.
 
-C'est à ce moment que Melvir débarque, affolé : il y a une rixe générale à l'auberge de la Goule Fendue, sur le territoire du gang du Harpon.
-On accuse le combat de lutte d'être truqué, et des membres du gang de l'Oeil Blanc seraient en train de saccager l'endroit !
+Toute aussi désemparée, Elvira, furieuse, élimine brutalement Stravul. C'est à ce moment que Melvir débarque, affolé : il y a une rixe générale à l'auberge de la **Goule Fendue**, sur le territoire du gang du Harpon.
+On accuse le combat de lutte d'être truqué, et des membres du gang de l'**Oeil Blanc** seraient en train de saccager l'endroit !
 
-Tandis qu'Elvira part à la poursuite de Ludius, Eric se rend à l'auberge, tandis qu'Ethnos, très mal en point, se poste avec un fusil sur un toit proche.
-En quelques minutes Eric règle leur compte aux quelques agitateurs. Il affronte également Murlene, son ennemi intime, et un incendie se déclare.
+Tandis qu'Elvira part à la poursuite de Ludius, Eric se rend à l'auberge, avec Ethnos qui, très mal en point, se poste avec un fusil sur un toit proche.
+En quelques minutes Eric règle leur compte aux quelques agitateurs. Il affronte également **Marlene**, son ennemi personnel, et un incendie se déclare.
 Ethnos se charge d'abattre les quelques membres du gang de l'Oeil Blanc qui tentent de s'enfuir, en laissant un vivant pour porter son message :
 ici c'est **leur territoire**.
 
@@ -159,6 +158,8 @@ la compréhension des points de règles et la traduction des termes en français
 
 En définitive, hâte de remettre ça !
 
+
+**EDIT [20/12/2017]** : la suite de la campagne est consignée sur [cette page](pages/jdr-blades-in-the-dark.html).
 
 <style>
 article img {
