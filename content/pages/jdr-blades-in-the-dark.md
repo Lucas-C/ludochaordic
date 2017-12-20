@@ -4,6 +4,8 @@ Slug: jdr-blades-in-the-dark
 Status: hidden
 ---
 
+![Illustration officielle de Blades in the Dark](images/bitd/BitD_cover.jpg)
+
 ## Session 1
 Pour le résumé de la première partie, se réferrer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
 
@@ -37,6 +39,8 @@ _→ **3/3** ok_
 - bilan du stress et des blessures de chaque PJ
 
 ### Compte-rendu de partie
+<img alt="le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
+
 - le gang des PJs découvrent une page du logbook tachée de sang dans les affaires de Stravul
 - Ethnos envisage de remplacer Ludius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
 mais Elaria refuse tout en bloc : pas question de remplacer leur _leader_, il faut le sauver !
