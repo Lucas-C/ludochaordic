@@ -64,11 +64,9 @@ PLUGINS = ['image_process', 'representative_image', 'tag_cloud']
 IMAGE_PROCESS = {
     'thumb': ['scale_out 300 300 False'],
 }
-IMAGE_PROCESS_EXCLUDE = ['tipue_search.json']
 
 THEME = '../pelican-mg'
-DIRECT_TEMPLATES = ('index', 'search', 'tagcloud', 'tipue_search')
-TIPUE_SEARCH_SAVE_AS = 'tipue_search.json'
+DIRECT_TEMPLATES = ('index', 'tagcloud')
 DEFAULT_PAGINATION = False
 
 ISSO_BASE_URL = '/lucas/isso'
@@ -112,6 +110,5 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/bienvenue.html',
     'tagcloud.html',
 
-    'pages/jdr-blades-in-the-dark.html',
     'daniel-lindsen.html',
 )]
