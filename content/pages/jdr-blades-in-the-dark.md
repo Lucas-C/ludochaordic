@@ -51,6 +51,7 @@ il va organiser une cérémonie pour désenvouter Ludius. Le gang doit toutefois
 - la soeur de Ludius, Justinia, était en voyage et rentre demain
 - les _physickers_ consomment des potions d'alchimiste pour modifier leur corps
 - gang **Oeil Blanc** == **Lampbacks** dans le bouquin VO
+- le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence, et déjà le gang de l'Oeil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
 
 
 <style>
