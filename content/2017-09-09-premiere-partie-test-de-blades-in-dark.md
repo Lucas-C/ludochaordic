@@ -1,6 +1,6 @@
 Title: Première partie test de Blades In The Dark
 Date: 2017-09-09 16:00
-Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, jeux, @Simon, @Elliot, @ThomasG
+Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, john-harper, jeux, @Simon, @Elliot, @ThomasG
 Slug: premiere-partie-test-de-blades-in-dark
 Image: images/2017/09/f7e12590ecc0f025dc93f885c6fc92cc.jpg
 ---
@@ -43,7 +43,7 @@ afin d'y dérober un très vieux et précieux journal de bord, détaillant les r
 
 <figure>
     <a href="images/2017/09/ship-infiltration.jpg"><img src="images/2017/09/ship-infiltration.jpg" alt="Infiltration sur le navire de Drav Walund"></a>
-    <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour</a></figcaption>
+    <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour-Duhaime</a></figcaption>
 </figure>
 
 Ethnos & Elvira abordent discrètement le navire en barque, de nuit, tandis qu'Eric se charge de créer une diversion sur le ponton des docks,
@@ -109,12 +109,12 @@ les PJs rejoignent le gang des Crows dans un hangar des docks pour le deal prév
 
 <figure>
     <a href="images/2017/09/Thief_Game_Concept_Art_MLD_30.jpg"><img src="images/2017/09/Thief_Game_Concept_Art_MLD_30.jpg" alt="Extérieur de l'entrpôt sur les quais"></a>
-    <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour</a></figcaption>
+    <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour-Duhaime</a></figcaption>
 </figure>
 
 <figure>
     <a href="images/2017/09/Thief-city-hub-101.jpg"><img src="images/2017/09/Thief-city-hub-101.jpg" alt="Intérieur de l'entrpôt sur les quais"></a>
-    <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour</a></figcaption>
+    <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour-Duhaime</a></figcaption>
 </figure>
 
 Les PJs semblent les premiers au RDV. Après une demi-heure, toujours pas de trace des Crows, lorsque surgit un de leurs hommes de main. Il les prévient de déguerpir car la milice est en train de faire une raffle dans le quartier.
