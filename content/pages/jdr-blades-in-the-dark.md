@@ -59,7 +59,7 @@ il va organiser une cérémonie pour désenvouter Ludius. Le gang doit toutefois
 
 
 ## One-shot "préquelle" avec d'autres joueurs et le système Psi*Run
-cf. https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html
+cf. <https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html>
 
 <style>
 article img {
