@@ -58,6 +58,9 @@ il va organiser une cérémonie pour désenvouter Ludius. Le gang doit toutefois
 - le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence, et déjà le gang de l'Oeil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
 
 
+## One-shot "préquelle" avec d'autres joueurs et le système Psi*Run
+cf. https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html
+
 <style>
 article img {
   max-height: 80vh;
