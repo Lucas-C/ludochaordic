@@ -38,6 +38,9 @@ extremely smart and most of all very fun !
 
 ![WindowFame gameplay glimpse](images/2018/01/WindowFrame.gif)
 
+One thing that stroke most is how the game use window resizing & positioning in some scenes as "camera",
+to focus the player sight on one character in one corner of the screen. It's a bit like an animated comics !
+
 It was made for [Ludum Dare 35](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=3479) game jam.
 I urge you to test it and brave the terrible 6 vampire bosses !
 
