@@ -45,11 +45,6 @@ It was made for [Ludum Dare 35](http://ludumdare.com/compo/ludum-dare-35/?action
 I urge you to test it and brave the terrible 6 vampire bosses !
 
 
-### Worm Dungeon & Reap
-
-...Testing in progress !
-
-
 <style>
 article img {
     display: block;
