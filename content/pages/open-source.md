@@ -45,7 +45,7 @@ I also made some maps for a Ludum Dare game, back in 2009 (the game is worth try
 
 ### Open-source projects from VoyagesSncf.com
 
-When working at [voyages-sncf.com](jobs.voyages-sncf.com), I had the opportunity to create the following open-source projects:
+When working at [oui.sncf](https://jobs.oui.sncf), I had the opportunity to create the following open-source projects:
 
 - [<img alt="Logo V.Board" src="images/open-source/logo-vboard.jpg" style="max-width: 6em"> `V.Board`](https://github.com/voyages-sncf-technologies/vboard) :
 a "pins" dashboard to share news among an organization
