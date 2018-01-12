@@ -47,6 +47,9 @@ I also made some maps for a Ludum Dare game, back in 2009 (the game is worth try
 
 When working at [voyages-sncf.com](jobs.voyages-sncf.com), I had the opportunity to create the following open-source projects:
 
+- [<img alt="Logo V.Board" src="images/open-source/logo-vboard.jpg" style="max-width: 6em"> `V.Board`](https://github.com/voyages-sncf-technologies/vboard) :
+a "pins" dashboard to share news among an organization
+
 - [<img alt="Logo hesperides-jenkins-lib" src="images/open-source/hesperides-jenkins-lib-logo.png" style="max-width: 6em"> `hesperides-jenkins-lib`](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib) :
 a shared lib for Jenkins pipelines to interact with Hesperides, the in-house configuration management system
 
