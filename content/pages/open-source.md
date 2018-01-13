@@ -43,7 +43,7 @@ I also made some maps for a Ludum Dare game, back in 2009 (the game is worth try
 <http://eriatic.wikidot.com/blog:triumph-mappack>
 
 
-### Open-source projects from VoyagesSncf.com
+### Open-source projects made at oui.sncf
 
 When working at [oui.sncf](https://jobs.oui.sncf), I had the opportunity to create the following open-source projects:
 
