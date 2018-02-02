@@ -1,6 +1,6 @@
 Title: Meetup Python à Nantes le 3 octobre
 Date: 2017-09-11 12:00
-Tags: lang:fr, python, meetup, nantes, voyages-sncf, @ThomasD, prog
+Tags: lang:fr, python, meetup, nantes, oui.sncf, @ThomasD, prog
 Slug: meetup-python-a-nantes-le-3-octobre
 ---
 

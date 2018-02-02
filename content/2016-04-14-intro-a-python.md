@@ -1,6 +1,6 @@
 Title: Intro à Python & les frameworks web
 Date: 2016-04-14 11:04
-Tags: lang:fr, python, slides, reveal-js, frameworks, web, voyages-sncf, markdown, voyages-sncf, prog
+Tags: lang:fr, python, slides, reveal-js, frameworks, web, oui.sncf, markdown, voyages-sncf, prog
 Slug: intro-a-python
 ---
 Le mois dernier j'ai rapidement présenté le language Python et les frameworks web existants à mon équipe à [Voyages-Sncf.com](http://jobs.voyages-sncf.com).

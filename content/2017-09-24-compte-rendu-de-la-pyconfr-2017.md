@@ -1,6 +1,6 @@
 Title: Compte-rendu de la PyConFr 2017
 Date: 2017-09-25 19:00
-Tags: lang:fr, python, open-source, hackathon, documentation, talk, conference, slides, toulouse, voyages-sncf, prog
+Tags: lang:fr, python, open-source, hackathon, documentation, talk, conference, slides, toulouse, oui.sncf, prog
 Slug: compte-rendu-de-la-pyconfr-2017
 ---
 
@@ -233,7 +233,7 @@ Quelques anecdotes découvertes au passage:
 - l'intégration continue de CPYthon se fait via des instances [buildbot](http://buildbot.net) hébergées par des bénévoles,
 dont l'exécution est déclenchée à distance, ce qui peut mener des [échanges assez drôles](https://haypo.github.io/python-buildbots-2017q2.html#the-vacuum-cleaner) sur la mailing-list.
 
-- suite à l'incident de sécurité sur <pypi.org> (paquets typosquattés) qui a refait surface ce mois-ci,
+- suite à l'incident de sécurité sur <https://pypi.org> (paquets typosquattés) qui a refait surface ce mois-ci,
 de nombreux commentaires violemment critiques ont été postés sur des sites comme Hacker News, accusant directement
 les mainteneurs de pypi et les devs CPython.
 

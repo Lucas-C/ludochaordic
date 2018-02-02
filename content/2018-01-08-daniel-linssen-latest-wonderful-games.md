@@ -52,6 +52,6 @@ article img {
     max-height: 30rem;
 }
 article figcaption {
-  text-align: center;
+    text-align: center;
 }
 </style>

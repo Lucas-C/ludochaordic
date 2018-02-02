@@ -168,6 +168,6 @@ article img {
   margin: 0 auto;
 }
 article figcaption {
-  text-align: center;
+    text-align: center;
 }
 </style>

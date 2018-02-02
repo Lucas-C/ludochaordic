@@ -10,6 +10,7 @@ DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/desobeisseurs-du-service-public.jpg', 'description': 'Les désobéisseurs du service public (BD)'},
     {'img_url': 'images/readings/l-art-internet.jpg', 'description': "L'Art Internet - Rachel Greene"},
     {'img_url': 'images/readings/The-Thrilling-Adventures-of-Lovelace-and-Babbage.jpg', 'description': 'The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer'},
 )
@@ -110,5 +111,6 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'tagcloud.html',
     'pages/bienvenue.html',
 
-    'daniel-linssen-latest-wonderful-games.html',
+    'drafts/post-mortem-de-la-global-game-jam-2018.html',
+    'post-mortem-de-la-global-game-jam-2018.html',
 )]

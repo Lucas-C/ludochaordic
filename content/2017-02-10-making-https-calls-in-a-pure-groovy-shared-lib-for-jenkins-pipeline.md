@@ -1,6 +1,6 @@
 Title: Making HTTPS calls in a pure Groovy shared lib for Jenkins pipeline
 Date: 2017-02-10 15:02
-Tags: lang:en, jenkins, groovy, pipeline, https, voyages-sncf, prog
+Tags: lang:en, jenkins, groovy, pipeline, https, oui.sncf, prog
 Slug: making-https-calls-in-a-pure-groovy-shared-lib-for-jenkins-pipeline
 ---
 ![Demonic version of the Jenkins logo](images/2017/02/butler-devil.png)

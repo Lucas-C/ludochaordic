@@ -1,6 +1,6 @@
 Title: Certification développeur RGAA Access42
 Date: 2017-11-16 18:00
-Tags: lang:fr, certification, formation, accessibilite, access42, voyages-sncf, python, video-game, prog
+Tags: lang:fr, certification, formation, accessibilite, access42, oui.sncf, python, video-game, prog
 Slug: certification-developpeur-rgaa-access42
 ---
 ![](images/2017/11/accessibilite_numerique.jpg)
@@ -31,7 +31,7 @@ Après avoir eu entre-temps l'occasion de développer [quelques](https://github.
 **Et au final, lundi 6 novembre dernier, j'ai été très fier d'obtenir ma certification
 _Développer des sites web avec le RGAA 3.0_ !!**
 
-Merci à Jean-Pierre et Audrey d'Access42, ainsi qu'à voyages-sncf.com pour m'avoir permis d'obtenir cette certification.
+Merci à Jean-Pierre et Audrey d'Access42, ainsi qu'à <voyages-sncf.com> pour m'avoir permis d'obtenir cette certification.
 
 L'enjeu maintenant pour moi va être d'appliquer au quotidien ce que j'ai appris,
 de me maintenir à jour et de transmettre ces bonnes pratiques.
@@ -49,8 +49,5 @@ article img {
   max-height: 30vh;
   display: block;
   margin: 0 auto;
-}
-article figcaption {
-  text-align: center;
 }
 </style>
