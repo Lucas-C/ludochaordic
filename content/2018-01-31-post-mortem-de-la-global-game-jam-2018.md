@@ -10,11 +10,11 @@ Dans cet article, je vais vous présenter comment elle s'est déroulée,
 et faire le point sur ce qui a plus ou moins bien marché pour notre projet,
 [The King Must Know](https://globalgamejam.org/2018/games/king-must-know), dont voici l'écran d'accueil :
 
-[![Ecran d'accueil du jeu](images/2018/01/GGJ2018_GameIntroScreenshot.png)](https://globalgamejam.org/2018/games/king-must-know)
+[![Écran d'accueil du jeu](images/2018/01/GGJ2018_GameIntroScreenshot.png)](https://globalgamejam.org/2018/games/king-must-know)
 
 J'avais déjà participé à quelques game jams durant mes études à l'[Ensimag](http://ensimag.grenoble-inp.fr).
 Contraintes de colocation obligent, nous nous retrouvions à 8 dans ma chambre d'étudiant d'une quinzaine de mètres carrés, entre 11h du matin et 22h.
-On codait [comme des pieds](https://github.com/Lucas-C/ImagGameJams), on faisait nos sprites sous Paint, et on s'amusaient comme des petits fous 😋 🎮 😵
+On codait [comme des pieds](https://github.com/Lucas-C/ImagGameJams), on faisait nos _sprites_ sous Paint, et on s'amusaient comme des petits fous 😋 🎮 😵
 
 Cette fois, la Global Game Jam était organisée par les écoles E-art Sup & Epitech dans les leurs locaux à Nantes.
 Merci à eux pour la super organisation, et pour nous avoir prêté leurs locaux le temps du week-end !
@@ -28,11 +28,11 @@ Avec deux collègues de [oui.sncf](https://www.oui.sncf), Henri & Loïc, nous av
 Voici grosso-modo comment s'est déroulé le week-end:
 
 - **vendredi 18h30** : une centaine environ de participants se tassent dans un amphi d'E-art Sup, pour donner le coup d'envoi.
-Une introduction par [Florent De Grissac](http://www.casusludi.com) nous invite à réflechir à la raison pour laquelle nous faisons des jeux,
+Une introduction par [Florent De Grissac](http://www.casusludi.com) nous invite à réfléchir à la raison pour laquelle nous faisons des jeux,
 et nous détaille le programme de la GGJ ainsi que quelques conseils.
-La keynote officielle de la GGJ est ensuite diffusée, divulguant **le thème : TRANSMISSION**
+La _keynote_ officielle de la GGJ est ensuite diffusée, divulguant **le thème : TRANSMISSION**
 - nous avons alors **10 à 15min** pour imaginer un concept de jeu !
-Avec l'équipe, nous aboutissons à une demi-douzaine d'idées, parmis lesquelles:
+Avec l'équipe, nous aboutissons à une demi-douzaine d'idées, parmi lesquelles:
     * un "party game" de reconnaissance vocale pour téléphone mobile,
     où chaque participant doit prononcer les mots d'une phrase, chacun son tour, dans des langues étrangères
     * un jeu d'évaluation des distances où des personnages s'envoient des messages télépathiques
@@ -46,10 +46,10 @@ Une restitution des idées a alors lieux dans l'amphi, ou chaque projet décrit 
 Comme nous avons une équipe mais pas encore de consensus entre nous sur une idée, nous séchons cette étape 😳
 
 - **vendredi 21h** : l'équipe investit une petite salle de l'Epitech.
-Nous partons finalement sur une idée d'Henri (très prolifique en concepts !) de transmision de message dans une prison.
+Nous partons finalement sur une idée d'Henri (très prolifique en concepts !) de transmission de message dans une prison.
 Nous nous répartissions brièvement les tâches pour la soirée, en partant d'un exemple utilisant le framework [PhaserJS](https://phaser.io)
 afin d'essayer d'avoir un prototype au plus vite. Plusieurs dizaines de schémas et de dessins sont gribouillés et commentés.
-Vu le concept sur lequel on est parti, ce serait génial d'utiliser les sprites de [PrisonArchitect](http://store.steampowered.com/app/233450/Prison_Architect/) !
+Vu le concept sur lequel on est parti, ce serait génial d'utiliser les _sprites_ de [PrisonArchitect](http://store.steampowered.com/app/233450/Prison_Architect/) !
 Comme c'est un jeu commercial, j'envoie un email [au graphiste qui les a réalisé ](http://ryansumo.blogspot.fr) ainsi qu'à [l'éditeur du jeu](https://www.introversion.co.uk/introversion/#about).
 Dans l'immédiat, nous décidons d'utiliser un ensemble de _spritesheets_ de [kenney.nl](https://kenney.nl).
 - **vendredi dans la soirée** : Lucas Fleurance vient nous proposer de réaliser une bande son pour le jeu !
@@ -60,7 +60,7 @@ Henri réalise le superbe écran d'intro
 Nous participons tout de même à un échange très sympa et motivant avec deux autres équipes participantes,
 pour faire le point sur nos avancées et avoir quelques premiers retours.
 - **samedi 19h** : alors que nous avons enfin un prototype jouable,
-Chris Delay dIntroversion Software nous donne très aimablement l'authorization par email d'utiliser les sprites de Prison Architect pour notre jeu !
+Chris Delay dIntroversion Software nous donne très aimablement l'autorisation par email d'utiliser les _sprites_ de Prison Architect pour notre jeu !
 Il est malheureusement trop tard pour nous pour les utiliser 😞
 - **samedi minuit** : au dodo pour moi et Loïc, Henri lui poursuit jusqu'au bout de la nuit 💤
 - **dimanche 7h** : dernière ligne droite: on corrige quelques bugs;
@@ -94,16 +94,16 @@ et de ne pas s'être usé les nerfs les uns les autres
 
 Nous avons aussi listé les obstacles qui nous ont cassé les pieds durant cette jam:
 
-- perdre du temps sur des "git merge" suite à des changements d'indentation automatique car nos IDEs étaient configurés différement 😬
+- perdre du temps sur des "git merge" suite à des changements d'indentation automatique car nos IDEs étaient configurés différemment 😬
 - un bug de Phaser JS sur le chargement des _spritesheets_
-([raporté](https://github.com/photonstorm/phaser-ce/issues/448) depuis et en cours de correction)
+([rapporté](https://github.com/photonstorm/phaser-ce/issues/448) depuis et en cours de correction)
 - retrouver la position des sprites que l'on voulait utiliser dans les grandes _spritesheets_ → très laborieux
-- perdre du temps sur la gestion de la caméra, de la grille de sprites et de leur mise à l'échelle à l'écran
+- perdre du temps sur la gestion de la caméra, de la grille de _sprites_ et de leur mise à l'échelle à l'écran
 
 Les trucs auxquels penser la prochaine fois:
 
 - prévoir d'utiliser une éditeur de "tilemaps" comme Tiled, compatible avec Phaser JS, pour gagner du temps
-- préparer un peu plus notre "template" de code de départ, en prévoyant comment structurer les entitées Phaser JS,
+- préparer un peu plus notre "template" de code de départ, en prévoyant comment structurer les entités Phaser JS,
 et en configurant un "linter" ES6
 
 Fonctionnalités qu'on aurait aimé ajouter:
@@ -126,7 +126,7 @@ voici les principaux outils que nous avons utilisé:
 
 Pour conclure, merci encore aux organisateurs de cette fantastique jam !
 
-Je vous encourage à jeter un oeil à tous les jeux créés ce week-end là à [Nantes](https://globalgamejam.org/2018/jam-sites/epitech-nantes), et partout ailleurs dans le monde !
+Je vous encourage à jeter un œil à tous les jeux créés ce week-end là à [Nantes](https://globalgamejam.org/2018/jam-sites/epitech-nantes), et partout ailleurs dans le monde !
 
 <style>
 article img {
