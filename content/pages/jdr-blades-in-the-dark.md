@@ -71,3 +71,8 @@ article figcaption {
   text-align: center;
 }
 </style>
+
+
+## Session 3
+
+Galerie d'illustrations pour Dishonored 2 de [Nicolas Petrimaux](https://www.artstation.com/nicolab)
