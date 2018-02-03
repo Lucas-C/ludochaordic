@@ -132,6 +132,8 @@ ainsi que partout ailleurs dans le monde !
 
 Et pour tester le notre en ligne, [cliquez ici](https://lucas-c.github.io/OuiJam2018/build/).
 
+On aimerait beaucoup vos avis / suggestions dessus, donc laissez nous un commentaire si vous le testez !
+
 <style>
 article img {
     display: block;
