@@ -1,6 +1,6 @@
 Title: Reverse engineering de l'API HTTP derrière une app android
 Date: 2018-02-14 23:30
-Tags: lang:fr, lubie, reverse-engineering, android, fail
+Tags: lang:fr, lubie, reverse-engineering, android, fail, python, java, prog
 Slug: reverse-engineering-the-http-api-behind-an-android-app
 ---
 
