@@ -15,7 +15,7 @@
     hooks:
     -   id: forbid-empty-img-alt-in-markdown
         name: Ensure Markdown images have an alternative text for accessibility
-        language: pcre
+        language: pygrep
         entry: "!\\[\\]\\("
         files: \.md$
         exclude: certification-developpeur-rgaa-access42|rendering-deep-text-based-mindmaps-with-wisemapping-and-python
