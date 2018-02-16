@@ -13,7 +13,7 @@ from pelicanconf import *
 SITEURL = 'https://chezsoi.org/lucas/blog'
 RELATIVE_URLS = False
 
-# Reverting speed optmization settings
+# Reverting speed optimization settings
 TAG_SAVE_AS = 'tag/{slug}.html'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 WRITE_SELECTED = []

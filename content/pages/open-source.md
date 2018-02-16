@@ -4,6 +4,7 @@ Tags: lang:en, open-source, cygwin, pre-commit, shaarli, luigi
 
 ## Pet projects, musings
 
+- [`The King Must Know`](https://github.com/Lucas-C/OuiJam2018) : a Phaser JS short video game made with 2 colleagues during the Global Game Jam 2018
 - [`unicode-search`](https://github.com/Lucas-C/unicode-search) : a NodeJS CLI program to search unicode characters by name
 - [`rpg-bonhomme`](https://github.com/Lucas-C/rpg-bonhomme) : a tabletop RPG character sheet viewer, using a JSONP key-value store
 - [`genealogic-d3`](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using d3.js
