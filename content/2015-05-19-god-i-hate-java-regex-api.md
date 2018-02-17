@@ -11,7 +11,7 @@ matcher.matches();
 assert matcher.group(1) == "i";
 ```
 
-<img src="images/wwcb/rage-comic-angry.jpg">
+<img amt="Angry face" src="images/wwcb/rage-comic-angry.jpg">
 
 En Python:
 

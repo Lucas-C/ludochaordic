@@ -23,6 +23,6 @@ In fact, all 128 ASCII characters are encoded in the same way in UTF8. More impo
 Nice property isn't it ?
 Now go get a glance on the [Wikipedia page](//en.wikipedia.org/wiki/UTF-8#History) to find out about this encoding intersting history.
 
-<a href="//en.wikipedia.org/wiki/Office_Space"><img src="images/wwcb/YeahThanks-IfWeCouldGetbackToWorkNowThatdBeGreat.jpg"></a>
+<a href="//en.wikipedia.org/wiki/Office_Space"><img alt="Animation tirée du film Office Space" src="images/wwcb/YeahThanks-IfWeCouldGetbackToWorkNowThatdBeGreat.jpg"></a>
 
 The Python script is certainly not the fastest for the task, but simple enough for my need, and could be useful to write tests for Python code processing byte strings: it can generate all the 1112064 valid UTF8 code points, plus some extra invalid ones.

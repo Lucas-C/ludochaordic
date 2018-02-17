@@ -49,7 +49,7 @@ Et voici la sortie obtenue:
 
 Cette astuce est complètement indépendante du type de _shell_, et devrait fonctionner avec [tous les descendants du vénérable `sh`](http://hyperpolyglot.org/unix-shells), y compris [`dash`](//wiki.ubuntu.com/DashAsBinSh).
 
-Bien que très simple, cette technique est quelque peu limitée: pas moyen d'obtenir du texte <strike>barré</strike> ou <em>italique</em> car certains terminaux supportent ces styles, mais pas tous <sup><a href="#fn3" id="ref3">[3]</a></sup>.
+Bien que très simple, cette technique est quelque peu limitée: pas moyen d'obtenir du texte <del>barré</del> ou <em>italique</em> car certains terminaux supportent ces styles, mais pas tous <sup><a href="#fn3" id="ref3">[3]</a></sup>.
 
 Si vous avez des besoin plus complexes, je vous invite à jeter un oeil au manuel de la commande `tput` qui est bien plus expressive et portable. Vous obtiendrez le même résultat que ci-desssus en l'utilisant ainsi:
 

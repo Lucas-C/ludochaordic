@@ -37,7 +37,7 @@ Néanmoins, il reste indéniable que les participants étaient fortement favoris
 
 J'espère sincèrement que la prochaine édition de la BattleDev ne comportera pas ce genre d'inégalités linguistiques.
 
-<img src="images/wwcb/OnlyOneToGiveAShitAboutRules.gif" style="width: 60%">
+<img alt="Animation tirée de The Big Lebowsky" src="images/wwcb/OnlyOneToGiveAShitAboutRules.gif" style="width: 60%">
 
 ---
 

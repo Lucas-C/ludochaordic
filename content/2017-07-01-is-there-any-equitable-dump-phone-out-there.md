@@ -3,7 +3,7 @@ Date: 2017-07-01 08:07
 Tags: lang:en, latpop, phone, equitable, repairability, oss, fairphone, nantes
 Slug: is-there-any-equitable-dump-phone-out-there
 ---
-<img src="images/2017/07/CargoCultFeaturePhone.jpg" style="max-height: 300px">
+<img alt="False cellphone in wood" src="images/2017/07/CargoCultFeaturePhone.jpg" style="max-height: 300px">
 
 Hello all.
 

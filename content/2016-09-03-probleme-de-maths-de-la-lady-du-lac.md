@@ -15,18 +15,18 @@ Cependant, la solution proposée par _tangente_ ne me satisfait pas vraiment. L'
 Afin de visualiser les différentes solutions possibles selon les règles que l'on choisit de fixer, j'ai développé **un petit simulateur web**: [https://chezsoi.org/lucas/maths/lady\_of\_the\_lake.html](https://chezsoi.org/lucas/maths/lady_of_the_lake.html)
 
 La configuration par défaut correspond à la solution de _tangente_ :
-<img src="images/2016/09/SolutionTangente.png" style="width: 50%">
+<img alt="Capture d'écran de la simulation correspondant à la solution de Tangente" src="images/2016/09/SolutionTangente.png" style="width: 50%">
 
 Cete solution prend comme postulat que la direction du soupirant est **invariante**, c'est-à-dire qu'il choisit une direction pour tourner autour du lac au départ, et **qu'il n'en change jamais ensuite**.
 
 Néanmoins, avec un tel postulat, une solution bien **plus simple** est de prendre le soupirant **à contre-pied** :
-<img src="images/2016/09/ContrePied.png" style="width: 50%">
+<img alt="Capture d'écran de la simulation correspondant à la solution à contre-pied" src="images/2016/09/ContrePied.png" style="width: 50%">
 
 Au-contraire, si on considère que le poursuivant **adapte sa direction** afin de se rapprocher systématiquement de la lady, alors **la solution de _tangente_ ne fonctionne pas**:
-<img src="images/2016/09/SolutionTangenteAvecSoupirantChangeantDeDirection.png" style="width: 50%">
+<img alt="Capture d'écran de la simulation correspondant à la solution de Tangente avec soupirant changeant de direction" src="images/2016/09/SolutionTangenteAvecSoupirantChangeantDeDirection.png" style="width: 50%">
 
 Essayons maintenant de simuler une lady qui **s'adapte véritablement et dynamiquement** à la position de son poursuivant, <cite>"de sorte que le centre du lac soit toujours compris entre elle et son poursuivant sur le rivage, les trois points étant alignés"</cite>, comme propose la solution de _tangente_ :
-<img src="images/2016/09/FullAdaptiveWithRatio4.png" style="width: 50%">
+<img alt="Capture d'écran de la simulation correspondant à un soupirant dynamique 4 fois plus rapide" src="images/2016/09/FullAdaptiveWithRatio4.png" style="width: 50%">
 
 **Que se passe-t-il ??**
 
@@ -35,6 +35,6 @@ Il est intéressant de remarquer que sa trajectoire semble converger vers un cer
 
 Enfin, on peut essayer des rapports de vitesses plus petits, pour essayer de déterminer quand il devient possible pour la lady de gagner.
 Les valeurs obtenues avec le simulateur web sont sensibles au "pas" de simulation, mais avec un rapport de **3.6** on peut par exemple observer que la lady bat son poursuivant de vitesse :
-<img src="images/2016/09/FullAdaptiveWithRatio3.6.png" style="width: 50%"
+<img alt="Capture d'écran de la simulation correspondant à un soupirant dynamique 3.6 fois plus rapide" src="images/2016/09/FullAdaptiveWithRatio3.6.png" style="width: 50%"
 
 Qu'en pensez-vous ? N'hésitez pas à laisser votre avis sur ce problème en commentaire !

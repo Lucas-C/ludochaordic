@@ -3,7 +3,7 @@ Date: 2017-01-04 19:01
 Tags: lang:fr, jdr, psirun, rpg-bonhomme, narration-collective, compte-rendu, mecaniques-de-jeu, jeux
 Slug: psi-run-resume-de-partie-et-avis-personnel
 ---
-<img src="images/2017/01/psirun-couverture.png">
+<img alt="Couverture du jeu de rôle PsiRun" src="images/2017/01/psirun-couverture.png">
 
 Cela fait des années que je fais du jeu de rôle avec des amis, et à chaque fin de séance c'est la même chose : on se dit que ce serait quand même vachement bien d'écrire le compte rendu de la partie, mais tout le monde perd la motivation au final.
 

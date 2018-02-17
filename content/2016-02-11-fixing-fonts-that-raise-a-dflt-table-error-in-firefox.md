@@ -1,4 +1,4 @@
-Title: Fixing fonts that raise a "DFLT table doesn't satisfy the spec. LangSysCount is not zero" error in Firefox
+Title: Fixing fonts that raise a &amp;DFLT table doesn't satisfy the spec. LangSysCount is not zero&amp; error in Firefox
 Date: 2016-02-11 14:02
 Tags: lang:en, sed, fonts, firefox, otf, ttf, ttx, dflt, xml, prog
 Slug: fixing-fonts-that-raise-a-dflt-table-error-in-firefox

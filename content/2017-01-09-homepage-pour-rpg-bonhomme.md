@@ -5,4 +5,4 @@ Slug: homepage-pour-rpg-bonhomme
 ---
 Nouvelle feature pour mon petit projet d'éditeur/visualisateur de feuille de perso de jdr: [rpg-bonhomme](https://github.com/Lucas-C/rpg-bonhomme) : une [homepage](https://chezsoi.org/lucas/jdr/rpg-bonhomme) liste désormais tous les layouts et les persos créés !
 
-<iframe width="100%" height="500" src="https://chezsoi.org/lucas/jdr/rpg-bonhomme/"></iframe>
+<iframe style="width:100%" height="500" src="https://chezsoi.org/lucas/jdr/rpg-bonhomme/"></iframe>

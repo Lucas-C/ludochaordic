@@ -8,7 +8,7 @@ Status: draft
 
 A couple of weeks ago, I watched the latest [Numberphile](http://www.numberphile.com) video in which a very interesting Maths problem was described :
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Y30VF3cSIYQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Y30VF3cSIYQ" allowfullscreen></iframe>
 <br>
 
 Given how much emphasis Simon Pampena put on the problem difficulty in this video, I have to admit I'm quite proud to have found a solution :)

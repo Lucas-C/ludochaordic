@@ -1,4 +1,4 @@
-Title: "Inceptionism" : des images générées par des réseaux neuronaux
+Title: Inceptionism : des images générées par des réseaux neuronaux
 Date: 2015-06-20 14:06
 Tags: lang:fr, neural-network, image-processing, machine-learning, clouds, inception, magic, auditive-escape
 Slug: inceptionism-des-images-generees-par-des-reseaux-neuronaux
@@ -16,10 +16,10 @@ Par exemple, "banane" :
 ![Illustration du processus et des images générées](images/2015/06/noise-to-banana.png)
 
 Ou bien ils ont demandé au réseau neuronal de transformer une photo de quelque chose en autre chose:
-<img src="images/2015/06/image-dream-map.png" style="width: 60%"/>
+<img alt="Dream map" src="images/2015/06/image-dream-map.png" style="width: 60%"/>
 
 Et ils ont même demandé au programme "qu'est-ce que tu vois dans les nuages" :
-<a href="/lucas/blog/images/2015/06/sky_bright.jpg"><img src="images/2015/06/sky_bright.jpg"/></a>
+<a href="/lucas/blog/images/2015/06/sky_bright.jpg"><img alt="Nuages" src="images/2015/06/sky_bright.jpg"/></a>
 
 Et je trouve ça juste magique.
 

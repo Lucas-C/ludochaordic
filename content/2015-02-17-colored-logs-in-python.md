@@ -66,4 +66,4 @@ Output:
 2015-02-17 10:38:04,802 - pid:16089 colored_logger.py:43 CRITICAL| <span style="background-color:red;color:white;">Critical</span>
 </pre>
 
-<img src="images/wwcb/CouldWork_Creeper.jpg" alt"Could Work. You won't know if you don't try.">
+<img src="images/wwcb/CouldWork_Creeper.jpg" alt="Could Work. You won't know if you don't try.">

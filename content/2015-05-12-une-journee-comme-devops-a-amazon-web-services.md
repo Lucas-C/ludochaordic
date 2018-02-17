@@ -7,7 +7,7 @@ Ce soir aux HumanTalks de MaineLabs, j'ai eu la plaisir de faire une petite pré
 
 L'intégralité du talk a été filmé et mise en ligne sur Youtube :
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/M1y_1tMlll4" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/M1y_1tMlll4" allowfullscreen></iframe>
 
 Les slides sont accessibles [ici](/lucas/HTML_2015-05-12), ainsi que [les sources Markdown](/lucas/HTML_2015-05-12/HTML_2015-05-12.md) pour [Reveal.js](http://lab.hakim.se/reveal-js). Pour ceux qui ont assisté au talk, j'ai ajouté quelques slides bonus et des références de lecture.
 

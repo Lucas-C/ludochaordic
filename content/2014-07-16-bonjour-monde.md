@@ -13,7 +13,7 @@ Au passage:
 
 - ce blog tourne sous [Ghost 0.5.8](//ghost.org)
 - le thème actuel est [Day & Night](//github.com/semeano/DayAndNight), réalisé par Pedro Semeano et sous License MIT
-- <strike>j'y ai ajouté un moteur de recherche en utilisant [ghostHunter](//github.com/i11ume/ghostHunter) de Jamal Neufeld, qui ne cherche pas dans les tags malheureusement</strike>
+- <del>j'y ai ajouté un moteur de recherche en utilisant [ghostHunter](//github.com/i11ume/ghostHunter) de Jamal Neufeld, qui ne cherche pas dans les tags malheureusement</del>
 - et [highlight.js](//highlightjs.org/static/test.html) fournit la coloration syntaxique
 - le logo "Little Pixel" a été réalisé par [Elliot Jolivet](//www.behance.net/mythostasis), un ami
 - la couverture du blog provient d'une [photo](//www.flickr.com/photos/t_e_brown/8677750589) de Tom Brown sous License CC-BY-2.0

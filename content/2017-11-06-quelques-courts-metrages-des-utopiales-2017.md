@@ -15,19 +15,19 @@ Voici une sélection personnelle de quelques court-métrages qu'y ont été diff
 
 ### Icarus
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kGlm1Fq73Og" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kGlm1Fq73Og" allowfullscreen></iframe>
 
 Un film émouvant et immersif, aux faux airs de "Seul sur Mars".
 
 ### Black Holes : How Embarrassing To Be Human
 
-<iframe src="https://player.vimeo.com/video/188075559?color=ffffff&title=0&byline=0&portrait=0" width="640" height="291" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/188075559?color=ffffff&title=0&byline=0&portrait=0" width="640" height="291" allowfullscreen></iframe>
 
 Ce court complètement barré et bourré de références SF est en fait le pilote d'une série financée via [KickStarter](https://www.kickstarter.com/projects/blackholes/black-holes-0?lang=fr).
 
 ### MeTube 2 : August sings Carmina Burana
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o19cnfIOuU0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o19cnfIOuU0" allowfullscreen></iframe>
 
 De loin le court métrage le plus déjanté, **gagnant du prix du jury à égalité**.
 
@@ -36,37 +36,37 @@ De loin le court métrage le plus déjanté, **gagnant du prix du jury à égali
 
 ### The Last Schintzel
 
-<iframe src="https://player.vimeo.com/video/197017494" width="640" height="268" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/197017494" width="640" height="268" allowfullscreen></iframe>
 
 Gagnant du prix du public, très drôle, financé sur [Indiegogo](https://www.indiegogo.com/projects/the-last-schnitzel#/).
 
 ### Hybrids
 
-<iframe src="https://player.vimeo.com/video/223520703" width="640" height="268" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/223520703" width="640" height="268" allowfullscreen></iframe>
 
 Réalisé par des étudiants de l'école MOPA, **gagnant du prix du jury à égalité**.
 
 ### Real Artists
 
-<iframe src="https://player.vimeo.com/video/183600832?color=858282&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/183600832?color=858282&byline=0&portrait=0" width="640" height="360" allowfullscreen></iframe>
 
 Un court métrage d'[anticipation](https://fr.wikipedia.org/wiki/Anticipation_(fiction)) sur le thème du métier d'artiste à l'ère numérique, glaçant de réalisme.
 
 ### Caronte
 
-<iframe src="https://player.vimeo.com/video/203857821" width="640" height="268" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/203857821" width="640" height="268" allowfullscreen></iframe>
 
 Un mélange surprenant mais réussi de deux genres, avec des très beaux effets spéciaux.
 
 ### Last tree standing
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sfNq_PrRrm0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfNq_PrRrm0" allowfullscreen></iframe>
 
 Une histoire assez poétique dans une ambiance post-apocalyptique à la David Lynch.
 
 ### The Meltdown
 
-<iframe src="https://player.vimeo.com/video/196111458" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/196111458" width="640" height="360" allowfullscreen></iframe>
 
 Un court métrage humoristique sur le quotidien d'une équipe en charge d'une centrale nucléaire que j'ai trouvé assez original en terme de direction artistique.
 
