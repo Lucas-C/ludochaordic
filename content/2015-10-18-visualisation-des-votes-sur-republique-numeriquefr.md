@@ -7,7 +7,7 @@ Quelques essais de visualisation de données pour célébrer la fin de cette exp
 
 Première tentative, utilisant [Charted](//www.charted.co), pour visualiser la répartition des nombre de votes toutes propositions confondues :
 
-<iframe width="853" height="480" src="https://www.charted.co/?{%22dataUrl%22%3A%22http%3A%2F%2Fchezsoi.org%2Flucas%2Frepublique-numerique%2Fvotes_counts_frequencies_histogram.csv%22%2C%22seriesNames%22%3A{%221%22%3A%22freq_no%22}%2C%22charts%22%3A[{%22type%22%3A%22line%22%2C%22rounding%22%3A%22off%22%2C%22title%22%3A%22Positive%2FNegative%2FReserved%20votes%20count%20frequencies%20distribution%22%2C%22note%22%3A%22Data%20from%20republique-numerique.fr%20on%202015%2F10%2F18%20at%20midnight%22}]}" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.charted.co/?%7B%22dataUrl%22%3A%22http%3A%2F%2Fchezsoi.org%2Flucas%2Frepublique-numerique%2Fvotes_counts_frequencies_histogram.csv%22%2C%22seriesNames%22%3A%7B%221%22%3A%22freq_no%22%7D%2C%22charts%22%3A%5B%7B%22type%22%3A%22line%22%2C%22rounding%22%3A%22off%22%2C%22title%22%3A%22Positive%2FNegative%2FReserved%20votes%20count%20frequencies%20distribution%22%2C%22note%22%3A%22Data%20from%20republique-numerique.fr%20on%202015%2F10%2F18%20at%20midnight%22%7D%5D%7D" allowfullscreen></iframe>
 
 Exemple de lecture de ce graph: 33 propositions ont reçu exactement 8 votes positifs.
 
