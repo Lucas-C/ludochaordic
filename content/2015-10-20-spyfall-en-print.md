@@ -18,7 +18,7 @@ Cette version à pour particularité que chaque lieu est une référence à une 
 
 Les règles complètes en anglais: [PDF, 1,58Mo](http://international.hobbyworld.ru/download/rules/international/Spyfall_rules_ENG.pdf)
 
-<img src="images/wwcb/OnlyOneToGiveAShitAboutRules.gif">
+<img alt="Animation tirée de The Big Lebowsky" src="images/wwcb/OnlyOneToGiveAShitAboutRules.gif">
 
 # Comment l'imprimer
 Tout simplement avec Chrome, en imprimant directement sur papier cartonné ou bien en choisissant "imprimer au format PDF" comme destination dans la fenêtre d'impression (CTRL+P).
@@ -30,7 +30,7 @@ Pour les devs, je recommande vivement le procédé, qui permet du "templating" d
 
 Bien mieux que me précédent bricolages de cartes sour Word...
 
-<img src="images/wwcb/SaPlaceEstDansUnMusée.gif">
+<img alt="Sa place est dans un musée !" src="images/wwcb/SaPlaceEstDansUnMusée.gif">
 
 L'idée originale de réaliser une version maison de ce jeu revient à mon ami, qui m'a fait découvrir l'existence de 2 apps, au code open-source, pour jouer sur smartphone:
 
@@ -47,6 +47,6 @@ Suite du développement de cette page web, j'en ai retiré 2 petites leçons :
 
 Pour cette fois, pas de repo GitHub dédié au projet : l'ensemble du code source nécessaire pour reproduire ce résultat sont accessible dans le code source de la page web !
 
-<img src="images/wwcb/head_body_tatoo.jpg">
+<img alt="Tatouage d'une balise HTML head" src="images/wwcb/head_body_tatoo.jpg">
 
 Enfin, un remerciement à Dan Hetteix (membre de TheNounProject), qui a créé l'icône d'espion utilisé sur les cartes.

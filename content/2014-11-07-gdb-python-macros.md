@@ -62,8 +62,7 @@ Here is also a more complete improved _.gdbinit_ : <http://reverse.put.as/gdbini
 ### 4. Solving: 'ptrace: Operation not permitted'
 
 DO **NOT** SET THE SUID/SGID BIT :
-<pre><code><del style="text-decoration: line-through;">sudo chmod +s /usr/bin/gdb
-</del></pre></code>
+<del><code>sudo chmod +s /usr/bin/gdb</code></del>
 
 As explained in the comments (thanks to Romain Geissler), this solution I initially recommended actually creates a **security vulnerability**.
 

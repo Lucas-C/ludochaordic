@@ -112,5 +112,5 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'tagcloud.html',
     'pages/bienvenue.html',
 
-    'reverse-engineering-the-http-api-behind-an-android-app.html',
+    'gdb-python-macros.html',
 )]

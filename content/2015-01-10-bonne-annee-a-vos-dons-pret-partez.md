@@ -65,7 +65,7 @@ Les sites ci-dessous ont pour vocation de vous mettre en relation avec des assoc
 
 - [beTobe](http://www.betobe.org/php/?language_code=fr)
 - [tousbenevoles.org](http://www.tousbenevoles.org/trouver-une-mission-benevole?cp=&id_action_type=24&id_public=&q=&age_minimum=0)
-- [francebenevolat.org](http://www.francebenevolat.org/benevoles/recherche/assoc-annonce?search[type_mission]=16&search[domaine_action]=&search[localisation]=Ville%2C+code+postal%2C+...&search[keywords]=Mots+cl%C3%A9s%2C+nom+association%2C+...)
+- [francebenevolat.org](http://www.francebenevolat.org/benevoles/recherche/assoc-annonce?search%5Btype_mission%5D=16&search%5Bdomaine_action%5D=&search%5Blocalisation%5D=Ville%2C+code+postal%2C+...&search%5Bkeywords%5D=Mots+cl%C3%A9s%2C+nom+association%2C+...)
 - [onlinevolunteering.org](//www.onlinevolunteering.org/fr/org/opportunity_search/?typ=5)
 - [socialcoder](http://socialcoder.org/Home/Map)
 
