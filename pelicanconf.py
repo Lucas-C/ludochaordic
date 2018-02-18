@@ -111,6 +111,7 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'index.html',
     'tagcloud.html',
     'pages/bienvenue.html',
+    'pages/jdr-blades-in-the-dark.html',
 
-    'gdb-python-macros.html',
+    'glitch-art-and-image-processing-with-python.html',
 )]

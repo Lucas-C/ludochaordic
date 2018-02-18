@@ -1,0 +1,107 @@
+Title: Glitch art and image processing with Python
+Date: 2018-02-18 23:00
+Tags: lang:en, glitch-art, reddit, image-processing, python, music, prog
+Slug: glitch-art-and-image-processing-with-python
+Image: images/2018/02/colorstolen_japanified_TDZSJMs.jpg
+---
+
+This week I discovered the fantastic [glitch art](https://www.reddit.com/r/glitch_art) Reddit community
+(for a little more context on glitch art, [wikipedia has a page](https://en.wikipedia.org/wiki/Glitch_art)).
+These are the pieces I love the most (click on them to find the source):
+
+<a href="https://www.reddit.com/r/glitch_art/comments/7x3ps0/dream_girl_gaze/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by misteach" src="images/2018/02/pd1gx9xucuf01.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/75ok6f/walk_it_off/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by skybrian" src="images/2018/02/zqvSQdO.png"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/5wbei8/pxl_rain/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by GutturalEcho" src="images/2018/02/ljc76jy3s8iy.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/pixelsorting/comments/757ung/a_bit_of_rain/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by cirodoggy" src="images/2018/02/31t7i2m9rrqz.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/7glph4/the_heavens_opened_up_when_the_rain_came/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by txchick1983" src="images/2018/02/fBb1s47.png"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/pixelsorting/comments/61iwka/liquid_metal/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by Tw1gz666" src="images/2018/02/tap4xb93enny.jpg"></noscript></div>
+</a>
+This one above reminds me of [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa).
+Like many other pieces, it uses a "glitching" technique called Pixed Sorting.
+
+<a href="https://www.reddit.com/r/glitch_art/comments/6nsxna/city_lights/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by Sarxasm" src="images/2018/02/DKgMD0A.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/pixelsorting/comments/7b3u4x/have_you_ever_retired_a_human_by_mistake/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by pixelated_spliffs" src="images/2018/02/nxmkk00scbwz.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/79bm2k/lost_city/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by Kek_Snek" src="images/2018/02/ep2fjwlh3muz.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/22dk1u/wakegif/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by HopelessPerson" src="images/2018/02/SFVf5ov.gif"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/6ylvyw/you_cant_handle_the_glitch_by_arsikere/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by arsikere" src="images/2018/02/AWlGFnu.gif"></noscript></div>
+</a>
+
+This other glitch video by MarshmellowNinja is very funny, but better viewed online: <https://www.reddit.com/r/glitch_art/comments/7xhbrf/woah/>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/26w188/a_landscape_piece/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by vvdr12" src="images/2018/02/vvdr12_14116705239_cd7ae031e4_k.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/1kztnf/japanization_python_pixel_editing_bug/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by vvdr12" src="images/2018/02/vvdr12_9655801399_c763157694_o.png"></noscript></div>
+</a>
+
+<a href="https://www.flickr.com/photos/vvdr12/10343539123/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by vvdr12" src="images/2018/02/vvdr12_10343539123_128a0c8375_k.jpg"></noscript></div>
+</a>
+
+Those 4 last ones are from Reddit user [vvdr12](https://www.reddit.com/user/vvdr12), whose [flickr gallery](https://www.flickr.com/photos/vvdr12/) also includes great intentionnaly made pieces. He [kindly explained](https://www.reddit.com/r/glitch_art/comments/1kztnf/japanization_python_pixel_editing_bug/) [how he made this "japanify" effect in Python](https://www.reddit.com/r/glitch_art/comments/1p5mno/elephant_hill/), and specified the [source image](http://imgur.com/TDZSJMs).
+
+He did not provide the code for the palette substitution, so I re-rewrote it: [japanify.py](https://github.com/Lucas-C/dotfiles_and_notes/blob/master/languages/python/img_processing/japanify.py) + [steal_colors_with_same_brightness.py](https://github.com/Lucas-C/dotfiles_and_notes/blob/master/languages/python/img_processing/steal_colors_with_same_brightness.py)
+```bash
+./japanify.py TDZSJMs.jpg
+./steal_colors_with_same_brightness.py --palette-img edJl3YU.jpg japanified_TDZSJMs.jpg
+```
+
+(I'd love to also replicate [this animated Joy Division effect by vvdr12](https://imgur.com/Jcs4BMw), but he only provided some code to produce a static image - maybe a GIF could be created using [Zhao Liang GIFWriter](https://github.com/neozhaoliang/pywonderland/blob/master/src/wilson/encoder.py)...)
+
+The Glasgow band [Kill the Waves](https://soundcloud.com/killthewaves) even used his idea for their album cover:
+
+![Kill The Waves band album cover](http://i.imgur.com/JrPsI1y.jpg)
+
+It was nice to stumble on this band, I especially like their [Anymore](https://soundcloud.com/tonguesmusic/anymore) & [Vow](https://soundcloud.com/killthewaves/vow) songs.
+
+What do you think of those glitches ? ?? Are there other ones you known and like ? ??
+
+<style>
+img {
+    max-height: 80vh;
+}
+.lazyload, .lazyloaded {
+    padding: .2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lazyloading {
+    opacity: 0;
+}
+.lazyloaded {
+    opacity: 1;
+    transition: opacity 300ms;
+}
+</style>
