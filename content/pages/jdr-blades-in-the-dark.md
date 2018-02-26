@@ -154,7 +154,7 @@ et quelques pièces.
 
 <figure>
   <a href="images/bitd/Thief_clocktower3.jpg" target="_blank">
-    <img class="small-img" alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
+    <img alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
   </a>
   <figcaption>La planque du gang du Harpon - réalisé par <a href="https://www.behance.net/10sei">un des joueurs</a></figcaption>
 </figure>
