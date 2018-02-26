@@ -5,3 +5,4 @@
 /output
 /pelican.pid
 /srv.pid
+/rsync.include
