@@ -6,6 +6,20 @@ Tags: lang:en
 
 <div class="uk-grid">
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+        <a class="uk-thumbnail" href="https://voyages-sncf-technologies.github.io/conf-open-source-en-entreprise/">
+            <img class="uk-align-center" src="images/open-source.png" alt="Image illustrant l'open source">
+            <div class="uk-thumbnail-caption">
+                <div class="uk-text-bold uk-text-primary">L'open source en entreprise</div>
+                <dl class="uk-description-list-list">
+                    <dt>Date</dt><dd>2018/03/2</dd>
+                    <dt>Lieu</dt><dd>Ecole IMT Atlantique Nantes</dd>
+                </dl>
+                <p>Historique, outils modernes, avantages et limites de l'epen Source en entreprise, ainsi que des projets réalisés à OUI.sncf</p>
+            </div>
+        </a>
+        <a href="https://github.com/voyages-sncf-technologies/conf-open-source-en-entreprise">Sources reveal.js</a>
+    </div>
+    <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="/lucas/slides/meetup-afpy-nantes-luigi">
             <img class="uk-align-center" src="/lucas/slides/meetup-afpy-nantes-luigi/luigi-in-car.png" alt="Le personnage de jeu vidéo Luigi dans une voiture">
             <div class="uk-thumbnail-caption">

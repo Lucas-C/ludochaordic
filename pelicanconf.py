@@ -10,6 +10,7 @@ DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/dans-la-combi-de-thomas-pesquet.jpg', 'description': 'Dans la combi de Thomas Pesquet - Marion Montaigne (BD)'},
     {'img_url': 'images/readings/Pantheon.jpg', 'description': 'Panthéon! - Hamish Steele (BD)'},
     {'img_url': 'images/readings/desobeisseurs-du-service-public.jpg', 'description': 'Les désobéisseurs du service public (BD)'},
     {'img_url': 'images/readings/l-art-internet.jpg', 'description': "L'Art Internet - Rachel Greene"},
@@ -112,6 +113,7 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'tagcloud.html',
     'pages/bienvenue.html',
     'pages/jdr-blades-in-the-dark.html',
+    'pages/slides.html',
 
-    'glitch-art-and-image-processing-with-python.html',
+    'conference-sur-l-open-source-en-entreprise-a-l-ecole-imt-atlantique.html',
 )]
