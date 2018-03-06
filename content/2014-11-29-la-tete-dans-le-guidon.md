@@ -203,3 +203,6 @@ Je n'ai pas de réponse à ces questions, mais voilà quelques unes de mes raiso
 - de manière générale, coucher mes idées par écrit m'aide à clarifier mes idées, et me force à justifier certaines hypothèses que je tenais pour acquises
 - je ne veux pas que ce blog soit exclusivement technique. La programmation a de nombreux aspects humains, et devenir un meilleur développeur signifie aussi se pencher sur les aspects de communication, de travail d'équipe et d'organisation.
 - en écrivant à propos de ces erreurs, je m'engage en quelque sorte à ne pas les reproduire
+
+
+**[EDIT 2018/03/6]** Un concept a rapprocher de ces observations: le _yak shaving_

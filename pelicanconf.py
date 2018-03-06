@@ -18,7 +18,8 @@ READINGS = (
 )
 
 # Blogroll
-LINKS = (('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
+LINKS = (('Blog BD de Boulet', 'http://www.bouletcorp.com'),
+         ('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ("Justin Mason's Weblog", 'http://taint.org'),
          ('Sam & Max @Twitter', 'https://twitter.com/sam_et_max'),
          ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
