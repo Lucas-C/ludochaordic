@@ -8,6 +8,11 @@ SITENAME = 'Ludochaordic'
 SITESUBTITLE = 'Fantaisies programatico-ludiques'
 DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
 
+AVATARS = [
+    'images/avatar.jpeg',
+    'images/avatar.jfif',
+]
+
 # Readings, from most recent to oldest
 READINGS = (
     {'img_url': 'images/readings/dans-la-combi-de-thomas-pesquet.jpg', 'description': 'Dans la combi de Thomas Pesquet - Marion Montaigne (BD)'},
