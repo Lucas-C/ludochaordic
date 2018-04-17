@@ -110,7 +110,7 @@ Au moment de se séparer, l'homme lui révèle s'appeler **Milos**
 L'iruvien sur ses traces préfère renoncer, mais la garde suspicieuse questionne Eric pour finalement l'embarquer avec eux à leur poste.
 - de son côté, Elorna est accueillie à la tour de l'horloge des Crows par **Bell**, l'un des anciens lieutenant de Roric.
 Elorna lui affirme le soutien du gang du Harpon dans le contexte actuel, et tente d'en savoir plus sur la mort de Roric,
-mais n'en apprend pas beaucoup plus : son corps a sombré dans un canal, et Lyssa prétend qu'il s'agit d'un accident.
+mais n'en apprend pas beaucoup plus : son corps a sombré dans un canal, et **Lyssa** prétend qu'il s'agit d'un accident.
 Quand elle aborde la question des étals incendiés du marché, Bell lui explique quand ces temps difficiles,
 le gang des Crows a décidé de ne laisser passer aucune provocation d'aucun gang adverse.
 En toute transparence, Elorna informe également Bell que Baszos leur a proposé une alliance, mais qu'ils ne comptent pas l'accepter.
@@ -153,18 +153,82 @@ et quelques pièces.
 **Aldo**, un ancien membre du gang des Crows, désormais pourchassé par Lyssa car il l'a vu assassiner Roric !
 
 <figure>
-  <a href="images/bitd/Thief_clocktower3.jpg" target="_blank">
+  <a href="images/bitd/HarpoonGangHQ.jpg" target="_blank">
     <img alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
   </a>
   <figcaption>La planque du gang du Harpon - réalisé par <a href="https://www.behance.net/10sei">un des joueurs</a></figcaption>
 </figure>
 
-<!--
-## Session 4
-### Resources : music
+## Session 4 - avril 2018
+### Resources
+Un peu de musique:
 - https://www.reddit.com/r/bladesinthedark/comments/653i60/music_in_the_dark/
 - https://www.reddit.com/r/bladesinthedark/comments/64n1bz/soundcloud_account_absent_minds_has_some/
--->
+
+### Compte-rendu de partie
+
+#### Acte 1 - Vol de sang de Léviathan
+- Justinia leur annonce qu'elle a trouvé un tatoueur pour le rituel de Grell Jayan,
+mais qu'il demande un baril de sang de Léviathan pour le tatouage,
+comme paye et comme composant au rituel
+- les PJs décident de se renseigner sur les derniers arrivages de navires chasseurs de Léviathan,
+et apprennent que l'un d'eux est actuellement en cours de déchargement et d'entretien aux chantiers navals.
+D'après la rumeur, des fantômes auraient semé la panique sur place la nuit précédente
+et de nombreux ouvriers refusent de reprendre le travail.
+- les PJs décident donc de se faire embaucher sur place comme main d'oeuvre à midi
+et, une fois un entretien d'embauche expéditif passé, sont envoyé transporter des barriques de sang de léviathan,
+laver les abattoirs ou encore nettoyer une zone couverte de sang le long du canal souterrain servant de système de refroidissement.
+Pour cette dernière tâche, Ethnos se retrouve à laver des giclées de sang répandues sur plusieurs mètres,
+jonchés à plusieurs endroits de membres humains découpés. De son côté, Eric en apprend plus sur les évênements du soir précédent :
+un ouvrier manoeuvre, Joerg, s'est fait poursuivre par un fantôme ivre de rage criant à la trahison,
+qui a massacré tout le monde sur son passage
+
+<figure>
+  <a href="images/bitd/dishonored-whale-slaughterhouse.jpg" target="_blank">
+    <img alt="Les chantiers navals des navires Léviathan" src="images/bitd/dishonored-whale-slaughterhouse.jpg">
+  </a>
+  <figcaption>Les chantiers navals des navires Léviathan - artwork de Dishonored - Viktor Antonov - Sébastien Mitton - Cedric Peyravernay</figcaption>
+</figure>
+
+- en fin d'après-midi, à la pause, les PJs se retrouvent pour mettre en commun leurs infos, établir un plan
+et envoyer un message à Aldo & Melvir stationnés en barque à quelques encablures par l'intermédiaire de la buse d'Ethnos.
+Un peu plus tard, Elorna se charge de déclencher un incendie dans les abattoirs pour faire office de diversion,
+tandis qu'Eric déclenche encore plus la panique en criant au retour du fantôme. Il s'éclipse alors en courant avec un tonnelet
+vers l'eau du port dans laquelle il plonge, avant de se saisir d'une barque et de s'enfuir en simulant toujours la panique.
+- de son côté Ethnos substitue un tonnelet de sang par un tonnelet vide et plong avec lui, mousquet au poing, dans le canal glacé souterrain.
+Après avoir manqué de se noyer, il finit par émerger au bout du tunnel, là où l'eau se jette dans le port et où une grille s'élève,
+heureusement déjà découpée à la scie par Aldo pour laisser s'enfuir Ethnos
+- les PJs terminent donc cette opération d'extraction sans encombre, avec deux tonnelets de sang de Léviathan récoltés
+
+#### Acte 2 - Un rituel qui tourne mal
+- les PJs assistent au rituel de Grell Jayan pour réincorporer l'âme de Ludius,
+en cercle dans sa demeure, aux côtés de Justinia, Melvir, Aldo et quelques disciples de Grell,
+éclairés à la lumière de flambeaux dansants tandis que le tatoueur termine d'inscire un complexe motif sur la peau de leur chef
+- alors que Grell conclue une longue psalmodie, les tatouages se mettent à onduler sur le corps de Ludius qui tremble.
+Le tatoueur s'éclipse et Justinia s'approche aux côtés de se frère qui semble de réveiller lentement.
+- soudain, des coups sont frappés à la porte à l'étage. Un des disciples de Grell Jayan va ouvrir
+et on entend distinctement le bruit d'une lame déchirant les chairs et d'un corps s'écroulant au sol
+- les PJs dégainent leurs armes et se mettent en position, tandis qu'un homme descend calmement les escaliers, sabre à la main.
+Rapidement maîtrisé - et l'escalier détruit au passage au marteau de guerre - il se révèle être Brandon Grimes, que décapite alors Eric.
+- plusieurs détonations se font alors entendre, et une demi-douzaine de larges trous apparaissent dans le plafond de bois de la pièce,
+à travers lesquels l'assemblée est canardée. Tout le monde se met à couvert, Ethnos réplique à coups de tirs de mousquet,
+Eric lance son marteau à travers le plafond pour faire tomber leurs assaillant et Elorna monte à l'étage en quelques bonds acrobatiques.
+Elle découvre alors un groupe hétéroclite d'hommes en costume de corsaire, tricorne sur la tête et fusil à la main,
+associés à des assassins en tenue noire et armés de lames qui se révêleront être du gang des **Crows**.
+Au centre, dirigeant la manoeuvre, **Drav Walund**.
+- s'ensuit alors une bataille générale au terme de laquelle Drav est éliminé par les PJs.
+Grell Jayan s'entoure d'un mur de flammes en murmurant quelque puissant sortilège,
+tandis qu'au niveau le plus bas de sa demeure, accessible en bateau, Eric découvre que **Lyssa** s'est introduit avec ses hommes.
+Elle élimine le tatoueur qui tentait de s'enfuir, et alors que son corps tombre à l'eau avec le tonnelet de sang de Léviathan ouvert,
+**le fantôme de Roric** surgit de l'eau bouillonnante en hurlant "Vengeance !"
+- repoussé par une amulette de Lyssa, il s'élève à l'étage, où Grell tente de le contrôler.
+Ethnos lui tire finalement dessus avec ses munitions ectoplasmiques.
+Blessé, en partie exorcisé, le fantôme se jette sur Ethnos et Ludius tout proche, dans lesquels il disparaît.
+- Ethnos ne peut plus ouvrir ses mains, agrippées à Ludius, alors que le tatouage semble migrer en rampant sur leur peau de l'un à l'autre.
+Puis tout bascule, et leur conscience change de corps !
+- le corps d'Ethnos, possédé par Roric, se relève, saisit deux épées et bondit à travers deux étages pour charger Lyssa en hurlant.
+A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de lui rendre son corps.
+- Ethnos réussit finalement à excorciser Roric de son corps. Lyssa et ses hommes de replient, et le gang du Harpon fait de même
 
 <style>
 @media screen and (min-width: 1200px) {
