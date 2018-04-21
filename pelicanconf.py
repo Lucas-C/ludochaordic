@@ -123,5 +123,5 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/jdr-blades-in-the-dark.html',
     'pages/slides.html',
 
-    'conference-sur-l-open-source-en-entreprise-a-l-ecole-imt-atlantique.html',
+    'python-modules-imports-visualization.html',
 )]
