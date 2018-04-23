@@ -9,6 +9,7 @@ This week I discovered the fantastic [glitch art](https://www.reddit.com/r/glitc
 (for a little more context on glitch art, [wikipedia has a page](https://en.wikipedia.org/wiki/Glitch_art)).
 These are the pieces I love the most (click on them to find the source):
 
+<!-- The a > div > noscript seems not valid in terms of HTML syntax -->
 <a href="https://www.reddit.com/r/glitch_art/comments/7x3ps0/dream_girl_gaze/">
 <div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by misteach" src="images/2018/02/pd1gx9xucuf01.jpg"></noscript></div>
 </a>
