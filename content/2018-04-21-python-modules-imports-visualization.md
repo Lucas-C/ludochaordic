@@ -41,6 +41,14 @@ I'm using a [slightly patched](https://github.com/fzaninotto/DependencyWheel/pul
     }
     function renderDependencyWheel(dependencyGraphJsonUrl, htmlElementSelector) {
         d3.json(dependencyGraphJsonUrl, function(data) {
+            // Ensuring matrix is symmetrical:
+            data.matrix.forEach((row, i) => {
+                row.forEach((value, j) => {
+                    if (value and !matrix[j][i]) {
+                        matrix[j][i] = value;
+                    }
+                });
+            });
             // Custom chords & path colors:
             var maxPkgDepth = Math.max(...data.packageNames.map(p => p.split('.').length));
             var pkgTree = buildPkgTree(data.packageNames);
@@ -50,9 +58,9 @@ I'm using a [slightly patched](https://github.com/fzaninotto/DependencyWheel/pul
                 return 'hsl(' + hue + ', 90%, 70%)';
             }});
             d3.select(htmlElementSelector).datum(data).call(chart).call(function(selection) {
-                d3.select('svg').style('overflow', 'visible');
+                d3.select(htmlElementSelector + ' > svg').style('overflow', 'visible');
                 // Insert <a> links on module names:
-                d3.selectAll('text').each(function() {
+                d3.selectAll(htmlElementSelector + ' text').each(function() {
                     var oldParent = this.parentNode;
                     var newParentAnchor = document.createElementNS('http://www.w3.org/2000/svg', 'a');
                     newParentAnchor.setAttributeNS(null, 'href', 'http://gitlab.socrate.vsct.fr/dtaas/api-system/blob/master/flaskapp/' + this.textContent.replace('.', '/') + '.py');
