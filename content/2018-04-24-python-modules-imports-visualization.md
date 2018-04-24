@@ -80,7 +80,7 @@ I made 2 small patches / PRs to the latest version of this project:
 I also used some additional JS code to:
 
 - ensure the dependencies matrix is square (to get prettier graphs)
-- customize the colors
+- customize the colors (cf. below)
 - add HTML anchor links
 
 The code is available in this page source. Like the Python script, you are free to reuse it at will.
