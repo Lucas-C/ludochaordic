@@ -1,6 +1,6 @@
 Title: Variantes pour Hanabi
 Date: 2017-05-05 19:05
-Tags: lang:fr, jeu-de-societe, variante, boardgamegeek, gamedesign, hanabi, jeux
+Tags: lang:fr, jeu-de-societe, variante, boardgamegeek, gamedesign, hanabi, 2-players, jeux
 Slug: variantes-pour-hanabi
 ---
 [![Illustration représentant des feux d'artifices aux couleur d'Hanabi](images/2017/05/utakata_hanabi___sasuke_ver__by_net1204-d3icqzj.jpg)](http://net1204.deviantart.com/art/Utakata-Hanabi-212226463)
