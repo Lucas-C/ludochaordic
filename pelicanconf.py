@@ -77,7 +77,7 @@ IMAGE_PROCESS = {
 }
 
 THEME = '../pelican-mg'
-DIRECT_TEMPLATES = ('index', 'tagcloud')
+DIRECT_TEMPLATES = ('index', 'tagcloud', 'past_readings')
 DEFAULT_PAGINATION = False
 
 ISSO_BASE_URL = '/lucas/isso'
@@ -119,6 +119,7 @@ STATIC_CREATE_LINKS = True # pending pelican 3.8.0 release
 WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'index.html',
     'tagcloud.html',
+    'past_readings.html',
     'pages/bienvenue.html',
     'pages/jdr-blades-in-the-dark.html',
     'pages/slides.html',

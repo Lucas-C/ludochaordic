@@ -1,5 +1,5 @@
 Title: Slides
-Tags: lang:en
+Tags: lang:en, slides
 ---
 
 ## Some presentations I have given
