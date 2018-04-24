@@ -72,7 +72,7 @@ gen_modules_graph.py ansible.inventory.manager ansible.playbook ansible.executor
 
 For the rendering, I used [fzaninotto/DependencyWheel](http://www.redotheweb.com/DependencyWheel/),
 originally written to display the **external** dependencies of a project (e.g. links between PHP composer packages).
-I made 2 small patches / PRs to latest version of this project:
+I made 2 small patches / PRs to the latest version of this project:
 
 - [a single-line code change to allow for colors customization](https://github.com/fzaninotto/DependencyWheel/pull/15)
 - [another minor change to make the chart adaptive to the parent DOM element width](https://github.com/fzaninotto/DependencyWheel/pull/16)
