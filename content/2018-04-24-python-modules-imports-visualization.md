@@ -1,9 +1,8 @@
 Title: Python module imports visualization
-Date: 2018-04-21 18:00
+Date: 2018-04-24 18:30
 Tags: lang:en, python, javascript, documentation, literate-programming, graph, open-source, charts, visualization, technical-debt, git, gitlab, maths, docker, ansible, prog
 Slug: python-modules-imports-visualization
 Image: images/2018/04/flask-modules--visualization.png
-Status: draft
 ---
 ### flask
 <div id="modules-flask" style="text-align: center; padding-bottom: 4rem"></div>
@@ -71,9 +70,14 @@ Usage example:
 gen_modules_graph.py ansible.inventory.manager ansible.playbook ansible.executor.task_queue_manager > modules-ansible.json
 ```
 
-For the rendering, I used a [slightly patched](https://github.com/fzaninotto/DependencyWheel/pull/15) (with a single-line code change to allow for colors customization)
-version of [fzaninotto/DependencyWheel](http://www.redotheweb.com/DependencyWheel/), originally written to display the **external** dependencies of a project (e.g. links between PHP composer packages),
-with additionnal JS code to:
+For the rendering, I used [fzaninotto/DependencyWheel](http://www.redotheweb.com/DependencyWheel/),
+originally written to display the **external** dependencies of a project (e.g. links between PHP composer packages).
+I made 2 small patches / PRs to latest version of this project:
+
+- [a single-line code change to allow for colors customization](https://github.com/fzaninotto/DependencyWheel/pull/15)
+- [another minor change to make the chart adaptive to the parent DOM element width](https://github.com/fzaninotto/DependencyWheel/pull/16)
+
+I also used some additionnal JS code to:
 
 - ensure the dependencies matrix is square (to get prettier graphs)
 - customize the colors
@@ -89,6 +93,22 @@ I used a simple mathematical concept: decomposing the hue value with a [bijectiv
 into a fixed-size string of digits of size equal to the package tree depth.
 Once this numeral system [base radix](https://en.wikipedia.org/wiki/Radix) is computed from this depth,
 computing the hue value is simply a matter of a basic [exponentiation](https://en.wikipedia.org/wiki/Positional_notation#Exponentiation).
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
+
+<p class="formula">
+  `"Let " P " be a module tree of length " D`
+
+  `"Then the base radix to use in our decomposition is " R = 360^(1 / D)`
+
+  `"Now, let " m " be a module path, constituded of " d " modules names " m_i ", with " d <= D`
+
+  `"We can define " pos_P(m_i) " to be the position of the module name " m_i " in the sorted list of its parent module children.`
+
+  `"We can now compute the digits of " m " in our decomposition: " a_(m_i) = pos_P(m_i) * (R - 1) / D `
+
+  `"And then " hue(m) = sum_(i=1)^D a_(m_i)*R^i`
+</p>
 
 <script src="images/2018/04/d3.v4.min.js"></script>
 <script src="images/2018/04/d3.dependencyWheel.js"></script>
@@ -114,7 +134,8 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
     }
     function renderDependencyWheel(dependencyGraphJsonUrl, htmlElementSelector, moduleUrlTemplate) {
         d3.json(dependencyGraphJsonUrl, function(data) {
-            // Ensuring matrix is symmetrical:
+            // Ensuring matrix is symmetrical to make chords more regular, thick
+            var originalMatrix = JSON.parse(JSON.stringify(data.matrix));
             data.matrix.forEach((row, i) => {
                 row.forEach((value, j) => {
                     if (value && !data.matrix[j][i]) {
@@ -127,6 +148,9 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
             var pkgTree = buildPkgTree(data.packageNames);
             var chart = d3.chart.dependencyWheel({fill: function (d) {
                 var pkgPath = data.packageNames[d.index].split('.');
+                if (d.subindex && !originalMatrix[d.index][d.subindex]) {
+                    pkgPath = data.packageNames[d.subindex].split('.');
+                }
                 var hue = pkgPath2Degrees(pkgPath, maxPkgDepth, pkgTree);
                 return 'hsl(' + hue + ', 90%, 70%)';
             }});
@@ -157,25 +181,8 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
     h3 {
       text-align: center;
     }
-    svg {
-      overflow: visible;
+    .formula {
+      font-size: larger;
+      text-align: center;
     }
 </style>
-
-<!--
-gen_modules_graph.py flask > modules-flask.json
-gen_modules_graph.py httpie.core > modules-httpie.json
-gen_modules_graph.py requests > modules-requests.json
-gen_modules_graph.py simplejson > modules-simplejson.json
-gen_modules_graph.py botocore.session > modules-botocore.json
-gen_modules_graph.py scrapy > modules-scrapy.json
-gen_modules_graph.py compose.cli.main > modules-docker-compose.json
-gen_modules_graph.py ansible.inventory.manager ansible.playbook ansible.executor.task_queue_manager > modules-ansible.json
-
-ToDo:
-- fix diagrams CSS
-- handle function imports -> ex: https://github.com/jakubroztocil/httpie/blob/master/httpie/client/dump_request.py
-or https://github.com/pallets/flask/blob/master/flask/_request_ctx_stack.py
-- handle .c modules -> ex: https://github.com/simplejson/simplejson/blob/master/simplejson/_speedups.py
-- add schema for maths formula
--->
