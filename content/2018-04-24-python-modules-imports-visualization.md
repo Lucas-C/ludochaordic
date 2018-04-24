@@ -63,7 +63,7 @@ The script to extract the modules dependencies is on GitHub: [gen_modules_graph.
 It is less than 100 lines and use the [modulegraph](https://pypi.org/project/modulegraph/) package to parse modules dependencies, taking care to:
 
 - ignore modules outside of the target project
-- ignore constants, functions and modules with the zero incoming & outgoing dependencies (like packages with an empty `__init__.py`)
+- ignore constants, functions and modules with the zero incoming & outgoing dependencies (like Python packages with an empty `__init__.py`)
 
 Usage example:
 ```python
@@ -88,47 +88,59 @@ The code is available in this page source. Like the Python script, you are free 
 It is relatively straightforward, with a single notable trick:
 the conversion from a Python module path to a [hue](https://en.wikipedia.org/wiki/Hue) color value on a 360 degrees scale.
 
-In order for modules with a shared package to have close colors (like `http.response.html` and `http.response.text` in the `scrapy` wheel above),
+## A little bit of maths
+
+In order for modules with a shared ancestor to have close colors (like `http.response.html` and `http.response.text` in the `scrapy` wheel above),
 I used a simple mathematical concept: decomposing the hue value with a [bijective numeration](https://en.wikipedia.org/wiki/Bijective_numeration)
-into a fixed-size string of digits of size equal to the package tree depth.
-Once this numeral system [base radix](https://en.wikipedia.org/wiki/Radix) is computed from this depth,
-computing the hue value is simply a matter of a basic [exponentiation](https://en.wikipedia.org/wiki/Positional_notation#Exponentiation).
+into a fixed-size string of digits.
+
+This idea is similar to the binary numeral system, notably with the same concept of most / least significant digits,
+except that the range covered is `[0, 360]` and we want as many digits as the module tree depth.
+
+Once this numeral system [base radix](https://en.wikipedia.org/wiki/Radix) is computed from those 2 constraints,
+computing the hue value is simply a matter of a basic [exponentiation](https://en.wikipedia.org/wiki/Positional_notation#Exponentiation) :
+
+<figure>
+  <img alt="Python module tree" src="images/2018/04/PythonModuleTree.png">
+  <figcaption>Python module tree, with module names positions for module path <code>output.formatters.headers</code> of <code>httpie</code>
+          <br>(made with <a href="https://www.draw.io">draw.io</a> - <a href="images/2018/04/PythonModuleTree.xml">source xml</a>)</figcaption>
+</figure>
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
 
 <p class="formula">
-  `"Let " P " be a module tree of length " D`
+  `"Let's consider a module tree of depth " D "."`
 
   `"Then the base radix to use in our decomposition is " R = 360^(1 / D)`
 
-  `"Now, let " m " be a module path, constituded of " d " modules names " m_i ", with " d <= D`
+  `"Now, let " m " be a module path, constituded of " d " modules names " m_i ", with " d <= D "."`
 
-  `"We can define " pos_P(m_i) " to be the position of the module name " m_i " in the sorted list of its parent module children.`
+  `"We can define " pos(m_i) " to be the position of the module name " m_i " in the sorted list of its parent module children."`
 
-  `"We can now compute the digits of " m " in our decomposition: " a_(m_i) = pos_P(m_i) * (R - 1) / D `
+  `"We can now compute the digits of " m " in our decomposition: " d_(m_i) = (pos(m_i)) / D * (R - 1)`
 
-  `"And then " hue(m) = sum_(i=1)^D a_(m_i)*R^i`
+  `"And then " hue(m) = sum_(i=1)^D d_(m_i)*R^i`
 </p>
 
 <script src="images/2018/04/d3.v4.min.js"></script>
 <script src="images/2018/04/d3.dependencyWheel.js"></script>
 <script>
-    function buildPkgTree(pkgPaths) {
+    function buildModuleTree(modulePaths) {
         var tree = {};
-        pkgPaths.forEach(pkgPath => {
-            pkgPath.split('.').reduce((parent, pkg) => (parent[pkg] = parent[pkg] || {}), tree);
+        modulePaths.forEach(modulePath => {
+            modulePath.split('.').reduce((parent, moduleName) => (parent[moduleName] = parent[moduleName] || {}), tree);
         });
         return tree;
     }
-    function pkgPath2Degrees(pkgPath, maxArrLength, pkgTree) {
-        var parentPkgNode = pkgTree, result = 0, baseRadix = Math.pow(360, 1 / maxArrLength);
-        for (var i = 0; i < maxArrLength && pkgPath[i]; i++) {
-            var parentpkgChildren = Object.keys(parentPkgNode);
-            parentpkgChildren.sort();
-            var pkgRatioInParent = parentpkgChildren.indexOf(pkgPath[i]) / parentpkgChildren.length;
-            var weight = Math.pow(baseRadix, maxArrLength - 1 - i);
-            result += weight * (pkgRatioInParent * (baseRadix - 1));
-            parentPkgNode = parentPkgNode[pkgPath[i]];
+    function modulePath2Degrees(modulePath, moduleTree, moduleTreeDepth) {
+        var parentModule = moduleTree, result = 0, baseRadix = Math.pow(360, 1 / moduleTreeDepth);
+        for (var i = 0; i < moduleTreeDepth && modulePath[i]; i++) {
+            var parentModuleChildren = Object.keys(parentModule);
+            parentModuleChildren.sort();
+            var moduleRatioInParent = parentModuleChildren.indexOf(modulePath[i]) / parentModuleChildren.length;
+            var weight = Math.pow(baseRadix, moduleTreeDepth - 1 - i);
+            result += weight * (moduleRatioInParent * (baseRadix - 1));
+            parentModule = parentModule[modulePath[i]];
         }
         return result;
     }
@@ -144,14 +156,14 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
                 });
             });
             // Custom chords & path colors:
-            var maxPkgDepth = Math.max(...data.packageNames.map(p => p.split('.').length));
-            var pkgTree = buildPkgTree(data.packageNames);
+            var moduleTree = buildModuleTree(data.packageNames);
+            var moduleTreeDepth = Math.max(...data.packageNames.map(p => p.split('.').length));
             var chart = d3.chart.dependencyWheel({fill: function (d) {
-                var pkgPath = data.packageNames[d.index].split('.');
+                var modulePath = data.packageNames[d.index].split('.');
                 if (d.subindex && !originalMatrix[d.index][d.subindex]) {
-                    pkgPath = data.packageNames[d.subindex].split('.');
+                    modulePath = data.packageNames[d.subindex].split('.');
                 }
-                var hue = pkgPath2Degrees(pkgPath, maxPkgDepth, pkgTree);
+                var hue = modulePath2Degrees(modulePath, moduleTree, moduleTreeDepth);
                 return 'hsl(' + hue + ', 90%, 70%)';
             }});
             d3.select(htmlElementSelector).datum(data).call(chart).call(function(selection) {
@@ -181,8 +193,19 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
     h3 {
       text-align: center;
     }
+    article img {
+        display: block;
+        margin: 0 auto;
+        max-height: 30rem;
+    }
+    article figcaption {
+        text-align: center;
+    }
     .formula {
       font-size: larger;
       text-align: center;
+    }
+    .MathJax {
+      line-height: 3rem;
     }
 </style>
