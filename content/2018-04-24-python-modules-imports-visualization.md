@@ -33,14 +33,14 @@ Note that all module names in those diagrams are HTML links to the actual source
 ## Why ?
 
 At work, we did a short **technical-debt review** of one of our Python services,
-and a coworker reported a lack of documentation to provide a clear overview of the code structure,
+and a co-worker reported a lack of documentation to provide a clear overview of the code structure,
 for first-time contributors to easily jump in.
 
 Hence, last week I searched for some helpful code visualization recipes to provide such insight to our code base,
 hoping to find an easy-to-setup Python module that would do the job.
 
-I did not find any off-the-shelf package for my need (althought I'd love your suggestions if you know some !),
-but discovered Francois Zaninotto's [DependencyWheel](https://github.com/fzaninotto/DependencyWheel) vizualiation of dependencies,
+I did not find any off-the-shelf package for my need (although I'd love your suggestions if you know some !),
+but discovered Francois Zaninotto's [DependencyWheel](https://github.com/fzaninotto/DependencyWheel) visualization of dependencies,
 and decided to use it to build a nice diagram and add it to our documentation.
 
 I thought it could be useful to others, hence this blog post to share the recipe online.
@@ -56,8 +56,8 @@ Moreover, the project is built & hosted by [GitLab Pages](https://about.gitlab.c
 This way, the diagram is always up-to-date with the project code.
 It also made the addition of this diagram quite easy:
 
-1. I added some code to the GitLab Pages build script to fetch the corresponding git repo and exract the modules dependencies as JSON.
-2. I added some Javascript code to a Markdown page in our documentation to render the depency wheel based on this JSON
+1. I added some code to the GitLab Pages build script to fetch the corresponding git repo and extract the modules dependencies as JSON.
+2. I added some Javascript code to a Markdown page in our documentation to render the dependency wheel based on this JSON
 
 The script to extract the modules dependencies is on GitHub: [gen_modules_graph.py](https://github.com/Lucas-C/dotfiles_and_notes/blob/master/languages/python/gen_modules_graph.py).
 It is less than 100 lines and use the [modulegraph](https://pypi.org/project/modulegraph/) package to parse modules dependencies, taking care to:
@@ -77,7 +77,7 @@ I made 2 small patches / PRs to latest version of this project:
 - [a single-line code change to allow for colors customization](https://github.com/fzaninotto/DependencyWheel/pull/15)
 - [another minor change to make the chart adaptive to the parent DOM element width](https://github.com/fzaninotto/DependencyWheel/pull/16)
 
-I also used some additionnal JS code to:
+I also used some additional JS code to:
 
 - ensure the dependencies matrix is square (to get prettier graphs)
 - customize the colors
@@ -113,7 +113,7 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
 
   `"Then the base radix to use in our decomposition is " R = 360^(1 / D)`
 
-  `"Now, let " m " be a module path, constituded of " d " modules names " m_i ", with " d <= D "."`
+  `"Now, let " m " be a module path, constituted of " d " modules names " m_i ", with " d <= D "."`
 
   `"We can define " pos(m_i) " to be the position of the module name " m_i " in the sorted list of its parent module children."`
 
