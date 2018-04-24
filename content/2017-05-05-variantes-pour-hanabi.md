@@ -9,8 +9,6 @@ Slug: variantes-pour-hanabi
 
 Voici quelque idées de variantes pour renouveler un peu le plaisir :
 
-- **Ikebana** _(non encore testé)_ : est la soeur jumelle d'Hanabi. Ces deux jeux ont été à l'origine conçu ensemble par Antoine Bauza. _Ikebana_ est une règle alternative pour jouer à un jeu compétitif avec les même cartes. Les règles sont disponibles en ligne : [Règles d'Ikeba (PDF, 636Ko)](http://regle.jeuxsoc.fr/ikeba_rg.pdf)
-
 - **Variante rapide pour 2 joueurs** _(testé : un peu trop aléatoire)_ Source: [BoardGameGeek](https://boardgamegeek.com/thread/1122247/quick-hanabi-2-experienced-players).
 On restreint le matériel à :
     * **cartes**: trois 1, deux 2, et un 3 dans trois couleurs, soit 18 cartes au total.

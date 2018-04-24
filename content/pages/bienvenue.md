@@ -29,14 +29,14 @@ N'hésitez donc pas à me faire part de vos retours sur son contenu !
 Si vous ne deviez lire que quelques articles de ce blog, je vous conseille ceux-ci.
 Le choix est purement arbitraire, ce sont simplement les articles dont je suis le plus fier.
 
-- [Analyse statique de code Java : Google Error Prone, Findbugs et PMD](analyse-statique-de-code-java-google-error-prone-findbugs-et-pmd.html) (18 janvier 2017)
-- [Til Cows Tear Us Apart et Hop Slide](til-cows-tear-us-apart-et-hop-slide.html) (02 novembre 2016)
+- [Python module imports visualization](python-modules-imports-visualization.html) (24 avril 2018)
+- [Conference sur l'open source en entreprise a l'Ecole IMT Atlantique](conference-sur-l-open-source-en-entreprise-a-l-ecole-imt-atlantique.html) (2 mars 2018)
+- [Post-mortem de la Global Game Jam 2018](post-mortem-de-la-global-game-jam-2018.html) (3 février 2018)
+- [Variantes pour Hanabi](variantes-pour-hanabi.html) (5 mai 2017)
+- [Rendering deep text-based mindmaps with WiseMapping and Python](rendering-deep-text-based-mindmaps-with-wisemapping-and-python.html) (15 mars 2017)
 - [SpyFall en print&play](spyfall-en-print.html) (20 octobre 2015)
 - [Git pre-commit hooks](git-pre-commit-hooks.html) (01 mai 2015)
-- [Python 3 non consistent set & dict iteration gotcha](python-3-non-consistent-set-dict-iteration-gotcha.html) (08 décembre 2014)
 - [La tête dans le guidon](la-tete-dans-le-guidon.html) (29 novembre 2014)
-- [Follow a process progress to read a file](follow-a-progress-progress-to-read-a-file.html) (08 octobre 2014)
-- [Quick stats on a stream of values in the console](quick-stats-on-a-stream-of-values-in-the-console.html) (09 septembre 2014)
 
 <hr class="clear-floats">
 
