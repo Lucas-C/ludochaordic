@@ -1,6 +1,6 @@
 Title: Pytest AST-modification : getting the tests final code
 Date: 2015-02-15 08:02
-Tags: lang:en, python, unit-testing, ecovoit, pytest, ast, assert, decompile, parallelize, wrapper, prog
+Tags: lang:en, python, unit-testing, ecovoit, pytest, ast, assert, assembly, parallelize, prog
 Slug: pytest-ast-modification-getting-the-tests-final-code
 ---
 [`Pytest`](http://pytest.org) is a very complete test framework for Python. I like how you can write a basic `unittest.TestCase` and the `py.test` test runner command will inject all its magic at runtime, without you having to directly  `import` anything: awesome separation of concerns.

@@ -1,6 +1,6 @@
 Title: Colored logs in Python
 Date: 2015-02-17 08:02
-Tags: lang:en, python, color, logging, colorama, termcolor, wrapper, prog
+Tags: lang:en, python, color, logging, colorama, termcolor, prog
 Slug: colored-logs-in-python
 ---
 <u>_Disclaimer_:</u> this post was heaviliy inspired by the 2 following gists:

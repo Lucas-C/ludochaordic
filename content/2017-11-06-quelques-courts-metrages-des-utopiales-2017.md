@@ -1,6 +1,6 @@
 Title: Quelques courts métrages des Utopiales 2017
 Date: 2017-11-06 14:00
-Tags: lang:fr, nantes, utopiales, science-fiction, court-metrage, video
+Tags: lang:fr, nantes, utopiales, science-fiction, court-metrage, opinion, video
 Slug: quelques-courts-metrages-des-utopiales-2017
 ---
 

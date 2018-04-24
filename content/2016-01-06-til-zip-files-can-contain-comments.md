@@ -1,6 +1,6 @@
 Title: TIL zip files can contain comments
 Date: 2016-01-08 12:01
-Tags: lang:en, python, jq, json, zip, pythonchallenge, prog
+Tags: lang:en, python, jq, zip, pythonchallenge, prog
 Slug: til-zip-files-can-contain-comments
 ---
 ... and the standard UNIX tool `zipinfo` cannot display them !

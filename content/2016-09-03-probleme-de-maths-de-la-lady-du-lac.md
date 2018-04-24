@@ -1,6 +1,6 @@
 Title: Problème de maths de la lady du lac
 Date: 2016-09-03 11:09
-Tags: lang:fr, tangente, maths, canvas, web, trigonometry
+Tags: lang:fr, tangente, maths, canvas, trigonometry
 Slug: probleme-de-maths-de-la-lady-du-lac
 ---
 Dans [le numéro 171 du magazine tangente](http://www.tangente-mag.com/numero.php?id=131), page 47, un intéressant petit problème mathématique est posé au lecteur.

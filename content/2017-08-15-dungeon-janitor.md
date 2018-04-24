@@ -1,6 +1,6 @@
 Title: Dungeon Janitor
 Date: 2017-08-15 12:00
-Tags: lang:fr, puzzlescript, video-game, donjon, jdr, JohnHarper, 2-players, jeux, @Matt
+Tags: lang:fr, puzzlescript, video-game, donjon, jdr, JohnHarper, 2-players, storytelling, playtest, opinion, jeux, @Matt
 Slug: dungeon-janitor
 ---
 

@@ -1,6 +1,6 @@
 Title: Compte-rendu de la PyConFr 2017
 Date: 2017-09-25 19:00
-Tags: lang:fr, python, open-source, hackathon, documentation, talk, conference, slides, toulouse, oui.sncf, prog
+Tags: lang:fr, python, open-source, hackathon, documentation, talk, conference, slides, toulouse, oui.sncf, compte-rendu, opinion, prog
 Slug: compte-rendu-de-la-pyconfr-2017
 ---
 

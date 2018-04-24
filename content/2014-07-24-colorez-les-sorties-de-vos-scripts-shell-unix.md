@@ -1,6 +1,6 @@
 Title: Colorez les sorties de vos Makefile & scripts shell unix
 Date: 2014-07-24 16:07
-Tags: lang:fr, bash, unix, couleur, script, shell, makefile, prog
+Tags: lang:fr, bash, unix, couleur, shell, makefile, prog
 Slug: colorez-les-sorties-de-vos-scripts-shell-unix
 ---
 Malgré leurs nombreux défauts <sup><a href="#fn1" id="ref1">[1]</a></sup>, les scripts _shell_ restent bien pratiques. Pourquoi ? Parce qu'ils fonctionnent **exactement** comme l'interpréteur de ligne de commande de votre terminal Linux. Ils sont donc la solution la plus simple et rapide pour automatiser des enchaînement de commandes <sup><a href="#fn2" id="ref2">[2]</a></sup>.

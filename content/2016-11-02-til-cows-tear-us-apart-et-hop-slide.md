@@ -1,6 +1,6 @@
 Title: Til Cows Tear Us Apart et Hop Slide
 Date: 2016-11-02 20:11
-Tags: lang:fr, game-jam, oujevipo, ludum-dare, space-cowboy, indie-game, video-game, storytelling, puzzle, daniel-lindsen, jeux
+Tags: lang:fr, game-jam, oujevipo, ludum-dare, space-cowboy, indie-game, video-game, storytelling, puzzle, daniel-lindsen, playtest, opinion, jeux
 Slug: til-cows-tear-us-apart-et-hop-slide
 ---
 Ce soir, je veux vous parler de petits jeux **coup de coeur**.

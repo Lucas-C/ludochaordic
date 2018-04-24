@@ -1,6 +1,6 @@
 Title: Première partie test de Blades In The Dark
 Date: 2017-09-09 16:00
-Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, john-harper, jeux, @Simon, @Elliot, @ThomasG
+Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, john-harper, playtest, jeux, @Simon, @Elliot, @ThomasG
 Slug: premiere-partie-test-de-blades-in-dark
 Image: images/2017/09/f7e12590ecc0f025dc93f885c6fc92cc.jpg
 ---
