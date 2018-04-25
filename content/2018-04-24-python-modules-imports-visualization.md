@@ -106,7 +106,7 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
           <br>(made with <a href="https://www.draw.io">draw.io</a> - <a href="images/2018/04/PythonModuleTree.xml">source xml</a>)</figcaption>
 </figure>
 
-<script src="images/2018/04/MathJax-2.7.1.js?config=AM_HTMLorMML"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=AM_HTMLorMML,Safe"></script>
 
 <p class="formula">
   `"Let's consider a module tree of depth " D "."`
