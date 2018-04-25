@@ -119,7 +119,7 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
 
   `"We can now compute the digits of " m " in our decomposition: " d_(m_i) = (pos(m_i)) / D * (R - 1)`
 
-  `"And then " hue(m) = sum_(i=1)^D d_(m_i)*R^i`
+  `"And then " hue(m) = sum_(i=1)^D d_(m_i)*R^(D-i)`
 </p>
 
 <script src="images/2018/04/d3.v4.min.js"></script>
