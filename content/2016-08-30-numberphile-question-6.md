@@ -4,7 +4,7 @@ Tags: lang:en, maths
 Slug: numberphile-question-6
 Status: draft
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
+<script src="images/2016/?/MathJax-2.7.1.js?config=AM_HTMLorMML"></script>
 
 A couple of weeks ago, I watched the latest [Numberphile](http://www.numberphile.com) video in which a very interesting Maths problem was described :
 
