@@ -1,6 +1,6 @@
 Title: Glitch art and image processing with Python
 Date: 2018-02-18 23:00
-Tags: lang:en, glitch-art, reddit, image-processing, python, music, prog
+Tags: lang:en, glitch-art, reddit, image-processing, python, music, net-art, datamoshing, prog
 Slug: glitch-art-and-image-processing-with-python
 Image: images/2018/02/colorstolen_japanified_TDZSJMs.jpg
 ---
@@ -87,6 +87,11 @@ The Glasgow band [Kill the Waves](https://soundcloud.com/killthewaves) even used
 It was nice to stumble on this band, I especially like their [Anymore](https://soundcloud.com/tonguesmusic/anymore) & [Vow](https://soundcloud.com/killthewaves/vow) songs.
 
 What do you think of those glitches ? ?? Are there other ones you known and like ? ??
+
+**EDIT [2018/03/05]** : I learned thanks to <http://rhizome.org> about the name of one of those technics, _datamoshing_,
+of which this video is an example : <https://www.youtube.com/watch?v=TxFeesWL5OI>.
+
+There is also this tumblr collecting glitch GIFs: <http://glitchgifs.tumblr.com>.
 
 <style>
 img {
