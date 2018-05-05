@@ -123,7 +123,8 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'past_readings.html',
     'pages/bienvenue.html',
     'pages/jdr-blades-in-the-dark.html',
+    'pages/net-art.html',
     'pages/slides.html',
 
-    'python-modules-imports-visualization.html',
+    'generateurs-de-puzzles-open-source.html',
 )]
