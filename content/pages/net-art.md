@@ -58,4 +58,4 @@ A Cyberfeminist Manifesto for the 21st Century - 1991:
 
 ---
 
-http://inflorescence.city by katie rose pipkin & loren schmidt
+<http://inflorescence.city> by katie rose pipkin & loren schmidt
