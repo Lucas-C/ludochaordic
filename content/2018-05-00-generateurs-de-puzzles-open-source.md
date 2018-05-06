@@ -1,13 +1,12 @@
 Title: Python module imports visualization
-Date: 2018-05-00 00:00
+Date: 2018-05-06 08:00
 Tags: lang:fr, python, javascript, linuxfr, open-source, puzzle, jeux, prog
 Slug: generateurs-de-puzzles-open-source
 Image: http://i.imgur.com/XRs3jk7.gif
-Status: draft
 ---
 
 Voici une petite dépêche que j'ai écris sur le site LinuxFr :
-<https://linuxfr.org/>
+<https://linuxfr.org/news/generateurs-de-puzzles-libres>
 
 <!--
 Il y a quelques temps, j'étais à la recherche de générateurs de puzzles personnalisables (dont la solution serait un petit mot doux romantique). Des puzzles qui ne soient pas uniquement jouables en ligne, mais imprimables, ne nécessitant qu'une feuille et un crayon.
