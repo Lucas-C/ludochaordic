@@ -11,63 +11,67 @@ These are the pieces I love the most (click on them to find the source):
 
 <!-- The a > div > noscript seems not valid in terms of HTML syntax -->
 <a href="https://www.reddit.com/r/glitch_art/comments/7x3ps0/dream_girl_gaze/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by misteach" src="images/2018/02/pd1gx9xucuf01.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="dream_girl_gaze art by misteach" src="images/2018/02/pd1gx9xucuf01.jpg"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/75ok6f/walk_it_off/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by skybrian" src="images/2018/02/zqvSQdO.png"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="Walk it off by skybrian" src="images/2018/02/zqvSQdO.png"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/5wbei8/pxl_rain/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by GutturalEcho" src="images/2018/02/ljc76jy3s8iy.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="pxl_rain by GutturalEcho" src="images/2018/02/ljc76jy3s8iy.jpg"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/pixelsorting/comments/757ung/a_bit_of_rain/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by cirodoggy" src="images/2018/02/31t7i2m9rrqz.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="A bit of rain by cirodoggy" src="images/2018/02/31t7i2m9rrqz.jpg"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/7glph4/the_heavens_opened_up_when_the_rain_came/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by txchick1983" src="images/2018/02/fBb1s47.png"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="The heavens opened up When the rain came by txchick1983" src="images/2018/02/fBb1s47.png"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/8n8xnu/sakura/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Sakura by piromantic" src="images/2018/02/sakura.png"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/pixelsorting/comments/61iwka/liquid_metal/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by Tw1gz666" src="images/2018/02/tap4xb93enny.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="Liquid metal by Tw1gz666" src="images/2018/02/tap4xb93enny.jpg"></noscript></div>
 </a>
 This one above reminds me of [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa).
 Like many other pieces, it uses a "glitching" technique called Pixed Sorting.
 
 <a href="https://www.reddit.com/r/glitch_art/comments/6nsxna/city_lights/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by Sarxasm" src="images/2018/02/DKgMD0A.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="City Lights by Sarxasm" src="images/2018/02/DKgMD0A.jpg"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/pixelsorting/comments/7b3u4x/have_you_ever_retired_a_human_by_mistake/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by pixelated_spliffs" src="images/2018/02/nxmkk00scbwz.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="Have you ever retired a human by mistake? by pixelated_spliffs" src="images/2018/02/nxmkk00scbwz.jpg"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/79bm2k/lost_city/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by Kek_Snek" src="images/2018/02/ep2fjwlh3muz.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="Lost City by Kek_Snek" src="images/2018/02/ep2fjwlh3muz.jpg"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/22dk1u/wakegif/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by HopelessPerson" src="images/2018/02/SFVf5ov.gif"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="wake.gif by HopelessPerson" src="images/2018/02/SFVf5ov.gif"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/6ylvyw/you_cant_handle_the_glitch_by_arsikere/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by arsikere" src="images/2018/02/AWlGFnu.gif"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="You can't handle the Glitch by @Arsikere" src="images/2018/02/AWlGFnu.gif"></noscript></div>
 </a>
 
 This other glitch video by MarshmellowNinja is very funny, but better viewed online: <https://www.reddit.com/r/glitch_art/comments/7xhbrf/woah/>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/26w188/a_landscape_piece/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by vvdr12" src="images/2018/02/vvdr12_14116705239_cd7ae031e4_k.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="A landscape piece. by vvdr12" src="images/2018/02/vvdr12_14116705239_cd7ae031e4_k.jpg"></noscript></div>
 </a>
 
 <a href="https://www.reddit.com/r/glitch_art/comments/1kztnf/japanization_python_pixel_editing_bug/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by vvdr12" src="images/2018/02/vvdr12_9655801399_c763157694_o.png"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="Japanization: Python pixel editing bug by vvdr12" src="images/2018/02/vvdr12_9655801399_c763157694_o.png"></noscript></div>
 </a>
 
 <a href="https://www.flickr.com/photos/vvdr12/10343539123/">
-<div class="lazyload" data-noscript=""><noscript><img alt="Glitch art by vvdr12" src="images/2018/02/vvdr12_10343539123_128a0c8375_k.jpg"></noscript></div>
+<div class="lazyload" data-noscript=""><noscript><img alt="elephant hill by vvdr12" src="images/2018/02/vvdr12_10343539123_128a0c8375_k.jpg"></noscript></div>
 </a>
 
 Those 4 last ones are from Reddit user [vvdr12](https://www.reddit.com/user/vvdr12), whose [flickr gallery](https://www.flickr.com/photos/vvdr12/) also includes great intentionnaly made pieces. He [kindly explained](https://www.reddit.com/r/glitch_art/comments/1kztnf/japanization_python_pixel_editing_bug/) [how he made this "japanify" effect in Python](https://www.reddit.com/r/glitch_art/comments/1p5mno/elephant_hill/), and specified the [source image](http://imgur.com/TDZSJMs).
@@ -94,7 +98,7 @@ of which this video is an example : <https://www.youtube.com/watch?v=TxFeesWL5OI
 There is also this tumblr collecting glitch GIFs: <http://glitchgifs.tumblr.com>.
 
 <style>
-img {
+article img {
     max-height: 80vh;
 }
 .lazyload, .lazyloaded {
@@ -111,3 +115,6 @@ img {
     transition: opacity 300ms;
 }
 </style>
+<script>
+document.querySelectorAll('article img').forEach(img => img.title = img.alt)
+</script>
