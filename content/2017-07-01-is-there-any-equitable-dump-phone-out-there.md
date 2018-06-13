@@ -37,3 +37,5 @@ I'm just going to put down and share my findings here:
 - currently the best solution seems to be refurbished phones and computers. Living in Nantes, I'm going to look into [Alis44](http://www.alis44.org) & [Naga44](http://www.naga44.org) for laptops, and [LeBonCoin](https://www.leboncoin.fr) for dumbphones
 
 **EDIT[2017/11/06]**: a very interesting initiative: [Commown](https://commown.fr)
+
+**EDIT[2018/06/13]**:  [another one](https://www.backmarket.fr/ordinateur-portable-reconditionne.html), repackaged computers in France

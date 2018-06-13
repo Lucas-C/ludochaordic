@@ -15,6 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/au-pays-des-ombres.jpg', 'description': 'Au Pays des Ombres - Mathis & Thierry Martin (BD)'},
     {'img_url': 'images/readings/les_larmes_de_nuwa.jpg', 'description': 'Les Larmes de Nüwa - Benjamin Jurdic & Manuro (BD dont vous êtes le héro)'},
     {'img_url': 'images/readings/saga-tome-8.jpg', 'description': 'Saga - tome 8 - Fiona Staples & Brian K. Vaughan (BD)'},
     {'img_url': 'images/readings/enquetes-generales.jpg', 'description': 'Enquêtes Générales - Immersion au cœur de la brigade de répression du banditisme - Raynal Pellicer & Titwane (BD)'},
@@ -33,6 +34,7 @@ LINKS = (('Blog BD de Boulet', 'http://www.bouletcorp.com'),
          ('Sam & Max @Twitter', 'https://twitter.com/sam_et_max'),
          ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
          ('Derrière le paravent de Greg Pogorzelski', 'http://awarestudios.blogspot.fr'),
+         ('OuJeViPo', 'http://oujevipo.fr'),
          ('Neal Krawetz Hacker Factor Blog', 'http://www.hackerfactor.com/blog/'),
          ('J.P. Villain (Access42) @Twitter', 'https://twitter.com/villainjp'),
          ('Blog de David Larlet', 'https://larlet.fr/david/blog/'),
