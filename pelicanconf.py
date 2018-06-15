@@ -131,5 +131,5 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/net-art.html',
     'pages/slides.html',
 
-    'displaying-chained-exceptions-stacktraces-in-python-2.html',
+    'customizing-notepad++-autocompletion-with-python.md.html',
 )]

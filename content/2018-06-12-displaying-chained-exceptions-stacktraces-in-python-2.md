@@ -10,6 +10,18 @@ and we recently had some difficulties diagnosing a problem with the MySQL connec
 Because we were catching the `mysql.connector.errors.Error` and raising a custom exception,
 we were loosing the underlying stacktrace and hence couldn't troubleshoot the root cause of the issue.
 
+![Grandman says: Program exit with error -11! But where is the stacktrace ?](images/2018/06/program-exit-with-11-but-where-is-the-stacktrace.jpg)
+
+Raising custom exceptions isn't the issue here :
+this practice ensure you have a proper [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns),
+meaning in practice your code do not raise exceptions coming from third-party libraries <sup><a id="ref1" href="javascript:;" onclick="document.location.hash='fn1';">[1]</a></sup>
+and that you control what kind of exception your class or module can raise,
+while adding useful contextual information in the new custom one raised.
+
+No, the real solution here is to display the full stacktrace.
+
+![Scene from the film Inception : That's not enough, we have to go deeper](images/2018/06/inception-thats-not-enough-we-have-to-go-deeper.png)
+
 In this article, I'll show how to handle such situation in Python 2.
 
 ---
@@ -118,3 +130,17 @@ The above exception was the direct cause of the following exception:
     raise ValueError('Wooops')
 ValueError: Wooops
 ```
+
+---
+
+<a id="fn1" href="javascript:;" onclick="document.location.hash='ref1';">1.</a> Bubbling up external libraries exceptions isn't always a bad practice,
+especially for critical ones. But if your code uses various libs that all can raise very common and different exceptions,
+this will force the users of your code to `import` all those exceptions systematically and is a clear violation of S.o.C.
+
+<style>
+    article img {
+        display: block;
+        margin: 0 auto;
+        max-height: 20rem;
+    }
+</style>
