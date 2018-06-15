@@ -75,7 +75,7 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['image_process', 'representative_image', 'tag_cloud']
+PLUGINS = ('ctags_generator', 'image_process', 'representative_image', 'tag_cloud')
 
 IMAGE_PROCESS = {
     'thumb': ['scale_out 300 300 False'],
