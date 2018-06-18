@@ -1,7 +1,7 @@
 Title: Customizing Notepad++ autocompletion with Python
 Date: 2018-06-15 14:00
 Tags: lang:en, python, vim, notepad++, pelican, blog, plugin, prog
-Slug: customizing-notepad++-autocompletion-with-python.md
+Slug: customizing-notepad++-autocompletion-with-python
 ---
 
 When [I migrated this blog to Pelican](https://chezsoi.org/lucas/blog/migration-du-blog-de-ghost-a-pelican.html),
