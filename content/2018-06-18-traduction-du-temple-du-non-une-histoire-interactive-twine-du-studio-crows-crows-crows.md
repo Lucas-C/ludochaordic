@@ -24,7 +24,7 @@ Il y a quelques semaines, je me suis donc mis en tête de traduire ce jeu en fra
 
 Après plusieurs jours à m'arracher les cheveux pour traduire des références intraduisibles,
 et après plusieurs relectures de valeureux testeurs (merci Laëtitia, Alexandre et ma maman 🙏 😉),
-je suis fier de vous présenter : [Le Temple du Non](https://chezsoi.org/lucas/le-temple-du-non/) ! _(cliquez sur le lien)
+je suis fier de vous présenter : [Le Temple du Non](https://chezsoi.org/lucas/le-temple-du-non/) ! _(cliquez sur le lien)_
 
 J'espère que le jeu vous plaira !
 Tout le mérite revient à ses génialissimes créateurs : Dominik Johann, William Pugh, Joe Finegold & Tom Schley.
