@@ -20,15 +20,17 @@ Détail important également : l'intégralité des sources du jeu sont _open-sou
 J'ai **adoré** cette histoire loufoque et drôle, dans les lignées des autres jeux du studio.
 L'écriture, tant des dialogues que de l'histoire générale, est absolument géniale.
 
-Il y a quelques semaines, je me suis donc mis en tête de traduire ce jeu en français.
+Le 8 mai dernier, j'ai appris par la _newsletter_ de Crows Crows Crows qu'ils avaient fait une petite mise à jour du jeu,
+pour introduire une fin cachée, avec même [une petite vidéo bande-annonce](https://www.youtube.com/watch?v=PYTyGJ2Xk5U) pour l'occasion.
+Ça a été l'occasion de remettre le nez dedans, et je me suis alors mis en tête de traduire ce jeu en français.
 
-Après plusieurs jours à m'arracher les cheveux pour traduire des références intraduisibles,
+Après plusieurs jours à m'arracher les cheveux pour traduire des références intraduisibles ([_Where's the trigger ?_](https://www.youtube.com/watch?v=xZ5cH1Dh2G0)),
 et après plusieurs relectures de valeureux testeurs (merci Laëtitia, Alexandre et ma maman 🙏 😉),
 je suis fier de vous présenter : [Le Temple du Non](https://chezsoi.org/lucas/le-temple-du-non/) ! _(cliquez sur le lien)_
 
 J'espère que le jeu vous plaira !
 Tout le mérite revient à ses génialissimes créateurs : Dominik Johann, William Pugh, Joe Finegold & Tom Schley.
-N'hésitez pas à laisser un commentaire si vous avez apprécié, ou si vous avez repéré une faute.
+N'hésitez pas à laisser un commentaire si vous avez apprécié, ou si vous avez repéré une maladresse dans la traduction.
 
 ---
 
