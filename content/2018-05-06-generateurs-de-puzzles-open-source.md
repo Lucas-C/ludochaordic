@@ -2,7 +2,7 @@ Title: Générateurs de puzzles open source
 Date: 2018-05-06 08:00
 Tags: lang:fr, python, javascript, linuxfr, open-source, puzzle, jeux, prog
 Slug: generateurs-de-puzzles-open-source
-Image: http://i.imgur.com/XRs3jk7.gif
+Image: images/2018/05/nonogram.gif
 ---
 
 Voici une petite dépêche que j'ai écrite sur le site LinuxFr :
