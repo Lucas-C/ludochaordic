@@ -3,7 +3,7 @@ Date: 2017-02-22 12:02
 Tags: lang:en, solarized, mindmap, python, graphviz, project, open-source, prog
 Slug: solarized-mindmaps-with-python-and-graphviz
 ---
-This week I wrote [a small Python script](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/mindmaps/graphviz_mindmap.py), heavily inspired by [this Treemap plugin for Zim wiki](https://github.com/jaap-karssenberg/zim-wiki/wiki/TreeMap-plugin-(converted-Text2mindmap-custom-tool)), and using [Ethan Schoonover solarized palette](http://ethanschoonover.com/solarized), that can generate a mindmap from a simple indented text input like this:
+This week I wrote [a small Python script](https://github.com/Lucas-C/brain_dump), that can generate a mindmap from a simple indented text input like this:
 <pre>Winter
     december
     january
