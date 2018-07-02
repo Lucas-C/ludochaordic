@@ -131,5 +131,5 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/net-art.html',
     'pages/slides.html',
 
-    'traduction-du-temple-du-non-une-histoire-interactive-twine-du-studio-crows-crows-crows.html',
+    'del-magic-method-dangers-in-python-2-and-infinite-loops.html',
 )]
