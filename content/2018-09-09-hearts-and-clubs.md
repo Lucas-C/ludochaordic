@@ -8,4 +8,6 @@ Being currently on a bike tour in Europe for several week, without computer nor 
 Still, I'd like to mention a discovery I just made from an Internet café here in Budapest : 
 the [Hearts and clubs](http://heartsandclubs.com) website.
 
+![Hearts and clubs logo](http://heartsandclubs.com/wp-content/uploads/2018/03/HeartsandClubs-2.png)
+
 Curated by By Pierre Corbinais, [OuJeViPo](http://oujevipo.fr) author's, this site collects board games which attempt to address socio-political questions.
