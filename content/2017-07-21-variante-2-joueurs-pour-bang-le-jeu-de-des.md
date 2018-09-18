@@ -94,6 +94,11 @@ Il s'agit d'une combinaison à 5 dés:
 
 _Merci à Matthieu & Laëtitia pour les playtests, et Zemeckis pour ses retours_
 
+**[EDIT 2018-09-19]** : Bishop19 sur le site boardgamegeek a mis en page cette règle au format des cartes du jeu, en anglais :
+<https://boardgamegeek.com/filepage/169243/2-player-variant> Merci à lui !
+
+J'ai découvert par la meme occasion cette autre variante pour 2 joueurs : <https://boardgamegeek.com/filepage/169173/shootout-mode-2-player-variant>
+
 <style>
 .dice-face {display:inline !important; width: 5rem}
 </style>
