@@ -1,4 +1,4 @@
-Title: Hearts and clubs.com/
+Title: Hearts and clubs.com
 Date: 2018-07-05 9:00
 Tags: lang:en, jeu-de-societe, print-play, pierre-corbinais, gamedesign, jeux
 Slug: hearts-and-clubs
