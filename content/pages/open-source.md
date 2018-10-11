@@ -45,6 +45,8 @@ a Python module to build batch pipelines, it handles dependency resolution, work
     * created [a plugin to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
 
+- [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
+
 I also made some maps for a Ludum Dare game, back in 2009 (the game is worth trying !):
 <http://eriatic.wikidot.com/blog:triumph-mappack>
 

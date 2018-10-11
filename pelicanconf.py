@@ -131,7 +131,8 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/bienvenue.html',
     'pages/jdr-blades-in-the-dark.html',
     'pages/net-art.html',
+    'pages/open-source.html',
     'pages/slides.html',
 
-    'del-magic-method-dangers-in-python-2-and-infinite-loops.html',
+    'overblog2pelican.html',
 )]
