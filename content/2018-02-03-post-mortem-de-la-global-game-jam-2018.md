@@ -19,7 +19,7 @@ Cette fois, la Global Game Jam était organisée par les écoles E-art Sup & Epi
 Merci à eux pour la super organisation, et pour nous avoir prêté leurs locaux le temps du week-end !
 Avec deux collègues de [oui.sncf](https://www.oui.sncf), Henri & Loïc, nous avions déjà décidé de former une équipe ensemble pour l'occasion.
 
-<figure>
+<figure role="group">
   <img alt="Photo de l'équipe" src="images/2018/01/GGJ2018_TheTeam.jpg">
   <figcaption>Une équipe qui roxe du poney bleu !</figcaption>
 </figure>

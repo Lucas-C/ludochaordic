@@ -131,8 +131,9 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/bienvenue.html',
     'pages/jdr-blades-in-the-dark.html',
     'pages/net-art.html',
+    'pages/mentions-legales.html',
     'pages/open-source.html',
     'pages/slides.html',
 
-    'overblog2pelican.html',
+    'drafts/retour-d-experience-sur-un-voyage-a-velo-jusqu-en-croatie.html',
 )]

@@ -20,7 +20,7 @@ Voici un petit compte-rendu de notre première partie d'il y a quelques semaines
 - **Elaria** (PJ: _Lurk_) : voleuse originaire d'une famille pauvre de travailleurs d'Akoros, recueillie par Ludius très jeune; a fait de la prison pour cambriolage; toxicomane
 - **Melvir** : _physicker_, vieil ami de Ludius du temps où ils naviguaient
 
-<figure>
+<figure role="group">
     <a href="images/2017/09/PZO8500Dargley_500.jpeg"><img src="images/2017/09/PZO8500Dargley_500.jpeg" alt="Melvir"></a>
     <figcaption>Melvir - Artwork: "Dargley" par <a href="https://athayar.deviantart.com/art/Pathfinder-Dargley-400349532">CavalierediSpade</a></figcaption>
 </figure>
@@ -41,7 +41,7 @@ Voici un petit compte-rendu de notre première partie d'il y a quelques semaines
 Tout commence par une mission assez simple pour le gang: s'infiltrer dans sur un navire de la flotte impériale,
 afin d'y dérober un très vieux et précieux journal de bord, détaillant les routes maritimes empruntées par les léviathans.
 
-<figure>
+<figure role="group">
     <a href="images/2017/09/ship-infiltration.jpg"><img src="images/2017/09/ship-infiltration.jpg" alt="Infiltration sur le navire de Drav Walund"></a>
     <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour-Duhaime</a></figcaption>
 </figure>
@@ -51,7 +51,7 @@ déguisé en homme de la milice de Duskwall.
 De son côté, Ludius a trouvé un prétexte pour être à bord : via ses anciens contacts marins, il a demandé à rencontrer le capitaine,
 **Drav Walund**, en prétendant vouloir être recruté.
 
-<figure>
+<figure role="group">
     <a href="images/2017/09/f7e12590ecc0f025dc93f885c6fc92cc.jpg"><img src="images/2017/09/f7e12590ecc0f025dc93f885c6fc92cc.jpg" alt="Drav Walund"></a>
     <figcaption>Drav Walund - Artwork de <a href="https://www.artstation.com/crazybrush">Goran Bukvic</a></figcaption>
 </figure>
@@ -107,12 +107,12 @@ et une chute d'une dizaine de mètres de haut de Ethnos dans une fumerie d'opium
 Tandis que Stravul, à qui on a fait comprendre qu'il n'avait pas le choix, tente de rafistoler Ludius à la planque,
 les PJs rejoignent le gang des Crows dans un hangar des docks pour le deal prévu : la vente du journal de bord.
 
-<figure>
+<figure role="group">
     <a href="images/2017/09/Thief_Game_Concept_Art_MLD_30.jpg"><img src="images/2017/09/Thief_Game_Concept_Art_MLD_30.jpg" alt="Extérieur de l'entrpôt sur les quais"></a>
     <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour-Duhaime</a></figcaption>
 </figure>
 
-<figure>
+<figure role="group">
     <a href="images/2017/09/Thief-city-hub-101.jpg"><img src="images/2017/09/Thief-city-hub-101.jpg" alt="Intérieur de l'entrpôt sur les quais"></a>
     <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour-Duhaime</a></figcaption>
 </figure>

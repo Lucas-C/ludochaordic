@@ -9,7 +9,7 @@ Slug: traduction-du-temple-du-non-une-histoire-interactive-twine-du-studio-crows
 
 En 2016 ils ont sorti une courte "histoire dont vous êtes le héro", [Le Temple du Non](https://en.wikipedia.org/wiki/The_Temple_of_No).
 
-<figure>
+<figure role="group">
   <img alt="Le Temple Du Non" src="images/2018/06/the-temple-of-no.png">
   <figcaption>Illustration de <a href="http://www.dominikjohann.de">Dominik Johann</a></figcaption>
 </figure>

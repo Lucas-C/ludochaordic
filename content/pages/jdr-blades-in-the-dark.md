@@ -116,7 +116,7 @@ le gang des Crows a décidé de ne laisser passer aucune provocation d'aucun gan
 En toute transparence, Elorna informe également Bell que Baszos leur a proposé une alliance, mais qu'ils ne comptent pas l'accepter.
 Elle quitte ensuite les lieux pour retourner au galion.
 
-<figure>
+<figure role="group">
   <a href="images/bitd/Thief_clocktower1.jpg" target="_blank">
     <img class="small-img" alt="Clocktower concept art 1 de Mathieu Latour" src="images/bitd/Thief_clocktower1.jpg">
   </a>
@@ -152,7 +152,7 @@ et quelques pièces.
 - alors qu'ils s'éloignent silencieusement en barque, leur comparse de fortune révèle qui il est :
 **Aldo**, un ancien membre du gang des Crows, désormais pourchassé par Lyssa car il l'a vu assassiner Roric !
 
-<figure>
+<figure role="group">
   <a href="images/bitd/HarpoonGangHQ.jpg" target="_blank">
     <img alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
   </a>
@@ -184,7 +184,7 @@ jonchés à plusieurs endroits de membres humains découpés. De son côté, Eri
 un ouvrier manoeuvre, Joerg, s'est fait poursuivre par un fantôme ivre de rage criant à la trahison,
 qui a massacré tout le monde sur son passage
 
-<figure>
+<figure role="group">
   <a href="images/bitd/dishonored-whale-slaughterhouse.jpg" target="_blank">
     <img alt="Les chantiers navals des navires Léviathan" src="images/bitd/dishonored-whale-slaughterhouse.jpg">
   </a>

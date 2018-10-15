@@ -17,7 +17,7 @@ you exchange messages in a chat room, **which are all playable levels of a platf
 
 Plus, the artistic direction is lovingly pixelated :
 
-<figure>
+<figure role="group">
   <img alt="WalkieTalkie gameplay glipse" src="images/2018/01/WalkieTalkie.gif">
   <figcaption>Gameplay glipse - gif made with <a href="http://www.screentogif.com">ScreenToGif</a></figcaption>
 </figure>

@@ -100,7 +100,7 @@ except that the range covered is `[0, 360]` and we want as many digits as the mo
 Once this numeral system [base radix](https://en.wikipedia.org/wiki/Radix) is computed from those 2 constraints,
 computing the hue value is simply a matter of a basic [exponentiation](https://en.wikipedia.org/wiki/Positional_notation#Exponentiation) :
 
-<figure>
+<figure role="group">
   <img alt="Python module tree" src="images/2018/04/PythonModuleTree.png">
   <figcaption>Python module tree, with module names positions for module path <code>output.formatters.headers</code> of <code>httpie</code>
           <br>(made with <a href="https://www.draw.io">draw.io</a> - <a href="images/2018/04/PythonModuleTree.xml">source xml</a>)</figcaption>

@@ -55,7 +55,7 @@ Hence, because it is a concept I like, I just made up a word from approximative 
 
 <div class="lazyload" data-noscript=""><noscript><img src="images/2017/09/p1050928.JPG"></noscript></div>
 
-<figure>
+<figure role="group">
     <div class="lazyload" data-noscript=""><noscript><img alt="Mirror photo" src="images/2017/09/p1050929.JPG"></noscript></div>
     <figcaption>I found this one above quite funny and original: instead of a sprayed painting or a stencil,
     it consisted simply of a mirror on the wall,where you could see your reflection. Hence the group photo :)</figcaption>

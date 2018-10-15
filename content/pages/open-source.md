@@ -44,6 +44,7 @@ a Python module to build batch pipelines, it handles dependency resolution, work
 - [Pelican](https://getpelican.com/) : a static site generator in Python
     * created [a plugin to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
+    * designed [a 2-columns layout theme](https://github.com/Lucas-C/pelican-theme-timeline)
 
 - [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
 

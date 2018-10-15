@@ -3,7 +3,7 @@ Tags: lang:fr
 Summary: Bienvenue sur ce blog :) Je me présente en quelques mots
 ---
 
-<figure class="column-img">
+<figure role="group" class="column-img">
     <img src="images/Tom_Brown_Mathematics_CC-by-2-0_cropped.jpg">
     <figcaption>"Mathematics" par Tom Brown : <a href="https://www.flickr.com/photos/t_e_brown/8677750589">flickr</a></figcaption>
 </figure>

@@ -37,7 +37,7 @@ Pour l'occasion, j'ai incarné un Ambitieux dans la plus pure veine de LittleFin
 J'avoue qu'il m'a paru difficile au premier abord de joueur un personnage vertueux :)
 (une bonne raison pour essayer la prochaine fois !)
 
-<figure>
+<figure role="group">
     <img alt="Artwork représentant LittleFinger" src="images/2017/08/LittleFinger.jpg">
     <figcaption>Artwork de <a href="http://josuoh.cl/post/80332450316">Josu Hernaiz</a></figcaption>
 </figure>
@@ -54,7 +54,7 @@ J'avoue qu'il m'a paru difficile au premier abord de joueur un personnage vertue
 
 Une aristocrate infuente et très imbue d'elle même, qui s'est révêlée très retorse :)
 
-<figure>
+<figure role="group">
     <img alt="Artwork représentant Lady Jessica Atreides" src="images/2017/08/LadyJessicaAtreides.jpg">
     <figcaption>Artwork de <a href="http://markzug.com/dune/dune-the-card-game/5425994">Mark Zug</a></figcaption>
 </figure>
@@ -72,7 +72,7 @@ Une aristocrate infuente et très imbue d'elle même, qui s'est révêlée très
 L'Ambitieux le plus réglo de la partie, il s'est attelé à trouver le vrai coupable,
 et calmer les tentions entre le peuple barbare et les autres habitants de Naëscence.
 
-<figure>
+<figure role="group">
     <img alt="Artwork représentant Unferth dans Beowulf" src="images/2017/08/BeowulfUnferth.jpg">
     <figcaption>Artwork de <a href="http://colinfix.blogspot.fr/2007/11/i-am-beowulf.html">Colin Fix</a></figcaption>
 </figure>
