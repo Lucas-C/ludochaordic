@@ -15,8 +15,9 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/revue-dessinee-couv-no21-2018-automne.png', 'description': 'La Revue Dessinée #21 Automne 2018 (Revue BD)'},
     {'img_url': 'images/readings/cité14.jpg', 'description': 'Cité 14 - Pierre Gabus & Romuald Reutimann (BD)'},
-    {'img_url': 'images/readings/gloutons-et-dragons.jpg', 'description': 'Glouton & Dragons - Ryoko Kui (manga)'},
+    {'img_url': 'images/readings/gloutons-et-dragons.jpg', 'description': 'Gloutons & Dragons - Ryoko Kui (manga)'},
     {'img_url': 'images/readings/tony-chu-tome-7.jpg', 'description': 'Tony Chu - Tome 7 - John Layman & Rob Guillory (BD)'},
     {'img_url': 'images/readings/au-pays-des-ombres.jpg', 'description': 'Au Pays des Ombres - Mathis & Thierry Martin (BD)'},
     {'img_url': 'images/readings/les_larmes_de_nuwa.jpg', 'description': 'Les Larmes de Nüwa - Benjamin Jurdic & Manuro (BD dont vous êtes le héro)'},
