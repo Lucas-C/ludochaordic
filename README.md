@@ -1,6 +1,6 @@
 
     pip install -r requirements.txt
-    make DEBUG=1 OUTPUTDIR=output devserver
+    make DEBUG=1 devserver
 
 
 ## License
