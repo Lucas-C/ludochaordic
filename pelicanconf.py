@@ -136,5 +136,6 @@ WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
     'pages/open-source.html',
     'pages/slides.html',
 
+    'listing-all-github-security-alerts-of-a-user-s-projects-using-graphql-and-python.html',
     'drafts/retour-d-experience-sur-un-voyage-a-velo-jusqu-en-croatie.html',
 )]
