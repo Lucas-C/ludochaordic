@@ -15,7 +15,8 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
-    {'img_url': 'images/readings/revue-dessinee-couv-no21-2018-automne.png', 'description': 'La Revue Dessinée #21 Automne 2018 (Revue BD)'},
+    {'img_url': 'images/readings/revue-dessinee-couv-no21-2018-automne.png', 'description': 'Nantes - Balades urbaines de Sarah Guilbaud (livre sur le Street Art)'},
+    {'img_url': 'images/readings/nantes-balades-urbaines.jpg', 'description': 'Nantes  (Revue BD)'},
     {'img_url': 'images/readings/cité14.jpg', 'description': 'Cité 14 - Pierre Gabus & Romuald Reutimann (BD)'},
     {'img_url': 'images/readings/gloutons-et-dragons.jpg', 'description': 'Gloutons & Dragons - Ryoko Kui (manga)'},
     {'img_url': 'images/readings/tony-chu-tome-7.jpg', 'description': 'Tony Chu - Tome 7 - John Layman & Rob Guillory (BD)'},

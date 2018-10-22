@@ -59,6 +59,12 @@ A Cyberfeminist Manifesto for the 21st Century - 1991:
     <img class="uk-width-1-1 uk-width-small-1-2" src="http://out4pizza.com/+/LONELY1.png">
 </div>
 
+---
+
+[antirez LOLWUT command for Redis](http://antirez.com/news/123)
+
+![Georg Nees "Plotter on paper" as a Redis command](http://antirez.com/misc/lolwut1.png)
+
 
 <style>
     article img {
