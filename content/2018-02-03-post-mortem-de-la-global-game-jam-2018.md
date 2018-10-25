@@ -1,6 +1,6 @@
 Title: Post-mortem de la Global Game Jam 2018
 Date: 2018-02-03 14:00
-Tags: lang:fr, game-jam, video-game, indie-game, phaser-js, creative-commons, nantes, ensimag, oui.sncf, gamedesign, post-mortem, open-source, jeux
+Tags: lang:fr, game-jam, video-game, indie-game, phaser-js, creative-commons, nantes, ensimag, oui.sncf, gamedesign, post-mortem, open-source, jeux, prog
 Slug: post-mortem-de-la-global-game-jam-2018
 ---
 
