@@ -14,7 +14,7 @@ Tags: lang:en, slides
                     <dt>Date</dt><dd>2018/03/2</dd>
                     <dt>Lieu</dt><dd>Ecole IMT Atlantique Nantes</dd>
                 </dl>
-                <p>Historique, outils modernes, avantages et limites de l'epen Source en entreprise, ainsi que des projets réalisés à OUI.sncf</p>
+                <p>Historique, outils modernes, avantages et limites de l'open Source en entreprise, ainsi que des projets réalisés à OUI.sncf</p>
             </div>
         </a>
         <a href="https://github.com/voyages-sncf-technologies/conf-open-source-en-entreprise">Sources reveal.js</a>
