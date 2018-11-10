@@ -1,6 +1,6 @@
 Title: Aux marches du pouvoir
 Date: 2017-08-17 21:00
-Tags: lang:fr, jdr, storytelling, GameOfThrones, dominos, carte, jeux, compte-rendu, playtest, opinion, @Matt, @Sarah, @ET
+Tags: lang:fr, jdr, storytelling, GameOfThrones, dominos, carte, jeux, compte-rendu, playtest, opinion, manuel-bedouet, @Matt, @Sarah, @ET
 ---
 
 [![¨Page du studio Gobz'Ink dédiée](images/2017/08/AuxMarchesDuPouvoir.png)](http://www.shamzam.net/blog/nos-jeux-de-roles/aux-marches-du-pouvoir/)
