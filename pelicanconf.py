@@ -127,17 +127,5 @@ TAG_SAVE_AS = ''
 FEED_ALL_ATOM = None
 STATIC_CHECK_IF_MODIFIED = True # pending pelican 3.8.0 release
 STATIC_CREATE_LINKS = True # pending pelican 3.8.0 release
-WRITE_SELECTED = [join(dirname(__file__), 'output', f) for f in (
-    'index.html',
-    'tagcloud.html',
-    'past_readings.html',
-    'pages/bienvenue.html',
-    'pages/jdr-blades-in-the-dark.html',
-    'pages/net-art.html',
-    'pages/mentions-legales.html',
-    'pages/open-source.html',
-    'pages/slides.html',
-
-    'the-red-panda-intelligence-divisions-revenge.html',
-    'drafts/retour-d-experience-sur-un-voyage-a-velo-jusqu-en-croatie.html',
-)]
+LOAD_CONTENT_CACHE = True
+CACHE_CONTENT = True
