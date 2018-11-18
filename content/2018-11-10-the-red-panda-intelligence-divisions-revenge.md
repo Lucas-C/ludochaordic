@@ -1,6 +1,6 @@
 Title: The red panda intelligence division's revenge
 Date: 2018-11-10 23:55
-Tags: lang:fr, compte-rendu, playtest, opinion, jdr, monopage, manuel-bedouet, jeux
+Tags: lang:fr, compte-rendu, playtest, opinion, jdr, monopage, manuel-bedouet, @Thomas, @Elliot, @Henri, jeux
 Slug: the-red-panda-intelligence-divisions-revenge
 ---
 
@@ -59,6 +59,8 @@ et finir en apothéose dans un combat avec **deux** séries de méchants clones 
 Au passage, cette partie a été l'occasion de découvrir [The Guild of Ambience](https://www.youtube.com/channel/UCvVWCrxq_aZr7fN_KpaGGTA),
 un "sound designer" australien qui propose sur Youtube de super ambiances musicales pour parties de jdr.
 Merci Elliot pour la découverte ;)
+
+**EDIT[2018/11/15]:** une alternative (merci Matthieu !) : https://rpg.ambient-mixer.com
 
 Création de pandas comprise, la partie de RPIDR a duré un peu moins de 2 heures.
 Nous avons fini la journée à playtester un prototype de jdr de ma conception,

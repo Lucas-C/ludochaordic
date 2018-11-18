@@ -97,6 +97,13 @@ of which this video is an example : <https://www.youtube.com/watch?v=TxFeesWL5OI
 
 There is also this tumblr collecting glitch GIFs: <http://glitchgifs.tumblr.com>.
 
+**EDIT [2018/11/16]** : another outstanding one
+
+<a href="https://www.reddit.com/r/glitch_art/comments/5qlthr/pixel_sort_rotation_gif_oc/">
+<video class="preview" preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 512px; height: 768px;"><source src="https://g.redditmedia.com/xa-1lW0BNWI1cHXqf6RqU6jYIh0MgZaap2xjoyxUmsA.gif?w=512&amp;fm=mp4&amp;mp4-fragmented=false&amp;s=7f807ed96c6d666d7b7e54815c98c1e1" type="video/mp4"></video>
+</a>
+
+
 <style>
 article img {
     max-height: 80vh;
