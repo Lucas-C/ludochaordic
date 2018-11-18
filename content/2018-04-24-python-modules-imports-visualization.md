@@ -95,7 +95,7 @@ I used a simple mathematical concept: decomposing the hue value with a [bijectiv
 into a fixed-size string of digits.
 
 This idea is similar to the binary numeral system, notably with the same concept of most / least significant digits,
-except that the range covered is `[0, 360]` and we want as many digits as the module tree depth.
+except that the final range covered is `[0, 360]` and we want as many digits as the module tree depth.
 
 Once this numeral system [base radix](https://en.wikipedia.org/wiki/Radix) is computed from those 2 constraints,
 computing the hue value is simply a matter of a basic [exponentiation](https://en.wikipedia.org/wiki/Positional_notation#Exponentiation) :
@@ -115,9 +115,11 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
 
   `"Now, let " m " be a module path, constituted of " d " modules names " m_i ", with " d <= D "."`
 
-  `"We can define " pos(m_i) " to be the position of the module name " m_i " in the sorted list of its parent module children."`
+  `"We can define " pos(m_i) " to be the position of the module name " m_i " in the sorted list of its parent module children,"`
 
-  `"We can now compute the digits of " m " in our decomposition: " d_(m_i) = (pos(m_i)) / D * (R - 1)`
+  `" and " parentModCount(m_i) " to be the number of children modules for its parent."`
+
+  `"We can now compute the digits of " m " in our decomposition: " d_(m_i) = (pos(m_i)) / (parentModCount(m_i)) * (R - 1)`
 
   `"And then " hue(m) = sum_(i=1)^D d_(m_i)*R^(D-i)`
 </p>
@@ -157,6 +159,7 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
             });
             // Custom chords & path colors:
             var moduleTree = buildModuleTree(data.packageNames);
+            console.log(moduleTree);
             var moduleTreeDepth = Math.max(...data.packageNames.map(p => p.split('.').length));
             var chart = d3.chart.dependencyWheel({fill: function (d) {
                 var modulePath = data.packageNames[d.index].split('.');
