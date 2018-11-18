@@ -7,10 +7,10 @@ Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 Le week-end dernier, un de mes cousins m'a demandé si je pouvais le conseiller pour faire découvrir le jeu de rôle à des enfants / ados dans le cadre de son boulot.
 
 Après lui avoir conseillé quelques noms, je me fais la réflexion que ça pourra peut-être servir à d'autres.
-Voici donc une petite liste de recommendations de jeux de rôle, gratuits et en français,
+Voici donc une petite liste de recommandations de jeux de rôle, gratuits et en français,
 qui me paraissent assez adaptés pour organiser une petite partie avec de jeunes joueurs débutants.
 
-PS: J'ai souscris à [la recommendation de Maitresinh](https://www.500nuancesdegeek.fr/initier-au-jdr/) et ai tâché de ne pas employé le terme "initier" :)
+PS: J'ai souscris à [la recommandation de Maitresinh](https://www.500nuancesdegeek.fr/initier-au-jdr/) et ai tâché de ne pas employé le terme "initier" :)
 
 ## P'tites Sorcières
 
@@ -68,7 +68,7 @@ Je dois également mentionner un dernier jeu du Grümph, non gratuit mais au pri
 
 ![Couverture du jeu représentant des gobelins aventureux et sympathiques](images/2018/11/Les13Reliques.png)
 
-[Les 13 Reliques](http://lab00.free.fr/sommaire/lab01.htm) a une place à part dans mon coeur.
+[Les 13 Reliques](http://lab00.free.fr/sommaire/lab01.htm) a une place à part dans mon cœur.
 Il fait partie d'un recueil de 7 JdRs semi-pros paru en 2003 en 2 volumes, le LAB 01/02.
 C'est le premier JdR que j'ai acheté (par correspondance !) et il m'a beaucoup marqué.
 
@@ -105,9 +105,9 @@ pour imaginer collectivement une histoire centrée sur les combats stylisés, te
 > Oubliez les pages et pages de règles, oubliez les modificateurs, tout ce qu’il vous faut pour jouer à Wushu, ce sont des d6 de couleurs différentes et beaucoup d’imagination !
 > Idéal pour simuler toutes les grandes aventures d’action, comme au cinéma, Wushu repose sur des principes simples : les joueurs réussissent toujours ce qu’ils entreprennent ; et la qualité de leur réussite dépend de leur interprétation.
 
-Des personnages dont les caractéritiques tiennent sur un coin de feuille, un système ultra-simple et narrativiste :
+Des personnages dont les caractéristiques tiennent sur un coin de feuille, un système ultra-simple et narrativiste :
 idéal pour une partie improvisée sur le pouce, mais nécessite une bonne expérience du MJ pour improviser l'histoire
-[JdRP](http://www.jdrp.fr/recherche/wushu.html) recence pas mal de ressources pour le jeu.
+[JdRP](http://www.jdrp.fr/recherche/wushu.html) recense pas mal de ressources pour le jeu.
 
 <style>
 article img {

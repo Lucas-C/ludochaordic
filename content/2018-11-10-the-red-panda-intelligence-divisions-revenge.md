@@ -4,7 +4,7 @@ Tags: lang:fr, compte-rendu, playtest, opinion, jdr, monopage, manuel-bedouet, @
 Slug: the-red-panda-intelligence-divisions-revenge
 ---
 
-Cette après-midi j'ai eu l'occasion de tester avec trois amis ce micro-jdr d'une page de Manuel Bedouet.
+Cette après-midi j'ai eu l'occasion de tester avec trois amis ce micro-JdR d'une page de Manuel Bedouet.
 
 Publié il y a un peu plus d'un an sur [le site du studio GOBZ'INK](http://www.shamzam.net/blog/2017/09/format-court-des-jeux-pour-jouer-tout-de-suite/),
 ce jeu vous met dans la peau de... **Pandas Roux Ninjas de l'Espace**.
@@ -14,7 +14,7 @@ avec l'intention de retrouver et faire payer les responsables.
 ![Illustration du jeu: estampe représentant 2 pandas ninja](images/2018/11/rpid-estampe-768x768.png)
 
 Oui, c'est un jeu absurde et humoristique.
-Mais le décalage entre le côté mignon et "badass" de ces créatres est une sacrée bonne idée, et vraiment drôle à jouer !
+Mais le décalage entre le côté mignon et "badass" de ces créatures est une sacrée bonne idée, et vraiment drôle à jouer !
 
 Petit conseil au passage, car je crois que ça a bien aidé à établir l'ambiance : montrez à vos joueurs une vidéo de pandas roux en début de partie,
 pour avoir en tête à quel point cet animal est "kawaï".
@@ -45,25 +45,25 @@ car ces propositions donnent des pistes implicites pour faire rebondir l'histoir
 de manière générale ces tables ne donnent pas beaucoup de matière pour élaborer une intrigue ou des péripéties.
 
 Enfin bien sûr le jeu manque de rejouabilité, mais c'est inhérent au format mono-page.
-D'ailleurs, pour plus d'informations sur le concept des jdr en une page, je vous recommande vivement
-[la passionante conférente de Manuel Bedouet](https://www.youtube.com/watch?v=tMWsh8ZIA-s) issue du festival Orc'idée 2018.
+D'ailleurs, pour plus d'informations sur le concept des JdR en une page, je vous recommande vivement
+[la passionnante conférence de Manuel Bedouet](https://www.youtube.com/watch?v=tMWsh8ZIA-s) issue du festival Orc'idée 2018.
 
-Néanmoins je recommande vivement le jeu pour une petite partie de jdr décontractée à l'improviste,
+Néanmoins je recommande vivement le jeu pour une petite partie de JdR décontractée à l'improviste,
 à faire jouer à toute allure et sans aucune censure des idées les plus loufoques de tout le monde autour de la table !
 
 Pour notre partie en particulier, nos pandas-ninjas ont retourné un casino sans dessus-dessous,
-du sous-sol jusqu'au dernier étage secret du "Big Boss" des cyberlézards qui les avait capturé,
+du sous-sol jusqu'au dernier étage secret du "Big Boss" des cyber-lézards qui les avait capturé,
 et finir en apothéose dans un combat avec **deux** séries de méchants clones à leur image,
-à grand coups de grapins, de kunaïs et de lance-patates.
+à grand coups de grappins, de kunaïs et de lance-patates.
 
 Au passage, cette partie a été l'occasion de découvrir [The Guild of Ambience](https://www.youtube.com/channel/UCvVWCrxq_aZr7fN_KpaGGTA),
-un "sound designer" australien qui propose sur Youtube de super ambiances musicales pour parties de jdr.
+un "sound designer" australien qui propose sur Youtube de super ambiances musicales pour parties de JdR.
 Merci Elliot pour la découverte ;)
 
 **EDIT[2018/11/15]:** une alternative (merci Matthieu !) : https://rpg.ambient-mixer.com
 
 Création de pandas comprise, la partie de RPIDR a duré un peu moins de 2 heures.
-Nous avons fini la journée à playtester un prototype de jdr de ma conception,
+Nous avons fini la journée à playtester un prototype de JdR de ma conception,
 _Amères Victoires & Glorieuses Défaites_, dont je reparlerai très bientôt...
 
 <style>
