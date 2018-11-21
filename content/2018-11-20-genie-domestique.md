@@ -63,7 +63,19 @@ ainsi que le système des "conditions" représentant les différents types de "b
 Même la petite table pour déterminer l'attitude des PNJs face au PJs est bien pensé et bien utile !
 Vraiment, ce jeu est un condensé ultra efficace de mécaniques de jeu futées.
 
-Pour avoir un autre son de cloche, je vous invite à jeter un œil [au compte-rendu de lapartidulundi sur ce jeu](https://lapartiedulundi.wordpress.com/2017/08/22/the-gods-around-the-corner/).
+Pour avoir un autre son de cloche sur ce jeu, je vous invite à jeter un œil [au compte-rendu de lapartidulundi sur ce jeu](https://lapartiedulundi.wordpress.com/2017/08/22/the-gods-around-the-corner/).
+
+Voici une petite table supplémentaire comme "extension" / "aide de jeu",
+pour donner un but supplémentaire à vos PJs, si vous souhaitez jouer plus en mode "sandbox" :
+
+d6    | For your domain, you crave
+------|-
+**1** | More visitors
+**2** | To grow
+**3** | More births & deaths
+**4** | To have people stay longer
+**5** | To be the scene of important events
+**6** | To embellish
 
 <style>
 article img {
@@ -74,4 +86,7 @@ article img {
 article figcaption {
     text-align: center;
 }
+table { border-collapse: collapse; margin: 2rem auto; }
+td { padding: 5px; }
+tbody > tr:nth-of-type(odd) { background-color: #ddd; }
 </style>
