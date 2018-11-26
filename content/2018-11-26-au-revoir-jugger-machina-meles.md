@@ -1,5 +1,5 @@
 Title: Au revoir Jugger, Machina Meles
-Date: 2018-11-24 19:00
+Date: 2018-11-26 19:00
 Tags: lang:fr, jugger, dublin, angers, nantes, sport, jeux
 Status: draft
 Slug: au-revoir-jugger-machina-meles
@@ -81,6 +81,20 @@ Des duels, des culbutes, des matchs intenses ponctués de belles actions, où la
 ou bien le Qwik marquait dans un magnifique plongeon au sol...
 Et puis ces soirées qu'on finissait souvent chez nous, autour d'un repas et d'un jeu de société.
 
+<div class="uk-grid">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00194.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00200.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00205.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00219.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00225.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030725.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030973.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030975.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030978.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030987.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1040008.JPG">
+</div>
+
 Et puis début 2017, on déménage à Nantes. Cette fois, c'est au parc du Grand Blottereau qu'on se retrouve (presque) tous les mois.
 Et au cours de l'année, on décide de notre nom d'équipe, _Machina Meles_.
 
@@ -126,7 +140,7 @@ Heureusement Laëtitia s'en sortait bien mieux que moi !
 Et puis il y a quelques semaines, le 3 novembre dernier, [le club de Jugger de Paris](https://www.facebook.com/JuggerParis/)
 organisait un tournoi amical. Pour _Machina Meles_, c'était le tout premier !
 
-Au final c'est 5 équipes qui se sont retrouvé, dont 3 allemandes et une basée à Londres.
+Au final c'est 5 équipes qui se sont retrouvé, dont 2 allemandes et une basée à Londres.
 Avec une petite équipe de 5 joueurs, nous y avons participé avec un peu d’appréhension au vu de notre niveau...
 Pour finalement passer un très bon moment, dans la joie et la bonne humeur,
 à en prendre plein les mirettes face à des joueurs époustouflants !
@@ -159,7 +173,7 @@ Merci à vous les juggeurs parisiens pour avoir organisé cet événement !
 
 ![Tous les participants du tournoi parisien réunis](images/2018/11/DSC_0397-ANIMATION.gif)
 
-Merci surtout à Laëtitia, Vincent, Sarah et Thomas d'avoir formé cet équipe de choc !
+Merci surtout à Laëtitia, Vincent, Sarah et Thomas d'avoir formé cette équipe de choc !
 Je suis pas prêt d'oublier ce week-end ensemble, et cet esprit d'équipe partagé.
 
 Merci aussi à tous ceux qui sont venu tester ce sport loufoque,
