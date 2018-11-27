@@ -11,6 +11,10 @@ Tags: lang:en, slides
             <div class="uk-thumbnail-caption">
                 <div class="uk-text-bold uk-text-primary">L'open source en entreprise</div>
                 <dl class="uk-description-list-list">
+                    <dt>Date</dt><dd>2018/11/27</dd>
+                    <dt>Lieu</dt><dd>EPITECH Nantes</dd>
+                </dl>
+                <dl class="uk-description-list-list">
                     <dt>Date</dt><dd>2018/03/2</dd>
                     <dt>Lieu</dt><dd>Ecole IMT Atlantique Nantes</dd>
                 </dl>

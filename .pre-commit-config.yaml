@@ -23,4 +23,4 @@
         name: Ensure articles publication Date match their filenames
         language: system
         entry: ./ensure_dates_match.sh
-        files: \.md$
+        files: content/[^/]+\.md$
