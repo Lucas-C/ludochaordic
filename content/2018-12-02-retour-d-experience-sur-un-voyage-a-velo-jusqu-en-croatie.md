@@ -28,7 +28,5 @@ article img {
     margin: 0 auto;
     max-height: 30rem;
 }
-article figcaption {
-    text-align: center;
-}
+article figcaption { text-align: center; }
 </style>

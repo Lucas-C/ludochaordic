@@ -1,6 +1,6 @@
 Title: Traduction du Temple du Non, une histoire interactive Twine du studio Crows Crows Crows
 Date: 2018-06-18 9:00
-Tags: lang:fr, python, storytelling, twine, l10n, i18n, open-source, jeux, prog
+Tags: lang:fr, python, storytelling, twine, l10n, i18n, open-source, gratuit, jeux, prog
 Slug: traduction-du-temple-du-non-une-histoire-interactive-twine-du-studio-crows-crows-crows
 ---
 
@@ -58,7 +58,5 @@ mais je ne l'ai pas encore déchiffré. Des idées ?? :)
         margin: 0 auto;
         max-height: 20rem;
     }
-    article figcaption {
-        text-align: center;
-    }
+    article figcaption { text-align: center; }
 </style>

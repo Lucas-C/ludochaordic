@@ -1,6 +1,6 @@
 Title: Pencil park
 Date: 2017-12-05 23:30
-Tags: lang:fr, playtest, daniel-solis, jeu-de-societe, print-play, opinion, jeux
+Tags: lang:fr, playtest, daniel-solis, jeu-de-societe, print-play, gratuit, opinion, jeux
 Slug: pencil-park
 ---
 Ce soir, je viens de tester **Pencil Park**, la dernière création de [Daniel Solis](http://danielsolisblog.blogspot.fr/search/label/Pencil%20Park),

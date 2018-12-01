@@ -1,6 +1,6 @@
 Title: The Salem Conspiracy
 Date: 2018-04-21 16:00
-Tags: lang:fr, playtest, javier-martin, jeu-de-societe, print-play, 2-players, opinion, boardgamegeek, jeux
+Tags: lang:fr, playtest, javier-martin, jeu-de-societe, print-play, 2-players, opinion, boardgamegeek, gratuit, jeux
 Slug: the-salem-conspiracy
 ---
 Découvert grâce au [blog "Du papier et des jeux"](https://pnpfrance.wordpress.com/2016/08/26/the-salem-conspiracy/),

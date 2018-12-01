@@ -167,7 +167,5 @@ article img {
   display: block;
   margin: 0 auto;
 }
-article figcaption {
-    text-align: center;
-}
+article figcaption { text-align: center; }
 </style>

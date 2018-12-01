@@ -1,6 +1,6 @@
 Title: Daniel Linssen latest wonderful games
 Date: 2018-01-08 23:30
-Tags: lang:en, game-jam, video-game, indie-game, ludum-dare, platformer, typography, daniel-lindsen, gif, playtest, opinion, jeux
+Tags: lang:en, game-jam, video-game, indie-game, ludum-dare, platformer, typography, daniel-lindsen, gif, playtest, gratuit, opinion, jeux
 Slug: daniel-linssen-latest-wonderful-games
 ---
 
@@ -51,7 +51,5 @@ article img {
     margin: 0 auto;
     max-height: 30rem;
 }
-article figcaption {
-    text-align: center;
-}
+article figcaption { text-align: center; }
 </style>

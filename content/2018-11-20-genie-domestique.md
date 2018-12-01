@@ -1,6 +1,6 @@
 Title: Génie domestique
 Date: 2018-11-20 21:30
-Tags: lang:fr, compte-rendu, playtest, opinion, jdr, monopage, grant-howitt, aide-de-jeu, @Matt, @Naïg, @Cédric, jeux
+Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, grant-howitt, aide-de-jeu, gratuit, @Matt, @Naïg, @Cédric, jeux
 Slug: genie-domestique
 ---
 
@@ -83,9 +83,7 @@ article img {
     margin: 1rem auto;
     max-height: 25rem;
 }
-article figcaption {
-    text-align: center;
-}
+article figcaption { text-align: center; }
 table { border-collapse: collapse; margin: 2rem auto; }
 td { padding: 5px; }
 tbody > tr:nth-of-type(odd) { background-color: #ddd; }

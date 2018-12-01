@@ -197,9 +197,7 @@ article figcaption {
     margin-top: -2rem;
     margin-bottom: 3rem;
 }
-article hr {
-    margin: 5rem 0;
-}
+article hr { margin: 5rem 0; }
 </style>
 <script>
     document.querySelectorAll('article img').forEach(img => {

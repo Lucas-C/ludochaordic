@@ -1,6 +1,6 @@
 Title: Quelques suggestions pour débuter en jeu de rôle, gratuites et en français
 Date: 2018-11-14 23:45
-Tags: lang:fr, jdr, gratuit, francais, dedale, jeux
+Tags: lang:fr, jdr, gratuit, francais, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gratuit, jeux
 Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 ---
 
@@ -95,11 +95,14 @@ de 11 pages que je compte tester bientôt et dont je trouve le concept diablemen
 > Saurez-vous satisfaire l'appétit d'un Ogre qui aurait commandé un tartare de Licorne sauce verte,
 > ou un Globurlien affamé qui attend ses larves de Ver Galactique au chocolat ?
 
+**EDIT [2018/12/01]**: Après l'[avoir testé](/lucas/blog/double-brigade.html), le jeu est pour le moment à l'état de prototype et le système manque d'équilibrage,
+aussi je vous recommande plutôt "Havoc Brigade" de Grant Howitt.
+
 ## Wushu
 
 ![Gunfighters formant le symbole Yin/yang](images/2018/11/wushu-logo.jpg)
 
-[Wushu](http://www.scriptorium.d100.fr/index.php/archives/jeux-heberges-2/wushu-open/) est un jeu de Daniel de 5 pages,
+[Wushu](http://www.scriptorium.d100.fr/index.php/archives/jeux-heberges-2/wushu-open/) est un jeu de Daniel Bayn de 5 pages,
 pour imaginer collectivement une histoire centrée sur les combats stylisés, tel un film d'action ou de kung-fu.
 
 > Oubliez les pages et pages de règles, oubliez les modificateurs, tout ce qu’il vous faut pour jouer à Wushu, ce sont des d6 de couleurs différentes et beaucoup d’imagination !
@@ -115,9 +118,7 @@ article img {
     margin: 0 auto;
     max-height: 20rem;
 }
-article figcaption {
-    text-align: center;
-}
+article figcaption { text-align: center; }
 .imgs {
     display: flex;
     justify-content: center;

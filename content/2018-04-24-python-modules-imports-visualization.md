@@ -193,22 +193,16 @@ computing the hue value is simply a matter of a basic [exponentiation](https://e
 </script>
 
 <style>
-    h3 {
-      text-align: center;
-    }
+    h3 { text-align: center; }
     article img {
         display: block;
         margin: 0 auto;
         max-height: 30rem;
     }
-    article figcaption {
-        text-align: center;
-    }
+    article figcaption { text-align: center; }
     .formula {
       font-size: larger;
       text-align: center;
     }
-    .MathJax {
-      line-height: 3rem;
-    }
+    .MathJax { line-height: 3rem; }
 </style>
