@@ -1,6 +1,6 @@
 Title: Solarized mindmaps with Python and graphviz
 Date: 2017-02-22 12:02
-Tags: lang:en, solarized, mindmap, python, graphviz, project, open-source, prog
+Tags: lang:en, solarized, mindmap, python, graphviz, personal-project, open-source, prog
 Slug: solarized-mindmaps-with-python-and-graphviz
 ---
 This week I wrote [a small Python script](https://github.com/Lucas-C/brain_dump), that can generate a mindmap from a simple indented text input like this:

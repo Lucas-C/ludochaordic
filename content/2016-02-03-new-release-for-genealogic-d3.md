@@ -1,6 +1,6 @@
 Title: New release for genealogic-d3
 Date: 2016-02-03 13:02
-Tags: lang:en, project, javascript, d3-js, tree, library, release, visualization, genealogy, family, charts, birthday, open-source, prog
+Tags: lang:en, personal-project, javascript, d3-js, tree, library, release, visualization, genealogy, family, charts, birthday, open-source, prog
 Slug: new-release-for-genealogic-d3
 ---
 [A year ago](/lucas/blog/2014/11/18/en-genealogy-tree-visualization-with-d3-js), I built a small JS lib using D3.js to visualize JSON-defined genealogy trees.

@@ -1,6 +1,6 @@
 Title: Genealogy tree visualization with d3.js
 Date: 2014-11-18 14:11
-Tags: lang:en, project, javascript, d3-js, tree, library, demo, visualization, genealogy, family, time-travel, charts, open-source, prog
+Tags: lang:en, personal-project, javascript, d3-js, tree, library, demo, visualization, genealogy, family, time-travel, charts, open-source, prog
 Slug: genealogy-tree-visualization-with-d3-js
 ---
 I'm happy to introduce you with [genealogic-d3](https://github.com/Lucas-C/genealogic-d3), a Javascript visualization library to nicely display genealogy trees that I've been working on during the past 3 days.

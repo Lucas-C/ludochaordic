@@ -13,5 +13,10 @@ Alors cette fois je m'y suis collé !
 Et voici le résultat:
 <https://chezsoi.org/lucas/jdr/psirun/CR_2016-12-18.html>
 
-Spoiler: la partie était super sympa, ça a été l'occasion de faire découvrir le jdr à une amie. Le jeu est bien équilibré, nerveux et original.
+Spoiler: la partie était super sympa, ça a été l'occasion de faire découvrir le jdr à une amie.
+Le jeu est bien équilibré, nerveux et original.
 Et très axé narration collective. Parfait pour improviser un One-Shot !
+
+Chapeau à son auteur, [Meguey Baker](http://nightskygames.com/welcome/game/PsiRun), et merci à Alexis Lamiable pour [la VF](https://electric-goat.net/products/1).
+
+Et pour un autre avis sur ce jeu, je vous conseille l'[article de Grégory Pogorzelski](http://awarestudios.blogspot.com/2014/12/psi-run.html).

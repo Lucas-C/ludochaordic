@@ -9,7 +9,7 @@ Pour notre partie hebdomadaire, nous avons cette fois testé 2 courts jeux de r�
 
 ![Couverture du JdR "Havoc Brigade"](images/2018/12/HavocBrigade.png)
 
-### Monster Chef
+## Monster Chef
 Ce premier jeu a été créé par Bruno Bord en juillet 2013.
 Le jeu est disponible [en ligne](http://brunobord.github.io/monster-chef-rpg/),
 il est également possible de récupérer la version PDF et les sources du jeu
@@ -17,7 +17,7 @@ il est également possible de récupérer la version PDF et les sources du jeu
 
 Je crois pouvoir affirmer qu'il reste un prototype inachevé
 (la section sur l'équipement par exemple est bien vide et comporte un joli "TODO"),
-mais l'idée de base du jeu m'avait suffisement plu pour vouloir tenter l'aventure :
+mais l'idée de base du jeu m'avait suffisamment plu pour vouloir tenter l'aventure :
 
 > Les personnages incarnent la brigade d'une cuisine "Monstresques",
 > c'est à dire servant uniquement des Monstres ou des Aliens ou des Créatures Étranges.
@@ -34,15 +34,15 @@ Puis les joueurs ont créé leurs personnages.
 
 Dans Monster Chef, chaque PJ a 5 compétences, toutes spécifiques à la cuisine:
 **préparer**, **cuire**, **touiller**, **assaisonner** et **dresser**.
-Comme au cours de la partie les PJs ont tempté des actions qui n'avaient rien à voir avec la gastronomie,
-il était très rigolo de déterminer quelle compétence se rapprochait suffisement qu'ils effectuent leurs jets de dés avec...
+Comme au cours de la partie les PJs ont tenté des actions qui n'avaient rien à voir avec la gastronomie,
+il était très rigolo de déterminer quelle compétence se rapprochait suffisamment qu'ils effectuent leurs jets de dés avec...
 D'ailleurs, en pratique, "**préparer**" a été la plus utilisée !
 
-Comme le jeu ne comporte pas beaucoup d'élements pour donner corps aux PJs
+Comme le jeu ne comporte pas beaucoup d'éléments pour donner corps aux PJs
 (pas d'objectif / trait particulier / rôle spécifique en cuisine / équipement / etc.),
 j'ai fait quelques tours de tables en posant à chaque joueur une question différente pour définir un peu le cadre :
 
-- qu'y-a-t'il autour du restaurant ?
+- qu'y a-t-il autour du restaurant ?
 - de quelle manière en es-tu venu à travailler dans ce restaurant ?
 - quelle est ta pièce préférée dans le château ?
 - quel est le client régulier que tu aimes le moins ?
@@ -54,14 +54,14 @@ et de composer des plats à toute vitesse pour suivre le rythme des commandes in
 
 La Réserve est une super idée, qui permet de forcer un PJ à s'éloigner de la cuisine,
 et à lui faire rencontrer toute sorte de créatures et défis.
-Peut-être d'ailleurs qu'une table de génération d'évènements s'y produisant pourrait être utile dans le jeu,
+Peut-être d'ailleurs qu'une table de génération d'événements s'y produisant pourrait être utile dans le jeu,
 pour donner du grain à moudre au MJ.
 
 Pour l'anecdote, après qu'un des clients du restaurant ait commandé exactement le même plat que les PJs venaient de réaliser,
 l'un d'eux a eu la prévoyance de remonter une plus grande quantité d'ingrédients que nécessaire
 la fois suivante qu'il descendit dans la Réserve !
 
-Dans l'ensemble, le gros point négatif du jeu est son **sytème trop punitif**.
+Dans l'ensemble, le gros point négatif du jeu est son **système trop punitif**.
 Non seulement il se focalise uniquement sur les échecs,
 ce qui a beau être comique peut finir par fatiguer les joueurs qui ont l'impression de cumuler les problèmes,
 mais en plus il n'est pas assez équilibré. De base, avec ses 5 compétences, un joueur a comme chances de réussites:
@@ -73,7 +73,7 @@ Durant notre partie, pour faciliter un peu la tâche aux PJs, j'avais décidé q
 et j'ai parfois préféré leur donner des complications pour réaliser leurs actions, que des Désagréments punitifs.
 
 De même, en cuisine, je n'ai pas demandé aux PJs 5 jets pour chaque plat composé.
-J'ai préférerré les mettre au défi de trouver des solutions de secours quand leurs recettes tournaient au vinaigre,
+J'ai préféré les mettre au défi de trouver des solutions de secours quand leurs recettes tournaient au vinaigre,
 mais ne pas leur demander de lancer les dés systématiquement.
 
 Par contre j'ai bien aimé qu'on puisse y jouer avec n'importe quels dés, quel que soit leur nombre de faces !
@@ -95,9 +95,9 @@ et même introduire des éléments d'histoire :
 - un appareil de cuisine rend l'âme
 - un client demande un plat à base de viande... de l'espèce d'un des PJs !
 - un habitant de la réserve ne consent à leur donner un ingrédient que si les PJs lui ramènent un autre objet
-- une des serveuses en pince pour un des PJs et l'aider volontier contre un petit baiser...
+- une des serveuses en pince pour un des PJs et l'aider volontiers contre un petit baiser...
 - un des plats tourne mal : il caille, des grumeaux se forment...
-- un client veut un plat de son enfance, dont il décrit les saveurs mais ne connait pas les ingrédients... aux PJs de le reconstituer !
+- un client veut un plat de son enfance, dont il décrit les saveurs mais ne connaît pas les ingrédients... aux PJs de le reconstituer !
 - en deuxième partie de soirée, le restaurant se transforme en club et les PJs doivent maintenant servir des cocktails !
 
 Une autre proposition pour aider les joueurs, et aussi être un poil réalistes  établir qu'en début de service
@@ -113,7 +113,7 @@ A expérimenter 😉
 Au final, nous avons conclu la partie après un peu plus de 2h de jeu, et 3 clients servis !
 
 
-### Havoc Brigade
+## Havoc Brigade
 
 Deuxième jeu de la soirée, nous avons cette fois testé un JdR de Grant Howitt publié en 2014,
 dont le PDF de 25 pages en anglais est disponible à prix libre sur [itch.io](https://gshowitt.itch.io/havoc-brigade).
@@ -122,11 +122,11 @@ Voici le pitch du jeu traduit :
 
 > Brigade Massacre est un jeu de rôle conçu pour raconter une histoire en particulier :
 > celles d'orcs "infiltrant" la ville humaine de Freiberg, pour kidnapper le répugnant Prince Holstein.
-> C'est un jeu "one-shot" léger; ce n'est pas une histoire profonde de tourmants émotionnels et d'introspection torturée.
+> C'est un jeu "one-shot" léger; ce n'est pas une histoire profonde de tourments émotionnels et d'introspection torturée.
 > C'est une histoire d'explosions, de grosses bagarres, de vols de trucs provoquant des problèmes,
 > et par-dessus tout, de plans vraiment stupides.
 
-Notez l'usage des guillemets autour d'**infilter** 😁
+Notez l'usage des guillemets autour d'**infiltrer** 😁
 
 Le jeu donne le choix aux joueurs parmi 6 personnages pré-tirés,
 que j'ai trouvé très bien écrits et conçus.
@@ -140,7 +140,7 @@ L'univers est tout de suite familier : on retrouve les code de la _fantasy_ clas
 où l'on peut croiser des elfes, des nains, des gnomes et des magiciens.
 
 Une carte de la ville de Freiberg est également fournie,
-comportant en son centre le palais princier dans lequel les PJs doivent s'infilter.
+comportant en son centre le palais princier dans lequel les PJs doivent s'infiltrer.
 Mes joueurs ont trouvé que c'était un gros "plus" pour se plonger dans l'ambiance du jeu.
 
 Tout cela donne un scénario à la fois très cadré (objectif clair, 48 heures pour le réaliser),
