@@ -1,8 +1,7 @@
 Title: Amères victoires et glorieuses défaites
-Date: 2018-12-02 9:00
+Date: 2018-12-02 12:00
 Tags: lang:fr, jdr, personal-project, mise-en-page, creative-commons, gamedesign, gratuit, @Simon, @Cedric, @Matt, @Henri, @Loïc, @Thomas, jeux
 Slug: ameres-victoires-et-glorieuses-defaites
-Status: draft
 ---
 
 <img alt="Crâne couronné" src="images/2018/12/bone-1299051_1280.png" class="small-img">
@@ -21,6 +20,7 @@ Aujourd'hui, je suis très heureux et fier de vous présenter mon premier jeu mi
 
 - [est disponible en ligne ici](https://lucas-c.github.io/jdr/gdav/)
 - [ainsi qu'en PDF là](https://github.com/Lucas-C/jdr/releases)
+(il reste un petit souci de mise en page, avec une image coupée entre 2 pages)
 
 Si vous prennez le temps de le lire, voir de le tester,
 dites-moi ce que vous en pensez en commentaire svp !
