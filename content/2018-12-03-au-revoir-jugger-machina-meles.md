@@ -1,7 +1,6 @@
 Title: Au revoir Jugger, Machina Meles
-Date: 2018-11-26 19:00
+Date: 2018-12-03 8:30
 Tags: lang:fr, jugger, dublin, angers, nantes, sport, jeux
-Status: draft
 Slug: au-revoir-jugger-machina-meles
 ---
 
