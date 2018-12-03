@@ -49,16 +49,11 @@ Nous en avons profité pour leur faire découvrir le Jugger, qui avait été un 
 Enfin quand je dis "nous", c'est grâce aux entraîneurs de l'équipe _Setenta_ de l'époque, qui nous ont tout appris&nbsp;:
 Mark, Seamus, Marion, mille fois merci !
 
-Voici quelques photos de cet entraînement fondateur :
+Voici deux   photos de cet entraînement fondateur :
 
 <div class="uk-grid">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/JuggerInDublinFairviewPark.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/P1010212.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/P1020838.JPG">
   <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/P1020849.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/P1020852.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/P1020854.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/P1020864.JPG">
+  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement de Jugger - été 2014 - Fairview park" src="images/2018/11/JuggerInDublinFairviewPark.JPG">
 </div>
 
 Et puis le temps passe...
@@ -67,11 +62,6 @@ On retrouve la France. On habite à Nantes, puis à Angers. On débute de nouvea
 
 Mais un an plus tard, à l'automne 2015, on se motive avec quelques amis à fabriquer des _pompfens_,
 les armes rembourrées utilisées en Jugger, et c'est parti !
-
-<figure>
-  <img alt="Premier entrainement de l'équipe en France" src="images/2018/11/Jugger-Balzac-2015-09-05_911.JPG">
-  <figcaption>Premier entraînement de l'équipe en France</figcaption>
-</figure>
 
 Pendant un peu plus d'un an, on se retrouvera environ une fois par mois au parc Balzac à Angers.
 Avec Laëtitia, on s'efforce d'organiser comme on peut ces entraînements.
@@ -83,13 +73,6 @@ Et puis ces soirées qu'on finissait souvent chez nous, autour d'un repas et d'u
 <div class="uk-grid">
   <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00194.JPG">
   <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00200.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00205.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00219.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/DSC00225.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030725.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030973.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030975.JPG">
-  <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030978.JPG">
   <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1030987.JPG">
   <img class="uk-width-1-1 uk-width-small-1-2" alt="Entrainement à Angers" src="images/2018/11/P1040008.JPG">
 </div>
@@ -144,21 +127,9 @@ Avec une petite équipe de 5 joueurs, nous y avons participé avec un peu d’ap
 Pour finalement passer un très bon moment, dans la joie et la bonne humeur,
 à en prendre plein les mirettes face à des joueurs époustouflants !
 
-![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0132.jpg)
-
-![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0164.jpg)
-
 ![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0180.jpg)
 
-![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0186.jpg)
-
-![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0188.jpg)
-
 ![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0199.jpg)
-
-![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0206.jpg)
-
-![Tournoi de Jugger à Paris du 3 novembre 2018](images/2018/11/DSC_0266.jpg)
 
 Enfin, il est temps d'expliquer pourquoi le titre de cet article débute par "au revoir" :
 j'ai décidé d'arrêter le Jugger.
