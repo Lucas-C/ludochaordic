@@ -20,7 +20,6 @@ Aujourd'hui, je suis très heureux et fier de vous présenter mon premier jeu mi
 
 - [est disponible en ligne ici](https://lucas-c.github.io/jdr/gdav/)
 - [ainsi qu'en PDF là](https://github.com/Lucas-C/jdr/releases)
-(il reste un petit souci de mise en page, avec une image coupée entre 2 pages)
 
 Si vous prennez le temps de le lire, voir de le tester,
 dites-moi ce que vous en pensez en commentaire svp !
