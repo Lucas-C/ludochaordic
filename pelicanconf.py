@@ -50,7 +50,7 @@ LINKS = (('Blog BD de Boulet', 'http://www.bouletcorp.com'),
          ('Rhizome.org', 'https://anthology.rhizome.org'),
          ('Jeff Atwodd Coding Horror', 'http://blog.codinghorror.com'),
          ("Galerie photo de CheckSam", 'http://www.dumondedanslobjectif.com'),
-         ("Galerie d'Elliot Jolivet aka 10seï", 'https://www.behance.net/10sei'),
+         ("Galerie d'Elliot Jolivet aka 10seï", 'https://illutensei.com'),
          ("Galerie d'Elodie Olivier", 'http://elodie-olivier.com'),)
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),

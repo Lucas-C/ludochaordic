@@ -1,6 +1,6 @@
 Title: La Tour & Cheat Your Own Adventure
 Date: 2018-12-08 16:00
-Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, personal-project, storytelling, mise-en-page, variante, livre-dont-vous-etes-le-heros, creative-commons, gamedesign, gratuit, @Henri, @Matt, jeux
+Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, personal-project, storytelling, mise-en-page, variante, livre-dont-vous-etes-le-heros, creative-commons, gamedesign, gratuit, shane-mclean, @Henri, @Matt, jeux
 Slug: la-tour-et-cheat-your-own-adventure
 ---
 
@@ -38,6 +38,8 @@ Je serais sincèrement ravis de vos retours, que vous l'ayez lu ou carrément te
 
 Durant l'autre partie de soirée nous avons testé [ce petit jeu an anglais](http://cheatyourownadventure.co.uk/)
 de Shane McLean datant de 2012.
+L'auteur a d'ailleurs écrit un autre jeu de 2 pages, plus sombre, que je compte bien essayer :
+[The Last Coffee Shop On The Left](http://cheatyourownadventure.co.uk/the-last-coffee-shop-on-the-left).
 
 Sur 2 pages, ce jeu sans meneur vous invite à retranscrire l'ambiance des Livres-Dont-Vous-Êtes-Le-Héros,
 les différentes options qui s'offrent au lecteur et l'amène vers d'autres pages,
