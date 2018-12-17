@@ -1,7 +1,7 @@
 Title: Mothership Hive Mind
 Date: 2018-12-18 1:00
 Tags: lang:en, jdr, storytelling, random-table, space-horror, alien, chartopia, @Matt, jeux
-Slug: mothership-hive-mindo
+Slug: mothership-hive-mind
 ---
 In June this year, Sean McCoy published a tabletop RPG called [**Mothership**](http://www.tuesdayknightgames.com/mothership/).
 It has recieved tons of positive reviews, including [/r/rpg December's Game of the Month](https://www.reddit.com/r/rpg/comments/a2d66a/mothership_by_sean_mccoy_is_decembers_game_of_the/) award:
@@ -10,7 +10,7 @@ It has recieved tons of positive reviews, including [/r/rpg December's Game of t
 > Every subheading is numbered for reference, character sheets have flowchart arrows pointing you towards important points,
 > and it hits the sweet spot niche of hard sci-fi without overwhelming crunch. Plus it's PWYW.
 
-![Mothership game cover](https://chezsoi.org/lucas/mothership-rpg.jpg)
+![Mothership game cover](/lucas/mothership-rpg.jpg)
 
 The game has a very active community, which is very creative on [Discord](https://discordapp.com/channels/461670627468771329/511645986288959500).
 On one channel, _Hive Mind_, numerous awesome d10 tables are collectively created.
