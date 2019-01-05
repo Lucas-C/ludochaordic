@@ -1,6 +1,6 @@
 Title: Mothership Hive Mind
 Date: 2018-12-18 1:00
-Tags: lang:en, jdr, storytelling, random-table, space-horror, alien, chartopia, @Matt, jeux
+Tags: lang:en, jdr, storytelling, random-table, space, horror, alien, mothership-rpg, chartopia, @Matt, jeux
 Slug: mothership-hive-mind
 ---
 In June this year, Sean McCoy published a tabletop RPG called [**Mothership**](http://www.tuesdayknightgames.com/mothership/).
@@ -62,6 +62,7 @@ You'll find below a list of most of them, categorized.
 - [Monstrosities to stalk you in the dark](https://chartopia.d12dev.com/en/chart/4439/)
 - [Space diseases](https://chartopia.d12dev.com/en/chart/4508/)
 - [Spaceship Pests](https://chartopia.d12dev.com/en/chart/4522/)
+- [Domesticated Aliens](https://chartopia.d12dev.com/en/chart/4535/)
 
 **NPCs & encounters**:
 

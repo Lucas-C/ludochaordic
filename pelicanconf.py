@@ -15,6 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/CanardPC-15ans.jpg', 'description': 'Canard PC - Hors Série 15 ans'},
     {'img_url': 'images/readings/revue-dessinee-couv-no21-2018-automne.png', 'description': 'Nantes - Balades urbaines de Sarah Guilbaud (livre sur le Street Art)'},
     {'img_url': 'images/readings/nantes-balades-urbaines.jpg', 'description': 'Nantes  (Revue BD)'},
     {'img_url': 'images/readings/cité14.jpg', 'description': 'Cité 14 - Pierre Gabus & Romuald Reutimann (BD)'},
@@ -49,7 +50,7 @@ LINKS = (('Blog BD de Boulet', 'http://www.bouletcorp.com'),
          ('Blog de Victor Stinner', 'http://vstinner.readthedocs.io'),
          ('Rhizome.org', 'https://anthology.rhizome.org'),
          ('Jeff Atwodd Coding Horror', 'http://blog.codinghorror.com'),
-         ("Galerie photo de CheckSam", 'http://www.dumondedanslobjectif.com'),
+         ("Du Monde Dans l'Objectif", 'http://www.dumondedanslobjectif.com'),
          ("Galerie d'Elliot Jolivet aka 10seï", 'https://illutensei.com'),
          ("Galerie d'Elodie Olivier", 'http://elodie-olivier.com'),)
 
