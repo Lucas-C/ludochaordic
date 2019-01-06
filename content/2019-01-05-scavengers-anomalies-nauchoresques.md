@@ -50,7 +50,7 @@ On y trouve également de magnifiques illustrations de Sergey Grechanyuk,
 comme [_Smugglers Harbor_](https://www.artstation.com/artwork/L6Yrl) ou sa série _Kepler_ :
 [ici](https://www.artstation.com/grekgss/albums/635517) et [là](https://www.artstation.com/artwork/g5NDx).
 
-Enfin, j'ai profité de cette occasion pour créer une page sur ce blog dédiée à mes créations de JdR : [/pages/jeux-de-role.html](/pages/jeux-de-role.html).
+Enfin, j'ai profité de cette occasion pour créer une page sur ce blog dédiée à mes créations de JdR : [pages/jeux-de-role.html](pages/jeux-de-role.html).
 
 <style>
 article img {
