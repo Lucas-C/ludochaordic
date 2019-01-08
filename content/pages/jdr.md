@@ -57,7 +57,7 @@ Tags: lang:fr, jdr
       <ul>
         <li><a href="https://chezsoi.org/lucas/blog/scavengers-anomalies-nauchoresques.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/scavengers/">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.0/adj-scavengers-1.2.0.pdf">Version PDF</a></li>
+        <li><a href="https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf">Version PDF</a></li>
       </ul>
       <quote>Dans <strong>Scavengers</strong> vous jouez un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
         et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.</quote>
