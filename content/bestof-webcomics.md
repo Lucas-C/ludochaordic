@@ -4,6 +4,8 @@ Tags: lang:fr, bd
 Status: draft
 Slug: bestof-webcomics
 
+Mention Scott Mc Cloud Reinventing Comics + http://www.scottmccloud.com/1-webcomics/icst/ (inc. snippet of item #2 of issue 3)
+
 [bouletcorp](http://www.bouletcorp.com), [xkcd](http://xkcd.com)
 
 [FreakAngels](http://www.freakangels.com) -> DB error, but comic can be found online
@@ -32,6 +34,11 @@ Slug: bestof-webcomics
 - page d'accueil très moche
 - scénario & dessin très classiques Glénat
 + animation & musique très réussie
+
+[Dark Science](http://dresdencodak.com/2010/06/03/dark-science-01/)
+
++ histoire "à mystères" qui s'étoffe peti à petit et gagne en cohérence
++ dessin magnifique
 
 
 + Rice Boy and Order of Tales

@@ -80,6 +80,16 @@ A Cyberfeminist Manifesto for the 21st Century - 1991:
 </div>
 
 
+---
+
+[A Year of Daily Generative Sketches](http://www.procjam.com/seeds/issues/3/mewo.txt.html) by Martin O'Leary :
+
+<div class="uk-grid">
+    <img class="uk-width-1-1 uk-width-small-1-2" src="images/net-art/mewo1.png">
+    <img class="uk-width-1-1 uk-width-small-1-2" src="images/net-art/mewo3.png">
+    <img class="uk-width-1-1 uk-width-small-1-2" src="images/net-art/mewo4.png">
+</div>
+
 <style>
     article img {
         display: block;
