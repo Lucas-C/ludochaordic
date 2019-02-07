@@ -41,8 +41,12 @@ Mention Scott Mc Cloud Reinventing Comics + http://www.scottmccloud.com/1-webcom
 + dessin magnifique
 
 
-+ Rice Boy and Order of Tales
+Rice Boy and Order of Tales, fini, 435 pages:
++ univers, personnages, dessin, rythme, narration
+- j'ai peu accroché au scénario "prophétique" aux conséquences plus que limitées (peu d'enjeux)
+Order of Tales
 
++ tampermonkey scripts
 
 <style>
 article img {

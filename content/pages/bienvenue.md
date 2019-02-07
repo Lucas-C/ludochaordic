@@ -23,6 +23,8 @@ des astuces de programmation, des réflexions et des émotions.
 
 N'hésitez donc pas à me faire part de vos retours sur son contenu !
 
+A noter: techniquement, ce blog s'efforce de suivre la philosophie [_low tech_](https://homebrewserver.club/low-tech-website-howto.html#software).
+
 
 ## Articles à lire
 
