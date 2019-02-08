@@ -24,3 +24,8 @@
         language: system
         entry: ./ensure_dates_match.sh
         files: content/[^/]+\.md$
+    -   id: ensure-readings-have-date
+        name: Ensure readings section of pelicanconf.py contain dates
+        language: system
+        entry: ./auto_annotate_pelicanconf_readings_with_date.py
+        files: pelicanconf.py
