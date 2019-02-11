@@ -19,7 +19,7 @@ Aujourd'hui, je suis très heureux et fier de vous présenter mon premier jeu mi
 **Ameres Victoires & Glorieuses Defaites** :
 
 - [est disponible en ligne ici](https://lucas-c.github.io/jdr/gdav/)
-- [ainsi qu'en PDF là](https://github.com/Lucas-C/jdr/releases)
+- [ainsi qu'en PDF là](https://github.com/Lucas-C/jdr/releases/download/gdav-v1.1.1/gdav-v1.1.1.pdf)
 
 Si vous prennez le temps de le lire, voir de le tester,
 dites-moi ce que vous en pensez en commentaire svp !

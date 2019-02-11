@@ -22,7 +22,7 @@ comme [Mothership](http://www.tuesdayknightgames.com/mothership/) de Sean McCoy 
 Elle est :
 
 - [disponible en ligne ici](https://lucas-c.github.io/jdr/scavengers/)
-- [ainsi qu'en PDF là](https://github.com/Lucas-C/jdr/releases)
+- [ainsi qu'en PDF là](https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf)
 
 Cette aide de jeu contient:
 

@@ -46,9 +46,13 @@ Rice Boy and Order of Tales, fini, 435 pages:
 - j'ai peu accroché au scénario "prophétique" aux conséquences plus que limitées (peu d'enjeux)
 Order of Tales, 744 pages
 + share some characters with the previous one
-+ B&W + drawing style & universe remind me of Bone
++ B&W + drawing style & universe remind me of Bone (-> http://www.rice-boy.com/order/index.php?c=334 = rats garous ?)
+- pas fan des passages de légendes écrites, peu lisibles
++ histoire bien meilleure, personnage principal bien moins passif
 
 + tampermonkey scripts
+
+[http://necropoliscomic.tumblr.com/post/118905492171/prologue](Necropolis) : 2 chapitres en 3ans, pas fini -> magnifique et captivant mais tros peu de contenu pour en parler ou le recommander...
 
 <style>
 article img {

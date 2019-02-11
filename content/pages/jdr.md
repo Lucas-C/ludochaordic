@@ -18,7 +18,7 @@ Tags: lang:fr, jdr
       <ul>
         <li><a href="https://chezsoi.org/lucas/blog/ameres-victoires-et-glorieuses-defaites.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/gdav/">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.0.0/gdav-v1.0.0.pdf">Version PDF</a></li>
+        <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.1.1/gdav-v1.1.1.pdf">Version PDF</a></li>
       </ul>
       <quote>Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
       Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
