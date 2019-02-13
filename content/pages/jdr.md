@@ -20,9 +20,9 @@ Tags: lang:fr, jdr
         <li><a href="https://lucas-c.github.io/jdr/gdav/">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.1.1/gdav-v1.1.1.pdf">Version PDF</a></li>
       </ul>
-      <quote>Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
+      <blockquote>Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
       Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
-      où ils devront faire des choix cornéliens pour y apporter une conclusion.</quote>
+      où ils devront faire des choix cornéliens pour y apporter une conclusion.</blockquote>
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
@@ -40,9 +40,9 @@ Tags: lang:fr, jdr
         <li><a href="https://lucas-c.github.io/jdr/latour/">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/latour-v2.0.0/latour-v2.0.0.pdf">Version PDF</a></li>
       </ul>
-      <quote>Vous venez d'arriver au sommet de La Tour, l'immeuble le plus dangereux du pays, sous l'emprise du gang Takoyashi.
+      <blockquote>Vous venez d'arriver au sommet de La Tour, l'immeuble le plus dangereux du pays, sous l'emprise du gang Takoyashi.
       Vous formez une équipe d'opérations spéciales aguerrie, équipée pour l'assaut et experte en arts martiaux.
-      Votre tactique : sécuriser le bâtiment pièce par pièce, étage après étage, en appréhendant tout individu hostile.</quote>
+      Votre tactique : sécuriser le bâtiment pièce par pièce, étage après étage, en appréhendant tout individu hostile.</blockquote>
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
@@ -59,23 +59,23 @@ Tags: lang:fr, jdr
         <li><a href="https://lucas-c.github.io/jdr/scavengers/">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf">Version PDF</a></li>
       </ul>
-      <quote>Dans <strong>Scavengers</strong> vous jouez un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
-        et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.</quote>
+      <blockquote>Dans <strong>Scavengers</strong> vous jouez un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
+        et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.</blockquote>
       <br><br>
-      <quote>Cette aide de jeu contient:<ul>
+      Cette aide de jeu contient:<ul>
         <li>de quoi décrire votre vaisseau, avec en particulier une table d'anomalies</li>
         <li>des playbooks & TOCs pour vos PJs</li>
         <li>une règle optionnelle, le compas d'humeurs</li>
         <li>des cachotteries de mission, incluant des contrats bonus</li>
         <li>des imprévus de voyages, certains tendant vers l'horreur cosmique</li>
-      </ul></quote>
+      </ul>
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">rpg-bonhomme</h2>
     <img class="uk-align-center" src="images/jdr/rpg-bonhomme.jpg" alt="Un masque de Guy Fawkes">
     <div class="uk-thumbnail-caption">
-      <quote>éditeur/visualisateur de feuille de perso en ligne, gratuit et open-source</quote>
+      <q>éditeur/visualisateur de feuille de perso en ligne, gratuit et open-source</q>
       <ul>
         <li><a href="https://chezsoi.org/lucas/jdr/rpg-bonhomme">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/rpg-bonhomme">Code sur GitHub</a></li>

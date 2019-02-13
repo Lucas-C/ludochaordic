@@ -231,6 +231,13 @@ Puis tout bascule, et leur conscience change de corps !
 A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de lui rendre son corps.
 - Ethnos réussit finalement à excorciser Roric de son corps. Lyssa et ses hommes de replient, et le gang du Harpon fait de même
 
+## Session 5
+
+<figure>
+  <img alt="Ethnos" src="images/bitd/Ethnos.jpg">
+  <figcaption>Le personnage d'Ethnos par Elliot Jolivet aka Tenseï</figcaption>
+</figure>
+
 <style>
 @media screen and (min-width: 1200px) {
   .small-img {

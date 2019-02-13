@@ -1,13 +1,8 @@
 Title: Jeux multijoueurs en local sur PC
 Date: 2019-02-12 14:00
-Tags: lang:fr, video-game, multijoueurs, gratuit, opinion, linux, jeux
+Tags: lang:fr, video-game, multijoueurs, gratuit, opinion, linux, open-source, jeux
 Status: draft
 Slug: local-multiplayer-games
-
-<!--
-- jeter un oeil à autres jeux sur DAEDALUS
-- récup manette Xbox pour tester lesquels la supportent
--->
 
 Je crois que j'envisage d'écrire un article sur ce sujet depuis que j'ai créé ce blog !
 J'ai retrouvé ces notes datant d'il y a au moins 5 ans, déposées au fin fond d'un fichier texte :
@@ -65,7 +60,7 @@ Parfois, à nouveau, à 4 sur le même clavier ! Ou alors le quatrième jouait *
 À ne pas s'y tromper : il ne s'agit absolument pas d'un jeu de course !
 Le but est d'être le dernier survivant en lice, et tous les joueurs jouent contre le temps et l'espace qui s'amenuise...
 
-Un jeu de réflexes encore une fois, compatible Windows / Mac / Linux,
+Un jeu de réflexes encore une fois, compatible Windows / Mac / Linux, open-source,
 sans aucune variété de niveaux mais doté de quelques paramètres permettant de varier les plaisirs :
 vitesse du jeu, taille du terrain...
 
@@ -92,22 +87,44 @@ Il existe aussi une version _remastered_ permettant jusqu'à 8 joueurs et des ma
 <img class="left" alt="Screenshot du jeu Super Mario War" src="images/2019/02/super-mario-war.jpg">
 
 Exactement le même principe de jeu, mais cette fois dans l'univers de Mario,
-avec plus de 1000 niveaux différents et plein de modes de jeux : GetTheChicken, Domination, CTF, ...
+avec plus de 1000 niveaux différents, des _power-ups_ à foison et plein de modes de jeux : GetTheChicken, Domination, CTF, ...
 
 <http://supermariowar.supersanctuary.net>
 
-[_Open-source_ (C++)](https://github.com/mmatyas/supermariowar), compatible Windows / Linux / Mac, supporte les manettes de jeux
+[_Open-source_ (C++)](https://github.com/mmatyas/supermariowar), compatible Windows / Linux / Mac,
+supporte les manettes de jeux... un _party game_ idéal.
+Je crois néanmoins y avoir joué moins de parties qu'à jump'n bump.
 
 
 ## KRYP
 
+<img class="right" alt="GIF animé du jeu KRYP" src="images/2019/02/kryp.gif">
+
+<https://ditto.itch.io/kryp>
+
+
 ## nidhogg
 
-## Towerfall
+<img class="left" alt="GIF animé du jeu Nidhogg" src="images/2019/02/nidhogg_1-1.gif">
+
 
 ## Samurai Gunn
 
+<img class="right" alt="GIF animé du jeu Samurai Gun" src="images/2019/02/Samurai_gunn_slash_step3.gif">
+
+On retrouve le même équilibre "attaques d'escrime illimitées / "attaques à distance rationnées"
+que dans Nidhogg
+
+## Towerfall
+
+<img class="left" alt="GIF animé du jeu Towerfall" src="images/2019/02/TowerFall_time_stomp.gif">
+
+<http://www.towerfall-game.com/>
+
 ## Crawl
+
+<img class="right" alt="Screenshot du jeu Crawl" src="images/2019/02/crawl.jpg">
+
 
 + préciser nombre joueurs chaque fois
 + manette ou non
@@ -126,6 +143,10 @@ avec plus de 1000 niveaux différents et plein de modes de jeux : GetTheChicken,
 - BattleBlock Theater & Castle Crashers vs Lethal League
 
 - SSMB N64
+
+\+ tout mettre sur une clef USB !
+
+\+ nostalgie / madeleine de Proust perso
 
 A venir: jeux coop
 <!--
