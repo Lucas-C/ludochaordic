@@ -1,8 +1,7 @@
 Title: Jeux multijoueurs en local sur PC
-Date: 2019-02-14 9:00
-Tags: lang:fr, video-game, multijoueurs, gratuit, opinion, linux, open-source, jeux
+Date: 2019-02-15 9:00
+Tags: lang:fr, video-game, multijoueurs, party-game, gratuit, opinion, linux, open-source, jeux
 Slug: local-multiplayer-games
-Status: draft
 
 Je crois que j'envisage d'écrire un article sur ce sujet depuis que j'ai créé ce blog !
 J'ai retrouvé ces notes datant d'au moins 5 ans, déposées au fin fond d'un fichier texte :
@@ -12,9 +11,9 @@ J'ai retrouvé ces notes datant d'au moins 5 ans, déposées au fin fond d'un fi
 
 Je vais essayer de respecter cette contrainte d'écriture fixée par mon moi d'il y a plusieurs années 😄
 
-Cet article va donc recenser quelques uns de mes coups de coeur vidéoludiques de ces 20 dernières années,
-parmi les jeux sur PC pouvant se jouer à au moins 2 sur le même écrant.
-J'espére que certains vous donnerons envie de rassembler quelques amis ou cousins pour les tester !
+Cet article va donc recenser quelques uns de mes coups de cœur vidéo-ludiques de ces 20 dernières années,
+parmi les jeux sur PC pouvant se jouer à au moins 2 sur le même écran.
+J'espère que certains vous donnerons envie de rassembler quelques amis ou cousins pour les tester !
 
 ## Super Bomberman 2 sur SNES
 
@@ -28,7 +27,7 @@ Il fallait se dépêcher car l'impatience montait rapidement :)
 A noter qu'il est possible de jouer sous Linux / Mac / Windows.
 
 Cette version du jeu contient 10 niveaux différents et la possibilité de jouer avec des _bots_.
-Le gameplay est ultra classique mais je ne m'en suis jamais lassé !
+Le _gameplay_ est ultra classique mais je ne m'en suis jamais lassé !
 Surtout que certains niveaux et certains _power-ups_ ouvrent des possibilités tactiques.
 Le [gant](https://bomberman.fandom.com/wiki/Power_Glove) par exemple est redoutable car il permet de projeter des bombes par-dessus
 les murs, et même d'un côté du niveau à l'autre !
@@ -38,15 +37,15 @@ les murs, et même d'un côté du niveau à l'autre !
 <img class="right" alt="Screenshot du jeu Windjammers" src="images/2019/02/windjammers.jpg">
 
 Toujours sur émulateur Super Nintendo, il s'agit cette fois d'un jeu de **duel** bien particulier :
-on s'affronte avec un freesbee super-sonique !
+on s'affronte avec un frisbee super-sonique !
 
 Je crois qu'à première vue il est facile de sous-estimer le **fun** que ce jeu procure :)
 Les matchs sont très courts, les échanges rapides et tendus...
 La palette de coups est très réduite mais cela rend le jeu facile à prendre en main
-et le positionnement sur le terrain un élement clef.
+et le positionnement sur le terrain un élément clef.
 
 Ayant joué à ce jeu dans mes années collège-lycée, quelle n'a pas été mon (agréable !)
-surprise de le retrouver... à mon tavail.
+surprise de le retrouver... à mon travail.
 C'est en effet un des jeux favoris à l'espace détente de [oui.sncf](https://www.oui.sncf) à Nantes 😆
 J'en déduis que je ne suis pas le seul a avoir été marqué par ce jeu,
 d'autant plus qu'il a été porté sur au moins 5 consoles depuis sa sortie en 1994.
@@ -71,7 +70,7 @@ vitesse du jeu, taille du terrain...
 
 <img class="right" alt="Screenshot du jeu Jump'n'bump" src="images/2019/02/jump-n-bump.png">
 
-Un jeu de plateforme cette fois, mais toujours aussi minimaliste et faisant appel à nos instincts primaires.
+Un jeu de plate-forme cette fois, mais toujours aussi minimaliste et faisant appel à nos instincts primaires.
 Jusqu'à 4 joueurs sur le même clavier.
 Je ne vous en dit pas plus, mais ce n'est pas parce que vous incarnez de mignons lapins sautant partout que ce jeu est destiné à de jeunes enfants...
 
@@ -92,10 +91,8 @@ Il existe aussi une version _remastered_ permettant jusqu'à 8 joueurs et des ma
 Exactement le même principe de jeu, mais cette fois dans l'univers de Mario,
 avec plus de 1000 niveaux différents, des _power-ups_ à foison et plein de modes de jeux : GetTheChicken, Domination, CTF, ...
 
-<http://supermariowar.supersanctuary.net>
-
-[_Open-source_ (C++)](https://github.com/mmatyas/supermariowar), compatible Windows / Linux / Mac,
-supporte les manettes de jeux... un _party game_ idéal.
+[Super Mario War](http://supermariowar.supersanctuary.net) est [_open-source_ (C++)](https://github.com/mmatyas/supermariowar),
+compatible Windows / Linux / Mac, supporte les manettes de jeux... un _party game_ idéal.
 Je crois néanmoins y avoir joué moins de parties qu'à Jump'n Bump.
 
 
@@ -103,7 +100,7 @@ Je crois néanmoins y avoir joué moins de parties qu'à Jump'n Bump.
 
 <img class="right" alt="GIF animé du jeu KRYP" src="images/2019/02/kryp.gif">
 
-A la fois OVNI dans cette liste et véritable petit coup de coeur il y a 3 ans,
+A la fois OVNI dans cette liste et véritable petit coup de cœur il y a 3 ans,
 j'ai découvert [Kryp](https://ditto.itch.io/kryp) via le site [Warp Door](http://warpdoor.com).
 
 Ce jeu gratuit de [ditto](https://twitter.com/dittomat), le créateur de [Gonner](http://www.gonnergame.com/),
@@ -126,70 +123,94 @@ On revient à du duel avec ce jeu du prolifique créateur [Messhof](http://messh
 C'est aussi le premier jeu payant de cette liste, à 10 € sur Steam ou Humble Bundle hors soldes.
 À noter qu'il existe une version "2" que je n'ai pas testé, où les graphismes changent radicalement.
 
-Le GIF animé ci-contre révèle l'essentiel du gameplay, qui s'étoffe de sauts,
+Le GIF animé ci-contre révèle l'essentiel du _gameplay_, qui s'étoffe de sauts,
 de parades haute ou basse et de la possibilité de lancer son arme.
 Les combats s'enchaînent de manière frénétique à travers différents tableaux,
 jusqu'à ce qu'un joueur obtienne aux termes de plusieurs victoires la récompense ultime...
 
-Très addictif et jubilatoire, ce jeu "indé" mérite totalement son succès !
+Très addictif et jubilatoire, ce jeu « indé » mérite vraiment d'être essayé !
 
 
 ## Samurai Gunn
 
 <img class="right" alt="GIF animé du jeu Samurai Gun" src="images/2019/02/Samurai_gunn_slash_step3.gif">
 
-Un jeu très similaire, avec un gameplay un poil plus épuré (pas de niveaux de parades différents)
-mais qui permet cette fois de s'affronter jusqu'à 4, voir **de joueur en co-op** contre des vagues de ninjas.
+Un jeu assez similaire, avec un _gameplay_ un poil plus épuré (pas de niveaux de parades différents)
+mais qui permet cette fois de s'affronter jusqu'à 4, voir **de jouer en co-op** contre des vagues de ninjas.
 
 On retrouve le même équilibre « attaques d'escrime illimitées » / « attaques à distance rationnées »
 que dans Nidhogg, et la possibilité de parer des balles est très jouissive !
 
-Et c'est bien connu, les samouraïs qui utilisent des armes à feu n'ont pas d'honneur...
+Et puis c'est bien connu, les samouraïs qui utilisent des armes à feu n'ont pas d'honneur...
 
 La [bande son](https://doseone.bandcamp.com/album/the-samurai-gunn-ep) de doseone est très bonne, mélangeant sonorités japonisantes et rap.
 J'imagine très bien le thème de Samurai Gunn dans un film de Tarantino par exemple.
 Je la préfère même à celle de Nidhogg pourtant excellente, étrange et hypnotique.
 
-La page officielle du jeu n'existe plus, mais il peut être acheté pour 14 € sur Steam,
-et un deuxième épisode devrait sortit très bientôt sur Nintendo Switch,
+La page officielle du jeu n'existe plus, mais il peut être acheté pour 14 € sur Steam.
+Création du développeur Beau « Teknopants » Blyth, un deuxième épisode devrait sortit très bientôt sur Nintendo Switch,
 accompagné d'une BD dans le même univers du dessinateur français [Valentin Seiche](http://airfortress.tumblr.com).
 
 
-## Towerfall
+## Towerfall Ascension
 
 <img class="left" alt="GIF animé du jeu Towerfall" src="images/2019/02/TowerFall_time_stomp.gif">
 
-<http://www.towerfall-game.com>
+Que de joyeux souvenirs que ces heures passées à progresser dans le mode « histoire » coopératif
+ou bien en arène où les coups bas pleuvent,
+devant un vidéo-projecteur avec une manette de Xbox vissée entre les mains.
+Avec bien sûr, toujours un bouton pressé pour encocher une flèche dans mon arc tendu...
+
+Multi-plateformes, issu à l'origine d'une _game-jam_, les superlatifs vont me manquer pour décrire [Towerfall Ascension](http://www.towerfall-game.com),
+tant il représente la quintessence des jeux que j'aime.
+Direction artistique, action frénétique, ergonomie, _level design_, durée de vie, fun... tout est « aux petits oignons ».
+
+Il est à 15 € sur Steam, et de tous les jeux commerciaux présentés ici
+c'est sans hésiter dans celui-ci que je vous recommanderais de mettre vos biffetons.
 
 
 ## Crawl
 
 <img class="right" alt="Screenshot du jeu Crawl" src="images/2019/02/crawl.jpg">
 
+Dernier des jeux de cette liste que j'ai découvert, [Crawl](http://www.powerhoof.com/crawl/) est un jeu
+de _dungeon crawling_ compétitif et asymétrique. Avec des Gros Pixels.
 
-+ préciser nombre joueurs chaque fois
-+ manette ou non
+En clair, lors d'une partie de Crawl, chaque joueur est associé à un héro ainsi qu'à un panthéon maléfique.
+Tandis qu'un seul joueur contrôle un héro à l'écran, tentant de monter de niveau et de s'équiper à travers le donjon,
+ses camarades prennent possession dans chaque pièce qu'il traverse des pièges et monstres tentant de le liquider,
+en faisant également évoluer en puissance ces derniers petit à petit...
 
-- 0space : https://teknopants.itch.io/0space
-- DasUberleben
-- Puji
+Si notre première partie était franchement bordélique et faite de très mauvais choix tactiques,
+le concept est original et je me suis beaucoup amusé dans un rôle comme dans l'autre.
+Nous avons un peu râlé lorsque la sélection aléatoire d'équipement vendu par le marchant favorisait un joueur,
+ou quand un autre adoptait fourbement une tactique de « grève des monstres »,
+mais le jeu n'en reste pas moins drôle et équilibré.
+Vous le trouverez à 15 € sur Steam, et y jouer vous donnera l'occasion d'affronter Gabe Newell comme boss final d'un des donjons !
 
-- Blobby Volley -> en cours de techno au collège
-- Island War
-- Jet Pack BasketBall
-- Puzzle Bobble
 
-- Gurgamoth vs Wand Wars vs
+## Conclusion
 
-- BattleBlock Theater & Castle Crashers vs Lethal League
+Je l'assume complètement, il s'agit avant tout d'un article « madeleine de Proust ».
 
-- SSMB N64
+Mais quel plaisir de replonger dans ces pépites !
+Je vous recommande chaudement d'en rassembler plusieurs sur une clef USB à ramener lors votre prochaine soirée vidéo-ludique 😉
 
-\+ tout mettre sur une clef USB !
+Bien sûr je n'ai effleuré que le plus gros de l'iceberg,
+mettant de côté d'autres grands classiques que j'ai adoré, comme Puzzle Bobble ou Super Smash Bros sur (émulateur) Nintendo 64.
+Ou bien des jeux ayant très mal vieilli comme [Island Wars](https://www.mobygames.com/game/windows/island-wars-2)
+ou [Blobby Volley](https://sourceforge.net/projects/blobby/), auquel je me souviens avoir joué en cours de Technologie au au collège.
+Ou encore de vieux jeux indés de développeurs maintenant reconnus,
+comme [0space](https://teknopants.itch.io/0space) ou [DasUberleben](https://forums.tigsource.com/index.php?topic=3836.0) de Beau « Teknopants » Blyth,
+ou [Jet Pack BasketBall](http://cargocollective.com/messhof/Jetpack-Basketball) de Messhof.
+Il y a enfin de nombreux autres jeux récents que j'ai beaucoup apprécié sans les nommer ici,
+comme les excellents _BattleBlock Theater_ & _Castle Crashers_,
+ou _Wand Wars_ qu'il faudra un jour que je compare à _Lethal League_.
 
-\+ nostalgie / madeleine de Proust perso
+Pour conclure je vais en mentionner un dernier tout de même,
+un jeu Flash minimaliste gratuit où certains reconnaîtront l'ancêtre de Spy Party, [Puji](http://www.patkemp.com/wp-gallery/games/puji.html).
 
-A venir: jeux coop
+À venir cette année (peut-être) : un autre article où j'aimerais évoquer quelques bons souvenirs de jeux vidéos coopératifs.
 <!--
 - Trine 3
 - Cowboyana : Après quelques dizaines de parties ces dernières années,
@@ -201,6 +222,9 @@ et un système de rechargement très fun et intuitif.
 Et on peut obtenir un revolver qui décharge tout son barillet d'un coup (mais comment exactement, aucune idée).
 Peut-être en affrontant le boss cowboy qui s'en sert. Et il y a une autre boss qui lance des boules de feu. Enfin je crois.
 -->
+
+En attendant je serais ravis de lire vos propres recommandations dans les commentaires,
+où vos propres anecdotes de partie que cet article ont pu rappeler à votre mémoire !
 
 <style>
 article img {
