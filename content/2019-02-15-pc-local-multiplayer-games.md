@@ -130,6 +130,11 @@ jusqu'à ce qu'un joueur obtienne aux termes de plusieurs victoires la récompen
 
 Très addictif et jubilatoire, ce jeu « indé » mérite vraiment d'être essayé !
 
+A défault de jouer à l'original, inégalable, notez qu'il existe une version parodique
+très complète et gratuite, [EGGNOGG+](https://madgarden.itch.io/eggnogg).
+Les contrôles sont parfois aléatoires, le _level design_ est moins réussi,
+mais le jeu reste très amusant !
+
 
 ## Samurai Gunn
 
@@ -225,6 +230,11 @@ Peut-être en affrontant le boss cowboy qui s'en sert. Et il y a une autre boss 
 
 En attendant je serais ravis de lire vos propres recommandations dans les commentaires,
 où vos propres anecdotes de partie que cet article ont pu rappeler à votre mémoire !
+
+**EDIT [2019/02/16]** : Je rajoute à cette liste [Super Crate Box Together](https://yellowafterlife.itch.io/super-crate-box-together)
+testé hier soir : sans être inoubliable, cette version co-op (jusqu'à 4) d'un petit jeu des hollandais de Vlambeer
+est suffisament hypnotique, avec l'envie d'en refaire toujours « une dernière » pour faire un meilleur score,
+pour que je vous le recommande ici !
 
 <style>
 article img {
