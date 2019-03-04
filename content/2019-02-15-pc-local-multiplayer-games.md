@@ -232,7 +232,7 @@ En attendant je serais ravis de lire vos propres recommandations dans les commen
 où vos propres anecdotes de partie que cet article ont pu rappeler à votre mémoire !
 
 **EDIT [2019/02/16]** : Je rajoute à cette liste [Super Crate Box Together](https://yellowafterlife.itch.io/super-crate-box-together)
-testé hier soir : sans être inoubliable, cette version co-op (jusqu'à 4) d'un petit jeu des hollandais de Vlambeer
+testé hier soir : sans être inoubliable, cette version co-op (jusqu'à 4) d'un petit jeu gratuit des hollandais de Vlambeer
 est suffisament hypnotique, avec l'envie d'en refaire toujours « une dernière » pour faire un meilleur score,
 pour que je vous le recommande ici !
 

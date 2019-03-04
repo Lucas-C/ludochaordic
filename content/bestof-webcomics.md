@@ -54,6 +54,13 @@ Order of Tales, 744 pages
 
 [http://necropoliscomic.tumblr.com/post/118905492171/prologue](Necropolis) : 2 chapitres en 3ans, pas fini -> magnifique et captivant mais tros peu de contenu pour en parler ou le recommander...
 
+[Spacetrawler](https://www.baldwinpage.com/spacetrawler/2010/05/03/spacetrawler-37/) : littéralement "chalutier de l'espace"
+<!-- $$('#container li > a').filter(e => e.textContent.includes('/10 ') || e.textContent.includes('/11 ') || e.textContent.includes('/12 ') || e.textContent.includes('/13 ')).length -->
+<!-- $$('#container li > a').filter(e => e.textContent.includes('/16 ') || e.textContent.includes('/17 ') || e.textContent.includes('/18 ') || e.textContent.includes('/19 ')).length -->
+Christopher Baldwin, en anglais, 2 saisons, la 1ère de 413 strips, la 2e en cours et à ce jour 364 strips
+- au début rebuté par le ton trop loufoque
++ chaque page est un strip un peu indépendant, avec une chute
+
 <style>
 article img {
     margin: 0 auto;
