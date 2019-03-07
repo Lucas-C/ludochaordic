@@ -45,9 +45,5 @@ le lecteur d'écran open-source écrit en Python.
 
 
 <style>
-article img {
-  max-height: 30vh;
-  display: block;
-  margin: 0 auto;
-}
+article img { max-height: 30vh; }
 </style>

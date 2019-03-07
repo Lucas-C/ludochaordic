@@ -237,10 +237,7 @@ est suffisament hypnotique, avec l'envie d'en refaire toujours « une dernière 
 pour que je vous le recommande ici !
 
 <style>
-article img {
-  margin: auto 0;
-  max-width: 28rem;
-}
+article img { max-width: 28rem; }
 .sbm2 { padding: 1rem 0; }
 @media screen and (min-width: 40rem) {
   article img { margin: 1rem; }

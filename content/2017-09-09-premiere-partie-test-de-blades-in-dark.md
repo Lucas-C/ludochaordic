@@ -162,10 +162,5 @@ En définitive, hâte de remettre ça !
 **EDIT [20/12/2017]** : la suite de la campagne est consignée sur [cette page](pages/jdr-blades-in-the-dark.html).
 
 <style>
-article img {
-  max-height: 80vh;
-  display: block;
-  margin: 0 auto;
-}
-article figcaption { text-align: center; }
+article img { max-height: 80vh; }
 </style>

@@ -26,11 +26,3 @@ Mais la rejouabilité est grande, surtout que nous n'avons pas testé les règle
 A noter qu'à cause d'une erreur de lecture des règles, nous avons joué avec une **variante** lors de notre première partie:
 plutôt que chacun choisisse comment arranger les dés au mieux pour lui, le joueur les ayant lancé impose sa répertation à tout le monde !
 Cela créé un peu plus d'interactivité au final, au prix d'un peu plus de ressemblance des villes à la fin de la partie.
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-</style>

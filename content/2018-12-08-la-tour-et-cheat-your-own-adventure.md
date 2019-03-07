@@ -117,15 +117,3 @@ Cette variante donne un risque de mort constant d'environ une chance sur trois. 
 et seulement 2d6 dans les 4 dernières.
 
 Si jamais vous testez cette variante, dites-moi ce que vous en avez pensé en commentaire ! 😉
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-width: 30rem;
-}
-article figcaption {
-    text-align: center;
-    font-style: italic;
-}
-</style>

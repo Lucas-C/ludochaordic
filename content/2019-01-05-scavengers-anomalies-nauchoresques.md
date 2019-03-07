@@ -53,9 +53,5 @@ comme [_Smugglers Harbor_](https://www.artstation.com/artwork/L6Yrl) ou sa séri
 Enfin, j'ai profité de cette occasion pour créer une page sur ce blog dédiée à mes créations de JdR : [pages/jeux-de-role.html](pages/jeux-de-role.html).
 
 <style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 20rem;
-}
+article img { max-height: 20rem; }
 </style>

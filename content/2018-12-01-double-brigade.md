@@ -166,15 +166,3 @@ pour une petite partie de baston décomplexée.
 Comme indiqué dans les règles, il est idéal pour joueur en convention, ou avec des débutants.
 
 ![Illustration d'un personnage du jeu, le "Sergeant" Shivvit Deadeye](images/2018/12/HavocBrigade_SergeantShivvitDeadeye.png)
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-article figcaption {
-    text-align: center;
-    font-style: italic;
-}
-</style>

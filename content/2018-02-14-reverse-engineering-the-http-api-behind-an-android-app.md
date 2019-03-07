@@ -35,9 +35,5 @@ Au final j'en viens vraiment à douter que cette app fonctionne, surtout vu [les
 Donc si quelqu'un avec un ordinateur de poche pouvait me le confirmer, ça me ferait bien plaisir ! :D
 
 <style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 15rem;
-}
+article img { max-height: 15rem; }
 </style>

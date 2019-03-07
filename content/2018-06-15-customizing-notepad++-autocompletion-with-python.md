@@ -50,9 +50,5 @@ For example, one could combine it with code refactoring tools like [python-rope/
 to modify the code you just selected in Notepad++ on a simple keystroke.
 
 <style>
-    article img {
-        display: block;
-        margin: 0 auto;
-        max-height: 20rem;
-    }
+article img { max-height: 20rem; }
 </style>

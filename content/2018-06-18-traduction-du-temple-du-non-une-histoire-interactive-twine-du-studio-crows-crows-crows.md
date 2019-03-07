@@ -53,10 +53,5 @@ PS: J'ai découvert qu'il y avait [un secret dans le jeu](https://www.reddit.com
 mais je ne l'ai pas encore déchiffré. Des idées ?? :)
 
 <style>
-    article img {
-        display: block;
-        margin: 0 auto;
-        max-height: 20rem;
-    }
-    article figcaption { text-align: center; }
+article img { max-height: 20rem; }
 </style>

@@ -113,12 +113,7 @@ idéal pour une partie improvisée sur le pouce, mais nécessite une bonne expé
 [JdRP](http://www.jdrp.fr/recherche/wushu.html) recense pas mal de ressources pour le jeu.
 
 <style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 20rem;
-}
-article figcaption { text-align: center; }
+article img { max-height: 20rem; }
 .imgs {
     display: flex;
     justify-content: center;

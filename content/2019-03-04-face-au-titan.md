@@ -62,13 +62,5 @@ avec des joueurs un peu imaginatifs. Pour ma part j'attends la sortie du jeu fin
 
 
 <style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-width: 20rem;
-}
-article figcaption {
-    text-align: center;
-    font-style: italic;
-}
+article img { max-width: 20rem; }
 </style>

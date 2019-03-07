@@ -25,12 +25,3 @@ following the instructions at the top of my script
 4. Run `python overblog2pelican.py` in the directory of your new pelican project
 
 Feel free to leave a comment if you need any support.
-
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-</style>

@@ -396,7 +396,3 @@ Au plaisir de vous revoir à la prochaine convention ;)
     });
 });
 </script>
-
-<style>
-article img { display: block; margin: 0 auto; }
-</style>

@@ -102,4 +102,3 @@ J'ai découvert par la meme occasion cette autre variante pour 2 joueurs : <http
 <style>
 .dice-face {display:inline !important; width: 5rem}
 </style>
-

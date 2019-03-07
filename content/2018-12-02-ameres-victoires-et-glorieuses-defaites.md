@@ -31,13 +31,5 @@ dites-moi ce que vous en pensez en commentaire svp !
 
 <style>
 .small-img { max-height: 16rem; }
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 40rem;
-}
-article figcaption {
-    text-align: center;
-    font-style: italic;
-}
+article img { max-height: 40rem; }
 </style>

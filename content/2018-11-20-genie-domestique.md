@@ -79,11 +79,9 @@ d6    | For your domain, you crave
 
 <style>
 article img {
-    display: block;
     margin: 1rem auto;
     max-height: 25rem;
 }
-article figcaption { text-align: center; }
 table { border-collapse: collapse; margin: 2rem auto; }
 td { padding: 5px; }
 tbody > tr:nth-of-type(odd) { background-color: #ddd; }

@@ -16,11 +16,3 @@ lanssant beaucoup d'options aux joueurs à chaque tour tout en incluant une part
 
 De mon point de vue, le pouvoir du personnage du _Trickster_ n'est pas des plus utiles et [pourrait être amélioré](https://boardgamegeek.com/article/28884493#28884493), mais au final le jeu invite presque de par sa conception
 à y ajouter ses propres cartes de personnage, et n'en reste pas moins un très bon jeu gratuit auquel je rejouerai avec plaisir !
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-</style>

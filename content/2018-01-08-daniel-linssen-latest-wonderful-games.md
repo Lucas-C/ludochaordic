@@ -43,13 +43,3 @@ to focus the player sight on one character in one corner of the screen. It's a b
 
 It was made for [Ludum Dare 35](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=3479) game jam.
 I urge you to test it and brave the terrible 6 vampire bosses !
-
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-article figcaption { text-align: center; }
-</style>

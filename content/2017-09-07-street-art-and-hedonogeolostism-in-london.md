@@ -130,9 +130,6 @@ A very good article explaining why this is important: https://larlet.fr/david/bl
 img {
     max-height: 80vh;
 }
-figcaption {
-    text-align: center;
-}
 .lazyload, .lazyloaded {
     padding: .2rem;
     display: flex;

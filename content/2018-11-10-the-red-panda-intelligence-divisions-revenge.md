@@ -65,11 +65,3 @@ Merci Elliot pour la découverte ;)
 Création de pandas comprise, la partie de RPIDR a duré un peu moins de 2 heures.
 Nous avons fini la journée à playtester un prototype de JdR de ma conception,
 _Amères Victoires & Glorieuses Défaites_, dont je reparlerai très bientôt...
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-</style>

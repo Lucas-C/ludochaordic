@@ -138,9 +138,5 @@ especially for critical ones. But if your code uses various libs that all can ra
 this will force the users of your code to `import` all those exceptions systematically and is a clear violation of S.o.C.
 
 <style>
-    article img {
-        display: block;
-        margin: 0 auto;
-        max-height: 20rem;
-    }
+article img { max-height: 20rem; }
 </style>

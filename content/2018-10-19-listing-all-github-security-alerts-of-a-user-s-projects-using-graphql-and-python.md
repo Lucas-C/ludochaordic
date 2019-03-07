@@ -46,12 +46,3 @@ but couldn't do so in GraphQL and had to filter them out in Python.
 
 For a language which aims to [gives clients the power to ask for exactly what they need and nothing more](https://graphql.org),
 this is a bit sad...
-
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-</style>

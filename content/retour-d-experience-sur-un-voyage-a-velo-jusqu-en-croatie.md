@@ -20,13 +20,3 @@ L'objectif : en partant de Blois, rejoindre la mer Noire en 2 mois et demi.
 ![](images/2018/10/P1070111.JPG)
 
 ![](images/2018/10/equipement.jpg)
-
-
-<style>
-article img {
-    display: block;
-    margin: 0 auto;
-    max-height: 30rem;
-}
-article figcaption { text-align: center; }
-</style>

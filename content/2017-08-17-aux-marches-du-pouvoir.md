@@ -115,9 +115,3 @@ Quelques retours des 3 autres joueurs:
 - **+** mécaniques de jeu très bien pensées
 - **?** peut-être jouable en plusieurs séances
 - **!** attention à bien respecter la règle des complications, et faire intervenir l'icône, pas un dérivé
-
-
-<style>
-article img { display: block; margin: 0 auto; }
-article figcaption { text-align: center; }
-</style>

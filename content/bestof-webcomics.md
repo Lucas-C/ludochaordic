@@ -62,10 +62,7 @@ Christopher Baldwin, en anglais, 2 saisons, la 1ère de 413 strips, la 2e en cou
 + chaque page est un strip un peu indépendant, avec une chute
 
 <style>
-article img {
-    margin: 0 auto;
-    max-height: 20rem;
-}
+article img { max-height: 20rem; }
 img.left  { float: left; }
 img.right { float: right; }
 article p { clear: both; }
