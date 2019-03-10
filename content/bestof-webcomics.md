@@ -61,6 +61,22 @@ Christopher Baldwin, en anglais, 2 saisons, la 1ère de 413 strips, la 2e en cou
 - au début rebuté par le ton trop loufoque
 + chaque page est un strip un peu indépendant, avec une chute
 
+
+Idées de lectures:
+http://diggercomic.com/blog/2007/02/01/wombat1-gnorf/
+http://www.minnasundberg.fi/comic/page01.php
+http://bird-boy.com/comic/volume-i-page-01/
+http://nwain.com/
+https://www.gunnerkrigg.com/?p=1
+http://www.snowbynight.com/pages/ch1/pg1.php
+http://www.casualvillain.com/Unsounded/comic/ch01/ch01_01.html
+http://dresdencodak.com/2007/02/08/pom/
+http://battlepug.com/comic/2011/2/14/it-begins
+http://www.ryan-a.com/comics/roof.htm
+http://egypt.urnash.com/rita/comic/title/
+https://bookriot.com/2018/05/10/must-read-webcomics/
+
+
 <style>
 article img { max-height: 20rem; }
 img.left  { float: left; }
