@@ -2,9 +2,30 @@ Title: Jeux de rôle
 Tags: lang:fr, jdr
 ---
 
-> Quelques jeux et aides de jeu que j'ai écrit
+> Quelques jeux, traductions et aides de jeu que j'ai écrit
 
 <div class="uk-grid">
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Cheat Your Own Adventure &amp; Le dernier café sur la gauche</h2>
+    <img class="uk-align-center" src="images/jdr/dice.png" alt="Une paire de dés">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction de 2 court jeux narratifs de Shane Mclean</dd>
+        <dt>Pour</dt><dd>3 à 5 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>1h environ chacun</dd>
+      </dl>
+      <ul>
+        <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de présentation de CYOA</a></li>
+        <li><a href="https://lucas-c.github.io/jdr/">Versions web</a></li>
+        <li><a href="images/jdr/CheatYourOwnAdventure.pdf">Cheat Your Own Adventure (PDF)</a></li>
+        <li><a href="images/jdr/LeDernierCaféSurLaGauche.pdf">Le dernier café sur la gauche (PDF)</a></li>
+      </ul>
+      <blockquote>Dans <strong>Cheat Your Own Adventure</strong>, vous incarnez tour à tour le Lecteur d'un livre-dont-vous-êtes-le-héros
+      et le Narrateur qui offre des choix de pages où se rendrent ensuite. Réussirez-vous à aller au bout de l'aventure sans revenir en arrière ?</blockquote>
+      <blockquote><strong>Le dernier café sur la gauche</strong> est un court jeu narratif dont la particularité est qu'il recommandé de ne <strong>pas</strong>
+      le lire entièrement avant de jouer, mais au fur et à mesure au cour de la partie.</blockquote>
+    </div>
+  </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Amères Victoires et Glorieuses Défaites</h2>
     <img class="uk-align-center" src="images/jdr/gdav.png" alt="Un crâne avec une couronne">
@@ -16,7 +37,7 @@ Tags: lang:fr, jdr
         <!--dt>Playtests</dt><dd>3</dd-->
       </dl>
       <ul>
-        <li><a href="https://chezsoi.org/lucas/blog/ameres-victoires-et-glorieuses-defaites.html">Article de présentation</a></li>
+        <li><a href="ameres-victoires-et-glorieuses-defaites.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/gdav/">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.1.1/gdav-v1.1.1.pdf">Version PDF</a></li>
       </ul>
@@ -36,7 +57,7 @@ Tags: lang:fr, jdr
         <!--dt>Playtests</dt><dd>1</dd-->
       </dl>
       <ul>
-        <li><a href="https://chezsoi.org/lucas/blog/la-tour-et-cheat-your-own-adventure.html">Article de présentation</a></li>
+        <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/latour/">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/latour-v2.0.0/latour-v2.0.0.pdf">Version PDF</a></li>
       </ul>
@@ -55,7 +76,7 @@ Tags: lang:fr, jdr
         <!--dt>Playtests</dt><dd>0</dd-->
       </dl>
       <ul>
-        <li><a href="https://chezsoi.org/lucas/blog/scavengers-anomalies-nauchoresques.html">Article de présentation</a></li>
+        <li><a href="scavengers-anomalies-nauchoresques.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/scavengers/">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf">Version PDF</a></li>
       </ul>
@@ -86,7 +107,7 @@ Tags: lang:fr, jdr
 
 ---
 
-Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables ici: <https://chezsoi.org/lucas/blog/tag/jdr.html>
+Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables ici: <tag/jdr.html>
 
 <style>
 h2 { text-align: center; }
