@@ -1,6 +1,6 @@
 Title: Dans la nuit longue et glacée
 Date: 2019-03-13 20:00
-Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, mecaniques-de-jeu, compte-rendu, opinion, gratuit, damien-rahyll-c, @Henri, @Matt, @ThomasC, @Loïc, jeux
+Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, mecaniques-de-jeu, variante, compte-rendu, opinion, gratuit, damien-rahyll-c, @Henri, @Matt, @ThomasC, @Loïc, jeux
 Slug: dans-la-nuit-longue-et-glacee
 ---
 
