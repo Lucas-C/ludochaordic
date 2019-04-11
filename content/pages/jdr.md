@@ -6,6 +6,48 @@ Tags: lang:fr, jdr
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">2200 : Le jugement des dieux</h2>
+    <img class="uk-align-center" src="images/jdr/tensei-inktober2017-crumbling-mask.jpg" alt="Un visage se décomposant">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Jeu complet en 2 pages</dd>
+        <dt>Pour</dt><dd>4 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>2h environ</dd>
+      </dl>
+      <ul>
+        <li><a href="https://lucas-c.github.io/jdr/">Version web</a></li>
+        <li><a href="images/jdr/2200_le_jugement_des_dieux.pdf">Version PDF</a></li>
+      </ul>
+      <blockquote>Dans ce jeu vous aller incarner un dieu, ancien ou moderne,
+      ayant la charge de statuer du sort des mortels décédés en cette année 2200.
+      Vous avez chacun vos propres critères pour juger des actions des hommes,
+      de leur karma et du destin de leur âme.
+      Il nécessite deux dés à 8 faces, quelques pions quelconques, et optionnellement un sablier.
+      </blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Genius Loci &amp; Plus de place en enfer</h2>
+    <img class="uk-align-center" src="images/jdr/genius-loci-pub.png" alt="Un petit pub">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction de 2 court jeux narratifs de Grant Howitt</dd>
+        <dt>Pour</dt><dd>3 à 5 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>2h-3h chacun</dd>
+      </dl>
+      <ul>
+        <li><a href="genie-domestique.html">Article de présentation de Genius Loci</a></li>
+        <li><a href="https://lucas-c.github.io/jdr/">Versions web</a></li>
+        <li><a href="images/jdr/genius-loci.pdf">Genius Loci (PDF)</a></li>
+        <li><a href="images/jdr/plus-de-place-en-enfer.pdf">Plus de place en enfer (PDF)</a></li>
+      </ul>
+      <blockquote>Dans <strong>Genius Loci</strong>, vous êtes un dieu mineur, un genius loci, dans un petit village calme du sud de l'Angleterre dans les années 60.</blockquote>
+      <blockquote><strong>Plus de place en enfer</strong> est un jdr de survie et d'horreur.
+      Dans ce jeu vous serez à la fois un joueur ET un meneur de jeu (MJ).
+      <strong>Ils sont là dehors pour nous choper, on doit s'échapper !</strong></blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Cheat Your Own Adventure &amp; Le dernier café sur la gauche</h2>
     <img class="uk-align-center" src="images/jdr/dice.png" alt="Une paire de dés">
     <div class="uk-thumbnail-caption">
@@ -16,6 +58,7 @@ Tags: lang:fr, jdr
       </dl>
       <ul>
         <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de présentation de CYOA</a></li>
+        <li><a href="ldcslg-et-l-ile-mysterieuse.html">Article de présentation du Dernier café sur la gauche</a></li>
         <li><a href="https://lucas-c.github.io/jdr/">Versions web</a></li>
         <li><a href="images/jdr/CheatYourOwnAdventure.pdf">Cheat Your Own Adventure (PDF)</a></li>
         <li><a href="images/jdr/LeDernierCaféSurLaGauche.pdf">Le dernier café sur la gauche (PDF)</a></li>

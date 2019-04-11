@@ -77,6 +77,8 @@ d6    | For your domain, you crave
 **5** | To be the scene of important events
 **6** | To embellish
 
+**EDIT [2019/04/11]:** une traduction en français est disponible dans [la section _jeux de rôle_ de ce blog](pages/jeux-de-role.html).
+
 <style>
 article img {
     margin: 1rem auto;
