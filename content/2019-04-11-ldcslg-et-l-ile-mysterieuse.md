@@ -17,7 +17,7 @@ mais de le découvrir au fur et mesure des 5 étapes qui le compose.
 
 Je crois que dans l'ensemble tout le monde a aimé ce jeu,
 son format bref et son twist central.
-Autour de la table, les avis divergaient un peu sur la mécanique des personnages tournant.
+Autour de la table, les avis divergeaient un peu sur la mécanique des personnages tournant.
 Certains l'ont trouvé un peu frustrante, d'autres ont apprécié l'occasion de jouer un rôle
 imposé et créé collectivement.
 
@@ -53,7 +53,7 @@ c'était au joueur face à celui qui explorait de décrire les lieux visités
 et de définir les obstacles auxquels nous faisions face.
 Ça s'est révélé très amusant, et petit à petit, de description inspirée en dialogue improvisé,
 nous avons esquissé la légende de la brigade B56,
-enrôlé le surviant Von Schtafen (avec feuille de PNJ improvisée) et empoisonné la tribu Nagasaki pour leur voler le trésor !
+enrôlé le survivant Von Schtafen (avec feuille de PNJ improvisée) et empoisonné la tribu Nagasaki pour leur voler le trésor !
 
 > J'ai essayé de soulever la jeep pour faire cric... mais ça a fait crac !
 
@@ -63,7 +63,7 @@ Notre score final, avec une relique, le trésor, 13 biomes découverts et tout l
 
 Si ce jeu est génial, il n'est pas pour autant exempt de défauts.
 Le texte regorge de fautes d'orthographe, et certains points de règles sont franchement flous.
-Par exemple, nous n'avons pas arrêté d'utiliser le terme « ressource » de manière ambigue,
+Par exemple, nous n'avons pas arrêté d'utiliser le terme « ressource » de manière ambiguë,
 tantôt de manière générique pour désigner toutes les « denrées récoltables » incluant eau & vivres,
 tantôt dans le sens spécifique employé dans les règles (mais jamais défini clairement).
 Nous avons aussi dû relire en milieu de partie la règle de récolte de « ressources » justement,
@@ -73,7 +73,7 @@ définissait aussi le maximum qui puisse être récolté... Pas simple.
 Voici un florilège de toutes les questions que nous nous sommes posés durant la partie :
 
 - est-ce qu'on ne peut pas essayer de récupérer de l'eau / des vivres en-dehors des lieux sans dangers & infrastructures ?
-- c'est pas un peu radical d'obtenir une condition dès qu'on râte un jet de récolte ?? (on ne l'a finalement pas appliqué)
+- c'est pas un peu radical d'obtenir une condition dès qu'on rate un jet de récolte ?? (on ne l'a finalement pas appliqué)
 - l'hélicoptère nous accompagne tout le temps ? Il peut se compacter façon Capsule Corp ? ![Capsule tirée de Dragon Ball](images/2019/04/dragonball-capsule.jpg)
 - avec l'hélicoptère, que se passe-t-il au bout de 6 cases si on ne peut pas se poser ?
 - est-ce que les objets & reliques prennent de la place dans le sac à dos ?
