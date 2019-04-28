@@ -15,6 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/PourLaScience-HS-LOrdredCacheDesNombres.jpg', 'description': "Pour la Science - Hors Série n°103 - L'ordre caché des nombres", 'date': '2019-04-28'},
     {'img_url': 'images/readings/dedale-1-doki.jpg', 'description': 'Dédale - Takamichi (manga)', 'date': '2019-03-29'},
     {'img_url': 'images/readings/spacetrawler.jpg', 'description': 'Spacetrawler - Christopher Baldwin (webcomic)', 'date': '2019-03-10'},
     {'img_url': 'images/readings/VilleVermine_t1.jpg', 'description': 'VilleVermine tome 1/2 - Julien Lambert (BD)', 'date': '2019-02-07'},

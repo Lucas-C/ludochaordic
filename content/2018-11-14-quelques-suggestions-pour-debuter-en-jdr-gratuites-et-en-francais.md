@@ -112,6 +112,14 @@ Des personnages dont les caractéristiques tiennent sur un coin de feuille, un s
 idéal pour une partie improvisée sur le pouce, mais nécessite une bonne expérience du MJ pour improviser l'histoire
 [JdRP](http://www.jdrp.fr/recherche/wushu.html) recense pas mal de ressources pour le jeu.
 
+**EDIT [2019/04/28]** : [Donjons & Châtons](http://troplongpaslu.fr/jeux-de-role-court/donjons-et-chatons-version-mini/)
+de Clément De Ruyter a l'air très prometeur également ! Et cette version Mini est très courte : 10 pages seulement.
+
+> un jeu de rôle traditionnel mêlant fantaisie, conte et post-apo animalier.
+> Dans cette version mini vous trouverez un tout petit système, quelques conseils de jeu et des pistes d’aventures !
+
+![Couverture de Donjons & Châtons](images/2018/11/donjons-et-chatons_mini-pdf.jpg)
+
 <style>
 article img { max-height: 20rem; }
 .imgs {
