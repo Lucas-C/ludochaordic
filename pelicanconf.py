@@ -15,6 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/irl-cover.jpg', 'description': 'In real life - Cory Doctorow & Jen Wang (BD)', 'date': '2019-05-03'},
     {'img_url': 'images/readings/PourLaScience-HS-LOrdredCacheDesNombres.jpg', 'description': "Pour la Science - Hors Série n°103 - L'ordre caché des nombres", 'date': '2019-04-28'},
     {'img_url': 'images/readings/dedale-1-doki.jpg', 'description': 'Dédale - Takamichi (manga)', 'date': '2019-03-29'},
     {'img_url': 'images/readings/spacetrawler.jpg', 'description': 'Spacetrawler - Christopher Baldwin (webcomic)', 'date': '2019-03-10'},
