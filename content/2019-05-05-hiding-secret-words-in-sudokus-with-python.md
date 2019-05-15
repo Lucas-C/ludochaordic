@@ -85,19 +85,19 @@ document.querySelectorAll('article img').forEach(img => img.title = img.alt)
 </script>
 
 <!--
-| |S| | |P| |M|R| |O|W|
-|-|-|-|-|-|-|-|-|-|-|-|-
-| | |W|L| |G|O| |I| | |P
-|U| | | |L| | |W| |A| |
-|I| |P| | | | |A| |R| |
-|S|L|A| |R| | |N| | |P|I
-|W| | | |I|P|S| | | | |
-|N| | |S| | | |G| |P| |
-| |P| |O| | | |S|L| | |A
-|G|A| | |U| |I|P| | |R|O
-|O| | |G| | |U| | |I|S|
-| | | | | | | | |M| | |W
-| |W|U| | | | | | |L|A|
+| |S| | |P| |M|R| |O|W| |
+|-|-|-|-|-|-|-|-|-|-|-|-|
+| | |W|L| |G|O| |I| | |P|
+|U| | | |L| | |W| |A| | |
+|I| |P| | | | |A| |R| | |
+|S|L|A| |R| | |N| | |P|I|
+|W| | | |I|P|S| | | | | |
+|N| | |S| | | |G| |P| | |
+| |P| |O| | | |S|L| | |A|
+|G|A| | |U| |I|P| | |R|O|
+|O| | |G| | |U| | |I|S| |
+| | | | | | | | |M| | |W|
+| |W|U| | | | | | |L|A| |
 
 <br>
 
