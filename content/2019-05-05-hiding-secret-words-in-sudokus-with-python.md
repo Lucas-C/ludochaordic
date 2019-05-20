@@ -13,7 +13,9 @@ would be revealed once solved.
 
 With this same goal, I had already once worked on an open-source JS
 [word search](https://en.wikipedia.org/wiki/Word_search) generator:
-<https://lucas-c.github.io/wordfind/>.
+<https://lucas-c.github.io/wordfind/>
+
+_(pour les francophones, vous trouverez quelques autres générateurs de jeux de lettres / chiffres dans [cet article sur linuxfr.org](https://linuxfr.org/news/generateurs-de-jeux-de-lettres-chiffres-libres))_
 
 This time I started crafting [Masyu](https://fr.wikipedia.org/wiki/Masyu) puzzles into letter shapes,
 but then I realized Sudokus would be a perfect pick, with digits replaced by letters !

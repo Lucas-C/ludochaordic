@@ -79,6 +79,8 @@ http://www.ryan-a.com/comics/roof.htm
 http://egypt.urnash.com/rita/comic/title/
 https://bookriot.com/2018/05/10/must-read-webcomics/
 
++ cf. notes/OnlineComicsToRead.md
+
 
 <style>
 article img { max-height: 20rem; }
