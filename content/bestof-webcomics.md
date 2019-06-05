@@ -61,9 +61,12 @@ Christopher Baldwin, en anglais, 2 saisons, la 1ère de 413 strips, la 2e en cou
 - au début rebuté par le ton trop loufoque
 + chaque page est un strip un peu indépendant, avec une chute
 
-[http://dreamspace.nfshost.com](Dreamspace) :
+[http://dreamspace.nfshost.com](Dreamspace) & https://www.drugsandwires.fail:
 + cyberpunk, dark, short
 + animated
++ représentatif : https://www.drugsandwires.fail/dnwcomic/guest-art-week-1-by-hari/
++ not the most passionnating story
+
 
 Idées de lectures:
 http://diggercomic.com/blog/2007/02/01/wombat1-gnorf/
