@@ -19,7 +19,7 @@ puis discuter les mécaniques de jeu et explorer quelques variantes possibles.
 
 ## Cœur de Donjon
 
-_Dungeon Heart_ est un jeu de rôle sans meneur pour max 4 joueurs, monopage recto-verso au format "flyer",
+_Dungeon Heart_ est un jeu de rôle sans meneur pour maximum 4 joueurs, monopage recto-verso au format "flyer",
 qui était le format thématique de la _Pamphlet Jam_, le petit concourt d'écriture de JdR où le jeu a été soumis.
 
 Le thème du jeu est très inspiré de celui du jeu vidéo [Dungeon Keeper](https://fr.wikipedia.org/wiki/Dungeon_Keeper_%28jeu_vid%C3%A9o%2C_1997%29) :
