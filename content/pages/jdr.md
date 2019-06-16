@@ -6,6 +6,24 @@ Tags: lang:fr, jdr
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Dungeon Hearts - Heroes & Spells</h2>
+    <img class="uk-align-center" src="images/2019/06/aggron_stonebreak_the_ogre_magi_by_halycon450.png" alt="Aggron Stonebreak The Ogre Magi">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction & extension d'un jeu en 2 pages</dd>
+        <dt>Pour</dt><dd>1 à 4 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>2h-4h environ</dd>
+      </dl>
+      <ul>
+        <li><a href="images/jdr/DungeonHeart_BW_v1.6_fr.pdf">Traduction française du jeu (PDF)</a></li>
+        <li>L'extension <em>Heroes &amp; Spells</em> en français : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/">web</a> - <a href="images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf">PDF</a></li>
+        <li>The expansion <em>Heroes &amp; Spells</em> in English : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html">web</a> - <a href="images/jdr/DungeonHeartHeroesAndSpells-v1.6-en.pdf">PDF</a></li>
+        <li><a href="dungeon-heart-heroes-and-spells.html">Article de présentation</a></li>
+      </ul>
+      <blockquote>Incarnez les gardiens d’un donjon défendant leur demeure contre de méchants aventuriers.</blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">2200 : Le jugement des dieux</h2>
     <img class="uk-align-center" src="images/jdr/tensei-inktober2017-crumbling-mask.jpg" alt="Un visage se décomposant">
     <div class="uk-thumbnail-caption">
@@ -15,7 +33,7 @@ Tags: lang:fr, jdr
         <dt>Durée</dt><dd>2h environ</dd>
       </dl>
       <ul>
-        <li><a href="https://lucas-c.github.io/jdr/">Version web</a></li>
+        <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/">Version web</a></li>
         <li><a href="images/jdr/2200_le_jugement_des_dieux.pdf">Version PDF</a></li>
       </ul>
       <blockquote>Dans ce jeu vous aller incarner un dieu, ancien ou moderne,
