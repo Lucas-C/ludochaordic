@@ -4,6 +4,8 @@ Tags: lang:fr, jdr
 
 > Quelques jeux, traductions et aides de jeu que j'ai écrit
 
+Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables [en cliquant ici](tag/jdr.html).
+
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Dungeon Hearts - Heroes & Spells</h2>
@@ -167,8 +169,6 @@ Tags: lang:fr, jdr
 </div>
 
 ---
-
-Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables ici: <tag/jdr.html>
 
 <style>
 h2 { text-align: center; }
