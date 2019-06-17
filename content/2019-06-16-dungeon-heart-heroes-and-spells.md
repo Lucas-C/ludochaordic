@@ -30,6 +30,14 @@ supprimer les types d'emplacement, mais permettre au Squelette de fournir un bon
 
 [![La table de jeu avec notre donjon en fin de partie](images/2019/06/IMG_20190608_204613.jpg)](images/2019/06/IMG_20190608_204613.jpg)
 
+Pour cette partie, notre donjon était une gigantesque tour de granite blanc,
+penchant dangereusement le long d'une falaise au-dessus de l'océan.
+Son coeur était un mot magique secret, qui pouvait être entendu dans la plus haute salle de la tour
+lorsque le vent s'y engouffrait.
+Elle contenait une horloge géante, un puit ouvert sur le vide, une bibliothèque labyrinthique,
+une fresque trompe-l'oeil sur une corniche, une chouette géante, de petits oiseaux blancs mangeurs d'hommes,
+une nuée intelligente de rats, un golem capable de sculpter ses semblables, un mage muet...
+
 Concernant l'extension _Heroes & Spells_, les joueurs l'ont bien apprécié mais il restait encore des réglages à faire :
 le mécanisme d'XP était trop lent, les duels de boss mal agencés, l'_Excavatrice_ trop puissante...
 Ces défauts sont désormais corrigés.
