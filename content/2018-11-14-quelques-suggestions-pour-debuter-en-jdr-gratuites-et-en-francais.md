@@ -120,6 +120,8 @@ de Clément De Ruyter a l'air très prometeur également ! Et cette version Mini
 
 ![Couverture de Donjons & Châtons](images/2018/11/donjons-et-chatons_mini-pdf.jpg)
 
+**EDIT [2019/06/24]** : je vous recommande cet article complémentaire, avec même des conseils pour les tous petits, [sur le blog de Matthieu Bé](https://www.cestpasdujdr.fr/jouer-aux-jeux-de-role-avec-des-enfants/)
+
 <style>
 article img { max-height: 20rem; }
 .imgs {
