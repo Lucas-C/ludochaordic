@@ -70,5 +70,5 @@ _Braquage à l'italienne_, _Inside Man_ ou encore _Reservoir Dogs_ !
 ![Illustration tirée du jeu en version originale](images/2019/07/daylight-robbery-the-professional.png)
 
 <style>
-li { list-style-type: '✔️ '; }
+article li { list-style-type: '✔️ '; }
 </style>
