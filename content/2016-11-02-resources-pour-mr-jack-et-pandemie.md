@@ -19,7 +19,7 @@ Nous avons tous deux également trouvé que le jeu avait beaucoup de points comm
 Je suis ensuite parti en quête de contenu additionnel créé par des fans sur le net.
 Voici donc quelques chouettes resources:
 
-- [tous les livres de règles en anglais sur le site de l'éditeur américain Z-Man](http://www.zmangames.com/downloadable-files.html).
+- [tous les livres de règles en anglais sur le site de l'éditeur américain Z-Man](https://www.zmangames.com/en/games/#/P).
 On peut notament y trouver 2 scénarios prometteurs, **Isolation** & **Government Shutdown**, que nous comptons tester bientôt.
 Il y a également toutes les règles de l'extension **On The Brink**, y compris la très intéressante règle du **BioTerroriste**.
 
@@ -29,15 +29,15 @@ Il y a également toutes les règles de l'extension **On The Brink**, y compris 
 
 - enfin, j'ai aussi trouvé sur le forum de BoardGameGeek [4 rôles supplémentaires très intéressants](//boardgamegeek.com/thread/382345/4-exciting-new-role-variants) imaginé par un fan :
 
-  * **Aide-soignant**: lorsque vous passez par une ville ne comportant qu'un seul cube, ce cube est retiré automatiquement.
-  Cet effet s'applique également aux villes adjacentes pour les maladies qui ont été guéries.
+    * **Aide-soignant**: lorsque vous passez par une ville ne comportant qu'un seul cube, ce cube est retiré automatiquement.
+    Cet effet s'applique également aux villes adjacentes pour les maladies qui ont été guéries.
 
-  * **Coordinateur** des transports: les actions "Traiter une maladie", "Construire une station de recherche", "Partage de connaissances", et "Vol charteur" peuvent être appliquées dans des villes adjacentes pour 1 action.
+    * **Coordinateur** des transports: les actions "Traiter une maladie", "Construire une station de recherche", "Partage de connaissances", et "Vol charteur" peuvent être appliquées dans des villes adjacentes pour 1 action.
 
-  * **Météorologiste**: à n'importe quel moment de votre tour, regardez les 3 cartes du dessus du paquet Infection. Ceci ne nécessite pas de dépenser d'action. Vous pouvez également regarder les 3 cartes du dessus du paquet de cartes Joueur pour 1 action.
+    * **Météorologiste**: à n'importe quel moment de votre tour, regardez les 3 cartes du dessus du paquet Infection. Ceci ne nécessite pas de dépenser d'action. Vous pouvez également regarder les 3 cartes du dessus du paquet de cartes Joueur pour 1 action.
 
-  * **Ingénieur**: échangez n'importe quelle carte de votre main avec celle du dessus de la défausse des cartes Joueur pour 1 action.
-  Note: vous ne pouvez pas récupérer une carte "Epidémie" ou "Evênement Spécial" ainsi.
+    * **Ingénieur**: échangez n'importe quelle carte de votre main avec celle du dessus de la défausse des cartes Joueur pour 1 action.
+    Note: vous ne pouvez pas récupérer une carte "Epidémie" ou "Evênement Spécial" ainsi.
 
 ---
 
