@@ -32,18 +32,18 @@ espérant que ce code soit inscrit au dos... Je lui dit que c'est peu probable e
 Il choisit ⚃ et lance le dé... et c'est une réussite !
 
 Un peu plus tard, le joueur ayant récupéré le butin du casse, une disquette,
-se retrouve aggripé à la portière ouverte d'une jeep conduite par un autre PJ, qui le braque de son flingue !
-Plutôt que de lui livrer la disquette sous la menace, il prefère lâcher la portière,
-fait un roulé-boulé puis decide de changer de stratégie de fuite : il sprinte vers un hélicoptère en vol stationnel
+se retrouve agrippé à la portière ouverte d'une jeep conduite par un autre PJ, qui le braque de son flingue !
+Plutôt que de lui livrer la disquette sous la menace, il préfère lâcher la portière,
+fait un roulé-boulé puis décide de changer de stratégie de fuite : il sprinte vers un hélicoptère en vol stationnaire
 à proximité, prend appui sur un véhicule renversé et saute dessus !
 
 ![La couverture de la BD XII - El Cascador](images/2019/07/xiii-el-cascador.jpg)
 
-En-dehors des mécaniques PbTA bien huilées, parmis les petites mécaniques de jeu originales que comporte les règles,
+En-dehors des mécaniques PbTA bien huilées, parmi les petites mécaniques de jeu originales que comporte les règles,
 j'ai beaucoup aimé :
 
 - le choix des entrées subtiles / remarquées
-- les zones d'actions emboitées comme des poupées russes
+- les zones d'actions emboîtées comme des poupées russes
 - le scénario en total impro mais en 3 grands temps forts, associés à des horloges mesurant la Tension qui monte
 
 Les joueurs, dans l'ensemble plutôt novices de ce type de système, se sont sentis un peu perdu

@@ -47,24 +47,27 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Genius Loci &amp; Plus de place en enfer</h2>
+    <h2 class="uk-text-bold uk-text-primary">Genius Loci &amp; Plus de place en enfer &amp; Ce n'est pas une place d'honneur</h2>
     <img class="uk-align-center" src="images/jdr/genius-loci-pub.png" alt="Un petit pub">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
-        <dt>Genre</dt><dd>Traduction de 2 court jeux narratifs de Grant Howitt</dd>
+        <dt>Genre</dt><dd>Traduction de 3 court jeux narratifs de Grant Howitt</dd>
         <dt>Pour</dt><dd>3 à 5 joueurs, sans MJ</dd>
-        <dt>Durée</dt><dd>2h-3h chacun</dd>
+        <dt>Durée</dt><dd>2h à 4h chacun</dd>
       </dl>
       <ul>
         <li><a href="genie-domestique.html">Article de présentation de Genius Loci</a></li>
-        <li><a href="https://lucas-c.github.io/jdr/">Versions web</a></li>
-        <li><a href="images/jdr/genius-loci.pdf">Genius Loci (PDF)</a></li>
+        <li><a href="https://lucas-c.github.io/jdr/">Versions web de chaque jeu</a></li>
+        <li><a href="images/jdr/genius-loci.pdf">Genius Loci (PDF) en français</a></li>
         <li><a href="images/jdr/plus-de-place-en-enfer.pdf">Plus de place en enfer (PDF)</a></li>
+        <li><a href="https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.2/ce-nest-pas-une-place-dhonneur-v1.2.pdf">Ce n'est pas une place d'honneur (PDF)</a></li>
       </ul>
       <blockquote>Dans <strong>Genius Loci</strong>, vous êtes un dieu mineur, un genius loci, dans un petit village calme du sud de l'Angleterre dans les années 60.</blockquote>
       <blockquote><strong>Plus de place en enfer</strong> est un jdr de survie et d'horreur.
       Dans ce jeu vous serez à la fois un joueur ET un meneur de jeu (MJ).
       <strong>Ils sont là dehors pour nous choper, on doit s'échapper !</strong></blockquote>
+      <blockquote>Dans <strong>Ce n'est pas une place d'honneur</strong>, incarnez des pélerins dévoués à la recherche des reliques d'anciens dieux
+      ET les humains terrifiés qui deviendront ces divinités alors qu'ils s'écrasent à bord d'un vaisseau-colonie sur une planète inconnue.</blockquote>
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
