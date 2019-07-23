@@ -17,7 +17,7 @@ et que c'est déjà la troisième, je vais vous les présenter rapidement ici.
 
 ![Dessin d'un pub tiré du jeu Genius Loci](images/2019/07/genius-loci-pub.png)
 
-> Dans **Genius Loci**, vous êtes un dieu mineur, un genius loci, dans un petit village calme du sud de l'Angleterre dans les années 60.
+> Dans **Genius Loci**, vous êtes un dieu mineur, un _genius loci_, dans un petit village calme du sud de l'Angleterre dans les années 60.
 
 - [Version originale sur Rowan, Rook & Deckard](https://rowanrookanddecard.com/game-system/genius-loci/)
 - [Version web en français](https://lucas-c.github.io/jdr/genius-loci/)
@@ -31,7 +31,7 @@ et que c'est déjà la troisième, je vais vous les présenter rapidement ici.
 - [Version web en français](https://lucas-c.github.io/jdr/plus-de-place-en-enfer/)
 - [PDF en français](images/jdr/plus-de-place-en-enfer.pdf)
 
-> Dans **Ce n'est pas une place d'honneur**, incarnez des pélerins dévoués à la recherche des reliques d'anciens dieux
+> Dans **Ce n'est pas une place d'honneur**, incarnez des pèlerins dévoués à la recherche des reliques d'anciens dieux
 > ET les humains terrifiés qui deviendront ces divinités alors qu'ils s'écrasent à bord d'un vaisseau-colonie sur une planète inconnue.
 
 - [Version originale _This Is Not A Place Of Honour_ sur itch.io](https://gshowitt.itch.io/this-is-not-a-place-of-honour)

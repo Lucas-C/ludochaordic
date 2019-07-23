@@ -66,7 +66,7 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
       <blockquote><strong>Plus de place en enfer</strong> est un jdr de survie et d'horreur.
       Dans ce jeu vous serez à la fois un joueur ET un meneur de jeu (MJ).
       <strong>Ils sont là dehors pour nous choper, on doit s'échapper !</strong></blockquote>
-      <blockquote>Dans <strong>Ce n'est pas une place d'honneur</strong>, incarnez des pélerins dévoués à la recherche des reliques d'anciens dieux
+      <blockquote>Dans <strong>Ce n'est pas une place d'honneur</strong>, incarnez des pèlerins dévoués à la recherche des reliques d'anciens dieux
       ET les humains terrifiés qui deviendront ces divinités alors qu'ils s'écrasent à bord d'un vaisseau-colonie sur une planète inconnue.</blockquote>
     </div>
   </section>

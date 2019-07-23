@@ -1,6 +1,6 @@
 Title: Braquage en Plein Jour
 Date: 2019-07-19 20:00
-Tags: lang:fr, jdr, partie-jdr-hebdo, compte-rendu, playtest, opinion, gratuit, pbta, creative-commons, @Gulix, @Henri, @Loic, @Etienne, jeux
+Tags: lang:fr, jdr, partie-jdr-hebdo, compte-rendu, playtest, opinion, gratuit, pbta, creative-commons, twine, @Gulix, @Henri, @Loic, @Etienne, jeux
 Slug: braquage-en-plein-jour
 ---
 
@@ -9,7 +9,7 @@ Slug: braquage-en-plein-jour
 Mercredi j'ai eu l'occasion de tester ce très chouette jeu de rôle PbTA (_Powered by The Apocalypse_) avec 3 joueurs.
 
 Le jeu traduit en français par [Gulix](http://www.gulix.fr) est disponible gratuitement [sur DriveThruRPG](https://www.drivethrurpg.com/product/222945/Braquage-en-Plein-Jour),
-et j'ai trouvé la version originale en anglais d'Edwin Moriarty [dans ce post Reddit](https://www.reddit.com/r/PBtA/comments/5c34ag/freebies_from_a_fellow_redditor/),
+et j'ai trouvé la version originale _Daylight Robbery_ d'Edwin Moriarty [dans ce post Reddit](https://www.reddit.com/r/PBtA/comments/5c34ag/freebies_from_a_fellow_redditor/),
 dont je trouve la maquette et les illustrations quand même vachement plus réussies.
 
 Le jeu vous plonge directement dans l'action, alors qu'un petit groupe de braqueurs - que vous incarnez -
@@ -64,7 +64,7 @@ si un jour je refais une partie j'essaierai de prendre 20min au préalable pour 
 quelques lieux / pièces notables, au moins 1 PNJ notable et des obstacles / sous-objectifs connus des PJs,
 à leur exposer progressivement, pour qu'ils se creusent un peu les méninges à s'introduire de zone en zone.
 
-En tout cas dans l'ensemble je recommande chaudement le jeu pour une soirée inspiré de
+En tout cas dans l'ensemble je recommande chaudement le jeu pour une soirée inspirée de
 _Braquage à l'italienne_, _Inside Man_ ou encore _Reservoir Dogs_ !
 
 ![Illustration tirée du jeu en version originale](images/2019/07/daylight-robbery-the-professional.png)

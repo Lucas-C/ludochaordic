@@ -1,3 +1,5 @@
+invoke
+livereload
 pelican
 markdown
 beautifulsoup4

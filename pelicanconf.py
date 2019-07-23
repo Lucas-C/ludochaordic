@@ -79,6 +79,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
 
 PATH = './content'
+OUTPUT_PATH = './output'
 
 MARKDOWN = {
     'extension_configs': {
@@ -135,7 +136,7 @@ RELATIVE_URLS = True
 # Making output generation faster:
 TAG_SAVE_AS = ''
 FEED_ALL_ATOM = None
-STATIC_CHECK_IF_MODIFIED = True # pending pelican 3.8.0 release
-STATIC_CREATE_LINKS = True # pending pelican 3.8.0 release
+STATIC_CHECK_IF_MODIFIED = True # create links instead of copying files
+STATIC_CREATE_LINKS = True # compare mtimes of content and output files, and only copy content files that are newer than existing output files
 LOAD_CONTENT_CACHE = True
 CACHE_CONTENT = True
