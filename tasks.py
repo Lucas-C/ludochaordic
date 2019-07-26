@@ -13,7 +13,7 @@ SETTINGS = {}
 SETTINGS.update(DEFAULT_CONFIG)
 LOCAL_SETTINGS = get_settings_from_file(SETTINGS_FILE_BASE)
 SETTINGS.update(LOCAL_SETTINGS)
-SETTINGS.update(os.environ)
+SETTINGS.update(os.environ)  # useful to override OUTPUT_PATH with an env variable
 
 CONFIG = {
     'settings_base': SETTINGS_FILE_BASE,
