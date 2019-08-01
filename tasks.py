@@ -5,8 +5,18 @@ import shutil
 import sys
 
 from invoke import task
+from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
+
+from inspect import signature
+if len(signature(pelican_main).parameters) > 0:
+    # cf. https://github.com/getpelican/pelican/pull/2600
+    def pelican_run(c, cmd):
+        pelican_main(cmd.split(' '))
+else:
+    def pelican_run(c, cmd):
+        c.run('pelican ' + cmd)
 
 SETTINGS_FILE_BASE = 'pelicanconf.py'
 SETTINGS = {}
@@ -35,11 +45,11 @@ def clean(c):
 def build(c, only_src_paths=None):
     """Build local version of site"""
     # Insert -D in cmd for debugging:
-    cmd = 'pelican -s {settings_base} -o {deploy_path}'.format(**CONFIG)
+    cmd = '-s {settings_base} -o {deploy_path}'.format(**CONFIG)
     if only_src_paths:
         only_out_paths = [src2out(path) for path in only_src_paths]
         cmd += ' -w ' + ','.join(only_out_paths)
-    c.run(cmd)
+    pelican_run(c, cmd)
 
 def src2out(path):  # Sadly custom to my filename-to-slug naming convention, can hardly made generic
     return CONFIG['deploy_path'] + '/' + '-'.join(path.split('-')[3:]).replace('.md', '.html')
@@ -47,12 +57,12 @@ def src2out(path):  # Sadly custom to my filename-to-slug naming convention, can
 @task
 def rebuild(c):
     """`build` with the delete switch"""
-    c.run('pelican -d -s {settings_base}'.format(**CONFIG))
+    pelican_run(c, '-d -s {settings_base}'.format(**CONFIG))
 
 @task
 def regenerate(c):
     """Automatically regenerate site upon file modification"""
-    c.run('pelican -r -s {settings_base}'.format(**CONFIG))
+    pelican_run(c, '-r -s {settings_base}'.format(**CONFIG))
 
 @task
 def serve(c):
@@ -78,9 +88,9 @@ def reserve(c):
 @task
 def publish(c):
     """Build production version of site"""
-    c.run('pelican -s {settings_publish} -o {deploy_path}'.format(**CONFIG))
+    pelican_main('-s {settings_publish} -o {deploy_path}'.format(**CONFIG).split(' '))
     with open(CONFIG['deploy_path'] + '/tagcloud.html') as tagcloud_file:
-        tagcloud_lines = extract_lines_between(tagcloud_file.readlines(), '<ul class="mg-tagcloud">', '<\/ul>')
+        tagcloud_lines = extract_lines_between(tagcloud_file.readlines(), '<ul class="mg-tagcloud">', '</ul>')
     with open(CONFIG['deploy_path'] + '/pages/bienvenue.html', 'r+') as bienvenue_file:
         bienvenue_lines = insert_after_line(bienvenue_file.readlines(), '<!-- tagcloud -->', tagcloud_lines)
         bienvenue_file.seek(0)
@@ -95,7 +105,7 @@ def extract_lines_between(in_lines, start_line_content, end_line_content):
             inbetween = True
         if inbetween:
             out_lines.append(line)
-        if end_line_content in line:
+        if inbetween and end_line_content in line:
             break
     return out_lines
 
