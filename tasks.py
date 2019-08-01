@@ -9,13 +9,11 @@ from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
-from inspect import signature
-if len(signature(pelican_main).parameters) > 0:
+def pelican_run(c, cmd):
     # cf. https://github.com/getpelican/pelican/pull/2600
-    def pelican_run(c, cmd):
+    try:
         pelican_main(cmd.split(' '))
-else:
-    def pelican_run(c, cmd):
+    except TypeError:
         c.run('pelican ' + cmd)
 
 SETTINGS_FILE_BASE = 'pelicanconf.py'
@@ -88,7 +86,7 @@ def reserve(c):
 @task
 def publish(c):
     """Build production version of site"""
-    pelican_main('-s {settings_publish} -o {deploy_path}'.format(**CONFIG).split(' '))
+    pelican_run(c, '-s {settings_publish} -o {deploy_path}'.format(**CONFIG))
     with open(CONFIG['deploy_path'] + '/tagcloud.html') as tagcloud_file:
         tagcloud_lines = extract_lines_between(tagcloud_file.readlines(), '<ul class="mg-tagcloud">', '</ul>')
     with open(CONFIG['deploy_path'] + '/pages/bienvenue.html', 'r+') as bienvenue_file:
