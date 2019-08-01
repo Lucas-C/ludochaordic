@@ -40,36 +40,9 @@ def build(c, only_src_paths=None):
         only_out_paths = [src2out(path) for path in only_src_paths]
         cmd += ' -w ' + ','.join(only_out_paths)
     c.run(cmd)
-    with open(CONFIG['deploy_path'] + '/tagcloud.html') as tagcloud_file:
-        tagcloud_lines = extract_lines_between(tagcloud_file.readlines(), '<ul class="mg-tagcloud">', '<\/ul>')
-    with open(CONFIG['deploy_path'] + '/pages/bienvenue.html', 'r+') as bienvenue_file:
-        bienvenue_lines = insert_after_line(bienvenue_file.readlines(), '<!-- tagcloud -->', tagcloud_lines)
-        bienvenue_file.seek(0)
-        bienvenue_file.write(''.join(bienvenue_lines))
-        bienvenue_file.truncate()
 
 def src2out(path):  # Sadly custom to my filename-to-slug naming convention, can hardly made generic
     return CONFIG['deploy_path'] + '/' + '-'.join(path.split('-')[3:]).replace('.md', '.html')
-
-def extract_lines_between(in_lines, start_line_content, end_line_content):
-    out_lines = []
-    inbetween = False
-    for line in in_lines:
-        if start_line_content in line:
-            inbetween = True
-        if inbetween:
-            out_lines.append(line)
-        if end_line_content in line:
-            break
-    return out_lines
-
-def insert_after_line(in_lines, target_line_content, add_lines):
-    out_lines = []
-    for line in in_lines:
-        out_lines.append(line)
-        if target_line_content in line:
-            out_lines.extend(add_lines)
-    return out_lines
 
 @task
 def rebuild(c):
@@ -103,9 +76,36 @@ def reserve(c):
     serve(c)
 
 @task
-def preview(c):
+def publish(c):
     """Build production version of site"""
-    c.run('pelican -s {settings_publish}'.format(**CONFIG))
+    c.run('pelican -s {settings_publish} -o {deploy_path}'.format(**CONFIG))
+    with open(CONFIG['deploy_path'] + '/tagcloud.html') as tagcloud_file:
+        tagcloud_lines = extract_lines_between(tagcloud_file.readlines(), '<ul class="mg-tagcloud">', '<\/ul>')
+    with open(CONFIG['deploy_path'] + '/pages/bienvenue.html', 'r+') as bienvenue_file:
+        bienvenue_lines = insert_after_line(bienvenue_file.readlines(), '<!-- tagcloud -->', tagcloud_lines)
+        bienvenue_file.seek(0)
+        bienvenue_file.write(''.join(bienvenue_lines))
+        bienvenue_file.truncate()
+
+def extract_lines_between(in_lines, start_line_content, end_line_content):
+    out_lines = []
+    inbetween = False
+    for line in in_lines:
+        if start_line_content in line:
+            inbetween = True
+        if inbetween:
+            out_lines.append(line)
+        if end_line_content in line:
+            break
+    return out_lines
+
+def insert_after_line(in_lines, target_line_content, add_lines):
+    out_lines = []
+    for line in in_lines:
+        out_lines.append(line)
+        if target_line_content in line:
+            out_lines.extend(add_lines)
+    return out_lines
 
 @task
 def livereload(c):
