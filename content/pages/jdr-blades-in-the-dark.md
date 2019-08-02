@@ -7,11 +7,11 @@ Status: hidden
 ![Illustration officielle de Blades in the Dark](images/bitd/BitD_cover.jpg)
 
 ## Session 1 - août 2017
-Pour le résumé de la première partie, se réferrer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
+Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
 
 
 ## Session 2 - décembre 2017
-Cette fois, j'ai le vrai manuel de jeu trouvé à Amsterdam ! C'est l'occasion de _retcon_ quelques élaments de l'univers pour mieux y coller.
+Cette fois, j'ai le vrai manuel de jeu trouvé à Amsterdam ! C'est l'occasion de _retcon_ quelques éléments de l'univers pour mieux y coller.
 Présentation également de la [feuille de perso sur rpg-bonhomme](https://chezsoi.org/lucas/jdr/rpg-bonhomme/?layout=BladesInTheDark).
 
 ### Questionnaire aux joueurs pour se synchroniser sur les attentes / envies de tout le monde
@@ -41,18 +41,18 @@ _→ **3/3** ok_
 ### Compte-rendu de partie
 <img alt="le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
 
-- le gang des PJs découvrent une page du logbook tachée de sang dans les affaires de Stravul
+- le gang des PJs découvrent une page du _logbook_ tachée de sang dans les affaires de Stravul
 - Ethnos envisage de remplacer Ludius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
 mais Elaria refuse tout en bloc : pas question de remplacer leur _leader_, il faut le sauver !
 - le gang s'organise pour se venger du gang de l'Oeil Blanc : ils décident tout d'abord de balancer aux _Bluecoats_, via leur contact **Conway**, leur bordel installé dans un poste de garde de la milice
 - Eleria rend visite à **Grell Jayan**, où elle peut enfin avoir une entrevue avec Ludius, en piteux état
 - le gang des PJs organise une descente dans un point de revente de drogue de l'Oeil Blanc, au sous-sol d'un hôtel.
 Tout se passe très bien et ils éliminent un des lieutenants de leur gang: **Pickett**
-- nouvelle visite à Jayan, où les PJs établissent un deal : contre l'autorisation de faire une copie du logbook,
-il va organiser une cérémonie pour désenvouter Ludius. Le gang doit toutefois trouver un tatoueur d'ici demain soir, pour participer au rituel
+- nouvelle visite à Jayan, où les PJs établissent un deal : contre l'autorisation de faire une copie du _logbook_,
+il va organiser une cérémonie pour désenvoûter Ludius. Le gang doit toutefois trouver un tatoueur d'ici demain soir, pour participer au rituel
 
-### Eléments de l'univers établis durant la partie
-- la soeur de Ludius, **Justinia**, était en voyage et rentre demain
+### Éléments de l'univers établis durant la partie
+- la sœur de Ludius, **Justinia**, était en voyage et rentre demain
 - les _physickers_ consomment des potions d'alchimiste pour modifier leur corps
 - gang **Oeil Blanc** == **Lampbacks** dans le bouquin VO
 - le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence, et déjà le gang de l'Oeil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
@@ -64,7 +64,7 @@ cf. <https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html>
 
 ## Session 3 - février 2018
 
-### Resources
+### Ressources
 - [Pinterest board of characters](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-characters/)
 - [Pinterest board of places](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/)
 
@@ -73,29 +73,28 @@ Note: il y en a [plein d'autres](https://www.pinterest.fr/search/boards/?q=blade
 ### Compte-rendu de partie
 
 - un émissaire apporte une proposition de **Baszos Baz**, le chef du gang de l'Oeil Blanc,
-les conviant ce soir dans leur QG, une usine de charbon, pour mettre leurs différents de côté et ralier son camp
+les conviant ce soir dans leur QG, une usine de charbon, pour mettre leurs différents de côté et rallier son camp
 dans la guerre de gangs qui se prépare
 - les PJs aperçoivent également la fumée d'un incendie plus loin en ville.
 Ils décident de s'y rendre tous les 3, et découvrent qu'il s'agit d'étals auxquels on a mis feu
-sur une place de marché du territoire des Crows, mais tout proche de l'école de l'Echarpe Rouge
-- Elorna et Eric font le tour de la place pour essayer de retrouver qui aurait pu provoquer cet incendie,
-et repèrent un duel discret qui a lieu en haut d'un échaffaudage
+sur une place de marché du territoire des Crows, mais tout proche de l'école de l’écharpe Rouge
+- Elaria et Eric font le tour de la place pour essayer de retrouver qui aurait pu provoquer cet incendie,
+et repèrent un duel discret qui a lieu en haut d'un échafaudage
 - ils interviennent, et une course poursuite s'engage : un des deux opposants, costaud et vêtu de gris, un long bâton à la main,
-tombe de l'échaffaudage et est poursuivi par son advesaire, un combattant armé d'un sabre iruvien,
+tombe de l’échafaudage et est poursuivi par son adversaire, un combattant armé d'un sabre iruvien,
 avec une longue tresse de cheveux noirs et une écharpe rouge.
-Eric les poursuit jusqu'à s'engoufrer dans un dédale de ruelles.
-- Elorna elle, examine l'échaffaudage pour tenter d'en savoir plus sur ce qu'il s'y tramait.
-Elle découvre un couteau de lancer gravé d'une plume, et en déduit que le second laron est du gang des Crows.
+Eric les poursuit jusqu'à s'engouffrer dans un dédale de ruelles.
+- Elaria elle, examine l'échafaudage pour tenter d'en savoir plus sur ce qu'il s'y tramait.
+Elle découvre un couteau de lancer gravé d'une plume, et en déduit que le second larron est du gang des Crows.
 Elle décide donc de se rendre directement à la tour d'horloge qui leur sert de QG.
 - pendant ce temps, le course poursuite continue. Ethnos qui a observé la scène à distance, décide de prêter main forte
 à l'homme au bâton poursuivi. Il se joint à sa course, s'arrange pour faire tomber des étals dans les rues derrière eux
-et lance une poignée de piècettes pour attirer des gamins et mendiants, afin de bloquer la rue derrière eux.
+et lance une poignée de piécettes pour attirer des gamins et mendiants, afin de bloquer la rue derrière eux.
 - derrière, Eric tente de savoir qui est l'iruvien au sabre en l'apostrophant dans leur course poursuite.
-Celui-ci, juste devant, ne daigne pas répondre et tente de se débarasser d'Eric en lui jetant du sable aux yeux
+Celui-ci, juste devant, ne daigne pas répondre et tente de se débarrasser d'Eric en lui jetant du sable aux yeux
 et en coupant le manche de son marteau de guerre dans un magnifique saut acrobatique.
-- cela ne fait qu'énerver Eric, qui le charge à tout allure quelques mêtres plus loin,
-lui arrachant son écharpe.
-mains nues, qui décide de s'enfuir
+- cela ne fait qu'énerver Eric, qui le charge à tout allure quelques mètres plus loin,
+lui arrachant son écharpe à mains nues, puis finalement décide de s'enfuir.
 Cela rend l'iruvien furieux. Sabre à la main, il se met en position de duel pour régler son compte à Eric,
 désarmé, décide de s'enfuir dans le dédale de rues pour regagner la place du marché
 
@@ -104,16 +103,16 @@ désarmé, décide de s'enfuir dans le dédale de rues pour regagner la place du
 - quelques rues plus loin, l'homme du gang des Crows remercie Ethnos de lui avoir prêté main forte.
 Adossé à un mur, l'épaule amochée par sa chute, il lui explique que les marchants iruviens n'ont eu que ce qu'ils méritaient :
 Roric à peine mort, ils en profitaient déjà pour venir occuper plus de places sur la marché que les Crows ne leur autorisent,
-incités et protégés par le gang de l'Echarpe Rouge.
+incités et protégés par le gang de l’Écharpe Rouge.
 Au moment de se séparer, l'homme lui révèle s'appeler **Milos**
 - sur le place du marché, Eric se précipite vers la milice en prétendant être un pauvre forgeron qui vient de se faire agresser.
 L'iruvien sur ses traces préfère renoncer, mais la garde suspicieuse questionne Eric pour finalement l'embarquer avec eux à leur poste.
-- de son côté, Elorna est accueillie à la tour de l'horloge des Crows par **Bell**, l'un des anciens lieutenant de Roric.
-Elorna lui affirme le soutien du gang du Harpon dans le contexte actuel, et tente d'en savoir plus sur la mort de Roric,
+- de son côté, Elaria est accueillie à la tour de l'horloge des Crows par **Bell**, l'un des anciens lieutenant de Roric.
+Elaria lui affirme le soutien du gang du Harpon dans le contexte actuel, et tente d'en savoir plus sur la mort de Roric,
 mais n'en apprend pas beaucoup plus : son corps a sombré dans un canal, et **Lyssa** prétend qu'il s'agit d'un accident.
 Quand elle aborde la question des étals incendiés du marché, Bell lui explique quand ces temps difficiles,
 le gang des Crows a décidé de ne laisser passer aucune provocation d'aucun gang adverse.
-En toute transparence, Elorna informe également Bell que Baszos leur a proposé une alliance, mais qu'ils ne comptent pas l'accepter.
+En toute transparence, Elaria informe également Bell que Baszos leur a proposé une alliance, mais qu'ils ne comptent pas l'accepter.
 Elle quitte ensuite les lieux pour retourner au galion.
 
 <figure role="group">
@@ -131,20 +130,20 @@ Elle quitte ensuite les lieux pour retourner au galion.
 
 - une fois arrivée, elle retrouve Ethnos qui lui apprend la mésaventure d'Eric.
 Elle éclate alors de rage face à la situation du gang qui devient de plus en plus désastreuse.
-- c'est alors que Justinia, la soeur de Ludius, se présente à l'entrée du repaire.
-Elorna l'accueille et lui résume les derniers évênements.
+- c'est alors que Justinia, la sœur de Ludius, se présente à l'entrée du repaire.
+Elaria l'accueille et lui résume les derniers événements.
 Justinia, furieuse et inquiète, se rend immédiatement chez Grell Jayan
-- Elorna décide de noyer sa colère personnelle dans l'alcool, et se rend au match de lutte auquel participe Melvir.
-Ethnos, après avoir apris d'un gamin des rues qu'il avait fait suivre Eric où ce dernier est désormais enfermé,
-retrouver Elorna et la convainc d'aller le délivrer ce soir. Ils envoient un messager à Baszos pour reporter leur rencontre.
+- Elaria décide de noyer sa colère personnelle dans l'alcool, et se rend au match de lutte auquel participe Melvir.
+Ethnos, après avoir appris d'un gamin des rues qu'il avait fait suivre Eric où ce dernier est désormais enfermé,
+retrouver Elaria et la convainc d'aller le délivrer ce soir. Ils envoient un messager à Baszos pour reporter leur rencontre.
 - Eric de son côté, est enfermé dans une petite caserne de la milice située dans une ancienne chapelle.
-Ethnos et Elorna décident de s'y introduirent par les égoûts, répugnants et malodorants,
+Ethnos et Elaria décident de s'y introduire par les égouts, répugnants et malodorants,
 tandis que des mendiants font diversion à la porte de la caserne pour occuper une partie gardes.
 Il réussissent tous deux à se faufiler par le soupirail de la petite cours de la caserne puis de rejoindre le bâtiment principal.
-C'est à ce moment qu'un _bluecoat_ se décide à sortir, et il ne s'en faut que d'un cheveux, et d'un plongé en piqué d'Elorna,
+C'est à ce moment qu'un _bluecoat_ se décide à sortir, et il ne s'en faut que d'un cheveux, et d'un plongé en piqué d'Elaria,
 le couteau à la main, sur le malheureux garde, pour qu'ils ne se fassent repérer.
-- une fois à l'interieur, ils éliminent discrètement un autre garde, récupèrent les clefs des geôles et libèrent prestement
-Eric et 4 autres prisonniers, dont un marchant ilurien et un grand gaillard taciturne.
+- une fois à l’intérieur, ils éliminent discrètement un autre garde, récupèrent les clefs des geôles et libèrent prestement
+Eric et 4 autres prisonniers, dont un marchant iruvien et un grand gaillard taciturne.
 Ce dernier se révèle très combatif dans la bagarre qui s'engage ensuite à l'étage, dans le dortoirs,
 par où le gang s'échappe en passant par les toits.
 Au final, l'opération est une réussite, et Eric a même pu récupérer au passage ses affaires, l'écharpe rouge volé à son adversaire un peu plus tôt,
@@ -176,12 +175,12 @@ comme paye et comme composant au rituel
 et apprennent que l'un d'eux est actuellement en cours de déchargement et d'entretien aux chantiers navals.
 D'après la rumeur, des fantômes auraient semé la panique sur place la nuit précédente
 et de nombreux ouvriers refusent de reprendre le travail.
-- les PJs décident donc de se faire embaucher sur place comme main d'oeuvre à midi
+- les PJs décident donc de se faire embaucher sur place comme main d’œuvre à midi
 et, une fois un entretien d'embauche expéditif passé, sont envoyé transporter des barriques de sang de léviathan,
 laver les abattoirs ou encore nettoyer une zone couverte de sang le long du canal souterrain servant de système de refroidissement.
 Pour cette dernière tâche, Ethnos se retrouve à laver des giclées de sang répandues sur plusieurs mètres,
-jonchés à plusieurs endroits de membres humains découpés. De son côté, Eric en apprend plus sur les évênements du soir précédent :
-un ouvrier manoeuvre, Joerg, s'est fait poursuivre par un fantôme ivre de rage criant à la trahison,
+jonchés à plusieurs endroits de membres humains découpés. De son côté, Eric en apprend plus sur les événements du soir précédent :
+un ouvrier manœuvre, Joerg, s'est fait poursuivre par un fantôme ivre de rage criant à la trahison,
 qui a massacré tout le monde sur son passage
 
 <figure role="group">
@@ -193,10 +192,10 @@ qui a massacré tout le monde sur son passage
 
 - en fin d'après-midi, à la pause, les PJs se retrouvent pour mettre en commun leurs infos, établir un plan
 et envoyer un message à Aldo & Melvir stationnés en barque à quelques encablures par l'intermédiaire de la buse d'Ethnos.
-Un peu plus tard, Elorna se charge de déclencher un incendie dans les abattoirs pour faire office de diversion,
+Un peu plus tard, Elaria se charge de déclencher un incendie dans les abattoirs pour faire office de diversion,
 tandis qu'Eric déclenche encore plus la panique en criant au retour du fantôme. Il s'éclipse alors en courant avec un tonnelet
 vers l'eau du port dans laquelle il plonge, avant de se saisir d'une barque et de s'enfuir en simulant toujours la panique.
-- de son côté Ethnos substitue un tonnelet de sang par un tonnelet vide et plong avec lui, mousquet au poing, dans le canal glacé souterrain.
+- de son côté Ethnos substitue un tonnelet de sang par un tonnelet vide et plonge avec lui, mousquet au poing, dans le canal glacé souterrain.
 Après avoir manqué de se noyer, il finit par émerger au bout du tunnel, là où l'eau se jette dans le port et où une grille s'élève,
 heureusement déjà découpée à la scie par Aldo pour laisser s'enfuir Ethnos
 - les PJs terminent donc cette opération d'extraction sans encombre, avec deux tonnelets de sang de Léviathan récoltés
@@ -204,7 +203,7 @@ heureusement déjà découpée à la scie par Aldo pour laisser s'enfuir Ethnos
 #### Acte 2 - Un rituel qui tourne mal
 - les PJs assistent au rituel de Grell Jayan pour réincorporer l'âme de Ludius,
 en cercle dans sa demeure, aux côtés de Justinia, Melvir, Aldo et quelques disciples de Grell,
-éclairés à la lumière de flambeaux dansants tandis que le tatoueur termine d'inscire un complexe motif sur la peau de leur chef
+éclairés à la lumière de flambeaux dansants tandis que le tatoueur termine d'inscrire un complexe motif sur la peau de leur chef
 - alors que Grell conclue une longue psalmodie, les tatouages se mettent à onduler sur le corps de Ludius qui tremble.
 Le tatoueur s'éclipse et Justinia s'approche aux côtés de se frère qui semble de réveiller lentement.
 - soudain, des coups sont frappés à la porte à l'étage. Un des disciples de Grell Jayan va ouvrir
@@ -213,14 +212,14 @@ et on entend distinctement le bruit d'une lame déchirant les chairs et d'un cor
 Rapidement maîtrisé - et l'escalier détruit au passage au marteau de guerre - il se révèle être Brandon Grimes, que décapite alors Eric.
 - plusieurs détonations se font alors entendre, et une demi-douzaine de larges trous apparaissent dans le plafond de bois de la pièce,
 à travers lesquels l'assemblée est canardée. Tout le monde se met à couvert, Ethnos réplique à coups de tirs de mousquet,
-Eric lance son marteau à travers le plafond pour faire tomber leurs assaillant et Elorna monte à l'étage en quelques bonds acrobatiques.
+Eric lance son marteau à travers le plafond pour faire tomber leurs assaillant et Elaria monte à l'étage en quelques bonds acrobatiques.
 Elle découvre alors un groupe hétéroclite d'hommes en costume de corsaire, tricorne sur la tête et fusil à la main,
-associés à des assassins en tenue noire et armés de lames qui se révêleront être du gang des **Crows**.
-Au centre, dirigeant la manoeuvre, **Drav Walund**.
+associés à des assassins en tenue noire et armés de lames qui se révéleront être du gang des **Crows**.
+Au centre, dirigeant la manœuvre, **Drav Walund**.
 - s'ensuit alors une bataille générale au terme de laquelle Drav est éliminé par les PJs.
 Grell Jayan s'entoure d'un mur de flammes en murmurant quelque puissant sortilège,
 tandis qu'au niveau le plus bas de sa demeure, accessible en bateau, Eric découvre que **Lyssa** s'est introduit avec ses hommes.
-Elle élimine le tatoueur qui tentait de s'enfuir, et alors que son corps tombre à l'eau avec le tonnelet de sang de Léviathan ouvert,
+Elle élimine le tatoueur qui tentait de s'enfuir, et alors que son corps tombe à l'eau avec le tonnelet de sang de Léviathan ouvert,
 **le fantôme de Roric** surgit de l'eau bouillonnante en hurlant "Vengeance !"
 - repoussé par une amulette de Lyssa, il s'élève à l'étage, où Grell tente de le contrôler.
 Ethnos lui tire finalement dessus avec ses munitions ectoplasmiques.
@@ -229,17 +228,43 @@ Blessé, en partie exorcisé, le fantôme se jette sur Ethnos et Ludius tout pro
 Puis tout bascule, et leur conscience change de corps !
 - le corps d'Ethnos, possédé par Roric, se relève, saisit deux épées et bondit à travers deux étages pour charger Lyssa en hurlant.
 A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de lui rendre son corps.
-- Ethnos réussit finalement à excorciser Roric de son corps. Lyssa et ses hommes de replient, et le gang du Harpon fait de même
+- Ethnos réussit finalement à exorciser Roric de son corps. Lyssa et ses hommes de replient, et le gang du Harpon fait de même
 
-## Session 5
+## Session 5 - 1er août 2019
 
 <figure>
   <img alt="Ethnos" src="images/bitd/Ethnos.jpg">
   <figcaption>Le personnage d'Ethnos par Elliot Jolivet aka Tenseï</figcaption>
 </figure>
 
-http://www.publicdomainfiles.com/show_file.php?id=13932097217314
+- la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec Aldo, Justinia et Melvir, mais aussi Grell Jayan blessé au ventre et le corps inanimé d'Ethnos
 
+- Ethnos, dans le corps de Ludius recouvert d'étranges tatouages mouvants, entrepose son corps originel au milieu de sacs de sel, et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe. Elle finit par sortir, furieuse, en claquant la porte
+
+- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ; Ethnos étudie des grimoires dans le bureau - bibliothèque de Ludius pour trouver un moyen e retrouver son corps ; Elaria dépouille **Toni les deux saucisses**, un boucher de Beef Market, de sa recette hebdomadaire, avec d'une mendiante qui l'a mise sur le coup
+
+- au petit matin, le gang fait le point sur la situation. Ethnos révèle au groupe qu'il est bien malgré lui désormais dans le corps de Ludius. Il est convenu qu'il joue son rôle tant qu'une solution n'est pas trouvée pour qu'il réintègre le sien
+
+- après quelques discussions, un plan émerge : le gang du Harpon va approcher celui de l'Écharpe Rouge et conclure un deal avec Bell pour se partager la portion du territoire Crows de Lyssa et l'évincer. Tandis qu'Elaria & Ethnos-Ludius se rendent à l'école de l'Écharpe Rouge, Eric va repérer les lieux au niveau du lupanar où Lyssa a établi son quartier général. En effet, son activité principal au sein du gang Crows étant le racket et la gestion de bordel, tandis que Bell s'occupe surtout du trafic d'armes.
+
+> Eh, ya plein de fois où j'ai tabassé personne ! - Eric
+
+- les autres membres du gang ont également de quoi s'occuper : Melvir garde la baraque et veille sur le corps d'Ethnos; Aldo fait courir le bruit auprès de ses anciens frères d'arme chez les Crows que Rorik est revenu d'entre les morts punir la traîtresse Lyssa et quel le gang du Harpon soutient Bell; Justinia contacte les fidèles de Grell Jayan ayant survécu pour le leur confier, et a fini par céder et accepter de rencontrer Conway pour un rencard à contre-cœur...
+
+- après avoir fait parvenir un message à l'Écharpe Rouge annonçant leur intention de leur rendre visite en apportant un cadeau, Ethnos-Ludius et Elaria se rendent à leur école centrale. Ils y sont reçu avec faste, et invités à déjeuner autour d'un banquet raffiné en compagnie de leur chef **Mylera Klev** et d'un de ses lieutenants les plus anciens, **Oru**. Le gang du harpon leur remet l'équivalent d'un demi-tonnelet de sang de Léviathan, placé dans des fioles ornementées, et leur cadeau est très bien reçu. L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
+
+- de son côté Eric observe d'abord le lupanar depuis le bar d'en face, puis finalement retrouve une prostituée qu'il connaît et décide de s'adonner à son vice et d'aller y passer du bon temps avec elle... pour finalement se faire chasser par les videurs car il gêne les autres clients en faisant trop de bruit !
+
+- les PJs se retrouvent et se rendent ensuite ensemble à la tour de l'horloge, au centre du territoire des Crows, pour y rencontrer Bell. Cette fois la discussion se révèle tendue. Bell leur fait comprendre qu'il n'apprécie qu'ils aient débauché Aldo, et que les conflits internes au gang Crows ne regardent personne d'extérieur. Il finit par s'énerver quand les PJs évoquent l'idée de partager le territoire de Lyssa, et la rencontre se termine précipitamment
+
+- pour finir la journée, les PJs décident de profiter des repérages d'Eric et d'organiser une opération le soir même sur le lupanar de Lyssa. Eric profite de la complicité de la fille de joie qu'il connaît pour y introduire Elaria cachée dans un tonneau. Il provoque ensuite les gardes et les attire dans une ruelle où il les élimine rapidement avec l'aide d'Aldo et Melvir. L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyssa éliminés et Ethnos-Ludius faisant une entrée fracassante au milieu du bordel avec ses deux hachettes
+
+- soudain, une calèche et un chariot déboule dans la cour intérieure. Aussitôt qu'elle aperçoit Lyssa à l'intérieur, Elaria lui lance un couteau dans l’œil ! Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par la même occasion Bell qui était leur prisonnier, dans une explosion de flammes sous les yeux d'une foule de badauds éberlués
+
+<!-- Idées :
+  * ils reviennent à leur planque et détecte que quelqu'un leur a rendu visite
+  * corps Ethnos vulnérable à la possession par tout esprit de passage...
+-->
 
 <style>
 @media screen and (min-width: 1200px) {

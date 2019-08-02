@@ -21,7 +21,7 @@ SETTINGS = {}
 SETTINGS.update(DEFAULT_CONFIG)
 LOCAL_SETTINGS = get_settings_from_file(SETTINGS_FILE_BASE)
 SETTINGS.update(LOCAL_SETTINGS)
-SETTINGS.update(os.environ)  # useful to override OUTPUT_PATH with an env variable
+SETTINGS.update({k:v for k, v in os.environ.items() if k != 'PATH'} )  # useful to override OUTPUT_PATH with an env variable
 
 CONFIG = {
     'settings_base': SETTINGS_FILE_BASE,
@@ -50,7 +50,10 @@ def build(c, only_src_paths=None):
     pelican_run(c, cmd)
 
 def src2out(path):  # Sadly custom to my filename-to-slug naming convention, can hardly made generic
-    return CONFIG['deploy_path'] + '/' + '-'.join(path.split('-')[3:]).replace('.md', '.html')
+    filename = path.split('/', 2)[-1]
+    if filename.startswith('20'):
+        filename = '-'.join(filename.split('-')[3:])
+    return CONFIG['deploy_path'] + '/' + filename.replace('.md', '.html')
 
 @task
 def rebuild(c):
