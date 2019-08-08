@@ -264,6 +264,11 @@ A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de
 <!-- Idées :
   * ils reviennent à leur planque et détecte que quelqu'un leur a rendu visite
   * corps Ethnos vulnérable à la possession par tout esprit de passage...
+  * gimmicks pour chaque PNJ:
+    + renifle tout, les gens, les lieux
+    + obsedé par les croix
+    + adore la musique
+    + joue continuellement avec une pierre à aiguiser
 -->
 
 <style>

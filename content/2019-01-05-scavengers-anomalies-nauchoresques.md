@@ -17,7 +17,8 @@ jouer un équipage de baroudeurs spatiaux, explorant épave après épave, essuy
 et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.
 
 Comme elle contient surtout des tables aléatoires, elle peut sans doute également servir à d'autres jeux de rôles,
-comme [Mothership](http://www.tuesdayknightgames.com/mothership/) de Sean McCoy ou [Into The Dark](http://livresdelours.blogspot.com/search/label/Into%20the%20Dark) d'Alexandre 'Kobayashi' Jeannette.
+comme [Scum & Villainy](https://www.evilhat.com/home/scum-and-villainy/), [Mothership](http://www.tuesdayknightgames.com/mothership/) de Sean McCoy
+ou encore [Into The Dark](http://livresdelours.blogspot.com/search/label/Into%20the%20Dark) d'Alexandre 'Kobayashi' Jeannette.
 
 Elle est :
 
