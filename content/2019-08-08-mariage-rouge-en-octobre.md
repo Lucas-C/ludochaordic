@@ -1,6 +1,6 @@
 Title: Mariage rouge en octobre
 Date: 2019-08-08 22:40
-Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, john-harper, jeux
+Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, john-harper, @Henri, @Estelle, @Maxime, jeux
 Slug: mariage-rouge-en-octobre
 ---
 
@@ -20,7 +20,7 @@ Gros changement de thème donc ici :
 > Il vous reste une semaine de nourriture et une journée d'oxygène. La radio est silencieuse. Que faites-vous ?
 
 Belle intro non ? En tout cas elle nous a très vite happé dans une ambiance intense et poisseuse...
-Avec bien sûr en tête des images d'un [célèbre film](https://www.imdb.com/title/tt0099810/) de Sean Connery.
+Avec bien sûr en tête des images d'un [célèbre film de John McTiernan avec Sean Connery](https://www.imdb.com/title/tt0099810/).
 
 Je n'avais pas traduit le jeu au préalable, et je réalise maintenant que j'avais un peu compris de travers cette introduction 😄 Je n'avais pas réalisé qu'elle sous-entendait qu'un hiver nucléaire s'était déjà installé et que tout était mort en surface... Nous avons plus joué dans une ambiance « guerre froide & espionnage » !
 
