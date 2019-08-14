@@ -5,11 +5,13 @@ import shutil
 import sys
 
 from invoke import task
+from invoke.main import program
 from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
 def pelican_run(c, cmd):
+    cmd += ' ' + program.core.remainder  # allows to pass-through args to pelican
     # cf. https://github.com/getpelican/pelican/pull/2600
     try:
         pelican_main(cmd.split(' '))
@@ -42,7 +44,6 @@ def clean(c):
 @task
 def build(c, only_src_paths=None):
     """Build local version of site"""
-    # Insert -D in cmd for debugging:
     cmd = '-s {settings_base} -o {deploy_path}'.format(**CONFIG)
     if only_src_paths:
         only_out_paths = [src2out(path) for path in only_src_paths]

@@ -1,6 +1,7 @@
 
     pip install -r requirements.txt
     invoke livereload
+    invoke publish -- -D
 
 
 ## License
