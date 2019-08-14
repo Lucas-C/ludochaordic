@@ -46,15 +46,16 @@ READINGS = (
 )  # ends READINGS
 
 # Blogroll
-LINKS = (('Blog BD de Boulet', 'http://www.bouletcorp.com'),
-         ('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
-         ("Justin Mason's Weblog", 'http://taint.org'),
+LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('Sam & Max @Twitter', 'https://twitter.com/sam_et_max'),
-         ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
-         ('Derrière le paravent de Greg Pogorzelski', 'http://awarestudios.blogspot.fr'),
-         ('La partie du lundi', 'https://lapartiedulundi.wordpress.com'),
-         ('OuJeViPo', 'http://oujevipo.fr'),
          ('Neal Krawetz Hacker Factor Blog', 'http://www.hackerfactor.com/blog/'),
+         ('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
+         ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
+         ('The Indie RPG Pipeline', 'https://theindierpgpipeline.blogspot.com'),
+         ('Derrière le paravent de Greg Pogorzelski', 'http://awarestudios.blogspot.fr'),
+         ('Warpdoor', 'http://warpdoor.com'),
+         ('OuJeViPo', 'http://oujevipo.fr'),
+         ('Blog BD de Boulet', 'http://www.bouletcorp.com'),
          ('J.P. Villain (Access42) @Twitter', 'https://twitter.com/villainjp'),
          ('Blog de David Larlet', 'https://larlet.fr/david/blog/'),
          ('Reflets.info', 'https://reflets.info'),
