@@ -1,6 +1,6 @@
 Title: Quelques suggestions pour débuter en jeu de rôle, gratuites et en français
 Date: 2018-11-14 23:45
-Tags: lang:fr, jdr, gratuit, francais, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gratuit, jeux
+Tags: lang:fr, jdr, gratuit, francais, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jeux
 Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 ---
 
@@ -120,7 +120,11 @@ de Clément De Ruyter a l'air très prometeur également ! Et cette version Mini
 
 ![Couverture de Donjons & Châtons](images/2018/11/donjons-et-chatons_mini-pdf.jpg)
 
-**EDIT [2019/06/24]** : je vous recommande cet article complémentaire, avec même des conseils pour les tous petits, [sur le blog de Matthieu Bé](https://www.cestpasdujdr.fr/jouer-aux-jeux-de-role-avec-des-enfants/)
+**EDIT [2019/06/24]** : je vous recommande cet article complémentaire, avec même des conseils pour les tous petits,
+[sur le blog de Matthieu Bé](https://www.cestpasdujdr.fr/jouer-aux-jeux-de-role-avec-des-enfants/)
+
+**EDIT [2019/08/15]** : un court jeu en anglais, basé sur l'exploration et la création collective d'une carte,
+qui pourrait également être amusant de jouer avec des enfants : [Untold Horizons de Gordie Murphy](https://gmurphy.itch.io/untold-horizons).
 
 <style>
 article img { max-height: 20rem; }

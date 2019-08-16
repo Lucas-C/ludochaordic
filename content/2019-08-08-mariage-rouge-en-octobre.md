@@ -1,6 +1,6 @@
 Title: Mariage rouge en octobre
 Date: 2019-08-08 22:40
-Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, john-harper, @Henri, @Estelle, @Maxime, jeux
+Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, compte-rendu, partie-jdr-hebdo, john-harper, @Henri, @Estelle, @Maxime, jeux
 Slug: mariage-rouge-en-octobre
 ---
 
@@ -14,7 +14,7 @@ qui plongeait les joueurs dans la peau d'un équipage type Star Trek.
 
 Gros changement de thème donc ici :
 
-> Vous êtes très probabablement les derniers êtres humains encore vivant.
+> Vous êtes très probablement les derniers êtres humains encore vivant.
 > À bord du TK-WINSTALEY, vous venez d'apprendre que quelqu'un, quelque part, a lancé ses missiles.
 > Puis tout le monde a lancé les siens, et maintenant vous êtes seul au fond de l'océan.
 > Il vous reste une semaine de nourriture et une journée d'oxygène. La radio est silencieuse. Que faites-vous ?
@@ -25,7 +25,7 @@ Avec bien sûr en tête des images d'un [célèbre film de John McTiernan avec S
 Je n'avais pas traduit le jeu au préalable, et je réalise maintenant que j'avais un peu compris de travers cette introduction 😄 Je n'avais pas réalisé qu'elle sous-entendait qu'un hiver nucléaire s'était déjà installé et que tout était mort en surface... Nous avons plus joué dans une ambiance « guerre froide & espionnage » !
 
 Un des gros points forts du jeu, j'ai trouvé, est sa création de personnage.
-En quelques choix archétypaux parmi de simples listes de mots, les joueurs se contruisent des alter-egos avec suffisement de « moëlle » pour être se projeter dedans rapidement : une **Attitude**, un **Job**, une **Possession** et un **Objectif** secret.
+En quelques choix archétypaux parmi de simples listes de mots, les joueurs se construisent des alter-egos avec suffisamment de « moelle » pour être se projeter dedans rapidement : une **Attitude**, un **Job**, une **Possession** et un **Objectif** secret.
 Durant notre partie, ce dernier point a immédiatement donné un _focus_ aux joueurs, qui se sont très vites mis en action pour l'accomplir.
 
 Et ça a été une grosse réussite !
