@@ -9,7 +9,8 @@ Slug: lassassin-de-la-reine
 > Un jeu rapide d'intrigues, de trahisons, et de romances pour trois joueurs et plus
 
 J'ai eu l'occasion de tester hier ce très chouette jeu de rôle de [@clarity_flowers (PDF sur itch.io)](<https://strangerelics.itch.io/queen-killer>)
-traduit en français par [Matthieu Bé (PDF sur itch.io)](https://matthieu-be.itch.io/queen-killer-vf).
+traduit en français par [Matthieu Bé (PDF sur itch.io)](https://matthieu-be.itch.io/queen-killer-vf),
+et découvert via l'excellent site [troplongpaslu.fr](http://troplongpaslu.fr/jeux-de-role-court/queen-killer/).
 
 C'était donc une micro-partie à trois joueurs.
 « Micro partie » car le jeu encourage de se fixer une limite de temps et nous avons décidé d'y consacrer,
