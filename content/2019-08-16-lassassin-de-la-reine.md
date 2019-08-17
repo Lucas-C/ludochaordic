@@ -16,7 +16,7 @@ C'était donc une micro-partie à trois joueurs.
 « Micro partie » car le jeu encourage de se fixer une limite de temps et nous avons décidé d'y consacrer,
 une fois les personnages créés, une heure montre en main.
 
-Je crois que le jeu s'inspire du JdR [For The Queen](https://www.evilhat.com/home/for-the-queen/) (auquel je n'ai pas encore joué)
+Je crois que le jeu s'inspire <s>du JdR [For The Queen](https://www.evilhat.com/home/for-the-queen/)</s> (en fait non, le jeu de Clarity est antérieur)
 ainsi que du jeu de société [Killer _aka_ Wink murder](https://en.wikipedia.org/wiki/Wink_murder),
 où les joueurs se voient aussi distribuer des cartes à jouer indiquant leur rôle secret.
 
