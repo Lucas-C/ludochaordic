@@ -46,3 +46,6 @@ détaille l'audience du mercredi 14 août et les accusations qui pèsent sur Vin
 > les habitants de Rochefort-en-Terre et alentour ont lancé des opérations de soutien pour leur camarade,
 > parfaitement inséré, au dire de tous, et impliqué comme beaucoup dans la vie associative locale,
 > mais désormais sur le point d’être renvoyé de l’autre côté des Alpes
+
+**EDIT[2019/08/20]** : le comité de soutien a mis en place une pétition, ainsi que la possibilité de contribuer financièrement aux frais d'avocat :
+<https://www.comite-soutien-vincenzo.org/contact/>
