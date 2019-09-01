@@ -69,10 +69,10 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ("Galerie d'Elodie Olivier", 'http://elodie-olivier.com'),)
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
-          ('youtube', 'https://www.youtube.com/playlist?list=FLF8xTv55ZmwikWWmWLPEAZQ'),
           ('github', 'https://github.com/Lucas-C'),
           ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
           ('travis-ci', 'https://travis-ci.org/Lucas-C'),
+          ('itchio', 'https://lucas-c.itch.io'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'))
 
 SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/logo_la-quadrature-du-net_20x20.png', 'Faites un don à la Quadrature !'),
