@@ -20,7 +20,7 @@ Je suis ensuite parti en quête de contenu additionnel créé par des fans sur l
 Voici donc quelques chouettes resources:
 
 - [tous les livres de règles en anglais sur le site de l'éditeur américain Z-Man](https://www.zmangames.com/en/games/#/P).
-On peut notament y trouver 2 scénarios prometteurs, **Isolation** & **Government Shutdown**, que nous comptons tester bientôt.
+On peut notament y trouver 2 scénarios prometteurs, [**Isolation**](https://www.google.fr/search?q=site%3Azmangames.com+filetype%3Apdf+pandemic+isolation) & [**Government Shutdown**](https://www.google.fr/search?q=site%3Azmangames.com+filetype%3Apdf+pandemic+government+shutdown), que nous comptons tester bientôt.
 Il y a également toutes les règles de l'extension **On The Brink**, y compris la très intéressante règle du **BioTerroriste**.
 
 - j'ai également trouvé sur le site BoardGameGeek une [règle alternative de **BioTerroriste** (PDF, 87 Ko)](//boardgamegeek.com/filepage/33653/bioterrorist-variant-pdf-rules-v09), imaginé par un fan avant la sortie de l'extension.
@@ -38,6 +38,9 @@ Il y a également toutes les règles de l'extension **On The Brink**, y compris 
 
     * **Ingénieur**: échangez n'importe quelle carte de votre main avec celle du dessus de la défausse des cartes Joueur pour 1 action.
     Note: vous ne pouvez pas récupérer une carte "Epidémie" ou "Evênement Spécial" ainsi.
+
+**EDIT [2019/09/02]** : Nous venons de tester le scénario [**Zombies**](https://boardgamegeek.com/filepage/138412/scenario-zombies)
+et il est vraiment excellent ! La variante de règle qui est introduite change de manière très intéressante le jeu.
 
 ---
 

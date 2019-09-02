@@ -6,7 +6,7 @@ Slug: la-tete-dans-le-guidon
 En anglais, le titre pourrait se traduire par _"The head to the grindstone"_, soit littéralement "la tête sur la meule à aiguiser".
 Rigolo non ?
 
-Au vu du sujet cependant, _"Tales of a lost afternoon"_ sonnerait mieux je trouve. En effet, cet article va traiter d'organisation personnelle du temps. Le sujet est vaste, et il ne s'agira pas ici de parler de [procrastination](/lucas/blog/images/2014/Dec/Levels_of_Procrastination.jpg) ou d'outils de gestion de projet (j'ai déjà écris à propos d'[Etherpad](/lucas/blog/2014/10/10/en-setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell)). Il s'agit simplement de partager mon expérience personnelle, et de suggérer quelques astuces pour tout ceux qui ont déjà perdu un peu trop de temps à coder "la tête dans le guidon" comme moi.
+Au vu du sujet cependant, _"Tales of a lost afternoon"_ sonnerait mieux je trouve. En effet, cet article va traiter d'organisation personnelle du temps. Le sujet est vaste, et il ne s'agira pas ici de parler de [procrastination](/lucas/blog/images/2014/Dec/Levels_of_Procrastination.jpg) ou d'outils de gestion de projet (j'ai déjà écris à propos d'[Etherpad](/lucas/blog/setting-up-etherpad-in-a-server-subdirectory-aka-apache-config-hell)). Il s'agit simplement de partager mon expérience personnelle, et de suggérer quelques astuces pour tout ceux qui ont déjà perdu un peu trop de temps à coder "la tête dans le guidon" comme moi.
 
 Pas forcément passionnant à priori donc. Mais bon, quitte à perdre son temps, autant en profiter pour apprendre de ses erreurs !
 
@@ -17,7 +17,7 @@ Un [Makefile](http://fr.wikipedia.org/wiki/Makefile) est un outil d'automatisati
 
 <img src="images/2014/Dec/JonHamm_YeahSure.gif" title="Ouiii, c'est ça..." alt="JonHamm"/>
 
-Cette idée faisait suite à ma trouvaille pour afficher les messages de Makefile en couleur, utilisée dans [mon article précédent](https://chezsoi.org/lucas/blog/2014/11/27/en-javascript-testing-adapting-testling-in-browser-tap-rendering/).
+Cette idée faisait suite à ma trouvaille pour afficher les messages de Makefile en couleur, utilisée dans [mon article précédent](https://chezsoi.org/lucas/blog/javascript-testing-adapting-testling-in-browser-tap-rendering/).
 Cela peut sembler un peu vain, mais je trouve qu'un peu de couleur améliore énormément la lisibilité en fenêtre console.
 
 Pour me conformer au principe DRY ([Don't Repeat Yourself](http://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas)), je voulais réutiliser le même message pour `help` et pour la cible elle-même, pour éviter une duplication redondante :

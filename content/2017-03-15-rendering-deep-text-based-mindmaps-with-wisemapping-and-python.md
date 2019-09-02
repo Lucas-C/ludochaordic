@@ -30,7 +30,7 @@ You only need: `git`, `python3`, `rsync` and `sed`.
 
 Perfect time to slip in [one of their songs](https://www.youtube.com/watch?v=ZujuYiweht8).
 
-The reason behind this experiment (and [this previous one with graphviz](/lucas/blog/2017/02/22/en-solarized-mindmaps-with-python-and-graphviz/)) is that I wanted to leave the excellent [Freeplane](http://www.freeplane.org) mindmapping software for a text file based solution, in order to store my mindmaps in Gitlab.
+The reason behind this experiment (and [this previous one with graphviz](/lucas/blog/solarized-mindmaps-with-python-and-graphviz/)) is that I wanted to leave the excellent [Freeplane](http://www.freeplane.org) mindmapping software for a text file based solution, in order to store my mindmaps in Gitlab.
 
 Using graphviz has some severe limitations : big mindmaps are hard to read and navigate due to the absence of a folding mechanism, links are not clickable, etc.
 

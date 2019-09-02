@@ -42,11 +42,11 @@ def clean(c):
         os.makedirs(CONFIG['deploy_path'])
 
 @task
-def build(c, only_src_paths=None):
+def build(c, only_src_paths=None):  # CLI usage: invoke build --only-src-paths content/01.md,content/02.md
     """Build local version of site"""
     cmd = '-s {settings_base} -o {deploy_path}'.format(**CONFIG)
     if only_src_paths:
-        only_out_paths = [src2out(path) for path in only_src_paths]
+        only_out_paths = [src2out(path) for path in only_src_paths.split(',')]
         cmd += ' -w ' + ','.join(only_out_paths)
     pelican_run(c, cmd)
 
@@ -132,7 +132,7 @@ def livereload(c):
     for extension in content_file_extensions:
         content_blob = '{0}/**/*{1}'.format(SETTINGS['PATH'], extension)
         # Relies on https://github.com/lepture/python-livereload/pull/204
-        server.watch(content_blob, lambda paths: build(c, paths))
+        server.watch(content_blob, lambda paths: build(c, paths.join(',')))
     # Watch the theme's templates and static assets
     theme_path = SETTINGS['THEME']
     server.watch('{}/templates/*.html'.format(theme_path), lambda: build(c))

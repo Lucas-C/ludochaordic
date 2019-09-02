@@ -3,7 +3,7 @@ Date: 2016-02-03 13:02
 Tags: lang:en, personal-project, javascript, d3-js, tree, library, release, visualization, genealogy, family, charts, birthday, open-source, prog
 Slug: new-release-for-genealogic-d3
 ---
-[A year ago](/lucas/blog/2014/11/18/en-genealogy-tree-visualization-with-d3-js), I built a small JS lib using D3.js to visualize JSON-defined genealogy trees.
+[A year ago](/lucas/blog/genealogy-tree-visualization-with-d3-js), I built a small JS lib using D3.js to visualize JSON-defined genealogy trees.
 
 At the beginning of the year, I added a new feature using [flex-calendar](https://github.com/Russian60/flex-calendar) and [moment-ferie-fr](https://github.com/DepthFrance/moment-ferie-fr) : a birthday calendar using the same JSON genealogy definition and miniature images.
 

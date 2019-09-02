@@ -120,7 +120,7 @@ Credits for the original idea: [this SO answer](//stackoverflow.com/a/433209/636
 
 # **Templates checking**
 
-I like to be able to check my HTML files for various kind of errors. As explained in [a previous post](//chezsoi.org/lucas/blog/2015/03/25/en-html-validation-and-converting-a-bash-script-to-python/), this is a process easy to automate, and one way to deal with "mustaches" template variables is simply to ignore them.
+I like to be able to check my HTML files for various kind of errors. As explained in [a previous post](//chezsoi.org/lucas/blog/html-validation-and-converting-a-bash-script-to-python/), this is a process easy to automate, and one way to deal with "mustaches" template variables is simply to ignore them.
 
 But I wanted to ensure that my templates did not use mistyped or undefined variables. Hence I built a small script that :
 

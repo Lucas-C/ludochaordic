@@ -1,6 +1,8 @@
+beautifulsoup4
 invoke
 livereload
-pelican
 markdown
-beautifulsoup4
+pelican
 pillow
+py_w3c
+shaarli-client

@@ -43,6 +43,7 @@ a Python module to build batch pipelines, it handles dependency resolution, work
 
 - [Pelican](https://getpelican.com/) : a static site generator in Python
     * created [a plugin to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
+    * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
     * designed [a 2-columns layout theme](https://github.com/Lucas-C/pelican-theme-timeline)
 

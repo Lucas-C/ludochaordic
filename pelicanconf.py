@@ -15,6 +15,9 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/happycratie.jpg', 'description': 'Happycratie - Edgar Cabanas & Eva Illouz', 'date': '2019-09-01'},
+    {'img_url': 'images/readings/energie-changeons-de-cap.jpg', 'description': 'Energie Changeons de cap ! - Didier Lenoir', 'date': '2019-08-30'},
+    {'img_url': 'images/readings/reality-is-broken.jpg', 'description': 'Reality is broken - Jane Mc Gonigal', 'date': '2019-08-28'},
     {'img_url': 'images/readings/Hillbilly_t3.jpg', 'description': 'Hillbilly tome 3 - Eric Powell (BD)', 'date': '2019-08-05'},
     {'img_url': 'images/readings/BDArcaneMajeureT1couv.jpg', 'description': 'Arcane Majeure - Jean-Pierre Pécau & Damien Jacob (BD)', 'date': '2019-07-26'},
     {'img_url': 'images/readings/vanille_ou_chocolat.jpg', 'description': 'Vanille ou chocolat ? - Jason Shiga (BD)', 'date': '2019-06-15'},
@@ -96,7 +99,7 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'image_process', 'representative_image', 'tag_cloud')
+PLUGINS = ('ctags_generator', 'image_process', 'representative_image', 'tag_cloud') # TODO: add w3c_validate once https://github.com/getpelican/pelican-plugins/pull/1166 is merged
 
 IMAGE_PROCESS = {
     'thumb': ['scale_out 300 300 False'],
