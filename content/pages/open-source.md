@@ -10,7 +10,9 @@ Tags: lang:en, open-source, cygwin, pre-commit, shaarli, luigi
 - [genealogic-d3](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using [d3.js](https://d3js.org)
 - [youtube_playlist_watcher](https://github.com/Lucas-C/youtube_playlist_watcher) : backup Youtube playlists and alert you on songs deletions, written in Python
 - [music-emails-spybot](https://github.com/Lucas-C/music-emails-spybot) : Python script generating an HTML archive page of all mentioned songs in emails retrieved from IMAP server (e.g. Gmail)
-- [wisemapping-mindmap-viewer](https://github.com/Lucas-C/wisemapping-mindmap-viewer) : a simple HTML+JS mindmap viewer, fork of an original Java project
+- [wisemapping-mindmap-viewer](https://github.com/Lucas-C/wisemapping-mindmap-viewer) : a simple HTML+JS mindmap viewer, fork of an original Java project,
+with a companion [brain_dump](https://github.com/Lucas-C/brain_dump) repo containing tools to manipulate simple mindmaps described as indented Markdown
+- [nose-summary-report](https://pypi.org/project/nose-summary-report/) : nose plugin that generates a final summary of tests status as a table
 - [unicode-search](https://github.com/Lucas-C/unicode-search) : a NodeJS CLI program to search unicode characters by name
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) : a simple HTML+JS memory game, forked from Mark Rolich repo to add support for images
 - [ecovoit](https://github.com/Lucas-C/ecovoit) : a web search engine for French carpooling offers
@@ -21,7 +23,7 @@ Some open-source projects to which I have contributed.
 
 - [<img alt="Logo pre-commit" src="images/open-source/pre-commit-logo.png" style="max-width: 6em"> pre-commit](http://pre-commit.com) :
 Python command line manager for `git` pre-commit hooks
-    * contributed [several hooks](https://github.com/Lucas-C/pre-commit-hooks)
+    * created [several hooks](https://github.com/Lucas-C?tab=repositories&q=pre-commit-hooks&type=source)
     * also made some bug fixes, improved support for Cygwin and added support for locally defined hooks
 
 - [<img alt="Logo Shaarli" src="images/open-source/shaarli-logo.png" style="max-width: 6rem">](https://github.com/shaarli/Shaarli) :
