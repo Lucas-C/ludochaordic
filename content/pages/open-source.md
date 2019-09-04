@@ -4,12 +4,13 @@ Tags: lang:en, open-source, cygwin, pre-commit, shaarli, luigi
 
 ## Pet projects, musings
 
-- [The King Must Know](https://github.com/Lucas-C/OuiJam2018) : a Phaser JS short video game made with 2 colleagues during the Global Game Jam 2018
-- [tablut](https://github.com/Lucas-C/tablut/) : a PHP implementation of an old [Scandinavian](https://en.wikipedia.org/wiki/Tafl_games) duel board game for the online platform [BoardGameArena](https://boardgamearena.com), with [simple rules](http://en.doc.boardgamearena.com/Gamehelptablut)
-- [rpg-bonhomme](https://github.com/Lucas-C/rpg-bonhomme) : a tabletop RPG character sheet viewer, with a Python backend using a JSONP key-value store
+- [Python Black Box challenge](https://lucas-c.frama.io/python-blackbox-challenges/)
 - [genealogic-d3](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using [d3.js](https://d3js.org)
+- [rpg-bonhomme](https://github.com/Lucas-C/rpg-bonhomme) : a tabletop RPG character sheet viewer, with a Python backend using a JSONP key-value store
 - [youtube_playlist_watcher](https://github.com/Lucas-C/youtube_playlist_watcher) : backup Youtube playlists and alert you on songs deletions, written in Python
 - [music-emails-spybot](https://github.com/Lucas-C/music-emails-spybot) : Python script generating an HTML archive page of all mentioned songs in emails retrieved from IMAP server (e.g. Gmail)
+- [The King Must Know](https://github.com/Lucas-C/OuiJam2018) : a Phaser JS short video game made with 2 colleagues during the Global Game Jam 2018
+- [tablut](https://github.com/Lucas-C/tablut/) : a PHP implementation of an old [Scandinavian](https://en.wikipedia.org/wiki/Tafl_games) duel board game for the online platform [BoardGameArena](https://boardgamearena.com), with [simple rules](http://en.doc.boardgamearena.com/Gamehelptablut)
 - [wisemapping-mindmap-viewer](https://github.com/Lucas-C/wisemapping-mindmap-viewer) : a simple HTML+JS mindmap viewer, fork of an original Java project,
 with a companion [brain_dump](https://github.com/Lucas-C/brain_dump) repo containing tools to manipulate simple mindmaps described as indented Markdown
 - [nose-summary-report](https://pypi.org/project/nose-summary-report/) : nose plugin that generates a final summary of tests status as a table
