@@ -231,7 +231,7 @@ Il nous a mentionné une phrase de Brett Cannon:
 Quelques anecdotes découvertes au passage:
 
 - l'intégration continue de CPYthon se fait via des instances [buildbot](http://buildbot.net) hébergées par des bénévoles,
-dont l'exécution est déclenchée à distance, ce qui peut mener des [échanges assez drôles](https://haypo.github.io/python-buildbots-2017q2.html#the-vacuum-cleaner) sur la mailing-list.
+dont l'exécution est déclenchée à distance, ce qui peut mener des [échanges assez drôles](https://vstinner.github.io/python-buildbots-2017q2.html#the-vacuum-cleaner) sur la mailing-list.
 
 - suite à l'incident de sécurité sur <https://pypi.org> (paquets typosquattés) qui a refait surface ce mois-ci,
 de nombreux commentaires violemment critiques ont été postés sur des sites comme Hacker News, accusant directement
@@ -371,7 +371,7 @@ celle sur [le solver Z3](https://github.com/Z3Prover/z3) de Michael Scherer, et 
 
 Les présentations ont été filmées: <https://www.youtube.com/playlist?list=PLetYPqNT2qjAinIBr976XSjJObaa-zUy5>
 
-A noter qu'en parallèle de la conférence, un ["Crypto challenge"](https://www.bde.enseeiht.fr/~deniauv/affiche.pdf) était organisé.
+A noter qu'en parallèle de la conférence, un "Crypto challenge" était organisé.
 Je ne me suis essayé qu'aux premières étapes (un bot <https://riot.im> était impliqué),
 mais à ce qu'on m'a dit il était tordu à souhait !
 

@@ -213,7 +213,7 @@ comme les excellents _BattleBlock Theater_ & _Castle Crashers_,
 ou _Wand Wars_ qu'il faudra un jour que je compare à _Lethal League_.
 
 Pour conclure je vais en mentionner un dernier tout de même,
-un jeu Flash minimaliste gratuit où certains reconnaîtront l'ancêtre de Spy Party, [Puji](http://www.patkemp.com/wp-gallery/games/puji.html).
+un jeu Flash minimaliste gratuit où certains reconnaîtront l'ancêtre de Spy Party, [Puji](https://patkemp.itch.io/puji).
 
 À venir cette année (peut-être) : un autre article où j'aimerais évoquer quelques bons souvenirs de jeux vidéos coopératifs.
 <!--

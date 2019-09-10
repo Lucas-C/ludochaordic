@@ -17,7 +17,7 @@ Un [Makefile](http://fr.wikipedia.org/wiki/Makefile) est un outil d'automatisati
 
 <img src="images/2014/Dec/JonHamm_YeahSure.gif" title="Ouiii, c'est ça..." alt="JonHamm"/>
 
-Cette idée faisait suite à ma trouvaille pour afficher les messages de Makefile en couleur, utilisée dans [mon article précédent](https://chezsoi.org/lucas/blog/javascript-testing-adapting-testling-in-browser-tap-rendering/).
+Cette idée faisait suite à ma trouvaille pour afficher les messages de Makefile en couleur, utilisée dans [mon article précédent](https://chezsoi.org/lucas/blog/javascript-testing-adapting-testling-in-browser-tap-rendering.html).
 Cela peut sembler un peu vain, mais je trouve qu'un peu de couleur améliore énormément la lisibilité en fenêtre console.
 
 Pour me conformer au principe DRY ([Don't Repeat Yourself](http://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas)), je voulais réutiliser le même message pour `help` et pour la cible elle-même, pour éviter une duplication redondante :

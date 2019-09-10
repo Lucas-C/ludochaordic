@@ -31,7 +31,7 @@ Et c'était super fun de voir mes appels à cette fichue API SOAP retourner des 
 
 Mais au final, pas moyen de récupérer mon solde programmatiquement 😢
 
-Au final j'en viens vraiment à douter que cette app fonctionne, surtout vu [les avis dessus](https://play.google.com/store/apps/details?id=com.endenred.tr.fr&hl=fr).
+Au final j'en viens vraiment à douter que cette app fonctionne, surtout vu les avis dessus sur le store Google Play.
 Donc si quelqu'un avec un ordinateur de poche pouvait me le confirmer, ça me ferait bien plaisir ! :D
 
 <style>

@@ -20,3 +20,5 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 DELETE_OUTPUT_DIRECTORY = True
 
 PLUGINS += ('shaarli_poster',)
+
+DEADLINK_VALIDATION = False

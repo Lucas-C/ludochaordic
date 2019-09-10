@@ -54,7 +54,7 @@ Voici donc quelques pistes pour leur faire un don, de temps ou d'argent :
 
 - l'**[Electronic Frontier Foundation](//www.eff.org)** est une ONG défendant la liberté d'expression sur Internet. Ses actions sont [nombreuses](//www.eff.org/issues), mais ce sont notamment des champions législatifs ayant [défendus nos droits](https://www.eff.org/victories) dans des procès contre des multinationnales et même des gouvernements. Pour l'anecdote, l'EFF a été fondée suite au procès en 1993 de _Steve Jackson Games_, la fameuse compagnie de JDR et jeux de plateaux américaine, contre les services secrets nationnaux qui avaient confisqué leur matériel informatique sans raison valable ! L'histoire est tout bonnement [incroyable](http://kotaku.com/5801427/the-day-the-secret-service-raided-a-role-playing-game-company). Aidez-les [avec un don](//supporters.eff.org/donate) ou en [s'inscrivant à leur mailing-list](//act.eff.org/).
 
-- la **[Fondation Wikimedia](http://wikimediafoundation.org/wiki/Accueil)** est une organisation à but non lucratif qui héberge entres autres Wikipédia et le Wiktionnaire, et a pour objectif le partage libre de l'ensemble des connaissances humaines. Rien que ça. [Faites lui un don.](//donate.wikimedia.org/w?title=Special:FundraiserLandingPage&country=FR)
+- la **[Fondation Wikimedia](https://wikimediafoundation.org)** est une organisation à but non lucratif qui héberge entres autres Wikipédia et le Wiktionnaire, et a pour objectif le partage libre de l'ensemble des connaissances humaines. Rien que ça. [Faites lui un don.](//donate.wikimedia.org/w?title=Special:FundraiserLandingPage&country=FR)
 
 <br>
 **Aider en tant que développeur**
@@ -67,12 +67,12 @@ Les sites ci-dessous ont pour vocation de vous mettre en relation avec des assoc
 - [tousbenevoles.org](http://www.tousbenevoles.org/trouver-une-mission-benevole?cp=&id_action_type=24&id_public=&q=&age_minimum=0)
 - [francebenevolat.org](http://www.francebenevolat.org/benevoles/recherche/assoc-annonce?search%5Btype_mission%5D=16&search%5Bdomaine_action%5D=&search%5Blocalisation%5D=Ville%2C+code+postal%2C+...&search%5Bkeywords%5D=Mots+cl%C3%A9s%2C+nom+association%2C+...)
 - [onlinevolunteering.org](//www.onlinevolunteering.org/fr/org/opportunity_search/?typ=5)
-- [socialcoder](http://socialcoder.org/Home/Map)
+- [socialcoder](http://socialcoder.org)
 
 <br>
 **Aider au-delà du numérique**
 
-Les causes sont nombreuses et tout aussi importantes : [UNICEF](http://www.unicef.org/french/), [WWF](http://www.wwf.fr/), [MSF](http://www.msf.org/), [Amnesty](http://www.amnesty.org/fr/how-you-can-help), [Rire médecin](http://www.leriremedecin.org/)... Tous acceptent les dons, mais vous pouvez aussi [signer une pétition](//campaigns.amnesty.org/fr/actions) ou [envoyer une lettre](http://www.amnesty-marseille.fr/spip.php?article25).
+Les causes sont nombreuses et tout aussi importantes : [UNICEF](https://www.unicef.org), [WWF](http://www.wwf.fr/), [MSF](http://www.msf.org/), [Amnesty](http://www.amnesty.org/fr/how-you-can-help), [Rire médecin](http://www.leriremedecin.org/)... Tous acceptent les dons, mais vous pouvez aussi [signer une pétition](//campaigns.amnesty.org/fr/actions) ou [envoyer une lettre](http://www.amnesty-marseille.fr/spip.php?article25).
 
 Personnellement, j'ai pris une habitude toute bête : passer donner mon sang à l'**[Etablissement Français du Sang](http://www.dondusang.net)**. C'est une chouette balade : ça ne prend pas longtemps, vous serez acceuilli par des gens charmants et reconnaissants, et vous pouvez même bavarder avec d'autres donneurs ou le personnel médical. En plus une petite collation est offerte ! Pour trouver où donner en quelques clics, [cliquez ici](http://www.dondusang.net/rewrite/heading/1000/ou-donner/rechercher-une-collecte.htm).
 

@@ -3,7 +3,7 @@ Date: 2017-06-22 11:06
 Tags: lang:fr, jeu-de-societe, variante, the-game, gamedesign, jeux
 Slug: nouvelles-variantes-pour-the-game
 ---
-Pour faire suite à [mon précédent post sur ce jeu génial](https://chezsoi.org/lucas/blog/une-variante-pour-the-game/), voici 2 autres variantes que nous avons inventé et testé avec ma compagne:
+Pour faire suite à [mon précédent post sur ce jeu génial](https://chezsoi.org/lucas/blog/une-variante-pour-the-game.html), voici 2 autres variantes que nous avons inventé et testé avec ma compagne:
 
 - **"The Game: Constrained"** : inspiré de l'extension officielle [The Game: Extreme (PDF, 560Ko)](http://www.nsv.de/spielregeln/the-game-extreme-f.pdf), l'idée est d'associer une règle supplémentaire à certaines cartes lorsqu'elles sont visibles au dessus d'une pile:
     * les 6 cartes bleues "On Fire" (22, 33, 44, 55, 66, 77) empêchent de piocher de nouvelles cartes à la fin du tour

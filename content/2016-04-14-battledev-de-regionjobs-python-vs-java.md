@@ -3,7 +3,7 @@ Date: 2016-04-14 20:04
 Tags: lang:fr, python, java, battledev, performances, interpreter, pythonchallenge, prog
 Slug: battledev-de-regionjobs-python-vs-java
 ---
-En mars dernier, j'ai participé à la [Battledev de RegionJobs](http://www.regionsjob.com/battledev).
+En mars dernier, j'ai participé à la Battledev de RegionJobs.
 
 Et c'était super fun.
 
@@ -11,7 +11,7 @@ Pour ceux qui ne connaissent pas, c'est une compétition de programmation en lig
 
 J'ai eu l'occasion d'y participer avec quelques collègues, et ça a été à la fois un chouette challenge et moment sympa à passer ensemble.
 
-Le 8 novembre prochaine, une nouvelle édition à lieu, alors [inscrivez-vous](http://battledev.blogdumoderateur.com/inscription.php) !
+Le 8 novembre prochaine, une nouvelle édition à lieu, alors [inscrivez-vous](https://battledev.blogdumoderateur.com) !
 J'en serai :)
 
 ---

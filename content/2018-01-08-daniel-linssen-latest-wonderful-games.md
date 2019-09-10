@@ -6,7 +6,7 @@ Slug: daniel-linssen-latest-wonderful-games
 
 ![managore logo](images/2018/01/managore.png)
 
-Daniel Linssen, aka [_managore_](https://managore.itch.io), is a fantastic indie game developer. I already mentioned one of his games, HopSlide, in [a previous blog post (FR)](https://chezsoi.org/lucas/blog/til-cows-tear-us-apart-et-hop-slide/).
+Daniel Linssen, aka [_managore_](https://managore.itch.io), is a fantastic indie game developer. I already mentioned one of his games, HopSlide, in [a previous blog post (FR)](https://chezsoi.org/lucas/blog/til-cows-tear-us-apart-et-hop-slide.html).
 
 Now that it's clear that I am totally unbiased about this incredible game maker, lets talk about his latest games !
 
@@ -31,7 +31,7 @@ a French game I enjoyed playing very much, as they share a same theme, typograph
 
 ### windowframe
 
-[windowframe](https://managore.itch.io/windowframe) has a little bit in common with his previous game [HopSlide](https://chezsoi.org/lucas/blog/til-cows-tear-us-apart-et-hop-slide/), as it revolves around moving windows **in your operating systems**.
+[windowframe](https://managore.itch.io/windowframe) has a little bit in common with his previous game [HopSlide](https://chezsoi.org/lucas/blog/til-cows-tear-us-apart-et-hop-slide.html), as it revolves around moving windows **in your operating systems**.
 
 The window resizing mechanics are truly ingenious, but the game puzzles are his real strength: they are well balanced,
 extremely smart and most of all very fun !

@@ -20,7 +20,7 @@ Et au passage: c'est son anniversaire ! 3 ans :)
 - je préfère versionner mes articles sous `git` plutôt que d'avoir à gérer une base de données
 - Pelican est en **Python** ! Et les templates sont en `Jinja2`: je suis bien plus familier et je préfère grandement ces outils
 - pour pouvoir `grep`-er mes articles
-- manipuler de simple fichiers pour écrire des articles permet bien plus de flexibilité, comme celle d'utiliser le correcteur orthographique de `vim` par exemple, ou de faire du [postprocessing](https://github.com/Lucas-C/ludochaordic/blob/master/Makefile#L75)
+- manipuler de simple fichiers pour écrire des articles permet bien plus de flexibilité, comme celle d'utiliser le correcteur orthographique de `vim` par exemple, ou de faire du [postprocessing](https://github.com/Lucas-C/ludochaordic/blob/master/tasks.py#L94)
 
 ## Les étapes de la migration
 
@@ -41,7 +41,7 @@ Et au passage: c'est son anniversaire ! 3 ans :)
 Je suis assez content du résultat, mais **dites-moi ce que VOUS en pensez !** :)
 
 Le blog dispose désormais d'une fonction de recherche, déjà présente dans le thème initial.
-Je me demande si c'est utile à conserver, surtout que la lib "Tipue-Search" derrière n'est clairement plus maintenue: <https://github.com/Tipue/Tipue-Search/issues/13>
+Je me demande si c'est utile à conserver, surtout que la lib "Tipue-Search" derrière n'est clairement plus maintenue (le projet a même disparu de GitHub)
 
 Je ne vois qu'une fonctionnalité utile de Ghost qui va me manquer: l'auto-complétion des tags, pour ajouter à un article des tags déjà employés.
 

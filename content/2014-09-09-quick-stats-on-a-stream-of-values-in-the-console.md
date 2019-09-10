@@ -51,6 +51,6 @@ Of course, this little function is not meant to be used in production, where Pyt
 
 Inspiration taken from [a StackOverflow answer by Bruced Ediger](//unix.stackexchange.com/a/13779/48906) and [this Wikipedia online algorithm](//en.wikipedia.org/wiki/Algorithms_for_calculating_variance#Online_algorithm) to compute variance.
 
-**EDIT** [22/09/2014] : I found two very useful existing commands that do similar things: [`ministat`](http://manpages.ubuntu.com/manpages/saucy/man1/ministat.1.html) and [`tinystat`](//github.com/codahale/tinystat/blob/master/cmd/tinystat/main.go) written in Go.
+**EDIT** [22/09/2014] : I found two very useful existing commands that do similar things: [`ministat`](https://github.com/thorduri/ministat) and [`tinystat`](//github.com/codahale/tinystat/blob/master/cmd/tinystat/main.go) written in Go.
 
 **EDIT** [8/12/2014] : Another great one : `csvstat` (install it with `pip install csvkit`).

@@ -16,7 +16,7 @@ var myService = injector.get('myServiceName')
 
 <br>
 
-And there are 3 handy [pre-commit](https://chezsoi.org/lucas/blog/git-pre-commit-hooks/) hooks :
+And there are 3 handy [pre-commit](https://chezsoi.org/lucas/blog/git-pre-commit-hooks.html) hooks :
 ```
 - repo: local
   hooks:

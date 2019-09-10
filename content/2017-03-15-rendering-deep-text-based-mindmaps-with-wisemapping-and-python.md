@@ -16,7 +16,7 @@ In this blog post, I'm going to demonstrate how to reuse [WiseMapping](http://wi
 For the impatient ones, [here](/lucas/mindmap/mindmap-viewer/?text_based_mindmaps) is the result (click & drag to center the mindmap):
 <iframe src="/lucas/mindmap/mindmap-viewer/?text_based_mindmaps" height="200" width="800"></iframe>
 
-And you'll find [here](https://github.com/Lucas-C/linux_configuration/tree/master/languages/python/mindmaps) all that is required to launch this viewer yourself:
+And you'll find [here](https://github.com/Lucas-C/brain_dump) all that is required to launch this viewer yourself:
 ```
 ./build_viewer.sh
 ./wisemapping_txt2xml.py text_based_mindmaps.txt > wise-editor/src/main/webapp/samples/text_based_mindmaps.xml
@@ -24,13 +24,13 @@ python3 -m http.server
 ```
 You only need: `git`, `python3`, `rsync` and `sed`.
 
-**EDIT [2017/08/02]**: in the end I put the viewer in a separate repo: <https://github.com/Lucas-C/wisemapping-simple-viewer>
+**EDIT [2017/08/02]**: in the end I put the viewer in a separate repo: <https://github.com/Lucas-C/wisemapping-mindmap-viewer>
 
 ### Genesis of the project
 
 Perfect time to slip in [one of their songs](https://www.youtube.com/watch?v=ZujuYiweht8).
 
-The reason behind this experiment (and [this previous one with graphviz](/lucas/blog/solarized-mindmaps-with-python-and-graphviz/)) is that I wanted to leave the excellent [Freeplane](http://www.freeplane.org) mindmapping software for a text file based solution, in order to store my mindmaps in Gitlab.
+The reason behind this experiment (and [this previous one with graphviz](/lucas/blog/solarized-mindmaps-with-python-and-graphviz.html)) is that I wanted to leave the excellent [Freeplane](http://www.freeplane.org) mindmapping software for a text file based solution, in order to store my mindmaps in Gitlab.
 
 Using graphviz has some severe limitations : big mindmaps are hard to read and navigate due to the absence of a folding mechanism, links are not clickable, etc.
 
@@ -54,7 +54,7 @@ Quickly, I realized that it would be even easier than I thought: most of the cod
 
 ### Extracting the HTML+JS mindmap renderer from WiseMapping
 
-If you look at [`build_viewer.sh`](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/mindmaps/build_viewer.sh#L6) you'll see that I use `rsync` to extract from the repo only [a few files](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/mindmaps/rsync.include) required to run the viewer. They are mostly JS & image files, and not even all of them are needed !
+If you look at `build_viewer.sh` you'll see that I use `rsync` to extract from the repo only a few files required to run the viewer. They are mostly JS & image files, and not even all of them are needed !
 
 Looking at my browser Network tab, I figured out that the `mapId = 'welcome'` in [`viewmode.html`](https://bitbucket.org/wisemapping/wisemapping-open-source/src/v4.0.3/wise-editor/src/main/webapp/html/viewmode.html#viewmode.html-25) was the name of an XML file in the [samples/] (https://bitbucket.org/wisemapping/wisemapping-open-source/src/v4.0.3/wise-editor/src/main/webapp/samples/) directory that was loaded and parsed by the app.
 
@@ -70,7 +70,7 @@ Strangely, loading a mindmap was really slow. Here is what Firefox Network tab s
 
 I realized that for some crazy reason, when the JS editor component was loading, it retrieved the Maven `pom.xml` file from disk, parsed it and then loaded those files one per one ! And with jQuery adding a `?_=${timestamp}` query parameter each time, to avoid browser caches !! `JSPomLoader` is the class responsible for this absurdity this in [mindplot-min.js](https://bitbucket.org/wisemapping/wisemapping-open-source/src/v4.0.3/wise-editor/src/main/webapp/js/mindplot-min.js).
 
-I decided to build a JS bundle instead. After some experiments with `xmlstartlet` and `browserify`, I realized it was doable in [just 3 simple commands](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/mindmaps/build_viewer.sh#L15):
+I decided to build a JS bundle instead. After some experiments with `xmlstartlet` and `browserify`, I realized it was doable in just 3 simple commands:
 ```
 cd mindplot/src/main/javascript
 sed -n '/<includes>/,/<\/includes>/{/<includes>/d;/<\/includes>/d;p}' ../../../../wisemapping-open-source/mindplot/pom.xml | sed -e 's~${basedir}~../../..~' -e 's~\s*<include>~~' -e 's~</include>$~~' > js_sources
@@ -100,7 +100,7 @@ This happened because the WiseMapping editor agressively caches mindmaps in your
 
 Last but not least, remained to convert textual mindmaps into WiseMapping XML format.
 
-In order to do so I wrote a [Python script](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/mindmaps/wisemapping_txt2xml.py) that uses a `pyparsing` to parse the pseudo-markdown syntax:
+In order to do so I wrote a Python script named `wisemapping_txt2xml.py` that uses a `pyparsing` to parse the pseudo-markdown syntax:
 
 - Markdown:
 
@@ -130,7 +130,7 @@ The result:
 The result:
 <iframe src="/lucas/mindmap/mindmap-viewer/?icons_example" height="450" width="800"></iframe>
 
-- and with inline attributes like `<!--fontStyle=";;#dfcfe6;;;" bgColor="#0a0a08"-->`, full support for all the features in the default [`welcome.xml`](/lucas/mindmap/mindmap-viewer/samples/welcome.xml) defined in an [`welcome.txt`](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/mindmaps/welcome.txt):
+- and with inline attributes like `<!--fontStyle=";;#dfcfe6;;;" bgColor="#0a0a08"-->`, full support for all the features in the default [`welcome.xml`](/lucas/mindmap/mindmap-viewer/samples/welcome.xml) defined in an `welcome.txt`:
 
 <iframe src="/lucas/mindmap/mindmap-viewer/?welcomeFromText" height="600" width="800"></iframe>
 

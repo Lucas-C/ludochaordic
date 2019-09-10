@@ -20,7 +20,7 @@ Now, quoting the official documentation, `mitmproxy` is <cite>an interactive con
 So first, it's a traffic inspection tool, like [Fiddler](http://www.telerik.com/fiddler), [`wireshark`](http://wiki.wireshark.org/Tools) or `tcpdump`. To enable it, there are only 2 steps :
 
 - start the proxy so it listens on 0.0.0.0:8080 : `mitmproxy --host`. The interactive window opened should be empty, you can get the list of available commands with `?`.
-- configure your browser to use this adress as a proxy to access the Internet. Personnally I'm using Firefox, with a "private window" to start with a fresh context (e.g. in terms of cookies) and the [Toggle Proxy](https://addons.mozilla.org/en-US/firefox/addon/toggle-proxy-51740/) add-on button to activate/deactivate the proxy in one click <sup><a href="#fn1" id="ref1"><small>1</small></a></sup>.
+- configure your browser to use this adress as a proxy to access the Internet.
 
 Now you can browse to the website you want to interract with, and `mitmproxy` will record the traffic "flows" generated.
 
@@ -30,7 +30,7 @@ To experience the full capabilities of `mitmproxy`, launch the command again wit
 
 ![mitmproxy terminal output screenshot](images/2014/Dec/mitmproxy_screenshot.png)
 
-Not only `mitmproxy` let you replay recorded traffic, you can also programmatically modify your requests using [inline scripts](http://mitmproxy.org/doc/scripting/inlinescripts.html).
+Not only `mitmproxy` let you replay recorded traffic, you can also programmatically modify your requests using scripts: <https://docs.mitmproxy.org/stable/addons-scripting/>.
 
 That's an awesome feature, and a few weeks ago I was able in no time to write a basic script that recorded the PHPSESSID cookie generated on the first request to the website, and inject it in the following requests.
 
@@ -107,8 +107,3 @@ And then use it to replay my full traffic flow :
 ```
 $ mitmproxy -s sticky_phpsession.py -c traffic.mitm
 ```
-
-
-<br><hr><br>
-
-<sup id="fn1">1. More specifically, to configure the proxy in Firefox, go to Preferences > Advanced tab > Network tab > Connexion Settings and specify the HTTP proxy. The add-on mentionned simply switch between "No proxy" and the manual proxy configured. <a href="#ref1">↩</a></sup>

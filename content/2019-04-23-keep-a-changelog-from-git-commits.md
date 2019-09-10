@@ -45,7 +45,7 @@ you won't risk to forget about it.
 I recently used [gitchangelog](https://github.com/vaab/gitchangelog)
 which can be configured very easily to follow [keepachangelog.com](https://keepachangelog.com) format:
 
-- [.gitchangelog.rc](https://github.com/voyages-sncf-technologies/hesperides/blob/develop/.gitchangelog.rc):
+- [.gitchangelog.rc](https://github.com/voyages-sncf-technologies/hesperides/blob/master/.gitchangelog.rc):
 
 ```python
 section_regexps = [
@@ -66,9 +66,9 @@ publish = FileRegexSubst(
 )
 ```
 
-- `.gitchangelog-keepachangelog.tpl` mustache template simple example: <https://github.com/voyages-sncf-technologies/hesperides/blob/develop/.gitchangelog-keepachangelog.tpl>
+- `.gitchangelog-keepachangelog.tpl` mustache template simple example: <https://github.com/voyages-sncf-technologies/hesperides/blob/master/.gitchangelog-keepachangelog.tpl>
 
-- starting [CHANGELOG.md](https://github.com/voyages-sncf-technologies/hesperides/blob/develop/CHANGELOG.md):
+- starting [CHANGELOG.md](https://github.com/voyages-sncf-technologies/hesperides/blob/master/CHANGELOG.md):
 ```
 # CHANGELOG
 All notable changes to this project are documented in this file.
