@@ -1,6 +1,6 @@
 beautifulsoup4
 invoke
-livereload
+git+https://github.com/Lucas-C/python-livereload.git@patch-2
 markdown
 pelican
 pillow

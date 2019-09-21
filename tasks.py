@@ -132,7 +132,7 @@ def livereload(c):
     for extension in content_file_extensions:
         content_blob = '{0}/**/*{1}'.format(SETTINGS['PATH'], extension)
         # Relies on https://github.com/lepture/python-livereload/pull/204
-        server.watch(content_blob, lambda paths: build(c, paths.join(',')))
+        server.watch(content_blob, lambda paths: build(c, ','.join(paths)))
     # Watch the theme's templates and static assets
     theme_path = SETTINGS['THEME']
     server.watch('{}/templates/*.html'.format(theme_path), lambda: build(c))
