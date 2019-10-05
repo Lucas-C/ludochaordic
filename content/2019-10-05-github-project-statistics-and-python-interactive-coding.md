@@ -3,11 +3,11 @@ Date: 2019-10-05 15:00
 Tags: lang:en, git, github, python, statistics, javascript, oui.sncf, open-source, charts, pelican, hesperides, tutorial, practical-exercise, visualization, prog
 Slug: github-project-statistics-and-python-interactive-coding
 Status: draft
-Image: images/2019/09/GitHub_issues_over_time.png
+Image: images/2019/10/GitHub_issues_over_time.png
 ---
 
 <div style="text-align:center;">
-  <iframe src="https://chezsoi.org/lucas/blog/images/2019/09/github-stats.html">
+  <iframe src="https://chezsoi.org/lucas/blog/images/2019/19/github-stats.html">
   <p>Iframes not supported. Click on the link below to access the graphs.</p>
 </iframe></div>
 
