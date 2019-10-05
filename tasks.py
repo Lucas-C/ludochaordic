@@ -3,6 +3,7 @@
 import os
 import shutil
 import sys
+import webbrowser
 
 from invoke import task
 from invoke.main import program
@@ -51,10 +52,12 @@ def build(c, only_src_paths=None):  # CLI usage: invoke build --only-src-paths c
     pelican_run(c, cmd)
 
 def src2out(path):  # Sadly custom to my filename-to-slug naming convention, can hardly made generic
+    with open(path) as md_file:
+        is_draft = 'Status: draft' in md_file.read()
     filename = path.split('/', 2)[-1]
     if filename.startswith('20'):
         filename = '-'.join(filename.split('-')[3:])
-    return CONFIG['deploy_path'] + '/' + filename.replace('.md', '.html')
+    return CONFIG['deploy_path'] + ('/drafts/' if is_draft else '/') + filename.replace('.md', '.html')
 
 @task
 def rebuild(c):
@@ -141,4 +144,5 @@ def livereload(c):
         static_file = '{0}/static/**/*{1}'.format(theme_path, extension)
         server.watch(static_file, lambda: build(c))
     # Serve output path on configured port
+    webbrowser.open('http://localhost:{}'.format(CONFIG['port']))
     server.serve(port=CONFIG['port'], root=CONFIG['deploy_path'])

@@ -49,6 +49,8 @@ a Python module to build batch pipelines, it handles dependency resolution, work
     * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
     * designed [a 2-columns layout theme](https://github.com/Lucas-C/pelican-theme-timeline)
+    * fixed the [Travis CI pipeline for the pelican-plugins repository](https://github.com/getpelican/pelican-plugins/issues/1170)
+    * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
 
 - [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
 

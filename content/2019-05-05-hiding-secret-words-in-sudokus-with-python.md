@@ -82,6 +82,8 @@ even for a large grid like the size-12 one at the top of this article,
 the script execution times is between 10s and 10min,
 which is totally OK for my needs.
 
+**EDIT [2019/10/05]:** I discovered that this lind of puzzle was sometimes called « SudoLettre » in French.
+
 <script>
 document.querySelectorAll('article img').forEach(img => img.title = img.alt)
 </script>

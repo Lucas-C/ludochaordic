@@ -15,6 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'img_url': 'images/readings/density.jpg', 'description': 'Density - Lewis TRONDHEIM & Stan VINCE (BD)', 'date': '2019-10-01'},
     {'img_url': 'images/readings/happycratie.jpg', 'description': 'Happycratie - Edgar Cabanas & Eva Illouz', 'date': '2019-09-02'},
     {'img_url': 'images/readings/energie-changeons-de-cap.jpg', 'description': 'Energie Changeons de cap ! - Didier Lenoir', 'date': '2019-09-02'},
     {'img_url': 'images/readings/reality-is-broken.jpg', 'description': 'Reality is broken - Jane Mc Gonigal', 'date': '2019-09-02'},
@@ -53,9 +54,11 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('Neal Krawetz Hacker Factor Blog', 'http://www.hackerfactor.com/blog/'),
          ('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
+         ('Du papier et des jeux', 'https://pnpfrance.wordpress.com'),
          ('The Indie RPG Pipeline', 'https://theindierpgpipeline.blogspot.com'),
          ('Derrière le paravent de Greg Pogorzelski', 'http://awarestudios.blogspot.fr'),
          ('Warpdoor', 'http://warpdoor.com'),
+         ('AlphaBetaGamer', 'https://www.alphabetagamer.com'),
          ('OuJeViPo', 'http://oujevipo.fr'),
          ('Blog BD de Boulet', 'http://www.bouletcorp.com'),
          ('J.P. Villain (Access42) @Twitter', 'https://twitter.com/villainjp'),
