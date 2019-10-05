@@ -7,7 +7,7 @@ Image: images/2019/10/GitHub_issues_over_time.png
 ---
 
 <div style="text-align:center;">
-  <iframe src="https://chezsoi.org/lucas/blog/images/2019/19/github-stats.html">
+  <iframe src="https://chezsoi.org/lucas/blog/images/2019/10/github-stats.html">
   <p>Iframes not supported. Click on the link below to access the graphs.</p>
 </iframe></div>
 
@@ -16,7 +16,7 @@ in order to get some insight on some GitHub projects _issues_ & _pull requests_ 
 They are directly inspired by [nf-core project activity statistics](https://nf-co.re/stats#github_prs).
 
 <p class="centered-content">
-   <a target="_blank" href="https://chezsoi.org/lucas/blog/images/2019/09/github-stats.html">
+   <a target="_blank" href="https://chezsoi.org/lucas/blog/images/2019/10/github-stats.html">
    Click here to open those graphs in another tab</a>
 </p>
 
