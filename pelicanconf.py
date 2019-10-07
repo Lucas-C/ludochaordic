@@ -101,7 +101,7 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_image', 'tag_cloud') # TODO: add w3c_validate once https://github.com/getpelican/pelican-plugins/pull/1166 is merged
+PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_image', 'tag_cloud', 'w3c_validate')
 
 DEADLINK_VALIDATION = False  # à activer de temps en temps, inclus quelques faux positifs
 DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings

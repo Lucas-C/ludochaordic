@@ -98,6 +98,8 @@ de 11 pages que je compte tester bientôt et dont je trouve le concept diablemen
 **EDIT [2018/12/01]**: Après l'[avoir testé](/lucas/blog/double-brigade.html), le jeu est pour le moment à l'état de prototype et le système manque d'équilibrage,
 aussi je vous recommande plutôt "Havoc Brigade" de Grant Howitt.
 
+**EDIT [2019/10/07]**: Sur un thème assez similaire, [Menu mystère pour Madame la Duchesse](https://supersepia.itch.io/menu-mystere) est un jeu PbtA très mignon !
+
 ## Wushu
 
 ![Gunfighters formant le symbole Yin/yang](images/2018/11/wushu-logo.jpg)
