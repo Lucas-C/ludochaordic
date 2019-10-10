@@ -15,7 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
-    {'img_url': 'images/readings/density.jpg', 'description': 'Density - Lewis TRONDHEIM & Stan VINCE (BD)', 'date': '2019-10-01'},
+    {'img_url': 'images/readings/density.jpg', 'description': 'Density - Lewis TRONDHEIM & Stan VINCE (BD)', 'date': '2019-10-05'},
     {'img_url': 'images/readings/happycratie.jpg', 'description': 'Happycratie - Edgar Cabanas & Eva Illouz', 'date': '2019-09-02'},
     {'img_url': 'images/readings/energie-changeons-de-cap.jpg', 'description': 'Energie Changeons de cap ! - Didier Lenoir', 'date': '2019-09-02'},
     {'img_url': 'images/readings/reality-is-broken.jpg', 'description': 'Reality is broken - Jane Mc Gonigal', 'date': '2019-09-02'},
@@ -91,7 +91,11 @@ PATH = './content'
 OUTPUT_PATH = './output'
 
 MARKDOWN = {
+    'extensions': ['mdx_include'],
     'extension_configs': {
+        'mdx_include': {
+            'base_path': 'content/'
+        },
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
@@ -101,7 +105,7 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_image', 'tag_cloud', 'w3c_validate')
+PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_image', 'tag_cloud')#, 'w3c_validate')
 
 DEADLINK_VALIDATION = False  # à activer de temps en temps, inclus quelques faux positifs
 DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings

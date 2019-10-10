@@ -2,6 +2,7 @@ beautifulsoup4
 invoke
 git+https://github.com/Lucas-C/python-livereload.git@patch-2
 markdown
+mdx_include
 pelican
 pillow
 py_w3c
