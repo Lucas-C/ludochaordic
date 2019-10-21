@@ -375,9 +375,8 @@ or if you're willing to give me some feedback on this article,
 please add a comment below 😉
 I'll try to answer you questions if you have any !
 
-<!--
-- rename build_page function into generate_page ?
--->
+**[EDIT 2019/10/16]:** I stumbled upon this which seems promising as an alternative to `xreload`:
+<https://github.com/CFSworks/limeade>
 
 <style>
 article iframe {

@@ -1,6 +1,6 @@
 Title: Battledev de RegionJobs : Python vs Java
 Date: 2016-04-14 20:04
-Tags: lang:fr, python, java, battledev, performances, interpreter, pythonchallenge, prog
+Tags: lang:fr, python, java, battledev, performances, interpreter, pythonchallenge, algorithms, prog
 Slug: battledev-de-regionjobs-python-vs-java
 ---
 En mars dernier, j'ai participé à la Battledev de RegionJobs.

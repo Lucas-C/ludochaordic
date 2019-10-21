@@ -1,6 +1,6 @@
 Title: Quick stats on a stream of values in the console
 Date: 2014-09-09 15:09
-Tags: lang:en, bash, unix, shell, statistics, awk, grep, stream, flow, variance, prog
+Tags: lang:en, bash, unix, shell, statistics, awk, grep, stream, flow, variance, algorithms, prog
 Slug: quick-stats-on-a-stream-of-values-in-the-console
 ---
 I often find myself `grep`-ing for information in system or application log files. And often, by combining pipes, I end up generating a flow of values that is sometimes difficult to interpret.
