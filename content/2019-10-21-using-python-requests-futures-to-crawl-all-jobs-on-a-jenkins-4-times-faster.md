@@ -104,7 +104,7 @@ The resulting code is definitively more verbose, but at least 4 times faster fro
 
 Now a word on the algorithmic approach taken here:
 we need to crawl [a tree starting from its root](https://en.wikipedia.org/wiki/Tree_(graph_theory)#Rooted_tree).
-For every node, if is a leaf (an actual _WorkflowJob_) we collect it,
+For every node, if it is a leaf (an actual _WorkflowJob_) we collect it,
 else we need to continue traversing its children.
 
 My initial idea was to start new [concurrent Futures](https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.Future)
@@ -112,13 +112,13 @@ for every child **inside its parent `Future` callback**. However this adds a lot
 ([`cannot schedule new futures after shutdown`](https://github.com/python/cpython/blob/master/Lib/concurrent/futures/thread.py#L168) errors,
 an added difficulty to wait on the last `Future` completion...).
 
-In the end, I realized that because our Jenkins jobs tree has a very low depth,
+In the end, I realized that because our Jenkins job tree has a very low depth,
 a [breadth-first tree traversal](https://en.wikipedia.org/wiki/Breadth-first_search)
 was a very good approach, with a known amount of `Future` requests being triggered for every depth level of the tree.
 This is the solution implemented above.
 
 I'd be happy to know if you already used `requests-futures` in such kind of tree-crawling scenario
-(and I you compared it to other solutions),
+(and if you compared it to other solutions),
 or to answer any other feedback / question you may have.
 
 PS: Many thanks to Vincent Lae for the initial idea ! 😉
