@@ -101,3 +101,12 @@ A Cyberfeminist Manifesto for the 21st Century - 1991:
     }
 </style>
 
+---
+
+<https://fauux.neocities.org>
+
+> Wired
+> Sound For
+> Wired
+> People
+

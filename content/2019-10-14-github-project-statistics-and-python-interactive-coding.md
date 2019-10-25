@@ -378,6 +378,8 @@ I'll try to answer you questions if you have any !
 **[EDIT 2019/10/16]:** I stumbled upon this which seems promising as an alternative to `xreload`:
 <https://github.com/CFSworks/limeade>
 
+**[EDIT 2019/10/24]:** there is also this: <https://github.com/julvo/reloading>
+
 <style>
 article iframe {
   width: 100%;
