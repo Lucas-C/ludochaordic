@@ -15,7 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
-    {'date': u'2019-10-25', 'img_url': 'images/readings/demon.gif.gif', 'description': 'Demon - Jason Shiga (BD)'},
+    {'date': u'2019-10-25', 'img_url': 'images/readings/demon.gif', 'description': 'Demon - Jason Shiga (BD)'},
     {'date': u'2019-10-13', 'img_url': 'images/readings/Fiasco_cover.gif', 'description': 'Fiasco - Jason Morningstar (JdR)'},
     {'date': u'2019-10-05', 'img_url': 'images/readings/density.jpg', 'description': 'Density - Lewis TRONDHEIM & Stan VINCE (BD)'},
     {'date': u'2019-09-02', 'img_url': 'images/readings/happycratie.jpg', 'description': 'Happycratie - Edgar Cabanas & Eva Illouz'},
@@ -67,7 +67,7 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('Blog de David Larlet', 'https://larlet.fr/david/blog/'),
          ('Reflets.info', 'https://reflets.info'),
          ('Tristan Nitot', 'http://standblog.org/blog/post/'),
-         ('Blog de Victor Stinner', 'http://vstinner.readthedocs.io'),
+         ('Blog de Victor Stinner', 'http://vstinner.github.io'),
          ('Rhizome.org', 'https://anthology.rhizome.org'),
          ('Jane McGonigal', 'https://twitter.com/avantgame'),
          ('Jeff Atwodd Coding Horror', 'http://blog.codinghorror.com'),

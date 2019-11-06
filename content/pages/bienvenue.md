@@ -45,6 +45,14 @@ Le choix est purement arbitraire, ce sont simplement les articles dont je suis l
 
 <hr class="clear-floats">
 
+## Projet Euler
+
+[![Badge de progression du projet Euler](https://projecteuler.net/profile/Lucas-C.png)](https://projecteuler.net)
+
+J'aime beaucoup travailler avec d'autres à résoudre des problèmes algorithmiques ou de mathématiques.
+
+Si vous me connaissez, n'hésitez pas à me proposer d'attaquer ensemble un problème coriace du Projet Euler 😉
+
 ## Tag cloud
 
 <!-- tagcloud -->
