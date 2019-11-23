@@ -42,6 +42,8 @@ Il y a également toutes les règles de l'extension **On The Brink**, y compris 
 **EDIT [2019/09/02]** : Nous venons de tester le scénario [**Zombies**](https://boardgamegeek.com/filepage/138412/scenario-zombies)
 et il est vraiment excellent ! La variante de règle qui est introduite change de manière très intéressante le jeu.
 
+**EDIT [2019/11/23]** : Je viens également de publier 2 scénarios de mon cru:
+[Pandemic: Worldwide Research Program & Mass Migrations](/pandemic-worldwide-research-program-and-mass-migrations.html)
 ---
 
 [Mr Jack](//www.trictrac.net/jeu-de-societe/mr-jack) a été une super découverte ! J'en avais seulement entendu parler jusqu'à présent, et le jeu se révèle un très bon défi tactique asymétrique, savamment équilibré.

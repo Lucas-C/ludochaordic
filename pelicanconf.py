@@ -15,7 +15,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
-    {'date': u'2019-11-20', 'img_url': 'images/readings/hitman.jog', 'description': 'Hitman - Closing Time - Garth Ennis & John McCrea (Comics)'},
+    {'date': u'2019-11-20', 'img_url': 'images/readings/hitman.jpg', 'description': 'Hitman - Closing Time - Garth Ennis & John McCrea (Comics)'},
     {'date': u'2019-10-25', 'img_url': 'images/readings/demon.gif', 'description': 'Demon - Jason Shiga (BD)'},
     {'date': u'2019-10-13', 'img_url': 'images/readings/Fiasco_cover.gif', 'description': 'Fiasco - Jason Morningstar (JdR)'},
     {'date': u'2019-10-05', 'img_url': 'images/readings/density.jpg', 'description': 'Density - Lewis TRONDHEIM & Stan VINCE (BD)'},
