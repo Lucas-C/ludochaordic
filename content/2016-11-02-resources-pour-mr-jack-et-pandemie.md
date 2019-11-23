@@ -42,7 +42,8 @@ Il y a également toutes les règles de l'extension **On The Brink**, y compris 
 **EDIT [2019/09/02]** : Nous venons de tester le scénario [**Zombies**](https://boardgamegeek.com/filepage/138412/scenario-zombies)
 et il est vraiment excellent ! La variante de règle qui est introduite change de manière très intéressante le jeu.
 
-**EDIT [2019/11/23]** : Je viens également de publier 2 scénarios de mon cru:
+**EDIT [2019/11/23]** : Je viens de découvrir sur BGG une prometteuse campagne gratuite [Pandemic Story Mode](https://boardgamegeek.com/filepage/191584/pandemic-story-mode-season-1)
+Je viens également de publier deux scénarios de mon cru:
 [Pandemic: Worldwide Research Program & Mass Migrations](/pandemic-worldwide-research-program-and-mass-migrations.html)
 ---
 

@@ -43,7 +43,7 @@ afin de les partager avec vous :
 </a>
 
 La mise en page a été réalisée avec [LibreOffice Draw](https://libreoffice.org/discover/draw/)
-et [Gimp](https://www.gimp.org).
+et [Gimp](https://www.gimp.org). Merci beaucoup à Laëtitia en particulier pour les parties de test !
 
 Je serais ravis de savoir ce que vous en avez pensé si vous jouez à l'une de ces variantes !
 Si c'est le cas, laissez-moi un commentaire au bas de cette page.
