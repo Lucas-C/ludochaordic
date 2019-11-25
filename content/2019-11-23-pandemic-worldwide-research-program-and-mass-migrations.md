@@ -21,12 +21,20 @@ afin de les partager avec vous :
 > Tandis que vous œuvrez à maintenir l’épidémie, réussirez-vous à collecter tous leurs travaux
 > pour résoudre la crise ?
 
-<a href="images/jeux/Pandemic Scenario Worldwide Research Program FR v1.0.pdf">
-  <figure>
-    <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
-    <figcaption>Scénario <em>Programme de Recherche Mondial</em> (PDF 1 page 6,8 Mo)</figcaption>
-  </figure>
-</a>
+<div class="imgs">
+  <a href="images/jeux/Pandemic Scenario Worldwide Research Program FR v1.0.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
+      <figcaption><em>Programme de Recherche Mondial</em> (PDF 1 page 6,8 Mo)</figcaption>
+    </figure>
+  </a>
+  <a href="images/jeux/Pandemic Scenario Worldwide Research Program FR v1.0 printerfriendly.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_WorldwideResearchProgram.jpg">
+      <figcaption>(printer-friendly PDF 1 page 5,9 Mo)</figcaption>
+    </figure>
+  </a>
+</div>
 
 ### Migrations de Masse
 
@@ -35,12 +43,20 @@ afin de les partager avec vous :
 > si bien que des exodes de masse se produisent régulièrement vers des villes
 > que la population croit épargnées.
 
-<a href="images/jeux/Pandemic Scenario Mass Migrations FR v1.0.pdf">
-  <figure>
-    <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
-    <figcaption>Scénario <em>Migrations de Masse</em> (PDF 1 page 1,4 Mo)</figcaption>
-  </figure>
-</a>
+<div class="imgs">
+  <a href="images/jeux/Pandemic Scenario Mass Migrations FR v1.0.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
+      <figcaption><em>Migrations de Masse</em> (PDF 1 page 1,4 Mo)</figcaption>
+    </figure>
+  </a>
+  <a href="images/jeux/Pandemic Scenario Mass Migrations FR v1.0 printerfriendly.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_MassMigrations.jpg">
+      <figcaption>(printer-friendly PDF 1 page 0,9 Mo)</figcaption>
+    </figure>
+  </a>
+</div>
 
 La mise en page a été réalisée avec [LibreOffice Draw](https://libreoffice.org/discover/draw/)
 et [Gimp](https://www.gimp.org). Merci beaucoup à Laëtitia en particulier pour les parties de test !
@@ -60,12 +76,20 @@ that I recently created:
 > While you strive to contain plagues, will you succeed in collecting
 > those scientists work in order to solve the crisis ?
 
-<a href="images/jeux/Pandemic Scenario Worldwide Research Program EN v1.0.pdf">
-  <figure>
-    <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
-    <figcaption>Scenario <em>Worldwide Research Program</em> (PDF 1 page 6,8 Mo)</figcaption>
-  </figure>
-</a>
+<div class="imgs">
+  <a href="images/jeux/Pandemic Scenario Worldwide Research Program EN v1.0.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
+      <figcaption><em>Worldwide Research Program</em> (PDF 1 page 6,8 Mo)</figcaption>
+    </figure>
+  </a>
+  <a href="images/jeux/Pandemic Scenario Worldwide Research Program EN v1.0 printerfriendly.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_WorldwideResearchProgram.jpg">
+      <figcaption>( printer-friendly PDF 1 page 5,9 Mo)</figcaption>
+    </figure>
+  </a>
+</div>
 
 ### Mass Migrations
 
@@ -73,15 +97,31 @@ that I recently created:
 > causing widespread panic, so much that mass exoduses started to occur,
 > to cities that the population believes spared…
 
-<a href="images/jeux/Pandemic Scenario Mass Migrations EN v1.0.pdf">
-  <figure>
-    <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
-    <figcaption>Scénario <em>Mass Migrations</em> (PDF 1 page 1,4 Mo)</figcaption>
-  </figure>
-</a>
+<div class="imgs">
+  <a href="images/jeux/Pandemic Scenario Mass Migrations EN v1.0.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
+      <figcaption><em>Mass Migrations</em> (PDF 1 page 1,4 Mo)</figcaption>
+    </figure>
+  </a>
+  <a href="images/jeux/Pandemic Scenario Mass Migrations EN v1.0 printerfriendly.pdf">
+    <figure>
+      <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_MassMigrations.jpg">
+      <figcaption>(printer-friendly PDF 1 page 0,9 Mo)</figcaption>
+    </figure>
+  </a>
+</div>
 
 The typesetting was done with [LibreOffice Draw](https://libreoffice.org/discover/draw/)
 and [Gimp](https://www.gimp.org).
 
 I'd love to have your feedback if you play one of those variants !
 If so, please leave a comment below.
+
+<style>
+.imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+</style>
