@@ -80,13 +80,13 @@ that I recently created:
   <a href="images/jeux/Pandemic Scenario Worldwide Research Program EN v1.0.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
-      <figcaption><em>Worldwide Research Program</em> (PDF 1 page 6,8 Mo)</figcaption>
+      <figcaption><em>Worldwide Research Program</em> (PDF 1 page 6,8 MB)</figcaption>
     </figure>
   </a>
   <a href="images/jeux/Pandemic Scenario Worldwide Research Program EN v1.0 printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_WorldwideResearchProgram.jpg">
-      <figcaption>( printer-friendly PDF 1 page 5,9 Mo)</figcaption>
+      <figcaption>(printer-friendly PDF 1 page 5,9 MB)</figcaption>
     </figure>
   </a>
 </div>
@@ -101,13 +101,13 @@ that I recently created:
   <a href="images/jeux/Pandemic Scenario Mass Migrations EN v1.0.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
-      <figcaption><em>Mass Migrations</em> (PDF 1 page 1,4 Mo)</figcaption>
+      <figcaption><em>Mass Migrations</em> (PDF 1 page 1,4 MB)</figcaption>
     </figure>
   </a>
   <a href="images/jeux/Pandemic Scenario Mass Migrations EN v1.0 printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_MassMigrations.jpg">
-      <figcaption>(printer-friendly PDF 1 page 0,9 Mo)</figcaption>
+      <figcaption>(printer-friendly PDF 1 page 0,9 MB)</figcaption>
     </figure>
   </a>
 </div>
@@ -117,6 +117,9 @@ and [Gimp](https://www.gimp.org).
 
 I'd love to have your feedback if you play one of those variants !
 If so, please leave a comment below.
+
+**EDIT [2019/11/30]**: all the LibreOffice source files can be found here:
+<https://gitlab.com/Lucas-C/board-games/tree/master/PandemicScenarios>
 
 <style>
 .imgs {
