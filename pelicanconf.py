@@ -6,7 +6,23 @@ from os.path import dirname, join
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'
 SITESUBTITLE = 'Fantaisies programatico-ludiques'
-DESCRIPTION = 'programmation, maths, jeux de société et de rôle'
+DESCRIPTION = '''
+<a href="/pages/bienvenue.html">Bienvenue</a> !
+<br>
+En vrac, ce blog traite de <a href="/?tags=prog">programmation</a>, et particulièrement du <a href="/tag/python.html">langage Python</a>,
+de <a href="/?tags=jeux">jeux</a> (<a href="/tag/jeu-de-societe.html">jeux société</a>, <a href="/tag/jdr.html">jeux de rôle</a> et <a href="/tag/puzzle.html">puzzles logiques</a>)
+et parfois un peu même de <a href="/?tags=maths">mathématiques</a>.
+<br>
+Vous trouverez également ici <a href="/pages/jeux-de-role.html">mes créations de jeux de rôle</a>,
+les <a href="/pages/slides.html">slides</a> de présentations que j'ai donné,
+et <a href="/past_readings.html">mes lectures passés</a>.
+<br>
+Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.org/shaarli/">Shaarli</a>.
+<br>
+<small><em>(you can display English articles only by clicking <a href="/?tags=lang:en">the LANG button above</a>)</em></small>
+<br>
+<small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les !</em>😉<em>)</em></small>
+'''
 
 AVATARS = [
     'images/avatar.jpeg',
@@ -145,6 +161,8 @@ EXTRA_ATOM_FEED = {
     'name': 'Shaarli',
     'url': 'https://chezsoi.org/shaarli/?do=atom'
 }
+
+IGNORE_FILES = ['github-project-statistics-and-python-interactive-coding', 'github-stats.html']
 
 
 #######################################

@@ -10,18 +10,25 @@ Summary: Bienvenue sur ce blog :) Je me présente en quelques mots
 
 ## Bonjour !
 
-Bienvenue sur ce blog :)
+Bienvenue sur mon site 😉
 
-Je me présente en quelques mots: Lucas Cimon,
-Angers et Nantes,
-programmation, Python, open source et logiciel libre,
-jeux et jeux de rôles,
-[Jugger](https://www.youtube.com/watch?v=x4Ss-ZG6M1g) et mathématiques.
+Je m'appelle Lucas Cimon.
 
-Si j'ai mis en place ce site, c'est pour partager des découvertes en tout genre,
-des astuces de programmation, des réflexions et des émotions.
+Je suis un créateur de jeux,
+et un ingénieur en développement logiciel.
 
-N'hésitez donc pas à me faire part de vos retours sur son contenu !
+Je vis dans la commune de Saint-Mathurin-sur-Loire
+et je travaille dans la région entre Angers et Nantes, actuellement pour [oui.sncf](https://www.oui.sncf).
+
+J'ai mis en place ce blog pour partager des découvertes en tout genre,
+des réflexions, des émotions, et certaines de mes créations.
+
+Comme l'atteste le [_tag cloud_](/pages/bienvenue.html#tagcloud) ci-dessous,
+mes sujets de prédilection sont la programmation, et en particulier le langage Python,
+les logiciels libres et _open source_,
+les jeux de sociétés, les puzzles logiques et les jeux de rôles.
+
+N'hésitez pas à me faire part de vos retours sur son contenu !
 
 À noter: techniquement, ce blog s'efforce de suivre la philosophie [_low tech_](https://homebrewserver.club/low-tech-website-howto.html#software).
 
@@ -53,7 +60,7 @@ J'aime beaucoup travailler avec d'autres à résoudre des problèmes algorithmiq
 
 Si vous me connaissez, n'hésitez pas à me proposer d'attaquer ensemble un problème coriace du Projet Euler 😉
 
-## Tag cloud
+<h2 id="tagcloud">Tag cloud</h2>
 
 <!-- tagcloud -->
 
