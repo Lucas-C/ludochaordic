@@ -7,19 +7,19 @@ AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'
 SITESUBTITLE = 'Fantaisies programatico-ludiques'
 DESCRIPTION = '''
-<a href="/pages/bienvenue.html">Bienvenue</a> !
+<a href="pages/bienvenue.html">Bienvenue</a> !
 <br>
-En vrac, ce blog traite de <a href="/?tags=prog">programmation</a>, et particulièrement du <a href="/tag/python.html">langage Python</a>,
-de <a href="/?tags=jeux">jeux</a> (<a href="/tag/jeu-de-societe.html">jeux société</a>, <a href="/tag/jdr.html">jeux de rôle</a> et <a href="/tag/puzzle.html">puzzles logiques</a>)
-et parfois un peu même de <a href="/?tags=maths">mathématiques</a>.
+En vrac, ce blog traite de <a href="tag/prog.html">programmation</a>, et particulièrement du <a href="tag/python.html">langage Python</a>,
+de <a href="tag/jeu.html">jeux</a> (<a href="tag/jeu-de-societe.html">jeux société</a>, <a href="tag/jdr.html">jeux de rôle</a> et <a href="tag/puzzle.html">puzzles logiques</a>)
+et parfois un peu même de <a href="tag/maths.html">mathématiques</a>.
 <br>
-Vous trouverez également ici <a href="/pages/jeux-de-role.html">mes créations de jeux de rôle</a>,
-les <a href="/pages/slides.html">slides</a> de présentations que j'ai donné,
-et <a href="/past_readings.html">mes lectures passés</a>.
+Vous trouverez également ici <a href="pages/jeux-de-role.html">mes créations de jeux de rôle</a>,
+les <a href="pages/slides.html">slides</a> de présentations que j'ai donné,
+et <a href="past_readings.html">mes lectures passés</a>.
 <br>
 Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.org/shaarli/">Shaarli</a>.
 <br>
-<small><em>(you can display English articles only by clicking <a href="/?tags=lang:en">the LANG button above</a>)</em></small>
+<small><em>(you can display English articles only by clicking <a href="?tags=lang:en">the LANG button above</a>)</em></small>
 <br>
 <small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les !</em>😉<em>)</em></small>
 '''
