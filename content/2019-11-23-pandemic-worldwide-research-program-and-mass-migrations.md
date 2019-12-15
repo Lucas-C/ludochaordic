@@ -121,6 +121,9 @@ If so, please leave a comment below.
 **EDIT [2019/11/30]**: all the LibreOffice source files can be found here:
 <https://gitlab.com/Lucas-C/board-games/tree/master/PandemicScenarios>
 
+**EDIT [2019/12/15]**: Michael Schlindwein kindly sent me a German translation of the Mass Migrations scenario:
+[![druckfreundlich](images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg)](images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg)
+
 <style>
 .imgs {
     display: flex;
