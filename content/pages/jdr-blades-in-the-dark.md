@@ -239,36 +239,62 @@ A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de
 
 - la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec Aldo, Justinia et Melvir, mais aussi Grell Jayan blessé au ventre et le corps inanimé d'Ethnos
 
-- Ethnos, dans le corps de Ludius recouvert d'étranges tatouages mouvants, entrepose son corps originel au milieu de sacs de sel, et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe. Elle finit par sortir, furieuse, en claquant la porte
+- Ethnos, dans le corps de Ludius recouvert d'étranges tatouages mouvants, entrepose son corps originel au milieu de sacs de sel,
+et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe. Elle finit par sortir, furieuse, en claquant la porte
 
-- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ; Ethnos étudie des grimoires dans le bureau - bibliothèque de Ludius pour trouver un moyen e retrouver son corps ; Elaria dépouille **Toni les deux saucisses**, un boucher de Beef Market, de sa recette hebdomadaire, avec d'une mendiante qui l'a mise sur le coup
+- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ; Ethnos étudie des grimoires dans le bureau - bibliothèque de Ludius pour trouver un moyen e retrouver son corps ;
+Elaria dépouille **Toni les deux saucisses**, un boucher de Beef Market, de sa recette hebdomadaire, avec l'aide d'une mendiante qui l'a mise sur le coup
 
-- au petit matin, le gang fait le point sur la situation. Ethnos révèle au groupe qu'il est bien malgré lui désormais dans le corps de Ludius. Il est convenu qu'il joue son rôle tant qu'une solution n'est pas trouvée pour qu'il réintègre le sien
+- au petit matin, le gang fait le point sur la situation. Ethnos révèle au groupe qu'il est bien malgré lui désormais dans le corps de Ludius.
+Il est convenu qu'il joue son rôle tant qu'une solution n'est pas trouvée pour qu'il réintègre le sien
 
-- après quelques discussions, un plan émerge : le gang du Harpon va approcher celui de l'Écharpe Rouge et conclure un deal avec Bell pour se partager la portion du territoire Crows de Lyssa et l'évincer. Tandis qu'Elaria & Ethnos-Ludius se rendent à l'école de l'Écharpe Rouge, Eric va repérer les lieux au niveau du lupanar où Lyssa a établi son quartier général. En effet, son activité principal au sein du gang Crows étant le racket et la gestion de bordel, tandis que Bell s'occupe surtout du trafic d'armes.
+- après quelques discussions, un plan émerge : le gang du Harpon va approcher celui de l'Écharpe Rouge et conclure un deal avec Bell pour se partager la portion du territoire Crows de Lyssa et l'évincer.
+Tandis qu'Elaria & Ethnos-Ludius se rendent à l'école de l'Écharpe Rouge, Eric va repérer les lieux au niveau du lupanar où Lyssa a établi son quartier général.
+En effet, son activité principal au sein du gang Crows étant le racket et la gestion de bordel, tandis que Bell s'occupe surtout du trafic d'armes.
 
 > Eh, ya plein de fois où j'ai tabassé personne ! - Eric
 
-- les autres membres du gang ont également de quoi s'occuper : Melvir garde la baraque et veille sur le corps d'Ethnos; Aldo fait courir le bruit auprès de ses anciens frères d'arme chez les Crows que Rorik est revenu d'entre les morts punir la traîtresse Lyssa et quel le gang du Harpon soutient Bell; Justinia contacte les fidèles de Grell Jayan ayant survécu pour le leur confier, et a fini par céder et accepter de rencontrer Conway pour un rencard à contre-cœur...
+- les autres membres du gang ont également de quoi s'occuper : Melvir garde la baraque et veille sur le corps d'Ethnos; Aldo fait courir le bruit auprès de ses anciens frères d'arme chez les Crows
+que Rorik est revenu d'entre les morts punir la traîtresse Lyssa et quel le gang du Harpon soutient Bell;
+Justinia contacte les fidèles de Grell Jayan ayant survécu pour le leur confier, et a fini par céder et accepter de rencontrer Conway pour un rencard à contre-cœur...
 
-- après avoir fait parvenir un message à l'Écharpe Rouge annonçant leur intention de leur rendre visite en apportant un cadeau, Ethnos-Ludius et Elaria se rendent à leur école centrale. Ils y sont reçu avec faste, et invités à déjeuner autour d'un banquet raffiné en compagnie de leur chef **Mylera Klev** et d'un de ses lieutenants les plus anciens, **Oru**. Le gang du harpon leur remet l'équivalent d'un demi-tonnelet de sang de Léviathan, placé dans des fioles ornementées, et leur cadeau est très bien reçu. L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
+- après avoir fait parvenir un message à l'Écharpe Rouge annonçant leur intention de leur rendre visite en apportant un cadeau, Ethnos-Ludius et Elaria se rendent à leur école centrale.
+Ils y sont reçu avec faste, et invités à déjeuner autour d'un banquet raffiné en compagnie de leur chef **Mylera Klev** et d'un de ses lieutenants les plus anciens, **Oru**.
+Le gang du harpon leur remet l'équivalent d'un demi-tonnelet de sang de Léviathan, placé dans des fioles ornementées, et leur cadeau est très bien reçu.
+L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
+<figure>
+  <img alt="Ethnos" src="images/bitd/sebastian-bauer-dojo-05.jpg">
+  <figcaption>Le dojo de l'Écharpe Rouge</figcaption>
+</figure>
 
-- de son côté Eric observe d'abord le lupanar depuis le bar d'en face, puis finalement retrouve une prostituée qu'il connaît et décide de s'adonner à son vice et d'aller y passer du bon temps avec elle... pour finalement se faire chasser par les videurs car il gêne les autres clients en faisant trop de bruit !
+- de son côté Eric observe d'abord le lupanar depuis le bar d'en face, puis retrouve une prostituée qu'il connait et décide de s'adonner à son vice en allant y passer du bon temps avec elle...
+pour finalement se faire chasser par les videurs car il gêne les autres clients en faisant trop de bruit !
 
-- les PJs se retrouvent et se rendent ensuite ensemble à la tour de l'horloge, au centre du territoire des Crows, pour y rencontrer Bell. Cette fois la discussion se révèle tendue. Bell leur fait comprendre qu'il n'apprécie qu'ils aient débauché Aldo, et que les conflits internes au gang Crows ne regardent personne d'extérieur. Il finit par s'énerver quand les PJs évoquent l'idée de partager le territoire de Lyssa, et la rencontre se termine précipitamment
+- les PJs se retrouvent et se rendent ensuite ensemble à la tour de l'horloge, au centre du territoire des Crows, pour y rencontrer Bell. Cette fois la discussion se révèle tendue.
+Bell leur fait comprendre qu'il n'apprécie pas qu'ils aient débauché Aldo, et que les conflits internes au gang Crows ne regardent personne d'extérieur.
+Il finit par s'énerver quand les PJs évoquent l'idée de partager le territoire de Lyssa, et la rencontre se termine précipitamment.
 
-- pour finir la journée, les PJs décident de profiter des repérages d'Eric et d'organiser une opération le soir même sur le lupanar de Lyssa. Eric profite de la complicité de la fille de joie qu'il connaît pour y introduire Elaria cachée dans un tonneau. Il provoque ensuite les gardes et les attire dans une ruelle où il les élimine rapidement avec l'aide d'Aldo et Melvir. L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyssa éliminés et Ethnos-Ludius faisant une entrée fracassante au milieu du bordel avec ses deux hachettes
+![La tour de l'horloge des Crows](images/bitd/SMClocktower-CG1.jpg)
 
-- soudain, une calèche et un chariot déboule dans la cour intérieure. Aussitôt qu'elle aperçoit Lyssa à l'intérieur, Elaria lui lance un couteau dans l’œil ! Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par la même occasion Bell qui était leur prisonnier, dans une explosion de flammes sous les yeux d'une foule de badauds éberlués
+- pour finir la journée, les PJs décident de profiter des repérages d'Eric et d'organiser une opération le soir même sur le lupanar de Lyssa.
+Eric profite de la complicité de la fille de joie qu'il connait pour y introduire Elaria cachée dans un tonneau.
+Il provoque ensuite les gardes et les attire dans une ruelle où il les élimine rapidement avec l'aide d'Aldo et Melvir.
+L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyssa éliminés, et Ethnos-Ludius faisant une entrée fracassante au milieu du bordel avec ses deux hachettes.
+
+- soudain, une calèche et un charriot déboulent dans la cour intérieure. Aussitôt qu'elle aperçoit Lyssa à l'intérieur, Elaria lui lance un couteau dans l’œil !
+Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par la même occasion Bell qui était leur prisonnier, dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
+
+## Session 6 - 8 février 2020
 
 <!-- Idées :
-  * ils reviennent à leur planque et détecte que quelqu'un leur a rendu visite
+  * ils reviennent à leur planque et détectent que quelqu'un leur a rendu visite
   * corps Ethnos vulnérable à la possession par tout esprit de passage...
   * gimmicks pour chaque PNJ:
     + renifle tout, les gens, les lieux
     + obsedé par les croix
     + adore la musique
     + joue continuellement avec une pierre à aiguiser
+  * en intérieur, dans une pièce avec des tentures, celles-ci sont brusquement soulevés par une tempête !
 -->
 
 <style>
