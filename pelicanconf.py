@@ -31,6 +31,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2019-12-28', 'img_url': 'images/readings/infinity8_tome5.jpg', 'description': 'Infinity 8 - tome 5 - Lewis Trondheim & Davy Mourier & Lorenzo De Felici (BD)'},
     {'date': u'2019-12-22', 'img_url': 'images/readings/mamada.jpg', 'description': 'Mamada - David Ratte (BD)'},
     {'date': u'2019-12-14', 'img_url': 'images/readings/garduno.jpg', 'description': 'Garduno - Philippe Squarzoni (BD)'},
     {'date': u'2019-11-30', 'img_url': 'images/readings/ian.jpg', 'description': 'Ian - Fabien Vehlmann & Ralph Meyer (BD)'},
