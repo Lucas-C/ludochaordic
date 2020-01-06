@@ -80,10 +80,13 @@ Je conclue avec quelques idées en vrac, que je compte exploiter pour mes procha
 * infiltration dans un lieu bourré d'ennemis :
     + par où passer pour éviter de déclencher les systèmes d'alarme ?
     + anticiper les déplacements des gardes permet de les éviter
-* énigme : 3 leviers positionnables, ou code à rentrer + indice quelque part que le même chiffre se répète 4x
+* PNJ bloquant le passage, et testant le PJ par des questions pour savoir s'il est authorisé à continuer,ou s'il doit être neutralisé
+* énigme ne permettant qu'un seul essai, mais résolvable en itérant toutes les possibilités :
+3 leviers positionnables, ou code à rentrer + indice quelque part que le même chiffre se répète 4x
 * scénario « en Y » :
     + un 1er "chemin" mène à un obstacle
     + un 2e permet d'accéder à la solution, ailleurs géographiquement
+* scénario où le cadavre du PJ est toujours présent dans les itérations suivantes !
 
 Enfin, j'introduirai peut-être une règle spéciale _Next_ : au prix de 2min de moins sur le compte à rebour,
 le personnage peut explorer toutes les alternatives temporelles d'un problème à un moment donné de la partie,
