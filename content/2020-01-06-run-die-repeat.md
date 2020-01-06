@@ -10,7 +10,7 @@ Vendredi dernier, j'ai eu l'occasion de tester pas moins de 3 nouveaux jeux de r
 J'ai tellement apprécié le jeu, que j'en ai fait une traduction en français.
 
 Vous pouvez y accéder en cliquant sur l'aperçu ci-dessous (PDF, 37 Ko) :
-[![Aperçu du jeu Run Die Repeat](images/2020/01/run-die-repeat.png)](images/jdr/RunDieRepeat-FR.pdf)
+[![Run Die Repeat](images/2020/01/RunDieRepeat.jpg)](images/jdr/RunDieRepeat-FR.pdf)
 
 Le jeu se classe dans la catégorie des mini jeux de rôle monopage, ne nécessitant aucune préparation,
 conçus pour de courtes sessions effrénées, improvisées n’importe où, n’importe quand.
@@ -68,9 +68,6 @@ et ça avait été source de scènes mythiques.
 
 En tout cas, ce jeu me parait idéal pour le fins de soirées JdR où personne n'est trop pressé de partir,
 où même en convention !
-
-Je n'ai pas encore testé [les autres jeux de Labrys Games](https://labrysgames.itch.io),
-mais je vais sûrement bientôt y jeter un oeil :)
 
 Je conclue avec quelques idées en vrac, que je compte exploiter pour mes prochaines partie de _Run. Die. Repeat._ :
 

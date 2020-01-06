@@ -9,7 +9,7 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Run. Die. Repeat</h2>
-    <img class="uk-align-center" src="images/2020/01/run-die-repeat.png" alt="Run. Die. Repeat preview">
+    <img class="uk-align-center" src="images/2020/01/RunDieRepeat.jpg" alt="Run. Die. Repeat">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Traduction d'un jeu monopage</dd>
