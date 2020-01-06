@@ -1,6 +1,6 @@
 Title: Courir. Mourir. Recommencer.
 Date: 2020-01-06 21:00
-Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, compte-rendu, traduction, variante, @Camille, @Matt, @Michael, jeux
+Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, compte-rendu, traduction, variante, cthulhu, @Matt, @Michael, @Laetitia, jeux
 Slug: run-die-repeat
 ---
 
@@ -9,7 +9,7 @@ Vendredi dernier, j'ai eu l'occasion de tester pas moins de 3 nouveaux jeux de r
 
 J'ai tellement apprécié le jeu, que j'en ai fait une traduction en français.
 
-Vous pouvez y accéder en cliquant sur l'aperçu ci-dessous :
+Vous pouvez y accéder en cliquant sur l'aperçu ci-dessous (PDF, 37 Ko) :
 [![Aperçu du jeu Run Die Repeat](images/2020/01/run-die-repeat.png)](images/jdr/RunDieRepeat-FR.pdf)
 
 Le jeu se classe dans la catégorie des mini jeux de rôle monopage, ne nécessitant aucune préparation,
@@ -90,3 +90,10 @@ le personnage peut explorer toutes les alternatives temporelles d'un problème �
 comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
 Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d'enchainements de coup
 pour en finir avec ses adversaires en mode _Matrix_ !
+
+<style>
+article iframe {
+  display: block;
+  margin: 0 auto;
+}
+</style>

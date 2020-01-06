@@ -8,6 +8,28 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Run. Die. Repeat</h2>
+    <img class="uk-align-center" src="images/2020/01/run-die-repeat.png" alt="Run. Die. Repeat preview">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction d'un jeu monopage</dd>
+        <dt>Pour</dt><dd>1 MJ + 2 à 5 joueurs</dd>
+        <dt>Durée</dt><dd>20-40min</dd>
+      </dl>
+      <ul>
+        <li><a href="images/jdr/RunDieRepeat-FR.pdf">Traduction française du jeu (PDF, 37Ko)</a></li>
+        <li><a href="run-die-repeat.html">Article de présentation</a></li>
+      </ul>
+      <blockquote>
+      Vous êtes piégé dans un cauchemar, pourchassé par des monstres.
+      Chaque fois que vous mourrez, vous recommencez exactement au même endroit, au même instant.
+      Trouverez-vous comment vous échapper ?
+      <br>
+      Un jeu ne nécessitant aucune préparation, conçu pour de courtes sessions effrénées, improvisées n’importe où, n’importe quand.
+      </blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Dungeon Hearts - Heroes & Spells</h2>
     <img class="uk-align-center" src="images/2019/06/aggron_stonebreak_the_ogre_magi_by_halycon450.png" alt="Aggron Stonebreak The Ogre Magi">
     <div class="uk-thumbnail-caption">
@@ -100,7 +122,6 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
         <dt>Genre</dt><dd>Jeu complet en 10 pages</dd>
         <dt>Pour</dt><dd>1 MJ + 2 à 4 joueurs</dd>
         <dt>Durée</dt><dd>4h à 6h</dd>
-        <!--dt>Playtests</dt><dd>3</dd-->
       </dl>
       <ul>
         <li><a href="ameres-victoires-et-glorieuses-defaites.html">Article de présentation</a></li>
@@ -120,7 +141,6 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
         <dt>Genre</dt><dd>Jeu complet en 1 page</dd>
         <dt>Pour</dt><dd>1 MJ + 2 à 4 joueurs</dd>
         <dt>Durée</dt><dd>environ 2 heures</dd>
-        <!--dt>Playtests</dt><dd>1</dd-->
       </dl>
       <ul>
         <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de présentation</a></li>
@@ -139,7 +159,6 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Aide de jeu pour un JdR gratuit PbtA</dd>
         <dt>Pour</dt><dd>1 MJ + 2 à 4 joueurs</dd>
-        <!--dt>Playtests</dt><dd>0</dd-->
       </dl>
       <ul>
         <li><a href="scavengers-anomalies-nauchoresques.html">Article de présentation</a></li>
