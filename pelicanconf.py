@@ -19,7 +19,7 @@ et <a href="past_readings.html">mes lectures passés</a>.
 <br>
 Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.org/shaarli/">Shaarli</a>.
 <br>
-<small><em>(you can display English articles only by clicking <a href="?tags=lang:en">the LANG button above</a>)</em></small>
+<small><em>(you can display English articles only by clicking <a href="?lang=en">the LANG button above</a>)</em></small>
 <br>
 <small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les !</em>😉<em>)</em></small>
 '''
