@@ -40,7 +40,14 @@ Ils ont ensuite ramassé son fusil, pris sa voiture, foncé à toute berzingue v
 traversé un mur de feu invoqué par les cultistes, descendu les marches du phare jusqu'à une crique,
 mais pas réussi à descendre le grande prêtre avant qu'il ne remette l'artefact aux [Profonds](https://fr.wikipedia.org/wiki/Ceux_des_profondeurs).
 
-![Cthulhu looming](images/2020/01/Spawn_of_the_Stars_by_Sofyan_Syarief.jpg)
+<figure role="group">
+  <img alt="Cthulhu looming" src="images/2020/01/Spawn_of_the_Stars_by_Sofyan_Syarief.jpg">
+  <figcaption>
+    <a href="https://commons.wikimedia.org/wiki/File:Spawn_of_the_Stars_by_Sofyan_Syarief.jpg">
+      Spawn of the Stars by Sofyan Syarief
+    </a>
+  </figcaption>
+</figure> 
 
 Pour la seconde session de 20min, j'ai voulu justifier un peu le mécanisme de boucle temporelle :
 
