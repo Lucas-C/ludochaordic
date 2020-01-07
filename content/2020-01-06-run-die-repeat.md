@@ -102,8 +102,8 @@ mais sans lesquelles une seconde série de dangers est extrémement difficile à
     plein de gadgets dans les poches - à les libertés des joueurs, des grapins, des armes à feu avec silencieux,
     des gardes partout, un boss ninja super balèze...)
 
-Enfin, j'introduirai peut-être une règle spéciale _Next_ : au prix de 2min de moins sur le compte à rebour,
-le personnage peut explorer toutes les alternatives temporelles d'un problème à un moment donné de la partie,
+Enfin, j'introduirai peut-être une **règle spéciale _Next_** : au prix de **2min de moins** sur le compte à rebour,
+le personnage peut **explorer toutes les alternatives temporelles** d'un problème à un moment donné de la partie,
 comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
 Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d'enchainements de coup
 pour en finir avec ses adversaires en mode _Matrix_ !
