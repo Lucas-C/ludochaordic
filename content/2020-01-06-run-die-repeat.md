@@ -40,14 +40,14 @@ Ils ont ensuite ramassé son fusil, pris sa voiture, foncé à toute berzingue v
 traversé un mur de feu invoqué par les cultistes, descendu les marches du phare jusqu'à une crique,
 mais pas réussi à descendre le grande prêtre avant qu'il ne remette l'artefact aux [Profonds](https://fr.wikipedia.org/wiki/Ceux_des_profondeurs).
 
-![](images/2020/01/Spawn_of_the_Stars_by_Sofyan_Syarief.jpg)
+![Cthulhu looming](images/2020/01/Spawn_of_the_Stars_by_Sofyan_Syarief.jpg)
 
 Pour la seconde session de 20min, j'ai voulu justifier un peu le mécanisme de boucle temporelle :
 
 > Tu es en cellule au comissariat, tu viens d'être arrêté pour un crime où tu risques perpétuité.
 > Soudain, un paquet craft atterrit à tes pieds, lancé de l'extérieur à travers une lucarne.
 > Dedans, tu trouves une machine avec [un étrange mécanisme](images/2020/01/convecteur-temporel-app-store.jpg)
-> ainsi que ce mot : « Fait sortir Loubianov par l'arrière-court »
+> incluant un compte à rebour de 20min, ainsi que ce mot : « Fait sortir Loubianov par l'arrière-court »
 
 Cette fois-ci, les joueurs ont mis un peu de temps avant de trouver comment sortir de leur cellule...
 Ils ont finalement demander à passer lors coup de fil réglementaire,
@@ -69,6 +69,10 @@ et ça avait été source de scènes mythiques.
 En tout cas, ce jeu me parait idéal pour le fins de soirées JdR où personne n'est trop pressé de partir,
 où même en convention !
 
+En termes de règles sur les jets de dés, durant nos parties le « 6 ou rien » m'a parfois paru un peu drastique.
+J'ai donc occasionnelement considéré qu'une action bien pensée était une réussite automatique,
+ou demandé un jet **4+** / **5+**.
+
 Je conclue avec quelques idées en vrac, que je compte exploiter pour mes prochaines partie de _Run. Die. Repeat._ :
 
 * adversaire redoutable (gigantesque ?) à affronter. Au fil des itérations, il faut deviner :
@@ -80,10 +84,23 @@ Je conclue avec quelques idées en vrac, que je compte exploiter pour mes procha
 * PNJ bloquant le passage, et testant le PJ par des questions pour savoir s'il est authorisé à continuer,ou s'il doit être neutralisé
 * énigme ne permettant qu'un seul essai, mais résolvable en itérant toutes les possibilités :
 3 leviers positionnables, ou code à rentrer + indice quelque part que le même chiffre se répète 4x
-* scénario « en Y » :
-    + un 1er "chemin" mène à un obstacle
-    + un 2e permet d'accéder à la solution, ailleurs géographiquement
 * scénario où le cadavre du PJ est toujours présent dans les itérations suivantes !
+* scénario à ressources limitées (exemple : 1 balle restante + 1 grenade éblouissante + 1 gadget ouvreur de porte)
+avec lesquelles les premiers obstacles peuvent être facilement franchis,
+mais sans lesquelles une seconde série de dangers est extrémement difficile à traverser
+* scénario « en Y » :
+    + un 1er « chemin » mène à un obstacle
+    + un 2e permet d'accéder à la solution, ailleurs géographiquement
+* scénario où après plusieurs itérations les joueurs trouvent un « raccourci » pour éviter les N premières actions
+* ambiances / univers intéressants :
+    + tranchées pendant la grande guerre (« il faut sauver le soldat X », ogive explose à proximité,
+      espace à découvert à franchir, gaz moutarde avec masque à récupérer dans une pièce de la tranchée, mines ...)
+    + ring de catch : toute la partie est centrée sur le combat spectaculaire avec un adversaire retord
+    + donjon à la D&D, bourré de pièges et de monstres (marteau-balancier géant, escalier-glissière,
+    dards empoisonnés, flammes, tunnels labyrinthiques, gobelins, squelettes, basilic...)
+    + mission d'infiltration dans une base militaire, à la _Metal Gear Solid_ (photo d'une arme secrète à prendre,
+    plein de gadgets dans les poches - à les libertés des joueurs, des grapins, des armes à feu avec silencieux,
+    des gardes partout, un boss ninja super balèze...)
 
 Enfin, j'introduirai peut-être une règle spéciale _Next_ : au prix de 2min de moins sur le compte à rebour,
 le personnage peut explorer toutes les alternatives temporelles d'un problème à un moment donné de la partie,
