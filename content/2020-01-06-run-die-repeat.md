@@ -99,6 +99,7 @@ mais sans lesquelles une seconde série de dangers est extrémement difficile à
     + un 1er « chemin » mène à un obstacle
     + un 2e permet d'accéder à la solution, ailleurs géographiquement
 * scénario où après plusieurs itérations les joueurs trouvent un « raccourci » pour éviter les N premières actions
+* établir en amont un rapide liste de 4-5 monstres, et prévenir les joueurs qu'ils ont tous un point faible à découvrir
 * ambiances / univers intéressants :
     + tranchées pendant la grande guerre (« il faut sauver le soldat X », ogive explose à proximité,
       espace à découvert à franchir, gaz moutarde avec masque à récupérer dans une pièce de la tranchée, mines ...)

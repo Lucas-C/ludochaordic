@@ -1,4 +1,4 @@
-Title: Double brigade
+Title: Monster Chef & Double brigade
 Date: 2018-12-01 22:20
 Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, grant-howitt, bruno-bord, gratuit, @Henri, @Loïc, @ThomasG, jeux
 Slug: double-brigade

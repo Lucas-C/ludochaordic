@@ -1,6 +1,6 @@
 Title: Scavengers : anomalies nauchoresques
 Date: 2019-01-05 19:00
-Tags: lang:fr, jdr, random-table, space, alien, apocalypse-world, mothership-rpg, personal-project, variante, creative-commons, gamedesign, gratuit, @Matt, @Mickael, @Quentin, jeux
+Tags: lang:fr, jdr, random-table, space, alien, apocalypse-world, mothership-rpg, personal-project, variante, creative-commons, gamedesign, pbta, gratuit, @Matt, @Mickael, @Quentin, jeux
 Slug: scavengers-anomalies-nauchoresques
 ---
 
