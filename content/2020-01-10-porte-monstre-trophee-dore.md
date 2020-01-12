@@ -31,17 +31,17 @@ avec un accent _old chool_ porté sur l'exploration, et des principes / conseils
 
 J'ai même été assez inspiré par le donjon suggéré dans la traduction française comme première aventure,
 [La tombe des rois serpents](https://www.whidou.fr/la-tombe-des-rois-serpents.html) de Skerples,
-admirablement traduit par Matthieu Bé, Bruno Bord et Whidou sous forme de PDF de 22 pages
+admirablement traduit par Matthieu Bé, Bruno Bord et Whidou sous forme de PDF de 22 pages.
 Bien que très archétypal d'un donjon D&D,
-il a été conçu et pensé comme un tutorial, et j'imaginais déjà à la lectures mes PJs tenter plein d'approches
+il a été conçu et pensé comme un tutoriel, et j'imaginais déjà à la lectures mes PJs tenter plein d'approches
 pour franchir les différents pièges et obstacles qu'il renferme !
+
+![Carte complète de la Tombe des Rois Serpents](images/2020/01/tomb-of-the-serpent-kings.png)
 
 J'en profite pour exprimer de chaleureux remerciements aux formidables auteurs et traducteurs de ces jeux et scénarios !
 Leurs maquettes sont impeccables, le contenu très clair et plein d'imagination,
 et ils ont très généreusement choisi de rendre le résultat de cet énorme boulot **gratuit**,
 accessible et jouable à tout le monde !
-
-[![Ancient Ritual par Erich Liotta](images/2020/01/erich-liotta-3-ancient-ritual-colour-lr.jpg)](https://www.artstation.com/artwork/VXe5N)
 
 Trophé Doré donc, est un jeu d'une vingtaine de pages, pour une meneuse de jeu et quelques joueuses,
 se jouant avec plusieurs dés à 6 faces noirs & blancs.
@@ -58,8 +58,8 @@ C'est sûrement très personnel et subjectif, mais j'ai en particulier adoré le
 des pouvoirs très génériques et donc puissants, où les joueurs sont complètement libres d'imaginer
 comment ils se déroulent et leurs effets.
 Je trouve toujours génial de donner à un joueur une capacité dont il ne connaît pas les limites,
-puis le voir tester plein de choses pour les trouver, y compris des usages auxquels je n'aurais jamais pensé !
-Voici un exemple illustrant cela : dans plusieurs des premières sales du donjon exploré,
+puis le voir tester plein de choses pour les découvrir, y compris des usages auxquels je n'aurais jamais pensé !
+Voici un exemple illustrant cela : dans plusieurs des premières salles du donjon exploré,
 une statuette piégée reposait, contenant un gaz toxique. L'un des joueurs avait comme pouvoir de creuser la rocher,
 et une autre celui d'inverser la gravité. Après quelques essais ils ont fini par combiner leurs pouvoirs
 pour établir un _modus operanti_ de désamorçage des statuettes, en isolant le gaz dans une poche dans le plafond de chaque salle !
@@ -67,8 +67,8 @@ pour établir un _modus operanti_ de désamorçage des statuettes, en isolant le
 Un autre point de la phase de création de chasseur de trésor sur lequel je suis assez indécis :
 le Havresac aléatoire avec 3 équipements imposés, _a priori_ assez inutiles.
 Autant c'est une intéressante forme de contrainte créative, et certains de mes joueurs ont réussi à employer
-filet de pêche, bouteille, bougies ou sifflet durant la partie, autant certains Havresac donnent un ton très "gentillet / enfantin"
-à l'univers du jeu : sachet de bonbon, nourriture pour chèvre domestique, petite licorne en bois...
+filet de pêche, bouteille, bougies ou sifflet durant la partie, autant certains Havresac donnent un excessivement
+"gentillet / enfantin" à l'univers du jeu : sachet de bonbon, nourriture pour chèvre domestique, petite licorne en bois...
 
 Le système des jets est très inspiré des jeux _powered by the Apocalypse_, avec entre autre la mécanique du _Devil's bargain_
 qui a très bien marché durant cette session.
@@ -90,11 +90,13 @@ mise à disposition des joueurs. Je trouve génial d'établir comme règle que c
 possède un point faible qu'ils peuvent trouver et exploiter !
 En plus, avec des fans de _Monster Hunter_ parmi les joueurs, je pensais faire des heureux 😏
 Néanmoins le scénario de base ne contient peut-être pas assez de créatures avec des points faibles originaux
-(appendice, phobie, sens atrophié...) pour exploiter à fond cette idée : tout le monde sait que les squelettes
-ne supportent pas les attaques contondantes !
+(appendice, phobie, sens atrophié...) pour exploiter à fond cette idée. Comme il est de notoriété commune que les squelettes
+ne supportent pas les attaques contondantes, mes PJs n'ont pas eu à chercher très loin !
 Enfin j'ai trouvé dommage que le bestiaire ne soit pas plus impliqué dans la mécanique de jeu :
 même s'il prend sûrement plus sont intérêt après plusieurs lieux explorés, il aurait été intéressant de l'inclure un peu
 plus dans la mécanique de jeu, ou au moins de rendre plus important le bonus aux dés lié à l'exploitation d'une Faiblesse.
+
+[![Ancient Ritual par Erich Liotta](images/2020/01/erich-liotta-3-ancient-ritual-colour-lr.jpg)](https://www.artstation.com/artwork/VXe5N)
 
 Pourquoi alors, avec tous ces ingrédients bien dosés, est-ce que je ne compte plus rejouer à _Trophée Doré_ ?
 
@@ -107,8 +109,8 @@ de l'idée de laisser les joueurs expérimenter avec l'environnement décrit par
 et imaginer des solutions pour franchir les obstacles ! **Cette mécanique de jeu ne récompense absolument pas
 cette logique _OSR_, et simplifie bien trop la progression d'un lieu à un autre** !
 En plus, l'avancée des PJs devient complètement tributaire des dés :
-s'ils ne font que des bons jets, ils ne croiseront même la créature ou le piège que le MJ leur avait concocté !
-Ce qui peut, accessoirement, complètement "casser" un scénario "sur étagère" avec étapes indispensables.
+s'ils ne font que des bons jets, ils ne croiseront même jamais la créature ou le piège que le MJ leur avait concocté !
+Ce qui peut complètement "casser" un scénario contenant des étapes indispensables.
 
 Le sous-système de Combat, quant à lui, simule les combat de groupe contre un monstre.
 Il est, lui aussi, très frustrant.
@@ -118,11 +120,12 @@ Je ne vais pas m’appesantir plus en détails sur tout le mal que je peux pense
 mais ce n'est franchement ni ma tasse de thé, ni très _OSR_ je trouve.
 
 J'ai beaucoup moins de griefs envers le système de jets principal du jeu, les jets de Risque,
-plutôt simple et efficace, mais il reste tout de même un point que j'ai trouvé quelque peu raté :
+plutôt simple et efficace. Il reste tout de même un point que j'ai trouvé quelque peu raté :
 le système des points de Perte. Sur la partie _one-shot_ que nous avons joué en tout cas,
-mes joueurs ne se sentaient absolument pas en danger. La faute un peu au MJ sûrement,
-qui n'a pas du assez leur faire ressentir les danger qui rôdait autour d'eux.
-Ils n'ont toutefois jamais tenté de relancer un jet avec un dé noir, ni même au final perdu le moindre point de Perte.
+mes joueurs ne se sentaient absolument pas en danger. La faute un peu au MJ sûrement (votre serviteur),
+qui n'a pas du assez leur faire ressentir les danger qui rôdait autour d'eux durant cette exploration,
+et qui, de manière générale, a du mal à jouer la vie ou la mort d'un PJ sur un lancé de dés en début de session,à cause d'un piège déclenché. Le constat est en tout bien cas là au final :
+ils n'ont toutefois jamais tenté de relancer un jet avec un dé noir, ni même au final perdu le moindre point de Perte.
 
 Derniers petits points de déception :
 
@@ -152,4 +155,6 @@ _Trophée Doré_ fait partie d'[un diptyque](https://trophyrpg.com) avec un autr
 également traduit par [Nicolas Folliot](https://nicolasfolliot.itch.io/trophee-sombre).
 Plus court (14 pages), il dépeint une ambiance plus sombre, où les personnages courent inéluctablement à leur Perte
 alors qu'ils se rapprochent des richesses qu'ils convoitent.
-Il me tente bien plus, je le testerai peut-être à l'occasion !
+Comme il ne semble avoir aucun des défauts que je trouve à Trophé Doré, je le testerai peut-être à l'occasion !
+
+![Image de couverture du jeu Trophée Sombre](images/2020/01/trophee-sombre.png)
