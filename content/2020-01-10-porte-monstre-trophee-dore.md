@@ -147,6 +147,9 @@ Ce que j'ai aimé                                      | Ce que j'ai moins aimé
 ➕ les tables de génération de personnage             |
 ➕ un Thème associé à chaque incursion                |
 
+La nouvelle joueuse m'a dit avoir apprécié cette séance de découverte, et notamment de découvrir la carte du donjon petit à petit,
+que je traçais sur une feuille au fur et à mesure de la progression des PJs.
+
 Chose amusante, la partie s'est terminée sur une magnifique **trahison** de la part d'un des PJs.
 Un des joueurs, sentant la fin de partie approcher, n'a pas résister à utiliser le sort de **Sommeil**
 qu'ils venaient de découvrir pour endormir ses compagnons et leur faire les poches !
