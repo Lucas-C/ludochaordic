@@ -1,6 +1,6 @@
 Title: Porte, monstre, trophée doré
 Date: 2020-01-10 19:30
-Tags: lang:fr, jdr, gratuit, playtest, opinion, compte-rendu, pbta, bruno-bord, matthieu-be, @Camille, @Matt, @Michael, @Laetitia, jeux
+Tags: lang:fr, jdr, gratuit, playtest, opinion, compte-rendu, pbta, random-table, bruno-bord, matthieu-be, @Camille, @Matt, @Michael, @Laetitia, jeux
 Slug: porte-monstre-trophee-dore
 ---
 

@@ -128,6 +128,9 @@ de Clément De Ruyter a l'air très prometeur également ! Et cette version Mini
 **EDIT [2019/08/15]** : un court jeu en anglais, basé sur l'exploration et la création collective d'une carte,
 qui pourrait également être amusant de jouer avec des enfants : [Untold Horizons de Gordie Murphy](https://gmurphy.itch.io/untold-horizons).
 
+**EDIT [2020/01/15]** : on vient de me recommander [Tails of Equestria](https://www.black-book-editions.fr/catalogue.php?id=553)
+pour jouer avec de jeunes enfants
+
 <style>
 article img { max-height: 20rem; }
 .imgs {

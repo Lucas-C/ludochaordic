@@ -109,6 +109,7 @@ mais sans lesquelles une seconde série de dangers est extrémement difficile à
     + mission d'infiltration dans une base militaire, à la _Metal Gear Solid_ (photo d'une arme secrète à prendre,
     plein de gadgets dans les poches - à les libertés des joueurs, des grapins, des armes à feu avec silencieux,
     des gardes partout, un boss ninja super balèze...)
+    + s'inspirer d'un des [nombreux films avec une boucle temporelle](https://en.wikipedia.org/wiki/List_of_films_featuring_time_loops), comme _Edge of Tomorrow_
 
 Enfin, j'introduirai peut-être une **règle spéciale _Next_** : au prix de **2min de moins** sur le compte à rebour,
 le personnage peut **explorer toutes les alternatives temporelles** d'un problème à un moment donné de la partie,
