@@ -60,4 +60,11 @@ mais s'est retrouvé à la traine sur le chemin bis qu'avaient décidé d'emprun
 et n'est entré qu'_in-extremis_ dans la navette, au moment de l'explosion !
 
 Bref, j'en retire que le jeu est très fun, que j'y rejouerai avec grand plaisir avec d'autres joueurs à l'occasion !
-Je ne sais pas s'il existe d'autres scénarios pour Sombre Zéro (_Overlord ?_), mais je vais chercher...
+
+Voici les scénarios que j'ai pu trouver pour Sombre Zéro, après de rapides recherches :
+
+- _Overlord_ dans [Sombre 2](http://www.terresetranges.net/forums/viewtopic.php?pid=7439#p7439)
+- _Camlann _ & _Les Grimmies _ dans [Sombre 2](http://www.terresetranges.net/forums/viewtopic.php?pid=15251#p15251)
+- _A man after midnight_ & _Not another slasher movie_ dans [Sombre 8](https://www.terresetranges.net/forums/viewtopic.php?id=997)
+- [THE FAST-FOOD MASSACRE & CINEMA PARADISO](https://www.terresetranges.net/forums/viewtopic.php?id=850)
+- [Rictus dans la brume](https://www.terresetranges.net/forums/viewtopic.php?id=1010)
