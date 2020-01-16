@@ -108,7 +108,7 @@ For every node, if it is a leaf (an actual _WorkflowJob_) we collect it,
 else we need to continue traversing its children.
 
 My initial idea was to start new [concurrent Futures](https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.Future)
-for every child **inside its parent `Future` callback**. However this adds a lot of programatical complexity
+for every child **inside its parent `Future` callback**. However this adds a lot of programmatic complexity
 ([`cannot schedule new futures after shutdown`](https://github.com/python/cpython/blob/master/Lib/concurrent/futures/thread.py#L168) errors,
 an added difficulty to wait on the last `Future` completion...).
 

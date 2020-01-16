@@ -43,7 +43,7 @@ Leurs maquettes sont impeccables, le contenu très clair et plein d'imagination,
 et ils ont très généreusement choisi de rendre le résultat de cet énorme boulot **gratuit**,
 accessible et jouable à tout le monde !
 
-Trophé Doré donc, est un jeu d'une vingtaine de pages, pour une meneuse de jeu et quelques joueuses,
+Trophée Doré donc, est un jeu d'une vingtaine de pages, pour une meneuse de jeu et quelques joueuses,
 se jouant avec plusieurs dés à 6 faces noirs & blancs.
 Notre session a duré entre 4h et 6h, création de chasseur de trésor comprise,
 qui était peut-être la phase la plus amusante d'ailleurs.
@@ -124,7 +124,8 @@ plutôt simple et efficace. Il reste tout de même un point que j'ai trouvé que
 le système des points de Perte. Sur la partie _one-shot_ que nous avons joué en tout cas,
 mes joueurs ne se sentaient absolument pas en danger. La faute un peu au MJ sûrement (votre serviteur),
 qui n'a pas du assez leur faire ressentir les danger qui rôdait autour d'eux durant cette exploration,
-et qui, de manière générale, a du mal à jouer la vie ou la mort d'un PJ sur un lancé de dés en début de session,à cause d'un piège déclenché. Le constat est en tout bien cas là au final :
+et qui, de manière générale, a du mal à jouer la vie ou la mort d'un PJ sur un lancé de dés en début de session,
+à cause d'un piège déclenché. Le constat est en tout bien cas là au final :
 ils n'ont toutefois jamais tenté de relancer un jet avec un dé noir, ni même au final perdu le moindre point de Perte.
 
 Derniers petits points de déception :
@@ -155,9 +156,9 @@ Un des joueurs, sentant la fin de partie approcher, n'a pas résister à utilise
 qu'ils venaient de découvrir pour endormir ses compagnons et leur faire les poches !
 
 _Trophée Doré_ fait partie d'[un diptyque](https://trophyrpg.com) avec un autre jeu, _Trophée Sombre_
-également traduit par [Nicolas Folliot](https://nicolasfolliot.itch.io/trophee-sombre).
+traduit par [Matthieu Braboszcz, Angela Quidam, Guy Blavin et Nicolas Folliot](https://nicolasfolliot.itch.io/trophee-sombre).
 Plus court (14 pages), il dépeint une ambiance plus sombre, où les personnages courent inéluctablement à leur Perte
 alors qu'ils se rapprochent des richesses qu'ils convoitent.
-Comme il ne semble avoir aucun des défauts que je trouve à Trophé Doré, je le testerai peut-être à l'occasion !
+Comme il ne semble avoir aucun des défauts que je trouve à Trophée Doré, je le testerai peut-être à l'occasion !
 
 ![Image de couverture du jeu Trophée Sombre](images/2020/01/trophee-sombre.png)

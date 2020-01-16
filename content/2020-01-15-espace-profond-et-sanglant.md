@@ -12,7 +12,7 @@ Dans une ambiance directement inspirée du film [« Alien »](https://www.imdb.c
 voici le pitch de ce _« survival spatial moitié coopératif, moitié compétitif »_ pour [Sombre Zéro](https://fr.wikipedia.org/wiki/Sombre_(jeu_de_r%C3%B4le)#Sombre_Z%C3%A9ro),
 destiné à 1 MJ + 4-5 joueurs  :
 
-> Les personnages receuillent une créature extraterrestre à bord du Déméter, leur vaisseau spatial,
+> Les personnages recueillent une créature extraterrestre à bord du Déméter, leur vaisseau spatial,
 > mais elle s'échappe. [...] Pour survivre, il faut évacuer au plus vite.
 
 Sa particularité, qui m'a vraiment conquis : **les joueurs jouent en temps réel, contre la montre**.
@@ -33,7 +33,7 @@ Pour cette partie il y a quinze jours, la configuration était la même que pour
 j'étais MJ et quatre joueurs étaient présents, dont 2 grands amateurs de JdR et une joueuse dont c'était la première partie.
 
 Comme j'ai acheté uniquement Sombre n°3, je n'avais pas accès à l'ensemble des règles de Sombre Zéro
-(j'avoue être moins interessé par les autres "variantes" de Sombre).
+(j'avoue être moins intéressé par les autres "variantes" de Sombre).
 Je ne les ai donc peut-être pas respecté tout à fait à lettre, mais je crois en avoir saisi l'essentiel.
 Surtout que l'auteur, **Johan Scipion**, dispense de nombreux conseils pour maîtriser le scénario au fil des pages.
 
@@ -56,7 +56,7 @@ plutôt que d'entrer en stase pour éviter tout risque.
 Les PJs ont fait un léger _brain freeze_ face au capitaine,
 ne sachant que faire mais ayant trop la trouille pour l'affronter.
 L'un d'eux est finalement aller chercher une arme pour lui régler son compte,
-mais s'est retrouvé à la traine sur le chemin bis qu'avaient décidé d'emprunter les autres,
+mais s'est retrouvé à la traîne sur le chemin bis qu'avaient décidé d'emprunter les autres,
 et n'est entré qu'_in-extremis_ dans la navette, au moment de l'explosion !
 
 Bref, j'en retire que le jeu est très fun, que j'y rejouerai avec grand plaisir avec d'autres joueurs à l'occasion !

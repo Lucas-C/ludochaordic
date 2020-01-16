@@ -4,7 +4,8 @@ Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, compte-rendu, traducti
 Slug: run-die-repeat
 ---
 
-Vendredi dernier, j'ai eu l'occasion de tester pas moins de 3 nouveaux jeux de rôle avec des amis.Je souhaite vous présenter le dernier auquel nous avons joué, à minuit passé :
+Vendredi dernier, j'ai eu l'occasion de tester pas moins de 3 nouveaux jeux de rôle avec des amis.
+Je souhaite vous présenter le dernier auquel nous avons joué, à minuit passé :
 [Run Die Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games !
 
 J'ai tellement apprécié le jeu, que j'en ai fait une traduction en français.
@@ -26,7 +27,7 @@ d'exercice de mémorisation et de joueur actif tournant est original et super fu
 
 Voici le pitchs de la première session de 20min que nous avons joué :
 
-> La lumière blafarde de la pleine lune te reveilles.
+> La lumière blafarde de la pleine lune te réveilles.
 > Tu ouvres les yeux dans un immeuble abandonné, le long d'une falaise.
 > Loin, très loin, tu distingues une énorme vague s'approchant sur la mer.
 > Sur le mur à côté, une inscription en lettres de sang.
@@ -35,7 +36,7 @@ Voici le pitchs de la première session de 20min que nous avons joué :
 
 Oui, un des joueurs était fan de [Cthulhu](https://fr.wikipedia.org/wiki/Cthulhu) 😉
 Au final, ils ont évité les chiens lancés à leurs trousses en passant sur le toit d'à côté,
-en prennant au passage un parpaing pour assomer un sbire faisant le guet au pied de cette maison.
+en prenant au passage un parpaing pour assommer un sbire faisant le guet au pied de cette maison.
 Ils ont ensuite ramassé son fusil, pris sa voiture, foncé à toute berzingue vers le phare,
 traversé un mur de feu invoqué par les cultistes, descendu les marches du phare jusqu'à une crique,
 mais pas réussi à descendre le grande prêtre avant qu'il ne remette l'artefact aux [Profonds](https://fr.wikipedia.org/wiki/Ceux_des_profondeurs).
@@ -51,10 +52,10 @@ mais pas réussi à descendre le grande prêtre avant qu'il ne remette l'artefac
 
 Pour la seconde session de 20min, j'ai voulu justifier un peu le mécanisme de boucle temporelle :
 
-> Tu es en cellule au comissariat, tu viens d'être arrêté pour un crime où tu risques perpétuité.
+> Tu es en cellule au commissariat, tu viens d'être arrêté pour un crime où tu risques perpétuité.
 > Soudain, un paquet craft atterrit à tes pieds, lancé de l'extérieur à travers une lucarne.
 > Dedans, tu trouves une machine avec [un étrange mécanisme](images/2020/01/convecteur-temporel-app-store.jpg)
-> incluant un compte à rebour de 20min, ainsi que ce mot : « Fait sortir Loubianov par l'arrière-court »
+> incluant un compte à rebours de 20min, ainsi que ce mot : « Fait sortir Loubianov par l'arrière-court »
 
 Cette fois-ci, les joueurs ont mis un peu de temps avant de trouver comment sortir de leur cellule...
 Ils ont finalement demander à passer lors coup de fil réglementaire,
@@ -77,7 +78,7 @@ En tout cas, ce jeu me parait idéal pour le fins de soirées JdR où personne n
 où même en convention !
 
 En termes de règles sur les jets de dés, durant nos parties le « 6 ou rien » m'a parfois paru un peu drastique.
-J'ai donc occasionnelement considéré qu'une action bien pensée était une réussite automatique,
+J'ai donc occasionnellement considéré qu'une action bien pensée était une réussite automatique,
 ou demandé un jet **4+** / **5+**.
 
 Je conclue avec quelques idées en vrac, que je compte exploiter pour mes prochaines partie de _Run. Die. Repeat._ :
@@ -88,13 +89,14 @@ Je conclue avec quelques idées en vrac, que je compte exploiter pour mes procha
 * infiltration dans un lieu bourré d'ennemis :
     + par où passer pour éviter de déclencher les systèmes d'alarme ?
     + anticiper les déplacements des gardes permet de les éviter
-* PNJ bloquant le passage, et testant le PJ par des questions pour savoir s'il est authorisé à continuer,ou s'il doit être neutralisé
-* énigme ne permettant qu'un seul essai, mais résolvable en itérant toutes les possibilités :
+* PNJ bloquant le passage, et testant le PJ par des questions pour savoir s'il est autorisé à continuer,
+ou s'il doit être neutralisé
+* énigme ne permettant qu'un seul essai, mais solvable en itérant toutes les possibilités :
 3 leviers positionnables, ou code à rentrer + indice quelque part que le même chiffre se répète 4x
 * scénario où le cadavre du PJ est toujours présent dans les itérations suivantes !
 * scénario à ressources limitées (exemple : 1 balle restante + 1 grenade éblouissante + 1 gadget ouvreur de porte)
 avec lesquelles les premiers obstacles peuvent être facilement franchis,
-mais sans lesquelles une seconde série de dangers est extrémement difficile à traverser
+mais sans lesquelles une seconde série de dangers est extrêmement difficile à traverser
 * scénario « en Y » :
     + un 1er « chemin » mène à un obstacle
     + un 2e permet d'accéder à la solution, ailleurs géographiquement
@@ -107,14 +109,14 @@ mais sans lesquelles une seconde série de dangers est extrémement difficile à
     + donjon à la D&D, bourré de pièges et de monstres (marteau-balancier géant, escalier-glissière,
     dards empoisonnés, flammes, tunnels labyrinthiques, gobelins, squelettes, basilic...)
     + mission d'infiltration dans une base militaire, à la _Metal Gear Solid_ (photo d'une arme secrète à prendre,
-    plein de gadgets dans les poches - à les libertés des joueurs, des grapins, des armes à feu avec silencieux,
+    plein de gadgets dans les poches - à les libertés des joueurs, des grappins, des armes à feu avec silencieux,
     des gardes partout, un boss ninja super balèze...)
     + s'inspirer d'un des [nombreux films avec une boucle temporelle](https://en.wikipedia.org/wiki/List_of_films_featuring_time_loops), comme _Edge of Tomorrow_
 
-Enfin, j'introduirai peut-être une **règle spéciale _Next_** : au prix de **2min de moins** sur le compte à rebour,
+Enfin, j'introduirai peut-être une **règle spéciale _Next_** : au prix de **2min de moins** sur le compte à rebours,
 le personnage peut **explorer toutes les alternatives temporelles** d'un problème à un moment donné de la partie,
 comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
-Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d'enchainements de coup
+Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d’enchaînements de coup
 pour en finir avec ses adversaires en mode _Matrix_ !
 
 <style>

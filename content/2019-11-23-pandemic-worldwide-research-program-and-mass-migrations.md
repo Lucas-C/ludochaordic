@@ -10,8 +10,8 @@ _(English version below)_
 Il y a trois ans, [j'évoquais sur ce blog](/resources-pour-mr-jack-et-pandemie.html)
 quelques variantes pour le jeu de société [Pandémie](https://boardgamegeek.com/boardgame/30549/pandemic).
 
-Voici le moment de vous en présenter deux que j'ai confectionné récement,
-et dont les _playtests_ étaient suffisament amusants pour que je les mette en page,
+Voici le moment de vous en présenter deux que j'ai confectionné récemment,
+et dont les _playtests_ étaient suffisamment amusants pour que je les mette en page,
 afin de les partager avec vous :
 
 ### Programme de Recherche Mondial
