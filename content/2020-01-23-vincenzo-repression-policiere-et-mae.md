@@ -40,7 +40,7 @@ et détourné pour poursuivre des opposants politiques au-delà des frontières 
 
 Voici une présentation très claire du problème qu'il pose en une vidéo de 3min :
 
-<iframe width="560" height="315" src=""https://www.youtube.com/embed/a6zNArEatb4" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6zNArEatb4" allowfullscreen></iframe>
 
 Une conférence de presse avait d'ailleurs lieu mardi 21 janvier à l’Assemblée Nationale autour du cas Vincenzo Vecchi,
 et pour alerter le Parlement sur les dysfonctionnements du MAE.
@@ -62,7 +62,7 @@ où elles ont tabassés puis torturé des manifestants pacifiques, leur causant 
 
 Voici la bande annonce du film :
 
-<iframe width="560" height="315" src=""https://www.youtube.com/embed/ZKLjeBM-ZXk&t=13" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKLjeBM-ZXk&t=13" allowfullscreen></iframe>
 
 Si comme moi vous n'aviez jamais entendu parler de ces évènements,
 décrits par Amnesty International comme la « plus grande violation des droits humains et démocratiques dans un pays occidental depuis la Seconde Guerre mondiale »,
