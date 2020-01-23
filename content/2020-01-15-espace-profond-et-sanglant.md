@@ -65,6 +65,6 @@ Voici les scénarios « prêt à imprimer » que j'ai pu trouver pour Sombre Zé
 
 - les scénarios officiels des numéros de _Sombre_, pour lesquels Johan a rédigé [un super article de conseil sur le forum terresetranges.net](http://www.terresetranges.net/forums/viewtopic.php?pid=14660#p14660)
 (sections _Si vous n'êtes intéressé que par Zéro_ / _Mon guide d'achat Zéro_)
-- [THE FAST-FOOD MASSACRE & CINEMA PARADISO](https://www.terresetranges.net/forums/viewtopic.php?id=850) par Saint Epondyle _(fan _made)_
-- [Rictus dans la brume](https://www.terresetranges.net/forums/viewtopic.php?id=1010) par Niels Sarys _(fan _made)_
-- [DIET LIFE](http://www.terresetranges.net/forums/viewtopic.php?id=1003) & [Darkline](http://terresetranges.net/forums/viewtopic.php?id=923) par **DARKFARM** _(fan _made)_
+- [THE FAST-FOOD MASSACRE & CINEMA PARADISO](https://www.terresetranges.net/forums/viewtopic.php?id=850) par Saint Epondyle _(fan made)_
+- [Rictus dans la brume](https://www.terresetranges.net/forums/viewtopic.php?id=1010) par Niels Sarys _(fan made)_
+- [DIET LIFE](http://www.terresetranges.net/forums/viewtopic.php?id=1003) & [Darkline](http://terresetranges.net/forums/viewtopic.php?id=923) par DARKFARM _(fan made)_

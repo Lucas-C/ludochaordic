@@ -1,6 +1,6 @@
 Title: Soutien à Vincenzo Vecchi
 Date: 2019-08-16 23:30
-Tags: lang:fr, italie, solidarité, fascisme
+Tags: lang:fr, europe, bretagne, italie, solidarité, fascisme, repression-policiere
 Slug: soutien-a-vincenzo-vecchi
 ---
 
