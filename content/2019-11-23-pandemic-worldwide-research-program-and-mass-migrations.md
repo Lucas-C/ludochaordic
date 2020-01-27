@@ -1,6 +1,6 @@
 Title: Pandemic: Worldwide Research Program & Mass Migrations
 Date: 2019-11-23 15:00
-Tags: lang:en, lang:fr, personal-project, jeu-de-societe, board-game, boardgamegeek, gamedesign, variante, gratuit, jeux
+Tags: lang:en, lang:fr, personal-project, jeu-de-societe, board-game, boardgamegeek, gamedesign, translation, variante, gratuit, jeux
 Slug: pandemic-worldwide-research-program-and-mass-migrations
 ---
 ![Photo du plateau de jeu de Pandémie](images/2019/11/Pandemic-Photo-Header.jpg)
@@ -121,8 +121,25 @@ If so, please leave a comment below.
 **EDIT [2019/11/30]**: all the LibreOffice source files can be found here:
 <https://gitlab.com/Lucas-C/board-games/tree/master/PandemicScenarios>
 
-**EDIT [2019/12/15]**: Michael Schlindwein kindly sent me a German translation of the Mass Migrations scenario:
-[![druckfreundlich](images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg)](images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg)
+**EDIT [2019/12/15]**: Michael Schlindwein kindly sent me a German translation of the _Mass Migrations_ scenario!
+
+**EDIT [2020/01/27]**: Michael also sent me a german translation of the _Worldwide Research Program_ scenario.
+Thank you!
+
+<div class="imgs">
+  <a href="images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg">
+    <figure>
+      <img alt="Vorschau" src="images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg">
+      <figcaption><em>Mass Migrations DE</em> (druckfreundlich JPG image 0,8 MB)</figcaption>
+    </figure>
+  </a>
+  <a href="images/jeux/Pandemic Scenario Worldwide Research Program DE.pdf">
+    <figure>
+      <img alt="Vorschau" src="images/2019/11/thumbnail_WorldwideResearchProgram_DE.jpg">
+      <figcaption><em>Worldwide Research Program DE</em> (PDF 1 page 1,6 MB)</figcaption>
+    </figure>
+  </a>
+</div>
 
 <style>
 .imgs {

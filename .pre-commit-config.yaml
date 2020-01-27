@@ -3,8 +3,6 @@
     hooks:
     -   id: check-merge-conflict
     -   id: trailing-whitespace
-        args:
-        - --no-markdown-linebreak-ext
 -   repo: git://github.com/Lucas-C/pre-commit-hooks
     rev: v1.1.7
     hooks:

@@ -48,7 +48,7 @@ mais pas réussi à descendre le grande prêtre avant qu'il ne remette l'artefac
       Spawn of the Stars by Sofyan Syarief
     </a>
   </figcaption>
-</figure> 
+</figure>
 
 Pour la seconde session de 20min, j'ai voulu justifier un peu le mécanisme de boucle temporelle :
 
