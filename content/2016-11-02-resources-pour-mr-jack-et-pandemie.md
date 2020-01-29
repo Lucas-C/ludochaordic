@@ -44,7 +44,7 @@ et il est vraiment excellent ! La variante de règle qui est introduite change d
 
 **EDIT [2019/11/23]** : Je viens de découvrir sur BGG une prometteuse campagne gratuite [Pandemic Story Mode](https://boardgamegeek.com/filepage/191584/pandemic-story-mode-season-1)
 Je viens également de publier deux scénarios de mon cru:
-[Pandemic: Worldwide Research Program & Mass Migrations](/pandemic-worldwide-research-program-and-mass-migrations.html)
+[Pandemic: Worldwide Research Program & Mass Migrations](pandemic-worldwide-research-program-and-mass-migrations.html)
 ---
 
 [Mr Jack](//www.trictrac.net/jeu-de-societe/mr-jack) a été une super découverte ! J'en avais seulement entendu parler jusqu'à présent, et le jeu se révèle un très bon défi tactique asymétrique, savamment équilibré.

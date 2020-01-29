@@ -118,4 +118,4 @@ et seulement 2d6 dans les 4 dernières.
 
 Si jamais vous testez cette variante, dites-moi ce que vous en avez pensé en commentaire ! 😉
 
-**EDIT [2019/03/12]:** La traduction du jeu, incluant cette variante, est désormais disponible dans la section [JdR](/pages/jeux-de-role.html) de ce blog.
+**EDIT [2019/03/12]:** La traduction du jeu, incluant cette variante, est désormais disponible dans la section [JdR](pages/jeux-de-role.html) de ce blog.

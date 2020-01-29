@@ -3,7 +3,7 @@ Tags: lang:fr, net-art, technoromanticism
 ---
 Dans cette page, je liste simplement des oeuvres de `net.art` qui m'ont touché.
 
-Si cela vous plait, je vous recommande aussi de jeter un oeil au [Glitch Art](/glitch-art-and-image-processing-with-python.html).
+Si cela vous plait, je vous recommande aussi de jeter un oeil au [Glitch Art](glitch-art-and-image-processing-with-python.html).
 
 ---
 

@@ -1,13 +1,13 @@
 Title: Pandemic: Worldwide Research Program & Mass Migrations
 Date: 2019-11-23 15:00
-Tags: lang:en, lang:fr, personal-project, jeu-de-societe, board-game, boardgamegeek, gamedesign, translation, variante, gratuit, jeux
+Tags: lang:en, lang:fr, personal-project, jeu-de-societe, board-game, boardgamegeek, gamedesign, traduction, variante, gratuit, jeux
 Slug: pandemic-worldwide-research-program-and-mass-migrations
 ---
 ![Photo du plateau de jeu de Pandémie](images/2019/11/Pandemic-Photo-Header.jpg)
 
 _(English version below)_
 
-Il y a trois ans, [j'évoquais sur ce blog](/resources-pour-mr-jack-et-pandemie.html)
+Il y a trois ans, [j'évoquais sur ce blog](resources-pour-mr-jack-et-pandemie.html)
 quelques variantes pour le jeu de société [Pandémie](https://boardgamegeek.com/boardgame/30549/pandemic).
 
 Voici le moment de vous en présenter deux que j'ai confectionné récemment,

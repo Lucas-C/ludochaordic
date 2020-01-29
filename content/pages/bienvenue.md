@@ -23,7 +23,7 @@ et je travaille dans la région entre Angers et Nantes, actuellement pour [oui.s
 J'ai mis en place ce blog pour partager des découvertes en tout genre,
 des réflexions, des émotions, et certaines de mes créations.
 
-Comme l'atteste le [_tag cloud_](/pages/bienvenue.html#tagcloud) ci-dessous,
+Comme l'atteste le [_tag cloud_](pages/bienvenue.html#tagcloud) ci-dessous,
 mes sujets de prédilection sont la programmation, et en particulier le langage Python,
 les logiciels libres et _open source_,
 les jeux de sociétés, les puzzles logiques et les jeux de rôles.

@@ -3,7 +3,7 @@ Date: 2020-01-23 22:00
 Tags: lang:fr, europe, bretagne, italie, solidarité, fascisme, repression-policiere, angers
 Slug: vincenzo-repression-policiere-et-mae
 ---
-Dans la lignée d'[un article précédent](/soutien-a-vincenzo-vecchi.html), je vais évoquer ici l'affaire **Vincenzo Vecchi**.
+Dans la lignée d'[un article précédent](soutien-a-vincenzo-vecchi.html), je vais évoquer ici l'affaire **Vincenzo Vecchi**.
 
 Samedi dernier à **Angers**, à la Grande Ourse, avait lieu [une soirée de soutien pour lui](https://alter49.org/rv/5972),
 et d'information sur les évènements de Gênes en 2001 ainsi que le _Mandat d'Arrêt Européen_.

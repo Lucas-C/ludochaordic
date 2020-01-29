@@ -17,6 +17,12 @@
         entry: "!\\[\\]\\("
         files: \.md$
         exclude: certification-developpeur-rgaa-access42|rendering-deep-text-based-mindmaps-with-wisemapping-and-python
+    -   id: forbid-md-links-starting-with-a-slash
+        name: Forbid Markdown hyperlinks starting with a slash
+        language: pygrep
+        entry: "\\]\\(/(?!(?:/|lucas))"
+        files: \.md$
+        exclude: content/2017-09-25-compte-rendu-de-la-pyconfr-2017.md
     -   id: ensure-dates-match
         name: Ensure articles publication Date match their filenames
         language: system
