@@ -1,6 +1,6 @@
 Title: Minutes of the FOSDEM 2020 conference
 Date: 2020-02-06 14:00
-Tags: lang:en, libre-software, open-source, talk, conference, slides, bruxelles, accessibility, compte-rendu, human-rights, oui.sncf, prog
+Tags: lang:en, libre-software, open-source, talk, conference, slides, bruxelles, europe, accessibility, compte-rendu, human-rights, oui.sncf, prog
 Slug: minutes-of-the-fosdem-2020-conference
 ---
 

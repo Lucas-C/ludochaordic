@@ -104,6 +104,9 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('itchio', 'https://lucas-c.itch.io'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'))
 
+PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
+WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
+
 SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/logo_la-quadrature-du-net_20x20.png', 'Faites un don à la Quadrature !'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/button_80x15_framasoft.png', 'Soutenez Framasoft !'),
             ('April', 'http://www.april.org/adherer', 'images/cartouche_april-jadhere.png', 'Promouvoir et soutenir le logiciel libre'))
