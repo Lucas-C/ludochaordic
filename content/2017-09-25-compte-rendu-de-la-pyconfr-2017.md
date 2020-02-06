@@ -386,7 +386,7 @@ Au plaisir de vous revoir à la prochaine convention ;)
         if (!title.classList.length) {
             title.id = title.textContent
                             .toLowerCase()
-                            .replace(/[()?:,'&]/g, '')
+                            .replace(/[()?!:,'&@]/g, '')
                             .replace(/[à]/g, 'a')
                             .replace(/[ç]/g, 'c')
                             .replace(/[éêè]/g, 'e')

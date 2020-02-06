@@ -1,6 +1,6 @@
 Title: Certification développeur RGAA Access42
 Date: 2017-11-16 18:00
-Tags: lang:fr, certification, formation, accessibilite, access42, oui.sncf, python, video-game, prog
+Tags: lang:fr, certification, formation, accessibility, access42, oui.sncf, python, video-game, prog
 Slug: certification-developpeur-rgaa-access42
 ---
 ![](images/2017/11/accessibilite_numerique.jpg)
