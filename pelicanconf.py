@@ -131,7 +131,7 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
-PLUGIN_PATHS = ['../pelican-plugins']#,'../linkbacks']
+PLUGIN_PATHS = ['../pelican-plugins', '../pelican-plugin-linkbacks']
 # linkbacks: à activer à terme dans publishconf.py
 PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_image', 'tag_cloud') #, 'linkbacks') #, 'w3c_validate')
 
