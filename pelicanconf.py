@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import logging, os
 from os.path import dirname, join
+
+logging.root.setLevel(logging.INFO)
 
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'
@@ -140,6 +143,8 @@ DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlin
 IMAGE_PROCESS = {
     'thumb': ['scale_out 300 300 False'],
 }
+
+LINKBACKS_CACHEPATH = os.environ.get('LINKBACKS_CACHEPATH')
 
 THEME = '../pelican-mg'
 DIRECT_TEMPLATES = ('index', 'tagcloud', 'past_readings')
