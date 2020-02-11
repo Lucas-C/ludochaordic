@@ -65,8 +65,8 @@ cf. <https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html>
 ## Session 3 - février 2018
 
 ### Ressources
-- [Pinterest board of characters](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-characters/)
-- [Pinterest board of places](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/)
+- [my Pinterest board of characters](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-characters/)
+- [my Pinterest board of places](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/)
 
 Note: il y en a [plein d'autres](https://www.pinterest.fr/search/boards/?q=blades%20in%20the%20dark&rs=filter) !
 
@@ -77,7 +77,7 @@ les conviant ce soir dans leur QG, une usine de charbon, pour mettre leurs diff�
 dans la guerre de gangs qui se prépare
 - les PJs aperçoivent également la fumée d'un incendie plus loin en ville.
 Ils décident de s'y rendre tous les 3, et découvrent qu'il s'agit d'étals auxquels on a mis feu
-sur une place de marché du territoire des Crows, mais tout proche de l'école de l’écharpe Rouge
+sur une place de marché du territoire des Crows, mais tout proche de l'école de l’Écharpe Rouge
 - Elaria et Eric font le tour de la place pour essayer de retrouver qui aurait pu provoquer cet incendie,
 et repèrent un duel discret qui a lieu en haut d'un échafaudage
 - ils interviennent, et une course poursuite s'engage : un des deux opposants, costaud et vêtu de gris, un long bâton à la main,
@@ -205,7 +205,7 @@ heureusement déjà découpée à la scie par Aldo pour laisser s'enfuir Ethnos
 en cercle dans sa demeure, aux côtés de Justinia, Melvir, Aldo et quelques disciples de Grell,
 éclairés à la lumière de flambeaux dansants tandis que le tatoueur termine d'inscrire un complexe motif sur la peau de leur chef
 - alors que Grell conclue une longue psalmodie, les tatouages se mettent à onduler sur le corps de Ludius qui tremble.
-Le tatoueur s'éclipse et Justinia s'approche aux côtés de se frère qui semble de réveiller lentement.
+Le tatoueur s'éclipse et Justinia s'approche aux côtés de ce frère qui semble de réveiller lentement.
 - soudain, des coups sont frappés à la porte à l'étage. Un des disciples de Grell Jayan va ouvrir
 et on entend distinctement le bruit d'une lame déchirant les chairs et d'un corps s'écroulant au sol
 - les PJs dégainent leurs armes et se mettent en position, tandis qu'un homme descend calmement les escaliers, sabre à la main.
@@ -240,9 +240,9 @@ A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de
 - la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec Aldo, Justinia et Melvir, mais aussi Grell Jayan blessé au ventre et le corps inanimé d'Ethnos
 
 - Ethnos, dans le corps de Ludius recouvert d'étranges tatouages mouvants, entrepose son corps originel au milieu de sacs de sel,
-et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe. Elle finit par sortir, furieuse, en claquant la porte
+et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe. Elle finit par sortir, furieuse, en claquant la porte.
 
-- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ; Ethnos étudie des grimoires dans le bureau - bibliothèque de Ludius pour trouver un moyen e retrouver son corps ;
+- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ; Ethnos étudie des grimoires dans le bureau - bibliothèque de Ludius pour trouver un moyen de retrouver son corps ;
 Elaria dépouille **Toni les deux saucisses**, un boucher de Beef Market, de sa recette hebdomadaire, avec l'aide d'une mendiante qui l'a mise sur le coup
 
 - au petit matin, le gang fait le point sur la situation. Ethnos révèle au groupe qu'il est bien malgré lui désormais dans le corps de Ludius.
@@ -254,8 +254,9 @@ En effet, son activité principal au sein du gang Crows étant le racket et la g
 
 > Eh, ya plein de fois où j'ai tabassé personne ! - Eric
 
-- les autres membres du gang ont également de quoi s'occuper : Melvir garde la baraque et veille sur le corps d'Ethnos; Aldo fait courir le bruit auprès de ses anciens frères d'arme chez les Crows
-que Rorik est revenu d'entre les morts punir la traîtresse Lyssa et quel le gang du Harpon soutient Bell;
+- les autres membres du gang ont également de quoi s'occuper : Melvir garde la baraque et veille sur le corps d'Ethnos;
+Aldo fait courir le bruit auprès de ses anciens frères d'arme chez les Crows
+que **Rorik est revenu d'entre les morts punir la traîtresse Lyssa** et quel le gang du Harpon soutient Bell;
 Justinia contacte les fidèles de Grell Jayan ayant survécu pour le leur confier, et a fini par céder et accepter de rencontrer Conway pour un rencard à contre-cœur...
 
 - après avoir fait parvenir un message à l'Écharpe Rouge annonçant leur intention de leur rendre visite en apportant un cadeau, Ethnos-Ludius et Elaria se rendent à leur école centrale.
@@ -284,17 +285,129 @@ L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyss
 - soudain, une calèche et un charriot déboulent dans la cour intérieure. Aussitôt qu'elle aperçoit Lyssa à l'intérieur, Elaria lui lance un couteau dans l’œil !
 Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par la même occasion Bell qui était leur prisonnier, dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 
-## Session 6 - 8 février 2020
+## Session 8 février 2020
 
-<!-- Idées :
+<figure role="group">
+  <!--img alt="Ludius Dalmore" src="images/bitd/Lodius B&W.jpg"-->
+  <img alt="Ludius Dalmore" src="images/bitd/Lodius.jpg">
+  <figcaption>Ludius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+</figure>
+
+- de retour à leur planque, après avoir copieusement pillé le lupanar de feu Lyssa,
+les PJs s'assurent que les plaies de Bell soient pansées puis, une fois qu'il a un peu récupéré,
+le laissent retourner dans son gang, en sous-entendant au passage qu'ils comptent sur sa reconnaissance
+
+- le lendemain, le nouveau système d'alarme de leur planque se déclenche : un groupe de Bluecoats
+mené par **Darmot** a débarqué devant leur planque !
+Eric & Ethnos-Ludius vont à sa rencontre pour parlementer, tandis qu'Elaria ronge son frein,
+trépignant de trancher la gorge à Darmot... Celui-ci révèle avoir des témoins pouvant incriminer les PJs
+pour leur opération « coup de poing » de la veille, et souhaite visiblement se faire graisser la patte pour
+les laisser tranquille... Les PJs acceptent à contre-coeur, et enveront plus tard Melvir lui remettre un « cadeau ».
+
+<figure role="group">
+  <img alt="Darmot portrait" src="images/bitd/Darmot.jpg">
+  <figcaption>Darmot portrait <em>(Carlos Carbrera)</em></figcaption>
+</figure>
+
+- les PJs décident d'organiser une nouvelle expédition punitive contre l'Oeil Blanc,
+et se répartissent pour collecter des informations. Ils identifient une cible potentielle :
+**un entrepôt de charbon sur canal, servant de couverture pour leur traffic de drogue**.
+Tandis qu'Eric s'infiltre sur les plate-bandes de l'Oeil Blanc, il est repéré au milieu d'un marché,
+et doit faire preuve d'un peu de violence et d'intimidation pour s'éclipser.
+
+- ayant eu vent du climat tendu qui s'installe sur l'ancien territoire de Lyssa,
+et connaissant les véléités des trois clans adjacents,
+les PJs décident d'organiser **une rencontre entre leur gang, celui des Crows et celui de l'Écharpe Rouge**.
+Ils envoient un messager à ce dernier, fixant un RDV **à minuit le soir même au casino _Golden Feather_**,
+puis décident d'aller en discuter en personne avec Bell.
+
+- les PJs ne trouvent pas Bell à la tour de l'horloge. Ils finissent par le retrouver au sommet d'un bâtiment plat,
+au milieu de l'ancien terrain de chasse de Lyssa, visiblement en train d'organiser des actions quasi-militaires
+tactiques pour assurer le maintien de l'emprise des Crows sur les lieux.
+Une petite négociation s'ensuit, où **Bell refuse catégoriquement de céder du territoire Crows**,
+et est visiblement prêt à se battre pour le défendre, mais annonce être prêt à former une alliance contre le gang de l'Oeil Blanc.
+<!-- Note: Bell a même dit accépter de laisser sa part du territoire Oeil Blanc au Harpon -->
+
+- l'information leur étant parvenu qu'on cherchait à recruter leurs services à la Goule Fendue,
+les PJs s'y rendent pour rencontrer un petit groupe de **Silver Nails**, un gang d'anciens légionnaires chasseurs de démons,
+mené par **Jenny Holt**, et son second le sergent **Echols**.
+Ceux-ci recherchent un transporteur pour se rendre au **district perdu**, car ils ont des informations pour y dénicher
+un trésor de guerre, mais n'ont pas les contacts, l'équipement ni les compétences pour franchir la barrière illégalement.
+Ils posent 2 conditions : que des garanties leur soit exposés sur comment comptent s'y prendre les PJs,
+et qu'ils soient eux-même présents pour l'opération.
+Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une opération qui aurait lieu dans 5.
+
+<figure role="group">
+  <img alt="Jenny Holt, Silver Nails" src="https://cdna.artstation.com/p/assets/images/images/007/765/046/large/cedric-peyravernay-01.jpg?1508355612">
+  <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank"><em>(Cedric Peyravernay)</em></a></figcaption>
+</figure>
+
+- les PJs enchainent avec la rencontre au sommet au _Golden Feather_.
+En bref, tout se déroule sans encombre. **Une alliance est conclue contre le gang de l'Oeil Blanc, pour l'éradiquer**.
+**Mylera** annonce qu'elle négociera avec les Gondoliers pour organiser un blocus d'approvisionnement de drogue ;
+Bell compte leur mettre la pression en sollicitant les Bluecoats et en organisant des frappes tactiques ;
+le gang du Harpon quand à lui annonce qu'il passera à l'action cette nuit même, puis qu'il organisera une campagne de décridibilisation.
+Les PJs recoivent même un cadeau de la part du gang de l'Écharpe Rouge : un coffret garni d'épices, d'étoffes précieuses,
+de parfum et de pierres précieuses.
+
+<figure role="group">
+  <img alt="Mylera Klev" src="https://cdna.artstation.com/p/assets/images/images/015/505/384/large/mona-finden-windrider-2.jpg?1548613038">
+  <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank"><em>(Windrider 2 by Mona Finden)</em></a></figcaption>
+</figure>
+
+<figure role="group">
+  <img alt="Oru" src="https://cdnb.artstation.com/p/assets/images/images/012/643/861/large/silviu-sadoschi-old-master-final3.jpg?1535798091">
+  <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank"><em>(Old Master by Silviu Sadoschi)</em></a></figcaption>
+</figure>
+
+- la nuit étant déjà bien avancée, et secouée par un orage aux relents spectraux, avec de nombreux Échos dans l'air,
+les PJs passent à l'action sur l'entrepôt de l'Oeil Blanc qu'ils ont identifié, et où Aldo les attendait.
+Après une infiltration réussie, ils font face à plus de résistance que prévue, pour finalement débarquer en pleine cérémonie
+d'invocation d'un démon, en présence de **Baszos Baz** lui-même !
+Les PJs se replient finalement, en détruisant tout de même le laboratoire de l'entrepôt au passage.
+
+### Ressources
+J'ai employé [TableTopAudio](https://tabletopaudio.com) pour l'ambiance, en mode "playlist de fond sonore".
+Je ne suis pas bien certain que ce soit la meilleure méthode (certains morceaux ne "collaient" pas bien aux situations de jeu,
+ça manquait parfois qu'une bande son épique...), mais le site comporte de très nombreuses pistes dans l'ambiance
+_Blades in the Dark_ : Abandoned Windmill, Barovian Village, Castle Jail, Catacombs, Cathedral, Crossing the Styx, Cistern,
+Disembodied Spirits, Docks District, Dust to Dust, Graveyard, Medieval Library, Medieval Town, Mill Town, Sewers, Spire:*,
+Steampunk Airship, Sunken Temple, Temple of Helm, Temple of the Eye, Vampire's Castle, Victorian London, Waterkeep...
+
+Voici également une lecture intéressant pour préparer ses sessions côté MJ :
+[Running Jobs in Blades in the Dark](http://walkingmind.evilhat.com/2018/12/17/running-jobs-in-blades-in-the-dark/)
+
+<!-- Enfin, voici une gazette réalisée par des fans, _The Doskvol Echo_, idéale pour mettre dans l'ambiance les joueurs
+en partie, ou pour les _teaser_ par email pour la prochaine !
+
+- ex: https://www.fodey.com/generators/newspaper/snippet.asp
+  Doskvol Daily
+  Thursday, November 17, 847
+  Header + text to define
+- even better: https://www.reddit.com/r/bladesinthedark/comments/bifi0w/the_doskvol_echo_a_blades_in_the_dark_newspaper/
+
+ Idées :
   * ils reviennent à leur planque et détectent que quelqu'un leur a rendu visite
-  * corps Ethnos vulnérable à la possession par tout esprit de passage...
-  * gimmicks pour chaque PNJ:
+  * Ethnos pourrait développer une capacité à changer de corps (il est au courant)
+  * donner des gimmicks pour chaque PNJ, entre autre Aldo, Justinia & Melvir pour leur donner plus de "corps":
     + renifle tout, les gens, les lieux
     + obsedé par les croix
     + adore la musique
     + joue continuellement avec une pierre à aiguiser
   * en intérieur, dans une pièce avec des tentures, celles-ci sont brusquement soulevés par une tempête !
+  * corbeaux servent d'yeux au Crows, via occultisme...
+  * quel va être la réaction de Baszos Baz, se sentant acculé, et ayant vent de l'alliance ?
+    Mercenaires recrutés, démon invoqué... coup d'éclat public avec menaces à l'égard de ses ennemis ?
+    (mise en scène : harpon qui plante une écharpe rouge et un corbeau)
+
++ trouver illustrations pour les PNJs ppaux, comme Baszos Baz
+
++ make a diagram of DOWNTIME steps ?
+-> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/
+
++ PRINT: https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Factions.pdf
+
+DOWNTIME DEJA FAIT A LA FIN DE LA PARTIE PRECEDENTE
 -->
 
 <style>

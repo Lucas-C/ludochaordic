@@ -97,7 +97,7 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('Jane McGonigal', 'https://twitter.com/avantgame'),
          ('Jeff Atwodd Coding Horror', 'http://blog.codinghorror.com'),
          ("Du Monde Dans l'Objectif", 'http://www.dumondedanslobjectif.com'),
-         ("Galerie d'Elliot Jolivet aka 10seï", 'https://illutensei.com'),
+         ("Galerie d'Elliot Jolivet aka Tenseï", 'https://illutensei.com'),
          ("Galerie d'Elodie Olivier", 'http://elodie-olivier.com'),)
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),

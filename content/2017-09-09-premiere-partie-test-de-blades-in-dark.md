@@ -63,7 +63,7 @@ quand tout d'un coup des éclats de voix se font entendre sur le pont principal,
 
 > Croyais-tu vraiment que je te reconnaîtrais pas ? Traître ! Tu vas payer !
 
-Visiblement Ludius est tombé sur vieille connaissance, et sa couverture n'a pas fait long feu.
+Visiblement Ludius est tombé sur une vieille connaissance, et sa couverture n'a pas fait long feu.
 Il est rapidement désarmé, jeté sol, et un filet électrostatique est jeté sur lui.
 
 > La garde ne devrait plus tarder, mais avant je vais m'amuser avec toi...
