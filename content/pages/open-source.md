@@ -22,6 +22,9 @@ with a companion [brain_dump](https://github.com/Lucas-C/brain_dump) repo contai
 ## Contributions
 Some open-source projects to which I have contributed.
 
+- <img alt="Logo Python" src="images/open-source/python-logo.png" style="max-width: 16em">
+I made a few minor bug fixes to CPython: [GitHub PRs](https://github.com/python/cpython/pulls?utf8=%E2%9C%93&q=author%3ALucas-C+)
+
 - [<img alt="Logo pre-commit" src="images/open-source/pre-commit-logo.png" style="max-width: 6em"> pre-commit](http://pre-commit.com) :
 Python command line manager for `git` pre-commit hooks
     * created [several hooks](https://github.com/Lucas-C?tab=repositories&q=pre-commit-hooks&type=source)
@@ -59,9 +62,16 @@ I also made some maps for a Ludum Dare game, back in 2009 (the game is worth try
 <http://eriatic.wikidot.com/blog:triumph-mappack>
 
 
-### Open-source projects made at oui.sncf
+### Open-source contributions made at oui.sncf
 
-When working at [oui.sncf](https://jobs.oui.sncf), I had the opportunity to create the following open-source projects:
+When working at [oui.sncf](https://jobs.oui.sncf), I had the opportunity to work on the following open-source projects:
+
+- [`Hesperides`](https://github.com/voyages-sncf-technologies/hesperides):
+a configuration management tool providing universal text file templating and properties editing through a REST API or a webapp
+
+<br>
+
+I also created the following ones:
 
 - [<img alt="Logo V.Board" src="images/open-source/logo-vboard.jpg" style="max-width: 6em"> `V.Board`](https://github.com/voyages-sncf-technologies/vboard) :
 a "pins" dashboard to share news among an organization
