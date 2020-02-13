@@ -22,24 +22,24 @@ The following are some frugal notes on the talks I've seen there.
 
 <!-- toc -->
 
-- [Saturday 10:00 How FOSS could revolutionize municipal government - Danese Cooper](#saturday-1000-how-foss-could-revolutionize-municipal-government---danese-cooper)
-- [Saturday 11:30 Doomed are the dinosaurs! - David Heijkamp](#saturday-1130-doomed-are-the-dinosaurs---david-heijkamp)
-- [Saturday 12:00 Civil society needs Free Software hackers - Matthias Kirschner](#saturday-1200-civil-society-needs-free-software-hackers---matthias-kirschner)
-- [Saturday 12:20 A tool for Community Supported Agriculture (CSA) management, OpenOlitor - Mikel Cordovilla Mesonero](#saturday-1220-a-tool-for-community-supported-agriculture-csa-management-openolitor---mikel-cordovilla-mesonero)
-- [Saturday 12:40 What's in my food ? Open Food Facts - Pierre Slamich](#saturday-1240-whats-in-my-food--open-food-facts---pierre-slamich)
-- [Saturday 13:00 Web3 - the Internet of Freedom, Value, and Trust - Bruno Škvorc](#saturday-1300-web3---the-internet-of-freedom-value-and-trust---bruno-skvorc)
-- [Saturday 14:00 The Hidden Early History of Unix - Warner Losh](#saturday-1400-the-hidden-early-history-of-unix---warner-losh)
-- [Saturday 15:00 A best practices guide for FLOSS community managers - The Open Source Way v2.0 - Karsten Wade & Shaun McCance](#saturday-1500-a-best-practices-guide-for-floss-community-managers---the-open-source-way-v20---karsten-wade--shaun-mccance)
-- [Saturday 16:00 Journalists are researchers like any others - Anne L'Hôte & Bruno Thomas](#saturday-1600-journalists-are-researchers-like-any-others---anne-lhote--bruno-thomas)
-- [Saturday 17:30 Creating Sustainable Public Sector Open Source Communities - OSOR team](#saturday-1730-creating-sustainable-public-sector-open-source-communities---osor-team)
-- [Sunday 11:00 Is the web rea11y for all? - Ioana Chiorean](#sunday-1100-is-the-web-rea11y-for-all---ioana-chiorean)
-- [Sunday 11:55 Cognitive biases, blindspots and inclusion - Allon Mureinik](#sunday-1155-cognitive-biases-blindspots-and-inclusion---allon-mureinik)
-- [Sunday 12:55 Bringing back ethics to open source - Tobie Langel](#sunday-1255-bringing-back-ethics-to-open-source---tobie-langel)
-- [Sunday 15:00 File sharing & storage for human rights organizations - Allon Bar & Abigail Garner](#sunday-1500-file-sharing--storage-for-human-rights-organizations---allon-bar--abigail-garner)
-- [Sunday 15:30 Design contributions to OSS: Learnings from the Open Design project at Ushahidi - Eriol Fox](#sunday-1530-design-contributions-to-oss-learnings-from-the-open-design-project-at-ushahidi---eriol-fox)
-- [Sunday 16:00 Sunday 16:00 NGI Zero: A treasure trove of tech awesome - Michiel Leenaars](#sunday-1600-ngi-zero-a-treasure-trove-of-tech-awesome---michiel-leenaars)
-- [Sunday 16:20 European Software Engineering funded research - Luis C. Busquets Pérez](#sunday-1620-european-software-engineering-funded-research---luis-c-busquets-perez)
-- [Conclusive notes](#conclusive-notes)
+- [Saturday 10:00 How FOSS could revolutionize municipal government - Danese Cooper](minutes-of-the-fosdem-2020-conference.html#saturday-1000-how-foss-could-revolutionize-municipal-government---danese-cooper)
+- [Saturday 11:30 Doomed are the dinosaurs! - David Heijkamp](minutes-of-the-fosdem-2020-conference.html#saturday-1130-doomed-are-the-dinosaurs---david-heijkamp)
+- [Saturday 12:00 Civil society needs Free Software hackers - Matthias Kirschner](minutes-of-the-fosdem-2020-conference.html#saturday-1200-civil-society-needs-free-software-hackers---matthias-kirschner)
+- [Saturday 12:20 A tool for Community Supported Agriculture (CSA) management, OpenOlitor - Mikel Cordovilla Mesonero](minutes-of-the-fosdem-2020-conference.html#saturday-1220-a-tool-for-community-supported-agriculture-csa-management-openolitor---mikel-cordovilla-mesonero)
+- [Saturday 12:40 What's in my food ? Open Food Facts - Pierre Slamich](minutes-of-the-fosdem-2020-conference.html#saturday-1240-whats-in-my-food--open-food-facts---pierre-slamich)
+- [Saturday 13:00 Web3 - the Internet of Freedom, Value, and Trust - Bruno Škvorc](minutes-of-the-fosdem-2020-conference.html#saturday-1300-web3---the-internet-of-freedom-value-and-trust---bruno-skvorc)
+- [Saturday 14:00 The Hidden Early History of Unix - Warner Losh](minutes-of-the-fosdem-2020-conference.html#saturday-1400-the-hidden-early-history-of-unix---warner-losh)
+- [Saturday 15:00 A best practices guide for FLOSS community managers - The Open Source Way v2.0 - Karsten Wade & Shaun McCance](minutes-of-the-fosdem-2020-conference.html#saturday-1500-a-best-practices-guide-for-floss-community-managers---the-open-source-way-v20---karsten-wade--shaun-mccance)
+- [Saturday 16:00 Journalists are researchers like any others - Anne L'Hôte & Bruno Thomas](minutes-of-the-fosdem-2020-conference.html#saturday-1600-journalists-are-researchers-like-any-others---anne-lhote--bruno-thomas)
+- [Saturday 17:30 Creating Sustainable Public Sector Open Source Communities - OSOR team](minutes-of-the-fosdem-2020-conference.html#saturday-1730-creating-sustainable-public-sector-open-source-communities---osor-team)
+- [Sunday 11:00 Is the web rea11y for all? - Ioana Chiorean](minutes-of-the-fosdem-2020-conference.html#sunday-1100-is-the-web-rea11y-for-all---ioana-chiorean)
+- [Sunday 11:55 Cognitive biases, blindspots and inclusion - Allon Mureinik](minutes-of-the-fosdem-2020-conference.html#sunday-1155-cognitive-biases-blindspots-and-inclusion---allon-mureinik)
+- [Sunday 12:55 Bringing back ethics to open source - Tobie Langel](minutes-of-the-fosdem-2020-conference.html#sunday-1255-bringing-back-ethics-to-open-source---tobie-langel)
+- [Sunday 15:00 File sharing & storage for human rights organizations - Allon Bar & Abigail Garner](minutes-of-the-fosdem-2020-conference.html#sunday-1500-file-sharing--storage-for-human-rights-organizations---allon-bar--abigail-garner)
+- [Sunday 15:30 Design contributions to OSS: Learnings from the Open Design project at Ushahidi - Eriol Fox](minutes-of-the-fosdem-2020-conference.html#sunday-1530-design-contributions-to-oss-learnings-from-the-open-design-project-at-ushahidi---eriol-fox)
+- [Sunday 16:00 Sunday 16:00 NGI Zero: A treasure trove of tech awesome - Michiel Leenaars](minutes-of-the-fosdem-2020-conference.html#sunday-1600-ngi-zero-a-treasure-trove-of-tech-awesome---michiel-leenaars)
+- [Sunday 16:20 European Software Engineering funded research - Luis C. Busquets Pérez](minutes-of-the-fosdem-2020-conference.html#sunday-1620-european-software-engineering-funded-research---luis-c-busquets-perez)
+- [Conclusive notes](minutes-of-the-fosdem-2020-conference.html#conclusive-notes)
 
 <!-- tocstop -->
 
@@ -96,7 +96,8 @@ book chapter "Public Administrations & Libre Software".
   <source src="https://video.fosdem.org/2020/UD2.120/doomed.webm" type="video/webm; codecs=&quot;vp9, opus&quot;">
 </video>
 
-<https://github.com/naturalis>
+- [PDF Slides on Google Drive](https://drive.google.com/file/d/1FfcaLPd2TVdOFVcvlh-Q8hss15r9FcwL/view?usp=sharing)
+- <https://github.com/naturalis>
 
 Deploy & manage an entirely new natural history museum: [Naturalis](https://en.wikipedia.org/wiki/Naturalis_Biodiversity_Center) in Leiden, Netherlands
 
@@ -106,8 +107,9 @@ Infra based on OpenSteck & Ceph, some workloads on Kubernetes (at some point), a
 2. Use high quality open source components
 3. Apply 'infra as code' & devops to infrastructure & museum
 
-Sadly, the very interesting diagrams ("Ansible in the center" & "The scope of automation in the museum")
-do not render very well in the video, as the text is too small.
+[![Diagram: Ansible in the center](images/2020/02/doomedarethedinosaurs-andisble-in-the-center.png)](images/2020/02/doomedarethedinosaurs-andisble-in-the-center.png)
+
+[![Diagram: The scope of automation in the museum](images/2020/02/doomedarethedinosaurs-the-scope-of-automation-in-the-museum.png)](images/2020/02/doomedarethedinosaurs-the-scope-of-automation-in-the-museum.png)
 
 A quote that I liked:
 
@@ -251,8 +253,14 @@ And finally, there is one of the very first Unix fan-arts picture!
 Two speakers from Red Hat presented a project they are starting :
 a collaboratively-written, community-driven, guide for FLOSS community managers:
 
-- <http://www.theopensourceway.org>
-- GitHub repo [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook)
+- <http://www.theopensourceway.org> - Some notable sub-pages:
+
+    * [Organizing a community - checklist](https://www.theopensourceway.org/wiki/Organizing_a_community_-_checklist)
+    * [Books you should read](https://www.theopensourceway.org/wiki/Books_you_should_read)
+
+- GitHub repo [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook),
+including some [Guidelines outline](https://github.com/theopensourceway/guidebook/blob/master/OUTLINE.adoc)
+
 
 > a (somewhat opinionated) guidebook for anyone interested in managing open source communities.
 > It collects best practices for initiating, nurturing, growing, and maintaining groups of passionate contributors.
