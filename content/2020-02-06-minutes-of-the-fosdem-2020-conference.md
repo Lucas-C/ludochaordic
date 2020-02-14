@@ -363,6 +363,10 @@ How would you enforce rules at a worldwide level ? (legally, but also very likel
 A "strong concept word / image", similar to the term "copyleft", could be useful to express this idea.
 Human-rights-enforcing licenses ? Probably not catchy enough...
 
+**EDIT [2020/02/14]**: a similar idea to prevent oil and gas companies to use software under a specific license:
+<https://github.com/climate-strike/license>
+
+
 ## Sunday 15:00 File sharing & storage for human rights organizations - Allon Bar & Abigail Garner
 [FOSDEM talk description](https://fosdem.org/2020/schedule/event/file_sharing_and_storage_for_human_rights_organizations/)
 
@@ -414,7 +418,7 @@ so I started coding on a new [Pelican plugin](https://github.com/pelican-plugins
 
 ## Conclusive notes
 
-They event was awesome!
+The event was awesome!
 Everybody felt very friendly, but it was also quite crowded (slightly a bit too much for me).
 
 It felt to me there was a higher proportion of female participants than in other conferences, which is great!
