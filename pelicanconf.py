@@ -117,9 +117,10 @@ DEFAULT_LANG = 'fr'
 PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
 WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
 
-ENABLE_HCARD = True
+# microformats info for h-card:
 COUNTRY = 'France'
 LOCALITY = 'Saint-Mathurin-sur-Loire'
+SHORT_BIO = 'Software engineer. Tabletop RPG writer. Love libre software, and especially Python 🐍. Currently working for oui.sncf @Nantes'
 
 PATH = './content'
 OUTPUT_PATH = './output'
