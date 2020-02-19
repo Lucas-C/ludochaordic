@@ -32,10 +32,33 @@ Comme lors des playtests précédents d'_Amères Victoires & Glorieuses Défaite
 la phase initiale de création collective de l'univers de jeu a beaucoup plu.
 J'en ai profité pour inclure quelques conseils dans les règles pour animer cette phase.
 
-Bien que de j'ai réussi à mieux _timeboxer_ cette phase que les fois précédentes,
+Pour cette partie, voici quelques caractéristiques de l'univers conçu par les joueurs :
+
+- les paysages sont essentiellement constitués de ruines, de déserts, de végétation
+- les Dieux ont abandonné les hommes
+- une certaine forme de magie est présente, élémentaire, végétale.
+Sa source proviendrait du Fluide suintant de gigantesques piles datant d'avant le cataclysme.
+- deux courants de pensée principaux sont en lutte, et ont donné lieu à une terrible guerre ouverte
+il y a plusieurs années : des nomades animistes, les Jardinistes, et les Gardiens du Passé,
+oeuvrant à préserver la technologie antique, et dirigés par 3 IA en compétition
+- trois gangs occupent également certaines régions, les Grimlocks,
+dirigés par : Smoke le voleur, Midas le maître du commerce, et Motorbahn le chef de guerre
+- enfin, des golem-robots géants indestructibles errent ératiquement à travers le monde;
+de terribles tempêtes magiques surviennent parfois, les maëlstroms;
+et depuis peu d'étranges amats d'insectes volants, les Essaims, ravagent des régions entières
+
+Bien que de j'ai réussi à mieux _timeboxer_ cette phase de création collective que les fois précédentes,
 l'ensemble de la session de jeu à elle beaucoup dépassé mes estimations.
 J'ai revu à la hausse les estimations en temps du diagramme décrivant le déroulement,
 et je compte bien être plus dans les clous la prochaine fois !
+
+Les joueurs ont créé des Héros ayant pour objectif de retrouver un trésor perdus,
+de réparer un artefact, de se venger d'un chef de guerre, de cloner un être cher décédé,
+de découvrir se qui se cache dans une contrée lointaine ou encore de prendre le contrôle d'un colosse.
+Et ils en ont accompli la plupart durant la partie !
+
+Leurs Atouts : des papillons de métal, une capacité à contrôler le vent,
+des armes laser ou géante, un hoverboard, une clef mystérieuse...
 
 Dans l'ensemble les retours des joueurs ont été plutôt positifs,
 mais un point d'amélioration m'a été remonté en particulier :
