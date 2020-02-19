@@ -430,7 +430,7 @@ I couldn't have accessed Internet at all during this week-end 😁
 The number of talks and subjects covered was huge!
 [IMHO](https://en.wiktionary.org/wiki/IMHO), there were just a bit too many "visionary" talks about "the future of the Internet" 🙄
 
-I'll conclude with a interesting read for French-speaking people that are not necessarily into programming & systems,
+I'll conclude with an interesting read for French-speaking people that are not necessarily into programming & systems,
 but are still interested by the ethics & goals of Libre & Open Source software:
 [débuter dans le Libre (sans avoir rien à coder) - Framablog](https://framablog.org/2013/02/19/10-facons-commencer-open-source/).
 

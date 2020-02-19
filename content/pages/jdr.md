@@ -124,9 +124,9 @@ Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parti
         <dt>Durée</dt><dd>4h à 6h</dd>
       </dl>
       <ul>
-        <li><a href="ameres-victoires-et-glorieuses-defaites.html">Article de présentation</a></li>
+        <li><a href="avgd-nouvelle-mouture.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/gdav/">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.1.1/gdav-v1.1.1.pdf">Version PDF</a></li>
+        <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.2/gdav-v1.2.pdf">Version PDF</a></li>
       </ul>
       <blockquote>Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
       Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,

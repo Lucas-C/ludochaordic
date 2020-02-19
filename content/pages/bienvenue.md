@@ -31,8 +31,9 @@ les jeux de sociétés, les puzzles logiques et les jeux de rôles.
 N'hésitez pas à me faire part de vos retours sur son contenu !
 
 À noter: techniquement, ce blog s'efforce de suivre la philosophie [_low tech_](https://homebrewserver.club/low-tech-website-howto.html#software).
-Il emploie également des technologies favorables à un [web décentralisé](https://en.wikipedia.org/wiki/Decentralization#Centralization_and_redecentralization_of_the_Internet):
-commentaires [isso](https://posativ.org/isso/), pingbacks & [webmentions](https://www.w3.org/TR/webmention/), [microformats](https://indieweb.org/microformats), syndication [POSSE](https://indieweb.org/POSSE-fr)...
+Il emploie également des technologies favorables à un [web décentralisé](https://en.wikipedia.org/wiki/Decentralization#Centralization_and_redecentralization_of_the_Internet) :
+commentaires [isso](https://posativ.org/isso/), instance [Shaarli](https://chezsoi.org/shaarli/) pour partager des notes & liens,
+support des pingbacks & [webmentions](https://www.w3.org/TR/webmention/)...
 
 
 ## Articles à lire
