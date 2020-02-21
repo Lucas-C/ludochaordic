@@ -94,7 +94,7 @@ Voici les prochaines points que je prévoie d'améliorer :
 
 - travailler un peu plus la mise en page, et notament embellir les feuilles de Héro
 - "sortir" les listes à choix des règles, pour pouvoir les distribuer plus facilement aux joueurs
-- fournir un univers « prêt à jouer » dans l'ambiance _Dark Souls_, avec Thème, Pacte et listes à choix
+- fournir un univers « prêt à jouer » dans l'ambiance _Dark Souls_, avec Thème, Pacte et listes à choix d'Atouts / Flashbacks
 
 D'ici là, si vous êtes curieux de voir à quoi ressemble le jeu, jetez un oeil aux liens ci-dessous !
 
@@ -119,7 +119,9 @@ D'ici là, si vous êtes curieux de voir à quoi ressemble le jeu, jetez un oeil
   </a>
 </div>
 
-Et je serais sincèrement ravi d'avoir vos avis sur le jeu dans les commentaires !
+J'ai également profité de cette nouvelle version pour [le mettre en ligne sur itch.io](https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites).
+
+Si vous le lisez / testez, je serais sincèrement ravi d'avoir vos avis sur le jeu dans les commentaires !
 
 <style>
 .small-img { max-height: 16rem; }

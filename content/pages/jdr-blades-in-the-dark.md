@@ -65,8 +65,8 @@ cf. <https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html>
 ## Session 3 - février 2018
 
 ### Ressources
-- [my Pinterest board of characters](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-characters/)
-- [my Pinterest board of places](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/)
+- [my Pinterest board of BitD characters](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-characters/)
+- [my Pinterest board of BitD places](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/)
 
 Note: il y en a [plein d'autres](https://www.pinterest.fr/search/boards/?q=blades%20in%20the%20dark&rs=filter) !
 
