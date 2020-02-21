@@ -293,6 +293,16 @@ Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par l
   <figcaption>Ludius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
+<figure role="group">
+  <img alt="Elaria" src="images/bitd/Elaria.jpg">
+  <figcaption>Elaria par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+</figure>
+
+<figure role="group">
+  <img alt="Eric Stamp" src="images/bitd/EricStamp.jpg">
+  <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+</figure>
+
 - de retour à leur planque, après avoir copieusement pillé le lupanar de feu Lyssa,
 les PJs s'assurent que les plaies de Bell soient pansées puis, une fois qu'il a un peu récupéré,
 le laissent retourner dans son gang, en sous-entendant au passage qu'ils comptent sur sa reconnaissance
@@ -374,8 +384,52 @@ _Blades in the Dark_ : Abandoned Windmill, Barovian Village, Castle Jail, Cataco
 Disembodied Spirits, Docks District, Dust to Dust, Graveyard, Medieval Library, Medieval Town, Mill Town, Sewers, Spire:*,
 Steampunk Airship, Sunken Temple, Temple of Helm, Temple of the Eye, Vampire's Castle, Victorian London, Waterkeep...
 
-Voici également une lecture intéressant pour préparer ses sessions côté MJ :
-[Running Jobs in Blades in the Dark](http://walkingmind.evilhat.com/2018/12/17/running-jobs-in-blades-in-the-dark/)
+Voici également quelques lectures intéressantes pour préparer ses sessions côté MJ :
+
+- [Running Jobs in Blades in the Dark](http://walkingmind.evilhat.com/2018/12/17/running-jobs-in-blades-in-the-dark/)
+- [General ideas for score obstacles](https://community.bladesinthedark.com/t/general-ideas-for-score-obstacles/468/4)
+J'en ai extrait cette table d'idées d'obstacles à solution "ouverte", à surmonter par les PJs :
+
+1  | finding a certain person in the crowd of a masquerade ball without drawing attention to yourselves
+  -|-
+2  | getting the warden off your back for a few minutes to talk to in private with an Ironhook inmate
+3  | finding Dunvil’s secret lab in the catacombs below the church of ecstasy
+4  | a well guarded elevator is the only obvious way to the lower levels of the cellar
+5  | get an important piece of information out of a slumming noble
+6  | place false evidence in a believable fashion
+7  | make an Iruvian scientist arriving at Gaddoc station climb into your carriage to kidnap him
+8  | lure a party guest out to the balcony
+9  | get past a lightning barrier
+10 | convince someone to sign a ghost contract
+
+- [Your best devil’s bargains](https://community.bladesinthedark.com/t/your-best-devils-bargains/364/3)
+Voici ceux suggérés dans le jeu :
+
+1  | Reveal a valuable secret
+  -|-
+2  | Sacrifice coin or an item
+3  | Betray a friend or loved one
+4  | Anger a powerful enemy
+5  | Make a dangerous promise (e.g. you’ll owe someone a favor)
+6  | Add heat to the crew from evidence or witnesses (*)
+7  | Suffer harm
+
+(*) Maybe a ghost sees you and might remember ? Maybe an x-ray plate captured a picture of your skull ?
+
+En voici quelques autres extraits de cet article :
+
+8  | A fire catch up
+  -|-
+9  | A NPC develop a crush / an intense dislike towards you
+9  | YOU fall in love / become friend with the person you're trying to sway
+10 | Someone recognizes you : a past victim ? A bluecoat ? A rival gang member ? An accomplice from a former life ? An ex lover ?
+11 | Unexpected presence : an ennemy appears / wake up / notice you
+12 | A voice whispering in your head “I can help you” -> tick a clock “Bound to a Demon / Forgotten God”
+13 | After you kill her, her body will drop down the cliff and the Spirit Wardens will never find her. Her ghost will come back to haunt you
+14 | Electroplasmic marker dust squibs. Victims are marked invisibly to normal sight, but blaze brightly and leave an easily traceable trail in the ghost field (*)
+
+(*) Decontamination requires time, fancy equipment, or involved rituals.
+
 
 <!-- Enfin, voici une gazette réalisée par des fans, _The Doskvol Echo_, idéale pour mettre dans l'ambiance les joueurs
 en partie, ou pour les _teaser_ par email pour la prochaine !
@@ -405,7 +459,8 @@ en partie, ou pour les _teaser_ par email pour la prochaine !
 + make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/
 
-+ PRINT: https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Factions.pdf
+TO PRINT: https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Factions.pdf
++ idées de Devil's Bargain / obstacles
 
 DOWNTIME DEJA FAIT A LA FIN DE LA PARTIE PRECEDENTE
 -->
@@ -426,6 +481,11 @@ article img {
 article figcaption {
   text-align: center;
 }
+/* headless tables */
+article table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; margin: 0 auto; }
+article td, article th { font-weight: normal; padding: 5px 10px; text-align: left; }
+article td { border-top: 1px solid #ddd; }
+article tr > td:first-child, article tr > th:first-child { font-weight: bold; text-align: right; }
 </style>
 <script>
 ['h2', 'h3'].forEach(function (selector) {
