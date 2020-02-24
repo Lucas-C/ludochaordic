@@ -19,7 +19,7 @@ il y a un peu plus d'un an.
   <figcaption>« Stormchaser Proving Grounds » de Ramirez de Souza</figcaption>
 </figure>
 
-J'ai réalisé le mois dernier un quatrième playtest du jeu,
+J'ai réalisé le mois dernier un quatrième _playtest_ du jeu,
 avec quatre membres du club de jeux de rôle de Trélazé
 [les Héritiers de Dumnacus](http://heritiersdumnacus.blogspot.com)
 ([site web](http://heritiers.dumnacus.online.fr)).
@@ -28,7 +28,7 @@ Je connais bien ce club, ayant été moi-même membre pendant quelques années i
 C'était donc avec grand plaisir que j'ai retrouvé d'anciens camarades de jeu,
 et fait la connaissance d'un très sympathique nouveau membre.
 
-Comme lors des playtests précédents d'_Amères Victoires & Glorieuses Défaites_,
+Comme lors des _playtests_ précédents d'_Amères Victoires & Glorieuses Défaites_,
 la phase initiale de création collective de l'univers de jeu a beaucoup plu.
 J'en ai profité pour inclure quelques conseils dans les règles pour animer cette phase.
 
@@ -40,12 +40,12 @@ Pour cette partie, voici quelques caractéristiques de l'univers conçu par les 
 Sa source proviendrait du Fluide suintant de gigantesques piles datant d'avant le cataclysme.
 - deux courants de pensée principaux sont en lutte, et ont donné lieu à une terrible guerre ouverte
 il y a plusieurs années : des nomades animistes, les Jardinistes, et les Gardiens du Passé,
-oeuvrant à préserver la technologie antique, et dirigés par 3 IA en compétition
+œuvrant à préserver la technologie antique, et dirigés par 3 IA en compétition
 - trois gangs occupent également certaines régions, les Grimlocks,
 dirigés par : Smoke le voleur, Midas le maître du commerce, et Motorbahn le chef de guerre
 - enfin, des golem-robots géants indestructibles errent ératiquement à travers le monde;
 de terribles tempêtes magiques surviennent parfois, les maëlstroms;
-et depuis peu d'étranges amats d'insectes volants, les Essaims, ravagent des régions entières
+et depuis peu d'étranges amas d'insectes volants, les Essaims, ravagent des régions entières
 
 Bien que de j'ai réussi à mieux _timeboxer_ cette phase de création collective que les fois précédentes,
 l'ensemble de la session de jeu à elle beaucoup dépassé mes estimations.
@@ -92,7 +92,7 @@ en début de partie
 
 Voici les prochaines points que je prévoie d'améliorer :
 
-- travailler un peu plus la mise en page, et notament embellir les feuilles de Héro
+- travailler un peu plus la mise en page, et notamment embellir les feuilles de Héro
 - "sortir" les listes à choix des règles, pour pouvoir les distribuer plus facilement aux joueurs
 - fournir un univers « prêt à jouer » dans l'ambiance _Dark Souls_, avec Thème, Pacte et listes à choix d'Atouts / Flashbacks
 

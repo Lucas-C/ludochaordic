@@ -308,16 +308,42 @@ Description from [Wikipedia](https://en.wikipedia.org/wiki/Open_Source_Observato
 This was a collaborative group thinking workshop, and probably the most interesting FOSDEM event of the day for me!
 
 The goal was to have a reflection on guidelines for open-source projects to adopt across Europe,
-that would improve their sustainability.
+that would improve their sustainability. They stated that they wanted to initiate
+
+> a discussion on the key elements that contribute to OSS communities’ vibrance, governance and sustainable finance.
+
+The OSOR team constituted of Monika Sowinska, a European Commission project officer,
+[Dr Maha Shaikh](https://www.kcl.ac.uk/people/dr-maha-shaikh), and several consultants from the [Wavestone](https://fr.wikipedia.org/wiki/Wavestone) cabinet.
 
 They told us they were planning to draft, this year, some official guidelines along those lines.
 They should get back to us through email, so I'll include more information here when I'll know more.
-<!-- 3 axes to detail here from the follow-up email + researcher name -->
 
-For members of an open source community managed by the public sector,
-I recommend [taking their survey](https://ec.europa.eu/eusurvey/runner/OSORsurvey2020sustainabilitycommunities).
+Note: because OSOR main page is on Joinup, it made me discover this [european "software solutions" catalogue](https://joinup.ec.europa.eu/solutions) catalogue.
 
-Because OSOR main page is on Joinup, it made me discover this [european "software solutions" catalogue](https://joinup.ec.europa.eu/solutions) catalogue.
+**EDIT [2020/02/24]** : on February the 11th, an email was sent to the participants,
+with enclosed a Power-Point presentation (sic) including the slides they showed us during the workshop,
+and the "Brainstorming session results".
+
+Those slides can be found online at the bottom of this article on Joinup:
+[Workshop on sustainable OSS communities in public sector at FOSDEM20](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/workshop-sustainable-oss-communities-public-sector-fosdem20)
+
+As for myself, I took part in the brainstorming group about "Governance".
+I am glad they included pictures of the post-its board in the slides, as they accurately reflect the output of this short session.
+However, I have to say that I am surprised on how some of the ideas expressed at the workshop have been transcribed.
+I certainly do not recall anyone suggesting anything even close to those "results" from the slides:
+
+> Governance should be enforced because hierarchy does not always happen naturally
+
+> Projects have three core phases that are better facilitated through the enforcement of governance standards:
+> 1. Maintenance 2. Deployment 3. Operation
+
+While this "group brainstorming" format was really interesting to generate discussion and exchanges of points of view around those thematics,
+I fear that a large part of interpretation has been done on the resulting post-its boards:
+I sincerely think that **the "brainstorming session results" from this workshop do not properly reflect the opinions of the participants**.
+
+Finally, I am a bit disappointed that the survey they sent us is only addressed to members of open source community managed by the public sector
+[link to the survey](https://ec.europa.eu/eusurvey/runner/OSORsurvey2020sustainabilitycommunities).
+They do not seem interested in consulting members of other open-source communities.
 
 
 ## Sunday 11:00 Is the web rea11y for all? - Ioana Chiorean
