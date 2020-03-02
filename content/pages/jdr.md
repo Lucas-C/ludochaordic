@@ -10,6 +10,30 @@ Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Les Non-morts</h2>
+    <img class="uk-align-center" src="https://lucas-c.github.io/jdr/LesNonMorts/cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg" alt="Couverture du jeu : un motard zombie">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Jeu complet en 12 pages</dd>
+        <dt>Pour</dt><dd>2 à 5 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>2h à 4h environ</dd>
+      </dl>
+      <ul>
+        <li><a href="https://github.com/Lucas-C/jdr/releases/download/LesNonMorts-v1.0/LesNonMorts-v1.0.pdf">Les Non-morts (PDF, 1,3 Mo)</a></li>
+        <li><a href="les-non-morts.html">Article de présentation</a></li>
+      </ul>
+      <blockquote>
+        Les Non-morts est un court jeu compétitif faisant la part belle à l'imagination,
+        à mi-chemin entre jeu de société et jeu de rôle sans meneur, dans une ambiance de film de mort-vivants de série Z :
+        un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.
+        <br>
+        Les joueurs incarnent les réalisateurs / scénaristes d'un tel film, qui se sont succédés à la production, chaotique.
+        Au cours de la partie, ils vont dessiner collectivement le plan d'un lieu, et décrire les actions d'une poignée de survivants
+        de la catastrophe en cours, tentant de survivre à une marée de mort-vivants !
+      </blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Run. Die. Repeat</h2>
     <img class="uk-align-center" src="images/2020/01/RunDieRepeat.jpg" alt="Run. Die. Repeat">
     <div class="uk-thumbnail-caption">
