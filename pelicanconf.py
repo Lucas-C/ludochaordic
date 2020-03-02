@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2020-03-02', 'img_url': 'images/readings/LastMan12.jpg', 'description': 'Last Man tome 12 - Balak & Sanlaville & Vivès (BD)'},
     {'date': u'2020-01-21', 'img_url': 'images/readings/chronosquad.jpg', 'description': 'Chronosquad - Giorgio Albertini & Grégory Panaccione (BD)'},
     {'date': u'2019-12-28', 'img_url': 'images/readings/infinity8_tome5.jpg', 'description': 'Infinity 8 - tome 5 - Lewis Trondheim & Davy Mourier & Lorenzo De Felici (BD)'},
     {'date': u'2019-12-22', 'img_url': 'images/readings/mamada.jpg', 'description': 'Mamada - David Ratte (BD)'},

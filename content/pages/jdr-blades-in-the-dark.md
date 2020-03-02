@@ -457,12 +457,21 @@ en partie, ou pour les _teaser_ par email pour la prochaine !
 + trouver illustrations pour les PNJs ppaux, comme Baszos Baz
 
 + make a diagram of DOWNTIME steps ?
--> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/
+-> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
 TO PRINT: https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Factions.pdf
++ https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0
++ https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0
++ https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0
++ http://www.ad1066.com/download/Sheets/blades/misc/Districts.pdf
 + idées de Devil's Bargain / obstacles
 
+Envoyer cette AdJ à Thomas :https://redboxvancouver.files.wordpress.com/2018/02/alt_iruvian_playbooks_20171121.pdf
+
 DOWNTIME DEJA FAIT A LA FIN DE LA PARTIE PRECEDENTE
+
+One-Shot : https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit#
+-> l'idée des "ghost dealers" est très chouette !
 -->
 
 <style>

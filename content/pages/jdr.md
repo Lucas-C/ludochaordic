@@ -6,6 +6,8 @@ Tags: lang:fr, jdr
 
 Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables [en cliquant ici](tag/jdr.html).
 
+Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
+
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Run. Die. Repeat</h2>

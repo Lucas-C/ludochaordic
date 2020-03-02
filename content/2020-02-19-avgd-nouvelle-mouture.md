@@ -96,7 +96,7 @@ Voici les prochaines points que je prévoie d'améliorer :
 - "sortir" les listes à choix des règles, pour pouvoir les distribuer plus facilement aux joueurs
 - fournir un univers « prêt à jouer » dans l'ambiance _Dark Souls_, avec Thème, Pacte et listes à choix d'Atouts / Flashbacks
 
-D'ici là, si vous êtes curieux de voir à quoi ressemble le jeu, jetez un oeil aux liens ci-dessous !
+D'ici là, si vous êtes curieux de voir à quoi ressemble le jeu, jetez un œil aux liens ci-dessous !
 
 <div class="releases">
   <a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.2/gdav-v1.2.pdf">
