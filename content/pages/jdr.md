@@ -2,9 +2,12 @@ Title: Jeux de rôle
 Tags: lang:fr, jdr
 ---
 
+![](images/jdr/tabletop-rpg-dices.jpg)
+
 > Quelques jeux, traductions et aides de jeu que j'ai écrit
 
-Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables [en cliquant ici](tag/jdr.html).
+Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables [en cliquant sur le tag "jdr"](tag/jdr.html).
+De même, toutes mes créations, dont majoritairement des jeux de rôle, sont accessibles [via le tag "personnal-project"](tag/jdr.html).
 
 Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
 
@@ -219,5 +222,7 @@ Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
 ---
 
 <style>
+.uk-article-content > blockquote { margin-top: 10rem; }
+article .uk-grid { margin-top: 10rem; }
 h2 { text-align: center; }
 </style>
