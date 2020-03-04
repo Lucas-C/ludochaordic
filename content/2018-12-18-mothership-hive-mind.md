@@ -73,3 +73,6 @@ You'll find below a list of most of them, categorized.
 - [Legendary 2-person fighter-class ships](https://chartopia.d12dev.com/en/chart/4459/)
 - [Ships in docking orbit around this station at the edge of charted space](https://chartopia.d12dev.com/en/chart/4437/)
 - [Vendor NPCs](https://chartopia.d12dev.com/en/chart/4461/)
+
+**EDIT [2020/03/04]** : a PDF zine has been published on DriveThruRPG that compile those tables :
+<https://www.drivethrurpg.com/product/288946/Mothership-Hive-Mind-Issue-01>

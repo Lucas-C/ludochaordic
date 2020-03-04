@@ -8,7 +8,7 @@ Ce billet est l'occasion pour moi de vous présenter un jeu que j'ai créé il y
 
 [![Couverture du jeu : un motard zombie](https://lucas-c.github.io/jdr/LesNonMorts/cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg)](https://lucas-c.github.io/jdr/LesNonMorts/cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg)
 
-> _Les Non-morts_ est un court jeu compétitif faisant la part belle à l'imagination, à mi-chemin entre jeu de société
+> _Les Non-morts_ est un court jeu compétitif à mi-chemin entre jeu de société
 > et jeu de rôle sans meneur, dans une ambiance de film de mort-vivants de [série Z](https://fr.wikipedia.org/wiki/S%C3%A9rie_Z) :
 > un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.
 

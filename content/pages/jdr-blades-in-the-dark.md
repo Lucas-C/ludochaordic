@@ -465,6 +465,7 @@ TO PRINT: https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v
 + https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0
 + http://www.ad1066.com/download/Sheets/blades/misc/Districts.pdf
 + idées de Devil's Bargain / obstacles
++ illustrations d'Elliot
 
 Envoyer cette AdJ à Thomas :https://redboxvancouver.files.wordpress.com/2018/02/alt_iruvian_playbooks_20171121.pdf
 
