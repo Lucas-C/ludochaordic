@@ -34,6 +34,8 @@ pour se repérer durant la partie ?
 
 Je serais sincèrement ravis de vos retours, que vous l'ayez lu ou carrément testé autour d'une table !
 
+<hr>
+
 ## Cheat Your Own Adventure
 
 Durant l'autre partie de soirée nous avons testé [ce petit jeu an anglais](http://cheatyourownadventure.co.uk/)
@@ -119,3 +121,7 @@ et seulement 2d6 dans les 4 dernières.
 Si jamais vous testez cette variante, dites-moi ce que vous en avez pensé en commentaire ! 😉
 
 **EDIT [2019/03/12]:** La traduction du jeu, incluant cette variante, est désormais disponible dans la section [JdR](pages/jeux-de-role.html) de ce blog.
+
+<style>
+article hr { margin: 5rem; }
+</style>

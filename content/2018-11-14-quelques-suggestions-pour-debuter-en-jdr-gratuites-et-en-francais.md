@@ -10,7 +10,8 @@ Après lui avoir conseillé quelques noms, je me fais la réflexion que ça pour
 Voici donc une petite liste de recommandations de jeux de rôle, gratuits et en français,
 qui me paraissent assez adaptés pour organiser une petite partie avec de jeunes joueurs débutants.
 
-PS: J'ai souscris à [la recommandation de Maitresinh](https://www.500nuancesdegeek.fr/initier-au-jdr/) et ai tâché de ne pas employé le terme "initier" :)
+Et comme [le recommande MaitreSinh](https://www.500nuancesdegeek.fr/initier-au-jdr/),
+pas la peine d'employer le terme "initier" lorsqu'il s'agit de faire découvrir ce loisir 😉
 
 ## P'tites Sorcières
 
@@ -129,7 +130,9 @@ de Clément De Ruyter a l'air très prometeur également ! Et cette version Mini
 qui pourrait également être amusant de jouer avec des enfants : [Untold Horizons de Gordie Murphy](https://gmurphy.itch.io/untold-horizons).
 
 **EDIT [2020/01/15]** : on vient de me recommander [Tails of Equestria](https://www.black-book-editions.fr/catalogue.php?id=553)
-pour jouer avec de jeunes enfants
+inspiré de la série animée _My Little Pony - Friendship is Magic_, pour jouer avec de jeunes enfants.
+
+**EDIT [2020/03/06]** : vous trouverez d'autres suggestions sur la page de [mes jeux de rôle préférés](pages/jdr-favoris.html).
 
 <style>
 article img { max-height: 20rem; }

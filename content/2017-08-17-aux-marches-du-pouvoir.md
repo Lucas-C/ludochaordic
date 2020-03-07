@@ -11,11 +11,11 @@ Malgré cette critique partagée, j'ai été conquis par le concept. J'ai comman
 
 Et personnellement, j'ai pris mon pied !
 
-Déjà à la lecture des quelques paragraphes succints détaillant la cité et les différentes idôles,
+Déjà à la lecture des quelques paragraphes succins détaillant la cité et les différentes idôles,
 leur description m'a évoqué de nombreuses images et donné plein d'idées de scénarios.
 Un grand bravo à Manuel Bedouet pour avoir su créer une ambiance si évocatrice en si peu de mots !
 
-Durant la partie, les mécaniques se sont révélées bien huilées, légères mais suffisament directrices pour donner à l'histoire un début et une fin.
+Durant la partie, les mécaniques se sont révélées bien huilées, légères mais suffisamment directrices pour donner à l'histoire un début et une fin.
 J'ai beaucoup aimé manipuler les dominos. Je trouve qu'on se rapproche beaucoup de l'[image](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster)
 des joueurs d'échecs symbolisant les luttes d'influence et les manipulations dans l'ombre.
 
@@ -27,7 +27,7 @@ par rapport à l'aspect "écriture collective d'une histoire intéressante".
 ## Le bouleversement
 
 > Erickson, le marchand marié à la fille aînée du roi barbare, orateur populaire et dénonciateur de la corruption de la classe politique,
-> a été retrouvé mort dans la Volière. On murmure que le Scénat l'aurait fait assassiner...
+> a été retrouvé mort dans la Volière. On murmure que le Sénat l'aurait fait assassiner...
 
 ## Les Ambitieux
 
@@ -52,7 +52,7 @@ J'avoue qu'il m'a paru difficile au premier abord de joueur un personnage vertue
 
 ### Elisabeth De Nacros
 
-Une aristocrate infuente et très imbue d'elle même, qui s'est révêlée très retorse :)
+Une aristocrate influente et très imbue d'elle même, qui s'est révélée très retorse :)
 
 <figure role="group">
     <img alt="Artwork représentant Lady Jessica Atreides" src="images/2017/08/LadyJessicaAtreides.jpg">
@@ -70,7 +70,7 @@ Une aristocrate infuente et très imbue d'elle même, qui s'est révêlée très
 ### Hugo Warthen
 
 L'Ambitieux le plus réglo de la partie, il s'est attelé à trouver le vrai coupable,
-et calmer les tentions entre le peuple barbare et les autres habitants de Naëscence.
+et calmer les tensions entre le peuple barbare et les autres habitants de Naëscence.
 
 <figure role="group">
     <img alt="Artwork représentant Unferth dans Beowulf" src="images/2017/08/BeowulfUnferth.jpg">
@@ -87,8 +87,8 @@ et calmer les tentions entre le peuple barbare et les autres habitants de Naësc
 
 ### Erwann
 
-L'Ambitieux que j'ai trouvé le plus croustillant: membre de la milice impériale infiltré chez les Scéptiques,
-véritable meutrier du marchand Erickson au cours d'une bavure !
+L'Ambitieux que j'ai trouvé le plus croustillant: membre de la milice impériale infiltré chez les Sceptiques,
+véritable meurtrier du marchand Erickson au cours d'une bavure !
 
 <img alt="Leonardo DiCaprio dans le film Les infiltrés de Scorsese" src="images/2017/08/TheDeparted.jpg" title="Oui, Infernal Affairs était mieux">
 

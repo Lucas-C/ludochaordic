@@ -1,10 +1,11 @@
-Title: Jeux de rôle
+Title: Créations de jeux de rôle
 Tags: lang:fr, jdr
+Slug: jeux-de-role
 ---
 
-![](images/jdr/tabletop-rpg-dices.jpg)
-
 > Quelques jeux, traductions et aides de jeu que j'ai écrit
+
+![Photo de plusieurs dés noirs polyhédriques](images/jdr/tabletop-rpg-dices.jpg)
 
 Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables [en cliquant sur le tag "jdr"](tag/jdr.html).
 De même, toutes mes créations, dont majoritairement des jeux de rôle, sont accessibles [via le tag "personnal-project"](tag/jdr.html).
@@ -24,6 +25,7 @@ Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
       <ul>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/LesNonMorts-v1.0/LesNonMorts-v1.0.pdf">Les Non-morts (PDF, 1,3 Mo)</a></li>
         <li><a href="les-non-morts.html">Article de présentation</a></li>
+        <li><a href="https://lucas-c.itch.io/les-non-morts">Les Non-Morts sur itch.io</a></li>
       </ul>
       <blockquote>
         Les Non-morts est un court jeu compétitif faisant la part belle à l'imagination,
@@ -156,6 +158,7 @@ Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
         <li><a href="avgd-nouvelle-mouture.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/gdav/">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.2/gdav-v1.2.pdf">Version PDF</a></li>
+        <li><a href="https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites">Amères Victoires et Glorieuses Défaites sur itch.io</a></li>
       </ul>
       <blockquote>Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
       Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
@@ -222,7 +225,8 @@ Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
 ---
 
 <style>
-.uk-article-content > blockquote { margin-top: 10rem; }
+.uk-article-content > p > img { margin-bottom: 10rem; }
+.uk-article-content > blockquote, .uk-article-content > p { font-size: 1.3rem; line-height: 2rem; }
 article .uk-grid { margin-top: 10rem; }
 h2 { text-align: center; }
 </style>

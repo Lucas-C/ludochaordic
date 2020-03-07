@@ -45,6 +45,7 @@ def clean(c):
 @task
 def build(c, only_src_paths=None):  # CLI usage: invoke build --only-src-paths content/01.md,content/02.md
     """Build local version of site"""
+    print('build task: ' + (only_src_paths or ''))
     cmd = '-s {settings_base} -o {deploy_path}'.format(**CONFIG)
     if only_src_paths:
         only_out_paths = [src2out(path) for path in only_src_paths.split(',')]

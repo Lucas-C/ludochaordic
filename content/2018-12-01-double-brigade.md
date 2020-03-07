@@ -112,6 +112,7 @@ A expérimenter 😉
 
 Au final, nous avons conclu la partie après un peu plus de 2h de jeu, et 3 clients servis !
 
+<hr>
 
 ## Havoc Brigade
 
@@ -166,3 +167,7 @@ pour une petite partie de baston décomplexée.
 Comme indiqué dans les règles, il est idéal pour joueur en convention, ou avec des débutants.
 
 ![Illustration d'un personnage du jeu, le "Sergeant" Shivvit Deadeye](images/2018/12/HavocBrigade_SergeantShivvitDeadeye.png)
+
+<style>
+article hr { margin: 5rem; }
+</style>
