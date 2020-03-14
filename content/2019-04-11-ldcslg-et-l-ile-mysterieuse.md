@@ -100,8 +100,8 @@ Chapeau bas à Damien son auteur, et bonne chance si vous vous aventurez vous au
 
 <figure>
   <img alt="Spirou découvre un temple dans la jungle" src="images/2019/04/SpirouEtFantasio_LaValleeDesBannis_Temple.png">
-  <figcaption>Illustrations tirées de Spirou & Fantasio - La Vallée Des Bannis</figcaption>
   <img alt="Tombes de Siegfried & Maginot" src="images/2019/04/SpirouEtFantasio_LaValleeDesBannis_Tombes.png">
+  <figcaption>Illustrations tirées de Spirou & Fantasio - La Vallée Des Bannis</figcaption>
 </figure>
 
 <style>

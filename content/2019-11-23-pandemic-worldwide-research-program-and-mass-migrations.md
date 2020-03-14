@@ -129,7 +129,7 @@ Thank you!
 <div class="imgs">
   <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20DE%20druckfreundlich.jpg">
     <figure>
-      <img alt="Vorschau" src="images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg">
+      <img alt="Vorschau" src="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20DE%20druckfreundlich.jpg">
       <figcaption><em>Mass Migrations DE</em> (druckfreundlich JPG image 0,8 MB)</figcaption>
     </figure>
   </a>

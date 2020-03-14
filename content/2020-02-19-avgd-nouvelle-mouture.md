@@ -67,13 +67,12 @@ la phase de flashbacks initiale, où les joueurs obtiennent leurs Atouts,
 J'ai retravaillé cette phase pour rendre ces scènes plus fluides et rapides,
 et raccourcir cette étape du jeu.
 
-<a href="images/2020/02/avgd-photo-table.jpg">
-  <figure>
-    <img alt="Photo des éléments principaux du jeu"
-         src="images/2020/02/avgd-photo-table.jpg">
-    <figcaption>Les principaux éléments de jeu - merci à Arnaud pour la photo</figcaption>
-  </figure>
-</a>
+<figure>
+  <a href="images/2020/02/avgd-photo-table.jpg">
+    <img alt="Photo des éléments principaux du jeu" src="images/2020/02/avgd-photo-table.jpg">
+  </a>
+  <figcaption>Les principaux éléments de jeu - merci à Arnaud pour la photo</figcaption>
+</figure>
 
 Voici quelques décisions de conception que j'ai prises en définitive après ce _playtest_ :
 
