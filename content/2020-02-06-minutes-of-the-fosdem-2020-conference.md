@@ -222,7 +222,7 @@ and at the time, the "userland" was limited to ~25 commands (I only recognized `
 with `init`, `ln`, `ls`, `mv` & `sh` newly written!
 
 A LCM+L PDP-7 booting and running UNIX Version 0... with a typewriter serving as output!!!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pvaPaWyiuLA?start=110" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pvaPaWyiuLA?start=110" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As a side note,  pdp-7 emulator won became IOCCC 2018 winner!
 

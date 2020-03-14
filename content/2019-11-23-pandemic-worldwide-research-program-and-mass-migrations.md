@@ -22,13 +22,13 @@ afin de les partager avec vous :
 > pour résoudre la crise ?
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic Scenario Worldwide Research Program FR v1.0.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20FR%20v1.0.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
       <figcaption><em>Programme de Recherche Mondial</em> (PDF 1 page 6,8 Mo)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic Scenario Worldwide Research Program FR v1.0 printerfriendly.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20FR%20v1.0%20printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_WorldwideResearchProgram.jpg">
       <figcaption>(printer-friendly PDF 1 page 5,9 Mo)</figcaption>
@@ -44,13 +44,13 @@ afin de les partager avec vous :
 > que la population croit épargnées.
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic Scenario Mass Migrations FR v1.0.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20FR%20v1.0.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
       <figcaption><em>Migrations de Masse</em> (PDF 1 page 1,4 Mo)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic Scenario Mass Migrations FR v1.0 printerfriendly.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20FR%20v1.0%20printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_MassMigrations.jpg">
       <figcaption>(printer-friendly PDF 1 page 0,9 Mo)</figcaption>
@@ -77,13 +77,13 @@ that I recently created:
 > those scientists work in order to solve the crisis ?
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic Scenario Worldwide Research Program EN v1.0.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20EN%20v1.0.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
       <figcaption><em>Worldwide Research Program</em> (PDF 1 page 6,8 MB)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic Scenario Worldwide Research Program EN v1.0 printerfriendly.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20EN%20v1.0%20printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_WorldwideResearchProgram.jpg">
       <figcaption>(printer-friendly PDF 1 page 5,9 MB)</figcaption>
@@ -98,13 +98,13 @@ that I recently created:
 > to cities that the population believes spared…
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic Scenario Mass Migrations EN v1.0.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.0.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
       <figcaption><em>Mass Migrations</em> (PDF 1 page 1,4 MB)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic Scenario Mass Migrations EN v1.0 printerfriendly.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.0%20printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_MassMigrations.jpg">
       <figcaption>(printer-friendly PDF 1 page 0,9 MB)</figcaption>
@@ -127,13 +127,13 @@ If so, please leave a comment below.
 Thank you!
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20DE%20druckfreundlich.jpg">
     <figure>
       <img alt="Vorschau" src="images/jeux/Pandemic Scenario Mass Migrations DE druckfreundlich.jpg">
       <figcaption><em>Mass Migrations DE</em> (druckfreundlich JPG image 0,8 MB)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic Scenario Worldwide Research Program DE.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20DE.pdf">
     <figure>
       <img alt="Vorschau" src="images/2019/11/thumbnail_WorldwideResearchProgram_DE.jpg">
       <figcaption><em>Worldwide Research Program DE</em> (PDF 1 page 1,6 MB)</figcaption>
