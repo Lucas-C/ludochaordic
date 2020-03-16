@@ -97,7 +97,7 @@ Voici les prochaines points que je prévoie d'améliorer :
 
 D'ici là, si vous êtes curieux de voir à quoi ressemble le jeu, jetez un œil aux liens ci-dessous !
 
-<div class="releases">
+<div class="side-by-side">
   <a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.2/gdav-v1.2.pdf">
     <figure>
       <img alt="" src="images/2020/02/avgd-pdf.png">
@@ -125,11 +125,11 @@ Si vous le lisez / testez, je serais sincèrement ravi d'avoir vos avis sur le j
 <style>
 .small-img { max-height: 16rem; }
 article img { max-height: 40rem; }
-.releases {
+.side-by-side {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-flow: wrap;
 }
-.releases > * { flex: 1 0; }
+.side-by-side > * { flex: 1 0; }
 </style>

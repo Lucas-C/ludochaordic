@@ -40,11 +40,11 @@ Deux cartes récapitulatives des règles et plusieurs pictogrammes représentant
 
 Si vous êtes curieux de voir à quoi ressemble le jeu, jetez un œil aux liens ci-dessous !
 
-<div class="releases">
+<div class="side-by-side">
   <a href="https://github.com/Lucas-C/jdr/releases/download/LesNonMorts-v1.0/LesNonMorts-v1.0.pdf">
     <figure>
       <img alt="" src="images/2020/03/LesNonMorts-pdf.jpg">
-      <figcaption><em>Amères Victoires & Glorieuses Défaites</em><br>(PDF 12 pages 1,3 Mo)</figcaption>
+      <figcaption><em>Les Non-morts</em><br>(PDF 12 pages 1,3 Mo)</figcaption>
     </figure>
   </a>
   <a href="https://lucas-c.github.io/jdr/LesNonMorts/">
@@ -76,11 +76,11 @@ h1 {
   font-size: 8rem !important;
   text-align: center;
 }
-.releases {
+.side-by-side {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-flow: wrap;
 }
-.releases > * { flex: 1 0; }
+.side-by-side > * { flex: 1 0; }
 </style>

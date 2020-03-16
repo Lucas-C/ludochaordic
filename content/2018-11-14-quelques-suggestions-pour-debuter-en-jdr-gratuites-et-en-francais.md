@@ -1,6 +1,6 @@
 Title: Quelques suggestions pour débuter en jeu de rôle, gratuites et en français
 Date: 2018-11-14 23:45
-Tags: lang:fr, jdr, gratuit, francais, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jeux
+Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jeux
 Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 ---
 
@@ -132,7 +132,8 @@ qui pourrait également être amusant de jouer avec des enfants : [Untold Horizo
 **EDIT [2020/01/15]** : on vient de me recommander [Tails of Equestria](https://www.black-book-editions.fr/catalogue.php?id=553)
 inspiré de la série animée _My Little Pony - Friendship is Magic_, pour jouer avec de jeunes enfants.
 
-**EDIT [2020/03/06]** : vous trouverez d'autres suggestions sur la page de [mes jeux de rôle préférés](pages/jdr-favoris.html).
+**EDIT [2020/03/16]** : vous trouverez d'autres suggestions sur la page de [mes jeux de rôle préférés](pages/jdr-favoris.html),
+et je viens de rédiger un article sur [comment faire découvrir le JdR](faire-decouvrir-le-jdr-et-fete-du-jeu.html).
 
 <style>
 article img { max-height: 20rem; }

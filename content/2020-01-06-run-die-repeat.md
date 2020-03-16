@@ -119,6 +119,9 @@ comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
 Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d’enchaînements de coup
 pour en finir avec ses adversaires en mode _Matrix_ !
 
+**EDIT [2020/03/14]** : la Rolisterie a enregistré quelques parties de _Run. Die. Repeat._ sous forme de podcast !
+[Cliquez ici](https://anchor.fm/rolisterie/episodes/S06E01%E2%80%94Les-argouliens-attaquent%E2%80%94Run%E2%80%93Die%E2%80%93Repeat-earf0c) pour y accéder.
+
 <style>
 article iframe {
   display: block;

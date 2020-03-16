@@ -12,7 +12,7 @@ De même, toutes mes créations, dont majoritairement des jeux de rôle, sont ac
 
 Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
 
-Enfin, je détaille sur cette autre page : [mes jeux-de-rôle favoris](pages/jdr-favoris.html).
+Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr-favoris.html).
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">

@@ -6,6 +6,10 @@ Status: hidden
 
 ![Illustration officielle de Blades in the Dark](images/bitd/BitD_cover.jpg)
 
+[Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) est un jeu de rôle médiéval-fantastique créé par John Harper
+et mettant en scène un gang de criminels en quête de fortune dans les rues hantées de Doskvol, une ville d'un univers fictif de Dark fantasy.
+
+
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
 
