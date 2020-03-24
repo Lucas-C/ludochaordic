@@ -8,7 +8,8 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 ## 24 mars - Rébus Concept n°1
 
-Si vous ne connaissez pas ce jeu, les règles sont disponibles [ici (PDF 10,3Mo)](http://spelarch.vives.be/PDFspelregels/16056.pdf).
+Si vous ne connaissez pas le jeu [Concept](https://concept-the-game.com),
+les règles sont disponibles [ici (PDF 10,3Mo)](http://spelarch.vives.be/PDFspelregels/16056.pdf) pour déchiffrer cette énigme.
 
 Qui suis-je ?
 
