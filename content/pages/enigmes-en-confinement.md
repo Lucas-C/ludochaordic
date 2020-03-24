@@ -17,7 +17,7 @@ Qui suis-je ?
 
 ### Teste ta réponse :
 
-<form onSubmit="return submitAnswer(this)" data-answer-pattern="Ym9iLitwb25nZQ==">
+<form onSubmit="return submitConceptAnswer(this)" data-check="Ym9iLitwb25nZQ==">
   <input type="text"></input>
   <input type="submit" value="?"></input>
   <div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>
@@ -26,13 +26,11 @@ Qui suis-je ?
 
 
 <script>
-function submitAnswer(form) {
-  const answerPattern = atob(form.dataset.answerPattern);
-  const answerRegex = new RegExp(answerPattern, 'i');
+function submitConceptAnswer(form) {
   const textInput = form.querySelector('input[type="text"]');
   const correctAnswerDiv = form.querySelector('.answer-correct');
   const wrongAnswerDiv = form.querySelector('.answer-wrong');
-  if (answerRegex.test(textInput.value)) {
+  if ((new RegExp(atob(form.dataset.check), 'i')).test(textInput.value)) {
     wrongAnswerDiv.style.display = 'none';
     correctAnswerDiv.style.display = 'block';
   } else {
@@ -44,22 +42,27 @@ function submitAnswer(form) {
 </script>
 
 <style>
-article input[type="text"] {
-  font-size: 3rem;
-  width: 30rem;
-}
+article h2 { margin-top: 5rem; }
 article input[type="submit"] {
-  font-size: 3rem;
-  height: 5rem;
-  width: 5rem;
   border-radius: 1rem;
   border: 0;
   background-color: #39b39d;
   color: white;
   cursor: pointer;
 }
-.answer-correct, .answer-wrong {
-  font-size: 3rem;
-  padding: 2rem;
+@media screen and (min-width: 40rem) {
+  article input[type="text"] {
+    font-size: 3rem;
+    width: 30rem;
+  }
+  article input[type="submit"] {
+    font-size: 3rem;
+    height: 5rem;
+    width: 5rem;
+  }
+  .answer-correct, .answer-wrong {
+    font-size: 3rem;
+    padding: 2rem;
+  }
 }
 </style>
