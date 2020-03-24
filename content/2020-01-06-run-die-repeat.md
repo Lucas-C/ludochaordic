@@ -81,46 +81,12 @@ En termes de règles sur les jets de dés, durant nos parties le « 6 ou rien »
 J'ai donc occasionnellement considéré qu'une action bien pensée était une réussite automatique,
 ou demandé un jet **4+** / **5+**.
 
-Je conclue avec quelques idées en vrac, que je compte exploiter pour mes prochaines partie de _Run. Die. Repeat._ :
-
-* adversaire redoutable (gigantesque ?) à affronter. Au fil des itérations, il faut deviner :
-    + quels sont ses points faibles ?
-    + comment l'environnement peut être favorable ?
-* infiltration dans un lieu bourré d'ennemis :
-    + par où passer pour éviter de déclencher les systèmes d'alarme ?
-    + anticiper les déplacements des gardes permet de les éviter
-* PNJ bloquant le passage, et testant le PJ par des questions pour savoir s'il est autorisé à continuer,
-ou s'il doit être neutralisé
-* énigme ne permettant qu'un seul essai, mais solvable en itérant toutes les possibilités :
-3 leviers positionnables, ou code à rentrer + indice quelque part que le même chiffre se répète 4x
-* scénario où le cadavre du PJ est toujours présent dans les itérations suivantes !
-* scénario à ressources limitées (exemple : 1 balle restante + 1 grenade éblouissante + 1 gadget ouvreur de porte)
-avec lesquelles les premiers obstacles peuvent être facilement franchis,
-mais sans lesquelles une seconde série de dangers est extrêmement difficile à traverser
-* scénario « en Y » :
-    + un 1er « chemin » mène à un obstacle
-    + un 2e permet d'accéder à la solution, ailleurs géographiquement
-* scénario où après plusieurs itérations les joueurs trouvent un « raccourci » pour éviter les N premières actions
-* établir en amont un rapide liste de 4-5 monstres, et prévenir les joueurs qu'ils ont tous un point faible à découvrir
-* ambiances / univers intéressants :
-    + tranchées pendant la grande guerre (« il faut sauver le soldat X », ogive explose à proximité,
-      espace à découvert à franchir, gaz moutarde avec masque à récupérer dans une pièce de la tranchée, mines ...)
-    + ring de catch : toute la partie est centrée sur le combat spectaculaire avec un adversaire retord
-    + donjon à la D&D, bourré de pièges et de monstres (marteau-balancier géant, escalier-glissière,
-    dards empoisonnés, flammes, tunnels labyrinthiques, gobelins, squelettes, basilic...)
-    + mission d'infiltration dans une base militaire, à la _Metal Gear Solid_ (photo d'une arme secrète à prendre,
-    plein de gadgets dans les poches - à les libertés des joueurs, des grappins, des armes à feu avec silencieux,
-    des gardes partout, un boss ninja super balèze...)
-    + s'inspirer d'un des [nombreux films avec une boucle temporelle](https://en.wikipedia.org/wiki/List_of_films_featuring_time_loops), comme _Edge of Tomorrow_
-
-Enfin, j'introduirai peut-être une **règle spéciale _Next_** : au prix de **2min de moins** sur le compte à rebours,
-le personnage peut **explorer toutes les alternatives temporelles** d'un problème à un moment donné de la partie,
-comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
-Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d’enchaînements de coup
-pour en finir avec ses adversaires en mode _Matrix_ !
-
 **EDIT [2020/03/14]** : la Rolisterie a enregistré quelques parties de _Run. Die. Repeat._ sous forme de podcast !
 [Cliquez ici](https://anchor.fm/rolisterie/episodes/S06E01%E2%80%94Les-argouliens-attaquent%E2%80%94Run%E2%80%93Die%E2%80%93Repeat-earf0c) pour y accéder.
+
+**EDIT [2020/03/24]** : je travaille en ce moment à créer de courts scénarios pour le jeu...
+Je vous en reparle bientôt !
+
 
 <style>
 article iframe {

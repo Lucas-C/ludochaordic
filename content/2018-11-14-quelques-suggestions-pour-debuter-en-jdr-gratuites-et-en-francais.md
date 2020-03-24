@@ -135,6 +135,8 @@ inspiré de la série animée _My Little Pony - Friendship is Magic_, pour jouer
 **EDIT [2020/03/16]** : vous trouverez d'autres suggestions sur la page de [mes jeux de rôle préférés](pages/jdr-favoris.html),
 et je viens de rédiger un article sur [comment faire découvrir le JdR](faire-decouvrir-le-jdr-et-fete-du-jeu.html).
 
+**EDIT [2020/03/20]** : [une spéciale redif’ de la plupart du matériel gratuit à destination des enfants](https://lefix.di6dent.fr/archives/10704), Le Fix - Di6dent
+
 <style>
 article img { max-height: 20rem; }
 .imgs {

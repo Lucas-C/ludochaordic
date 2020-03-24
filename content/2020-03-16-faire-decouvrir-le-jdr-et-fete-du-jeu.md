@@ -65,6 +65,7 @@ Un grand merci à Kalwrynn et à son essai, que je recommande vivement.
 Au passage, ce vaste sujet de « la partie de découverte de jeu de rôle »
 a déjà été évoqué par beaucoup de monde.
 Dans mes recherches, je suis en particulier tombé sur deux articles dont je recommande la lecture :
+[JdR pour débutants - le manifeste](https://ptgptb.fr/jdr-pour-debutants-le-manifeste) de Paul Beakley (1999), traduit sur ptgptb.fr,
 [Mener une partie en convention](http://blog.xyrop.com/post/2018/01/22/%5BTactique-de-ma%C3%AEtrise%5D-Mener-une-partie-de-2-heures-maximum-en-convention-ou-salon) de Ludovic Schurr
 et [Pourquoi il faut arrêter « d’initier » au jeu de rôle](https://www.500nuancesdegeek.fr/initier-au-jdr/) de MaitreSinh.
 
