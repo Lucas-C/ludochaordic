@@ -215,10 +215,20 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
     <h2 class="uk-text-bold uk-text-primary">rpg-bonhomme</h2>
     <img class="uk-align-center" src="images/jdr/rpg-bonhomme.jpg" alt="Un masque de Guy Fawkes">
     <div class="uk-thumbnail-caption">
-      <q>éditeur/visualisateur de feuille de perso en ligne, gratuit et open-source</q>
+      <q>Éditeur/visualisateur de feuille de perso en ligne, gratuit et open-source</q>
       <ul>
         <li><a href="https://chezsoi.org/lucas/jdr/rpg-bonhomme">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/rpg-bonhomme">Code sur GitHub</a></li>
+      </ul>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">rpg-dice</h2>
+    <img class="uk-align-center" src="https://chezsoi.org/lucas/jdr/dice.png" alt="Une paire de dés">
+    <div class="uk-thumbnail-caption">
+      <q>Effectuez des lancers de dés sur une page web commune</q>
+      <ul>
+        <li><a href="https://chezsoi.org/lucas/jdr/rpg-dice">Site web</a></li>
       </ul>
     </div>
   </section>
