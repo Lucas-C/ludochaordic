@@ -74,10 +74,15 @@ const scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement')
 function updateScoreBoardTable() {
   const tbody = document.getElementsByTagName('tbody')[0];
   while (tbody.firstChild) { tbody.removeChild(tbody.firstChild); }
-  scoreBoardCollec.get().then(query => query.forEach(doc => {
-      const totalScore = Object.values(doc.data().scores).reduce((a, b) => a + b);
-      tbody.appendChild(htmlTableRow([doc.id, totalScore]));
-  }));
+  scoreBoardCollec.get().then(query => {
+    const highScores = [];
+    query.forEach(doc => highScores.push({
+      playerName: doc.id,
+      totalScore: Object.values(doc.data().scores).reduce((a, b) => a + b),
+    }));
+    highScores.sort((a, b) => b.totalScore - a.totalScore);
+    highScores.forEach(highScore => tbody.appendChild(htmlTableRow([highScore.playerName, highScore.totalScore])))
+  });
 }
 function htmlFromStr (string) {
   const div = document.createElement('div');
@@ -95,6 +100,10 @@ function htmlTableRow(values) {
     tr.appendChild(td);
   })
   return tr;
+}
+String.prototype.rsplit = function(sep, maxsplit) {
+  const split = this.split(sep);
+  return maxsplit ? [ split.slice(0, -maxsplit).join(sep) ].concat(split.slice(-maxsplit)) : split;
 }
 // Initialization:
 document.querySelectorAll('article form').forEach(form => {
@@ -114,7 +123,7 @@ document.querySelectorAll('article form').forEach(form => {
 document.querySelectorAll('.enigmage').forEach(img => {
   img.onclick = function () {
     const challengeId = this.parentElement.nextElementSibling.nextElementSibling.id;
-    const [base, ext] = this.src.split('.');
+    const [base, ext] = this.src.rsplit('.', 1);
     const [prefix, index] = base.split('-');
     this.src = `${prefix}-${+index + 1}.${ext}`;
     window.malusPerChallenge[challengeId] += 20;
@@ -151,7 +160,7 @@ function submitConceptAnswer() {
   return false;
 }
 function submitPlayerScore(form) {
-  const playerName = form.querySelector('input[type="text"]').value;
+  const playerName = form.querySelector('input[type="text"]').value.trim();
   const scoreAlreadySetDiv = form.querySelector('.score-already-set');
   const scoreSubmitedDiv = form.querySelector('.score-submitted');
   scoreAlreadySetDiv.style.display = 'none';
