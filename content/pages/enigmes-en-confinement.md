@@ -184,8 +184,10 @@ function submitPlayerScore(form) {
   return false;
 }
 function playerScore() {
+  const submittedAnswer = window.submittedAnswer;
   const challengeId = window.submittedAnswer.challengeId;
-  return Math.max(window.submittedAnswer.minScore, window.submittedAnswer.score - window.malusPerChallenge[challengeId]);
+  const malus = window.malusPerChallenge[challengeId] || 0;
+  return Math.max(submittedAnswer.minScore, submittedAnswer.score - malus);
 }
 const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 function slugify(s) {
