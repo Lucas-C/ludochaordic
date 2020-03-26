@@ -18,12 +18,7 @@ Qui suis-je ?
 
 ### Teste ta réponse :
 
-<form onSubmit="return submitConceptAnswer(this)" data-hash="3820ea262dc61608e2ed700ab6d027404d55702a960dc6eed0155a37c7d94a82">
-  <input type="text"></input>
-  <input type="submit" value="?"></input>
-  <div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>
-  <div style="display: none" class="answer-wrong">Râté ! Essaie encore 😁</div>
-</form>
+<form id="challenge-2020-03-24" data-min-score="50" data-hash="3820ea262dc61608e2ed700ab6d027404d55702a960dc6eed0155a37c7d94a82"></form>
 
 
 ## 25 mars - Rébus Concept n°2
@@ -34,29 +29,163 @@ Qui suis-je ?
 
 ### Teste ta réponse :
 
-<form onSubmit="return submitConceptAnswer(this)" data-hash="8aaddb5664c898b76931eaf49db48aed6186ffefbd9138c8cce479140d86c762">
-  <input type="text"></input>
-  <input type="submit" value="?"></input>
-  <div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>
-  <div style="display: none" class="answer-wrong">Râté ! Essaie encore 😁</div>
-</form>
+<form id="challenge-2020-03-25" data-min-score="50" data-hash="8aaddb5664c898b76931eaf49db48aed6186ffefbd9138c8cce479140d86c762"></form>
 
 
+## 26 mars - Énigmage n°1
+
+De quel film suis-je le poster ?
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage01-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-26" data-hash="c01f23da736030c44c1927717ecdc5db1d06a33f5b5d0675d5e6c29cb693712e"></form>
+
+
+<h2 id="scores">Scores</h2>
+
+<table>
+  <thead><tr> <th>Joueur</th> <th>Score</th> </tr></thead>
+  <tbody></tbody>
+</table>
+
+- une réponse trouvée du premier coup donne **100 points**
+- chaque tentative erronée fait perdre **10 points**
+- pour les Rébus Concept, vous gagnez au minimum **50 points** si vous trouvez la réponse
+- pour les Énigmages, chaque nouvelle zone révélée coûte **20 points**
+
+
+<script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
 <script>
-function submitConceptAnswer(form) {
-  const textInput = form.querySelector('input[type="text"]');
+firebase.initializeApp({
+  apiKey: "AIzaSyBUA2secspKjZIA-_G3gCqcgYrlx5G94QE",
+  authDomain: "scoreboard-7a578.firebaseapp.com",
+  databaseURL: "https://scoreboard-7a578.firebaseio.com",
+  projectId: "scoreboard-7a578",
+  storageBucket: "scoreboard-7a578.appspot.com",
+  messagingSenderId: "1085958736716",
+  appId: "1:1085958736716:web:4c0ea416008a37c20edde9"
+});
+const scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement');
+function updateScoreBoardTable() {
+  const tbody = document.getElementsByTagName('tbody')[0];
+  while (tbody.firstChild) { tbody.removeChild(tbody.firstChild); }
+  scoreBoardCollec.get().then(query => query.forEach(doc => {
+      const totalScore = Object.values(doc.data().scores).reduce((a, b) => a + b);
+      tbody.appendChild(htmlTableRow([doc.id, totalScore]));
+  }));
+}
+function htmlFromStr (string) {
+  const div = document.createElement('div');
+  div.innerHTML = string;
+  return div.children[0];
+}
+function insertAfter(existingNode, newNode) {
+  existingNode.parentNode.insertBefore(newNode, existingNode.nextElementSibling);
+}
+function htmlTableRow(values) {
+  const tr = document.createElement('tr');
+  values.forEach(value => {
+    const td = document.createElement('td');
+    td.textContent = value;
+    tr.appendChild(td);
+  })
+  return tr;
+}
+// Initialization:
+document.querySelectorAll('article form').forEach(form => {
+  form.onsubmit = submitConceptAnswer.bind(form);
+  form.appendChild(htmlFromStr(`<input type="text"></input>`));
+  form.appendChild(htmlFromStr(`<input type="submit" value="?"></input>`));
+  form.appendChild(htmlFromStr(`<div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>`));
+  form.appendChild(htmlFromStr(`<div style="display: none" class="answer-wrong">Râté ! Essaie encore 😁</div>`));
+  insertAfter(form, htmlFromStr(`<form class="scoreForm" style="display: none" onSubmit="return submitPlayerScore(this)">
+    <label for="playerName">Entre ton nom si tu souhaite apparaître dans les <a href="pages/enigmes-en-confinement.html#scores">scores</a> :</label>
+    <input type="text" name="playerName"></input>
+    <input type="submit" value="💯"></input>
+    <div style="display: none" class="score-already-set">🚫 Vous avez déjà joué !</div>
+    <div style="display: none" class="score-submitted">Score enregistré : <span class="score"></span> points</div>
+  </form>`));
+});
+document.querySelectorAll('.enigmage').forEach(img => {
+  img.onclick = function () {
+    const challengeId = this.parentElement.nextElementSibling.nextElementSibling.id;
+    const [base, ext] = this.src.split('.');
+    const [prefix, index] = base.split('-');
+    this.src = `${prefix}-${+index + 1}.${ext}`;
+    window.malusPerChallenge[challengeId] += 20;
+  }
+});
+updateScoreBoardTable();
+
+window.malusPerChallenge = {}
+window.submittedAnswer = {};  // Context to communicate between forms
+function submitConceptAnswer() {
+  const form = this;
+  const answer = form.querySelector('input[type="text"]').value;
   const correctAnswerDiv = form.querySelector('.answer-correct');
   const wrongAnswerDiv = form.querySelector('.answer-wrong');
-  digestMessage(slugify(textInput.value)).then(hash => {
+  window.submittedAnswer.minScore = +(form.dataset.minScore || '0');
+  window.submittedAnswer.challengeId = form.id;
+  window.submittedAnswer.score = 0;
+  correctAnswerDiv.style.display = 'none';
+  const scoreForm = form.nextElementSibling;
+  scoreForm.style.display = 'none';
+  wrongAnswerDiv.style.display = 'none';
+  digestMessage(slugify(answer)).then(hash => {
     if (hash === form.dataset.hash) {
-      wrongAnswerDiv.style.display = 'none';
-      correctAnswerDiv.style.display = 'block';
+      window.submittedAnswer.score = 100;
+      setTimeout(() => {
+        correctAnswerDiv.style.display = 'block';
+        scoreForm.style.display = 'block';
+      }, 500);
     } else {
-      correctAnswerDiv.style.display = 'none';
-      wrongAnswerDiv.style.display = 'block';
+      window.malusPerChallenge[form.id] = (window.malusPerChallenge[form.id] || 0) + 10;
+      setTimeout(() => { wrongAnswerDiv.style.display = 'block'; }, 500);
     }
   });
   return false;
+}
+function submitPlayerScore(form) {
+  const playerName = form.querySelector('input[type="text"]').value;
+  const scoreAlreadySetDiv = form.querySelector('.score-already-set');
+  const scoreSubmitedDiv = form.querySelector('.score-submitted');
+  scoreAlreadySetDiv.style.display = 'none';
+  scoreSubmitedDiv.style.display = 'none';
+  const playerDoc = scoreBoardCollec.doc(playerName);
+  const challengeId = window.submittedAnswer.challengeId;
+  playerDoc.get().then(doc => {
+    if (doc.exists) {
+      const scores = doc.data().scores;
+      if (scores.hasOwnProperty(challengeId)) {
+        scoreAlreadySetDiv.style.display = 'block';
+      } else {
+        scores[challengeId] = playerScore();
+        playerDoc.update({scores}).then(() => {
+          form.querySelector('.score').textContent = scores[challengeId];
+          scoreSubmitedDiv.style.display = 'block';
+          updateScoreBoardTable();
+        });
+      }
+    } else {
+      const scores = {};
+      scores[challengeId] = playerScore();
+      playerDoc.set({scores}).then(() => {
+        form.querySelector('.score').textContent = scores[challengeId];
+        scoreSubmitedDiv.style.display = 'block';
+        updateScoreBoardTable();
+      });
+    }
+  });
+  return false;
+}
+function playerScore() {
+  const challengeId = window.submittedAnswer.challengeId;
+  return Math.max(window.submittedAnswer.minScore, window.submittedAnswer.score - window.malusPerChallenge[challengeId]);
 }
 const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 function slugify(s) {
@@ -80,26 +209,59 @@ async function digestMessage(message) {
 
 <style>
 article h2 { margin-top: 5rem; }
+article label {
+  display: block;
+  margin: 1rem 0;
+}
 article input[type="submit"] {
   border-radius: 1rem;
   border: 0;
   background-color: #39b39d;
   color: white;
   cursor: pointer;
+  margin: 0 .5rem;
 }
 @media screen and (min-width: 40rem) {
+  article label { font-size: 1.5rem; }
   article input[type="text"] {
-    font-size: 3rem;
+    font-size: 2.5rem;
     width: 30rem;
   }
   article input[type="submit"] {
-    font-size: 3rem;
+    font-size: 2.5rem;
     height: 5rem;
     width: 5rem;
   }
   .answer-correct, .answer-wrong {
-    font-size: 3rem;
+    font-size: 2.5rem;
     padding: 2rem;
   }
+  .scoreForm { padding-left: 2rem; }
+  .score-already-set, .score-submitted {
+    font-size: 1.25rem;
+    padding: 1rem;
+  }
+}
+article table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-size: 1.2rem;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+}
+article td, article th {
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+}
+article th {
+  border-bottom: 2px solid #ddd;
+  border-top: 0;
+}
+article tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+.enigmage {
+  max-height: 60rem;
+  cursor: pointer;
 }
 </style>
