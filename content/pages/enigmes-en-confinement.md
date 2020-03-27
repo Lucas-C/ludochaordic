@@ -152,7 +152,7 @@ document.querySelectorAll('.enigmage').forEach(img => {
     const [base, ext] = this.src.rsplit('.', 1);
     const [prefix, index] = base.split('-');
     this.src = `${prefix}-${+index + 1}.${ext}`;
-    window.malusPerChallenge[challengeId] += 20;
+    window.malusPerChallenge[challengeId] = (window.malusPerChallenge[challengeId] || 0) + 20;
   }
 });
 updateScoreBoardTable();
