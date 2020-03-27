@@ -6,6 +6,8 @@ Status: hidden
 
 En cette période de cocooning forcé, voici quelques énigmes pour faire travailler vos méninges !
 
+<ul id="toc"></ul>
+
 ## 24 mars - Rébus Concept n°1
 
 Si vous ne connaissez pas le jeu [Concept](https://concept-the-game.com),
@@ -45,11 +47,22 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-26" data-hash="c01f23da736030c44c1927717ecdc5db1d06a33f5b5d0675d5e6c29cb693712e"></form>
 
 
-<h2 id="scores">Scores</h2>
+## 27 mars - Énigmage n°2
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage02-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-27" data-hash="3bbdd5b84c61752f65efc0dd815b6c225cb8f013e9fcc3177b4e8637111b74cb"></form>
+
+
+## Scores
 
 <table>
   <thead><tr> <th>Joueur</th> <th>Score</th> </tr></thead>
-  <tbody></tbody>
+  <tbody id="highscores"></tbody>
 </table>
 
 - une réponse trouvée du premier coup donne **100 points**
@@ -72,7 +85,7 @@ firebase.initializeApp({
 });
 const scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement');
 function updateScoreBoardTable() {
-  const tbody = document.getElementsByTagName('tbody')[0];
+  const tbody = document.getElementById('highscores');
   while (tbody.firstChild) { tbody.removeChild(tbody.firstChild); }
   scoreBoardCollec.get().then(query => {
     const highScores = [];
@@ -106,6 +119,19 @@ String.prototype.rsplit = function(sep, maxsplit) {
   return maxsplit ? [ split.slice(0, -maxsplit).join(sep) ].concat(split.slice(-maxsplit)) : split;
 }
 // Initialization:
+const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
+window.malusPerChallenge = {}
+window.submittedAnswer = {};  // Context to communicate between forms
+const toc = document.getElementById('toc');
+document.querySelectorAll('article h2').forEach(h2 => {
+  h2.id = slugify(h2.textContent);
+  const a = document.createElement('a');
+  a.href = `pages/enigmes-en-confinement.html#${h2.id}`;
+  a.textContent = h2.textContent;
+  const li = document.createElement('li');
+  li.appendChild(a);
+  toc.appendChild(li);
+});
 document.querySelectorAll('article form').forEach(form => {
   form.onsubmit = submitConceptAnswer.bind(form);
   form.appendChild(htmlFromStr(`<input type="text"></input>`));
@@ -131,8 +157,6 @@ document.querySelectorAll('.enigmage').forEach(img => {
 });
 updateScoreBoardTable();
 
-window.malusPerChallenge = {}
-window.submittedAnswer = {};  // Context to communicate between forms
 function submitConceptAnswer() {
   const form = this;
   const answer = form.querySelector('input[type="text"]').value;
@@ -198,13 +222,13 @@ function playerScore() {
   const malus = window.malusPerChallenge[challengeId] || 0;
   return Math.max(submittedAnswer.minScore, submittedAnswer.score - malus);
 }
-const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 function slugify(s) {
   s = String(s).trim().toLowerCase()
   s = s.normalize('NFD') 				 // separate accent from letter
   s = s.replace(/[\u0300-\u036f]/g, '')  // remove all separated accents
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')
+  s = s.replace(/^la-/g, '').replace(/^le-/g, '').replace(/-st-/g, '-saint-')
   return encodeURIComponent(s);
 }
 // FROM: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/digest#Converting_a_digest_to_a_hex_string
