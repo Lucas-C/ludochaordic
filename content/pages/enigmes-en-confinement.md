@@ -12,6 +12,10 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 Si vous ne connaissez pas le jeu [Concept](https://concept-the-game.com),
 les règles sont disponibles [ici (PDF 10,3Mo)](http://spelarch.vives.be/PDFspelregels/16056.pdf) pour déchiffrer cette énigme.
+<!-- PDFs "officiels" en 2 parties :
+  * https://concept-the-game.com/concept/files/rules/CONCEPT-RULES-FR.pdf
+  * https://concept-the-game.com/concept/files/rules/CONCEPT-HELPSHEET-FR.pdf
+-->
 
 Qui suis-je ?
 
@@ -56,6 +60,17 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 ### Teste ta réponse :
 
 <form id="challenge-2020-03-27" data-hash="3bbdd5b84c61752f65efc0dd815b6c225cb8f013e9fcc3177b4e8637111b74cb"></form>
+
+
+## 28 mars - Rébus Concept n°3
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+![](images/enigmes/enigme-concept-05.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-28" data-hash="cdefd09a164e7b3e1c127ae3e8c22c02ef1be14a99725ed7040e77c1441d4d92"></form>
 
 
 ## Scores
@@ -300,3 +315,9 @@ article tbody > tr:nth-of-type(odd) {
   cursor: pointer;
 }
 </style>
+<!-- Idées:
+Codenames
+Qui-est-ce
+Points à relier
+Esquissez
+-->

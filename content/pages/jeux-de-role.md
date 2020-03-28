@@ -30,7 +30,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <li><a href="https://lucas-c.itch.io/les-non-morts">Les Non-Morts sur itch.io</a></li>
       </ul>
       <blockquote>
-        Les Non-morts est un court jeu compétitif faisant la part belle à l'imagination,
+        Les Non-morts est un court jeu narratif compétitif,
         à mi-chemin entre jeu de société et jeu de rôle sans meneur, dans une ambiance de film de mort-vivants de série Z :
         un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.
         <br>
@@ -204,7 +204,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <br><br>
       Cette aide de jeu contient:<ul>
         <li>de quoi décrire votre vaisseau, avec en particulier une table d'anomalies</li>
-        <li>des playbooks & TOCs pour vos PJs</li>
+        <li>des playbooks & Trouble Obsessionnel Compulsifs pour vos PJs</li>
         <li>une règle optionnelle, le compas d'humeurs</li>
         <li>des cachotteries de mission, incluant des contrats bonus</li>
         <li>des imprévus de voyages, certains tendant vers l'horreur cosmique</li>
