@@ -73,6 +73,19 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-28" data-hash="cdefd09a164e7b3e1c127ae3e8c22c02ef1be14a99725ed7040e77c1441d4d92"></form>
 
 
+## 29 mars - Énigmage n°3
+
+De quel film suis-je le poster ?
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage03-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-29" data-hash="8c2a25260209b2db50e9d7c369876ddeeaebde2472a38426ca4907fbe4135921"></form>
+
+
 ## Scores
 
 <table>
