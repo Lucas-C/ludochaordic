@@ -64,8 +64,6 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 ## 28 mars - Rébus Concept n°3
 
-Cliquez sur l'image pour en révéler petit à petit de plus en plus...
-
 ![](images/enigmes/enigme-concept-05.png)
 
 ### Teste ta réponse :
@@ -86,6 +84,22 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-29" data-hash="8c2a25260209b2db50e9d7c369876ddeeaebde2472a38426ca4907fbe4135921"></form>
 
 
+## 30 mars - Rébus Concept n°4
+
+![](images/enigmes/enigme-concept-06.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-30" data-hash="c212017ccdcd7bf803feb6188751f7c0afd902b2d42859ffd1a38129169e20c5"></form>
+
+
+<!-- WIP
+## ? avril - Esquissé
+
+<div id="challenge-2020-04-31" class="esquisse"></div>
+-->
+
+
 ## Scores
 
 <table>
@@ -101,6 +115,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script>
 firebase.initializeApp({
   apiKey: "AIzaSyBUA2secspKjZIA-_G3gCqcgYrlx5G94QE",
@@ -112,6 +127,7 @@ firebase.initializeApp({
   appId: "1:1085958736716:web:4c0ea416008a37c20edde9"
 });
 const scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement');
+const lockCollec = firebase.firestore().collection('Locks');
 function updateScoreBoardTable() {
   const tbody = document.getElementById('highscores');
   while (tbody.firstChild) { tbody.removeChild(tbody.firstChild); }
@@ -125,10 +141,17 @@ function updateScoreBoardTable() {
     highScores.forEach(highScore => tbody.appendChild(htmlTableRow([highScore.playerName, highScore.totalScore])))
   });
 }
-function htmlFromStr (string) {
+function htmlFromStr(string) {
   const div = document.createElement('div');
   div.innerHTML = string;
   return div.children[0];
+}
+function appendHtmlElemsFromStr(parent, string) {
+  const div = document.createElement('div');
+  div.innerHTML = string;
+  while (div.children[0]) {
+    parent.appendChild(div.children[0]);
+  }
 }
 function insertAfter(existingNode, newNode) {
   existingNode.parentNode.insertBefore(newNode, existingNode.nextElementSibling);
@@ -153,36 +176,147 @@ window.submittedAnswer = {};  // Context to communicate between forms
 const toc = document.getElementById('toc');
 document.querySelectorAll('article h2').forEach(h2 => {
   h2.id = slugify(h2.textContent);
-  const a = document.createElement('a');
-  a.href = `pages/enigmes-en-confinement.html#${h2.id}`;
-  a.textContent = h2.textContent;
-  const li = document.createElement('li');
-  li.appendChild(a);
-  toc.appendChild(li);
+  toc.appendChild(htmlFromStr(`<li><a href="pages/enigmes-en-confinement.html#${h2.id}">${h2.textContent}</a></li>`));
 });
 document.querySelectorAll('article form').forEach(form => {
   form.onsubmit = submitConceptAnswer.bind(form);
-  form.appendChild(htmlFromStr(`<input type="text"></input>`));
-  form.appendChild(htmlFromStr(`<input type="submit" value="?"></input>`));
-  form.appendChild(htmlFromStr(`<div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>`));
-  form.appendChild(htmlFromStr(`<div style="display: none" class="answer-wrong">Râté ! Essaie encore 😁</div>`));
+  appendHtmlElemsFromStr(form, `<input type="text"></input>
+                                <input type="submit" value="?"></input>
+                                <div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>
+                                <div style="display: none" class="answer-wrong">Râté ! Essaie encore 😁</div>`);
   insertAfter(form, htmlFromStr(`<form class="scoreForm" style="display: none" onSubmit="return submitPlayerScore(this)">
     <label for="playerName">Entre ton nom si tu souhaite apparaître dans les <a href="pages/enigmes-en-confinement.html#scores">scores</a> :</label>
-    <input type="text" name="playerName"></input>
+    <input type="text" name="playerName" minlength="3"></input>
     <input type="submit" value="💯"></input>
     <div style="display: none" class="score-already-set">🚫 Vous avez déjà joué !</div>
     <div style="display: none" class="score-submitted">Score enregistré : <span class="score"></span> points</div>
   </form>`));
 });
 document.querySelectorAll('.enigmage').forEach(img => {
+  imagesLoaded(img).on('done', preloadNextImg.bind(img));
   img.onclick = function () {
     const challengeId = this.parentElement.nextElementSibling.nextElementSibling.id;
-    const [base, ext] = this.src.rsplit('.', 1);
-    const [prefix, index] = base.split('-');
-    this.src = `${prefix}-${+index + 1}.${ext}`;
+    this.src = nextImage(this.src);
     window.malusPerChallenge[challengeId] = (window.malusPerChallenge[challengeId] || 0) + 20;
   }
 });
+function nextImage(imgSrc) {
+  const [base, ext] = imgSrc.rsplit('.', 1);
+  const [prefix, index] = base.split('-');
+  return `${prefix}-${+index + 1}.${ext}`;
+}
+function preloadNextImg() {
+  console.log('Preloaded:', this.src);
+  const img = document.createElement('img')
+  img.style.display = 'none';
+  img.src = nextImage(this.src);
+  imagesLoaded(img).on('done', preloadNextImg.bind(img));
+  document.body.appendChild(img);
+}
+document.querySelectorAll('.esquisse').forEach(panel => {
+  appendHtmlElemsFromStr(panel, `
+    <form onSubmit="return submitDrawingGuess(this)">
+      <canvas width="400" height="400"></canvas>
+      <label for="drawingGuess">Que représente ce dessin ?</label>
+      <input type="text" name="drawingGuess"></input>
+      <input type="submit" value="👀"></input>
+    </form>
+    <form onSubmit="return submitDrawing(this)">
+      <canvas width="400" height="400"></canvas>
+      <label>Et maintenant dessine : "${panel.prevDrawingGuess}", puis clique ci-dessous</label>
+      <input type="submit" value="👩‍🎨"></input>
+    </form>
+    <form class="overlay" onSubmit="return startEsquisse(this)">
+      <h3>Esquissé !</h2>
+      <label>Un seul joueur peut joueur à la fois.</label>
+      <div class="lockFree">
+        <label>Quand vous serez prêt, entrez votre nom et cliquez sur le bouton ci-dessous.</label>
+        <label>Vous aurez 15min pour faire un tour du jeu <a href="https://www.jeux-goliath.com/produit/esquisse/">Esquissé</a></label>
+        <input type="text" name="playerName" minlength="3"></input>
+        <input type="submit" value="🎬"></input>
+      </div>
+      <div class="lockTaken" style="display: none">
+        <label>Un joueur est en déjà train de jouer (<span class="lockPlayerName"></span>).</label>
+        <label>Revenez un peu plus tard ! 😉</label>
+      </div>
+    </form>`);
+  regularlyCheckEsquisseLock(panel);
+  const drawingGuessCanvas = panel.getElementsByTagName('form')[0];
+  const drawingCanvas = panel.getElementsByTagName('form')[1];
+  drawingCanvas.prevX = -1;
+  drawingCanvas.prevY = -1;
+  drawingCanvas.addEventListener('mousemove', e => draw(drawingCanvas, e), false);
+  drawingCanvas.addEventListener('mousedown', e => draw(drawingCanvas, e, true), false);
+  drawingCanvas.addEventListener('mouseup', e => draw(drawingCanvas, e, false), false);
+  drawingCanvas.addEventListener('mouseout', e => draw(drawingCanvas, e, false), false);
+  // TODO: load image & panel.prevDrawingGuess from firebase
+});
+function regularlyCheckEsquisseLock(panel) {
+  const overlay = panel.getElementsByClassName('overlay')[0];
+  if (overlay.style.display !== 'none') {
+    const lockFree = overlay.getElementsByClassName('lockFree')[0];
+    const lockTaken = overlay.getElementsByClassName('lockTaken')[0];
+    lockCollec.doc(panel.id).get().then(lock => {
+      if (lock.exists && lock.data().playerName) {
+        lockFree.style.display = 'none';
+        lockTaken.style.display = 'block';
+        overlay.getElementsByClassName('lockPlayerName')[0].textContent = lock.data().playerName;
+      } else {
+        lockFree.style.display = 'block';
+        lockTaken.style.display = 'none';
+      }
+    });
+  }
+  setTimeout(regularlyCheckEsquisseLock, 1000, panel);
+}
+function startEsquisse(overlayForm) {
+  const panel = overlayForm.parentNode;
+  console.log('startEsquisse panel=', panel);
+  console.log('startEsquisse panel.id=', panel.id);
+  const playerName = overlayForm.querySelector('input[type="text"]').value.trim();
+  lockCollec.doc(panel.id).set({playerName})
+  overlayForm.style.display = 'none';
+  // TODO: remove lock after 15min, from ANY client (=> we need to store lockStartTime)
+  return false;
+}
+function submitDrawingGuess(form) {
+  const panel = form.parentNode;
+  const canvas = form.getElementsByTagName('canvas')[0];
+  panel.drawingGuess = form.querySelector('input[type="text"]').value;
+  return false;
+}
+function submitDrawing(form) {
+  const panel = form.parentNode;
+  const canvas = form.getElementsByTagName('canvas')[0];
+  // TODO: save panel.drawingGuess & drawing + display success msg
+  return false;
+}
+// TODO: pas rejouable + button CLEAR
+function draw(canvas, e, newFlagValue) {
+  if (typeof newFlagValue !== 'undefined') {
+    canvas.isDrawing = newFlagValue;
+  }
+  if (canvas.isDrawing) {
+    const clientRect = e.target.getBoundingClientRect();
+    const currX = e.clientX - clientRect.left;
+    const currY = e.clientY - clientRect.top;
+    if (canvas.prevX > 0) {
+      const ctx = canvas.getContext('2d');
+      ctx.strokeStyle = 'black';
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(canvas.prevX, canvas.prevY);
+      ctx.lineTo(currX, currY);
+      ctx.stroke();
+      ctx.closePath();
+    }
+    canvas.prevX = currX;
+    canvas.prevY = currY;
+  } else {
+    canvas.prevX = -1;
+    canvas.prevY = -1;
+  }
+}
 updateScoreBoardTable();
 
 function submitConceptAnswer() {
@@ -257,6 +391,7 @@ function slugify(s) {
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')
   s = s.replace(/^la-/g, '').replace(/^le-/g, '').replace(/-st-/g, '-saint-')
+  s = s.replace(/^commandant-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '')
   return encodeURIComponent(s);
 }
 // FROM: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/digest#Converting_a_digest_to_a_hex_string
@@ -288,7 +423,7 @@ article input[type="submit"] {
   article label { font-size: 1.5rem; }
   article input[type="text"] {
     font-size: 2.5rem;
-    width: 30rem;
+    width: 22rem;
   }
   article input[type="submit"] {
     font-size: 2.5rem;
@@ -327,10 +462,42 @@ article tbody > tr:nth-of-type(odd) {
   max-height: 60rem;
   cursor: pointer;
 }
+.esquisse {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: .75;
+  border-radius: 1rem;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+.overlay h3 {
+  font-size: 3rem;
+  color: white;
+  margin: 4rem;
+}
+.overlay label {
+  font-size: 2rem;
+  max-width: max-content !important;
+  line-height: 2rem;
+  margin: 2rem;
+}
+.esquisse canvas {
+  border: 1px solid black;
+  cursor: pointer;
+  margin: .5rem 0;
+}
+.esquisse label { max-width: 400px; }
 </style>
-<!-- Idées:
-Codenames
-Qui-est-ce
-Points à relier
-Esquissez
--->
