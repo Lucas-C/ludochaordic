@@ -63,6 +63,14 @@ article tbody > tr:nth-of-type(odd) {
   max-width: max-content !important;
   margin: 2rem auto;
 }
+.timer {
+  position: absolute;
+  top: 0;
+  left: 43%;
+  font-size: 3rem;
+  background: white;
+  padding: 1rem;
+}
 .panels {
   display: flex;
   flex-flow: row wrap;
@@ -74,6 +82,7 @@ article tbody > tr:nth-of-type(odd) {
   margin: .5rem 0;
 }
 .submission-panel { display: flex; }
+#esquisses { font-size: 2rem; text-align: center; }
 
 @media screen and (min-width: 40rem) {
   article label { font-size: 1.5rem; }

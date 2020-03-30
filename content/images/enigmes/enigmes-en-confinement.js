@@ -111,10 +111,15 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
         <label>Pour tout effacer, clique ici : <button title="Tout effacer" onclick="clearDrawing(this)">🧹</button></label>
       </div>
       <div class="submission-panel">
-        <label for="submitDrawingAndGuess">Quand tu as fini les 2 parties du jeu, clique sur ce bouton :</label>
-        <input type="submit" name="submitDrawingAndGuess" value="👩‍🎨"></input>
+        <label for="submitButton">Quand tu as fini les 2 parties du jeu, clique sur ce bouton :</label>
+        <input type="submit" name="submitButton" value="👩‍🎨"></input>
+        <div class="drawing-guess-submitted" style="display: none">
+          <label>Bravo ! Magnifique !</label>
+          <label>Le résultat de ce jeu collectif sera disponible dans quelques jours 😉</label>
+        </div>
       </div>
     </form>
+    <div class="timer"></div>
     <form class="overlay" onSubmit="return startEsquisse(this)">
       <h3>Esquissé !</h2>
       <div class="alreadyPlayed" style="display: none">
@@ -193,6 +198,7 @@ function startEsquisse(overlayForm) {
     drawingCanvas.addEventListener('mousedown', e => draw(drawingCanvas, e, true), false);
     drawingCanvas.addEventListener('mouseup', e => draw(drawingCanvas, e, false), false);
     drawingCanvas.addEventListener('mouseout', e => draw(drawingCanvas, e, false), false);
+    chrono(esquisse.getElementsByClassName('timer')[0], new Date());
   });
   return false;
 }
@@ -205,6 +211,11 @@ function loadDataURLOntoCanvas(strDataURI, guessCanvas) {
   img.onload = () => ctx.drawImage(img, 0, 0);
   img.src = strDataURI;
 }
+function chrono(timerElem, startTime) {
+  let remaingSeconds = 15 * 60 - Math.floor((new Date() - startTime) / 1000);
+  timerElem.textContent = `${Math.floor(remaingSeconds / 60)}:${(remaingSeconds % 60 + '').padStart(2, '0')}`;
+  setTimeout(chrono, 1000, timerElem, startTime);
+}
 function clearDrawing(button) {
   const form = button.parentNode;
   const canvas = form.getElementsByTagName('canvas')[0];
@@ -216,7 +227,10 @@ function submitDrawingAndGuess(form) {
   const guess = form.querySelector('input[type="text"]').value;
   const drawing = form.getElementsByTagName('canvas')[1].toDataURL();
   const timestamp = firebase.firestore.Timestamp.now();
-  esquissesCollec.doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => setChallengePlayed(esquisse.id));
+  esquissesCollec.doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => {
+    setChallengePlayed(esquisse.id);
+    esquisse.getElementsByClassName('drawing-guess-submitted')[0].style.display = 'block';
+  });
   return false;
 }
 function draw(canvas, e, newFlagValue) {
