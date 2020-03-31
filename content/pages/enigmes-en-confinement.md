@@ -93,6 +93,17 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-30" data-hash="c212017ccdcd7bf803feb6188751f7c0afd902b2d42859ffd1a38129169e20c5"></form>
 
 
+## 31 mars - Énigmage n°4
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage04-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-31" data-hash="5bd8474bdcbb9721bc59bf3e7e90f37f9aff3d4f528fcf72985465c7baeb209f"></form>
+
+
 ## Scores
 
 <table>
