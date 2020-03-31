@@ -8,6 +8,84 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 <ul id="toc"></ul>
 
+
+## 31 mars - Énigmage n°4
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage04-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-31" data-hash="5bd8474bdcbb9721bc59bf3e7e90f37f9aff3d4f528fcf72985465c7baeb209f"></form>
+
+
+## 30 mars - Rébus Concept n°4
+
+![](images/enigmes/enigme-concept-06.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-30" data-min-score="50" data-hash="c212017ccdcd7bf803feb6188751f7c0afd902b2d42859ffd1a38129169e20c5"></form>
+
+
+## 29 mars - Énigmage n°3
+
+De quel film suis-je le poster ?
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage03-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-29" data-hash="8c2a25260209b2db50e9d7c369876ddeeaebde2472a38426ca4907fbe4135921"></form>
+
+
+## 28 mars - Rébus Concept n°3
+
+![](images/enigmes/enigme-concept-05.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-28" data-min-score="50" data-hash="cdefd09a164e7b3e1c127ae3e8c22c02ef1be14a99725ed7040e77c1441d4d92"></form>
+
+
+## 27 mars - Énigmage n°2
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage02-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-27" data-hash="3bbdd5b84c61752f65efc0dd815b6c225cb8f013e9fcc3177b4e8637111b74cb"></form>
+
+
+## 26 mars - Énigmage n°1
+
+De quel film suis-je le poster ?
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage01-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-26" data-hash="c01f23da736030c44c1927717ecdc5db1d06a33f5b5d0675d5e6c29cb693712e"></form>
+
+
+## 25 mars - Rébus Concept n°2
+
+Qui suis-je ?
+
+![](images/enigmes/enigme-concept-03.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-03-25" data-min-score="50" data-hash="8aaddb5664c898b76931eaf49db48aed6186ffefbd9138c8cce479140d86c762"></form>
+
+
 ## 24 mars - Rébus Concept n°1
 
 Si vous ne connaissez pas le jeu [Concept](https://concept-the-game.com),
@@ -25,83 +103,6 @@ Qui suis-je ?
 ### Teste ta réponse :
 
 <form id="challenge-2020-03-24" data-min-score="50" data-hash="3820ea262dc61608e2ed700ab6d027404d55702a960dc6eed0155a37c7d94a82"></form>
-
-
-## 25 mars - Rébus Concept n°2
-
-Qui suis-je ?
-
-![](images/enigmes/enigme-concept-03.png)
-
-### Teste ta réponse :
-
-<form id="challenge-2020-03-25" data-min-score="50" data-hash="8aaddb5664c898b76931eaf49db48aed6186ffefbd9138c8cce479140d86c762"></form>
-
-
-## 26 mars - Énigmage n°1
-
-De quel film suis-je le poster ?
-
-Cliquez sur l'image pour en révéler petit à petit de plus en plus...
-
-<img class="enigmage" src="images/enigmes/enigmage01-1.jpg">
-
-### Teste ta réponse :
-
-<form id="challenge-2020-03-26" data-hash="c01f23da736030c44c1927717ecdc5db1d06a33f5b5d0675d5e6c29cb693712e"></form>
-
-
-## 27 mars - Énigmage n°2
-
-Cliquez sur l'image pour en révéler petit à petit de plus en plus...
-
-<img class="enigmage" src="images/enigmes/enigmage02-1.jpg">
-
-### Teste ta réponse :
-
-<form id="challenge-2020-03-27" data-hash="3bbdd5b84c61752f65efc0dd815b6c225cb8f013e9fcc3177b4e8637111b74cb"></form>
-
-
-## 28 mars - Rébus Concept n°3
-
-![](images/enigmes/enigme-concept-05.png)
-
-### Teste ta réponse :
-
-<form id="challenge-2020-03-28" data-hash="cdefd09a164e7b3e1c127ae3e8c22c02ef1be14a99725ed7040e77c1441d4d92"></form>
-
-
-## 29 mars - Énigmage n°3
-
-De quel film suis-je le poster ?
-
-Cliquez sur l'image pour en révéler petit à petit de plus en plus...
-
-<img class="enigmage" src="images/enigmes/enigmage03-1.jpg">
-
-### Teste ta réponse :
-
-<form id="challenge-2020-03-29" data-hash="8c2a25260209b2db50e9d7c369876ddeeaebde2472a38426ca4907fbe4135921"></form>
-
-
-## 30 mars - Rébus Concept n°4
-
-![](images/enigmes/enigme-concept-06.png)
-
-### Teste ta réponse :
-
-<form id="challenge-2020-03-30" data-hash="c212017ccdcd7bf803feb6188751f7c0afd902b2d42859ffd1a38129169e20c5"></form>
-
-
-## 31 mars - Énigmage n°4
-
-Cliquez sur l'image pour en révéler petit à petit de plus en plus...
-
-<img class="enigmage" src="images/enigmes/enigmage04-1.jpg">
-
-### Teste ta réponse :
-
-<form id="challenge-2020-03-31" data-hash="5bd8474bdcbb9721bc59bf3e7e90f37f9aff3d4f528fcf72985465c7baeb209f"></form>
 
 
 ## Scores

@@ -1,3 +1,6 @@
+const ESQUISSE_GAME_TIME_IN_MINS = 10;
+const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
+
 firebase.initializeApp({
   apiKey: "AIzaSyBUA2secspKjZIA-_G3gCqcgYrlx5G94QE",
   authDomain: "scoreboard-7a578.firebaseapp.com",
@@ -52,7 +55,6 @@ String.prototype.rsplit = function(sep, maxsplit) {
   return maxsplit ? [ split.slice(0, -maxsplit).join(sep) ].concat(split.slice(-maxsplit)) : split;
 }
 // Initialization:
-const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 window.malusPerChallenge = {}
 window.submittedAnswer = {};  // Context to communicate between forms
 const toc = document.getElementById('toc');
@@ -90,12 +92,15 @@ function nextImage(imgSrc) {
   return `${prefix}-${+index + 1}.${ext}`;
 }
 function preloadNextImg() {
-  console.log('Preloaded:', this.src);
-  const img = document.createElement('img')
-  img.style.display = 'none';
-  img.src = nextImage(this.src);
-  imagesLoaded(img).on('done', preloadNextImg.bind(img));
-  document.body.appendChild(img);
+  const prevImg = this;
+  console.log('Loaded:', prevImg.src);
+  setTimeout(() => {
+    const img = document.createElement('img')
+    img.style.display = 'none';
+    img.src = nextImage(prevImg.src);
+    imagesLoaded(img).on('done', preloadNextImg.bind(img));
+    document.body.appendChild(img);
+  }, 500);
 }
 document.querySelectorAll('.esquisse').forEach(esquisse => {
   appendHtmlElemsFromStr(esquisse, `
@@ -122,13 +127,14 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
     <div class="timer"></div>
     <form class="overlay" onSubmit="return startEsquisse(this)">
       <h3>Esquissé !</h2>
+      <label>Aujourd'hui, nous vous proposons un jeu collectif, sans points, dont vous verrez le résultat sur cette page demain !</label>
       <div class="alreadyPlayed" style="display: none">
         <label>Vous avez déjà joué à ce jeu 😉</label>
       </div>
       <div class="lockFree" style="display: none">
         <label>Un seul joueur peut jouer à la fois.</label>
         <label>Quand vous serez prêt, entrez votre nom et cliquez sur le bouton.</label>
-        <label>Vous aurez alors 15min pour accomplir un tour du jeu <a target="_blank" href="https://www.jeux-goliath.com/produit/esquisse/">Esquissé</a>.</label>
+        <label>Vous aurez alors ${ESQUISSE_GAME_TIME_IN_MINS}min pour accomplir un tour du jeu <a target="_blank" href="https://www.jeux-goliath.com/produit/esquisse/">Esquissé</a>.</label>
         <label>(pas besoin de connaître la règle pour jouer)</label>
         <input type="text" name="playerName" minlength="3"></input>
         <input type="submit" value="🎬"></input>
@@ -170,8 +176,8 @@ function getLockState(lockId) {
     if (!lock.exists || !lock.data().playerName) {
       return null;
     }
-    // We auto-expire any lock set for more than 15min ago by any player:
-    if (now - lock.data().start > 15*60) {
+    // We auto-expire any lock set for more than ESQUISSE_GAME_TIME_IN_MINS ago by any player:
+    if (now - lock.data().start > ESQUISSE_GAME_TIME_IN_MINS*60) {
       lockCollec.doc(lockId).set({playerName: null, start: null});
       return null;
     }
@@ -212,7 +218,7 @@ function loadDataURLOntoCanvas(strDataURI, guessCanvas) {
   img.src = strDataURI;
 }
 function chrono(timerElem, startTime) {
-  let remaingSeconds = 15 * 60 - Math.floor((new Date() - startTime) / 1000);
+  let remaingSeconds = ESQUISSE_GAME_TIME_IN_MINS * 60 - Math.floor((new Date() - startTime) / 1000);
   timerElem.textContent = `${Math.floor(remaingSeconds / 60)}:${(remaingSeconds % 60 + '').padStart(2, '0')}`;
   setTimeout(chrono, 1000, timerElem, startTime);
 }
