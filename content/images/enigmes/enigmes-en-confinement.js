@@ -81,9 +81,22 @@ document.querySelectorAll('article form').forEach(form => {
 document.querySelectorAll('.enigmage').forEach(img => {
   imagesLoaded(img).on('done', preloadNextImg.bind(img));
   img.onclick = function () {
-    const challengeId = this.parentElement.nextElementSibling.nextElementSibling.id;
+    const form = this.parentElement.nextElementSibling.nextElementSibling;
+    const challengeId = form.id;
     this.src = nextImage(this.src);
-    window.malusPerChallenge[challengeId] = (window.malusPerChallenge[challengeId] || 0) + 20;
+    if (img.dataset.aprilJoke && this.src.endsWith('-7.jpg')) {
+      const wrongAnswerDiv = form.querySelector('.answer-wrong');
+      wrongAnswerDiv.style.display = 'none';
+      const correctAnswerDiv = form.querySelector('.answer-correct');
+      correctAnswerDiv.style.display = 'block';
+      correctAnswerDiv.textContent = "Poisson d'avril !";
+      window.malusPerChallenge[challengeId] = 0;
+      const scoreForm = form.nextElementSibling;
+      scoreForm.style.display = 'block';
+      img.onclick = () => {};
+    } else {
+      window.malusPerChallenge[challengeId] = (window.malusPerChallenge[challengeId] || 0) + 20;
+    }
   }
 });
 function nextImage(imgSrc) {
@@ -297,7 +310,7 @@ function submitConceptAnswer() {
   wrongAnswerDiv.style.display = 'none';
   console.log(slugify(answer));
   digestMessage(slugify(answer)).then(hash => {
-    if (hash === form.dataset.hash) {
+    if (form.dataset.hash && hash === form.dataset.hash) {
       window.submittedAnswer.score = 100;
       setTimeout(() => {
         correctAnswerDiv.style.display = 'block';

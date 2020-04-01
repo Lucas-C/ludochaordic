@@ -9,6 +9,17 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 1er avril - Énigmage n°5
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" data-april-joke="true" src="images/enigmes/enigmage05-1.jpg">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-01"></form>
+
+
 ## 31 mars - Énigmage n°4
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
