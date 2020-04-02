@@ -9,7 +9,7 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
-## 2 avril - Esquissé
+## 2 & 3 avril - Esquissé
 
 <div id="challenge-2020-04-02" class="esquisse"></div>
 
