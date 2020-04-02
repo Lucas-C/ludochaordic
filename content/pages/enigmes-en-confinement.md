@@ -9,6 +9,11 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 2 avril - Esquissé
+
+<div id="challenge-2020-04-02" class="esquisse"></div>
+
+
 ## 1er avril - Énigmage n°5
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...

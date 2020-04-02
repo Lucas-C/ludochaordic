@@ -1,4 +1,4 @@
-const ESQUISSE_GAME_TIME_IN_MINS = 10;
+const ESQUISSE_GAME_TIME_IN_MINS = 5;
 const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 
 firebase.initializeApp({
@@ -126,15 +126,15 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
       <div class="panel">
         <canvas width="400" height="400"></canvas>
         <label>Dessine ici : "<span class="drawingTitle"></span>"</label>
-        <label>Pour tout effacer, clique ici : <button title="Tout effacer" onclick="clearDrawing(this)">🧹</button></label>
+        <label>Pour tout effacer, clique ici : <button title="Tout effacer" onclick="return clearDrawing(this)">🧹</button></label>
       </div>
       <div class="submission-panel">
         <label for="submitButton">Quand tu as fini les 2 parties du jeu, clique sur ce bouton :</label>
         <input type="submit" name="submitButton" value="👩‍🎨"></input>
-        <div class="drawing-guess-submitted" style="display: none">
-          <label>Bravo ! Magnifique !</label>
-          <label>Le résultat de ce jeu collectif sera disponible dans quelques jours 😉</label>
-        </div>
+      </div>
+      <div class="drawing-guess-submitted" style="display: none">
+        <label>Bravo ! Magnifique !</label>
+        <label>Le résultat de ce jeu collectif sera disponible dans quelques jours 😉</label>
       </div>
     </form>
     <div class="timer"></div>
@@ -154,7 +154,7 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
       </div>
       <div class="lockTaken" style="display: none">
         <label>Un seul joueur peut jouer à la fois.</label>
-        <label>Un joueur est en déjà train de jouer (<span class="lockPlayerName"></span>).</label>
+        <label>Un joueur est en déjà en train de jouer (<span class="lockPlayerName"></span>).</label>
         <label>Revenez un peu plus tard ! 😉</label>
       </div>
     </form>`);
@@ -236,10 +236,11 @@ function chrono(timerElem, startTime) {
   setTimeout(chrono, 1000, timerElem, startTime);
 }
 function clearDrawing(button) {
-  const form = button.parentNode;
+  const form = button.parentNode.parentNode;
   const canvas = form.getElementsByTagName('canvas')[0];
   const ctx = canvas.getContext('2d');
   ctx.clearRect(0, 0, canvas.width, canvas.height);
+  return false;
 }
 function submitDrawingAndGuess(form) {
   const esquisse = form.parentNode;
