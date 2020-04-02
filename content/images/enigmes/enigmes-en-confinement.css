@@ -82,6 +82,14 @@ article tbody > tr:nth-of-type(odd) {
   margin: .5rem 0;
 }
 .submission-panel { display: flex; }
+.counter {
+  position: absolute;
+  top: -3rem;
+  right: 0;
+  z-index: 1;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
 #esquisses { font-size: 2rem; text-align: center; }
 
 @media screen and (min-width: 40rem) {

@@ -117,6 +117,7 @@ function preloadNextImg() {
 }
 document.querySelectorAll('.esquisse').forEach(esquisse => {
   appendHtmlElemsFromStr(esquisse, `
+    <div class="counter" style="display: none">Esquisses déjà réalisées : <span class="players-count"></span></div>
     <form class="panels" onSubmit="return submitDrawingAndGuess(this)">
       <div class="panel">
         <canvas width="400" height="400"></canvas>
@@ -158,6 +159,10 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
         <label>Revenez un peu plus tard ! 😉</label>
       </div>
     </form>`);
+  esquissesCollec.get().then(snap => {
+    esquisse.getElementsByClassName('counter')[0].style.display = 'block';
+    esquisse.getElementsByClassName('players-count')[0].textContent = snap.size;
+  });
   if (hasChallengeBeenPlayed(esquisse.id)) {
     const alreadyPlayed = esquisse.getElementsByClassName('alreadyPlayed')[0];
     alreadyPlayed.style.display = 'block';
