@@ -14,6 +14,8 @@ La prochaine fois on ne vous laissera que 3min, et on vous donnera des descripti
 
 Voici donc les deux magnifiques « chaînes » de descriptions / dessins que vous avez réalisé :
 
+_(rafraichissez la page si rien ne s'affiche; sur un ordinateur, il suffit d'appuyer sur la touche F5)_
+
 <table>
   <thead><tr> <th>Joueur</th> <th>Chaine A</th> <th>Chaine B</th> </tr></thead>
   <tbody id="esquisses" data-challenge-id="challenge-2020-04-02"></tbody>
