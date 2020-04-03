@@ -223,6 +223,7 @@ function startEsquisse(overlayForm) {
   drawingCanvas.addEventListener('mousedown', e => draw(drawingCanvas, e, true), false);
   drawingCanvas.addEventListener('mouseup', e => draw(drawingCanvas, e, false), false);
   drawingCanvas.addEventListener('mouseout', e => draw(drawingCanvas, e, false), false);
+  document.dispatchEvent(new Event('drawingCanvasReady'));
   chrono(esquisse.getElementsByClassName('timer')[0], new Date());
   getPrevGuessAndDrawing(esquisse.id).then(({drawing, guess}) => {
     const guessCanvas = esquisse.getElementsByTagName('canvas')[0];

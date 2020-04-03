@@ -4,6 +4,8 @@ Slug: enigmes-en-confinement
 Status: hidden
 ---
 
+<link rel="stylesheet" type="text/css" href="images/enigmes/enigmes-en-confinement.css">
+
 En cette période de cocooning forcé, voici quelques énigmes pour faire travailler vos méninges !
 
 <ul id="toc"></ul>
@@ -151,4 +153,3 @@ Qui suis-je ?
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="images/enigmes/enigmes-en-confinement.js"></script>
-<link rel="stylesheet" type="text/css" href="images/enigmes/enigmes-en-confinement.css">

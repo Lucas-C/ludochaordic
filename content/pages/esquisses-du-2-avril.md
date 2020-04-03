@@ -3,6 +3,8 @@ Tags: lang:fr, enigme, jeux
 Status: hidden
 ---
 
+<link rel="stylesheet" type="text/css" href="images/enigmes/enigmes-en-confinement.css">
+
 Pour cette première partie, vous avez tous été bien trop forts ! Chapeau 😃
 
 C'est incroyable, d'habitude à _**Esquissé**_ les dessins sont mal interprêtés et ça devient n'importe quoi très vite...
@@ -24,4 +26,3 @@ on va s'efforcer de corriger ça !
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
 <script src="images/enigmes/enigmes-en-confinement.js"></script>
-<link rel="stylesheet" type="text/css" href="images/enigmes/enigmes-en-confinement.css">
