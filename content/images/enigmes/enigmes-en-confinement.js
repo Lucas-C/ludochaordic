@@ -220,8 +220,11 @@ function startEsquisse(overlayForm) {
   drawingCanvas.prevX = -1;
   drawingCanvas.prevY = -1;
   drawingCanvas.addEventListener('mousemove', e => draw(drawingCanvas, e), false);
+  drawingCanvas.addEventListener('touchmove', e => draw(drawingCanvas, e), false);
   drawingCanvas.addEventListener('mousedown', e => draw(drawingCanvas, e, true), false);
+  drawingCanvas.addEventListener('touchstart', e => draw(drawingCanvas, e, true), false);
   drawingCanvas.addEventListener('mouseup', e => draw(drawingCanvas, e, false), false);
+  drawingCanvas.addEventListener('touchend', e => draw(drawingCanvas, e, false), false);
   drawingCanvas.addEventListener('mouseout', e => draw(drawingCanvas, e, false), false);
   document.dispatchEvent(new Event('drawingCanvasReady'));
   chrono(esquisse.getElementsByClassName('timer')[0], new Date());
