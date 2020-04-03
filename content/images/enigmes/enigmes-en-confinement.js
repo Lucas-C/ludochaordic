@@ -161,7 +161,7 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
         <label>Revenez un peu plus tard ! 😉</label>
       </div>
     </form>`);
-  esquissesCollec.get().then(snap => {
+  esquissesCollec.doc(esquisse.id).collection('DrawingsAndGuesses').get().then(snap => {
     esquisse.getElementsByClassName('counter')[0].style.display = 'block';
     esquisse.getElementsByClassName('players-count')[0].textContent = snap.size;
   });
@@ -213,7 +213,7 @@ function startEsquisse(overlayForm) {
   esquisse.playerName = overlayForm.querySelector('input[type="text"]').value.trim();
   acquireLock(esquisse.id, esquisse.playerName);
   overlayForm.style.display = 'none';
-  getPrevGuessAndDrawing().then(({drawing, guess}) => {
+  getPrevGuessAndDrawing(esquisse.id).then(({drawing, guess}) => {
     const guessCanvas = esquisse.getElementsByTagName('canvas')[0];
     loadDataURLOntoCanvas(drawing, guessCanvas);
     esquisse.getElementsByClassName('drawingTitle')[0].textContent = guess;
@@ -228,8 +228,8 @@ function startEsquisse(overlayForm) {
   });
   return false;
 }
-function getPrevGuessAndDrawing() {
-  return esquissesCollec.orderBy('timestamp', 'desc').limit(1).get().then(query => query.docs[0].data());
+function getPrevGuessAndDrawing(challengeId) {
+  return esquissesCollec.doc(challengeId).collection('DrawingsAndGuesses').orderBy('timestamp', 'desc').limit(1).get().then(query => query.docs[0].data());
 }
 function loadDataURLOntoCanvas(strDataURI, guessCanvas) {
   const ctx = guessCanvas.getContext('2d');
@@ -254,7 +254,7 @@ function submitDrawingAndGuess(form) {
   const guess = form.querySelector('input[type="text"]').value;
   const drawing = form.getElementsByTagName('canvas')[1].toDataURL();
   const timestamp = firebase.firestore.Timestamp.now();
-  esquissesCollec.doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => {
+  esquissesCollec.doc(esquisse.id).collection('DrawingsAndGuesses').doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => {
     setChallengePlayed(esquisse.id);
     esquisse.getElementsByClassName('drawing-guess-submitted')[0].style.display = 'block';
   });
@@ -390,7 +390,7 @@ async function digestMessage(message) {
 const esquisses = document.getElementById('esquisses');
 if (esquisses) {
   let swap = false;
-  esquissesCollec.orderBy('timestamp').get().then(query => query.forEach(doc => {
+  esquissesCollec.doc(esquisses.dataset.challengeId).collection('DrawingsAndGuesses').orderBy('timestamp').get().then(query => query.forEach(doc => {
     let [val1, val2] = [`<canvas width="400" height="400"></canvas>`, doc.data().guess];
     if (swap) [val1, val2] = [val2, val1];
     esquisses.appendChild(htmlTableRow([doc.id, val1, val2]));

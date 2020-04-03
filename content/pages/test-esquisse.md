@@ -13,7 +13,7 @@ Status: hidden
 
 <table>
   <thead><tr> <th>Joueur</th> <th>Chaine A</th> <th>Chaine B</th> </tr></thead>
-  <tbody id="esquisses"></tbody>
+  <tbody id="esquisses" data-challenge-id="challenge-2020-04-31"></tbody>
 </table>
 
 

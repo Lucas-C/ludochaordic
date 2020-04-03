@@ -14,7 +14,7 @@ Voici donc les deux magnifiques « chaînes » de descriptions / dessins que vou
 
 <table>
   <thead><tr> <th>Joueur</th> <th>Chaine A</th> <th>Chaine B</th> </tr></thead>
-  <tbody id="esquisses"></tbody>
+  <tbody id="esquisses" data-challenge-id="challenge-2020-04-02"></tbody>
 </table>
 
 Malheureusement l'avant-dernier dessin n'a pas pu être réalisé à cause d'un souci technique,
