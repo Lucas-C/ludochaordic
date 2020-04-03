@@ -1,4 +1,4 @@
-const ESQUISSE_GAME_TIME_IN_MINS = 5;
+const ESQUISSE_GAME_TIME_IN_MINS = 3;
 const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 
 firebase.initializeApp({

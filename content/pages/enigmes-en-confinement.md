@@ -145,6 +145,8 @@ Qui suis-je ?
 - pour les Énigmages, chaque nouvelle zone révélée coûte **20 points**
 
 
+## Commentaires
+
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>

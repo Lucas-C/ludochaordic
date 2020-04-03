@@ -160,6 +160,7 @@ DIRECT_TEMPLATES = ('index', 'tagcloud', 'past_readings')
 DEFAULT_PAGINATION = False
 
 ISSO_BASE_URL = '/lucas/isso'
+ENABLE_COMMENTS_ON_PAGES = True
 
 TAG_CLOUD_STEPS = 6
 TAG_CLOUD_SORTING = 'alphabetically'

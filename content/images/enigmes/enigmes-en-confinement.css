@@ -1,9 +1,9 @@
-article h2 { margin-top: 5rem; }
-article label {
+.uk-article-content h2 { margin-top: 5rem; }
+.uk-article-content label {
   display: block;
   margin: 1rem 0;
 }
-article input[type="submit"], article button {
+.uk-article-content input[type="submit"], .uk-article-content button {
   border-radius: 1rem;
   border: 0;
   background-color: #39b39d;
@@ -11,22 +11,22 @@ article input[type="submit"], article button {
   cursor: pointer;
   margin: 0 .5rem;
 }
-article table {
+.uk-article-content table {
   border-spacing: 0;
   border-collapse: collapse;
   font-size: 1.2rem;
   margin: 0 auto;
   margin-bottom: 4rem;
 }
-article td, article th {
+.uk-article-content td, .uk-article-content th {
   padding: 1rem;
   border-top: 1px solid #ddd;
 }
-article th {
+.uk-article-content th {
   border-bottom: 2px solid #ddd;
   border-top: 0;
 }
-article tbody > tr:nth-of-type(odd) {
+.uk-article-content tbody > tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
 .enigmage {
@@ -93,12 +93,12 @@ article tbody > tr:nth-of-type(odd) {
 #esquisses { font-size: 2rem; text-align: center; }
 
 @media screen and (min-width: 40rem) {
-  article label { font-size: 1.5rem; }
-  article input[type="text"] {
+  .uk-article-content label { font-size: 1.5rem; }
+  .uk-article-content input[type="text"] {
     font-size: 2.5rem;
     width: 22rem;
   }
-  article input[type="submit"], article button {
+  .uk-article-content input[type="submit"], .uk-article-content button {
     font-size: 2.5rem;
     height: 5rem;
     width: 5rem;
