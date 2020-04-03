@@ -85,11 +85,13 @@ document.querySelectorAll('.enigmage').forEach(img => {
     const challengeId = form.id;
     this.src = nextImage(this.src);
     if (img.dataset.aprilJoke && this.src.endsWith('-7.jpg')) {
-      const wrongAnswerDiv = form.querySelector('.answer-wrong');
-      wrongAnswerDiv.style.display = 'none';
+      form.previousElementSibling.style.display = 'none'; // h3
+      form.querySelectorAll('input').forEach(input => { input.style.display = 'none'; });
+      form.querySelector('.answer-wrong').style.display = 'none';
       const correctAnswerDiv = form.querySelector('.answer-correct');
       correctAnswerDiv.style.display = 'block';
       correctAnswerDiv.textContent = "Poisson d'avril !";
+      window.submittedAnswer.challengeId = challengeId;
       window.malusPerChallenge[challengeId] = 0;
       const scoreForm = form.nextElementSibling;
       scoreForm.style.display = 'block';
@@ -309,15 +311,12 @@ function submitConceptAnswer() {
   const wrongAnswerDiv = form.querySelector('.answer-wrong');
   window.submittedAnswer.minScore = +(form.dataset.minScore || '0');
   window.submittedAnswer.challengeId = form.id;
-  window.submittedAnswer.score = 0;
   correctAnswerDiv.style.display = 'none';
   const scoreForm = form.nextElementSibling;
   scoreForm.style.display = 'none';
   wrongAnswerDiv.style.display = 'none';
-  console.log(slugify(answer));
   digestMessage(slugify(answer)).then(hash => {
     if (form.dataset.hash && hash === form.dataset.hash) {
-      window.submittedAnswer.score = 100;
       setTimeout(() => {
         correctAnswerDiv.style.display = 'block';
         scoreForm.style.display = 'block';
@@ -366,7 +365,7 @@ function playerScore() {
   const submittedAnswer = window.submittedAnswer;
   const challengeId = window.submittedAnswer.challengeId;
   const malus = window.malusPerChallenge[challengeId] || 0;
-  return Math.max(submittedAnswer.minScore, submittedAnswer.score - malus);
+  return Math.max(submittedAnswer.minScore || 0, 100 - malus);
 }
 function slugify(s) {
   s = String(s).trim().toLowerCase()
