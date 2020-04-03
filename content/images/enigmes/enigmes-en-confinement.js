@@ -198,7 +198,7 @@ function getLockState(lockId) {
     }
     // We auto-expire any lock set for more than ESQUISSE_GAME_TIME_IN_MINS ago by any player:
     if (now - lock.data().start > ESQUISSE_GAME_TIME_IN_MINS*60) {
-      lockCollec.doc(lockId).set({playerName: null, start: null});
+      releaseLock(lockId);
       return null;
     }
     return lock.data();
@@ -208,28 +208,36 @@ function acquireLock(lockId, playerName) {
   const start = firebase.firestore.Timestamp.now();
   lockCollec.doc(lockId).set({playerName, start})
 }
+function releaseLock(lockId) {
+  lockCollec.doc(lockId).set({playerName: null, start: null});
+}
 function startEsquisse(overlayForm) {
   const esquisse = overlayForm.parentNode;
   esquisse.playerName = overlayForm.querySelector('input[type="text"]').value.trim();
   acquireLock(esquisse.id, esquisse.playerName);
   overlayForm.style.display = 'none';
+  const drawingCanvas = esquisse.getElementsByTagName('canvas')[1];
+  drawingCanvas.prevX = -1;
+  drawingCanvas.prevY = -1;
+  drawingCanvas.addEventListener('mousemove', e => draw(drawingCanvas, e), false);
+  drawingCanvas.addEventListener('mousedown', e => draw(drawingCanvas, e, true), false);
+  drawingCanvas.addEventListener('mouseup', e => draw(drawingCanvas, e, false), false);
+  drawingCanvas.addEventListener('mouseout', e => draw(drawingCanvas, e, false), false);
+  chrono(esquisse.getElementsByClassName('timer')[0], new Date());
   getPrevGuessAndDrawing(esquisse.id).then(({drawing, guess}) => {
     const guessCanvas = esquisse.getElementsByTagName('canvas')[0];
     loadDataURLOntoCanvas(drawing, guessCanvas);
     esquisse.getElementsByClassName('drawingTitle')[0].textContent = guess;
-    const drawingCanvas = esquisse.getElementsByTagName('canvas')[1];
-    drawingCanvas.prevX = -1;
-    drawingCanvas.prevY = -1;
-    drawingCanvas.addEventListener('mousemove', e => draw(drawingCanvas, e), false);
-    drawingCanvas.addEventListener('mousedown', e => draw(drawingCanvas, e, true), false);
-    drawingCanvas.addEventListener('mouseup', e => draw(drawingCanvas, e, false), false);
-    drawingCanvas.addEventListener('mouseout', e => draw(drawingCanvas, e, false), false);
-    chrono(esquisse.getElementsByClassName('timer')[0], new Date());
   });
   return false;
 }
 function getPrevGuessAndDrawing(challengeId) {
-  return esquissesCollec.doc(challengeId).collection('DrawingsAndGuesses').orderBy('timestamp', 'desc').limit(1).get().then(query => query.docs[0].data());
+  return esquissesCollec.doc(challengeId).collection('DrawingsAndGuesses').orderBy('timestamp', 'desc').limit(1).get().then(query => {
+    if (!query.docs[0]) {
+      throw new Error(`Esquissé challenge ${challengeId} has not been initialized`);
+    }
+    return query.docs[0].data();
+  });
 }
 function loadDataURLOntoCanvas(strDataURI, guessCanvas) {
   const ctx = guessCanvas.getContext('2d');
@@ -255,6 +263,7 @@ function submitDrawingAndGuess(form) {
   const drawing = form.getElementsByTagName('canvas')[1].toDataURL();
   const timestamp = firebase.firestore.Timestamp.now();
   esquissesCollec.doc(esquisse.id).collection('DrawingsAndGuesses').doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => {
+    releaseLock(esquisse.id);
     setChallengePlayed(esquisse.id);
     esquisse.getElementsByClassName('drawing-guess-submitted')[0].style.display = 'block';
   });

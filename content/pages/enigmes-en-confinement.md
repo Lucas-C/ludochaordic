@@ -29,7 +29,7 @@ Retrouvez les résultat sur cette page : [Esquisses du 2 avril](pages/esquisses-
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
-<img class="enigmage" data-april-joke="true" src="images/enigmes/enigmage05-1.jpg">
+<img class="enigmage" data-april-joke="true" src="images/enigmes/enigmage05-1.jpg" alt="">
 
 ### Teste ta réponse :
 
@@ -40,7 +40,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
-<img class="enigmage" src="images/enigmes/enigmage04-1.jpg">
+<img class="enigmage" src="images/enigmes/enigmage04-1.jpg" alt="">
 
 ### Teste ta réponse :
 
@@ -62,7 +62,7 @@ De quel film suis-je le poster ?
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
-<img class="enigmage" src="images/enigmes/enigmage03-1.jpg">
+<img class="enigmage" src="images/enigmes/enigmage03-1.jpg" alt="">
 
 ### Teste ta réponse :
 
@@ -82,7 +82,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
-<img class="enigmage" src="images/enigmes/enigmage02-1.jpg">
+<img class="enigmage" src="images/enigmes/enigmage02-1.jpg" alt="">
 
 ### Teste ta réponse :
 
@@ -95,7 +95,7 @@ De quel film suis-je le poster ?
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
-<img class="enigmage" src="images/enigmes/enigmage01-1.jpg">
+<img class="enigmage" src="images/enigmes/enigmage01-1.jpg" alt="">
 
 ### Teste ta réponse :
 
