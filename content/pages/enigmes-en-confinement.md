@@ -9,9 +9,20 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
-## 2 & 3 avril - Esquissé
+## 3 avril - Rébus Concept n°5
 
-<div id="challenge-2020-04-02" class="esquisse"></div>
+![](images/enigmes/enigme-concept-07.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-03" data-min-score="50" data-hash="567be8d4579bf687eab322664659c33a0c28e32b083dd9be02e626d90ac22441"></form>
+
+
+## 2 avril - Esquissé
+
+Le jeu est terminé !
+
+Retrouvez les résultat sur cette page : [Esquisses du 2 avril](pages/esquisses-du-2-avril.html)
 
 
 ## 1er avril - Énigmage n°5

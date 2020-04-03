@@ -106,7 +106,7 @@ function nextImage(imgSrc) {
 }
 function preloadNextImg() {
   const prevImg = this;
-  console.log('Loaded:', prevImg.src);
+  console.debug('Loaded:', prevImg.src);
   setTimeout(() => {
     const img = document.createElement('img')
     img.style.display = 'none';
@@ -375,7 +375,7 @@ function slugify(s) {
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')
   s = s.replace(/^la-/g, '').replace(/^le-/g, '').replace(/-d-/g, '-').replace(/-st-/g, '-saint-')
-  s = s.replace(/^commandant-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '')
+  s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '')
   return encodeURIComponent(s);
 }
 // FROM: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/digest#Converting_a_digest_to_a_hex_string
