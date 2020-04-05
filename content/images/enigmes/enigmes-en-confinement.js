@@ -298,6 +298,12 @@ function finishDrawingAndGuess(esquisse) {
   const guess = form.querySelector('input[type="text"]').value;
   const drawingCanvas = form.getElementsByTagName('canvas')[1];
   drawingCanvas.disableDrawing();
+  if (isCanvasBlank(drawingCanvas)) {
+    return Promise.reject('Blank canvas!');
+  }
+  if (!guess) {
+    return Promise.reject('Empty guess!');
+  }
   const drawing = drawingCanvas.toDataURL();
   const timestamp = firebase.firestore.Timestamp.now();
   return esquissesCollec.doc(esquisse.id).collection('DrawingsAndGuesses').doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => {
@@ -329,6 +335,11 @@ function draw(canvas, e, newFlagValue) {
     canvas.prevX = -1;
     canvas.prevY = -1;
   }
+}
+function isCanvasBlank(canvas) { // Source: https://stackoverflow.com/a/17386803/636849
+  const context = canvas.getContext('2d');
+  const pixelBuffer = new Uint32Array(context.getImageData(0, 0, canvas.width, canvas.height).data.buffer);
+  return !pixelBuffer.some(color => color !== 0);
 }
 function hasChallengeBeenPlayed(challengeId) {
   return getCookieAsJSON().challengesPlayed.includes(challengeId);
