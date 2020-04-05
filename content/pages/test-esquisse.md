@@ -11,14 +11,13 @@ Status: hidden
 <div id="challenge-2020-04-31" class="esquisse"></div>
 
 
-<!--
 ## Chaînes réalisées
 
 <table>
   <thead><tr> <th>Joueur</th> <th>Chaine A</th> <th>Chaine B</th> </tr></thead>
-  <tbody id="esquisses" data-challenge-id="challenge-2020-04-31"></tbody>
+  <tbody id="esquisses" data-challenge-id="challenge-2020-04-05"></tbody>
 </table>
--->
+
 
 <pre></pre>
 

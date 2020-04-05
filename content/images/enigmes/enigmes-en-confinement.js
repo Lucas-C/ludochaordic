@@ -1,4 +1,4 @@
-const ESQUISSE_GAME_TIME_IN_MINS = 3;
+const ESQUISSE_GAME_TIME_IN_MINS = 2.5;
 const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 
 firebase.initializeApp({
@@ -139,11 +139,16 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
         <label>Bravo ! Magnifique !</label>
         <label>Le résultat de ce jeu collectif sera disponible dans quelques jours 😉</label>
       </div>
+      <div class="timeout" style="display: none">
+        <label>⏱️ C'est fini ! Votre dessin a été envoyé 😁</label>
+        <label>Le résultat de ce jeu collectif sera disponible dans quelques jours 😉</label>
+      </div>
     </form>
     <div class="timer"></div>
     <form class="overlay" onSubmit="return startEsquisse(this)">
       <h3>Esquissé !</h2>
-      <label>Aujourd'hui, nous vous proposons un jeu collectif, sans points, dont vous verrez le résultat sur cette page demain !</label>
+      <label>Aujourd'hui, nous vous proposons un jeu collectif, sans points, dont vous verrez le résultat sur cette page demain !
+      <strong>ATTENTION : Pas le droit dessiner de chiffres ou de lettres !</strong></label>
       <div class="alreadyPlayed" style="display: none">
         <label>Vous avez déjà joué à ce jeu 😉</label>
       </div>
@@ -174,10 +179,10 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
 });
 function regularlyCheckEsquisseLock(esquisse) {
   const overlay = esquisse.getElementsByClassName('overlay')[0];
-  if (overlay.style.display !== 'none') {
-    const lockFree = overlay.getElementsByClassName('lockFree')[0];
-    const lockTaken = overlay.getElementsByClassName('lockTaken')[0];
-    getLockState(esquisse.id).then(lock => {
+  checkLockState(esquisse.id).then(lock => {
+    if (overlay.style.display !== 'none') {
+      const lockFree = overlay.getElementsByClassName('lockFree')[0];
+      const lockTaken = overlay.getElementsByClassName('lockTaken')[0];
       if (lock) {
         lockFree.style.display = 'none';
         lockTaken.style.display = 'block';
@@ -186,11 +191,11 @@ function regularlyCheckEsquisseLock(esquisse) {
         lockFree.style.display = 'block';
         lockTaken.style.display = 'none';
       }
-    });
-  }
+    }
+  });
   setTimeout(regularlyCheckEsquisseLock, 5000, esquisse);
 }
-function getLockState(lockId) {
+function checkLockState(lockId) {
   const now = firebase.firestore.Timestamp.now();
   return lockCollec.doc(lockId).get().then(lock => {
     if (!lock.exists || !lock.data().playerName) {
@@ -199,6 +204,10 @@ function getLockState(lockId) {
     // We auto-expire any lock set for more than ESQUISSE_GAME_TIME_IN_MINS ago by any player:
     if (now - lock.data().start > ESQUISSE_GAME_TIME_IN_MINS*60) {
       releaseLock(lockId);
+      const esquisse = document.getElementById(lockId);
+      if (lock.data().playerName === esquisse.playerName) {
+        earlyFinish(esquisse);
+      }
       return null;
     }
     return lock.data();
@@ -219,15 +228,18 @@ function startEsquisse(overlayForm) {
   const drawingCanvas = esquisse.getElementsByTagName('canvas')[1];
   drawingCanvas.prevX = -1;
   drawingCanvas.prevY = -1;
+  const mousedownCallback = e => draw(drawingCanvas, e, true);
+  const mouseupCallback = e => draw(drawingCanvas, e, false);
   drawingCanvas.addEventListener('mousemove', e => draw(drawingCanvas, e), false);
-  drawingCanvas.addEventListener('touchmove', e => draw(drawingCanvas, e), false);
-  drawingCanvas.addEventListener('mousedown', e => draw(drawingCanvas, e, true), false);
-  drawingCanvas.addEventListener('touchstart', e => draw(drawingCanvas, e, true), false);
-  drawingCanvas.addEventListener('mouseup', e => draw(drawingCanvas, e, false), false);
-  drawingCanvas.addEventListener('touchend', e => draw(drawingCanvas, e, false), false);
-  drawingCanvas.addEventListener('mouseout', e => draw(drawingCanvas, e, false), false);
+  drawingCanvas.addEventListener('mousedown', mousedownCallback, false);
+  drawingCanvas.addEventListener('mouseup', mouseupCallback, false);
+  drawingCanvas.addEventListener('mouseout', mouseupCallback, false);
+  drawingCanvas.disableDrawing = () => {
+    mouseupCallback();
+    drawingCanvas.removeEventListener('mousedown', mousedownCallback);
+  };
   document.dispatchEvent(new Event('drawingCanvasReady'));
-  chrono(esquisse.getElementsByClassName('timer')[0], new Date());
+  chronoTick(esquisse.getElementsByClassName('timer')[0], new Date());
   getPrevGuessAndDrawing(esquisse.id).then(({drawing, guess}) => {
     const guessCanvas = esquisse.getElementsByTagName('canvas')[0];
     loadDataURLOntoCanvas(drawing, guessCanvas);
@@ -249,10 +261,16 @@ function loadDataURLOntoCanvas(strDataURI, guessCanvas) {
   img.onload = () => ctx.drawImage(img, 0, 0);
   img.src = strDataURI;
 }
-function chrono(timerElem, startTime) {
-  let remaingSeconds = ESQUISSE_GAME_TIME_IN_MINS * 60 - Math.floor((new Date() - startTime) / 1000);
-  timerElem.textContent = `${Math.floor(remaingSeconds / 60)}:${(remaingSeconds % 60 + '').padStart(2, '0')}`;
-  setTimeout(chrono, 1000, timerElem, startTime);
+function chronoTick(timerElem, startTime) {
+  if (timerElem.style.display !== 'none') {
+    let remaingSeconds = ESQUISSE_GAME_TIME_IN_MINS * 60 - Math.floor((new Date() - startTime) / 1000);
+    timerElem.textContent = `${Math.floor(remaingSeconds / 60)}:${(remaingSeconds % 60 + '').padStart(2, '0')}`;
+    setTimeout(chronoTick, 1000, timerElem, startTime);
+  }
+}
+function chronoStop(esquisse) {
+  const timerElem = esquisse.getElementsByClassName('timer')[0];
+  timerElem.style.display = 'none';
 }
 function clearDrawing(button) {
   const form = button.parentNode.parentNode;
@@ -263,15 +281,29 @@ function clearDrawing(button) {
 }
 function submitDrawingAndGuess(form) {
   const esquisse = form.parentNode;
-  const guess = form.querySelector('input[type="text"]').value;
-  const drawing = form.getElementsByTagName('canvas')[1].toDataURL();
-  const timestamp = firebase.firestore.Timestamp.now();
-  esquissesCollec.doc(esquisse.id).collection('DrawingsAndGuesses').doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => {
-    releaseLock(esquisse.id);
-    setChallengePlayed(esquisse.id);
+  finishDrawingAndGuess(esquisse).then(() => {
     esquisse.getElementsByClassName('drawing-guess-submitted')[0].style.display = 'block';
   });
   return false;
+}
+function earlyFinish(esquisse) {
+  finishDrawingAndGuess(esquisse).then(() => {
+    esquisse.getElementsByClassName('timeout')[0].style.display = 'block';
+  });
+}
+function finishDrawingAndGuess(esquisse) {
+  esquisse.getElementsByClassName('submission-panel')[0].style.display = 'none';
+  chronoStop(esquisse);
+  const form = esquisse.getElementsByTagName('form')[0];
+  const guess = form.querySelector('input[type="text"]').value;
+  const drawingCanvas = form.getElementsByTagName('canvas')[1];
+  drawingCanvas.disableDrawing();
+  const drawing = drawingCanvas.toDataURL();
+  const timestamp = firebase.firestore.Timestamp.now();
+  return esquissesCollec.doc(esquisse.id).collection('DrawingsAndGuesses').doc(esquisse.playerName).set({drawing, guess, timestamp}).then(() => {
+    releaseLock(esquisse.id);
+    setChallengePlayed(esquisse.id);
+  });
 }
 function draw(canvas, e, newFlagValue) {
   if (typeof newFlagValue !== 'undefined') {

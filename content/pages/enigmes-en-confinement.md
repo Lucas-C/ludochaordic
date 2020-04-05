@@ -11,6 +11,11 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 5 avril - Esquissé n°2
+
+<div id="challenge-2020-04-05" class="esquisse"></div>
+
+
 ## 4 avril - Rébus Concept n°6
 
 ![](images/enigmes/enigme-concept-08.png)
@@ -29,7 +34,7 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <form id="challenge-2020-04-03" data-min-score="50" data-hash="567be8d4579bf687eab322664659c33a0c28e32b083dd9be02e626d90ac22441"></form>
 
 
-## 2 avril - Esquissé
+## 2 avril - Esquissé n°1
 
 Le jeu est terminé !
 
