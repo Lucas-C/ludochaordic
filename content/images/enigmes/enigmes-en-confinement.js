@@ -149,12 +149,12 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
       <h3>Esquissé !</h2>
       <label>Aujourd'hui, nous vous proposons un jeu collectif, sans points, dont vous verrez le résultat sur cette page demain !
       <strong>ATTENTION : Pas le droit dessiner de chiffres ou de lettres !</strong></label>
+      <label><strong>ATTENTION : Le jeu ne marchera probablement pas si vous utilisez un smartphone</strong></label>
       <div class="alreadyPlayed" style="display: none">
         <label>Vous avez déjà joué à ce jeu 😉</label>
       </div>
       <div class="lockFree" style="display: none">
-        <label>Un seul joueur peut jouer à la fois.</label>
-        <label>Quand vous serez prêt, entrez votre nom et cliquez sur le bouton.</label>
+        <label>Un seul joueur peut jouer à la fois. Quand vous serez prêt, entrez votre nom et cliquez sur le bouton.</label>
         <label>Vous aurez alors ${ESQUISSE_GAME_TIME_IN_MINS}min pour accomplir un tour du jeu <a target="_blank" href="https://www.jeux-goliath.com/produit/esquisse/">Esquissé</a>.</label>
         <label>(pas besoin de connaître la règle pour jouer)</label>
         <input type="text" name="playerName" minlength="3"></input>
