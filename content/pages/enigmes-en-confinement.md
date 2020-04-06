@@ -19,7 +19,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 ### Teste ta réponse :
 
-<form id="challenge-2020-04-05" data-hash="b0fa576922727d261d769d9cd73b5fbf8934ab4a34caaf8fcf486724d63bcddb"></form>
+<form id="challenge-2020-04-06" data-hash="b0fa576922727d261d769d9cd73b5fbf8934ab4a34caaf8fcf486724d63bcddb"></form>
 
 
 ## 5 avril - Esquissé n°2
