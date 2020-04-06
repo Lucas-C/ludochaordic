@@ -17,7 +17,7 @@ ou à essayer avec une tablette / ordinateur plutôt !
 Comme vous le verrez ci-dessous, Camille nous a sauvé la mise en relançant le jeu avec un splendide saut en parachute 😍
 
 Cette fois la partie ressemblait un peu plus à une manche d'**Esquissé** comme on en a l'habitude,
-avec des descriptions qui ont un peu changé, de fête foraine à kiosque !
+avec des descriptions qui ont un peu changé, de « fête foraine » à « kiosque » !
 
 Avec seulement **2min30** pour dessiner cete fois, vous avez quand même super assuré, bravo !
 
