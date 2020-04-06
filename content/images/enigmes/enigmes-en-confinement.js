@@ -129,7 +129,7 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
       <div class="panel">
         <canvas width="400" height="400"></canvas>
         <label>Dessine ici : "<span class="drawingTitle"></span>"</label>
-        <label>Pour tout effacer, clique ici : <button title="Tout effacer" onclick="return clearDrawing(this)">🧹</button></label>
+        <label>Pour tout effacer, clique ici : <button type="button" title="Tout effacer" onclick="return clearDrawing(this)">🧹</button></label>
       </div>
       <div class="submission-panel">
         <label for="submitButton">Quand tu as fini les 2 parties du jeu, clique sur ce bouton :</label>

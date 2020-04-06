@@ -10,6 +10,8 @@ Status: hidden
 
 <div id="challenge-2020-04-31" class="esquisse"></div>
 
+<button onclick="clearCookieAndLock()" style="display: block; margin: 0 auto; width: 30rem;">Clear cookie & lock</button>
+
 
 ## Chaînes réalisées
 
@@ -18,7 +20,6 @@ Status: hidden
   <tbody id="esquisses" data-challenge-id="challenge-2020-04-05"></tbody>
 </table>
 
-
 <pre></pre>
 
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
@@ -26,6 +27,11 @@ Status: hidden
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="images/enigmes/enigmes-en-confinement.js"></script>
 <script>
+function clearCookieAndLock() {
+  document.cookie = 'enigmesEnConfinement={\"challengesPlayed\": []}';
+  lockCollec.doc('challenge-2020-04-31').set({playerName: null, start: null}).then(() => document.location.reload());
+}
+
 const preElem = document.getElementsByTagName('pre')[0];
 document.addEventListener('drawingCanvasReady', () => {
   const drawingCanvas = document.getElementsByTagName('canvas')[1];
