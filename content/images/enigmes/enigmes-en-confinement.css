@@ -90,7 +90,7 @@
   padding: 1rem;
   font-size: 1.5rem;
 }
-#esquisses { font-size: 2rem; text-align: center; }
+#esquisses { font-size: 2rem; text-align: center; line-height: 3rem; }
 
 @media screen and (min-width: 40rem) {
   .uk-article-content label { font-size: 1.5rem; }

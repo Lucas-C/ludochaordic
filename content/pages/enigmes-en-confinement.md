@@ -11,9 +11,22 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 6 avril - Énigmage n°6
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage06-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-05" data-hash="b0fa576922727d261d769d9cd73b5fbf8934ab4a34caaf8fcf486724d63bcddb"></form>
+
+
 ## 5 avril - Esquissé n°2
 
-<div id="challenge-2020-04-05" class="esquisse"></div>
+Le jeu est terminé !
+
+Retrouvez les résultat sur cette page : [Esquisses du 5 avril](pages/esquisses-du-5-avril.html)
 
 
 ## 4 avril - Rébus Concept n°6
