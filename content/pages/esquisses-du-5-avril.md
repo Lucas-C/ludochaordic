@@ -28,6 +28,7 @@ Voici donc les deux « chaînes » de descriptions / dessins que vous avez réal
   <tbody id="esquisses" data-challenge-id="challenge-2020-04-05"></tbody>
 </table>
 
+N'hésitez pas à laisser des commentaires en bas des pages si vous voulez 😉
 
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
