@@ -20,10 +20,25 @@ function updateScoreBoardTable() {
     const highScores = [];
     query.forEach(doc => highScores.push({
       playerName: doc.id,
+      scores: doc.data().scores,
       totalScore: Object.values(doc.data().scores).reduce((a, b) => a + b),
     }));
     highScores.sort((a, b) => b.totalScore - a.totalScore);
-    highScores.forEach(highScore => tbody.appendChild(htmlTableRow([highScore.playerName, highScore.totalScore])))
+    highScores.forEach(highScore => {
+      let htmlDetails = '';
+      Object.keys(highScore.scores).forEach(challengeId => {
+        const dailyScore = highScore.scores[challengeId];
+        const shortDate = challengeId.split('-2020-')[1].replace('-', '/');
+        let medal = '🥉';
+        if (dailyScore === 100) {
+          medal = '🥇';
+        } else if (dailyScore > 50) {
+          medal = '🥈';
+        }
+        htmlDetails += `<span class="medal" title="${dailyScore} points le ${shortDate}">${medal}</span>`;
+      });
+      tbody.appendChild(htmlTableRow([highScore.playerName, highScore.totalScore, htmlDetails]));
+    })
   });
 }
 function htmlFromStr(string) {

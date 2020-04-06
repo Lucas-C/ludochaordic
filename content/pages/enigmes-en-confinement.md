@@ -164,7 +164,7 @@ Qui suis-je ?
 ## Scores
 
 <table>
-  <thead><tr> <th>Joueur</th> <th>Score</th> </tr></thead>
+  <thead><tr> <th>Joueur</th> <th>Score</th> <th>(placez le curseur sur les médailles pour plus d'info)</th> </tr></thead>
   <tbody id="highscores"></tbody>
 </table>
 
