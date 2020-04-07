@@ -15,7 +15,10 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 Désolé, pas d'énigme aujourd'hui, juste des bisous !
 
-On revient demain avec un rébus Concept 😉
+Profitez-en pour faire les énigmes que vous avez manqué :
+le tableau des scores en bas de la page devrait vous permettre de les identifier.
+
+On revient demain sans faute avec un rébus Concept 😉
 
 
 ## 6 avril - Énigmage n°6
