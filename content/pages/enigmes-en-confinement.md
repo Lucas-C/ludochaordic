@@ -11,6 +11,13 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 7 avril - Rien
+
+Désolé, pas d'énigme aujourd'hui, juste des bisous !
+
+On revient demain avec un rébus Concept 😉
+
+
 ## 6 avril - Énigmage n°6
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
