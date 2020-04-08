@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2020-04-08', 'img_url': 'images/readings/Aama.jpg', 'description': 'Aâma - Frederik Peeters (BD)'},
     {'date': u'2020-03-14', 'img_url': 'images/readings/A-la-vie.jpg', 'description': "À la vie ! - L'Homme étoilé (BD)"},
     {'date': u'2020-03-02', 'img_url': 'images/readings/LastMan12.jpg', 'description': 'Last Man tome 12 - Balak & Sanlaville & Vivès (BD)'},
     {'date': u'2020-01-21', 'img_url': 'images/readings/chronosquad.jpg', 'description': 'Chronosquad - Giorgio Albertini & Grégory Panaccione (BD)'},
