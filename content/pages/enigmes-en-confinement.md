@@ -11,6 +11,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 8 avril - Rébus Concept n°7
+
+![](images/enigmes/enigme-concept-09.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-08" data-min-score="50" data-hash="5f673a5780ed220d9ed0eb59d87c4033f862e545a9df4476159666cbb179000f"></form>
+
+
 ## 7 avril - Rien
 
 Désolé, pas d'énigme aujourd'hui, juste des bisous !
