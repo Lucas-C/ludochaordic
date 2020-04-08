@@ -19,6 +19,16 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 <form id="challenge-2020-04-08" data-min-score="50" data-hash="5f673a5780ed220d9ed0eb59d87c4033f862e545a9df4476159666cbb179000f"></form>
 
+### Rébus Concept bonus !
+
+Celui-ci nous as été transmis par Thomas, un grand merci à lui !
+
+![](images/enigmes/enigme-concept-thomas.jpg)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-08-bonus" data-min-score="50" data-hash="11490be059cdd2d85da38e706f9cab758a4c8e6fb95103fc62884a239e9e3a69"></form>
+
 
 ## 7 avril - Rien
 

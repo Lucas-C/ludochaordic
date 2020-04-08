@@ -445,6 +445,7 @@ function slugify(s) {
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')
   s = s.replace(/^la-/g, '').replace(/^le-/g, '').replace(/-d-/g, '-').replace(/-st-/g, '-saint-')
+  s = s.replace(/^des-/g, '').replace(/s$/g, '')
   s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '')
   return encodeURIComponent(s);
 }
