@@ -11,6 +11,17 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 9 avril - Énigmage n°7
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage07-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-06" data-hash="fc59487712bbe89b488847b77b5744fb6b815b8fc65ef2ab18149958edb61464"></form>
+
+
 ## 8 avril - Rébus Concept n°7
 
 ![](images/enigmes/enigme-concept-09.png)
