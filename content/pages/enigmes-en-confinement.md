@@ -11,6 +11,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 10 avril - Rébus Concept n°8
+
+![](images/enigmes/enigme-concept-10.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-10" data-min-score="50" data-hash="7186b6e1e13844499594bc935ee9f1091d59093bcb00eca31c3d563c5bb86f7d"></form>
+
+
 ## 9 avril - Énigmage n°7
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
