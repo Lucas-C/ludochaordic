@@ -378,7 +378,13 @@ function storeJSONasCookie(data) {
 document.querySelectorAll('.nonogram').forEach(div => {
   new nonogram.Game(
     JSON.parse(div.dataset.row), JSON.parse(div.dataset.column),
-    div.id, { theme: {width: 800}, onSuccess: () => { insertScoreFormAfter(div).style.display = 'block'; } }
+    div.id, {
+      theme: {width: 800},
+      onSuccess: () => {
+        window.submittedAnswer.challengeId = div.id;
+        insertScoreFormAfter(div).style.display = 'block';
+      }
+    }
   );
 });
 
