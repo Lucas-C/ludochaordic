@@ -55,6 +55,7 @@ function appendHtmlElemsFromStr(parent, string) {
 }
 function insertAfter(existingNode, newNode) {
   existingNode.parentNode.insertBefore(newNode, existingNode.nextElementSibling);
+  return newNode;
 }
 function htmlTableRow(values) {
   const tr = document.createElement('tr');
@@ -85,14 +86,17 @@ document.querySelectorAll('article form').forEach(form => {
                                 <input type="submit" value="?"></input>
                                 <div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>
                                 <div style="display: none" class="answer-wrong">Râté ! Essaie encore 😁</div>`);
-  insertAfter(form, htmlFromStr(`<form class="scoreForm" style="display: none" onSubmit="return submitPlayerScore(this)">
+  insertScoreFormAfter(form);
+});
+function insertScoreFormAfter(elem) {
+  return insertAfter(elem, htmlFromStr(`<form class="scoreForm" style="display: none" onSubmit="return submitPlayerScore(this)">
     <label for="playerName">Entre ton nom si tu souhaite apparaître dans les <a href="pages/enigmes-en-confinement.html#scores">scores</a> :</label>
     <input type="text" name="playerName" minlength="3"></input>
     <input type="submit" value="💯"></input>
     <div style="display: none" class="score-already-set">🚫 Vous avez déjà joué !</div>
     <div style="display: none" class="score-submitted">Score enregistré : <span class="score"></span> points</div>
   </form>`));
-});
+}
 document.querySelectorAll('.enigmage').forEach(img => {
   imagesLoaded(img).on('done', preloadNextImg.bind(img));
   img.onclick = function () {
@@ -371,9 +375,12 @@ function getCookieAsJSON() {
 function storeJSONasCookie(data) {
   document.cookie = 'enigmesEnConfinement=' + JSON.stringify(data);
 }
-if (document.getElementById('highscores')) {
-  updateScoreBoardTable();
-}
+document.querySelectorAll('.nonogram').forEach(div => {
+  new nonogram.Game(
+    JSON.parse(div.dataset.row), JSON.parse(div.dataset.column),
+    div.id, { theme: {width: 800}, onSuccess: () => { insertScoreFormAfter(div).style.display = 'block'; } }
+  );
+});
 
 function submitConceptAnswer() {
   const form = this;
@@ -459,6 +466,9 @@ async function digestMessage(message) {
 }
 //digestMessage(slugify("SOLUTION")).then(hash => console.log(hash));
 
+if (document.getElementById('highscores')) {
+  updateScoreBoardTable();
+}
 const esquisses = document.getElementById('esquisses');
 if (esquisses) {
   let swap = false;

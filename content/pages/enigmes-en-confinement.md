@@ -11,6 +11,20 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 11 avril - Nonogram
+Aujourd'hui, nouveau type d'énigme : un [nonogram](https://fr.wikipedia.org/wiki/Picross) !
+
+> Le but consiste à trouver les cases noires dans la grille. Les chiffres donnés sur le côté et en bas de la grille vous donnent des indices. Ils indiquent la taille des blocs de cases noires de la ligne ou de la colonne sur laquelle ils se trouvent.
+
+> Par exemple 3,4 à droite d'une ligne indique qu'il y a, de gauche à droite, un bloc de 3 cases noires puis un bloc de 4 cases noires sur cette ligne. En revanche, ce qui n'est pas mentionné et qui fait la difficulté, est le nombre de cases blanches entre les cases noires. On sait simplement qu'il y en a au moins une.
+
+_Note : nous n'avons pas testé avec smartphone, vous pouvez indiquer en commentaire de bas page si ça fonctionne ou pas !_
+
+<canvas id="challenge-2020-04-11" class="nonogram"
+        data-row="[[13],[2,7],[1,1,2],[1,1,2],[1,1,1,1],[1,1,1],[1,1,1],[1,1,2,1],[1,1,1],[1,1,1],[1,1,3,1],[3,3,1],[13]]"
+        data-column="[[13],[2,2],[1,1,6],[1,1],[1,1],[1,1,1],[8,3],[2,3],[2,3],[2,1],[2,1],[4,1],[13]]"></canvas>
+
+
 ## 10 avril - Rébus Concept n°8
 
 ![](images/enigmes/enigme-concept-10.png)
@@ -228,4 +242,5 @@ Qui suis-je ?
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="https://lucas-c.github.io/Nonogram/nonogram.min.js"></script>
 <script src="images/enigmes/enigmes-en-confinement.js"></script>
