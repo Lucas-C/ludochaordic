@@ -11,6 +11,19 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 12 avril - Énigmage n°8
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+Attention, il faut trouver un mot précis !
+
+<img class="enigmage" src="images/enigmes/enigmage08-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-12" data-hash="31a3f4c1e5c1b6f1b3ab4799862e332246f05dbf66de65c66533f86132a65271"></form>
+
+
 ## 11 avril - Nonogram
 Aujourd'hui, nouveau type d'énigme : un [nonogram](https://fr.wikipedia.org/wiki/Picross) !
 
@@ -232,7 +245,7 @@ Qui suis-je ?
 </table>
 
 - une réponse trouvée du premier coup donne **100 points**
-- chaque tentative erronée fait perdre **10 points**
+- chaque tentative de réponse erronée fait perdre **10 points**
 - pour les Rébus Concept, vous gagnez au minimum **50 points** si vous trouvez la réponse
 - pour les Énigmages, chaque nouvelle zone révélée coûte **20 points**
 
