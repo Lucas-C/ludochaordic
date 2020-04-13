@@ -11,6 +11,13 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 13 avril - Nonogram
+
+<canvas id="challenge-2020-04-13" class="nonogram"
+        data-row="[[7],[2,1],[3,3],[2,4],[1,2],[1,1,3],[1,1,2],[1,2],[2,1,3,1],[4,2,2],[1,1,2],[1,2,1,1],[1,3,1,1],[1,1,1,1],[11]]"
+        data-column="[[6],[2,2],[1,1],[2,2,3],[2,1,3],[1,1,1,1],[1,1,4],[1,1,4,1],[1,3,2,1,1],[1,1,2,1,1],[3,1,1,1],[2,1],[2,4],[4,1],[6]]"></canvas>
+
+
 ## 12 avril - Énigmage n°8
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...

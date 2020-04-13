@@ -1,3 +1,4 @@
+const BRAINBOX_GAME_TIME_IN_SECS = 10;
 const ESQUISSE_GAME_TIME_IN_MINS = 2.5;
 const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
 
@@ -258,7 +259,7 @@ function startEsquisse(overlayForm) {
     drawingCanvas.removeEventListener('mousedown', mousedownCallback);
   };
   document.dispatchEvent(new Event('drawingCanvasReady'));
-  chronoTick(esquisse.getElementsByClassName('timer')[0], new Date());
+  chronoTick(esquisse.getElementsByClassName('timer')[0], new Date(), ESQUISSE_GAME_TIME_IN_MINS * 60);
   getPrevGuessAndDrawing(esquisse.id).then(({drawing, guess}) => {
     const guessCanvas = esquisse.getElementsByTagName('canvas')[0];
     loadDataURLOntoCanvas(drawing, guessCanvas);
@@ -280,11 +281,11 @@ function loadDataURLOntoCanvas(strDataURI, guessCanvas) {
   img.onload = () => ctx.drawImage(img, 0, 0);
   img.src = strDataURI;
 }
-function chronoTick(timerElem, startTime) {
+function chronoTick(timerElem, startTime, gameTimeInSecs) {
   if (timerElem.style.display !== 'none') {
-    let remaingSeconds = ESQUISSE_GAME_TIME_IN_MINS * 60 - Math.floor((new Date() - startTime) / 1000);
+    let remaingSeconds = gameTimeInSecs - Math.floor((new Date() - startTime) / 1000);
     timerElem.textContent = `${Math.floor(remaingSeconds / 60)}:${(remaingSeconds % 60 + '').padStart(2, '0')}`;
-    setTimeout(chronoTick, 1000, timerElem, startTime);
+    setTimeout(chronoTick, 1000, timerElem, startTime, gameTimeInSecs);
   }
 }
 function chronoStop(esquisse) {
@@ -375,6 +376,95 @@ function getCookieAsJSON() {
 function storeJSONasCookie(data) {
   document.cookie = 'enigmesEnConfinement=' + JSON.stringify(data);
 }
+
+document.querySelectorAll('.brainbox').forEach(brainbox => {
+  appendHtmlElemsFromStr(brainbox, `
+    <div class="timer"></div>
+    <form class="overlay" onSubmit="return startBrainBox(this)">
+      <h3>BrainBox !</h2>
+      <div class="instructions">
+        <label>Quand vous serez prêt, entrez votre nom et cliquez sur le bouton.</label>
+        <label>Vous aurez alors <strong>${BRAINBOX_GAME_TIME_IN_SECS} secondes</strong> pour accomplir un tour du jeu <a target="_blank" href="https://fr.asmodee.com/fr/games/brain-box/">BrainBox</a>.</label>
+        <label>Le but est de <strong>mémoriser un maximum de détails de l'image.</strong></label>
+        <label>3 questions vous serons ensuite posées.</label>
+        <input type="text" name="playerName" minlength="3"></input>
+        <input type="submit" value="🔎"></input>
+      </div>
+      <div class="alreadyPlayed" style="display: none">
+        <label>Vous avez déjà joué à ce jeu 😉</label>
+      </div>
+    </form>
+    <img class="brainbox-image" style="display: none" alt="" src="${brainbox.dataset.img}">
+    <form class="brainbox-questions" style="display: none" onSubmit="return submitBrainBoxAnswers(this)">
+      <label>⏱️ C'est fini !</label>
+      <label>Répondez maintenant à ces 3 questions :</label>
+      <label for="a1">${atob(brainbox.dataset.q1)}</label>
+      <input name="a1" type="text" minlength="1"></input>
+      <label for="a2">${atob(brainbox.dataset.q2)}</label>
+      <input name="a2" type="text" minlength="1"></input>
+      <label for="a3">${atob(brainbox.dataset.q3)}</label>
+      <input name="a3" type="text" minlength="1"></input>
+      <input type="submit"></input>
+    </form>
+    <div class="brainbox-answers" style="display: none">
+      <label>Les bonnes réponses étaient :</label>
+      <label class="a1 wrong-answer">${atob(brainbox.dataset.a1)}</label>
+      <label class="a2 wrong-answer">${atob(brainbox.dataset.a2)}</label>
+      <label class="a3 wrong-answer">${atob(brainbox.dataset.a3)}</label>
+    </form>`);
+  if (hasChallengeBeenPlayed(brainbox.id)) {
+    brainbox.getElementsByClassName('instructions')[0].style.display = 'none';
+    brainbox.getElementsByClassName('alreadyPlayed')[0].style.display = 'block';
+  }
+});
+function startBrainBox(overlayForm) {
+  const brainbox = overlayForm.parentNode;
+  brainbox.playerName = overlayForm.querySelector('input[type="text"]').value.trim();
+  setChallengePlayed(brainbox.id);
+  overlayForm.style.display = 'none';
+  brainbox.getElementsByClassName('brainbox-image')[0].style.display = 'block';
+  chronoTick(brainbox.getElementsByClassName('timer')[0], new Date(), BRAINBOX_GAME_TIME_IN_SECS);
+  setTimeout(displayBrainBoxQuestions, BRAINBOX_GAME_TIME_IN_SECS*1000, brainbox);
+  return false;
+}
+function displayBrainBoxQuestions(brainbox) {
+  brainbox.getElementsByClassName('timer')[0].style.display = 'none';
+  brainbox.getElementsByClassName('brainbox-image')[0].style.display = 'none';
+  brainbox.getElementsByClassName('brainbox-questions')[0].style.display = 'flex';
+}
+function submitBrainBoxAnswers(questionsForm) {
+  const brainbox = questionsForm.parentNode;
+  questionsForm.style.display = 'none';
+  const brainboxAnswers = brainbox.getElementsByClassName('brainbox-answers')[0];
+  brainboxAnswers.style.display = 'flex';
+  let goodAnswersCount = 0;
+  const answer1 = brainbox.querySelector('input[name="a1"]').value;
+  if (slugify(answer1) === slugify(atob(brainbox.dataset.a1))) {
+    goodAnswersCount += 1;
+    brainbox.getElementsByClassName('a1')[0].classList.add('correct-answer');
+  }
+  const answer2 = brainbox.querySelector('input[name="a2"]').value;
+  if (slugify(answer2) === slugify(atob(brainbox.dataset.a2))) {
+    goodAnswersCount += 1;
+    brainbox.getElementsByClassName('a2')[0].classList.add('correct-answer');
+  }
+  const answer3 = brainbox.querySelector('input[name="a3"]').value;
+  if (slugify(answer3) === slugify(atob(brainbox.dataset.a3))) {
+    goodAnswersCount += 1;
+    brainbox.getElementsByClassName('a3')[0].classList.add('correct-answer');
+  }
+  if (goodAnswersCount === 0) {
+    window.malusPerChallenge[brainbox.id] = 100;
+  } else if (goodAnswersCount === 1) {
+    window.malusPerChallenge[brainbox.id] = 50;
+  } else if (goodAnswersCount === 2) {
+    window.malusPerChallenge[brainbox.id] = 25;
+  } // Pas de malus si 100% correct
+  window.submittedAnswer.challengeId = brainbox.id;
+  insertScoreFormAfter(brainboxAnswers).style.display = 'block';
+  return false;
+}
+
 document.querySelectorAll('.nonogram').forEach(div => {
   new nonogram.Game(
     JSON.parse(div.dataset.row), JSON.parse(div.dataset.column),
@@ -457,7 +547,7 @@ function slugify(s) {
   s = s.replace(/[\u0300-\u036f]/g, '')  // remove all separated accents
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')
-  s = s.replace(/^une?-/g, '').replace(/^la-/g, '').replace(/^les?-/g, '').replace(/-d-/g, '-').replace(/-st-/g, '-saint-')
+  s = s.replace(/^une?-/g, '').replace(/^la?-/g, '').replace(/^les?-/g, '').replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
   s = s.replace(/^des-/g, '').replace(/s$/g, '')
   s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '').replace(/^velo-/g, '')
   return encodeURIComponent(s);

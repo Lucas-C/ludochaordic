@@ -34,10 +34,23 @@
   cursor: pointer;
 }
 .esquisse { position: relative; }
-.esquisse label {
+.brainbox label, .esquisse label {
   font-size: 1.7rem;
   line-height: 2rem;
   max-width: 400px;
+}
+.brainbox {
+  position: relative;
+  height: 66vh;
+}
+.brainbox-image { min-height: 66vh; }
+.brainbox-questions, .brainbox-answers {
+  flex-flow: column;
+  align-items: center;
+}
+.brainbox-questions input[type="submit"] {
+  width: 10rem !important; /* pour éviter la règle @media ci-dessous */
+  margin: 1rem;
 }
 .overlay {
   position: absolute;
@@ -90,6 +103,8 @@
   padding: 1rem;
   font-size: 1.5rem;
 }
+.wrong-answer { color: red; }
+.correct-answer { color: green; }
 #esquisses { font-size: 2rem; text-align: center; line-height: 3rem; }
 
 @media screen and (min-width: 40rem) {
