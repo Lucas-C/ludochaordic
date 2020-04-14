@@ -165,7 +165,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 ### Teste ta réponse :
 
-<form id="challenge-2020-03-31" data-hash="5bd8474bdcbb9721bc59bf3e7e90f37f9aff3d4f528fcf72985465c7baeb209f"></form>
+<form id="challenge-2020-03-31" data-hash="aeefa03df470feecdfdcc05b65c70e743e87e4d26fe55486b34d2f3bece785a6"></form>
 
 
 ## 30 mars - Rébus Concept n°4
@@ -196,7 +196,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 ### Teste ta réponse :
 
-<form id="challenge-2020-03-28" data-min-score="50" data-hash="cdefd09a164e7b3e1c127ae3e8c22c02ef1be14a99725ed7040e77c1441d4d92"></form>
+<form id="challenge-2020-03-28" data-min-score="50" data-hash="b34cbfb48a2d11b0e836cbad6a9f613012b25f378425efbc4335a31093821170"></form>
 
 
 ## 27 mars - Énigmage n°2
