@@ -11,6 +11,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 14 avril - Rébus Concept
+
+![](images/enigmes/enigme-concept-11.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-14" data-min-score="50" data-hash="b4d12fc0eed74f624ecd8c85b73ca5f7a9bd7b8bab61f5d37a387caa31c4af74"></form>
+
+
 ## 13 avril - Nonogram
 
 <canvas id="challenge-2020-04-13" class="nonogram"

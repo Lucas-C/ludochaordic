@@ -386,7 +386,7 @@ document.querySelectorAll('.brainbox').forEach(brainbox => {
         <label>Quand vous serez prêt, entrez votre nom et cliquez sur le bouton.</label>
         <label>Vous aurez alors <strong>${BRAINBOX_GAME_TIME_IN_SECS} secondes</strong> pour accomplir un tour du jeu <a target="_blank" href="https://fr.asmodee.com/fr/games/brain-box/">BrainBox</a>.</label>
         <label>Le but est de <strong>mémoriser un maximum de détails de l'image.</strong></label>
-        <label>3 questions vous serons ensuite posées.</label>
+        <label>3 questions vous seront ensuite posées.</label>
         <input type="text" name="playerName" minlength="3"></input>
         <input type="submit" value="🔎"></input>
       </div>
@@ -547,7 +547,7 @@ function slugify(s) {
   s = s.replace(/[\u0300-\u036f]/g, '')  // remove all separated accents
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')
-  s = s.replace(/^une?-/g, '').replace(/^la?-/g, '').replace(/^les?-/g, '').replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
+  s = s.replace(/^une?-/g, '').replace(/^la?-/g, '').replace(/^les?-/g, '').replace(/^du-/g, '-').replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
   s = s.replace(/^des-/g, '').replace(/s$/g, '')
   s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '').replace(/^velo-/g, '')
   return encodeURIComponent(s);
