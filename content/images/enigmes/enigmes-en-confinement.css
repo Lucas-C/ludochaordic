@@ -50,6 +50,7 @@
 }
 .brainbox-questions input[type="submit"] {
   width: 10rem !important; /* pour éviter la règle @media ci-dessous */
+  padding-top: 3rem; /* pour laisser la place au timer */
   margin: 1rem;
 }
 .overlay {
@@ -76,7 +77,7 @@
   max-width: max-content !important;
   margin: 2rem auto;
 }
-.timer {
+.timer, .timer-answers, .timer-questions {
   position: absolute;
   top: 0;
   left: 43%;

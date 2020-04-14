@@ -1,6 +1,19 @@
-const BRAINBOX_GAME_TIME_IN_SECS = 10;
+const BRAINBOX_QUESTIONS_TIME_IN_SECS = 10;
+const BRAINBOX_ANSWERS_TIME_IN_SECS = 45;
 const ESQUISSE_GAME_TIME_IN_MINS = 2.5;
 const SLUG_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
+const DIGITS_TO_STRINGS = {
+  '0': 'zéro',
+  '1': 'un',
+  '2': 'deux',
+  '3': 'trois',
+  '4': 'quatre',
+  '5': 'cinq',
+  '6': 'six',
+  '7': 'sept',
+  '8': 'huit',
+  '9': 'neuf',
+};
 
 firebase.initializeApp({
   apiKey: "AIzaSyBUA2secspKjZIA-_G3gCqcgYrlx5G94QE",
@@ -379,12 +392,13 @@ function storeJSONasCookie(data) {
 
 document.querySelectorAll('.brainbox').forEach(brainbox => {
   appendHtmlElemsFromStr(brainbox, `
-    <div class="timer"></div>
+    <div class="timer-answers"></div>
+    <div class="timer-questions"></div>
     <form class="overlay" onSubmit="return startBrainBox(this)">
       <h3>BrainBox !</h2>
       <div class="instructions">
         <label>Quand vous serez prêt, entrez votre nom et cliquez sur le bouton.</label>
-        <label>Vous aurez alors <strong>${BRAINBOX_GAME_TIME_IN_SECS} secondes</strong> pour accomplir un tour du jeu <a target="_blank" href="https://fr.asmodee.com/fr/games/brain-box/">BrainBox</a>.</label>
+        <label>Vous aurez alors <strong>${BRAINBOX_QUESTIONS_TIME_IN_SECS} secondes</strong> pour accomplir un tour du jeu <a target="_blank" href="https://fr.asmodee.com/fr/games/brain-box/">BrainBox</a>.</label>
         <label>Le but est de <strong>mémoriser un maximum de détails de l'image.</strong></label>
         <label>3 questions vous seront ensuite posées.</label>
         <input type="text" name="playerName" minlength="3"></input>
@@ -396,8 +410,7 @@ document.querySelectorAll('.brainbox').forEach(brainbox => {
     </form>
     <img class="brainbox-image" style="display: none" alt="" src="${brainbox.dataset.img}">
     <form class="brainbox-questions" style="display: none" onSubmit="return submitBrainBoxAnswers(this)">
-      <label>⏱️ C'est fini !</label>
-      <label>Répondez maintenant à ces 3 questions :</label>
+      <label>Répondez maintenant à ces 3 questions avec <strong>un seul mot</strong>:</label>
       <label for="a1">${atob(brainbox.dataset.q1)}</label>
       <input name="a1" type="text" minlength="1"></input>
       <label for="a2">${atob(brainbox.dataset.q2)}</label>
@@ -407,6 +420,7 @@ document.querySelectorAll('.brainbox').forEach(brainbox => {
       <input type="submit"></input>
     </form>
     <div class="brainbox-answers" style="display: none">
+      <label class="timeout" style="display: none">⏱️ C'est fini !</label>
       <label>Les bonnes réponses étaient :</label>
       <label class="a1 wrong-answer">${atob(brainbox.dataset.a1)}</label>
       <label class="a2 wrong-answer">${atob(brainbox.dataset.a2)}</label>
@@ -423,18 +437,28 @@ function startBrainBox(overlayForm) {
   setChallengePlayed(brainbox.id);
   overlayForm.style.display = 'none';
   brainbox.getElementsByClassName('brainbox-image')[0].style.display = 'block';
-  chronoTick(brainbox.getElementsByClassName('timer')[0], new Date(), BRAINBOX_GAME_TIME_IN_SECS);
-  setTimeout(displayBrainBoxQuestions, BRAINBOX_GAME_TIME_IN_SECS*1000, brainbox);
+  chronoTick(brainbox.getElementsByClassName('timer-questions')[0], new Date(), BRAINBOX_QUESTIONS_TIME_IN_SECS);
+  setTimeout(displayBrainBoxQuestions, BRAINBOX_QUESTIONS_TIME_IN_SECS*1000, brainbox);
   return false;
 }
 function displayBrainBoxQuestions(brainbox) {
-  brainbox.getElementsByClassName('timer')[0].style.display = 'none';
+  brainbox.getElementsByClassName('timer-questions')[0].style.display = 'none';
   brainbox.getElementsByClassName('brainbox-image')[0].style.display = 'none';
   brainbox.getElementsByClassName('brainbox-questions')[0].style.display = 'flex';
+  chronoTick(brainbox.getElementsByClassName('timer-answers')[0], new Date(), BRAINBOX_ANSWERS_TIME_IN_SECS);
+  setTimeout(brainBoxAnswersTimeout, BRAINBOX_ANSWERS_TIME_IN_SECS*1000, brainbox);
+}
+function brainBoxAnswersTimeout(brainbox) {
+  const questionsForm = brainbox.getElementsByClassName('brainbox-questions')[0];
+  if (questionsForm.style.display !== 'none') { // les réponses n'ont pas encore été soumises
+    brainbox.getElementsByClassName('timeout')[0].style.display = 'block';
+    submitBrainBoxAnswers(questionsForm);
+  }
 }
 function submitBrainBoxAnswers(questionsForm) {
-  const brainbox = questionsForm.parentNode;
   questionsForm.style.display = 'none';
+  const brainbox = questionsForm.parentNode;
+  brainbox.getElementsByClassName('timer-answers')[0].style.display = 'none';
   const brainboxAnswers = brainbox.getElementsByClassName('brainbox-answers')[0];
   brainboxAnswers.style.display = 'flex';
   let goodAnswersCount = 0;
@@ -547,9 +571,16 @@ function slugify(s) {
   s = s.replace(/[\u0300-\u036f]/g, '')  // remove all separated accents
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')
-  s = s.replace(/^une?-/g, '').replace(/^la?-/g, '').replace(/^les?-/g, '').replace(/^du-/g, '-').replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
-  s = s.replace(/^des-/g, '').replace(/s$/g, '')
+  s = s.replace(/^\./g, '') // Internet abbrevs
+  s = s.replace(/citadelle-de-/g, '').replace(/-etoile/g, '') // brainboxes
+  s = s.replace(/^une?-/g, '').replace(/^des-/g, '').replace(/^du-/g, '')
+  s = s.replace(/^la?-/g, '').replace(/^les?-/g, '')
+  s = s.replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
+  s = s.replace(/s$/g, '')
   s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '').replace(/^velo-/g, '')
+  Object.keys(DIGITS_TO_STRINGS).forEach(d => {
+    s = s.replace(d, DIGITS_TO_STRINGS[d]);
+  });
   return encodeURIComponent(s);
 }
 // FROM: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/digest#Converting_a_digest_to_a_hex_string
