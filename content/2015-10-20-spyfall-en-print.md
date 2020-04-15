@@ -11,6 +11,10 @@ Comme je pense qu'ils pourra en amuser plus d'un, voici une version prête à im
 
 <https://chezsoi.org/lucas/spyfall> ([PDF, 3.47Mo](/lucas/spyfall/spyfall_print-and-play.pdf))
 
+Aperçu :
+
+![Photo du jeu de cartes imprimé & découpé](/lucas/spyfall/printed_deck.jpg)
+
 # Le jeu
 Pour une description complète, je vous recommande [la review de Swatsh sur VindJeu](http://www.vindjeu.eu/2015/01/23/spyfall-agent-trouble/).
 

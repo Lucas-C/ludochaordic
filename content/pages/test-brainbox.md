@@ -8,15 +8,6 @@ Status: hidden
 
 <button onclick="clearCookie()" style="display: block; margin: 0 auto; width: 30rem;">Rejouer</button>
 
-## 15 avril - Brainbox
-
-Aujourd'hui, nouveau type d'énigme qui fera travailler votre mémoire à court terme !
-
-<div id="challenge-2020-04-15" class="brainbox" data-img="images/enigmes/brainbox-01.jpg"
-     data-q1="UXVlbGxlIGVzdCBsJ2FiYnLpdmlhdGlvbiBJbnRlcm5ldCA/" data-a1="Lmhu"
-     data-q2="wCBxdWVsbGUgY2l2aWxpc2F0aW9uIGRvaXQtb24gbGUgdGVtcGxlIHJlcHLpc2VudOkgPw==" data-a2="TWF5YQ=="
-     data-q3="Q29tYmllbiBkJ+l0b2lsZXMgY29tcHRlIGxlIGRyYXBlYXUgPw==" data-a3="NQ=="></div>
-
 ## ? avril - Brainbox
 
 <div id="challenge-2020-test2" class="brainbox" data-img="images/enigmes/brainbox-02.jpg"
