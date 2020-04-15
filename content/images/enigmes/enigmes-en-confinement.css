@@ -47,10 +47,10 @@
 .brainbox-questions, .brainbox-answers {
   flex-flow: column;
   align-items: center;
+  padding-top: 3rem; /* pour laisser la place au timer */
 }
 .brainbox-questions input[type="submit"] {
   width: 10rem !important; /* pour éviter la règle @media ci-dessous */
-  padding-top: 3rem; /* pour laisser la place au timer */
   margin: 1rem;
 }
 .overlay {

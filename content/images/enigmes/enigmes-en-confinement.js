@@ -105,7 +105,7 @@ document.querySelectorAll('article form').forEach(form => {
 function insertScoreFormAfter(elem) {
   return insertAfter(elem, htmlFromStr(`<form class="scoreForm" style="display: none" onSubmit="return submitPlayerScore(this)">
     <label for="playerName">Entre ton nom si tu souhaite apparaître dans les <a href="pages/enigmes-en-confinement.html#scores">scores</a> :</label>
-    <input type="text" name="playerName" minlength="3"></input>
+    <input type="text" name="playerName" required minlength="3"></input>
     <input type="submit" value="💯"></input>
     <div style="display: none" class="score-already-set">🚫 Vous avez déjà joué !</div>
     <div style="display: none" class="score-submitted">Score enregistré : <span class="score"></span> points</div>
@@ -157,7 +157,7 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
       <div class="panel">
         <canvas width="400" height="400"></canvas>
         <label for="guess">Un joueur précédent a dessiné ceci. Que vois-tu ?</label>
-        <input type="text" name="guess" minlength="3"></input>
+        <input type="text" name="guess" required minlength="3"></input>
       </div>
       <div class="panel">
         <canvas width="400" height="400"></canvas>
@@ -190,7 +190,7 @@ document.querySelectorAll('.esquisse').forEach(esquisse => {
         <label>Un seul joueur peut jouer à la fois. Quand vous serez prêt, entrez votre nom et cliquez sur le bouton.</label>
         <label>Vous aurez alors ${ESQUISSE_GAME_TIME_IN_MINS}min pour accomplir un tour du jeu <a target="_blank" href="https://www.jeux-goliath.com/produit/esquisse/">Esquissé</a>.</label>
         <label>(pas besoin de connaître la règle pour jouer)</label>
-        <input type="text" name="playerName" minlength="3"></input>
+        <input type="text" name="playerName" required minlength="3"></input>
         <input type="submit" value="🎬"></input>
       </div>
       <div class="lockTaken" style="display: none">
@@ -401,7 +401,7 @@ document.querySelectorAll('.brainbox').forEach(brainbox => {
         <label>Vous aurez alors <strong>${BRAINBOX_QUESTIONS_TIME_IN_SECS} secondes</strong> pour accomplir un tour du jeu <a target="_blank" href="https://fr.asmodee.com/fr/games/brain-box/">BrainBox</a>.</label>
         <label>Le but est de <strong>mémoriser un maximum de détails de l'image.</strong></label>
         <label>3 questions vous seront ensuite posées.</label>
-        <input type="text" name="playerName" minlength="3"></input>
+        <input type="text" name="playerName" required minlength="3"></input>
         <input type="submit" value="🔎"></input>
       </div>
       <div class="alreadyPlayed" style="display: none">
@@ -412,11 +412,11 @@ document.querySelectorAll('.brainbox').forEach(brainbox => {
     <form class="brainbox-questions" style="display: none" onSubmit="return submitBrainBoxAnswers(this)">
       <label>Répondez maintenant à ces 3 questions avec <strong>un seul mot</strong>:</label>
       <label for="a1">${atob(brainbox.dataset.q1)}</label>
-      <input name="a1" type="text" minlength="1"></input>
+      <input name="a1" type="text" required></input>
       <label for="a2">${atob(brainbox.dataset.q2)}</label>
-      <input name="a2" type="text" minlength="1"></input>
+      <input name="a2" type="text" required></input>
       <label for="a3">${atob(brainbox.dataset.q3)}</label>
-      <input name="a3" type="text" minlength="1"></input>
+      <input name="a3" type="text" required></input>
       <input type="submit"></input>
     </form>
     <div class="brainbox-answers" style="display: none">

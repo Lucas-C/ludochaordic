@@ -11,6 +11,16 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 15 avril - Brainbox
+
+Aujourd'hui, nouveau type d'énigme qui fera travailler votre mémoire à court terme !
+
+<div id="challenge-2020-04-15" class="brainbox" data-img="images/enigmes/brainbox-01.jpg"
+     data-q1="UXVlbGxlIGVzdCBsJ2FiYnLpdmlhdGlvbiBJbnRlcm5ldCA/" data-a1="Lmhu"
+     data-q2="wCBxdWVsbGUgY2l2aWxpc2F0aW9uIGRvaXQtb24gbGUgdGVtcGxlIHJlcHLpc2VudOkgPw==" data-a2="TWF5YQ=="
+     data-q3="Q29tYmllbiBkJ+l0b2lsZXMgY29tcHRlIGxlIGRyYXBlYXUgPw==" data-a3="NQ=="></div>
+
+
 ## 14 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-11.png)

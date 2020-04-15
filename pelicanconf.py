@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2020-04-14', 'img_url': 'images/readings/la-consolante.jpg', 'description': 'La Consolante - Anna Gavalda (roman)'},
     {'date': u'2020-04-08', 'img_url': 'images/readings/Aama.jpg', 'description': 'Aâma - Frederik Peeters (BD)'},
     {'date': u'2020-03-14', 'img_url': 'images/readings/A-la-vie.jpg', 'description': "À la vie ! - L'Homme étoilé (BD)"},
     {'date': u'2020-03-02', 'img_url': 'images/readings/LastMan12.jpg', 'description': 'Last Man tome 12 - Balak & Sanlaville & Vivès (BD)'},
@@ -109,6 +110,7 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('github', 'https://github.com/Lucas-C'),
           ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
           ('travis-ci', 'https://travis-ci.org/Lucas-C'),
+          ('discord', 'https://discord.gg/zM2fBz'),
           ('itchio', 'https://lucas-c.itch.io'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'))
 
