@@ -104,7 +104,7 @@ document.querySelectorAll('article form').forEach(form => {
 });
 function insertScoreFormAfter(elem) {
   return insertAfter(elem, htmlFromStr(`<form class="scoreForm" style="display: none" onSubmit="return submitPlayerScore(this)">
-    <label for="playerName">Entre ton nom si tu souhaite apparaître dans les <a href="pages/enigmes-en-confinement.html#scores">scores</a> :</label>
+    <label for="playerName">Entre ton nom si tu souhaites apparaître dans les <a href="pages/enigmes-en-confinement.html#scores">scores</a> :</label>
     <input type="text" name="playerName" required minlength="3"></input>
     <input type="submit" value="💯"></input>
     <div style="display: none" class="score-already-set">🚫 Vous avez déjà joué !</div>
