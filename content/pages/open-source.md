@@ -56,7 +56,11 @@ a Python module to build batch pipelines, it handles dependency resolution, work
     * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
     * created [a plugin to send LinkBacks](https://github.com/pelican-plugins/linkbacks/)
 
+- [isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
+
 - [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
+
+- [COVID-19 Le jeu](https://github.com/covid19lejeu/covid-19-le-jeu) : I initialized the repo, build tools & JS code for the web version of this educational _print & play_ board game under a creative-commons license
 
 I also made some maps for a Ludum Dare game, back in 2009 (the game is worth trying !):
 <http://eriatic.wikidot.com/blog:triumph-mappack>

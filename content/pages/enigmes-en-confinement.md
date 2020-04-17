@@ -11,6 +11,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 17 avril - Rébus Concept
+
+![](images/enigmes/enigme-concept-12.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-17" data-min-score="50" data-hash="d528f82015b9829ff4cd5c75f25d30e5a4dd94ae4891fa524ccda39492af2db5"></form>
+
+
 ## 16 avril - Brainbox
 
 <div id="challenge-2020-04-16" class="brainbox" data-img="images/enigmes/brainbox-02.jpg"
