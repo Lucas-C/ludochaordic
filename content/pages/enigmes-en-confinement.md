@@ -11,6 +11,25 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 19 avril - Énigmage
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage09-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-19" data-hash="5fc6b6a518032ad46371a1a6a1e9f59931460a69cde2e26addc28d9a6f280237"></form>
+
+### Bonus - Nonogram
+
+Et pour se rattraper de l'énigme manquante d'hier, un petit nonogram bonus, pas trop dur !
+
+<canvas id="challenge-2020-04-19-bonus" class="nonogram"
+        data-row="[[3,3],[9],[11],[11],[11],[9],[7],[5],[3],[1]]"
+        data-column="[[3],[5],[7],[8],[9],[9],[9],[8],[7],[5],[3]]"></canvas>
+
+
 ## 17 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-12.png)
@@ -54,7 +73,7 @@ Aujourd'hui, nouveau type d'énigme qui fera travailler votre mémoire à court 
         data-column="[[6],[2,2],[1,1],[2,2,3],[2,1,3],[1,1,1,1],[1,1,4],[1,1,4,1],[1,3,2,1,1],[1,1,2,1,1],[3,1,1,1],[2,1],[2,4],[4,1],[6]]"></canvas>
 
 
-## 12 avril - Énigmage n°8
+## 12 avril - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
@@ -81,7 +100,7 @@ _Note : nous n'avons pas testé avec smartphone, vous pouvez indiquer en comment
         data-column="[[13],[2,2],[1,1,6],[1,1],[1,1],[1,1,1],[8,3],[2,3],[2,3],[2,1],[2,1],[4,1],[13]]"></canvas>
 
 
-## 10 avril - Rébus Concept n°8
+## 10 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-10.png)
 
@@ -90,7 +109,7 @@ _Note : nous n'avons pas testé avec smartphone, vous pouvez indiquer en comment
 <form id="challenge-2020-04-10" data-min-score="50" data-hash="7186b6e1e13844499594bc935ee9f1091d59093bcb00eca31c3d563c5bb86f7d"></form>
 
 
-## 9 avril - Énigmage n°7
+## 9 avril - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
@@ -101,7 +120,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-04-09" data-hash="fc59487712bbe89b488847b77b5744fb6b815b8fc65ef2ab18149958edb61464"></form>
 
 
-## 8 avril - Rébus Concept n°7
+## 8 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-09.png)
 
@@ -130,7 +149,7 @@ le tableau des scores en bas de la page devrait vous permettre de les identifier
 On revient demain sans faute avec un rébus Concept 😉
 
 
-## 6 avril - Énigmage n°6
+## 6 avril - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
@@ -148,7 +167,7 @@ Le jeu est terminé !
 Retrouvez les résultat sur cette page : [Esquisses du 5 avril](pages/esquisses-du-5-avril.html)
 
 
-## 4 avril - Rébus Concept n°6
+## 4 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-08.png)
 
@@ -157,7 +176,7 @@ Retrouvez les résultat sur cette page : [Esquisses du 5 avril](pages/esquisses-
 <form id="challenge-2020-04-04" data-min-score="50" data-hash="688dff1f111b5f6700ba045ea09b97cb1607921f02c87c7cc1919a41c124822d"></form>
 
 
-## 3 avril - Rébus Concept n°5
+## 3 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-07.png)
 
@@ -173,7 +192,7 @@ Le jeu est terminé !
 Retrouvez les résultat sur cette page : [Esquisses du 2 avril](pages/esquisses-du-2-avril.html)
 
 
-## 1er avril - Énigmage n°5
+## 1er avril - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
@@ -184,7 +203,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-04-01"></form>
 
 
-## 31 mars - Énigmage n°4
+## 31 mars - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
@@ -195,7 +214,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-31" data-hash="aeefa03df470feecdfdcc05b65c70e743e87e4d26fe55486b34d2f3bece785a6"></form>
 
 
-## 30 mars - Rébus Concept n°4
+## 30 mars - Rébus Concept
 
 ![](images/enigmes/enigme-concept-06.png)
 
@@ -204,7 +223,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-30" data-min-score="50" data-hash="c212017ccdcd7bf803feb6188751f7c0afd902b2d42859ffd1a38129169e20c5"></form>
 
 
-## 29 mars - Énigmage n°3
+## 29 mars - Énigmage
 
 De quel film suis-je le poster ?
 
@@ -217,7 +236,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-29" data-hash="8c2a25260209b2db50e9d7c369876ddeeaebde2472a38426ca4907fbe4135921"></form>
 
 
-## 28 mars - Rébus Concept n°3
+## 28 mars - Rébus Concept
 
 ![](images/enigmes/enigme-concept-05.png)
 
@@ -226,7 +245,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-28" data-min-score="50" data-hash="b34cbfb48a2d11b0e836cbad6a9f613012b25f378425efbc4335a31093821170"></form>
 
 
-## 27 mars - Énigmage n°2
+## 27 mars - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
@@ -237,7 +256,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-27" data-hash="3bbdd5b84c61752f65efc0dd815b6c225cb8f013e9fcc3177b4e8637111b74cb"></form>
 
 
-## 26 mars - Énigmage n°1
+## 26 mars - Énigmage
 
 De quel film suis-je le poster ?
 
@@ -250,7 +269,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 <form id="challenge-2020-03-26" data-hash="c01f23da736030c44c1927717ecdc5db1d06a33f5b5d0675d5e6c29cb693712e"></form>
 
 
-## 25 mars - Rébus Concept n°2
+## 25 mars - Rébus Concept
 
 Qui suis-je ?
 
@@ -261,7 +280,7 @@ Qui suis-je ?
 <form id="challenge-2020-03-25" data-min-score="50" data-hash="8aaddb5664c898b76931eaf49db48aed6186ffefbd9138c8cce479140d86c762"></form>
 
 
-## 24 mars - Rébus Concept n°1
+## 24 mars - Rébus Concept
 
 Si vous ne connaissez pas le jeu [Concept](https://concept-the-game.com),
 les règles sont disponibles [ici (PDF 10,3Mo)](http://spelarch.vives.be/PDFspelregels/16056.pdf) pour déchiffrer cette énigme.
@@ -291,6 +310,7 @@ Qui suis-je ?
 - chaque tentative de réponse erronée fait perdre **10 points**
 - pour les Rébus Concept, vous gagnez au minimum **50 points** si vous trouvez la réponse
 - pour les Énigmages, chaque nouvelle zone révélée coûte **20 points**
+- pour les BrainBoxs, chaque réponse erronée coûte **25 points** (et vous n'aurez aucun point si vous n'en trouvez aucune)
 
 
 ## Commentaires
