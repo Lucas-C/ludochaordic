@@ -576,7 +576,7 @@ function slugify(s) {
   s = s.replace(/^une?-/g, '').replace(/^des-/g, '').replace(/^du-/g, '')
   s = s.replace(/^la?-/g, '').replace(/^les?-/g, '')
   s = s.replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
-  s = s.replace(/s$/g, '')
+  s = s.replace(/-de-chine$/g, '').replace(/s$/g, '')
   s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '').replace(/^velo-/g, '')
   Object.keys(DIGITS_TO_STRINGS).forEach(d => {
     s = s.replace(d, DIGITS_TO_STRINGS[d]);
