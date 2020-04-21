@@ -11,6 +11,14 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 21 avril - Brainbox
+
+<div id="challenge-2020-04-21" class="brainbox" data-img="images/enigmes/brainbox-03.jpg"
+     data-q1="UXVlbGxlIG1hdGnocmUgcHJlbWnocmUgdHJhbnNwb3J0ZSBsZSBjYW1pb24gPw==" data-a1="RHUgcOl0cm9sZQ=="
+     data-q2="RGUgcXVlbGxlIGNvdWxldXIgZXN0IGxlIHBhbnRhbG9uIGR1IG11c2ljaWVuID8=" data-a2="VmVydA=="
+     data-q3="UXVlbCBlc3QgbGUgbm9tIGRlIGxhIGPpbOhicmUgY2l0YWRlbGxlID8=" data-a3="QmFt"></div>
+
+
 ## 20 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-13.png)

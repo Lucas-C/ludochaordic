@@ -47,7 +47,7 @@ a Python module to build batch pipelines, it handles dependency resolution, work
 - [MinigalNano](https://github.com/sebsauvage/MinigalNano) : a simple PHP image gallery
     * made a bunch of bug fixes, including the RSS feed
 
-- [Pelican](https://getpelican.com/) : a static site generator in Python
+- <img alt="Logo Pelican" src="images/open-source/pelican-logo.png" style="max-width: 6rem"> [Pelican](https://getpelican.com/) : a static site generator in Python
     * created [a plugin to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
     * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
@@ -56,7 +56,7 @@ a Python module to build batch pipelines, it handles dependency resolution, work
     * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
     * created [a plugin to send LinkBacks](https://github.com/pelican-plugins/linkbacks/)
 
-- [isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
+- <img alt="Logo isso" src="images/open-source/isso-logo.svg" style="max-width: 6rem"> [isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
 
 - [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
 

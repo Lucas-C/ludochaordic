@@ -10,13 +10,6 @@ Status: hidden
 
 ## ? avril - Brainbox
 
-<div id="challenge-2020-test3" class="brainbox" data-img="images/enigmes/brainbox-03.jpg"
-     data-q1="UXVlbGxlIG1hdGnocmUgcHJlbWnocmUgdHJhbnNwb3J0ZSBsZSBjYW1pb24gPw==" data-a1="RHUgcOl0cm9sZQ=="
-     data-q2="RGUgcXVlbGxlIGNvdWxldXIgZXN0IGxlIHBhbnRhbG9uIGR1IG11c2ljaWVuID8=" data-a2="VmVydA=="
-     data-q3="UXVlbCBlc3QgbGUgbm9tIGRlIGxhIGPpbOhicmUgY2l0YWRlbGxlID8=" data-a3="QmFt"></div>
-
-## ? avril - Brainbox
-
 <div id="challenge-2020-test4" class="brainbox" data-img="images/enigmes/brainbox-04.jpg"
      data-q1="UXVlbGxlIGVzdCBsYSBjYXBpdGFsZSBkZSBDaHlwcmUgPw==" data-a1="Tmljb3NpZQ=="
      data-q2="UXVlbCBlc3QgbGUgbm9tIGRlIGwnaW5zdHJ1bWVudCA/" data-a2="VW4gbHV0aA=="
