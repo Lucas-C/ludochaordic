@@ -27,19 +27,20 @@ et je me suis lancé dans la rédaction d'une dizaine de scénarios :
 
 J'ai eu l'occasion de les tester tous au moins une fois,
 donc quatre lors de la [Cyber Conv](http://www.cyberconv1.com) le dimanche 5 avril dernier,
-et à chaque fois les retours étaient très entousiastes !
+et à chaque fois les retours étaient très enthousiastes !
 
 Comme je n'arrête pas de revenir sur ces scénarios pour les peaufiner,
 et que je procrastine sur la mise en page PDF,
 j'ai décidé que j'allais les publier petit à petit sur ce blog,
 en quatre articles espacés d'une semaine.
-L'objectif étant de me motiver à finir ce receuil de scénarios,
+L'objectif étant de me motiver à finir ce recueil de scénarios,
 et de publier à terme le PDF sur [itch.io](https://lucas-c.itch.io).
 
 Voici donc les 2 premiers ci-dessous, mais **ATTENTION aux spoilers**,
 car les lire signifie ne plus pouvoir y jouer...
 
-J'en profite pour mentionner que j'organiserai d'autres partie sur Discord dans les semaines à venir.Je proposerai un sondage ici et sur [ce salon Discord](https://discord.gg/BJeuEtX) pour que les joueurs intéressés s'inscrivent.
+J'en profite pour mentionner que j'organiserai d'autres partie sur Discord dans les semaines à venir.
+Je proposerai un sondage ici et sur [ce salon Discord](https://discord.gg/BJeuEtX) pour que les joueurs intéressés s'inscrivent.
 
 Si vous lisez / testez ces scénarios, donnez votre avis en commentaire !
 La semaine prochaine, j'évoquerai également quelques conseils pour faire jouer ces scénarios à distance, en ligne.
@@ -76,7 +77,7 @@ qu'ils transportent vers la mer.
 ### Conseils au MJ
 A chaque nouvelle tentative, indiquez aux joueurs que le tsunami se rapproche.
 
-Dosez les obstacles pour créer une longue chaine d'actions à mémoriser,
+Dosez les obstacles pour créer une longue chaîne d'actions à mémoriser,
 et faites en sorte que les joueurs atteignent le phare dans les 2 dernières minutes
 ### Rejouer le scénario
 Commencez au moment où vous saisissez la conque au grand prêtre :
@@ -87,7 +88,7 @@ vous devez échappez à la foule de cultistes à vos trousses, et réussir à le
 ![](images/jdr/rdr/handcuffs-free.jpg)
 ## Évasion
 > Tu es en cellule au commissariat, tu viens d'être arrêté pour un crime où tu risques perpétuité.
-> Soudain, un paquet craft atterrit à tes pieds, lancé de l'extérieur à travers une lucarne.
+> Soudain, un paquet kraft atterrit à tes pieds, lancé de l'extérieur à travers une lucarne.
 > Dedans, tu trouves une machine avec [un étrange mécanisme](images/jdr/rdr/convecteur-temporel.jpg)
 > incluant un compte à rebours de 20min, ainsi que ce mot : « Fait sortir Loubianov par l'arrière-court »
 ### Objectif
@@ -98,7 +99,7 @@ Toutes les scènes de film dans des commissariats, Prison Break, le jeu vidéo H
 - une cellule à barreaux, avec couchette et WC
 - le commissariat s'étale sur deux étages, avec un espace central ouvert sur deux niveaux, en _open space_ de bureaux
 - au RdC : accueil, bureaux partagés, salles de déposition, cellules, réfectoire...
-- à l'étage : salles d'interrogatoire, bureaux des gradés, salle de réunion, armurie, WC...
+- à l'étage : salles d'interrogatoire, bureaux des gradés, salle de réunion, armurerie, WC...
 ### Obstacles
 - la porte de la cellule
 - se déplacer dans un lieu plein de flics
@@ -107,6 +108,6 @@ Toutes les scènes de film dans des commissariats, Prison Break, le jeu vidéo H
 ### Conseils au MJ
 En cas de mauvais jets, il peut être laborieux et frustrant pour les joueurs se s'échapper initialement de la cellule.
 Si vous approchez des 10min de partie et que les joueurs n'en sont pas sortis, indiquez que cette fois
-le paquet craft contient une arme (couteau ou revolver).
+le paquet kraft contient une arme (couteau ou revolver).
 ### Rejouer le scénario
 Cette fois, Loubianov ne sera absolument pas coopératif !
