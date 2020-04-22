@@ -11,6 +11,19 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 22 avril - Nonogram
+
+<canvas id="challenge-2020-04-22" class="nonogram"
+        data-row="[[2,2],[1,1],[5],[5],[7],[1,2,1,2,1],[3,1,3],[1,1,1,1,1],[1,2,1,2,1],[3,1,3],[1,1,1,1,1,1,1],[1,2,1,2,1],[1,1,1],[4,1,4],[1,7,1]]"
+        data-column="[[2],[2,1,2],[8],[2,1],[1,2,1,1,2],[5,2,2,1],[3,1],[13],[3,1],[5,2,2,1],[1,2,1,1,2],[2,1],[8],[2,1,2],[2]]"></canvas>
+
+Notez que sur les grilles de Nonogram, vous pouvez faire un clic droit (ou basculer le type de motif en cliquant en bas à droite),
+pour indiquer par une croix les cases que vous savez ne pas devoir remplir !
+
+Dans une semaine, nous publierons les réponses de toutes les énigmes du mois de mars :
+dépêchez-vous de résoudre les énigmes qui vous manquent, car il ne sera alors plus possible de marquer de points pour celles-ci !
+
+
 ## 21 avril - Brainbox
 
 <div id="challenge-2020-04-21" class="brainbox" data-img="images/enigmes/brainbox-03.jpg"

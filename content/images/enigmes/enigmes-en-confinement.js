@@ -577,6 +577,7 @@ function slugify(s) {
   s = s.replace(/^la?-/g, '').replace(/^les?-/g, '')
   s = s.replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
   s = s.replace(/-de-chine$/g, '').replace(/s$/g, '')
+  s = s.replace(/verte/g, '').replace(/vert/g, '') // brainbox du 21 avril, sur réclamation ^^
   s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '').replace(/^velo-/g, '')
   Object.keys(DIGITS_TO_STRINGS).forEach(d => {
     s = s.replace(d, DIGITS_TO_STRINGS[d]);
