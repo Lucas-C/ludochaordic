@@ -11,6 +11,24 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 23 avril - Énigmage
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage10-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-23" data-hash="d753e1d7f578aebac23234f2fed536144587019027e84e4dab06e2b9df3dab16"></form>
+
+
+Aujourd'hui question supplémentaire : on aimerait savoir quel type d'énigme vous préférez !
+Pourriez-vous nous dire lesquelles sont vos favorites via ce sondage en ligne ?
+<https://framadate.org/IQI4nluhiY7ASvCK>
+
+Vous pouvez répondre anonymement, mais n'hésitez pas à voter "non" si certaines énigmes ne sont vraiment pas votre tasse de thé, on ne se vexera pas ;)
+
+
 ## 22 avril - Nonogram
 
 <canvas id="challenge-2020-04-22" class="nonogram"

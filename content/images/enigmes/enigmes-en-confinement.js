@@ -141,7 +141,6 @@ function nextImage(imgSrc) {
 }
 function preloadNextImg() {
   const prevImg = this;
-  console.debug('Loaded:', prevImg.src);
   setTimeout(() => {
     const img = document.createElement('img')
     img.style.display = 'none';
@@ -575,6 +574,7 @@ function slugify(s) {
   s = s.replace(/citadelle-de-/g, '').replace(/-etoile/g, '') // brainboxes
   s = s.replace(/^une?-/g, '').replace(/^des-/g, '').replace(/^du-/g, '')
   s = s.replace(/^la?-/g, '').replace(/^les?-/g, '')
+  s = s.replace(/-c-ur/g, '-coeur').replace(/^basilique-d?u?-?/g, '').replace(/-?a?d?e?-montmartre/g, '') // enigmage du 23 avril
   s = s.replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
   s = s.replace(/-de-chine$/g, '').replace(/s$/g, '')
   s = s.replace(/verte/g, '').replace(/vert/g, '') // brainbox du 21 avril, sur réclamation ^^
