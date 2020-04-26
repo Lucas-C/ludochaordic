@@ -54,3 +54,29 @@ Pour cette fois, pas de repo GitHub dédié au projet : l'ensemble du code sourc
 <img alt="Tatouage d'une balise HTML head" src="images/wwcb/head_body_tatoo.jpg">
 
 Enfin, un remerciement à Dan Hetteix (membre de TheNounProject), qui a créé l'icône d'espion utilisé sur les cartes.
+
+
+**[EDIT 2020/04/26]** : Thanks to Lukas, I added some more card illustrations, using the following images :
+
+- *art museum* ([image source](https://www.piqsels.com/en/public-domain-photo-sjsit))
+- *baseball stadium* ([image source](https://pxhere.com/en/photo/64540))
+- *candy factory* ([image source](https://www.needpix.com/photo/291294/candy-candy-store-chocolate-m-ms-sweet))
+- *cat show* ([image source](https://publicdomainpictures.net/fr/view-image.php?image=76777&picture=dog-show-affiche-de-bande-dessinee))
+- *cemetery* ([image source](https://www.pexels.com/photo/selective-focus-photo-of-cemetery-lantern-720730/))
+- *coal mine* ([image source](https://www.pxfuel.com/en/free-photo-oxhud))
+- *construction site* ([image source](https://pxhere.com/en/photo/89214))
+- *gas station* ([image source](https://www.piqsels.com/en/public-domain-photo-spaqi))
+- *harbor docks* ([image source](https://fr.wikipedia.org/wiki/Fichier:Docks_and_shipping,_Hamburg,_Germany-LCCN2002713698.jpg))
+- *jail* ([image source](https://pxhere.com/en/photo/1095378))
+- *jazz club* ([image source](https://pxhere.com/en/photo/1084769))
+- *library* ([image source](https://pxhere.com/en/photo/707871))
+- *retirement home* ([image source](https://pxhere.com/en/photo/782117))
+- *race track* ([image source](https://www.pickpik.com/transfagarasan-drone-road-green-forest-winding-36518))
+- *rock concert* ([image source](https://www.pickpik.com/man-guitar-in-concert-lights-people-music-76510))
+- *sightseeing bus* ([image source](https://www.pexels.com/photo/red-tower-hill-bus-1837590/))
+- *subway* ([image source](https://pxhere.com/en/photo/2767))
+- *the united nations* ([image source](https://www.pickpik.com/microphone-active-talk-conference-meeting-audio-38534))
+- *vineyard* ([image source](https://www.pxfuel.com/en/free-photo-jepqq))
+- *wedding* ([image source](https://www.pexels.com/photo/woman-holding-white-calla-lily-flowers-on-sitting-beside-man-wearing-black-suit-265871/))
+
+I sincerely appreciate the contribution, thanks again Lukas !
