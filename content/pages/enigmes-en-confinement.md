@@ -11,6 +11,16 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 26 avril - Nonogram
+
+Si vous n'avez pas encore voté, nous sommes toujours interessés de savoir quelles sont vos énigmes favorites :)
+→ <https://framadate.org/IQI4nluhiY7ASvCK>
+
+<canvas id="challenge-2020-04-26" class="nonogram"
+        data-row="[[3],[1,3],[1],[6],[6],[1,6],[3,6,1],[3,1,2],[4,7,2],[4,7,3],[4,7,4],[5,7,3],[5,1,4],[6,7,4],[6,7,5],[7,7,5],[4,7,6],[1,7,1,1],[6,1,1],[1,1,4,1,10],[20],[18],[14],[12],[10]]"
+        data-column="[[3],[1,1,2],[3,4],[5,1,2],[9,5],[11,6],[11,6],[20],[5],[4,4,5,5],[4,4,5,5],[25],[1,4,4,5,5],[1,4,4,5,5],[1,4,4,5,5],[1,4,5,6],[1,2,5],[4,4],[10,3],[8,2],[7,1],[5,1],[3,1],[2,1],[1]]"></canvas>
+
+
 ## 25 avril - Brainbox
 
 <div id="challenge-2020-04-25" class="brainbox" data-img="images/enigmes/brainbox-04.jpg"
