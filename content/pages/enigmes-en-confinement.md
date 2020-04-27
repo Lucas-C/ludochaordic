@@ -11,6 +11,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 27 avril - Rébus Concept
+
+![](images/enigmes/enigme-concept-15.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-27" data-min-score="50" data-hash="d6c9177eecd1c21cd7cd7f2c08e7e5a869400287a02100f87a852b0e7465dcb1"></form>
+
+
 ## 26 avril - Nonogram
 
 Si vous n'avez pas encore voté, nous sommes toujours interessés de savoir quelles sont vos énigmes favorites :)
