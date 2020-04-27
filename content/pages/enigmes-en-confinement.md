@@ -11,6 +11,13 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+Pour les amateurs de jeux, voici un projet nous venons de lancer avec un ami :
+
+[![Bannière Mush Radio](images/2020/04/MushRadio.jpg)](https://fr.tipeee.com/mush-radio)
+
+_(cliquez sur la banière pour vous rendre sur la page Tipeee où tout est expliqué)_
+
+
 ## 27 avril - Rébus Concept
 
 ![](images/enigmes/enigme-concept-15.png)
