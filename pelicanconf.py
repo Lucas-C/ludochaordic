@@ -110,7 +110,7 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('github', 'https://github.com/Lucas-C'),
           ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
           ('travis-ci', 'https://travis-ci.org/Lucas-C'),
-          ('discord', 'https://discord.gg/zM2fBz'),
+          ('discord', 'https://discord.gg/BJeuEtX'),
           ('itchio', 'https://lucas-c.itch.io'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'))
 
