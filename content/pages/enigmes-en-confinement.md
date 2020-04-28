@@ -19,7 +19,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 ### Teste ta réponse :
 
-<form id="challenge-2020-04-28" data-hash=""></form>
+<form id="challenge-2020-04-28" data-hash="00ba397932c4a008a155f0213a3ade3925efad9e7a05c4b7decda1e02a84a6b9"></form>
 
 
 Pour les amateurs de jeux, voici un projet que nous venons de lancer avec un ami :
