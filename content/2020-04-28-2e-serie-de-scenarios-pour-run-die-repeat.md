@@ -180,6 +180,11 @@ ainsi qu'à ceux qui emploient la capacité à revenir dans le passé du harnais
 Cette fois, il faut également éliminer la reine alien leur permettant à eux de remonter dans le temps.
 Une fois découverte, elle tentera aux itérations suivantes de fuir en petit vaisseau pour se cacher sur la surface de la planète.
 
+---
+
+À nouveau, si vous lisez / testez ces scénarios, je serais ravis de savoir ce que vous en avez pensé !
+À la semaine prochaine 😉
+
 
 <style>
 .timer {
