@@ -11,7 +11,18 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
-Pour les amateurs de jeux, voici un projet nous venons de lancer avec un ami :
+## 28 avril - Énigmage
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage11-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-28" data-hash=""></form>
+
+
+Pour les amateurs de jeux, voici un projet que nous venons de lancer avec un ami :
 
 [![Bannière Mush Radio](images/2020/04/MushRadio.jpg)](https://fr.tipeee.com/mush-radio)
 
