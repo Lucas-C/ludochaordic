@@ -30,6 +30,28 @@ je souhaite surtout évoquer mon expérience récente avec 2 outils bien utiles 
 voici une petite application web que j'ai bricolé, pratique pour partager des jets entre participants :
 [rpg-dice](https://chezsoi.org/lucas/jdr/rpg-dice)
 
+Autre outil bien pratique : un décompte de temps en ligne pouvant être partagé entre tous les joueurs.Lors de mes parties, j'ai employé [webcountdown.net](https://www.webcountdown.net),
+avec [un petit script Python](https://github.com/Lucas-C/jdr/blob/master/RunDieRepeat/webcountdown.py)
+pour générer un lien très rapidement (mentionnez en commentaire si une version web vous intéresserait).
+
+Enfin, voici une petite checklist à passer en revue en début de partie :
+
+1. Tour de table pour que tout le monde se présente brièvement.
+En profiter pour lister les noms des joueurs sur papier,
+afin de tracer des bâtons en face d'eux durant la partie afin de suivre l'ordre du tour de jeu.
+2. Expliquer le déroulement de la session
+3. Mentionner l'origine du jeu & les règles, en précisant qu'il est prévu pour de l'impro,
+mais qu'il s'agit là d'un scénario, ainsi éventuellement que la durée de partie étendue.
+Bien expliquer que les actions échoueront / réussiront toujours de la même manière dans les itérations suivantes.
+> Le jeu fonctionne comme un jeu vidéo "die & retry", mais au lieu de faire preuve de dextérité,
+> il va vous falloir faire preuve de beaucoup d'imagination, pour tenter à chaque fois une nouvelle approche !
+4. En cas de règles spéciales au scenario que les joueurs doivent connaître, les mentionner.
+Dire aussi qu'il est toujours possible de passer son tour en cas de manque d'inspiration,
+mais que dans le doute, il est toujours plus amusant de tenter quelque chose !
+5. Expliquer le fonctionnement avec rpg-dice / DiceParser (syntaxe `!1d6`) & webcountdown
+6. Tout le monde a bien compris / des questions ?
+Partagez le lien webcountdown et c'est parti !
+
 ---
 <img class="timer" alt="Chronomètre de 30min" src="images/jdr/rdr/timer-30.svg">
 
