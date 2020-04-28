@@ -192,3 +192,6 @@ Une fois découverte, elle tentera aux itérations suivantes de fuir en petit va
   float: right;
 }
 </style>
+<script>
+document.querySelectorAll('article img').forEach(img => img.title = img.alt)
+</script>
