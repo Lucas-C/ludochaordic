@@ -6,7 +6,7 @@ Slug: lancement-d-un-tipeee-pour-mush-radio
 
 Aujourd’hui je suis très fier de vous annoncer un projet sur lequel nous travaillons depuis quelques semaines avec un ami :
 
-![Bannière Mush Radio](images/2020/04/MushRadio.jpg)
+[![Bannière Mush Radio](images/2020/04/MushRadio.jpg)](https://fr.tipeee.com/mush-radio)
 
 > Bip. Bip-bip-bip. Biiiiiip.
 
