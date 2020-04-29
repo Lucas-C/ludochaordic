@@ -382,7 +382,7 @@ function setChallengePlayed(challengeId) {
   storeJSONasCookie(jsonCookie);
 }
 function getCookieAsJSON() {
-  const matchingCookie = document.cookie.split(';').find(cookieStr => cookieStr.startsWith('enigmesEnConfinement='));
+  const matchingCookie = document.cookie.split(';').map(c => c.trim()).find(cookieStr => cookieStr.startsWith('enigmesEnConfinement='));
   return matchingCookie ? JSON.parse(matchingCookie.split('=', 2)[1]) : {challengesPlayed: []};
 }
 function storeJSONasCookie(data) {
@@ -576,7 +576,7 @@ function slugify(s) {
   s = s.replace(/^la?-/g, '').replace(/^les?-/g, '')
   s = s.replace(/-c-ur/g, '-coeur').replace(/^basilique-d?u?-?/g, '').replace(/-?a?d?e?-montmartre/g, '') // enigmage du 23 avril
   s = s.replace(/-du?-/g, '-').replace(/-st-/g, '-saint-')
-  s = s.replace(/-de-chine$/g, '').replace(/s$/g, '')
+  s = s.replace(/-de-bergerac$/g, '').replace(/-de-chine$/g, '').replace(/s$/g, '')
   s = s.replace(/verte/g, '').replace(/vert/g, '') // brainbox du 21 avril, sur réclamation ^^
   s = s.replace(/^commandant-/g, '').replace(/^oncle-/g, '').replace(/^jacques-/g, '').replace(/^yves-/g, '').replace(/^velo-/g, '')
   Object.keys(DIGITS_TO_STRINGS).forEach(d => {

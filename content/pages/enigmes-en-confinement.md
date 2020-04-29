@@ -11,6 +11,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 29 avril - Rébus Concept
+
+![](images/enigmes/enigme-concept-16.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-04-29" data-min-score="50" data-hash="d782fbdb1c4cc093df74c833b8ac7baeba7c01369c7309c21ae0bb6947d73ca2"></form>
+
+
 ## 28 avril - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
