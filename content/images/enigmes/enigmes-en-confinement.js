@@ -6,7 +6,7 @@ const DIGITS_TO_STRINGS = {
   '0': 'zéro',
   '1': 'un',
   '2': 'deux',
-  '3': 'trois',
+  '3': 'troi', // no ending S
   '4': 'quatre',
   '5': 'cinq',
   '6': 'six',
@@ -374,16 +374,17 @@ function isCanvasBlank(canvas) { // Source: https://stackoverflow.com/a/17386803
   return !pixelBuffer.some(color => color !== 0);
 }
 function hasChallengeBeenPlayed(challengeId) {
-  return getCookieAsJSON().challengesPlayed.includes(challengeId);
+  return (getCookieAsJSON().challengesPlayed || []).includes(challengeId);
 }
 function setChallengePlayed(challengeId) {
   const jsonCookie = getCookieAsJSON();
+  if (!jsonCookie.challengesPlayed) jsonCookie.challengesPlayed = [];
   jsonCookie.challengesPlayed.push(challengeId);
   storeJSONasCookie(jsonCookie);
 }
 function getCookieAsJSON() {
   const matchingCookie = document.cookie.split(';').map(c => c.trim()).find(cookieStr => cookieStr.startsWith('enigmesEnConfinement='));
-  return matchingCookie ? JSON.parse(matchingCookie.split('=', 2)[1]) : {challengesPlayed: []};
+  return matchingCookie ? JSON.parse(matchingCookie.split('=', 2)[1]) : {};
 }
 function storeJSONasCookie(data) {
   document.cookie = 'enigmesEnConfinement=' + JSON.stringify(data);

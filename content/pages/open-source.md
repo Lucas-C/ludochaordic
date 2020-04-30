@@ -1,5 +1,5 @@
 Title: Open-Source
-Tags: lang:en, open-source, cygwin, pre-commit, shaarli, luigi
+Tags: lang:en, cygwin, hesperides, isso, jenkins, luigi, open-source, pre-commit, python, pelican, shaarli
 ---
 
 ## Pet projects, musings
@@ -16,7 +16,7 @@ with a companion [brain_dump](https://github.com/Lucas-C/brain_dump) repo contai
 - [nose-summary-report](https://pypi.org/project/nose-summary-report/) : nose plugin that generates a final summary of tests status as a table
 - [unicode-search](https://github.com/Lucas-C/unicode-search) : a NodeJS CLI program to search unicode characters by name
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) : a simple HTML+JS memory game, forked from Mark Rolich repo to add support for images
-- [ecovoit](https://github.com/Lucas-C/ecovoit) : a web search engine for French carpooling offers
+- [ecovoit](https://github.com/Lucas-C/ecovoit) : a web search engine for French carpooling offers _(deprecated)_
 
 
 ## Contributions
@@ -30,24 +30,13 @@ Python command line manager for `git` pre-commit hooks
     * created [several hooks](https://github.com/Lucas-C?tab=repositories&q=pre-commit-hooks&type=source)
     * also made some bug fixes, improved support for Cygwin and added support for locally defined hooks
 
-- [<img alt="Logo Shaarli" src="images/open-source/shaarli-logo.png" style="max-width: 6rem">](https://github.com/shaarli/Shaarli) :
+- [<img alt="Logo Shaarli" src="images/open-source/shaarli-logo.png" style="max-width: 6rem"> shaarli](https://github.com/shaarli/Shaarli) :
 personal, minimalist, bookmarking service, in PHP
     * improved the search form ergonomy
     * added the ability to display subtags in the tag cloud
     * some bug fixes
 
-- [<img alt="Logo luigi" src="images/open-source/luigi-logo.png" style="max-width: 6rem">](https://github.com/spotify/luigi) :
-a Python module to build batch pipelines, it handles dependency resolution, workflow management, visualization, etc.
-    * added a new parameter type: `DateSecondParameter`
-    * some bug fixes and exception messages improvements
-
-- [pew](https://github.com/berdario/pew) : simplify Python virtual environments management, let use them in dedicated shell session
-    * added support for [cmder](http://cmder.net) & Cygwin
-
-- [MinigalNano](https://github.com/sebsauvage/MinigalNano) : a simple PHP image gallery
-    * made a bunch of bug fixes, including the RSS feed
-
-- <img alt="Logo Pelican" src="images/open-source/pelican-logo.png" style="max-width: 6rem"> [Pelican](https://getpelican.com/) : a static site generator in Python
+- [<img alt="Logo Pelican" src="images/open-source/pelican-logo.png" style="max-width: 6rem"> Pelican](https://getpelican.com/) : a static site generator in Python
     * created [a plugin to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
     * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
@@ -56,11 +45,24 @@ a Python module to build batch pipelines, it handles dependency resolution, work
     * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
     * created [a plugin to send LinkBacks](https://github.com/pelican-plugins/linkbacks/)
 
-- <img alt="Logo isso" src="images/open-source/isso-logo.svg" style="max-width: 6rem"> [isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
+- [<img alt="Logo isso" src="images/open-source/isso-logo.svg" style="max-width: 6rem"> isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
 
 - [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
 
-- [COVID-19 Le jeu](https://github.com/covid19lejeu/covid-19-le-jeu) : I initialized the repo, build tools & JS code for the web version of this educational _print & play_ board game under a creative-commons license
+- [<img alt="Logo luigi" src="images/open-source/luigi-logo.png" style="max-width: 6rem">](https://github.com/spotify/luigi) :
+a Python module to build batch pipelines, it handles dependency resolution, workflow management, visualization, etc.
+    * added a new parameter type: `DateSecondParameter`
+    * some bug fixes and exception messages improvements
+
+- [Nonogram](https://github.com/Lucas-C/Nonogram) : added some features to this great picross / hanjie / logimage game / solver / editor in Javascript
+
+- [pew](https://github.com/berdario/pew) : simplify Python virtual environments management, let use them in dedicated shell session
+    * added support for [cmder](http://cmder.net) & Cygwin
+
+- [MinigalNano](https://github.com/sebsauvage/MinigalNano) : a simple PHP image gallery
+    * made a bunch of bug fixes, including the RSS feed
+
+- [COVID-19 Le jeu](https://github.com/covid19lejeu/covid-19-le-jeu) : initialization of the repo, build tools & JS code for the web version of this educational _print & play_ board game, under a creative-commons license
 
 I also made some maps for a Ludum Dare game, back in 2009 (the game is worth trying !):
 <http://eriatic.wikidot.com/blog:triumph-mappack>
