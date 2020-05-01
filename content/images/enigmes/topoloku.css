@@ -6,7 +6,7 @@ table.topoloku {
   border-spacing: 0;
   border-collapse: collapse;
   border-style: hidden; /* remove table borders */
-  font-family: "Lucida Console", monospace;
+  font-family: Helvetica;
   position: relative;
 }
 table.topoloku td, table.topoloku th {
@@ -21,6 +21,7 @@ table.topoloku td, table.topoloku th {
 }
 table.topoloku td.given { background-color: lightgrey; background-clip: padding-box; }
 table.topoloku td.clickable { cursor: pointer; }
+table.topoloku td.highlight { background-color: lightgreen; background-clip: padding-box; }
 table.topoloku.success::after {
   content: '✔️';
   font-size: 4rem;

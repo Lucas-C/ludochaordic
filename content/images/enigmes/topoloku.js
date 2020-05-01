@@ -20,6 +20,7 @@ const LETTERS_TOPO = {
     'F': {loops: 0, ends: 3},
     'G': {loops: 0, ends: 2},
     'K': {loops: 0, ends: 4},
+    'I': {loops: 0, ends: 2}, // font matters a lot
     'L': {loops: 0, ends: 2},
     'M': {loops: 0, ends: 2},
     'N': {loops: 0, ends: 2},
@@ -33,7 +34,7 @@ const LETTERS_TOPO = {
     'X': {loops: 0, ends: 4},
     'Y': {loops: 0, ends: 3},
     'Z': {loops: 0, ends: 2},
-    // I, J & Q skipped because font matter too much
+    // J & Q skipped because font matter too much
 };
 
 Array.from(document.getElementsByClassName('topoloku')).forEach((table) => {
@@ -56,9 +57,11 @@ Array.from(document.getElementsByClassName('topoloku')).forEach((table) => {
                     if (gridToString(gridFromTable(table)) === solution) {
                         table.classList.add('success');
                         if (secretWordPos) {
-                            // TODO
+                            highlightSecretWord(table, secretWordPos);
                         }
-                        if (onSuccess) (function () { eval(onSuccess); }).call(table);
+                        if (onSuccess) {
+                            (function () { eval(onSuccess); }).call(table);
+                        }
                     }
                 }
             }
@@ -76,7 +79,7 @@ Array.from(document.getElementsByClassName('topoloku')).forEach((table) => {
     for (let letter of missingLetters) {
         allUniqueLetters.add(letter);
     }
-    allUniqueLetters = Array.from(allUniqueLetters);
+    allUniqueLetters = Array.from(allUniqueLetters).sort();
     const solution = gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
 });
 
@@ -92,6 +95,12 @@ function gridFromTable(table) {
         });
     });
     return grid;
+}
+function highlightSecretWord(table, secretWordPos) {
+    const trs = Array.from(table.getElementsByTagName('tr'));
+    secretWordPos.forEach(([i, j]) => {
+        trs[j].children[i].classList.add('highlight');
+    });
 }
 
 function solveTopoloku(width, height, initialLetters, allUniqueLetters) {
@@ -121,7 +130,7 @@ function * getEmptyCellPos(grid) {
 }
 function * recurAddLetter(grid, letters, emptyCellsPos) { // Brute-force approach
     if (!emptyCellsPos.length) {
-        if (isEndsConstraintSatisfied(grid)) {
+        if (isEndsConstraintSatisfied(grid, letters)) {
             yield deepCopy(grid);
         }
         return;
@@ -136,14 +145,16 @@ function * recurAddLetter(grid, letters, emptyCellsPos) { // Brute-force approac
         }
     }
 }
-function isEndsConstraintSatisfied(grid) {
+function isEndsConstraintSatisfied(grid, requiredLetters) {
+    const gridLetters = new Set();
     for (let group of groupByContiguousLetters(grid)) {
         const {letter, size} = group;
         if ((LETTERS_TOPO[letter].ends || 1) !== size) {
             return false;
         }
+        gridLetters.add(letter);
     }
-    return true;
+    return gridLetters.size === requiredLetters.length;
 }
 function groupByContiguousLetters(grid) {
     const groupByPos = {};

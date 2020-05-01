@@ -44,7 +44,7 @@ function updateScoreBoardTable() {
         const dailyScore = highScore.scores[challengeId];
         const shortDate = challengeId.split('-2020-')[1].replace('-', '/');
         let medal = '🥉';
-        if (dailyScore === 100) {
+        if (dailyScore >= 100) {
           medal = '🥇';
         } else if (dailyScore > 50) {
           medal = '🥈';
@@ -496,6 +496,9 @@ document.querySelectorAll('.nonogram').forEach(div => {
       theme: {width: 800},
       onSuccess: () => {
         window.submittedAnswer.challengeId = div.id;
+        if (div.dataset.score) {
+          submittedAnswer.score = Number(div.dataset.score);
+        }
         displayScoreFormIfActive(insertScoreFormAfter(div), div.id);
       }
     }
@@ -507,7 +510,9 @@ function submitConceptAnswer() {
   const answer = form.querySelector('input[type="text"]').value;
   const correctAnswerDiv = form.querySelector('.answer-correct');
   const wrongAnswerDiv = form.querySelector('.answer-wrong');
-  window.submittedAnswer.minScore = +(form.dataset.minScore || '0');
+  if (form.dataset.minScore) {
+    window.submittedAnswer.minScore = Number(form.dataset.minScore);
+  }
   window.submittedAnswer.challengeId = form.id;
   correctAnswerDiv.style.display = 'none';
   const scoreForm = form.nextElementSibling;
@@ -566,9 +571,10 @@ function submitPlayerScore(form) {
 }
 function playerScore() {
   const submittedAnswer = window.submittedAnswer;
-  const challengeId = window.submittedAnswer.challengeId;
+  const challengeId = submittedAnswer.challengeId;
+  const maxScore = submittedAnswer.score || 100;
   const malus = window.malusPerChallenge[challengeId] || 0;
-  return Math.max(submittedAnswer.minScore || 0, 100 - malus);
+  return Math.max(submittedAnswer.minScore || 0, maxScore - malus);
 }
 function slugify(s) {
   s = String(s).trim().toLowerCase()
