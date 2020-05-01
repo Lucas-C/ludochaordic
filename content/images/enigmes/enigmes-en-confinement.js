@@ -127,7 +127,7 @@ document.querySelectorAll('.enigmage').forEach(img => {
       window.submittedAnswer.challengeId = challengeId;
       window.malusPerChallenge[challengeId] = 0;
       const scoreForm = form.nextElementSibling;
-      scoreForm.style.display = 'block';
+      displayScoreFormIfActive(form.nextElementSibling, challengeId);
       img.onclick = () => {};
     } else {
       window.malusPerChallenge[challengeId] = (window.malusPerChallenge[challengeId] || 0) + 20;
@@ -485,7 +485,7 @@ function submitBrainBoxAnswers(questionsForm) {
     window.malusPerChallenge[brainbox.id] = 25;
   } // Pas de malus si 100% correct
   window.submittedAnswer.challengeId = brainbox.id;
-  insertScoreFormAfter(brainboxAnswers).style.display = 'block';
+  displayScoreFormIfActive(insertScoreFormAfter(brainboxAnswers), brainbox.id);
   return false;
 }
 
@@ -496,7 +496,7 @@ document.querySelectorAll('.nonogram').forEach(div => {
       theme: {width: 800},
       onSuccess: () => {
         window.submittedAnswer.challengeId = div.id;
-        insertScoreFormAfter(div).style.display = 'block';
+        displayScoreFormIfActive(insertScoreFormAfter(div), div.id);
       }
     }
   );
@@ -517,7 +517,7 @@ function submitConceptAnswer() {
     if (form.dataset.hash && hash === form.dataset.hash) {
       setTimeout(() => {
         correctAnswerDiv.style.display = 'block';
-        scoreForm.style.display = 'block';
+        displayScoreFormIfActive(scoreForm, form.id);
       }, 500);
     } else {
       window.malusPerChallenge[form.id] = (window.malusPerChallenge[form.id] || 0) + 10;
@@ -525,6 +525,11 @@ function submitConceptAnswer() {
     }
   });
   return false;
+}
+function displayScoreFormIfActive(scoreForm, challengeId) {
+  if (!challengeId.startsWith('challenge-2020-03-')) { // Scores désactivés avant avril
+    scoreForm.style.display = 'block';
+  }
 }
 function submitPlayerScore(form) {
   const playerName = form.querySelector('input[type="text"]').value.trim();

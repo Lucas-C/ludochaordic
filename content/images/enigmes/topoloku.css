@@ -1,12 +1,13 @@
 table.topoloku {
-  --cell-size: 2.5rem;
-  --font-size: 2rem;
+  --cell-size: 4rem;
+  --font-size: 3rem;
 }
 table.topoloku {
   border-spacing: 0;
   border-collapse: collapse;
   border-style: hidden; /* remove table borders */
   font-family: "Lucida Console", monospace;
+  position: relative;
 }
 table.topoloku td, table.topoloku th {
   padding: 0;
@@ -16,16 +17,18 @@ table.topoloku td, table.topoloku th {
   height: var(--cell-size);
   font-size: var(--font-size);
   text-align: center;
+  position: relative; /* for <em> positioning on original article */
 }
 table.topoloku td.given { background-color: lightgrey; background-clip: padding-box; }
-table.topoloku input {
-  font-size: var(--font-size);
-  width: var(--cell-size);
-  text-align: center;
-  border: none;
-  text-transform: uppercase;
+table.topoloku td.clickable { cursor: pointer; }
+table.topoloku.success::after {
+  content: '✔️';
+  font-size: 4rem;
+  position: absolute;
+  right: -8rem;
 }
-.missing-letters {
+.topoloku-missing-letters {
   color: green;
-  padding: 1rem;
+  font-size: 1.5rem;
+  padding: 1.5rem;
 }

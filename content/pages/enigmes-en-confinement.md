@@ -11,6 +11,13 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 1er mai - Nonogram
+
+<canvas id="challenge-2020-05-01" class="nonogram"
+        data-row="[[1,1,1,1,2],[2,2,2],[3,3,1,1,2],[3,3,2],[3,2,4,3],[2,3,3,2,2],[1,2,2,3],[2,1,1,1,3],[1,2,1,1,3],[3,3,1,3,3],[1,4,4,1,4,3],[1,3,3,1,3,3],[2,1,1,1,1,2,4],[2,2,5],[3,3,1,2,3],[5,4,1,3,2],[6,3,4,3],[2,4,1,1,5,3],[3,3,8],[3,4,4,3],[3,5,4,3],[4,4,4,4],[3,4,3,4],[4,3,8],[5,2,7],[5,9],[5,7],[10],[5]]"
+        data-column="[[3,12],[1,1,2,2,12],[2,1,3,3,8],[3,1,4,3,6],[1,1,1,3,6,5],[1,2,1,1,6,4],[1,3,6,4],[3,1,1,1,5,3],[2,2,3,1,1,6,2],[1,1,1,4,3,7],[2,3,4,4],[2,3,3,9],[4,6,11],[3,16],[1,1,1,3,6,4],[2,4,5,5],[2,3,5,5],[3,1,1,3,7],[5,2,8],[18],[12],[7]]"></canvas>
+
+
 ## 30 avril - Brainbox
 
 <div id="challenge-2020-04-30" class="brainbox" data-img="images/enigmes/brainbox-05.jpg"
@@ -396,7 +403,7 @@ Qui suis-je ?
 
 ### Teste ta réponse :
 
-<form id="challenge-2020-03-25" data-min-score="50" data-hash="8aaddb5664c898b76931eaf49db48aed6186ffefbd9138c8cce479140d86c762"></form>
+<form id="challenge-2020-03-25" data-min-score="50" data-hash="943d53cb9c73c690fe22eddd6f76fc72f929593cd528d9ffc7132276c580b8cb"></form>
 
 
 ## 24 mars - Rébus Concept
