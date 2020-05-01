@@ -16,19 +16,18 @@ N'hésitez pas à laisser un commentaire si elles manquent de clarté !
 
 Cliquez ensuite sur les cases de la grille pour la remplir.
 
-<table class="topoloku" data-size="[5, 5]"
-       data-initial-letters='{"2,0": "#", "2,1": "✱", "2,2": "E", "3,1": "E", "2,4": "#"}'
-       data-solution="######✱✱E##✱EE##✱✱✱######"
+<table class="topoloku" data-size="[5, 4]"
+       data-initial-letters='{"0,3": "✱", "1,3": "H", "2,0": "#", "3,3": "A"}'
+       data-solution="######✱✱✱#✱✱HH#✱HHAA"
        data-on-success="window.onSuccess(this)"></table>
-
 
 ---
 
 **LABO**: ci-dessous d'autres Topolokus que je suis en train de construire / tester
 
-<table class="topoloku" data-size="[4, 3]"
-       data-initial-letters='{"0,0": "H", "1,0": "H"}'
-       data-missing-letters="#"></table>
+<table class="topoloku" data-size="[5, 5]"
+       data-initial-letters='{"2,0": "#", "2,1": "✱", "2,2": "E", "3,1": "E", "2,4": "#"}'
+       data-solution="######✱✱E##✱EE##✱✱✱######"></table>
 
 <br><br>
 

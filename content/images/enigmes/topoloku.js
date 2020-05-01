@@ -18,7 +18,7 @@ function renderTopoloku(table) {
                 td.classList.add('clickable');
                 td.onclick = function onTdClick() {
                     this.textContent = allUniqueLetters[allUniqueLetters.indexOf(this.textContent) + 1] || '';
-                    console.log(gridToString(gridFromTable(table)), solution);
+                    console.log(gridToString(gridFromTable(table)));
                     if (gridToString(gridFromTable(table)) === solution) {
                         table.classList.add('success');
                         if (secretWordPos) {
@@ -45,6 +45,8 @@ function renderTopoloku(table) {
         allUniqueLetters.add(letter);
     }
     allUniqueLetters = Array.from(allUniqueLetters).sort();
+    // Le solver n'est pour le moment pas capable de résoudre toutes les grilles,
+    // il est donc possible de fournir la solution directement, en espérant qu'elle soit bien unique...
     const solution = table.dataset.solution ? lineFormatGrid(table.dataset.solution, width) : gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
 }
 
@@ -90,27 +92,27 @@ const LETTERS_TOPO = {
     'B': {loops: 2, ends: 0},
     '%': {loops: 2, ends: 2},
     // Isomorphes :
-    '&': {loops: 2, ends: 2},
-    'D': {loops: 1, ends: 0},
-    'F': {loops: 0, ends: 3},
-    'G': {loops: 0, ends: 2},
-    'K': {loops: 0, ends: 4},
-    'I': {loops: 0, ends: 2}, // font matters a lot (Helvetica)
-    'J': {loops: 0, ends: 2}, // font matters a lot (Helvetica)
-    'L': {loops: 0, ends: 2},
-    'M': {loops: 0, ends: 2},
-    'N': {loops: 0, ends: 2},
-    'P': {loops: 1, ends: 1}, // only character to have 1 end, but equivalent to D in terms of gameplay
-    'Q': {loops: 1, ends: 2}, // font matters a lot (Helvetica)
-    'R': {loops: 1, ends: 2},
-    'S': {loops: 0, ends: 2},
-    'T': {loops: 0, ends: 3},
-    'U': {loops: 0, ends: 2},
-    'V': {loops: 0, ends: 2},
-    'W': {loops: 0, ends: 2},
-    'X': {loops: 0, ends: 4},
-    'Y': {loops: 0, ends: 3},
-    'Z': {loops: 0, ends: 2},
+    'D': {loops: 1, ends: 0}, // like O
+    'F': {loops: 0, ends: 3}, // like E
+    'G': {loops: 0, ends: 2}, // like C
+    'K': {loops: 0, ends: 4}, // like H
+    'I': {loops: 0, ends: 2}, // like C, font matters a lot (Helvetica)
+    'J': {loops: 0, ends: 2}, // like C, font matters a lot (Helvetica)
+    'L': {loops: 0, ends: 2}, // like C
+    'M': {loops: 0, ends: 2}, // like C
+    'N': {loops: 0, ends: 2}, // like C
+    'P': {loops: 1, ends: 1}, // like O, only character to have 1 end
+    'Q': {loops: 1, ends: 2}, // like A, font matters a lot (Helvetica)
+    'R': {loops: 1, ends: 2}, // like A
+    'S': {loops: 0, ends: 2}, // like C
+    'T': {loops: 0, ends: 3}, // like E
+    'U': {loops: 0, ends: 2}, // like C
+    'V': {loops: 0, ends: 2}, // like C
+    'W': {loops: 0, ends: 2}, // like C
+    'X': {loops: 0, ends: 4}, // like H
+    'Y': {loops: 0, ends: 3}, // like E
+    'Z': {loops: 0, ends: 2}, // like C
+    '&': {loops: 2, ends: 2}, // like %
 };
 function solveTopoloku(width, height, initialLetters, allUniqueLetters) {
     const grid = [ ...Array(width) ].map(() => [ ...Array(height) ]);
