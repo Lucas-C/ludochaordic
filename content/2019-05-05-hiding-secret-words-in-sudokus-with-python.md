@@ -1,6 +1,6 @@
 Title: Hiding secret words in Sudokus with Python
 Date: 2019-05-05 15:30
-Tags: lang:en, puzzle, sudoku, python, numpy, numba, algorithm, open-source, maths, prog, jeux
+Tags: lang:en, logic-puzzle, sudoku, python, numpy, numba, algorithm, open-source, maths, prog, jeux
 Slug: hiding-secret-words-in-sudokus-with-python
 ---
 

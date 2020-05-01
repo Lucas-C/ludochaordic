@@ -1,43 +1,7 @@
-(function() {
-
-const LETTERS_TOPO = {
-    'C': {loops: 0, ends: 2},
-    'E': {loops: 0, ends: 3},
-    'H': {loops: 0, ends: 4},
-    '🞯': {loops: 0, ends: 5},
-    '✱': {loops: 0, ends: 6},
-    'O': {loops: 1, ends: 0},
-    'A': {loops: 1, ends: 2},
-    '♀': {loops: 1, ends: 3},
-    '⦻': {loops: 1, ends: 4},
-    '☆': {loops: 1, ends: 5},
-    '#': {loops: 1, ends: 8},
-    'B': {loops: 2, ends: 0},
-    '%': {loops: 2, ends: 2},
-    // Isomorphes :
-    '&': {loops: 2, ends: 2},
-    'D': {loops: 1, ends: 0},
-    'F': {loops: 0, ends: 3},
-    'G': {loops: 0, ends: 2},
-    'K': {loops: 0, ends: 4},
-    'I': {loops: 0, ends: 2}, // font matters a lot
-    'L': {loops: 0, ends: 2},
-    'M': {loops: 0, ends: 2},
-    'N': {loops: 0, ends: 2},
-    'P': {loops: 1, ends: 1}, // only character to have 1 end, but equivalent to D in terms of gameplay
-    'R': {loops: 1, ends: 2},
-    'S': {loops: 0, ends: 2},
-    'T': {loops: 0, ends: 3},
-    'U': {loops: 0, ends: 2},
-    'V': {loops: 0, ends: 2},
-    'W': {loops: 0, ends: 2},
-    'X': {loops: 0, ends: 4},
-    'Y': {loops: 0, ends: 3},
-    'Z': {loops: 0, ends: 2},
-    // J & Q skipped because font matter too much
-};
-
-Array.from(document.getElementsByClassName('topoloku')).forEach((table) => {
+/****************************************************************************
+ * DOM rendering
+ ****************************************************************************/
+function renderTopoloku(table) {
     const [width, height] = JSON.parse(table.dataset.size);
     const initialLetters = JSON.parse(table.dataset.initialLetters || '{}');
     const missingLetters = (table.dataset.missingLetters || '').split('');
@@ -54,6 +18,7 @@ Array.from(document.getElementsByClassName('topoloku')).forEach((table) => {
                 td.classList.add('clickable');
                 td.onclick = function onTdClick() {
                     this.textContent = allUniqueLetters[allUniqueLetters.indexOf(this.textContent) + 1] || '';
+                    console.log(gridToString(gridFromTable(table)), solution);
                     if (gridToString(gridFromTable(table)) === solution) {
                         table.classList.add('success');
                         if (secretWordPos) {
@@ -80,8 +45,8 @@ Array.from(document.getElementsByClassName('topoloku')).forEach((table) => {
         allUniqueLetters.add(letter);
     }
     allUniqueLetters = Array.from(allUniqueLetters).sort();
-    const solution = gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
-});
+    const solution = table.dataset.solution ? lineFormatGrid(table.dataset.solution, width) : gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
+}
 
 function gridFromTable(table) {
     let grid = null;
@@ -96,6 +61,9 @@ function gridFromTable(table) {
     });
     return grid;
 }
+function lineFormatGrid(str, width) {
+    return str.trim().match(new RegExp(`.{1,${width}}`, 'g')).join('\n');
+}
 function highlightSecretWord(table, secretWordPos) {
     const trs = Array.from(table.getElementsByTagName('tr'));
     secretWordPos.forEach(([i, j]) => {
@@ -103,6 +71,47 @@ function highlightSecretWord(table, secretWordPos) {
     });
 }
 
+
+/****************************************************************************
+ * Portable Ecmascript
+ ****************************************************************************/
+const LETTERS_TOPO = {
+    'C': {loops: 0, ends: 2},
+    'E': {loops: 0, ends: 3},
+    'H': {loops: 0, ends: 4},
+    '🞯': {loops: 0, ends: 5},
+    '✱': {loops: 0, ends: 6},
+    'O': {loops: 1, ends: 0},
+    'A': {loops: 1, ends: 2},
+    '♀': {loops: 1, ends: 3},
+    '⦷': {loops: 1, ends: 4},
+    '☆': {loops: 1, ends: 5},
+    '#': {loops: 1, ends: 8},
+    'B': {loops: 2, ends: 0},
+    '%': {loops: 2, ends: 2},
+    // Isomorphes :
+    '&': {loops: 2, ends: 2},
+    'D': {loops: 1, ends: 0},
+    'F': {loops: 0, ends: 3},
+    'G': {loops: 0, ends: 2},
+    'K': {loops: 0, ends: 4},
+    'I': {loops: 0, ends: 2}, // font matters a lot (Helvetica)
+    'J': {loops: 0, ends: 2}, // font matters a lot (Helvetica)
+    'L': {loops: 0, ends: 2},
+    'M': {loops: 0, ends: 2},
+    'N': {loops: 0, ends: 2},
+    'P': {loops: 1, ends: 1}, // only character to have 1 end, but equivalent to D in terms of gameplay
+    'Q': {loops: 1, ends: 2}, // font matters a lot (Helvetica)
+    'R': {loops: 1, ends: 2},
+    'S': {loops: 0, ends: 2},
+    'T': {loops: 0, ends: 3},
+    'U': {loops: 0, ends: 2},
+    'V': {loops: 0, ends: 2},
+    'W': {loops: 0, ends: 2},
+    'X': {loops: 0, ends: 4},
+    'Y': {loops: 0, ends: 3},
+    'Z': {loops: 0, ends: 2},
+};
 function solveTopoloku(width, height, initialLetters, allUniqueLetters) {
     const grid = [ ...Array(width) ].map(() => [ ...Array(height) ]);
     Object.keys(initialLetters).forEach(posStr => {
@@ -199,8 +208,18 @@ function gridToString(grid) {
     }
     return rows.join('\n');
 }
-function deepCopy(grid) {
-  return JSON.parse(JSON.stringify(grid));
+function gridFromString(str) { // Non testé
+    const rows = str.trim().split('\n').map(row => row.trim());
+    return [ ...Array(rows[0].length).keys() ].map(i => {
+        return [ ...Array(rows.length).keys() ].map(j => rows[j].charAt(i));
+    });
 }
+function deepCopy(grid) { return JSON.parse(JSON.stringify(grid)); }
 
-})();
+
+/****************************************************************************
+ * Main entrypoint
+ ****************************************************************************/
+if (typeof document !== 'undefined') { // == le code est exécuté dans un navigateur
+    Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopoloku);
+}
