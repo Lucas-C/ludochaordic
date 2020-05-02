@@ -468,4 +468,9 @@ Qui suis-je ?
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="https://lucas-c.github.io/Nonogram/nonogram.min.js"></script>
-<script type="module" src="images/enigmes/enigmes-en-confinement.js"></script>
+<script src="images/enigmes/enigmes-en-confinement.js"></script>
+<script type="module">
+import { renderTopolokuUsingDataAttrs } from './images/enigmes/topoloku.js';
+window.onTopolokuSuccess = (table) => displayScoreFormIfActive(insertScoreFormAfter(table), table.id);
+Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopolokuUsingDataAttrs);
+</script>
