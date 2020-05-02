@@ -471,6 +471,9 @@ Qui suis-je ?
 <script src="images/enigmes/enigmes-en-confinement.js"></script>
 <script type="module">
 import { renderTopolokuUsingDataAttrs } from './images/enigmes/topoloku.js';
-window.onTopolokuSuccess = (table) => displayScoreFormIfActive(insertScoreFormAfter(table), table.id);
+window.onTopolokuSuccess = (table) => {
+  window.submittedAnswer.challengeId = table.id;
+  displayScoreFormIfActive(insertScoreFormAfter(table), table.id);
+};
 Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopolokuUsingDataAttrs);
 </script>
