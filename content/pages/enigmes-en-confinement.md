@@ -27,7 +27,7 @@ Cliquez sur les cases de la grille pour la remplir :
 <table id="challenge-2020-05-02" class="topoloku" data-size="[5, 4]"
        data-initial-letters='{"0,3": "✱", "1,3": "H", "2,0": "#", "3,3": "A"}'
        data-solution="######✱✱✱#✱✱HH#✱HHAA"
-       data-on-success="onTopolokuSuccess(this)"></table>
+       data-on-success="onTopolokuSuccess"></table>
 
 
 ## 1er mai - Rébus & nonogram

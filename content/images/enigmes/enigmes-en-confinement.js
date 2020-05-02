@@ -506,8 +506,8 @@ document.querySelectorAll('.nonogram').forEach(div => {
     }
   );
 });
-Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopolokuUsingDataAttrs);
 window.onTopolokuSuccess = (table) => displayScoreFormIfActive(insertScoreFormAfter(table), table.id)
+Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopolokuUsingDataAttrs);
 
 function submitConceptAnswer() {
   const form = this;

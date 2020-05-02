@@ -8,7 +8,7 @@ export function renderTopolokuUsingDataAttrs(table) {
         initialLetters: JSON.parse(table.dataset.initialLetters || '{}'),
         missingLetters: (table.dataset.missingLetters || '').split(''),
         secretWordPos: table.dataset.secretWordPos && JSON.parse(table.dataset.secretWordPos),
-        onSuccess: (function () { eval(table.dataset.onSuccess); }),
+        onSuccess: () => window[table.dataset.onSuccess](table),
         solution: table.dataset.solution && lineFormatGrid(table.dataset.solution, size[0]),
     });
 }
@@ -43,7 +43,7 @@ export function renderTopoloku(table, options) {
                             highlightSecretWord(table, secretWordPos);
                         }
                         if (onSuccess) {
-                            onSuccess.call(table);
+                            onSuccess();
                         }
                     }
                 }
