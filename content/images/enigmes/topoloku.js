@@ -2,13 +2,14 @@
  * DOM rendering
  ****************************************************************************/
 export function renderTopolokuUsingDataAttrs(table) {
+    const size = JSON.parse(table.dataset.size);
     renderTopoloku(table, {
-        size: JSON.parse(table.dataset.size),
+        size,
         initialLetters: JSON.parse(table.dataset.initialLetters || '{}'),
         missingLetters: (table.dataset.missingLetters || '').split(''),
         secretWordPos: table.dataset.secretWordPos && JSON.parse(table.dataset.secretWordPos),
         onSuccess: (function () { eval(table.dataset.onSuccess); }),
-        solution: table.dataset.solution,
+        solution: table.dataset.solution && lineFormatGrid(table.dataset.solution, size[0]),
     });
 }
 export function renderTopoloku(table, options) {
@@ -24,7 +25,7 @@ export function renderTopoloku(table, options) {
     allUniqueLetters = Array.from(allUniqueLetters).sort();
     // Le solver n'est pour le moment pas capable de résoudre toutes les grilles,
     // il est donc possible de fournir la solution directement, en espérant qu'elle soit bien unique...
-    const solution = options.solution ? lineFormatGrid(table.dataset.solution, width) : gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
+    const solution = options.solution || gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
     for (let j = 0; j < height; j++) {
         const tr = document.createElement('tr');
         for (let i = 0; i < width; i++) {
