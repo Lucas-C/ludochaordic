@@ -4,11 +4,30 @@ Slug: enigmes-en-confinement
 Status: hidden
 ---
 
+<link rel="stylesheet" type="text/css" href="images/enigmes/topoloku.css">
 <link rel="stylesheet" type="text/css" href="images/enigmes/enigmes-en-confinement.css">
 
 En cette période de cocooning forcé, voici quelques énigmes pour faire travailler vos méninges !
 
 <ul id="toc"></ul>
+
+
+## 2 mai - Topoloku
+
+Aujourd'hui, un nouveau type d'énigme !
+
+Il s'agit d'un puzzle logique que Lucas a inventé l'année dernière : un **Topoloku**
+
+Les règles du jeu sont dans [l'article de présentation](topoloku.html).
+
+N'hésitez pas à laisser un commentaire si vous avez de questions !
+
+Cliquez sur les cases de la grille pour la remplir :
+
+<table id="challenge-2020-05-02" class="topoloku" data-size="[5, 4]"
+       data-initial-letters='{"0,3": "✱", "1,3": "H", "2,0": "#", "3,3": "A"}'
+       data-solution="######✱✱✱#✱✱HH#✱HHAA"
+       data-on-success="onTopolokuSuccess(this)"></table>
 
 
 ## 1er mai - Rébus & nonogram
@@ -449,4 +468,4 @@ Qui suis-je ?
 <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="https://lucas-c.github.io/Nonogram/nonogram.min.js"></script>
-<script src="images/enigmes/enigmes-en-confinement.js"></script>
+<script type="module" src="images/enigmes/enigmes-en-confinement.js"></script>

@@ -1,12 +1,30 @@
 /****************************************************************************
  * DOM rendering
  ****************************************************************************/
-function renderTopoloku(table) {
-    const [width, height] = JSON.parse(table.dataset.size);
-    const initialLetters = JSON.parse(table.dataset.initialLetters || '{}');
-    const missingLetters = (table.dataset.missingLetters || '').split('');
-    const secretWordPos = table.dataset.secretWordPos && JSON.parse(table.dataset.secretWordPos);
-    const onSuccess = table.dataset.onSuccess;
+export function renderTopolokuUsingDataAttrs(table) {
+    renderTopoloku(table, {
+        size: JSON.parse(table.dataset.size),
+        initialLetters: JSON.parse(table.dataset.initialLetters || '{}'),
+        missingLetters: (table.dataset.missingLetters || '').split(''),
+        secretWordPos: table.dataset.secretWordPos && JSON.parse(table.dataset.secretWordPos),
+        onSuccess: (function () { eval(table.dataset.onSuccess); }),
+        solution: table.dataset.solution,
+    });
+}
+export function renderTopoloku(table, options) {
+    const [width, height] = options.size;
+    const initialLetters = options.initialLetters || {};
+    const missingLetters = options.missingLetters || [];
+    const secretWordPos = options.secretWordPos;
+    const onSuccess = options.onSuccess;
+    let allUniqueLetters = new Set(Object.values(initialLetters));
+    for (let letter of missingLetters) {
+        allUniqueLetters.add(letter);
+    }
+    allUniqueLetters = Array.from(allUniqueLetters).sort();
+    // Le solver n'est pour le moment pas capable de résoudre toutes les grilles,
+    // il est donc possible de fournir la solution directement, en espérant qu'elle soit bien unique...
+    const solution = options.solution ? lineFormatGrid(table.dataset.solution, width) : gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
     for (let j = 0; j < height; j++) {
         const tr = document.createElement('tr');
         for (let i = 0; i < width; i++) {
@@ -18,14 +36,13 @@ function renderTopoloku(table) {
                 td.classList.add('clickable');
                 td.onclick = function onTdClick() {
                     this.textContent = allUniqueLetters[allUniqueLetters.indexOf(this.textContent) + 1] || '';
-                    console.log(gridToString(gridFromTable(table)));
                     if (gridToString(gridFromTable(table)) === solution) {
                         table.classList.add('success');
                         if (secretWordPos) {
                             highlightSecretWord(table, secretWordPos);
                         }
                         if (onSuccess) {
-                            (function () { eval(onSuccess); }).call(table);
+                            onSuccess.call(table);
                         }
                     }
                 }
@@ -40,14 +57,6 @@ function renderTopoloku(table) {
         missingLettersDiv.textContent = `(à rajouter: ${missingLetters.join(', ')})`;
         table.after(missingLettersDiv);
     }
-    let allUniqueLetters = new Set(Object.values(initialLetters));
-    for (let letter of missingLetters) {
-        allUniqueLetters.add(letter);
-    }
-    allUniqueLetters = Array.from(allUniqueLetters).sort();
-    // Le solver n'est pour le moment pas capable de résoudre toutes les grilles,
-    // il est donc possible de fournir la solution directement, en espérant qu'elle soit bien unique...
-    const solution = table.dataset.solution ? lineFormatGrid(table.dataset.solution, width) : gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
 }
 
 function gridFromTable(table) {
@@ -114,7 +123,7 @@ const LETTERS_TOPO = {
     'Z': {loops: 0, ends: 2}, // like C
     '&': {loops: 2, ends: 2}, // like %
 };
-function solveTopoloku(width, height, initialLetters, allUniqueLetters) {
+export function solveTopoloku(width, height, initialLetters, allUniqueLetters) {
     const grid = [ ...Array(width) ].map(() => [ ...Array(height) ]);
     Object.keys(initialLetters).forEach(posStr => {
         const [x, y] = posStr.split(',').map(Number);
@@ -217,11 +226,3 @@ function gridFromString(str) { // Non testé
     });
 }
 function deepCopy(grid) { return JSON.parse(JSON.stringify(grid)); }
-
-
-/****************************************************************************
- * Main entrypoint
- ****************************************************************************/
-if (typeof document !== 'undefined') { // == le code est exécuté dans un navigateur
-    Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopoloku);
-}

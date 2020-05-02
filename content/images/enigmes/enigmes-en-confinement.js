@@ -1,3 +1,5 @@
+import { renderTopolokuUsingDataAttrs } from './topoloku.js';
+
 const BRAINBOX_QUESTIONS_TIME_IN_SECS = 10;
 const BRAINBOX_ANSWERS_TIME_IN_SECS = 45;
 const ESQUISSE_GAME_TIME_IN_MINS = 2.5;
@@ -504,6 +506,8 @@ document.querySelectorAll('.nonogram').forEach(div => {
     }
   );
 });
+Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopolokuUsingDataAttrs);
+window.onTopolokuSuccess = (table) => displayScoreFormIfActive(insertScoreFormAfter(table), table.id)
 
 function submitConceptAnswer() {
   const form = this;
