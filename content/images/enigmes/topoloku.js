@@ -3,14 +3,15 @@
  ****************************************************************************/
 export function renderTopolokuUsingDataAttrs(table) {
     const size = JSON.parse(table.dataset.size);
-    renderTopoloku(table, {
+    console.log(renderTopoloku(table, {
         size,
         initialLetters: JSON.parse(table.dataset.initialLetters || '{}'),
         missingLetters: (table.dataset.missingLetters || '').split(''),
         secretWordPos: table.dataset.secretWordPos && JSON.parse(table.dataset.secretWordPos),
         onSuccess: table.dataset.onSuccess && (() => window[table.dataset.onSuccess](table)),
         solution: table.dataset.solution && lineFormatGrid(table.dataset.solution, size[0]),
-    });
+        solve: table.dataset.solve,
+    }));
 }
 export function renderTopoloku(table, options) {
     const [width, height] = options.size;
@@ -22,6 +23,7 @@ export function renderTopoloku(table, options) {
     for (let letter of missingLetters) {
         allUniqueLetters.add(letter);
     }
+    allUniqueLetters.delete('■');
     allUniqueLetters = Array.from(allUniqueLetters).sort();
     // Le solver n'est pour le moment pas capable de résoudre toutes les grilles,
     // il est donc possible de fournir la solution directement, en espérant qu'elle soit bien unique...
@@ -30,7 +32,9 @@ export function renderTopoloku(table, options) {
         for (let i = 0; i < width; i++) {
             const td = document.createElement('td');
             td.textContent = initialLetters[`${i},${j}`];
-            if (td.textContent) {
+            if (td.textContent === '■') {
+                td.classList.add('black');
+            } else if (td.textContent) {
                 td.classList.add('given');
             } else {
                 td.classList.add('clickable');
@@ -61,6 +65,9 @@ export function renderTopoloku(table, options) {
         missingLettersDiv.classList.add('topoloku-missing-letters');
         missingLettersDiv.textContent = `(à rajouter: ${missingLetters.join(', ')})`;
         table.after(missingLettersDiv);
+    }
+    if (options.solve) {
+        return gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
     }
 }
 
@@ -186,8 +193,8 @@ function groupByContiguousLetters(grid) {
     const groupByPos = {};
     for (let i = 0; i < grid.length; i++) {
         for (let j = 0; j < grid[0].length; j++) {
-            if (!groupByPos[`${i},${j}`]) {
-                const letter = grid[i][j];
+            const letter = grid[i][j];
+            if (!groupByPos[`${i},${j}`] && letter !== '■') {
                 const groupPos = new Set();
                 gatherGroupPos(groupPos, letter, grid, i, j)
                 const group = { letter, size: groupPos.size };
@@ -219,7 +226,7 @@ function isLoopsConstraintSatisfied(grid) { // Also checks that all cells are fi
         for (let j = 0; j < grid[0].length; j++) {
             const edgesCount = [i === 0, j === 0, i === (grid.length - 1), j === (grid[0].length - 1)].filter(x => x).length;
             const letter = grid[i][j];
-            if (!letter || edgesCount < LETTERS_TOPO[letter].loops) {
+            if (!letter || letter === '■' || edgesCount < LETTERS_TOPO[letter].loops) {
                 return false;
             }
         }

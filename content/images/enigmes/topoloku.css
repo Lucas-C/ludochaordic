@@ -17,11 +17,13 @@ table.topoloku td, table.topoloku th {
   height: var(--cell-size);
   font-size: var(--font-size);
   text-align: center;
+  background-clip: padding-box;
   position: relative; /* for <em> positioning on original article */
 }
-table.topoloku td.given { background-color: lightgrey; background-clip: padding-box; }
+table.topoloku td.black { background-color: black; color: black; }
+table.topoloku td.given { background-color: lightgrey; }
 table.topoloku td.clickable { cursor: pointer; }
-table.topoloku td.highlight { background-color: lightgreen; background-clip: padding-box; }
+table.topoloku td.highlight { background-color: lightgreen; }
 table.topoloku.success::after {
   content: '✔️';
   font-size: 4rem;
