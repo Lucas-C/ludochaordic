@@ -12,6 +12,17 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 3 mai - Énigmage
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage12-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-05-03" data-hash="bc0ddeea3116373b3a03099882d54ada2456e030d4d62a3bde9d1fe1797ea916"></form>
+
+
 ## 2 mai - Topoloku
 
 Aujourd'hui, un nouveau type d'énigme !
@@ -26,7 +37,6 @@ Cliquez sur les cases de la grille pour la remplir :
 
 <table id="challenge-2020-05-02" class="topoloku" data-size="[5, 4]"
        data-initial-letters='{"0,3": "✱", "1,3": "H", "2,0": "#", "3,3": "A"}'
-       data-solution="######✱✱✱#✱✱HH#✱HHAA"
        data-on-success="onTopolokuSuccess"></table>
 
 
