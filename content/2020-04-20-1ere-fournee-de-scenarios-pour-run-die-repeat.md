@@ -1,6 +1,6 @@
 Title: 1ère fournée de scénarios pour Run Die Repeat
 Date: 2020-04-20 23:45
-Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, discord, jeux
+Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, discord, run-die-repeat, jeux
 Slug: 1ere-fournee-de-scenarios-pour-run-die-repeat
 ---
 
