@@ -25,8 +25,6 @@ export function renderTopoloku(table, options) {
     }
     allUniqueLetters.delete('■');
     allUniqueLetters = Array.from(allUniqueLetters).sort();
-    // Le solver n'est pour le moment pas capable de résoudre toutes les grilles,
-    // il est donc possible de fournir la solution directement, en espérant qu'elle soit bien unique...
     for (let j = 0; j < height; j++) {
         const tr = document.createElement('tr');
         for (let i = 0; i < width; i++) {

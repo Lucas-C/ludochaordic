@@ -12,6 +12,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 4 mai - Rébus Concept
+
+![](images/enigmes/enigme-concept-17.jpg)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-05-04" data-min-score="50" data-hash="3bf434972d60bffa7b0391e710611871439b76a0057f0bb416e46c1789fd10e6"></form>
+
+
 ## 3 mai - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
