@@ -2,6 +2,7 @@ Title: Scénarios Hitman & La chute du colosse pour Run Die Repeat
 Date: 2020-05-04 10:00
 Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, discord, run-die-repeat, jeux
 Slug: scenarios-hitman-et-la-chute-du-colosse-pour-run-die-repeat
+Image: images/jdr/rdr/sotc_christmas_shirt_design_by_fritz6_d1e07il-pre.png
 ---
 
 Dans la continuité des [scénarios pour le jeu de rôle _Run. Die. Repeat_](1ere-fournee-de-scenarios-pour-run-die-repeat.html) des [deux dernières semaines](2e-serie-de-scenarios-pour-run-die-repeat.html),

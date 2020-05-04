@@ -2,6 +2,7 @@ Title: 2e série de scénarios pour Run Die Repeat
 Date: 2020-04-28 8:00
 Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, discord, rolisteam, run-die-repeat, jeux
 Slug: 2e-serie-de-scenarios-pour-run-die-repeat
+Image: images/jdr/rdr/plasma_gauntlet_by_suldae_d4623vd.jpg
 ---
 
 Dans la continuité des [scénarios de la semaine dernière](1ere-fournee-de-scenarios-pour-run-die-repeat.html),
