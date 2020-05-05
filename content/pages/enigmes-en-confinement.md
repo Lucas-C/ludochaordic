@@ -12,6 +12,13 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 5 mai - BrainBox
+<div id="challenge-2020-05-05" class="brainbox" data-img="images/enigmes/brainbox-06.jpg"
+     data-q1="UXVlbGxlIGZpZ3VyZSBlc3QgcHLpc2VudGUgc3VyIGxlIGRyYXBlYXUgPw==" data-a1="6XRvaWxl"
+     data-q2="Q29tYmllbiB5LWEtdC1pbCBkZSBmZXVpbGxlcyBzdXIgbGEgYnJhbmNoZSBkJ29saXZpZXIgPw==" data-a2="aHVpdA=="
+     data-q3="UXVlbCDpbOltZW50IGFyY2hpdGVjdHVyYWwgYXJjaGl0ZWN0dXJhbCBlc3QgbWVudGlvbm7pID8=" data-a3="bWluYXJldA=="></div>
+
+
 ## 4 mai - Rébus Concept
 
 ![](images/enigmes/enigme-concept-17.jpg)
