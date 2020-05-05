@@ -8,6 +8,11 @@ Status: hidden
 
 **LABO**: Topolokus en construction
 
+<table class="topoloku" data-size="[7, 10]"
+       data-initial-letters='{"0,0": "X", "2,0": "Y", "3,0": "X", "6,0": "X", "0,2": "Z", "0,3": "X", "3,3": "X", "4,3": "X", "6,3": "X", "0,6": "X", "3,6": "X", "6,6": "X", "0,7": "X", "3,7": "X", "0,9": "X", "1,9": "X", "3,9": "X", "6,9": "X"}'></table>
+
+<br><br>
+
 <table class="topoloku" data-size="[6, 5]"
        data-initial-letters='{"5,2": "P", "4,0": "L", "4,2": "T", "3,3": "K", "2,2": "K", "1,2": "K", "0,0": "K", "0,4": "K"}'
        data-secret-word-pos="[[5, 1], [5, 2], [5, 3], [2, 4]]"

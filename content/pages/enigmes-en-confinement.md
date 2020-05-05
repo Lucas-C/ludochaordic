@@ -13,6 +13,9 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 
 ## 5 mai - BrainBox
+
+Lundi prochain, nous révélerons les réponses du mois d'avril !
+
 <div id="challenge-2020-05-05" class="brainbox" data-img="images/enigmes/brainbox-06.jpg"
      data-q1="UXVlbGxlIGZpZ3VyZSBlc3QgcHLpc2VudGUgc3VyIGxlIGRyYXBlYXUgPw==" data-a1="6XRvaWxl"
      data-q2="Q29tYmllbiB5LWEtdC1pbCBkZSBmZXVpbGxlcyBzdXIgbGEgYnJhbmNoZSBkJ29saXZpZXIgPw==" data-a2="aHVpdA=="
