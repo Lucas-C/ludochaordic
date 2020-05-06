@@ -12,6 +12,14 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 6 mai - Topoloku
+
+<table id="challenge-2020-05-06" class="topoloku" data-size="[6, 5]"
+       data-initial-letters='{"5,2": "P", "4,0": "L", "4,2": "T", "3,3": "K", "2,2": "K", "1,2": "K", "0,0": "K", "0,4": "K"}'
+       data-secret-word-pos="[[5, 1], [5, 2], [5, 3], [2, 4]]"
+       data-on-success="onTopolokuSuccess0506"></table>
+
+
 ## 5 mai - BrainBox
 
 Lundi prochain, nous révélerons les réponses du mois d'avril !
@@ -504,5 +512,38 @@ window.onTopolokuSuccess = (table) => {
   window.submittedAnswer.challengeId = table.id;
   displayScoreFormIfActive(insertScoreFormAfter(table), table.id);
 };
+window.onTopolokuSuccess0506 = (table) => {
+  setTimeout(insertExtraLetter, 250, table, [[[5, 1], 'right-o'], [[5, 2], 'right-o'], [[5, 3], 'right-o'], [[2, 4], 'bottom-u']]);
+  onTopolokuSuccess(table);
+}
+function insertExtraLetter(table, letterInfo) {
+  if (!letterInfo.length) return;
+  const [[i, j], cssClass] = letterInfo.shift();
+  table.querySelector(`tr:nth-child(${j + 1}) > td:nth-child(${i + 1})`).classList.add(cssClass);
+  setTimeout(insertExtraLetter, 500, table, letterInfo);
+}
 Array.from(document.getElementsByClassName('topoloku')).forEach(renderTopolokuUsingDataAttrs);
 </script>
+
+<style>
+.right-o::after {
+  content: 'O';
+  display: block;
+  width: var(--cell-size);
+  line-height: var(--cell-size);
+  position: absolute;
+  right: calc(-1 * var(--cell-size));
+  top: 0;
+  background-color: lightgreen;
+}
+.bottom-u::after {
+  content: 'U';
+  display: block;
+  width: var(--cell-size);
+  line-height: var(--cell-size);
+  position: absolute;
+  right: 0;
+  bottom: calc(-1 * var(--cell-size));
+  background-color: lightgreen;
+}
+</style>
