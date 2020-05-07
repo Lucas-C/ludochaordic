@@ -12,6 +12,17 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 <ul id="toc"></ul>
 
 
+## 7 mai - Énigmage
+
+Cliquez sur l'image pour en révéler petit à petit de plus en plus...
+
+<img class="enigmage" src="images/enigmes/enigmage13-1.jpg" alt="">
+
+### Teste ta réponse :
+
+<form id="challenge-2020-05-03" data-hash="7339725159893c57c3f93fcf76ca715cae37512df0232819b63a35e08cb82aa1"></form>
+
+
 ## 6 mai - Topoloku
 
 <table id="challenge-2020-05-06" class="topoloku" data-size="[6, 5]"
