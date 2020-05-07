@@ -11,6 +11,9 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 <ul id="toc"></ul>
 
+<!--
+https://concept-the-game.com/pnp/
+-->
 
 ## 7 mai - Énigmage
 
@@ -20,7 +23,7 @@ Cliquez sur l'image pour en révéler petit à petit de plus en plus...
 
 ### Teste ta réponse :
 
-<form id="challenge-2020-05-03" data-hash="7339725159893c57c3f93fcf76ca715cae37512df0232819b63a35e08cb82aa1"></form>
+<form id="challenge-2020-05-07" data-hash="7339725159893c57c3f93fcf76ca715cae37512df0232819b63a35e08cb82aa1"></form>
 
 
 ## 6 mai - Topoloku
