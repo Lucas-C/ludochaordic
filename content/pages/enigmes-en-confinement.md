@@ -15,6 +15,13 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 https://concept-the-game.com/pnp/
 -->
 
+## 8 mai - Nonogram
+
+<canvas id="challenge-2020-05-08" class="nonogram"
+        data-row="[[2,2],[1,1],[5],[5],[7],[1,2,1,2,1],[3,1,3],[1,1,1,1,1],[1,2,1,2,1],[3,1,3],[1,1,1,1,1,1,1],[1,2,1,2,1],[1,1,1],[4,1,4],[1,7,1]]"
+        data-column="[[2],[2,1,2],[8],[2,1],[1,2,1,1,2],[5,2,2,1],[3,1],[13],[3,1],[5,2,2,1],[1,2,1,1,2],[2,1],[8],[2,1,2],[2]]"></canvas>
+
+
 ## 7 mai - Énigmage
 
 Cliquez sur l'image pour en révéler petit à petit de plus en plus...
