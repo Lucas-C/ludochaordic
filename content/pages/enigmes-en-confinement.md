@@ -15,6 +15,16 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 https://concept-the-game.com/pnp/
 -->
 
+## 9 mai - Rébus Concept
+
+![](images/enigmes/enigme-concept-18.png)
+
+### Teste ta réponse :
+
+<form id="challenge-2020-05-09" data-min-score="50" data-hash="1516dcc4c545a921f86bee69579f409c94b0a307c606d90209581a76a8d84939"></form>
+
+
+
 ## 8 mai - Nonogram
 
 <canvas id="challenge-2020-05-08" class="nonogram"

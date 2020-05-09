@@ -133,6 +133,9 @@ const LETTERS_TOPO = {
     'Y': {loops: 0, ends: 3}, // like E
     'Z': {loops: 0, ends: 2}, // like C
     '&': {loops: 2, ends: 2}, // like %
+    '♡': {loops: 1, ends: 0}, // like O
+    '+': {loops: 0, ends: 4}, // like H
+    '=': {loops: 0, ends: 4}, // like H
 };
 export function solveTopoloku(width, height, initialLetters, allUniqueLetters) {
     const grid = [ ...Array(width) ].map(() => [ ...Array(height) ]);
