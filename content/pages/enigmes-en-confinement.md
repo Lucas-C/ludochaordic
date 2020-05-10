@@ -15,6 +15,15 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 https://concept-the-game.com/pnp/
 -->
 
+## 10 mai - Topoloku
+
+<table id="challenge-2020-05-10" class="topoloku" data-size="[5, 8]"
+       data-initial-letters='{"0,0": "⦷", "3,3": "H", "0,4": "#", "1,4": "H", "2,6": "✱", "3,6": "H", "4,6": "#", "2,7": "#"}'
+       data-on-success="onTopolokuSuccess"></table>
+
+_Note_ : le symbole ⦷ possède 4 extrémités et 1 boucle
+
+
 ## 9 mai - Rébus Concept
 
 ![](images/enigmes/enigme-concept-18.png)
@@ -22,7 +31,6 @@ https://concept-the-game.com/pnp/
 ### Teste ta réponse :
 
 <form id="challenge-2020-05-09" data-min-score="50" data-hash="1516dcc4c545a921f86bee69579f409c94b0a307c606d90209581a76a8d84939"></form>
-
 
 
 ## 8 mai - Nonogram

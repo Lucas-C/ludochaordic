@@ -19,11 +19,6 @@ Status: hidden
 
 <br><br>
 
-<table class="topoloku" data-size="[5, 8]"
-       data-initial-letters='{"0,0": "⦷", "3,3": "H", "0,4": "#", "1,4": "H", "2,6": "✱", "3,6": "H", "4,6": "#", "2,7": "#"}'></table>
-
-<br><br>
-
 <table class="topoloku" data-size="[5, 5]"
        data-initial-letters='{"2,0": "#", "2,1": "✱", "2,2": "E", "3,1": "E", "2,4": "#"}'></table>
 
