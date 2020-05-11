@@ -35,7 +35,8 @@ Cliquez sur les points d'interrogations pour tenter de les résoudre !
 
 J'ai inventé ces petits casse-têtes l'année dernière, et les règles sont décrites [dans l'article de présentation](topoloku.html) sur ce blog.
 
-Voici quelques grilles que j'ai conçu le mois dernier :
+Voici quelques grilles que j'ai conçu le mois dernier.
+Cliquez sur les cases de chaque grille pour la remplir :
 
 <table class="topoloku" data-size="[5, 4]"
        data-initial-letters='{"0,3": "✱", "1,3": "H", "2,0": "#", "3,3": "A"}'></table>
