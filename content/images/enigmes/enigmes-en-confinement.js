@@ -15,18 +15,20 @@ const DIGITS_TO_STRINGS = {
   '9': 'neuf',
 };
 
-firebase.initializeApp({
-  apiKey: "AIzaSyBUA2secspKjZIA-_G3gCqcgYrlx5G94QE",
-  authDomain: "scoreboard-7a578.firebaseapp.com",
-  databaseURL: "https://scoreboard-7a578.firebaseio.com",
-  projectId: "scoreboard-7a578",
-  storageBucket: "scoreboard-7a578.appspot.com",
-  messagingSenderId: "1085958736716",
-  appId: "1:1085958736716:web:4c0ea416008a37c20edde9"
-});
-const scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement');
-const lockCollec = firebase.firestore().collection('Locks');
-const esquissesCollec = firebase.firestore().collection('Esquisses');
+if (typeof firebase !== 'undefined') {
+  firebase.initializeApp({
+    apiKey: "AIzaSyBUA2secspKjZIA-_G3gCqcgYrlx5G94QE",
+    authDomain: "scoreboard-7a578.firebaseapp.com",
+    databaseURL: "https://scoreboard-7a578.firebaseio.com",
+    projectId: "scoreboard-7a578",
+    storageBucket: "scoreboard-7a578.appspot.com",
+    messagingSenderId: "1085958736716",
+    appId: "1:1085958736716:web:4c0ea416008a37c20edde9"
+  });
+  const scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement');
+  const lockCollec = firebase.firestore().collection('Locks');
+  const esquissesCollec = firebase.firestore().collection('Esquisses');
+}
 function updateScoreBoardTable() {
   const tbody = document.getElementById('highscores');
   while (tbody.firstChild) { tbody.removeChild(tbody.firstChild); }
@@ -95,7 +97,7 @@ if (toc) {
   });
 }
 document.querySelectorAll('article form').forEach(form => {
-  form.onsubmit = submitConceptAnswer.bind(form);
+  form.onsubmit = submitConceptOrEnigmageAnswer.bind(form);
   appendHtmlElemsFromStr(form, `<input type="text"></input>
                                 <input type="submit" value="?"></input>
                                 <div style="display: none" class="answer-correct">Bravo ! C'est la bonne réponse 👍 🎉 🤩</div>
@@ -505,7 +507,7 @@ document.querySelectorAll('.nonogram').forEach(div => {
   );
 });
 
-function submitConceptAnswer() {
+function submitConceptOrEnigmageAnswer() {
   const form = this;
   const answer = form.querySelector('input[type="text"]').value;
   const correctAnswerDiv = form.querySelector('.answer-correct');
@@ -532,7 +534,7 @@ function submitConceptAnswer() {
   return false;
 }
 function displayScoreFormIfActive(scoreForm, challengeId) {
-  if (!challengeId.startsWith('challenge-2020-03-')) { // Scores désactivés avant avril
+  if (false) { // Les scores sont désormais désactivés
     scoreForm.style.display = 'block';
   }
 }

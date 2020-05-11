@@ -1,6 +1,6 @@
 Title: Générateurs de puzzles open source
 Date: 2018-05-06 08:00
-Tags: lang:fr, python, javascript, linuxfr, open-source, logic-puzzle, print-play, gratuit, jeux, prog
+Tags: lang:fr, python, javascript, linuxfr, nonogram, open-source, logic-puzzle, print-play, gratuit, jeux, prog
 Slug: generateurs-de-puzzles-open-source
 Image: images/2018/05/nonogram.gif
 ---

@@ -11,9 +11,37 @@ En cette période de cocooning forcé, voici quelques énigmes pour faire travai
 
 <ul id="toc"></ul>
 
-<!--
-https://concept-the-game.com/pnp/
--->
+
+## 11 mai - Solutions, bilan et rab' d'énigmes !
+
+Tout d'abord, vous trouverez sur la page suivante les réponses du mois d'avril :
+[pages/reponses-des-enigmes-du-mois-d-avril.html](pages/reponses-des-enigmes-du-mois-d-avril.html).
+
+Aujourd'hui marque **le déconfinement**, et c'est donc **la fin de cette aventure ludique** !
+
+Voici quelques chiffres sur cette page :
+
+- **49 énigmes** ont été publiées, dont 17 rébus Concept, 13 Énigmages, 7 Nonograms, 6 BrainBoxs, 3 Topolokus, 2 Esquissés et 1 rébus
+- **66 personnes** se sont inscrites dans les scores
+- **5 personnes** ont fait **toutes les énigmes** !
+Il s'agit des celles sur le podium ainsi que de Camille & Thomas !
+Un grand bravo à vous 🎉
+
+Pour nous deux, Laëtitia et Lucas, ça a été vraiment un grand plaisir de partager ces petits casse-tête avec vous 😊
+
+On s'est bien amusés à les concevoir, en essayant d'en introduire parfois de nouveaux pour renouveler l'intérêt de ce jeu !
+
+On a été très épatés de voir que certains parmis vous étaient très emballés par le système des points et des scores 🤩
+
+Voici donc, sans plus de suspense, le podium des grands vainqueurs ! 🥁 🥁 🥁 🥁 🥁
+
+![Podium des gagnants : Elise & Thibaut ont la 1ère place, Isabelle la 2e et youchos la 3e](images/enigmes/podium.jpg)
+
+Les scores sont désormais désactivés, mais ceux qui veulent continuer à jouer sur cette page le peuvent toujours !
+
+Enfin, vous retrouverez plus de Nonograms, de Topolokus, de Rébus Concept et une dernière enigmage dans cet article du blog :
+[Nonograms, Topolokus et compagnie](nonograms-topolokus-et-compagnie.html).
+
 
 ## 10 mai - Topoloku
 

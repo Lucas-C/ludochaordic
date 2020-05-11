@@ -1,5 +1,5 @@
 Title: 3 derniers scénarios pour Run Die Repeat et version PDF
-Date: 2020-05-11 15:00
+Date: 2020-05-11 15:50
 Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, pdf, run-die-repeat, @Henri, jeux
 Slug: 3-derniers-scenarios-pour-run-die-repeat-et-version-pdf
 Image: images/2020/05/banner-small.jpg
