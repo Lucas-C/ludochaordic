@@ -186,6 +186,8 @@ Une fois découverte, elle tentera aux itérations suivantes de fuir en petit va
 À nouveau, si vous lisez / testez ces scénarios, je serais ravis de savoir ce que vous en avez pensé !
 À la semaine prochaine 😉
 
+**EDIT [2020/05/11]** : j'ai terminé le PDF rassemblant tous ces scénarios → [lien vers l'article](3-derniers-scenarios-pour-run-die-repeat-et-version-pdf)
+
 
 <style>
 .timer {

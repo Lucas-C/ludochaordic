@@ -44,6 +44,7 @@ L'idée originale de réaliser une version maison de ce jeu revient à mon ami, 
 
 - <s><http://spyfall.meteor.com></s> → <https://spyfall.tannerkrewson.com>
 - <http://spyfall.adrianocola.com>
+- <https://www.spyfall.app>
 
 Comme le travail de localisation avait déjà été fait sur ces apps, je l'ai simplement réutilisé dans cette version print & play. Merci à Evan Brumley et tous les gens qui ont contribué aux traductions !
 

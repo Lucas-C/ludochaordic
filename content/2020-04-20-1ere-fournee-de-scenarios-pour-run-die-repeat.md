@@ -111,3 +111,7 @@ Si vous approchez des 10min de partie et que les joueurs n'en sont pas sortis, i
 le paquet kraft contient une arme (couteau ou revolver).
 ### Rejouer le scénario
 Cette fois, Loubianov ne sera absolument pas coopératif !
+
+---
+
+**EDIT [2020/05/11]** : j'ai terminé le PDF rassemblant tous ces scénarios → [lien vers l'article](3-derniers-scenarios-pour-run-die-repeat-et-version-pdf)

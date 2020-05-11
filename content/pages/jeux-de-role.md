@@ -52,7 +52,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <ul>
         <li><a href="images/jdr/RunDieRepeat-FR.pdf">Traduction française du jeu (PDF, 37 Ko)</a></li>
         <li><a href="tag/run-die-repeat.html">Articles de blog à propos du jeu</a></li>
-        <li><a href="images/jdr/RunDieRepeat-scenarios-FR-v1.0.pdf">10 scénarios que j'ai conçu (PDF, 2,6 Mo)</li>
+        <li><a href="images/jdr/RunDieRepeat-scenarios-FR-v1.1.pdf">10 scénarios que j'ai conçu (PDF 2,0 Mo)</li>
       </ul>
       <blockquote>
       Vous êtes piégé dans un cauchemar, pourchassé par des monstres.
