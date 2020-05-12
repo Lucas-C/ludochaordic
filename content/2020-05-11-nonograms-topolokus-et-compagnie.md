@@ -5,6 +5,12 @@ Slug: nonograms-topolokus-et-compagnie
 Image: images/2020/05/topoloku.png
 ---
 
+<!--
+Partagé sur :
+- http://www.bibmath.net/forums/viewtopic.php?id=12588
+- http://www.prise2tete.fr/forum/viewtopic.php?id=13888
+-->
+
 <link rel="stylesheet" type="text/css" href="images/enigmes/topoloku.css">
 
 Depuis le 24 mars, avec ma compagne, nous avons décidé de partager un petit puzzle logique par jour à nos amis & familles,
