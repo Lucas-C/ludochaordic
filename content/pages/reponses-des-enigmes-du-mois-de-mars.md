@@ -1,6 +1,7 @@
 Title: Réponses des enigmes du mois de mars
 Tags: lang:fr, enigme, reponses, jeux
 Slug: reponses-des-enigmes-du-mois-de-mars
+Status: hidden
 ---
 
 ## 31 mars - Énigmage

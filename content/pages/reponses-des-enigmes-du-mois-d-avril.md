@@ -1,6 +1,7 @@
 Title: Réponses des enigmes du mois d'avril
 Tags: lang:fr, enigme, reponses, jeux
 Slug: reponses-des-enigmes-du-mois-d-avril
+Status: hidden
 ---
 
 ## 29 avril - Rébus Concept

@@ -47,7 +47,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Traduction d'un jeu monopage</dd>
         <dt>Pour</dt><dd>1 MJ + 2 à 5 joueurs</dd>
-        <dt>Durée</dt><dd>20-40min</dd>
+        <dt>Durée</dt><dd>20-30min</dd>
       </dl>
       <ul>
         <li><a href="images/jdr/RunDieRepeat-FR.pdf">Traduction française du jeu (PDF, 37 Ko)</a></li>
