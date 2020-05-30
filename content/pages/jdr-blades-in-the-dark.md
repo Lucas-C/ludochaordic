@@ -444,6 +444,8 @@ en partie, ou pour les _teaser_ par email pour la prochaine !
   Header + text to define
 - even better: https://www.reddit.com/r/bladesinthedark/comments/bifi0w/the_doskvol_echo_a_blades_in_the_dark_newspaper/
 
+lire Broken Spire_rev2.1.pdf
+
  Idées :
   * ils reviennent à leur planque et détectent que quelqu'un leur a rendu visite
   * Ethnos pourrait développer une capacité à changer de corps (il est au courant)

@@ -27,6 +27,8 @@ Mention Scott Mc Cloud Reinventing Comics + http://www.scottmccloud.com/1-webcom
 + drôles
 + sales
 
+Mentionner initiative https://turbointeractive.fr dans son ensemble !
+
 <img alt="Main de biker sur son guidon issue de Last Quest" src="images/2019/02/last-quest.gif" class="left">
 
 [Last Quest](http://prieur-malgras.com/lastquest/FR/index.html) de Prieur & Malgras, en français :
@@ -66,6 +68,12 @@ Christopher Baldwin, en anglais, 2 saisons, la 1ère de 413 strips, la 2e en cou
 + animated
 + représentatif : https://www.drugsandwires.fail/dnwcomic/guest-art-week-1-by-hari/
 + not the most passionnating story
+
+https://ludipe.itch.io/constancia
+
++ very short
++ a bit more interactive
++ intriguing : does it has and end ? (no)
 
 
 Idées de lectures:

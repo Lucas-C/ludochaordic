@@ -34,6 +34,8 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2020-05-24', 'img_url': 'images/readings/SandmanPreludesNocturnes.jpg', 'description': 'Sandman - Preludes & Nocturnes - Neil Gaiman (comics)'},
+    {'date': u'2020-05-13', 'img_url': 'images/readings/LesSciencesCaNousRegarde.jpg', 'description': 'Les sciences, ça nous regarde - Lionel LARQUÉ & Dominique PESTRE'},
     {'date': u'2020-04-14', 'img_url': 'images/readings/la-consolante.jpg', 'description': 'La Consolante - Anna Gavalda (roman)'},
     {'date': u'2020-04-08', 'img_url': 'images/readings/Aama.jpg', 'description': 'Aâma - Frederik Peeters (BD)'},
     {'date': u'2020-03-14', 'img_url': 'images/readings/A-la-vie.jpg', 'description': "À la vie ! - L'Homme étoilé (BD)"},
