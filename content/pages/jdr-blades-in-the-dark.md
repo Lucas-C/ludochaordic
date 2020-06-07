@@ -442,7 +442,7 @@ En voici quelques autres extraits de cet article :
 
 Inspiré d'[un article de Bastien "Acritarche" Wauthoz](https://acritarche.tumblr.com/post/156974895168/lettres-damour-au-p%C3%A8re-no%C3%ABl)
 à propos d'une invention de Vincent Baker,
-la partie a débuté par _love letters_ préparés en amont pour deux PJs :
+la partie a débuté par des _love letters_ préparés en amont pour deux PJs :
 
 <div class="side-by-side">
   <img alt="Love Letter d'Elaria" src="images/bitd/love-letter-Elaria.jpg">
@@ -454,7 +454,7 @@ C'était idéal pour se remettre dans le bain en début de partie,
 et les joueurs ont plutôt bien accrochés au principe.
 Il n'y avait pas de _love letter_ pour le 3e PJ, Ethnos-Ludius,
 mais une "énigme à tiroirs" pour lui permettre de développer un pouvoir surnaturel naissant...
-Comme l'énigme est toujours en cours, je n'en dis pas plus pour le moment.
+Comme l'énigme est toujours en cours, je n'en révèle pas plus pour le moment.
 
 Suite à l'opération en demi-teinte de la nuit précédente, le gang du Harpon se rassemble pour faire le point.
 Pour préparer l'opération dans le district perdu pour laquelle les Silver Nails les ont recruté,
@@ -667,9 +667,6 @@ TO PRINT:
 + idées de Devil's Bargain / obstacles ci-dessus
 + illustrations d'Elliot
 + crowsfoot_zoom.jpg & doskvol_lostdistrict.jpg
-
-AdJ pour Thomas :
-https://redboxvancouver.files.wordpress.com/2018/02/alt_iruvian_playbooks_20171121.pdf
 
 One-Shot : https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit#
 -> l'idée des "ghost dealers" est très chouette !
