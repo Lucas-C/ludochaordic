@@ -465,17 +465,19 @@ Ils se rendent finalement à la rencontre de **Phil**,
 un ancien camarade marin de Ludius, devenu pêcheur
 et ayant encore une dette envers ce dernier.
 Il accepte finalement à contre-cœur d'acheminer de nuit, dans 4 jours,
-une dizaine de personnes jusqu'en dehors de la barrière electroplasmique,
+une dizaine de personnes jusqu'en dehors de la barrière électroplasmique,
 et de les déposer sur l'île de la Quarantaine, pour les rapatrier ensuite au lever du jour.
 
-De son côté, Eric confronte l'individu qui se renseignait sur lui à l'_Habit fait le Moine_,dans un bordel où il a ses habitudes.
+De son côté, Eric confronte l'individu qui se renseignait sur lui à l'_Habit fait le Moine_,
+dans un bordel où il a ses habitudes.
 La discussion tourne court quand ce dernier, un chasseur de prime nommé **Casta**,
 tente de le paralyser par une décharge électrique via sa bague :
 Eric encaisse sans broncher, puis le rattrape alors qu'il tente de s'échapper avec une amulette.
 
 > « On paye avant de sortir »
 
-Eric démolit la machoire de Casta, et l'embarque dans une chambre pour l'interroger.Lui tendant un crayon, il lui explique :
+Eric démolit la mâchoire de Casta, et l'embarque dans une chambre pour l'interroger.
+Lui tendant un crayon, il lui explique :
 
 > « Je vais te poser quelques questions.
 > Si tu tiens à la vie, ne me mens pas, et réponds précisément par un seul mot. »
@@ -489,25 +491,27 @@ l'_Encre & la Plume_, il y a 2 jours. Il doit retourner y faire son rapport dans
 
 > « Ça fait plus d'un mot ça. Perdu. »
 
-Après avoir éliminé Casta et s'être débarrassé de son corps, Eric rejoind le reste du gang à leur planque.
+Après avoir éliminé Casta et s'être débarrassé de son corps, Eric rejoint le reste du gang à leur planque.
 Là-bas, Ethnos-Ludius & Elaria ont découvert que quelqu'un s'était introduit chez eux malgré leurs systèmes de protection, et surprenne l'intrus alors qu'il tentait de forcer le coffre contenant le _logbook_.
-Elaria rattrape leur voleur avant qu'il ne s'enfuie, l'assome et le ramène au Vieux Galion.
+Elaria rattrape leur voleur avant qu'il ne s'enfuie, l’assomme et le ramène au Vieux Galion.
 La jeune femme étant muette, Ethnos lui donne une plume et une feuille de papier
 et procède à un interrogatoire inquisiteur.
 La monte-en-l'air accepte de parler s'ils promettent de lui laisser la vie sauve.
-Elle révèle s'appeler **Sylvia Derengathi** et avoir tenté de voler le _logbook_pour impressionner les membres de la société secrète du Cercle de Feu, et ainsi être intronisée en leur sein.
+Elle révèle s'appeler **Sylvia Derengathi** et avoir tenté de voler le _logbook_
+pour impressionner les membres de la société secrète du Cercle de Feu, et ainsi être intronisée en leur sein.
 Elle retranscrit toute ce qu'elle sait sur les informations fournies à l'ordre,
 par exemple par les Chasseurs de Léviathans.
 En définitive, Ethnos-Ludius lui tranche la main pour la punir avant de l'abandonner dans une ruelle en ville.
 
 Suite à ces événements, Elaria & Ethnos-Ludius ressentent tous deux le besoin de faire retomber la pression.
-Elaria se brouille définitevement avec Damian, le patron du __Dragon d'Iruvia__,
+Elaria se brouille définitivement avec Damian, le patron du __Dragon d'Iruvia__,
 la fumerie d'opium où elle a l'habitude de se rendre.
 Jetée à la porte, refusant de se rendre à une fumerie tenue par l'Œil Blanc,
 elle finit par allez se fournir à Coalridge puis perd pied pendant 24 heures suite à une overdose...
-De son côté, Ethnos-Ludius réalise que ses séances d'autoflagélation ne le soulagent plus.Des fissures auraient-elles emergées dans sa foi envers l'Église de l'Extase de la Chair
+De son côté, Ethnos-Ludius réalise que ses séances d'auto-flagellation ne le soulagent plus.
+Des fissures auraient-elles émergées dans sa foi envers l'Église de l'Extase de la Chair
 suite à son changement d'enveloppe charnelle ? Il décide d'aller se confier au prêtre Herman à l'église de Nightmarket.
-Une fois sa confession terminée cependant, le bon curé horrifié le jette à la porte et l'excomunie de son district.
+Une fois sa confession terminée cependant, le bon curé horrifié le jette à la porte et l’excommunie de son district.
 
 Vis à vis de l'alliance des gangs contre l'Œil Blanc,
 le gang du Harpon respecte sa parole et entame une campagne décrédibilisation,
@@ -526,26 +530,26 @@ Celui-ci se révèle être la fille de l'ancien psy d'Eric, dont le meurtre lui 
 mais dont il avait oublié le nom.
 
 Le lendemain soir, ils retrouvent les Silver Nails, armés et harnachés pour le combat,
-chez Phil, et ils embarquent tous en direction des des barrières electroplasmiques.
+chez Phil, et ils embarquent tous en direction des des barrières électroplasmiques.
 Le contrôle de routine de l'armée impériale se déroule sans encombre,
 et une fois à l'île de la Quarantaine ils mettent deux barques à l'eau pour rejoindre la côte.
 Le paysage qui s'offre à eux est celui d'une terre désolé, noire et cendreuse.
 Les bâtiments qui composent le district se dressent, immaculés et nus,
-au milieu de rues désertes où plus rien d'oganique de subsiste, ni bois ni végétation.
+au milieu de rues désertes où plus rien d'organique de subsiste, ni bois ni végétation.
 La mere d'huile et la plage sont nappées d'un silence lugubre.
 
 Une fois à terre, Melvir, Elaria, Eric, Ethnos-Ludius et Fatima restent surveiller les barques
 tandis que les autres Silver Nails s'enfoncent dans le district perdu.
 Malgré les réticences du reste du groupe, Ethnos-Ludius s'éloigne examiner les environs.
 Alors que l'attention est centrée sur sa silhouette s'enfonçant dans la brume,
-nul ne remarque les tentacules sortant de l'eau et se dirigant vers Fatima sur l'une des barques.
-En un instant, tout bascule : une barque se retourne tandis qu'Eric eloigne l'autre en sécurité sur la plage,
+nul ne remarque les tentacules sortant de l'eau et se dirigeant vers Fatima sur l'une des barques.
+En un instant, tout bascule : une barque se retourne tandis qu'Eric éloigne l'autre en sécurité sur la plage,
 Fatima est entraîné dans l'eau, Melvir tente de la secourir et,
 tandis qu'Ethnos-Ludius découpe des tentacules à tour de bras,
 tous deux disparaissent sous l'eau sans qu'Elaria ne parviennent et les sauver avec sa corde.
 
-Attérés par la perte de leurs camarades, la terreur s'empare du trio du Harpon
-lorqu'un peu plus tard ils entendent la voix de Melvir provenir du district et les supplier de venir lui porter secours... Un peu plus tard, c'est un bâteau fantôme qu'ils voient glisser sur la mer.
+Atterrés par la perte de leurs camarades, la terreur s'empare du trio du Harpon
+lorsqu'un peu plus tard ils entendent la voix de Melvir provenir du district et les supplier de venir lui porter secours... Un peu plus tard, c'est un bateau fantôme qu'ils voient glisser sur la mer.
 Les nerfs à fleur de peau, c'est ensuite le simple tic-tac provenant du sac de Melvir échoué sur la plage
 qui suffit à les effrayer.
 
@@ -557,7 +561,7 @@ qui suffit à les effrayer.
 Quelques heures avant l'aube, un molosse spectral s'avance sur la plage vers eux.
 Tentant tout d'abord de se cacher, Ethnos-Ludius finit par décharger sur la créature le barillet de son pistolet électroplasmique. Cela suffit à la faire reculer, mais elle hurle alors à la lune pour appeler à la rescousse sa meute entière.
 Contraints de se réfugier dans les ruines du district pour y échapper,
-les PJs retiennent ensuite leur souffle au passage dans la rue d'un monstre sanguinolant
+les PJs retiennent ensuite leur souffle au passage dans la rue d'un monstre sanguinolent
 [(vidéo illustrative : _Bloodborne Blood Beast_)](https://www.youtube.com/watch?v=Vtj19enwgSE).
 Enfin, c'est le retour des Silver Nails et tous réussissent à regagner la ville sans encombre.
 
@@ -575,11 +579,11 @@ Le soir même, un ivrogne se met à les insulter à l'entrée de leur planque :
 
 Ethnos-Ludius lui court après pour lui donner un leçon, mais l'ivrogne se volatilise.
 
-Le lendemain matin, Eric le surprend à peindre sur un mur devant le Vieux Falion
+Le lendemain matin, Eric le surprend à peindre sur un mur devant le Vieux Galion
 « HARPON TROU DU FION ».
 
 Elaria décide alors d'enquêter sur lui, et retrouve sa trace dans une vieille église abandonnée de Six Towers.
-Mais alors qu'elle l'interroge de manière musclée sur l'identitée de ce « Argaz », une voix guturale derrière elle dit :
+Mais alors qu'elle l'interroge de manière musclée sur l'identité de ce « Argaz », une voix gutturale derrière elle dit :
 
 > « Argaz c'est moi.
 > Et toi tu vas servir de message pour tes camarades. »
@@ -588,7 +592,7 @@ Un démon de 2m50 se tient là, les muscles bandés sous sa peau rouge, une gran
 Une intense course-poursuite s'engage alors entre lui et Elaria,
 au terme de laquelle elle réussit à l'amener jusqu'au district de Nightmarket,
 devant l'auberge où logent les Silver Nails, pour qu'ils accomplissent leur part du marché convenu.
-Une bataille générale s'ensuite, où les balles de gatling electroplasmique fusent
+Une bataille générale s'ensuit, où les balles de gatling électroplasmique fusent
 et où Elaria y perd ses vêtements.
 
 > « Qu'est-ce que t'es laid. »
@@ -614,7 +618,7 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 
 Pour l'ambiance musicale, j'ai opté pour cette playlist YouTube :
 [Blades in the Dark music](https://www.youtube.com/watch?v=pPWCkhulCn8&list=PLxiArOyYrVNHsgg1Y3ShKX6Yhys_NgfsY).
-Elle contient 65 morceaux dont certains issus de la bande son des jeux vidéos Dishonoredn, Thief et
+Elle contient 65 morceaux dont certains issus de la bande son des jeux vidéos Dishonored, Thief et
 de The Witcher (il faut passer la piste 10 au bout d'un certain car elle tourne en boucle pendant 1h), ainsi que du film Sherlock Holmes.
 
 Histoire de réviser la géographie de la ville et me préparer à des scènes improvisées,
