@@ -9,6 +9,7 @@ Image: images/2020/05/topoloku.png
 Partagé sur :
 - http://www.bibmath.net/forums/viewtopic.php?id=12588
 - http://www.prise2tete.fr/forum/viewtopic.php?id=13888
+NEXT: translate & put it on https://www.reddit.com/r/puzzles ?
 -->
 
 <link rel="stylesheet" type="text/css" href="images/enigmes/topoloku.css">

@@ -1,4 +1,4 @@
-Title: Campagne de JDR Blades In The Dark
+Title: Campagne de JdR Blades In The Dark
 Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, jeux, @Simon, @Elliot, @ThomasG
 Slug: jdr-blades-in-the-dark
 Status: hidden
@@ -48,9 +48,9 @@ _→ **3/3** ok_
 - le gang des PJs découvrent une page du _logbook_ tachée de sang dans les affaires de Stravul
 - Ethnos envisage de remplacer Ludius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
 mais Elaria refuse tout en bloc : pas question de remplacer leur _leader_, il faut le sauver !
-- le gang s'organise pour se venger du gang de l'Oeil Blanc : ils décident tout d'abord de balancer aux _Bluecoats_, via leur contact **Conway**, leur bordel installé dans un poste de garde de la milice
+- le gang s'organise pour se venger du gang de l'Œil Blanc : ils décident tout d'abord de balancer aux _Bluecoats_, via leur contact **Conway**, leur bordel installé dans un poste de garde de la milice
 - Eleria rend visite à **Grell Jayan**, où elle peut enfin avoir une entrevue avec Ludius, en piteux état
-- le gang des PJs organise une descente dans un point de revente de drogue de l'Oeil Blanc, au sous-sol d'un hôtel.
+- le gang des PJs organise une descente dans un point de revente de drogue de l'Œil Blanc, au sous-sol d'un hôtel.
 Tout se passe très bien et ils éliminent un des lieutenants de leur gang: **Pickett**
 - nouvelle visite à Jayan, où les PJs établissent un deal : contre l'autorisation de faire une copie du _logbook_,
 il va organiser une cérémonie pour désenvoûter Ludius. Le gang doit toutefois trouver un tatoueur d'ici demain soir, pour participer au rituel
@@ -58,8 +58,8 @@ il va organiser une cérémonie pour désenvoûter Ludius. Le gang doit toutefoi
 ### Éléments de l'univers établis durant la partie
 - la sœur de Ludius, **Justinia**, était en voyage et rentre demain
 - les _physickers_ consomment des potions d'alchimiste pour modifier leur corps
-- gang **Oeil Blanc** == **Lampbacks** dans le bouquin VO
-- le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence, et déjà le gang de l'Oeil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
+- gang **Œil Blanc** == **Lampbacks** dans le bouquin VO
+- le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence, et déjà le gang de l'Œil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
 
 
 ## One-shot "préquelle" avec d'autres joueurs et le système Psi*Run
@@ -76,7 +76,7 @@ Note: il y en a [plein d'autres](https://www.pinterest.fr/search/boards/?q=blade
 
 ### Compte-rendu de partie
 
-- un émissaire apporte une proposition de **Baszos Baz**, le chef du gang de l'Oeil Blanc,
+- un émissaire apporte une proposition de **Baszos Baz**, le chef du gang de l'Œil Blanc,
 les conviant ce soir dans leur QG, une usine de charbon, pour mettre leurs différents de côté et rallier son camp
 dans la guerre de gangs qui se prépare
 - les PJs aperçoivent également la fumée d'un incendie plus loin en ville.
@@ -289,7 +289,7 @@ L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyss
 - soudain, une calèche et un charriot déboulent dans la cour intérieure. Aussitôt qu'elle aperçoit Lyssa à l'intérieur, Elaria lui lance un couteau dans l’œil !
 Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par la même occasion Bell qui était leur prisonnier, dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 
-## Session 8 février 2020
+## Session 6 - 8 février 2020
 
 <figure role="group">
   <!--img alt="Ludius Dalmore" src="images/bitd/Lodius B&W.jpg"-->
@@ -297,15 +297,16 @@ Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par l
   <figcaption>Ludius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
-<figure role="group">
-  <img alt="Elaria" src="images/bitd/Elaria.jpg">
-  <figcaption>Elaria par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
-</figure>
-
-<figure role="group">
-  <img alt="Eric Stamp" src="images/bitd/EricStamp.jpg">
-  <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
-</figure>
+<div class="side-by-side">
+  <figure role="group">
+    <img alt="Elaria" src="images/bitd/Elaria.jpg">
+    <figcaption>Elaria par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+  </figure>
+  <figure role="group">
+    <img alt="Eric Stamp" src="images/bitd/EricStamp.jpg">
+    <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+  </figure>
+</div>
 
 - de retour à leur planque, après avoir copieusement pillé le lupanar de feu Lyssa,
 les PJs s'assurent que les plaies de Bell soient pansées puis, une fois qu'il a un peu récupéré,
@@ -318,15 +319,10 @@ trépignant de trancher la gorge à Darmot... Celui-ci révèle avoir des témoi
 pour leur opération « coup de poing » de la veille, et souhaite visiblement se faire graisser la patte pour
 les laisser tranquille... Les PJs acceptent à contre-coeur, et enveront plus tard Melvir lui remettre un « cadeau ».
 
-<figure role="group">
-  <img alt="Darmot portrait" src="images/bitd/Darmot.jpg">
-  <figcaption>Darmot portrait <em>(Carlos Carbrera)</em></figcaption>
-</figure>
-
-- les PJs décident d'organiser une nouvelle expédition punitive contre l'Oeil Blanc,
+- les PJs décident d'organiser une nouvelle expédition punitive contre l'Œil Blanc,
 et se répartissent pour collecter des informations. Ils identifient une cible potentielle :
 **un entrepôt de charbon sur canal, servant de couverture pour leur traffic de drogue**.
-Tandis qu'Eric s'infiltre sur les plate-bandes de l'Oeil Blanc, il est repéré au milieu d'un marché,
+Tandis qu'Eric s'infiltre sur les plate-bandes de l'Œil Blanc, il est repéré au milieu d'un marché,
 et doit faire preuve d'un peu de violence et d'intimidation pour s'éclipser.
 
 - ayant eu vent du climat tendu qui s'installe sur l'ancien territoire de Lyssa,
@@ -339,43 +335,50 @@ puis décident d'aller en discuter en personne avec Bell.
 au milieu de l'ancien terrain de chasse de Lyssa, visiblement en train d'organiser des actions quasi-militaires
 tactiques pour assurer le maintien de l'emprise des Crows sur les lieux.
 Une petite négociation s'ensuit, où **Bell refuse catégoriquement de céder du territoire Crows**,
-et est visiblement prêt à se battre pour le défendre, mais annonce être prêt à former une alliance contre le gang de l'Oeil Blanc.
-<!-- Note: Bell a même dit accépter de laisser sa part du territoire Oeil Blanc au Harpon -->
+et est visiblement prêt à se battre pour le défendre, mais annonce être prêt à former une alliance contre le gang de l'Œil Blanc.
+<!-- Note: Bell a même dit accépter de laisser sa part du territoire Œil Blanc au Harpon -->
 
 - l'information leur étant parvenu qu'on cherchait à recruter leurs services à la Goule Fendue,
 les PJs s'y rendent pour rencontrer un petit groupe de **Silver Nails**, un gang d'anciens légionnaires chasseurs de démons,
 mené par **Jenny Holt**, et son second le sergent **Echols**.
 Ceux-ci recherchent un transporteur pour se rendre au **district perdu**, car ils ont des informations pour y dénicher
 un trésor de guerre, mais n'ont pas les contacts, l'équipement ni les compétences pour franchir la barrière illégalement.
-Ils posent 2 conditions : que des garanties leur soit exposés sur comment comptent s'y prendre les PJs,
+Ils posent 2 conditions : que des garanties leur soit exposées sur comment comptent s'y prendre les PJs,
 et qu'ils soient eux-même présents pour l'opération.
 Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une opération qui aurait lieu dans 5.
 
-<figure role="group">
-  <img alt="Jenny Holt, Silver Nails" src="https://cdna.artstation.com/p/assets/images/images/007/765/046/large/cedric-peyravernay-01.jpg?1508355612">
-  <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank"><em>(Cedric Peyravernay)</em></a></figcaption>
-</figure>
+<div class="side-by-side">
+  <figure role="group">
+    <img alt="Darmot portrait" src="images/bitd/Darmot.jpg">
+    <figcaption>Darmot portrait <em>(Carlos Carbrera)</em></figcaption>
+  </figure>
+  <figure role="group">
+    <img alt="Jenny Holt, Silver Nails" src="https://cdna.artstation.com/p/assets/images/images/007/765/046/large/cedric-peyravernay-01.jpg?1508355612">
+    <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank"><em>(Cedric Peyravernay)</em></a></figcaption>
+  </figure>
+</div>
 
 - les PJs enchainent avec la rencontre au sommet au _Golden Feather_.
-En bref, tout se déroule sans encombre. **Une alliance est conclue contre le gang de l'Oeil Blanc, pour l'éradiquer**.
+En bref, tout se déroule sans encombre. **Une alliance est conclue contre le gang de l'Œil Blanc, pour l'éradiquer**.
 **Mylera** annonce qu'elle négociera avec les Gondoliers pour organiser un blocus d'approvisionnement de drogue ;
 Bell compte leur mettre la pression en sollicitant les Bluecoats et en organisant des frappes tactiques ;
 le gang du Harpon quand à lui annonce qu'il passera à l'action cette nuit même, puis qu'il organisera une campagne de décridibilisation.
 Les PJs recoivent même un cadeau de la part du gang de l'Écharpe Rouge : un coffret garni d'épices, d'étoffes précieuses,
 de parfum et de pierres précieuses.
 
-<figure role="group">
-  <img alt="Mylera Klev" src="https://cdna.artstation.com/p/assets/images/images/015/505/384/large/mona-finden-windrider-2.jpg?1548613038">
-  <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank"><em>(Windrider 2 by Mona Finden)</em></a></figcaption>
-</figure>
-
-<figure role="group">
-  <img alt="Oru" src="https://cdnb.artstation.com/p/assets/images/images/012/643/861/large/silviu-sadoschi-old-master-final3.jpg?1535798091">
-  <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank"><em>(Old Master by Silviu Sadoschi)</em></a></figcaption>
-</figure>
+<div class="side-by-side">
+  <figure role="group">
+    <img alt="Mylera Klev" src="https://cdna.artstation.com/p/assets/images/images/015/505/384/large/mona-finden-windrider-2.jpg?1548613038">
+    <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank"><em>(Windrider 2 by Mona Finden)</em></a></figcaption>
+  </figure>
+  <figure role="group">
+    <img alt="Oru" src="https://cdnb.artstation.com/p/assets/images/images/012/643/861/large/silviu-sadoschi-old-master-final3.jpg?1535798091">
+    <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank"><em>(Old Master by Silviu Sadoschi)</em></a></figcaption>
+  </figure>
+</div>
 
 - la nuit étant déjà bien avancée, et secouée par un orage aux relents spectraux, avec de nombreux Échos dans l'air,
-les PJs passent à l'action sur l'entrepôt de l'Oeil Blanc qu'ils ont identifié, et où Aldo les attendait.
+les PJs passent à l'action sur l'entrepôt de l'Œil Blanc qu'ils ont identifié, et où Aldo les attendait.
 Après une infiltration réussie, ils font face à plus de résistance que prévue, pour finalement débarquer en pleine cérémonie
 d'invocation d'un démon, en présence de **Baszos Baz** lui-même !
 Les PJs se replient finalement, en détruisant tout de même le laboratoire de l'entrepôt au passage.
@@ -435,47 +438,234 @@ En voici quelques autres extraits de cet article :
 (*) Decontamination requires time, fancy equipment, or involved rituals.
 
 
-<!-- Enfin, voici une gazette réalisée par des fans, _The Doskvol Echo_, idéale pour mettre dans l'ambiance les joueurs
-en partie, ou pour les _teaser_ par email pour la prochaine !
+## Session 7 - 6 juin 2020
 
-- ex: https://www.fodey.com/generators/newspaper/snippet.asp
-  Doskvol Daily
-  Thursday, November 17, 847
-  Header + text to define
-- even better: https://www.reddit.com/r/bladesinthedark/comments/bifi0w/the_doskvol_echo_a_blades_in_the_dark_newspaper/
+Inspiré d'[un article de Bastien "Acritarche" Wauthoz](https://acritarche.tumblr.com/post/156974895168/lettres-damour-au-p%C3%A8re-no%C3%ABl)
+à propos d'une invention de Vincent Baker,
+la partie a débuté par _love letters_ préparés en amont pour deux PJs :
 
-lire Broken Spire_rev2.1.pdf
+<div class="side-by-side">
+  <img alt="Love Letter d'Elaria" src="images/bitd/love-letter-Elaria.jpg">
+  <img alt="Love Letter d'Eric" src="images/bitd/love-letter-Eric.jpg">
+</div>
 
- Idées :
-  * ils reviennent à leur planque et détectent que quelqu'un leur a rendu visite
-  * Ethnos pourrait développer une capacité à changer de corps (il est au courant)
-  * donner des gimmicks pour chaque PNJ, entre autre Aldo, Justinia & Melvir pour leur donner plus de "corps":
-    + renifle tout, les gens, les lieux
-    + obsedé par les croix
-    + adore la musique
-    + joue continuellement avec une pierre à aiguiser
-  * en intérieur, dans une pièce avec des tentures, celles-ci sont brusquement soulevés par une tempête !
-  * corbeaux servent d'yeux au Crows, via occultisme...
-  * quel va être la réaction de Baszos Baz, se sentant acculé, et ayant vent de l'alliance ?
-    Mercenaires recrutés, démon invoqué... coup d'éclat public avec menaces à l'égard de ses ennemis ?
-    (mise en scène : harpon qui plante une écharpe rouge et un corbeau)
+<u>Petit bilan :</u> je suis très content du résultat !
+C'était idéal pour se remettre dans le bain en début de partie,
+et les joueurs ont plutôt bien accrochés au principe.
+Il n'y avait pas de _love letter_ pour le 3e PJ, Ethnos-Ludius,
+mais une "énigme à tiroirs" pour lui permettre de développer un pouvoir surnaturel naissant...
+Comme l'énigme est toujours en cours, je n'en dis pas plus pour le moment.
+
+Suite à l'opération en demi-teinte de la nuit précédente, le gang du Harpon se rassemble pour faire le point.
+Pour préparer l'opération dans le district perdu pour laquelle les Silver Nails les ont recruté,
+il est décidé qu'Ethnos allait consulter les notes de Ludius dans son bureau,
+et avec l'aide d'Elaria tenter de trouver d'anciennes connaissances qui pourraient les acheminer jusqu'au district perdu.
+
+Ils se rendent finalement à la rencontre de **Phil**,
+un ancien camarade marin de Ludius, devenu pêcheur
+et ayant encore une dette envers ce dernier.
+Il accepte finalement à contre-cœur d'acheminer de nuit, dans 4 jours,
+une dizaine de personnes jusqu'en dehors de la barrière electroplasmique,
+et de les déposer sur l'île de la Quarantaine, pour les rapatrier ensuite au lever du jour.
+
+De son côté, Eric confronte l'individu qui se renseignait sur lui à l'_Habit fait le Moine_,dans un bordel où il a ses habitudes.
+La discussion tourne court quand ce dernier, un chasseur de prime nommé **Casta**,
+tente de le paralyser par une décharge électrique via sa bague :
+Eric encaisse sans broncher, puis le rattrape alors qu'il tente de s'échapper avec une amulette.
+
+> « On paye avant de sortir »
+
+Eric démolit la machoire de Casta, et l'embarque dans une chambre pour l'interroger.Lui tendant un crayon, il lui explique :
+
+> « Je vais te poser quelques questions.
+> Si tu tiens à la vie, ne me mens pas, et réponds précisément par un seul mot. »
+
+Eric découvre que le chasseur de prime a été engagé anonymement dans une auberge,
+l'_Encre & la Plume_, il y a 2 jours. Il doit retourner y faire son rapport dans 3 jours à 21h.
+
+> « Où ça ? »
+
+> « Au fond près de la croix. »
+
+> « Ça fait plus d'un mot ça. Perdu. »
+
+Après avoir éliminé Casta et s'être débarrassé de son corps, Eric rejoind le reste du gang à leur planque.
+Là-bas, Ethnos-Ludius & Elaria ont découvert que quelqu'un s'était introduit chez eux malgré leurs systèmes de protection, et surprenne l'intrus alors qu'il tentait de forcer le coffre contenant le _logbook_.
+Elaria rattrape leur voleur avant qu'il ne s'enfuie, l'assome et le ramène au Vieux Galion.
+La jeune femme étant muette, Ethnos lui donne une plume et une feuille de papier
+et procède à un interrogatoire inquisiteur.
+La monte-en-l'air accepte de parler s'ils promettent de lui laisser la vie sauve.
+Elle révèle s'appeler **Sylvia Derengathi** et avoir tenté de voler le _logbook_pour impressionner les membres de la société secrète du Cercle de Feu, et ainsi être intronisée en leur sein.
+Elle retranscrit toute ce qu'elle sait sur les informations fournies à l'ordre,
+par exemple par les Chasseurs de Léviathans.
+En définitive, Ethnos-Ludius lui tranche la main pour la punir avant de l'abandonner dans une ruelle en ville.
+
+Suite à ces événements, Elaria & Ethnos-Ludius ressentent tous deux le besoin de faire retomber la pression.
+Elaria se brouille définitevement avec Damian, le patron du __Dragon d'Iruvia__,
+la fumerie d'opium où elle a l'habitude de se rendre.
+Jetée à la porte, refusant de se rendre à une fumerie tenue par l'Œil Blanc,
+elle finit par allez se fournir à Coalridge puis perd pied pendant 24 heures suite à une overdose...
+De son côté, Ethnos-Ludius réalise que ses séances d'autoflagélation ne le soulagent plus.Des fissures auraient-elles emergées dans sa foi envers l'Église de l'Extase de la Chair
+suite à son changement d'enveloppe charnelle ? Il décide d'aller se confier au prêtre Herman à l'église de Nightmarket.
+Une fois sa confession terminée cependant, le bon curé horrifié le jette à la porte et l'excomunie de son district.
+
+Vis à vis de l'alliance des gangs contre l'Œil Blanc,
+le gang du Harpon respecte sa parole et entame une campagne décrédibilisation,
+insistant sur la faiblesse visible du gang ciblé, incapable d'assurer la sécurité
+de ses clients et de leur territoire.
+En parallèle, ils engagent un espion, **Veleris**,
+pour récolter des informations sur le gang de l'Œil Blanc,
+et plus particulièrement leurs rapports avec l'occulte, leur équipement,
+leur nombre d'hommes et leurs opérations en cours.
+Enfin, ils rencontrent à nouveau les Silver Nails pour leur exposer leur plan
+et convenir de leur rémunération.
+
+Le soir venu, ils se rendent à l'auberge l'_Encre & la Plume_
+pour identifier le mystérieux commanditaire qui avait engagé Casta.
+Celui-ci se révèle être la fille de l'ancien psy d'Eric, dont le meurtre lui avait valu la prison,
+mais dont il avait oublié le nom.
+
+Le lendemain soir, ils retrouvent les Silver Nails, armés et harnachés pour le combat,
+chez Phil, et ils embarquent tous en direction des des barrières electroplasmiques.
+Le contrôle de routine de l'armée impériale se déroule sans encombre,
+et une fois à l'île de la Quarantaine ils mettent deux barques à l'eau pour rejoindre la côte.
+Le paysage qui s'offre à eux est celui d'une terre désolé, noire et cendreuse.
+Les bâtiments qui composent le district se dressent, immaculés et nus,
+au milieu de rues désertes où plus rien d'oganique de subsiste, ni bois ni végétation.
+La mere d'huile et la plage sont nappées d'un silence lugubre.
+
+Une fois à terre, Melvir, Elaria, Eric, Ethnos-Ludius et Fatima restent surveiller les barques
+tandis que les autres Silver Nails s'enfoncent dans le district perdu.
+Malgré les réticences du reste du groupe, Ethnos-Ludius s'éloigne examiner les environs.
+Alors que l'attention est centrée sur sa silhouette s'enfonçant dans la brume,
+nul ne remarque les tentacules sortant de l'eau et se dirigant vers Fatima sur l'une des barques.
+En un instant, tout bascule : une barque se retourne tandis qu'Eric eloigne l'autre en sécurité sur la plage,
+Fatima est entraîné dans l'eau, Melvir tente de la secourir et,
+tandis qu'Ethnos-Ludius découpe des tentacules à tour de bras,
+tous deux disparaissent sous l'eau sans qu'Elaria ne parviennent et les sauver avec sa corde.
+
+Attérés par la perte de leurs camarades, la terreur s'empare du trio du Harpon
+lorqu'un peu plus tard ils entendent la voix de Melvir provenir du district et les supplier de venir lui porter secours... Un peu plus tard, c'est un bâteau fantôme qu'ils voient glisser sur la mer.
+Les nerfs à fleur de peau, c'est ensuite le simple tic-tac provenant du sac de Melvir échoué sur la plage
+qui suffit à les effrayer.
+
+<figure role="group">
+  <img alt="Molosse spectral" src="images/bitd/bb-scorge-beast.jpg">
+  <figcaption>Scourge Beast - <a href="https://www.creativeuncut.com/art_bloodborne_a.html" target="_blank">Blooborne artwork</a></figcaption>
+</figure>
+
+Quelques heures avant l'aube, un molosse spectral s'avance sur la plage vers eux.
+Tentant tout d'abord de se cacher, Ethnos-Ludius finit par décharger sur la créature le barillet de son pistolet électroplasmique. Cela suffit à la faire reculer, mais elle hurle alors à la lune pour appeler à la rescousse sa meute entière.
+Contraints de se réfugier dans les ruines du district pour y échapper,
+les PJs retiennent ensuite leur souffle au passage dans la rue d'un monstre sanguinolant
+[(vidéo illustrative : _Bloodborne Blood Beast_)](https://www.youtube.com/watch?v=Vtj19enwgSE).
+Enfin, c'est le retour des Silver Nails et tous réussissent à regagner la ville sans encombre.
+
+<u>Note :</u> ce _Score_ a été entre autres inspiré de [ce thread Reddit]( https://www.reddit.com/r/bladesinthedark/comments/gviqec/extra_location_the_lost_district/).
+
+Le gang du Harpon organise une sépulture en mémoire de leur frère d'arme et ami disparu.
+Le soir même, un ivrogne se met à les insulter à l'entrée de leur planque :
+
+> « Bande de péquenauds !
+> Gang de mes deux !
+> Argaz se torche les fesses de votre harpon !
+> Vous valez pas tripette !
+> C'est pas un alcoolique, une pute et une saloperie d'iruvien qui me font peur à moi !
+> Argaz vous pisse à la raie ! »
+
+Ethnos-Ludius lui court après pour lui donner un leçon, mais l'ivrogne se volatilise.
+
+Le lendemain matin, Eric le surprend à peindre sur un mur devant le Vieux Falion
+« HARPON TROU DU FION ».
+
+Elaria décide alors d'enquêter sur lui, et retrouve sa trace dans une vieille église abandonnée de Six Towers.
+Mais alors qu'elle l'interroge de manière musclée sur l'identitée de ce « Argaz », une voix guturale derrière elle dit :
+
+> « Argaz c'est moi.
+> Et toi tu vas servir de message pour tes camarades. »
+
+Un démon de 2m50 se tient là, les muscles bandés sous sa peau rouge, une grande dague courbée à la main.
+Une intense course-poursuite s'engage alors entre lui et Elaria,
+au terme de laquelle elle réussit à l'amener jusqu'au district de Nightmarket,
+devant l'auberge où logent les Silver Nails, pour qu'ils accomplissent leur part du marché convenu.
+Une bataille générale s'ensuite, où les balles de gatling electroplasmique fusent
+et où Elaria y perd ses vêtements.
+
+> « Qu'est-ce que t'es laid. »
+
+Suite à une manœuvre d'équipe bien orchestrée des Silver Nails,
+le démon finit par être abattu par Jenny Holt.
+Face à l'auberge en partie détruite, Elaria lance au patron :
+
+> « Vous adresserez la note à l'Œil Blanc. »
+
+<div class="side-by-side">
+  <figure>
+    <img alt="I Will Find You And I Will Kill You" src="images/bitd/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
+    <figcaption><a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img alt="Baszos Baz" src="images/bitd/BaszosBaz.jpg">
+    <figcaption>Baszos Baz - John Harper</figcaption>
+  </figure>
+</div>
+
+### Ressources
+
+Pour l'ambiance musicale, j'ai opté pour cette playlist YouTube :
+[Blades in the Dark music](https://www.youtube.com/watch?v=pPWCkhulCn8&list=PLxiArOyYrVNHsgg1Y3ShKX6Yhys_NgfsY).
+Elle contient 65 morceaux dont certains issus de la bande son des jeux vidéos Dishonoredn, Thief et
+de The Witcher (il faut passer la piste 10 au bout d'un certain car elle tourne en boucle pendant 1h), ainsi que du film Sherlock Holmes.
+
+Histoire de réviser la géographie de la ville et me préparer à des scènes improvisées,
+j'ai pris le temps d'associer les suggestions d'obstacles de [noobule dans ce thread Reddit](https://www.reddit.com/r/bladesinthedark/comments/ah92m6/a_list_of_flavorful_obstacles/eeegujz)
+avec les [feuilles de District de Ben Morgan](http://ad1066.com/bens-character-sheets/blades-in-the-dark-playbooks).
+Il manque d'ailleurs les districts de _Crow's Foot_ & _The Lost District_,
+mais Tim "Old Dog" Denee a dessiné des cartes de ces deux lieux :
+[Crow's Foot](https://drive.google.com/drive/folders/16FTxODZKtLiWI0FlgyYde_B9vDLAp40Q) - [The Lost District](https://drive.google.com/file/d/1QO8XzVlnS0FUCV6xCmqdPEbQ03KvX29q/view) - [DriveThruRPG](https://www.drivethrurpg.com/browse/pub/16658/Old-Dog-Games).
+
+J'ai aussi imprimé la [feuille des Factions](https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Factions.pdf),
+ainsi que [cette feuille de suivi des _Scores_](https://fr.scribd.com/document/375690846/Blades-in-the-Dark-Campaign-Tracker),
+qui vont m'être bien utiles je pense.
+Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https://thetrove.net/Books/Powered%20by%20the%20Apocalypse/Blades%20in%20the%20Dark/Hacks/).
+
+
+## Session 8 - ? août 2020
+
+![Harpoon + Crow + Red Sash + White Eye](images/bitd/crow-harpoon-red-scard.jpg)
+
+<!-- Idées :
+* prochaine partie : plonger les joueurs dans l'action dès le début
++ leur donner des scènes où ils sont BADASS
+* pour sauver sa peau, Baszos Baz leur promettra qu'il peut ramener Melvir d'entre les morts
+* anticiper partage du territoire de l'Oeil Blance & recrutement d'un wisper par Elaria (clock en cours)
+* préparer des pistes de Scores / opportunités vis à vis des autres gangs
+à partir des renesignements de Sylvia Derengathi
+* gimmicks pour PNJs:
+  + renifle tout, les gens, les lieux
 
 + trouver illustrations pour les PNJs ppaux, comme Baszos Baz
+<img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">
+https://www.creativeuncut.com/gallery-29/bb-scorge-beast.html
 
 + make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
-TO PRINT: https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Factions.pdf
+TO MENTION:
++ https://mabelharper.itch.io/steelweavers-rebellion
 + https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0
 + https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0
 + https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0
-+ http://www.ad1066.com/download/Sheets/blades/misc/Districts.pdf
-+ idées de Devil's Bargain / obstacles
++ https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA
++ https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/
+
+TO PRINT:
++ idées de Devil's Bargain / obstacles ci-dessus
 + illustrations d'Elliot
++ crowsfoot_zoom.jpg & doskvol_lostdistrict.jpg
 
-Envoyer cette AdJ à Thomas :https://redboxvancouver.files.wordpress.com/2018/02/alt_iruvian_playbooks_20171121.pdf
-
-DOWNTIME DEJA FAIT A LA FIN DE LA PARTIE PRECEDENTE
+AdJ pour Thomas :
+https://redboxvancouver.files.wordpress.com/2018/02/alt_iruvian_playbooks_20171121.pdf
 
 One-Shot : https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit#
 -> l'idée des "ghost dealers" est très chouette !
@@ -494,9 +684,14 @@ article img {
   display: block;
   margin: 0 auto;
 }
-article figcaption {
-  text-align: center;
+article figcaption { text-align: center; }
+.side-by-side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
 }
+.side-by-side > * { flex: 1 0; padding: 0 .5rem; }
 /* headless tables */
 article table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; margin: 0 auto; }
 article td, article th { font-weight: normal; padding: 5px 10px; text-align: left; }

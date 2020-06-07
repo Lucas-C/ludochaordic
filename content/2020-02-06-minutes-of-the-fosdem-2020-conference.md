@@ -1,6 +1,6 @@
 Title: Minutes of the FOSDEM 2020 conference
 Date: 2020-02-06 14:00
-Tags: lang:en, libre-software, open-source, talk, conference, slides, bruxelles, europe, accessibility, compte-rendu, human-rights, oui.sncf, prog
+Tags: lang:en, libre-software, open-source, talk, conference, slides, bruxelles, europe, accessibility, compte-rendu, human-rights, oui.sncf, OSOR, prog
 Slug: minutes-of-the-fosdem-2020-conference
 ---
 
@@ -344,6 +344,11 @@ I sincerely think that **the "brainstorming session results" from this workshop 
 Finally, I am a bit disappointed that the survey they sent us is only addressed to members of open source community managed by the public sector
 [link to the survey](https://ec.europa.eu/eusurvey/runner/OSORsurvey2020sustainabilitycommunities).
 They do not seem interested in consulting members of other open-source communities.
+
+**EDIT [2020/06/02]** : I missed that before but the OSOR has [a newsletter](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/osor-newsletters).
+
+It is also redacting interesting [Intelligence reports](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence)
+on the use of open source software per european country.
 
 
 ## Sunday 11:00 Is the web rea11y for all? - Ioana Chiorean

@@ -13,11 +13,7 @@ from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
 def pelican_run(c, cmd):
     cmd += ' ' + program.core.remainder  # allows to pass-through args to pelican
-    # cf. https://github.com/getpelican/pelican/pull/2600
-    try:
-        pelican_main(cmd.split(' '))
-    except TypeError:
-        c.run('pelican ' + cmd)
+    pelican_main(cmd.split(' '))
 
 SETTINGS_FILE_BASE = 'pelicanconf.py'
 SETTINGS = {}
@@ -135,7 +131,6 @@ def livereload(c):
     content_file_extensions = ['.md', '.rst']
     for extension in content_file_extensions:
         content_blob = '{0}/**/*{1}'.format(SETTINGS['PATH'], extension)
-        # Relies on https://github.com/lepture/python-livereload/pull/204
         server.watch(content_blob, lambda paths: build(c, ','.join(paths)))
     # Watch the theme's templates and static assets
     theme_path = SETTINGS['THEME']

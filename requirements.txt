@@ -1,6 +1,6 @@
 beautifulsoup4
 invoke
-git+https://github.com/Lucas-C/python-livereload.git@patch-2
+livereload
 markdown
 mdx_include
 pelican

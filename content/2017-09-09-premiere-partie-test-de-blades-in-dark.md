@@ -59,7 +59,7 @@ De son côté, Ludius a trouvé un prétexte pour être à bord : via ses ancien
 > Alors comme ça, tu veux rejoindre notre équipage comme officier ?
 
 Ethnos & Elvira escaladent le gaillard arrière du galion, et éliminent discrètement une sentinelle,
-quand tout d'un coup des éclats de voix se font entendre sur le pont principal, ou l'équipage est rassemble autour de Ludius & Drav.
+quand tout d'un coup des éclats de voix se font entendre sur le pont principal, où l'équipage est rassemble autour de Ludius & Drav.
 
 > Croyais-tu vraiment que je te reconnaîtrais pas ? Traître ! Tu vas payer !
 
