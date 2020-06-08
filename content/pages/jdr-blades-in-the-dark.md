@@ -643,8 +643,9 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 + leur donner des scènes où ils sont BADASS
 * pour sauver sa peau, Baszos Baz leur promettra qu'il peut ramener Melvir d'entre les morts
 * anticiper partage du territoire de l'Oeil Blance & recrutement d'un wisper par Elaria (clock en cours)
-* préparer des pistes de Scores / opportunités vis à vis des autres gangs
-à partir des renesignements de Sylvia Derengathi
+* préparer des pistes de Scores / opportunités vis à vis des autres gangs,
+entre autres à partir des renesignements de Sylvia Derengathi
+* introduire des "artefacts multifonctions"
 * gimmicks pour PNJs:
   + renifle tout, les gens, les lieux
 

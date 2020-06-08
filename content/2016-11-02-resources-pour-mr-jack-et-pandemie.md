@@ -45,6 +45,12 @@ et il est vraiment excellent ! La variante de règle qui est introduite change d
 **EDIT [2019/11/23]** : Je viens de découvrir sur BGG une prometteuse campagne gratuite [Pandemic Story Mode](https://boardgamegeek.com/filepage/191584/pandemic-story-mode-season-1)
 Je viens également de publier deux scénarios de mon cru:
 [Pandemic: Worldwide Research Program & Mass Migrations](pandemic-worldwide-research-program-and-mass-migrations.html)
+
+**EDIT [2020/06/05]** : Nous avons testé à 2 un scénario COVID-19 pour ce jeu, conçu par Trevor Bender,
+et nous l'avons très amusant et bien équilibré :
+[COVID-19: A Pandemic Scenario](https://www.c3iopscenter.com/pages/wargame-room-store/#!/COVID-19-A-Pandemic-Scenario-C3i-eBook-Edition/p/185408244/category=33205167).
+Une traduction française par Antoine Bourguilleau : [fichier .docx via Google Drive](https://drive.google.com/file/d/1_kFzvSi-cD7ikxeg-ymfmNbQZzhDOemu/view)
+
 ---
 
 [Mr Jack](//www.trictrac.net/jeu-de-societe/mr-jack) a été une super découverte ! J'en avais seulement entendu parler jusqu'à présent, et le jeu se révèle un très bon défi tactique asymétrique, savamment équilibré.
