@@ -235,7 +235,19 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
   </section>
 </div>
 
----
+Plusieurs de ces PDFs ont été générés avec [puppeteer](https://github.com/puppeteer/puppeteer),
+et en conséquence leur accessibilité (a11y) est loin d'être idéale...
+J'en suis bien conscient, et j'espère pouvoir bientôt prendre le temps
+de changer de convertisseur HTML -> PDF au profit d'un outil plus respectueux des standards d'accessibilité.
+<!-- cf. brain_dump.txt & jdr/.travis.yml -->
+
+De plus, si jamais vous aimeriez une version `.epub` de certains de mes jeux,
+n'hésitez pas à me le dire en commentaire !
+<!--
+* https://www.lifewire.com/create-epub-file-from-html-and-xml-3467282
+* EPUB v3 supports HTML5
+* validators: https://github.com/w3c/epubcheck
+-->
 
 <style>
 .uk-article-content > p > img { margin-bottom: 10rem; }

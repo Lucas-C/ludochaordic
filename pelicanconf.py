@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2020-06-09', 'img_url': 'images/readings/Dirty-MJ-COVER-1.jpg', 'description': 'Dirty MJ - John Wick (essai)'},
     {'date': u'2020-05-24', 'img_url': 'images/readings/SandmanPreludesNocturnes.jpg', 'description': 'Sandman - Preludes & Nocturnes - Neil Gaiman (comics)'},
     {'date': u'2020-05-13', 'img_url': 'images/readings/LesSciencesCaNousRegarde.jpg', 'description': 'Les sciences, ça nous regarde - Lionel LARQUÉ & Dominique PESTRE'},
     {'date': u'2020-04-14', 'img_url': 'images/readings/la-consolante.jpg', 'description': 'La Consolante - Anna Gavalda (roman)'},
