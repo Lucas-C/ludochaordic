@@ -8,18 +8,14 @@ import webbrowser
 from invoke import task
 from invoke.main import program
 from pelican import main as pelican_main
+from pelican.readers import BaseReader
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
-
-def pelican_run(c, cmd):
-    cmd += ' ' + program.core.remainder  # allows to pass-through args to pelican
-    pelican_main(cmd.split(' '))
 
 SETTINGS_FILE_BASE = 'pelicanconf.py'
 SETTINGS = {}
 SETTINGS.update(DEFAULT_CONFIG)
-LOCAL_SETTINGS = get_settings_from_file(SETTINGS_FILE_BASE)
-SETTINGS.update(LOCAL_SETTINGS)
+SETTINGS.update(get_settings_from_file(SETTINGS_FILE_BASE))
 SETTINGS.update({k:v for k, v in os.environ.items() if k != 'PATH'} )  # useful to override OUTPUT_PATH with an env variable
 
 CONFIG = {
@@ -46,25 +42,28 @@ def build(c, only_src_paths=None):  # CLI usage: invoke build --only-src-paths c
     if only_src_paths:
         only_out_paths = [src2out(path) for path in only_src_paths.split(',')]
         cmd += ' -w ' + ','.join(only_out_paths)
-    pelican_run(c, cmd)
+    pelican_run(cmd)
 
-def src2out(path):  # Sadly custom to my filename-to-slug naming convention, can hardly made generic
-    with open(path) as md_file:
-        is_draft = 'Status: draft' in md_file.read()
-    filename = path.split('/', 2)[-1]
-    if filename.startswith('20'):
-        filename = '-'.join(filename.split('-')[3:])
-    return CONFIG['deploy_path'] + ('/drafts/' if is_draft else '/') + filename.replace('.md', '.html')
+def src2out(src_file_path):
+    _, src_file_ext = os.path.splitext(src_file_path)
+    for cls in BaseReader.__subclasses__():
+        if cls.enabled and src_file_ext[1:] in cls.file_extensions:
+            reader = cls(SETTINGS)
+            break
+    else:
+        raise RuntimeError(f'No enabled reader found for extension {src_file_ext}')
+    _, metadata = reader.read(src_file_path)
+    return CONFIG['deploy_path'] + ('/drafts/' if metadata.get('draft') else '/') + metadata['slug'] + '.html'
 
 @task
 def rebuild(c):
     """`build` with the delete switch"""
-    pelican_run(c, '-d -s {settings_base}'.format(**CONFIG))
+    pelican_run('-d -s {settings_base}'.format(**CONFIG))
 
 @task
 def regenerate(c):
     """Automatically regenerate site upon file modification"""
-    pelican_run(c, '-r -s {settings_base}'.format(**CONFIG))
+    pelican_run('-r -s {settings_base}'.format(**CONFIG))
 
 @task
 def serve(c):
@@ -90,7 +89,7 @@ def reserve(c):
 @task
 def publish(c):
     """Build production version of site"""
-    pelican_run(c, '-s {settings_publish} -o {deploy_path}'.format(**CONFIG))
+    pelican_run('-s {settings_publish} -o {deploy_path}'.format(**CONFIG))
     with open(CONFIG['deploy_path'] + '/tagcloud.html') as tagcloud_file:
         tagcloud_lines = extract_lines_between(tagcloud_file.readlines(), '<ul class="mg-tagcloud">', '</ul>')
     with open(CONFIG['deploy_path'] + '/pages/bienvenue.html', 'r+') as bienvenue_file:
@@ -142,3 +141,7 @@ def livereload(c):
     # Serve output path on configured port
     webbrowser.open('http://localhost:{}'.format(CONFIG['port']))
     server.serve(port=CONFIG['port'], root=CONFIG['deploy_path'])
+
+def pelican_run(cmd):
+    cmd += ' ' + program.core.remainder  # allows to pass-through args to pelican
+    pelican_main(cmd.split(' '))
