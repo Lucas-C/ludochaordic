@@ -626,7 +626,7 @@ j'ai pris le temps d'associer les suggestions d'obstacles de [noobule dans ce th
 avec les [feuilles de District de Ben Morgan](http://ad1066.com/bens-character-sheets/blades-in-the-dark-playbooks).
 Il manque d'ailleurs les districts de _Crow's Foot_ & _The Lost District_,
 mais Tim "Old Dog" Denee a dessiné des cartes de ces deux lieux :
-[Crow's Foot](https://drive.google.com/drive/folders/16FTxODZKtLiWI0FlgyYde_B9vDLAp40Q) - [The Lost District](https://drive.google.com/file/d/1QO8XzVlnS0FUCV6xCmqdPEbQ03KvX29q/view) - [DriveThruRPG](https://www.drivethrurpg.com/browse/pub/16658/Old-Dog-Games).
+[Crow's Foot](https://drive.google.com/drive/folders/16FTxODZKtLiWI0FlgyYde_B9vDLAp40Q) - [The Lost District](https://drive.google.com/file/d/1QO8XzVlnS0FUCV6xCmqdPEbQ03KvX29q/view) - [The Docks](https://community.bladesinthedark.com/t/my-detailed-street-by-street-maps-of-doskvol-are-finally-done/1368) - [DriveThruRPG](https://www.drivethrurpg.com/browse/pub/16658/Old-Dog-Games).
 
 J'ai aussi imprimé la [feuille des Factions](https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Factions.pdf),
 ainsi que [cette feuille de suivi des _Scores_](https://fr.scribd.com/document/375690846/Blades-in-the-Dark-Campaign-Tracker),
@@ -646,6 +646,8 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 * préparer des pistes de Scores / opportunités vis à vis des autres gangs,
 entre autres à partir des renesignements de Sylvia Derengathi
 * introduire des "artefacts multifonctions"
+* logbook = game changer, va modifier équilibre des forces de la ville...
+* prendre inspis de Dirty MJ
 * gimmicks pour PNJs:
   + renifle tout, les gens, les lieux
 
@@ -663,11 +665,6 @@ TO MENTION:
 + https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0
 + https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA
 + https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/
-
-TO PRINT:
-+ idées de Devil's Bargain / obstacles ci-dessus
-+ illustrations d'Elliot
-+ crowsfoot_zoom.jpg & doskvol_lostdistrict.jpg
 
 TO ADD to Pinterest: https://wallpaperaccess.com/bloodborne-city
 

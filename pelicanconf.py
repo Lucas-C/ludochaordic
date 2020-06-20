@@ -111,11 +111,12 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('github', 'https://github.com/Lucas-C'),
-          ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
-          ('travis-ci', 'https://travis-ci.org/Lucas-C'),
-          ('discord', 'https://discord.gg/BJeuEtX'),
+          ('wikipedia', 'https://fr.wikipedia.org/wiki/Utilisateur:Dr_max_kurt'),
           ('itchio', 'https://lucas-c.itch.io'),
-          ('linkedin', 'https://www.linkedin.com/in/lucascimon'))
+          ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
+          ('discord', 'https://discord.gg/BJeuEtX'),
+          ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
+          ('travis-ci', 'https://travis-ci.org/Lucas-C'))
 
 SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/logo_la-quadrature-du-net_20x20.png', 'Faites un don à la Quadrature !'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/button_80x15_framasoft.png', 'Soutenez Framasoft !'),

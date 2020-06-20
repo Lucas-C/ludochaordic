@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+import shlex
 import shutil
 import sys
 import webbrowser
@@ -144,4 +145,4 @@ def livereload(c):
 
 def pelican_run(cmd):
     cmd += ' ' + program.core.remainder  # allows to pass-through args to pelican
-    pelican_main(cmd.split(' '))
+    pelican_main(shlex.split(cmd))
