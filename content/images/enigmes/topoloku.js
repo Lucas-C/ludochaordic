@@ -7,7 +7,9 @@ export function renderTopolokuUsingDataAttrs(table) {
         size,
         initialLetters: JSON.parse(table.dataset.initialLetters || '{}'),
         missingLetters: (table.dataset.missingLetters || '').split(''),
+        customLettersTopo: table.dataset.customLettersTopo && JSON.parse(table.dataset.customLettersTopo),
         secretWordPos: table.dataset.secretWordPos && JSON.parse(table.dataset.secretWordPos),
+        displaySecretWordPos: table.dataset.displaySecretWordPos,
         onSuccess: table.dataset.onSuccess && (() => window[table.dataset.onSuccess](table)),
         solution: table.dataset.solution && lineFormatGrid(table.dataset.solution, size[0]),
         solve: table.dataset.solve,
@@ -17,7 +19,9 @@ export function renderTopoloku(table, options) {
     const [width, height] = options.size;
     const initialLetters = options.initialLetters || {};
     const missingLetters = options.missingLetters || [];
+    const customLettersTopo = options.customLettersTopo || {};
     const secretWordPos = options.secretWordPos;
+    const displaySecretWordPos = options.displaySecretWordPos;
     const onSuccess = options.onSuccess;
     let allUniqueLetters = new Set(Object.values(initialLetters));
     for (let letter of missingLetters) {
@@ -25,6 +29,12 @@ export function renderTopoloku(table, options) {
     }
     allUniqueLetters.delete('■');
     allUniqueLetters = Array.from(allUniqueLetters).sort();
+    const lettersTopo = deepCopy(LETTERS_TOPO);
+    if (customLettersTopo) {
+      for (let letter in customLettersTopo) {
+        lettersTopo[letter] = customLettersTopo[letter];
+      }
+    }
     for (let j = 0; j < height; j++) {
         const tr = document.createElement('tr');
         for (let i = 0; i < width; i++) {
@@ -43,7 +53,7 @@ export function renderTopoloku(table, options) {
                         Array.from(table.getElementsByTagName('td')).forEach(td => td.classList.remove('highlight'));
                     }
                     const grid = gridFromTable(table);
-                    if (isLoopsConstraintSatisfied(grid) && isEndsConstraintSatisfied(grid, allUniqueLetters)) {
+                    if (isLoopsConstraintSatisfied(grid, lettersTopo) && isEndsConstraintSatisfied(grid, allUniqueLetters, lettersTopo)) {
                         table.classList.add('success');
                         if (secretWordPos) {
                             highlightSecretWord(table, secretWordPos);
@@ -58,6 +68,9 @@ export function renderTopoloku(table, options) {
         }
         table.appendChild(tr);
     }
+    if (secretWordPos && displaySecretWordPos) {
+        displaySecretWordIndices(table, secretWordPos);
+    }
     if (missingLetters.length) {
         const missingLettersDiv = document.createElement('div');
         missingLettersDiv.classList.add('topoloku-missing-letters');
@@ -65,7 +78,7 @@ export function renderTopoloku(table, options) {
         table.after(missingLettersDiv);
     }
     if (options.solve) {
-        return gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters));
+        return gridToString(solveTopoloku(width, height, initialLetters, allUniqueLetters, customLettersTopo));
     }
 }
 
@@ -92,7 +105,13 @@ function highlightSecretWord(table, secretWordPos, k = 0) {
     trs[j].children[i].classList.add('highlight');
     setTimeout(highlightSecretWord, 500, table, secretWordPos, k + 1);
 }
-
+function displaySecretWordIndices(table, secretWordPos) {
+    const trs = Array.from(table.getElementsByTagName('tr'));
+    for (let k = 0; k < secretWordPos.length; k++) {
+      const [i, j] = secretWordPos[k];
+      trs[j].children[i].classList.add('secret-word-index', `secret-word-index-${k + 1}`);
+    }
+}
 
 /****************************************************************************
  * Portable Ecmascript
@@ -137,13 +156,16 @@ const LETTERS_TOPO = {
     '+': {loops: 0, ends: 4}, // like H
     '=': {loops: 0, ends: 4}, // like H
 };
-export function solveTopoloku(width, height, initialLetters, allUniqueLetters) {
+export function solveTopoloku(width, height, initialLetters, allUniqueLetters, lettersTopo) {
+    if (!lettersTopo) {
+        lettersTopo = LETTERS_TOPO;
+    }
     const grid = [ ...Array(width) ].map(() => [ ...Array(height) ]);
     Object.keys(initialLetters).forEach(posStr => {
         const [x, y] = posStr.split(',').map(Number);
         grid[x][y] = initialLetters[posStr];
     });
-    const grids = [ ...recurAddLetter(grid, allUniqueLetters, [...getEmptyCellPos(grid)]) ];
+    const grids = [ ...recurAddLetter(grid, allUniqueLetters, [...getEmptyCellPos(grid)], lettersTopo) ];
     if (!grids.length) {
         throw new Error('Zero solution found');
     }
@@ -162,9 +184,9 @@ function * getEmptyCellPos(grid) {
         }
     }
 }
-function * recurAddLetter(grid, letters, emptyCellsPos) { // Brute-force approach
+function * recurAddLetter(grid, letters, emptyCellsPos, lettersTopo) { // Brute-force approach
     if (!emptyCellsPos.length) {
-        if (isEndsConstraintSatisfied(grid, letters)) {
+        if (isEndsConstraintSatisfied(grid, letters, lettersTopo)) {
             yield deepCopy(grid);
         }
         return;
@@ -173,17 +195,17 @@ function * recurAddLetter(grid, letters, emptyCellsPos) { // Brute-force approac
     emptyCellsPos = emptyCellsPos.slice(1);
     const edgesCount = [i === 0, j === 0, i === (grid.length - 1), j === (grid[0].length - 1)].filter(x => x).length;
     for (let letter of letters) {
-        if (edgesCount >= LETTERS_TOPO[letter].loops) {
+        if (edgesCount >= lettersTopo[letter].loops) {
             grid[i][j] = letter;
-            yield * recurAddLetter(grid, letters, emptyCellsPos)
+            yield * recurAddLetter(grid, letters, emptyCellsPos, lettersTopo)
         }
     }
 }
-function isEndsConstraintSatisfied(grid, requiredLetters) { // Also checks that all required letters are used
+function isEndsConstraintSatisfied(grid, requiredLetters, lettersTopo) { // Also checks that all required letters are used
     const gridLetters = new Set();
     for (let group of groupByContiguousLetters(grid)) {
         const {letter, size} = group;
-        if ((LETTERS_TOPO[letter].ends || 1) !== size) {
+        if ((lettersTopo[letter].ends || 1) !== size) {
             return false;
         }
         gridLetters.add(letter);
@@ -222,12 +244,12 @@ function gatherGroupPos(groupPos, letter, grid, i, j) {
         gatherGroupPos(groupPos, letter, grid, i, j + 1);
     }
 }
-function isLoopsConstraintSatisfied(grid) { // Also checks that all cells are filled
+function isLoopsConstraintSatisfied(grid, lettersTopo) { // Also checks that all cells are filled
     for (let i = 0; i < grid.length; i++) {
         for (let j = 0; j < grid[0].length; j++) {
             const edgesCount = [i === 0, j === 0, i === (grid.length - 1), j === (grid[0].length - 1)].filter(x => x).length;
             const letter = grid[i][j];
-            if (!letter || letter === '■' || edgesCount < LETTERS_TOPO[letter].loops) {
+            if (!letter || letter === '■' || edgesCount < lettersTopo[letter].loops) {
                 return false;
             }
         }

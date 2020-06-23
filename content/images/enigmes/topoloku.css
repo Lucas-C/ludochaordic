@@ -30,6 +30,32 @@ table.topoloku.success::after {
   position: absolute;
   right: -8rem;
 }
+table.topoloku td.secret-word-index::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: .25rem;
+  line-height: .5rem;  font-size: .7rem;
+  color: #ee0403;
+  width: initial;
+  height: initial;
+  border: none;
+}
+table.topoloku td.secret-word-index-1::after { content: '1'; }
+table.topoloku td.secret-word-index-2::after { content: '2'; }
+table.topoloku td.secret-word-index-3::after { content: '3'; }
+table.topoloku td.secret-word-index-4::after { content: '4'; }
+table.topoloku td.secret-word-index-5::after { content: '5'; }
+table.topoloku td.secret-word-index-6::after { content: '6'; }
+table.topoloku td.secret-word-index-7::after { content: '7'; }
+table.topoloku td.secret-word-index-8::after { content: '8'; }
+table.topoloku td.secret-word-index-9::after { content: '9'; }
+table.topoloku td.secret-word-index-10::after { content: '10'; }
+table.topoloku td.secret-word-index-11::after { content: '11'; }
+table.topoloku td.secret-word-index-12::after { content: '12'; }
+table.topoloku td.secret-word-index-13::after { content: '13'; }
+table.topoloku td.secret-word-index-14::after { content: '14'; }
+table.topoloku td.secret-word-index-15::after { content: '15'; }
 .topoloku-missing-letters {
   color: green;
   font-size: 1.5rem;

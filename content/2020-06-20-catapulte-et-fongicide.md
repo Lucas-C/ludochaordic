@@ -47,7 +47,7 @@ Un **score** final a aussi été introduit, correspondant à la taille des deux 
 
 Je travaille désormais à la rédaction des règles, pour les rendre les plus claires et didactiques possibles 😉
 
-Si le jeu vous intéresse, laissez nous un commentaire ici ou sur Tipeee !
+Si le jeu vous intéresse, laissez-nous un commentaire ici ou sur Tipeee !
 
 [![Bannière Mush Radio](images/2020/04/MushRadio.jpg)](https://fr.tipeee.com/mush-radio)
 
