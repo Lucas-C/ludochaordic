@@ -1,6 +1,6 @@
 Title: 3 derniers scénarios pour Run Die Repeat et version PDF
 Date: 2020-05-11 15:50
-Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, pdf, run-die-repeat, @Henri, jeux
+Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, pdf, run-die-repeat, metal-gear, @Henri, jeux
 Slug: 3-derniers-scenarios-pour-run-die-repeat-et-version-pdf
 Image: images/2020/05/banner-small.jpg
 ---
@@ -46,7 +46,7 @@ et nouvelle illustration a été adoptée pour le scénario Revengeance.
 
 Je suis vraiment très content d'avoir terminé ce receuil, et de le publier en ligne.
 J'y ai consacré pas mal de temps ces derniers mois, et ai testé tous les scénarios à plusieurs reprises
-avec des amis et des collègues, que je remercie au passage ! 
+avec des amis et des collègues, que je remercie au passage !
 
 Je vais en profiter pour dresser ici un petit bilan personnel de toutes ces parties de _Run. Die. Repeat._
 

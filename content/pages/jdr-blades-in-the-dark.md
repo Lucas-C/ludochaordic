@@ -668,6 +668,9 @@ TO MENTION:
 
 TO ADD to Pinterest: https://wallpaperaccess.com/bloodborne-city
 
+MAPS:
++ https://degenesis.com/downloads/maps
+
 One-Shot : https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit#
 -> l'idée des "ghost dealers" est très chouette !
 -->

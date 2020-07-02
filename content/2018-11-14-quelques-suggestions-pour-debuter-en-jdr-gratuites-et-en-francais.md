@@ -137,6 +137,9 @@ et je viens de rédiger un article sur [comment faire découvrir le JdR](faire-d
 
 **EDIT [2020/03/20]** : [une spéciale redif’ de la plupart du matériel gratuit à destination des enfants](https://lefix.di6dent.fr/archives/10704), Le Fix - Di6dent
 
+**EDIT [2020/06/24]** : je viens de découvrir [Smallest adventures… Pirates!](https://gaet-hoth.itch.io/smallest-adventures-pirates-fr),
+qui me semble malin, minimaliste et très accessible pour des enfants (de 8 ans et plus).
+
 <style>
 article img { max-height: 20rem; }
 .imgs {
