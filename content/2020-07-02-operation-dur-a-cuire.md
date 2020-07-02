@@ -71,13 +71,13 @@ Voici donc mon petit bilan sur ce jeu en définitive :
 
 Ce que j'ai aimé                                          | Ce que j'ai moins aimé
 ----------------------------------------------------------|-
-➕ l'alternance MC-opérateur tout au long de la partie    | ➖ la haute difficulté dépendant majoritairement des lancers de dés
-➕ la concision des règles & le format de partie courte   |
-➕ l'inspiration _Metal Gear Solid_                       |
-➕ la génération de zones hexagonales et leur exploration |
+➕ la concision des règles & le format de partie courte   | ➖ la haute difficulté dépendant majoritairement des lancers de dés
+➕ l'inspiration _Metal Gear Solid_                       | ➖ il manque peut-être un move au MC, accentuant la coopération
+➕ la génération des zones ⬡ et leur exploration          |
 ➕ les équipements qui servent de PV                      |
-➕ les _moves_ segmentés en 2 modes                       |
+➕ les _moves_ segmentés en 2 phases de jeu               |
 ➕ le rôle de _Mission Control_, différent de MJ          |
+➕ l'alternance MC-opérateur tout au long de la partie    |
 
 Il faut également souligner la qualité de la mise en page :
 la maquette est réussie, joliment structurée et illustrée.
