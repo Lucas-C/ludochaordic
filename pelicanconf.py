@@ -13,7 +13,7 @@ DESCRIPTION = '''
 <a href="pages/bienvenue.html">Bienvenue</a> !
 <br>
 En vrac, ce blog traite de <a href="tag/prog.html">programmation</a>, et particulièrement du <a href="tag/python.html">langage Python</a>,
-de <a href="tag/jeu.html">jeux</a> (<a href="tag/jeu-de-societe.html">jeux société</a>, <a href="tag/jdr.html">jeux de rôle</a> et <a href="tag/puzzle.html">puzzles logiques</a>)
+de <a href="tag/jeux.html">jeux</a> (<a href="tag/jeu-de-societe.html">jeux société</a>, <a href="tag/jdr.html">jeux de rôle</a> et <a href="tag/logic-puzzle.html">puzzles logiques</a>)
 et parfois un peu même de <a href="tag/maths.html">mathématiques</a>.
 <br>
 Vous trouverez également ici <a href="pages/jeux-de-role.html">mes créations de jeux de rôle</a>,
