@@ -85,22 +85,9 @@ la maquette est réussie, joliment structurée et illustrée.
 ![Solid snake stencil](images/2020/07/solid-snake-stencil.jpg)
 
 
-<!-- itch.io comment
-Intel Report : fixed
-I do not see how the HIDE rule has changed in v1.1
-
-It wasn't clear that the MC **has** to roll for Recon,
-so the first time we roled SCAN & SIT REP after the operator entered the zone.
-We draw hexagons with sharp corners above & below, instead of on the sides !
-
-The rule specifying that the Operator cannot HIDE again until all active threats in the zone are dealt with is nice,
-because it is "realistic", but it also increases the difficulty level and encourage the tactic to never enter zones with threats & just keep performing SNIPE & HIDE moves from adjacent, "cleared" zones.
-BRAWL > DODGE comme the target is taken out in case of 3-5
-Adv. Gear : can be split between "very useful" (Autofire & Knockout Gas) & "not so useful", that should be kept to be dropped
-
-Suggestions:
-a single checkbox for "used / dropped" should be enough and would make clearer that both cannot happen
-Plus de "relief" au ennemis ?
-+1 move de support du MC ?
-variant loot or localize target
--->
+<style>
+article iframe {
+  display: block;
+  margin: 1rem auto;
+}
+</style>
