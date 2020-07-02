@@ -1,6 +1,6 @@
 Title: Opération « dur à cuire »
 Date: 2020-07-02 12:00
-Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, jdr, 2-players, pbta, variante, gamedesign, equilibrage, metal-gear, @Matt, jeux
+Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, jdr, 2-players, pbta, gamedesign, equilibrage, metal-gear, @Matt, jeux
 Slug: operation-dur-a-cuire
 ---
 
