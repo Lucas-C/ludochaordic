@@ -33,3 +33,6 @@ Feedbacks joueurs - session 1
 [Lady Blackbird 2 (PDF)](http://www.mediafire.com/file/d3kbq66x606lakn/LBB+chapitre+2+-+version+finale.pdf) & [Lady Blackbird 3 (PDF)](http://www.mediafire.com/file/5m7skad15a33dkv/LBB+chapitre+3+-+version+finale.pdf) par Yragael
 
 Tester sa variante cyberpunk: [Electric Sheep](https://www.drivethrurpg.com/product/251079/Electric-Sheep) en PWYW sur DriveThruRPG.
+Ou Star Wars : [Jedi Blackbird](https://fictioneers.net/games/jedi-blackbird)
+
+https://www.deviantart.com/etory/favourites/43520401/steampunk

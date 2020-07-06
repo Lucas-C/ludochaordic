@@ -1,6 +1,6 @@
 Title: Quelques suggestions pour débuter en jeu de rôle, gratuites et en français
 Date: 2018-11-14 23:45
-Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jeux
+Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jeux, @Matt
 Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 ---
 
@@ -139,6 +139,11 @@ et je viens de rédiger un article sur [comment faire découvrir le JdR](faire-d
 
 **EDIT [2020/06/24]** : je viens de découvrir [Smallest adventures… Pirates!](https://gaet-hoth.itch.io/smallest-adventures-pirates-fr),
 qui me semble malin, minimaliste et très accessible pour des enfants (de 8 ans et plus).
+
+**EDIT [2020/07/05]** : un ami m'a parlé de [Donjons & Chenapans](https://gusandco.net/2020/03/18/donjons-chenapans-jeu-enfants/),
+un jeu de rôle pour les enfants dès 4 ans, avec une très jolie feuille de personnage.
+Je viens également d'écrire un court scénario pour _Run Die Repeat_ pour jouer avec des enfants :
+[_le camembert de la sorcière_](un-scenario-pour-run-die-repeat-pour-les-enfants.html).
 
 <style>
 article img { max-height: 20rem; }
