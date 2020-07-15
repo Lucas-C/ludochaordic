@@ -44,12 +44,11 @@ they are [_low tech_](https://homebrewserver.club/low-tech-website-howto.html#so
 and because they are generated only from [versionable text documents](https://en.wikipedia.org/wiki/Version_control), they are very resilient.
 
 Sadly, static websites cannote **receive** linkbacks, as this requires some custom server-side code.
-However they can perfectly well send linkbacks !
+However they can perfectly well **send** linkbacks !
 
-As mentioned in [the article about the FOSDEM conference](minutes-of-the-fosdem-2020-conference.html),
-in last February I have started working on a Pelican plugin to send linkbacks.
-
-I am now proud to present it to you, with support for both Pingbacks & Webmentions:
+Hence, I have written a Pelican plugin to send linkbacks,
+with support for both Pingbacks & Webmentions,
+which I am now proud to introduce here:
 
 <https://github.com/pelican-plugins/linkbacks/> [![Pypi latest version](https://img.shields.io/pypi/v/pelican-plugin-linkbacks.svg)](https://pypi.python.org/pypi/pelican-plugin-linkbacks)
 
@@ -85,7 +84,11 @@ This was done to prevent [Pingback exploits](https://en.wikipedia.org/wiki/Pingb
 but I don't think this kind of [security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) is needed.
 In fact I fear that the impact of hiding the Pingback submission status was mostly to slow down the adoption of this protocol...
 
-That's it for today !
+Another side note: maybe in the future I'll write an HTTP app to receive & store linkback requests,
+and "plug" it to this blog.
+In the meantime, I have found <https://webmention.io> service very nice & simple to use to add support for Webmention on this blog.As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
+
+That's it for today.
 Of course, I'd be more than happy to get feedback from you if you use this Pelican plugin 😉
 And may the _God of Clean Web Protocols & Semantics_ be with you !
 
@@ -93,7 +96,7 @@ And may the _God of Clean Web Protocols & Semantics_ be with you !
 
 
 <style>
-.uk-article-content > p:nth-child(17) { /* Link to GitHub repo */
+.uk-article-content > p:nth-child(16) { /* Link to GitHub repo */
   display: block;
   text-align: center;
   border: 1px solid black;

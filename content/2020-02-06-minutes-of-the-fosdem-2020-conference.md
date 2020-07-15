@@ -444,7 +444,7 @@ but there is a lot of information to be found on the FOSDEM event description.
 Same here, note much notes taken, also getting a bit tired by the end of the week-end 😉
 
 All those inspiring talks about open source gave me an urgent feeling of "I want to code!",
-so I started coding on a new [Pelican plugin](https://github.com/pelican-plugins/linkbacks/) instead of paying much attention to this last talk...
+so I started coding on a new [Pelican plugin](pelican-pingback-and-webmentions.html) instead of paying much attention to this last talk...
 
 
 ## Conclusive notes
