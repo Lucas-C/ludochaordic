@@ -4,7 +4,12 @@ Slug: jdr-blades-in-the-dark
 Status: hidden
 ---
 
-![Illustration officielle de Blades in the Dark](images/bitd/BitD_cover.jpg)
+<figure>
+  <video autoplay loop style="display: block; margin: auto">
+    <source src="images/bitd/emperor_of_steelcity-animated-wallpaper.mp4">
+  </video>
+  <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/eo7dkx/wanted_an_animated_wallpaper_made_an_animated/">emperor_of_steelcity animated wallpaper on Reddit</a></figcaption>
+</figure>
 
 [Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) est un jeu de rôle médiéval-fantastique créé par John Harper
 et mettant en scène un gang de criminels en quête de fortune dans les rues hantées de Doskvol, une ville d'un univers fictif de Dark fantasy.
@@ -12,6 +17,8 @@ et mettant en scène un gang de criminels en quête de fortune dans les rues han
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
+
+![Illustration officielle de Blades in the Dark](images/bitd/BitD_cover.jpg)
 
 
 ## Session 2 - décembre 2017

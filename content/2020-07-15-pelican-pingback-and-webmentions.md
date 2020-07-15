@@ -84,11 +84,11 @@ In fact I fear that the impact of hiding the Pingback submission status was most
 
 Another side note: maybe in the future I'll write a web-app to receive & store linkback requests,
 and "plug" it to this blog.
-In the meantime, I have found <https://webmention.io> service very nice & simple to use to add support for Webmention on this blog.
+In the meantime, I have found the <https://webmention.io> service very nice & simple to use to add support for Webmention on this blog.
 As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
 
 That's it for today.
-Of course, I'd be more than happy to get feedback from you if you use this Pelican plugin 😉
+Of course, I'd be more than happy to get feedback from you if you use this Pelican plugin. 😉
 And may the _God of Clean Web Protocols & Semantics_ be with you !
 
 ![Ooops! you found a Dead Link](https://chezsoi.org/lucas/wwcb/photos/404-Dead_Link.jpg)

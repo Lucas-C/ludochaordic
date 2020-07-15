@@ -38,11 +38,11 @@ def clean(c):
 @task
 def build(c, only_src_paths=None):  # CLI usage: invoke build --only-src-paths content/01.md,content/02.md
     """Build local version of site"""
-    print('build task: ' + (only_src_paths or ''))
     cmd = '-s {settings_base} -o {deploy_path}'.format(**CONFIG)
     if only_src_paths:
         only_out_paths = [src2out(path) for path in only_src_paths.split(',')]
         cmd += ' -w ' + ','.join(only_out_paths)
+    print('build task cmd:', cmd)
     pelican_run(cmd)
 
 def src2out(src_file_path):
@@ -54,7 +54,12 @@ def src2out(src_file_path):
     else:
         raise RuntimeError(f'No enabled reader found for extension {src_file_ext}')
     _, metadata = reader.read(src_file_path)
-    return CONFIG['deploy_path'] + ('/drafts/' if metadata.get('draft') else '/') + metadata['slug'] + '.html'
+    joiner = '/'
+    if metadata.get('draft'):
+        joiner = '/drafts/'
+    elif '/pages/' in src_file_path:
+        joiner = '/pages/'
+    return CONFIG['deploy_path'] + joiner + metadata['slug'] + '.html'
 
 @task
 def rebuild(c):
