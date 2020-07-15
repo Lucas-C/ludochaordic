@@ -4,7 +4,7 @@ Tags: lang:en, libre-software, open-source, pelican, python, blog, plugin, http,
 Slug: pelican-pingback-and-webmentions
 ---
 [Linkback protocols](https://en.wikipedia.org/wiki/Linkback) are an old breed.
-They were born in a time where MySpace, Wikipedia & WordPress had just been born,
+They were born in a time where MySpace, Wikipedia & WordPress had just been launched,
 and Friendster was more popular than this new website called Facebook.
 
 <figure>
