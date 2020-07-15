@@ -5,7 +5,7 @@ Slug: pelican-pingback-and-webmentions
 ---
 <figure>
   <img alt="Diagram showing how linkback protocols work" src="images/2020/07/linkback.gif">
-  <figcaption>Source: <a href="https://www.pprune.org/misc.php?do=linkbacks">PPRuNe article on linkbacks</a></figcaption>
+  <figcaption>Diagram source: <a href="https://www.pprune.org/misc.php?do=linkbacks">PPRuNe article on linkbacks</a></figcaption>
 </figure>
 
 [Linkback protocols](https://en.wikipedia.org/wiki/Linkback) are an old breed.
@@ -43,7 +43,7 @@ So-called "static" websites are great: they are conceptually simple,
 they are [_low tech_](https://homebrewserver.club/low-tech-website-howto.html#software),
 and because they are generated only from [versionable text documents](https://en.wikipedia.org/wiki/Version_control), they are very resilient.
 
-Sadly, static websites cannote **receive** linkbacks, as this requires some custom server-side code.
+Sadly, static websites cannot **receive** linkbacks, as this requires some custom server-side code.
 However they can perfectly well **send** linkbacks !
 
 Hence, I have written a Pelican plugin to send linkbacks,
@@ -58,7 +58,7 @@ However I did not find any which I was satisfied with the code quality, hence I 
 ![The only valid measurement of code quality: WTFs/minute](https://chezsoi.org/lucas/wwcb/photos/Best_Code_Quality_Indicator%20-WTFs_per_minute.png)
 
 The `send_pingback` & `send_webmention` functions in `linkbacks.py` are pretty straightforward.
-They are well tested, and are easily usable in another Python projet:
+They are well tested, and are easily usable in another Python project:
 
 ```python
 from linkbacks import *
@@ -84,15 +84,16 @@ This was done to prevent [Pingback exploits](https://en.wikipedia.org/wiki/Pingb
 but I don't think this kind of [security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) is needed.
 In fact I fear that the impact of hiding the Pingback submission status was mostly to slow down the adoption of this protocol...
 
-Another side note: maybe in the future I'll write an HTTP app to receive & store linkback requests,
+Another side note: maybe in the future I'll write a web-app to receive & store linkback requests,
 and "plug" it to this blog.
-In the meantime, I have found <https://webmention.io> service very nice & simple to use to add support for Webmention on this blog.As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
+In the meantime, I have found <https://webmention.io> service very nice & simple to use to add support for Webmention on this blog.
+As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
 
 That's it for today.
 Of course, I'd be more than happy to get feedback from you if you use this Pelican plugin 😉
 And may the _God of Clean Web Protocols & Semantics_ be with you !
 
-![ooops! you found a Dead Link](https://chezsoi.org/lucas/wwcb/photos/404-Dead_Link.jpg)
+![Ooops! you found a Dead Link](https://chezsoi.org/lucas/wwcb/photos/404-Dead_Link.jpg)
 
 
 <style>
