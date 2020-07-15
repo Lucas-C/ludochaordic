@@ -1,4 +1,4 @@
-Title: Pelican, pingback and webmentions
+Title: Pelican, Pingback and Webmentions
 Date: 2020-07-15 14:00
 Tags: lang:en, libre-software, open-source, pelican, python, blog, plugin, http, html, library, release, source-code, decentralized-web, web-standards, semantic-web, linkbacks, low-tech, static-site-generator, wordpress, security, code-quality, prog, @Matt
 Slug: pelican-pingback-and-webmentions
@@ -66,10 +66,8 @@ from linkbacks import *
 logging.basicConfig(level=logging.DEBUG)
 LOGGER.setLevel(logging.DEBUG)
 
-send_pingback('https://chezsoi.org/lucas/blog/',
-              'https://chezsoi.org/lucas/blog/pages/jeux-de-role.html')
-send_webmention('https://chezsoi.org/lucas/blog/',
-                'https://chezsoi.org/lucas/blog/pages/jeux-de-role.html')
+send_pingback(source_url, target_url)
+send_webmention(source_url, target_url)
 ```
 
 As proof of this library correctly sending notifications, there are two websites that acknowledged reception of Pingback from this blog:
