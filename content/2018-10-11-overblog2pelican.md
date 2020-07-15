@@ -1,6 +1,6 @@
 Title: From overblog to a pelican static website
 Date: 2018-10-11 18:00
-Tags: lang:en, blog, migration, pelican, python, overblog, prog
+Tags: lang:en, blog, migration, pelican, python, overblog, static-site-generator, prog
 Slug: overblog2pelican
 ---
 Some time ago, I used the [overblog](https://over-blog.com) platform in order to create a blog for a long trip in Ireland.

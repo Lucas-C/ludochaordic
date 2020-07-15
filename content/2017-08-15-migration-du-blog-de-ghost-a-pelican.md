@@ -1,6 +1,6 @@
 Title: Migration du blog de ghost à pelican
 Date: 2017-08-15 21:30
-Tags: lang:fr, blog, python, pelican, ghost, prog
+Tags: lang:fr, blog, python, pelican, ghost, static-site-generator, prog
 Slug: migration-du-blog-de-ghost-a-pelican
 ---
 
