@@ -3,24 +3,24 @@ Date: 2020-07-15 14:00
 Tags: lang:en, libre-software, open-source, pelican, python, blog, plugin, http, html, library, release, source-code, decentralized-web, web-standards, semantic-web, linkbacks, low-tech, static-site-generator, wordpress, security, code-quality, prog, @Matt
 Slug: pelican-pingback-and-webmentions
 ---
+[Linkback protocols](https://en.wikipedia.org/wiki/Linkback) are an old breed.
+They were born in a time where MySpace, Wikipedia & WordPress had just been born,
+and Friendster was more popular than this new website called Facebook.
+
 <figure>
   <img alt="Diagram showing how linkback protocols work" src="images/2020/07/linkback.gif">
   <figcaption>Diagram source: <a href="https://www.pprune.org/misc.php?do=linkbacks">PPRuNe article on linkbacks</a></figcaption>
 </figure>
-
-[Linkback protocols](https://en.wikipedia.org/wiki/Linkback) are an old breed.
-They were born in a time where MySpace, Wikipedia & WordPress had just been born,
-and Friendster was more popular than this new website called Facebook.
 
 The latest linkback protocol, [Webmention](https://indieweb.org/Webmention), is relatively recent though,
 as it became a W3C recommendation in 2017.
 
 What are they ?
 
-A web mechanism to **notify** `website-A.com`
-when `website-B.com` publishes content that includes [a link](https://en.wikipedia.org/wiki/Hyperlink) to `website-A.com`.
+A web mechanism to **notify** `website-B.com`
+when `website-A.com` publishes content that includes [a link](https://en.wikipedia.org/wiki/Hyperlink) to `website-B.com`.
 
-Basically, `website-B.com` says “Hello `website-A.com` ! I have just written something about you, maybe you'd like to know !”
+Basically, `website-A.com` says “Hello `website-B.com` ! I have just written something about you, maybe you'd like to know !”
 
 I find linkback protocols very valuable, for several reasons:
 
