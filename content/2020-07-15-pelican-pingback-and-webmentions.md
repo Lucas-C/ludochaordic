@@ -15,7 +15,7 @@ and Friendster was more popular than this new website called Facebook.
 The latest linkback protocol, [Webmention](https://indieweb.org/Webmention), is relatively recent though,
 as it became a W3C recommendation in 2017.
 
-What are they ?
+### What are linkback protocols ?
 
 A web mechanism to **notify** `website-B.com`
 when `website-A.com` publishes content that includes [a link](https://en.wikipedia.org/wiki/Hyperlink) to `website-B.com`.
