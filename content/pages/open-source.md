@@ -37,13 +37,13 @@ personal, minimalist, bookmarking service, in PHP
     * some bug fixes
 
 - [<img alt="Logo Pelican" src="images/open-source/pelican-logo.png" style="max-width: 6rem"> Pelican](https://getpelican.com/) : a static site generator in Python
-    * created [a plugin to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
+    * created [a plugin to send LinkBacks](https://github.com/pelican-plugins/linkbacks/)
     * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
-    * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
+    * and another [to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
     * designed [a 2-columns layout theme](https://github.com/Lucas-C/pelican-theme-timeline)
     * fixed the [Travis CI pipeline for the pelican-plugins repository](https://github.com/getpelican/pelican-plugins/issues/1170)
     * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
-    * created [a plugin to send LinkBacks](https://github.com/pelican-plugins/linkbacks/)
+    * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
 
 - [<img alt="Logo isso" src="images/open-source/isso-logo.svg" style="max-width: 6rem"> isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
 
