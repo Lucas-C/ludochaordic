@@ -55,8 +55,6 @@ which I am now proud to introduce here:
 There are already libraries on Pypi dedicated to publishing linkbacks, for various protocols.
 However I did not find any which I was satisfied with the code quality, hence I wrote my own implementation.
 
-![The only valid measurement of code quality: WTFs/minute](https://chezsoi.org/lucas/wwcb/photos/Best_Code_Quality_Indicator%20-WTFs_per_minute.png)
-
 The `send_pingback` & `send_webmention` functions in `linkbacks.py` are pretty straightforward.
 They are well tested, and are easily usable in another Python project:
 
@@ -83,7 +81,7 @@ but I don't think this kind of [security through obscurity](https://en.wikipedia
 In fact I fear that the impact of hiding the Pingback submission status was mostly to slow down the adoption of this protocol...
 
 Another side note: maybe in the future I'll write a web-app to receive & store linkback requests,
-and "plug" it to this blog.
+and "plug" it to this blog. Or better, add this feature to [isso](https://posativ.org/isso/) (_cf._ [issue #19](https://github.com/posativ/isso/issues/19)).
 In the meantime, I have found the <https://webmention.io> service very nice & simple to use to add support for Webmention on this blog.
 As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
 
