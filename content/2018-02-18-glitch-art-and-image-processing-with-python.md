@@ -103,6 +103,20 @@ There is also this tumblr collecting glitch GIFs: <http://glitchgifs.tumblr.com>
 <div class="lazyload" data-noscript=""><noscript><img alt="Pixel sort Rotation by HI_IM_DR_PHIL" src="images/2018/02/ls5etz2fodcy.gif"></noscript></div>
 </a>
 
+**EDIT [2020/07/17]** :
+
+<a href="https://www.reddit.com/r/glitch_art/comments/hpvuxe/7122020/">
+<div class="lazyload" data-noscript=""><noscript><img alt="7/12/2020 by YTChyme"
+src="images/2018/02/998zibjfzfa51.jpg"></noscript></div>
+</a>
+
+<a href="https://www.reddit.com/r/glitch_art/comments/hfk749/im_glitching_out/">
+<div class="lazyload" data-noscript=""><noscript><img alt="Im glitching out by Cruel_Coppinger"
+src="images/2018/02/7wr3m65mg1751.jpg"></noscript></div>
+</a>
+
+Check also the [sǝʌᴉʇɐuɹǝʇlɐ](https://imgur.com/a/ruqeUJV).
+
 
 <style>
 article img {
@@ -123,5 +137,9 @@ article img {
 }
 </style>
 <script>
-document.querySelectorAll('article img').forEach(img => img.title = img.alt)
+function setTitles() {
+  document.querySelectorAll('article img').forEach(img => img.title = img.alt)
+  setTimeout(setTitles, 2000);
+}
+setTitles();
 </script>

@@ -110,3 +110,12 @@ A Cyberfeminist Manifesto for the 21st Century - 1991:
 > Wired
 > People
 
+---
+
+[GLI.TC/H 24 HOUR NO PASSWORD PARTY](https://docs.google.com/document/d/16K4Zd_8P8rI9-xwBwyDT6Op7VTFOVaKhT8ONHyEqPM4/edit?hl=en_US) (GoogleDoc from OCT 5, 2011)
+
+Context: [GLI.TC/H 20111READER\[R0R\] PDF](http://gli.tc/h/READERROR/GLITCH_READERROR_20111-v3BWs.pdf), page 46
+
+> A precursor to these kinds of open/networked digital happenings is Richard Stallman’s 1977 clash with sys-admins implementing passwords at MIT’s Laboratory for Computer Science.
+
+> As the instantiator of the free software movement, Stallman cites password control as fuel for his unwavering commitment to openness. Stallman saw the situation at MIT, not as a security measure for users, but as a way for administrators to control the system. Following this point of view, Stallman figured out how to decode users’ passwords and sent everyone a message containing their password, rendering the argument for security mute. In the message, he proposed to update every password to an empty string. Around 20% of users followed his strategy. This small-scale social-hack is a beautiful example of creatively thinking around a system of control.
