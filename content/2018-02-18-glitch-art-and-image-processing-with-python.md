@@ -103,7 +103,7 @@ There is also this tumblr collecting glitch GIFs: <http://glitchgifs.tumblr.com>
 <div class="lazyload" data-noscript=""><noscript><img alt="Pixel sort Rotation by HI_IM_DR_PHIL" src="images/2018/02/ls5etz2fodcy.gif"></noscript></div>
 </a>
 
-**EDIT [2020/07/17]** :
+**EDIT [2020/07/17]** : a couple of new ones
 
 <a href="https://www.reddit.com/r/glitch_art/comments/hpvuxe/7122020/">
 <div class="lazyload" data-noscript=""><noscript><img alt="7/12/2020 by YTChyme"

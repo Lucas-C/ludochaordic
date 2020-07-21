@@ -649,14 +649,14 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 * prochaine partie : plonger les joueurs dans l'action dès le début
 + leur donner des scènes où ils sont BADASS
 * pour sauver sa peau, Baszos Baz leur promettra qu'il peut ramener Melvir d'entre les morts
-* anticiper partage du territoire de l'Oeil Blance & recrutement d'un wisper par Elaria (clock en cours)
+* anticiper partage du territoire de l'Oeil Blanc & recrutement d'un whisper par Elaria (clock en cours)
 * préparer des pistes de Scores / opportunités vis à vis des autres gangs,
-entre autres à partir des renesignements de Sylvia Derengathi
+entre autres à partir des renseignements de Sylvia Derengathi
 * introduire des "artefacts multifonctions"
 * logbook = game changer, va modifier équilibre des forces de la ville...
 * prendre inspis de Dirty MJ
-* gimmicks pour PNJs:
-  + renifle tout, les gens, les lieux
+* gimmick pour PNJs: renifle tout, les gens, les lieux
+* introduire un événement à gros impact sur la ville (ex: plus de soleil) idéalement lié aux actions des PJs
 
 + trouver illustrations pour les PNJs ppaux, comme Baszos Baz
 <img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">

@@ -102,26 +102,26 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('J.P. Villain (Access42) @Twitter', 'https://twitter.com/villainjp'),
          ('Blog de David Larlet', 'https://larlet.fr/david/blog/'),
          ('Reflets.info', 'https://reflets.info'),
-         ('Tristan Nitot', 'http://standblog.org/blog/post/'),
+         ('Tristan Nitot', 'http://standblog.org/blog/'),
          ('Blog de Victor Stinner', 'http://vstinner.github.io'),
          ('Rhizome.org', 'https://anthology.rhizome.org'),
          ('Jane McGonigal', 'https://twitter.com/avantgame'),
-         ("Du Monde Dans l'Objectif", 'http://www.dumondedanslobjectif.com'),
+         ("Du Monde Dans l'Objectif", 'https://www.dumondedanslobjectif.com'),
          ("Galerie d'Elliot Jolivet aka Tenseï", 'https://illutensei.com'),
-         ("Galerie d'Elodie Olivier", 'http://elodie-olivier.com'),)
+         ("Galerie d'Elodie Olivier", 'https://elodie-olivier.com'),)
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('github', 'https://github.com/Lucas-C'),
           ('wikipedia', 'https://fr.wikipedia.org/wiki/Utilisateur:Dr_max_kurt'),
           ('itchio', 'https://lucas-c.itch.io'),
-          ('stackoverflow', 'http://stackoverflow.com/users/636849/lucas-cimon'),
-          ('discord', 'https://discord.gg/BJeuEtX'),
+          ('stackoverflow', 'https://stackoverflow.com/users/636849/lucas-cimon'),
+          ('discord', 'https://discord.com/invite/BJeuEtX'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
           ('travis-ci', 'https://travis-ci.org/Lucas-C'))
 
 SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/logo_la-quadrature-du-net_20x20.png', 'Faites un don à la Quadrature !'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/button_80x15_framasoft.png', 'Soutenez Framasoft !'),
-            ('April', 'http://www.april.org/adherer', 'images/cartouche_april-jadhere.png', 'Promouvoir et soutenir le logiciel libre'),
+            ('April', 'https://www.april.org/adherer', 'images/cartouche_april-jadhere.png', 'Promouvoir et soutenir le logiciel libre'),
             ('Microformats', 'http://microformats.org/', 'images/microformats.png', 'Ce site adhère au standard microformats'),
             ('Webmention', 'https://indieweb.org/Webmention', 'images/webmention-button.svg', 'Ce site adhère au standard Webmention'),
             ('Low-tech', 'https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html', 'images/low-tech.svg', 'Ce site adhère à la philosophie low-tech'))
