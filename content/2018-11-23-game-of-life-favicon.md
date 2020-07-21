@@ -19,6 +19,6 @@ Feel free to reuse the code to make you own favicons 😉
 article img {
     transform: scale(8);
     image-rendering: optimizeSpeed;
-    padding: 5rem;
+    margin: 5rem auto;
 }
 </style>
