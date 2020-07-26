@@ -77,13 +77,13 @@ that I recently created:
 > those scientists work in order to solve the crisis ?
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20EN%20v1.0.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20EN%20v1.2.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_WorldwideResearchProgram.jpg">
       <figcaption><em>Worldwide Research Program</em> (PDF 1 page 6,8 MB)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20EN%20v1.0%20printerfriendly.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Worldwide%20Research%20Program%20EN%20v1.2%20printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_WorldwideResearchProgram.jpg">
       <figcaption>(printer-friendly PDF 1 page 5,9 MB)</figcaption>
@@ -98,13 +98,13 @@ that I recently created:
 > to cities that the population believes spared…
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.0.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.1.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
       <figcaption><em>Mass Migrations</em> (PDF 1 page 1,4 MB)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.0%20printerfriendly.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.1%20printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_MassMigrations.jpg">
       <figcaption>(printer-friendly PDF 1 page 0,9 MB)</figcaption>
@@ -125,6 +125,9 @@ If so, please leave a comment below.
 
 **EDIT [2020/01/27]**: Michael also sent me a german translation of the _Worldwide Research Program_ scenario.
 Thank you!
+
+**EDIT [2020/07/26]**: thanks to Jared, I fixed several English mistakes in the Worldwide Research Program PDF.
+A new 1.2 version is now available.
 
 <div class="imgs">
   <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20DE%20druckfreundlich.jpg">

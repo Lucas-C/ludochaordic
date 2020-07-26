@@ -3,6 +3,12 @@ Date: 2020-07-15 14:00
 Tags: lang:en, libre-software, open-source, pelican, python, blog, plugin, http, html, library, release, source-code, decentralized-web, web-standards, semantic-web, linkbacks, low-tech, static-site-generator, wordpress, security, code-quality, prog, @Matt
 Slug: pelican-pingback-and-webmentions
 ---
+<!-- Partagé sur :
+- [x] IRC indieweb.org
+- [ ] subReddits: Python, ...
+- [ ] pelican news ?
+-->
+
 [Linkback protocols](https://en.wikipedia.org/wiki/Linkback) are an old breed.
 They were born in a time where MySpace, Wikipedia & WordPress had just been launched,
 and Friendster was more popular than this new website called Facebook.
