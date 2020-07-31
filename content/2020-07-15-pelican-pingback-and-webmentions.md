@@ -5,8 +5,8 @@ Slug: pelican-pingback-and-webmentions
 ---
 <!-- Partagé sur :
 - [x] IRC indieweb.org
-- [ ] subReddits: Python, ...
-- [ ] pelican news ?
+- [x] https://www.reddit.com/r/Python/comments/i19o2k/pelican_pingback_and_webmentions/
+- [x] https://pycoders.com/submissions
 -->
 
 [Linkback protocols](https://en.wikipedia.org/wiki/Linkback) are an old breed.
@@ -79,16 +79,16 @@ As proof of this library correctly sending notifications, there are two websites
 - <https://oujevipo.fr/general/4406-til-cows-tear-us-apart-web/>
 - <http://lookrobot.co.uk/games/>
 
-Many thanks to Matthieu for providing me a temporary Wordpress blog, under a different domain, for my tests !
-
-By the way, I learned that most Wordpress websites systematically answer to Pingback requests with a very unhelpful silent `faultCode 0`, due to the default value of the `xmlrpc_pingback_error` filter ([source](https://github.com/WordPress/WordPress/blob/5.4.2/wp-includes/comment.php#L3016)). 😞
-This was done to prevent [Pingback exploits](https://en.wikipedia.org/wiki/Pingback#Exploits) like the infamous [CVE-2013-0235](https://nvd.nist.gov/vuln/detail/CVE-2013-0235) ([commit source](https://github.com/WordPress/WordPress/commit/82e9c40)),
+By the way, I learned that most **Wordpress** websites systematically answer to Pingback requests with a very unhelpful silent `faultCode 0`, due to the default value of the `xmlrpc_pingback_error` filter ([source](https://github.com/WordPress/WordPress/blob/5.4.2/wp-includes/comment.php#L3016)). 😞
+This was done to prevent [Pingback exploits](https://en.wikipedia.org/wiki/Pingback#Exploits) like the infamous [CVE-2013-0235](https://nvd.nist.gov/vuln/detail/CVE-2013-0235) ([mitigation commit source](https://github.com/WordPress/WordPress/commit/82e9c40)),
 but I don't think this kind of [security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity) is needed.
-In fact I fear that the impact of hiding the Pingback submission status was mostly to slow down the adoption of this protocol...
+In fact I fear that the impact of hiding the Pingback submission status in Wordpress was mostly to slow down the adoption of this protocol...
+
+Many thanks to Matthieu for providing me a temporary Wordpress blog, under a different domain, for my tests !
 
 Another side note: maybe in the future I'll write a web-app to receive & store linkback requests,
 and "plug" it to this blog. Or better, add this feature to [isso](https://posativ.org/isso/) (_cf._ [issue #19](https://github.com/posativ/isso/issues/19)).
-In the meantime, I have found the <https://webmention.io> service very nice & simple to use to add support for Webmention on this blog.
+In the meantime, I have found the [webmention.io](https://webmention.io) service very nice & simple to use to add support for Webmention on this blog.
 As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
 
 That's it for today.
