@@ -91,6 +91,9 @@ and "plug" it to this blog. Or better, add this feature to [isso](https://posati
 In the meantime, I have found the [webmention.io](https://webmention.io) service very nice & simple to use to add support for Webmention on this blog.
 As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
 
+By the way, I suggested to Reddit that they support Webmentions.
+You can upvote this demand here: [feature request](https://www.reddit.com/r/ideasfortheadmins/comments/i1apb8/feature_request_support_webmentions/).
+
 That's it for today.
 Of course, I'd be more than happy to get feedback from you if you use this Pelican plugin. 😉
 And may the _God of Clean Web Protocols & Semantics_ be with you !
