@@ -1,6 +1,6 @@
 Title: Jeux multijoueurs en local sur PC
 Date: 2019-02-15 9:00
-Tags: lang:fr, video-game, multijoueurs, party-game, gratuit, opinion, linux, open-source, jeux
+Tags: lang:fr, video-game, multijoueurs, party-game, gratuit, opinion, linux, open-source, coop, jeux
 Slug: local-multiplayer-games
 
 Je crois que j'envisage d'écrire un article sur ce sujet depuis que j'ai créé ce blog !

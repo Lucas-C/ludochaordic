@@ -1,6 +1,6 @@
 Title: Pelican, Pingback and Webmentions
 Date: 2020-07-15 14:00
-Tags: lang:en, libre-software, open-source, pelican, python, blog, plugin, http, html, library, release, source-code, decentralized-web, web-standards, semantic-web, linkbacks, low-tech, static-site-generator, wordpress, security, code-quality, prog, @Matt
+Tags: lang:en, libre-software, open-source, pelican, python, blog, plugin, http, html, library, release, source-code, decentralized-web, web-standards, semantic-web, linkbacks, low-tech, static-site-generator, wordpress, security, code-quality, reddit, prog, @Matt
 Slug: pelican-pingback-and-webmentions
 ---
 <!-- Partagé sur :
@@ -91,7 +91,7 @@ and "plug" it to this blog. Or better, add this feature to [isso](https://posati
 In the meantime, I have found the [webmention.io](https://webmention.io) service very nice & simple to use to add support for Webmention on this blog.
 As it is centralized, it is not perfect, but it is a good start to support the adoption of this great linkback protocol !
 
-By the way, I suggested to Reddit that they support Webmentions.
+By the way, I recently suggested to Reddit that they support Webmentions.
 You can upvote this demand here: [feature request](https://www.reddit.com/r/ideasfortheadmins/comments/i1apb8/feature_request_support_webmentions/).
 
 That's it for today.

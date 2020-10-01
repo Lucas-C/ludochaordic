@@ -1,6 +1,6 @@
 Title: Opération « dur à cuire »
 Date: 2020-07-02 12:00
-Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, jdr, 2-players, pbta, gamedesign, equilibrage, metal-gear, @Matt, jeux
+Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, jdr, 2-players, coop, pbta, gamedesign, equilibrage, metal-gear, @Matt, jeux
 Slug: operation-dur-a-cuire
 ---
 
@@ -83,7 +83,6 @@ Il faut également souligner la qualité de la mise en page :
 la maquette est réussie, joliment structurée et illustrée.
 
 ![Solid snake stencil](images/2020/07/solid-snake-stencil.jpg)
-
 
 <style>
 article iframe {

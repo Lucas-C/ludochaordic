@@ -1,6 +1,6 @@
 Title: Une variante pour The Game
 Date: 2016-11-13 18:11
-Tags: lang:fr, jeu-de-societe, variante, the-game, gamedesign, boardgamegeek, jeux
+Tags: lang:fr, jeu-de-societe, variante, the-game, gamedesign, boardgamegeek, coop, jeux
 Slug: une-variante-pour-the-game
 ---
 ![Boîte du jeu The Game](images/2016/11/TheGame.png)

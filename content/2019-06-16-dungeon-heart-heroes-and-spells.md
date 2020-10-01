@@ -1,6 +1,6 @@
 Title: Dungeon Heart - Heroes & Spells
 Date: 2019-06-16 20:00
-Tags: lang:fr, jdr, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, variante, playtest, opinion, gratuit, dungeon-keeper, @Matt, @NicolasL, jeux
+Tags: lang:fr, jdr, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, coop, variante, playtest, opinion, gratuit, dungeon-keeper, @Matt, @NicolasL, jeux
 Slug: dungeon-heart-heroes-and-spells
 ---
 ![Aggron Stonebreak The Ogre Magi](images/2019/06/aggron_stonebreak_the_ogre_magi_by_halycon450.png)
