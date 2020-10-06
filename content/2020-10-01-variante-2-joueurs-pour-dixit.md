@@ -7,7 +7,7 @@ Slug: variante-2-joueurs-pour-dixit
 <figure>
   <img alt="Pions lapin du jeu Dixit" src="images/2020/10/dixit-bunnies.jpg">
   <figcaption>Photo de <a href="https://www.flickr.com/photos/farusantos/19610391093">Farley Santos</a>
-  <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a></figcaption>
+  - <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a></figcaption>
 </figure>
 
 Cette semaine j'ai découvert [sur le forum boardgamegeek.com](https://boardgamegeek.com/thread/676496/2-player-co-op-dixit-variant) une variante du jeu de société [Dixit]()
