@@ -55,7 +55,7 @@ def src2out(src_file_path):
         raise RuntimeError(f'No enabled reader found for extension {src_file_ext}')
     _, metadata = reader.read(src_file_path)
     joiner = '/'
-    if metadata.get('draft'):
+    if metadata.get('status') == 'draft':
         joiner = '/drafts/'
     elif '/pages/' in src_file_path:
         joiner = '/pages/'
