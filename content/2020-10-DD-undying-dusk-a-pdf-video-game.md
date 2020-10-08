@@ -48,7 +48,7 @@ It was made during the summer of 2020 by Lucas Cimon.
 
 To my knowledge, this is **the very first video game in a PDF format**.
 
-<a href="https://chezsoi.org/lucas/undying-dusk/undying-dusk-v0.9.0.pdf" target="_blank">
+<a href="https://chezsoi.org/lucas/undying-dusk/undying-dusk-v0.9.0.pdf" download>
   <figure>
     <img alt="" src="images/2020/10/pdf-icon.png">
     <figcaption>(PDF 150Mo)</figcaption>
