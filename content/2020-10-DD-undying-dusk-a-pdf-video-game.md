@@ -38,17 +38,17 @@ It features:
 
 - ~150 000 PDF pages
 - a retrogaming aesthetic: 160x120 pixels resolution and a 16 colors palette
-- a grid-based world with 36 different tiles and 10 maps to explore
+- a grid-based world with 45 different tiles and 10 maps to explore
 - 30+ treasure items, weapons & spells to pick up in order to face 17 enemy monsters
 - 21 music tracks
 - 17530 "Game Over" pages, and a single path to victory
-- 4 hidden secrets & a hidden ending
+- 4 hidden secrets & a concealed epilogue
 
 It was made during the summer of 2020 by Lucas Cimon.
 
 To my knowledge, this is **the very first video game in a PDF format**.
 
-<a src="https://chezsoi.org/lucas/undying-dusk/undying-dusk-v0.9.0.pdf" target="_blank">
+<a href="https://chezsoi.org/lucas/undying-dusk/undying-dusk-v0.9.0.pdf" target="_blank">
   <figure>
     <img alt="" src="images/2020/10/pdf-icon.png">
     <figcaption>(PDF 150Mo)</figcaption>
