@@ -6,6 +6,19 @@ Tags: lang:en, slides
 
 <div class="uk-grid">
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+        <a class="uk-thumbnail" href="/lucas/slides/prez-ladrs">
+            <img class="uk-align-center" src="/lucas/slides/prez-ladrs/img/commitstrip-le-plus-beau-projet.jpg" alt="ComicStrip illustrant le problème de perte de connaissance lors de la reprise d'un projet logiciel par une nouvelle équipe">
+            <div class="uk-thumbnail-caption">
+                <div class="uk-text-bold uk-text-primary">Lightweight Architecture Decision Records</div>
+                <dl class="uk-description-list-list">
+                    <dt>Date</dt><dd>2020/10/08</dd>
+                    <dt>Lieu</dt><dd>Cercle Dev @ eVoyageurs Technologies</dd>
+                </dl>
+                <p>Retour d'expérience de l'adoption de la méthodologie des LADRs au sein de 2 équipes différentes à OUI.sncf</p>
+            </div>
+        </a>
+    </div>
+    <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
         <a class="uk-thumbnail" href="https://voyages-sncf-technologies.github.io/conf-open-source-en-entreprise/">
             <img class="uk-align-center" src="images/open-source.png" alt="Image illustrant l'open source">
             <div class="uk-thumbnail-caption">

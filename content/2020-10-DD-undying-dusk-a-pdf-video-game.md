@@ -6,13 +6,14 @@ Status: draft
 ---
 <!-- à partager sur :
 - [ ] author: Clint Bellanger
-- [ ] oujevipo, warpdoor & cie
+- [ ] itch.io
+- [ ] oujevipo, warpdoor, gamejolt & cie
 - [ ] forum.canardpc.com
-- [ ] subReddits: r/pdf, r/gaming, r/games, r/gamedev, r/IndieGaming, r/IndieDev, r/playmygame, r/freegames
+- [ ] subReddits: r/pdf, r/gaming, r/games, r/gamedev, r/IndieGaming, r/IndieDev, r/playmygame, r/freegames, /r/adventuregames, r/PixelArt
 - [ ] Sumatra PDF
 - [ ] famille Cesbron, Thomas G & ses potes
 - [ ] bruno bord
-- [ ] Michael Bourhis, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
+- [ ] collègues, Michael Bourhis, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
 - [ ] thierry.fetiveau@gmail.com
 - [ ] envoyer version PDF à Thib pour tester sur smartphone + msg HackerNews
 - [ ] LinkedIn
@@ -47,6 +48,11 @@ It features:
 It was made during the summer of 2020 by Lucas Cimon.
 
 To my knowledge, this is **the very first video game in a PDF format**.
+
+Note that **it cannot be played using Adobe Acrobat Reader**,
+due to technical limitations of this software.
+I recommend that you use instead **Sumatra PDF** in version **3.1.2**, that can be download on [this page](https://www.sumatrapdfreader.org/download-prev.html).
+You will find a detailed comparison of PDF readers compatibility with Undying Dusk [here](https://github.com/Lucas-C/undying-dusk#compatible-pdf-readers).
 
 <a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.2/undying-dusk.pdf" download>
   <figure>
