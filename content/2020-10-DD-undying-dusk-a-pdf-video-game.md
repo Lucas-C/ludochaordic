@@ -44,22 +44,28 @@ It features:
 - 21 music tracks
 - 17530 "Game Over" pages, and a single path to victory
 - 4 hidden secrets & a concealed epilogue
+- an online [hall of fame](https://chezsoi.org/lucas/undying-dusk/hall-of-fame)
 
 It was made during the summer of 2020 by Lucas Cimon.
 
 To my knowledge, this is **the very first video game in a PDF format**.
 
-Note that **it cannot be played using Adobe Acrobat Reader**,
-due to technical limitations of this software.
-I recommend that you use instead **Sumatra PDF** in version **3.1.2**, that can be download on [this page](https://www.sumatrapdfreader.org/download-prev.html).
-You will find a detailed comparison of PDF readers compatibility with Undying Dusk [here](https://github.com/Lucas-C/undying-dusk#compatible-pdf-readers).
-
-<a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.2/undying-dusk.pdf" download>
+<a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.3/undying-dusk.pdf" download>
   <figure>
     <img alt="" src="images/2020/10/pdf-icon.png">
-    <figcaption>v0.9.2 - 8 octobre 2020<br>(PDF 150Mo)</figcaption>
+    <figcaption>v0.9.3 - 18 octobre 2020<br>(PDF 150Mo)</figcaption>
   </figure>
 </a>
+
+Note that **it cannot be played using Adobe Acrobat Reader**, due to technical limitations of this software.
+
+I recommend that you use instead **Sumatra PDF reader**.
+
+If you do not wish to install it on your computer, you can use it only to launch **Undying Dusk** by downloading [this ZIP file](https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.3/undying-dusk-with-sumatra-windows.zip).
+Once the ZIP content is extracted in a folder, simply double-click on the `LAUNCH_UNDYING_DUSK_IN_SUMATRA.bat` file to start the game.
+
+You will find more informations, including a detailed comparison of PDF readers compatibility with the game, [on GitHub](https://github.com/Lucas-C/undying-dusk).
+
 
 <!-- Autres idées:
 _Le crépuscule de l'héroïne_
