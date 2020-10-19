@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2020-10-19', 'img_url': 'images/readings/la-zad.jpg', 'description': "La ZAD - C'est plus grand que nous - Rochepeau & Azuélos (BD)"},
     {'date': u'2020-10-06', 'img_url': 'images/readings/kiffe-ton-cycle.jpg', 'description': 'Kiffe ton cycle - Gaëlle Baldassari'},
     {'date': u'2020-09-20', 'img_url': 'images/readings/contre-lalternumerisme.jpg', 'description': 'Contre l’alternumérisme - Julia Laïnae & Nicolas Alep'},
     {'date': u'2020-07-15', 'img_url': 'images/readings/alors-voila.jpg', 'description': 'alors voilà - Les 1001 vies des Urgences - Baptiste Beaulieu (roman)'},
