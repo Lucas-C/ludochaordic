@@ -16,7 +16,7 @@ Status: draft
 - [ ] collègues, Michael Bourhis, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
 - [ ] thierry.fetiveau@gmail.com
 - [ ] envoyer version PDF à Thib pour tester sur smartphone + msg HackerNews
-- [ ] LinkedIn
+- [ ] LinkedIn, FaceBook
 - [ ] https://adventuregamers.com
 - [ ] http://hu-mu.blogspot.com en mode HUMBLE
 post write-up:

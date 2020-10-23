@@ -59,8 +59,10 @@ Slug: 2200-le-jugement-des-dieux
 Ces textes racontent quelques unes des histoires que nous avons écrit collectivement
 lors des _playtests_ du dernier jeu de rôle que j'ai écrit : **2200 : Le Jugement Des Dieux**.
 
-- version web : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/>
-- PDF : <https://chezsoi.org/lucas/blog/images/jdr/2200_le_jugement_des_dieux.pdf>
+- PDF en français : <https://chezsoi.org/lucas/blog/images/jdr/2200-le-jugement-des-dieux-v1.1.pdf>
+- version web en français : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/>
+- PDF in English : <https://chezsoi.org/lucas/blog/images/jdr/2200-the-gods-judgement-v1.1.pdf>
+- web version in English : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/2200_the_gods_judgement.html>
 
 Il s'agit d'un jeu de rôle narratif pour 3 ou 4 joueurs, sans préparation nécessaire,
 dans lequel vous aller incarner un dieu, ancien ou moderne,
@@ -75,3 +77,23 @@ Il comporte très peu de jets mais nécessite deux dés à 8 faces, quelques pio
 et optionnellement un sablier.
 
 Si vous le testez, glissez-moi en commentaire ce que vous en avez pensé ! 😉
+
+**EDIT [2020/10/23]** : l'équipe de _1 MJ de trop_ a enregistré une session de jeu de _2200: Le Jugement Des Dieux_.
+Ils ont débatu du sort des 3 mortels sur une partie d'environ 3h, en incarnant les dieux suivants :
+
+* **Muse**, déesse vaporeuse de l'inspiration et du rêve
+* **Tailor**, dieu du productivisme, avec un immense dossier sur les réalisations de chaque Mortel au cours de sa vie
+* **Tchernobog**, dieu de la lune et de la nuit, des cycles, de la vie et de la mort
+* **Arès**, dieu charismatique de la guerre et de la paix
+
+Vous pouvez retrouver l'enregistrement sur YouTube ici :
+
+[![Logo de 1 MJ de Trop](images/2019/06/1-mj-de-trop.jpg)](https://www.youtube.com/watch?v=-N2AwQi084A)
+
+Cela ma motivé à traduire le jeu en anglais,
+et à mettre les 2 versions en ligne sur itch.io :
+<https://lucas-c.itch.io/2200-le-jugement-des-dieux>.
+
+<style>
+article img { max-width: 12rem; }
+</style>
