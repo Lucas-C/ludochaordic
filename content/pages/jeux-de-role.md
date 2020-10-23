@@ -87,12 +87,14 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Jeu complet en 2 pages</dd>
-        <dt>Pour</dt><dd>4 joueurs, sans MJ</dd>
-        <dt>Durée</dt><dd>2h environ</dd>
+        <dt>Pour</dt><dd>3/4 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>3h environ</dd>
       </dl>
       <ul>
-        <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/">Version web</a></li>
-        <li><a href="images/jdr/2200_le_jugement_des_dieux.pdf">Version PDF</a></li>
+        <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/">Version web en français</a></li>
+        <li><a href="images/jdr/2200-le-jugement-des-dieux-v1.1.pdf">PDF en français</a></li>
+        <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/2200_the_gods_judgement.html">Web version in English</a></li>
+        <li><a href="images/jdr/2200-the-gods-judgement-v1.1.pdf">PDF in English</a></li>
       </ul>
       <blockquote>Dans ce jeu vous aller incarner un dieu, ancien ou moderne,
       ayant la charge de statuer du sort des mortels décédés en cette année 2200.
