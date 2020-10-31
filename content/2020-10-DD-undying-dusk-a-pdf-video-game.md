@@ -13,12 +13,13 @@ Status: draft
 - [ ] Sumatra PDF
 - [ ] famille Cesbron, Thomas G & ses potes
 - [ ] bruno bord
-- [ ] collègues, Michael Bourhis, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
+- [ ] collègues, Michael Bourhis, Martin & son frère, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
 - [ ] thierry.fetiveau@gmail.com
 - [ ] envoyer version PDF à Thib pour tester sur smartphone + msg HackerNews
 - [ ] LinkedIn, FaceBook
 - [ ] https://adventuregamers.com
 - [ ] http://hu-mu.blogspot.com en mode HUMBLE
+- [ ] post GIF trailer on Youtube
 post write-up:
 - [ ] subReddits: r/python, r/programming
 - [ ] linux fr ?
@@ -65,6 +66,12 @@ If you do not wish to install it on your computer, you can use it only to launch
 Once the ZIP content is extracted in a folder, simply double-click on the `LAUNCH_UNDYING_DUSK_IN_SUMATRA.bat` file to start the game.
 
 You will find more informations, including a detailed comparison of PDF readers compatibility with the game, [on GitHub](https://github.com/Lucas-C/undying-dusk).
+
+Here is the game trailer:
+
+![GIF trailer](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer.gif)
+
+_Note: a new release of the game is planned for Sunday, 1st of November!_
 
 
 <!-- Autres idées:
