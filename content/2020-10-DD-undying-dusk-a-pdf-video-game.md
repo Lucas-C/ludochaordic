@@ -51,27 +51,32 @@ It was made during the summer of 2020 by Lucas Cimon.
 
 To my knowledge, this is **the very first video game in a PDF format**.
 
-<a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.3/undying-dusk.pdf" download>
-  <figure>
-    <img alt="" src="images/2020/10/pdf-icon.png">
-    <figcaption>v0.9.3 - 18 octobre 2020<br>(PDF 150Mo)</figcaption>
-  </figure>
-</a>
+<div class="side-by-side">
+  <a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.4/undying-dusk.pdf" download>
+    <figure>
+      <img alt="" src="images/2020/10/pdf-icon.png">
+      <figcaption>v0.9.4 - 3 novembre 2020<br>(PDF 148 Mo)</figcaption>
+    </figure>
+  </a>
+  <a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.4/undying-dusk-with-sumatra-windows.zip" download>
+    <figure>
+      <img alt="" src="images/2020/11/zip-icon.jpg">
+      <figcaption>v0.9.4 - 3 novembre 2020<br>(ZIP 59 Mo)</figcaption>
+    </figure>
+  </a>
+</div>
 
 Note that **it cannot be played using Adobe Acrobat Reader**, due to technical limitations of this software.
 
 I recommend that you use instead **Sumatra PDF reader**.
 
-If you do not wish to install it on your computer, you can use it only to launch **Undying Dusk** by downloading [this ZIP file](https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.3/undying-dusk-with-sumatra-windows.zip).
-Once the ZIP content is extracted in a folder, simply double-click on the `LAUNCH_UNDYING_DUSK_IN_SUMATRA.bat` file to start the game.
+If you do not wish to install it on your computer, you can use it only to launch **Undying Dusk** by downloading the ZIP file. Once the ZIP content is extracted in a folder, simply double-click on the `LAUNCH_UNDYING_DUSK_IN_SUMATRA.bat` file to start the game.
 
 You will find more informations, including a detailed comparison of PDF readers compatibility with the game, [on GitHub](https://github.com/Lucas-C/undying-dusk).
 
 Here is the game trailer:
 
 ![GIF trailer](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer.gif)
-
-_Note: a new release of the game is planned for Sunday, 1st of November!_
 
 
 <!-- Autres idées:
@@ -140,3 +145,14 @@ puzzles that did not go well...
 # Storywriting
 Books : really useful
 -->
+
+<style>
+.side-by-side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+}
+.side-by-side > * { flex: 1 0; padding: 0 .5rem; }
+.side-by-side img { max-height: 12rem; }
+</style>
