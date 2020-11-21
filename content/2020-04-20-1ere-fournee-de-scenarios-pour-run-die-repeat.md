@@ -1,6 +1,6 @@
 Title: 1ère fournée de scénarios pour Run Die Repeat
 Date: 2020-04-20 23:45
-Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, discord, run-die-repeat, jeux
+Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, discord, run-die-repeat, cyberconv, jeux
 Slug: 1ere-fournee-de-scenarios-pour-run-die-repeat
 ---
 
@@ -47,7 +47,7 @@ La semaine prochaine, j'évoquerai également quelques conseils pour faire jouer
 
 ---
 
-![](images/jdr/rdr/a_bottomless_sea_by_sunnyclockwork_daot7gy-fullview.jpg)
+![A Bottomless Sea by SunnyClockwork](images/jdr/rdr/a_bottomless_sea_by_sunnyclockwork_daot7gy-fullview.jpg)
 
 [A Bottomless Sea by SunnyClockwork](https://www.deviantart.com/sunnyclockwork/art/A-Bottomless-Sea-646335250) - CC BY-SA 3.0
 ## Cthulhu fhtagn
@@ -85,7 +85,7 @@ vous devez échappez à la foule de cultistes à vos trousses, et réussir à le
 
 ---
 
-![](images/jdr/rdr/handcuffs-free.jpg)
+![Libéré de ses menottes](images/jdr/rdr/handcuffs-free.jpg)
 ## Évasion
 > Tu es en cellule au commissariat, tu viens d'être arrêté pour un crime où tu risques perpétuité.
 > Soudain, un paquet kraft atterrit à tes pieds, lancé de l'extérieur à travers une lucarne.

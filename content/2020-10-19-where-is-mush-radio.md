@@ -1,6 +1,6 @@
 Title: Where is <s>Waldo</s> Mush Radio ?
 Date: 2020-10-19 16:00
-Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, tipeee, mush-radio, playtest, le-bocal, angers jeux, @Elliot
+Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, tipeee, mush-radio, playtest, le-bocal, angers, jeux, @Elliot
 Slug: where-is-mush-radio
 ---
 
@@ -30,7 +30,7 @@ Un gros **Big Up** au passage à Ronan qui nous soutient depuis plusieurs mois :
 
 Voici un planche rassemblant toutes les illustrations réalisées par [Elliot Jolivet](https://www.instagram.com/tensei_draw/) pour le jeu :
 
-[![](images/2020/10/MushRadio-artworks.jpg)](images/2020/10/MushRadio-artworks.jpg)
+[![Artworks d'Elliot](images/2020/10/MushRadio-artworks.jpg)](images/2020/10/MushRadio-artworks.jpg)
 
 
 ## Playtest à l'asso Le Bocal

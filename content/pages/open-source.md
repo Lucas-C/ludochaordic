@@ -4,6 +4,8 @@ Tags: lang:en, cygwin, hesperides, isso, jenkins, luigi, open-source, pre-commit
 
 ## Pet projects, musings
 
+<!-- TODO: mention Undying Dusk (with trailer) & shared-img-reveal -->
+
 - [Python Black Box challenge](https://lucas-c.frama.io/python-blackbox-challenges/)
 - [genealogic-d3](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using [d3.js](https://d3js.org)
 - [rpg-bonhomme](https://github.com/Lucas-C/rpg-bonhomme) : a tabletop RPG character sheet viewer, with a Python backend using a JSONP key-value store

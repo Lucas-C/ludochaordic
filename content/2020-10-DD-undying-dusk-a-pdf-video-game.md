@@ -1,6 +1,6 @@
 Title: Undying Dusk : a PDF video game
 Date: 2020-10-07 18:0
-Tags: lang:en, lang:fr, libre-software, open-source, pdf, video-game, dungeon-crawler, rpg, indie-game, python, library, gratuit, creative-commons, gpl, gamedesign, post-mortem, recreative-programming, prog, jeux
+Tags: lang:en, lang:fr, libre-software, open-source, pdf, video-game, dungeon-crawler, rpg, indie-game, python, library, gratuit, creative-commons, gpl, gamedesign, post-mortem, recreative-programming, prog, cyberconv, jeux
 Slug: undying-dusk-a-pdf-video-game
 Status: draft
 ---
