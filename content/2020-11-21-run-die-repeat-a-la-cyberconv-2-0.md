@@ -10,7 +10,7 @@ Le week-end prochain, du 27 au 29 novembre, c'est la 2e édition de la [CyberCon
 
 J'animerai 5 parties de [_Run. Die. Repeat._](tag/run-die-repeat.html) au cours de cette convention de jeu de rôle, avec des scénarios maison :
 
-- vendredi à 18h30 : [**Invasion**](https://www.conventions-rolistes.org/jdr/parties/1619.html) (30min)
+- vendredi à 20h30 : [**Invasion**](https://www.conventions-rolistes.org/jdr/parties/1619.html) (30min)
 - samedi à 11h : [**Parasite**](https://www.conventions-rolistes.org/jdr/parties/1620.html) (30min)
 - samedi à 17h30 : [**Les Couloirs du Temps**](https://www.conventions-rolistes.org/jdr/parties/1621.html) (45min-1h) **\***
 - dimanche à 11h : [**Dernier wagon pour l’amour**](https://www.conventions-rolistes.org/jdr/parties/1622.html) (30min)
