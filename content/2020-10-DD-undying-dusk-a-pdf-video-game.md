@@ -7,6 +7,7 @@ Status: draft
 <!-- à partager sur :
 - [ ] author: Clint Bellanger
 - [ ] itch.io
+- [ ] amis, dont Francis, Aurélien, Anne-Laure...
 - [ ] oujevipo, warpdoor, gamejolt & cie
 - [ ] forum.canardpc.com
 - [ ] subReddits: r/pdf, r/gaming, r/games, r/gamedev, r/IndieGaming, r/IndieDev, r/playmygame, r/freegames, /r/adventuregames, r/PixelArt
@@ -15,6 +16,7 @@ Status: draft
 - [ ] bruno bord
 - [ ] collègues, Michael Bourhis, Martin & son frère, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
 - [ ] thierry.fetiveau@gmail.com
+- [ ] https://www.coupleofgamer.com/about
 - [ ] envoyer version PDF à Thib pour tester sur smartphone + msg HackerNews
 - [ ] LinkedIn, FaceBook
 - [ ] https://adventuregamers.com
@@ -144,6 +146,8 @@ puzzles that did not go well...
 
 # Storywriting
 Books : really useful
+
+Adventure game puzzle design
 -->
 
 <style>
