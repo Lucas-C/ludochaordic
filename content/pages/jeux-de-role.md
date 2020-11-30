@@ -45,14 +45,15 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
     <img class="uk-align-center" src="images/2020/01/RunDieRepeat.jpg" alt="Run. Die. Repeat">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
-        <dt>Genre</dt><dd>Traduction d'un jeu monopage</dd>
+        <dt>Genre</dt><dd>Traduction d'un jeu monopage & scénarios</dd>
         <dt>Pour</dt><dd>1 MJ + 2 à 5 joueurs</dd>
-        <dt>Durée</dt><dd>20-30min</dd>
+        <dt>Durée</dt><dd>20min à 45min</dd>
       </dl>
       <ul>
-        <li><a href="images/jdr/RunDieRepeat-FR.pdf">Traduction française du jeu (PDF, 37 Ko)</a></li>
+        <li><a href="images/jdr/RunDieRepeat-FR.pdf">Traduction en français des règles du jeu (PDF, 37 Ko)</a></li>
+        <li>un scénario : <a href="https://lucas-c.itch.io/les-couloirs-du-temps">Les Couloirs du Temps</li>
+        <li><a href="https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat">10 autres scénarios</li>
         <li><a href="tag/run-die-repeat.html">Articles de blog à propos du jeu</a></li>
-        <li><a href="images/jdr/RunDieRepeat-scenarios-FR-v1.1.pdf">10 scénarios que j'ai conçu (PDF 2,0 Mo)</li>
       </ul>
       <blockquote>
       Vous êtes piégé dans un cauchemar, pourchassé par des monstres.
@@ -215,10 +216,21 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">shared-img-reveal</h2>
+    <img class="uk-align-center" src="https://raw.githubusercontent.com/Lucas-C/shared-img-reveal/main/demo.png" alt="Image de démonstration de son fonctionnement">
+    <div class="uk-thumbnail-caption">
+      <q>Une application web pour partager une image avec vos joueurs, et la révéler progressivement. Gratuit et open-source</q>
+      <ul>
+        <li><a href="https://chezsoi.org/lucas/jdr/shared-img-reveal/">Version web</a></li>
+        <li><a href="https://github.com/Lucas-C/shared-img-reveal">Code sur GitHub</a></li>
+      </ul>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">rpg-bonhomme</h2>
     <img class="uk-align-center" src="images/jdr/rpg-bonhomme.jpg" alt="Un masque de Guy Fawkes">
     <div class="uk-thumbnail-caption">
-      <q>Éditeur/visualisateur de feuille de perso en ligne, gratuit et open-source</q>
+      <q>Éditeur/visualisateur de feuille de perso en ligne. Gratuit et open-source</q>
       <ul>
         <li><a href="https://chezsoi.org/lucas/jdr/rpg-bonhomme">Version web</a></li>
         <li><a href="https://github.com/Lucas-C/rpg-bonhomme">Code sur GitHub</a></li>

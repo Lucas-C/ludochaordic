@@ -4,22 +4,31 @@ Tags: lang:en, cygwin, hesperides, isso, jenkins, luigi, open-source, pre-commit
 
 ## Pet projects, musings
 
-<!-- TODO: mention Undying Dusk (with trailer) & shared-img-reveal -->
-
-- [Python Black Box challenge](https://lucas-c.frama.io/python-blackbox-challenges/)
-- [genealogic-d3](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using [d3.js](https://d3js.org)
+### For tabletop RPGs
+- [shared-img-reveal](https://github.com/Lucas-C/shared-img-reveal) : a minimal web application to share an image with your players, like a map, and progressively reveal it
 - [rpg-bonhomme](https://github.com/Lucas-C/rpg-bonhomme) : a tabletop RPG character sheet viewer, with a Python backend using a JSONP key-value store
-- [youtube_playlist_watcher](https://github.com/Lucas-C/youtube_playlist_watcher) : backup Youtube playlists and alert you on songs deletions, written in Python
-- [music-emails-spybot](https://github.com/Lucas-C/music-emails-spybot) : Python script generating an HTML archive page of all mentioned songs in emails retrieved from IMAP server (e.g. Gmail)
+- [rpg-dice](https://chezsoi.org/lucas/jdr/rpg-dice) : perform dice rolls on a web page shared among players
+
+### Games
+
+- [Undying Dusk](https://github.com/Lucas-C/undying-dusk) : **a video game in a PDF format**, with a gameplay based on exploration and logic puzzles, in the tradition of dungeon crawlers:
+
+![Game trailer](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer.gif)
+
 - [The King Must Know](https://github.com/Lucas-C/OuiJam2018) : a Phaser JS short video game made with 2 colleagues during the Global Game Jam 2018
 - [tablut](https://github.com/Lucas-C/tablut/) : a PHP implementation of an old [Scandinavian](https://en.wikipedia.org/wiki/Tafl_games) duel board game for the online platform [BoardGameArena](https://boardgamearena.com), with [simple rules](http://en.doc.boardgamearena.com/Gamehelptablut)
+- [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) : a simple HTML+JS memory game, forked from Mark Rolich repo to add support for images
+
+### Other
+- [Python Black Box challenge](https://lucas-c.frama.io/python-blackbox-challenges/)
+- [genealogic-d3](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using [d3.js](https://d3js.org)
+- [youtube_playlist_watcher](https://github.com/Lucas-C/youtube_playlist_watcher) : backup Youtube playlists and alert you on songs deletions, written in Python
+- [music-emails-spybot](https://github.com/Lucas-C/music-emails-spybot) : Python script generating an HTML archive page of all mentioned songs in emails retrieved from IMAP server (e.g. Gmail)
 - [wisemapping-mindmap-viewer](https://github.com/Lucas-C/wisemapping-mindmap-viewer) : a simple HTML+JS mindmap viewer, fork of an original Java project,
 with a companion [brain_dump](https://github.com/Lucas-C/brain_dump) repo containing tools to manipulate simple mindmaps described as indented Markdown
+- [ecovoit](https://github.com/Lucas-C/ecovoit) : a web search engine for French carpooling offers _(deprecated)_
 - [nose-summary-report](https://pypi.org/project/nose-summary-report/) : nose plugin that generates a final summary of tests status as a table
 - [unicode-search](https://github.com/Lucas-C/unicode-search) : a NodeJS CLI program to search unicode characters by name
-- [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) : a simple HTML+JS memory game, forked from Mark Rolich repo to add support for images
-- [ecovoit](https://github.com/Lucas-C/ecovoit) : a web search engine for French carpooling offers _(deprecated)_
-
 
 ## Contributions
 Some open-source projects to which I have contributed.

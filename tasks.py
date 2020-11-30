@@ -12,6 +12,7 @@ from pelican import main as pelican_main
 from pelican.readers import BaseReader
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
+from pelican.utils import slugify
 
 SETTINGS_FILE_BASE = 'pelicanconf.py'
 SETTINGS = {}
@@ -59,7 +60,8 @@ def src2out(src_file_path):
         joiner = '/drafts/'
     elif '/pages/' in src_file_path:
         joiner = '/pages/'
-    return CONFIG['deploy_path'] + joiner + metadata['slug'] + '.html'
+    slug = metadata.get('slug') or slugify(metadata['title'])
+    return CONFIG['deploy_path'] + joiner + slug + '.html'
 
 @task
 def rebuild(c):
