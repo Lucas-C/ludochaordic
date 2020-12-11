@@ -1,8 +1,13 @@
 Title: Variante 2 joueurs pour Dixit
 Date: 2020-10-01 9:00
-Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, gamedesign, traduction, variante, coop, gratuit, jeux
+Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, gamedesign, traduction, variante, coop, 2-players, gratuit, jeux
 Slug: variante-2-joueurs-pour-dixit
 ---
+
+<!-- Com'
+* https://boardgamegeek.com/filepage/213083/variante-cooperative-pour-2-joueurs
+* https://www.trictrac.net/jeu-de-societe/dixit-0/ressources
+-->
 
 <figure>
   <img alt="Pions lapin du jeu Dixit" src="images/2020/10/dixit-bunnies.jpg">

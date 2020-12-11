@@ -147,7 +147,9 @@ puzzles that did not go well...
 # Storywriting
 Books : really useful
 
-Adventure game puzzle design
+Adventure game puzzle design -> readings
+
+1st OGA contrib & Pedro Medeiros tutorials
 -->
 
 <style>
