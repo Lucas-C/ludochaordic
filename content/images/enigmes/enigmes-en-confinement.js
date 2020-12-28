@@ -15,6 +15,7 @@ const DIGITS_TO_STRINGS = {
   '9': 'neuf',
 };
 
+let scoreBoardCollec, lockCollec, esquissesCollec;  // Cannot be made "const" due to "if" below:
 if (typeof firebase !== 'undefined') {
   firebase.initializeApp({
     apiKey: "AIzaSyBUA2secspKjZIA-_G3gCqcgYrlx5G94QE",
@@ -25,9 +26,9 @@ if (typeof firebase !== 'undefined') {
     messagingSenderId: "1085958736716",
     appId: "1:1085958736716:web:4c0ea416008a37c20edde9"
   });
-  const scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement');
-  const lockCollec = firebase.firestore().collection('Locks');
-  const esquissesCollec = firebase.firestore().collection('Esquisses');
+  scoreBoardCollec = firebase.firestore().collection('EnigmesDeConfinement');
+  lockCollec = firebase.firestore().collection('Locks');
+  esquissesCollec = firebase.firestore().collection('Esquisses');
 }
 function updateScoreBoardTable() {
   const tbody = document.getElementById('highscores');
@@ -580,7 +581,7 @@ function playerScore() {
 }
 function slugify(s) {
   s = String(s).trim().toLowerCase()
-  s = s.normalize('NFD') 				 // separate accent from letter
+  s = s.normalize('NFD')                  // separate accent from letter
   s = s.replace(/[\u0300-\u036f]/g, '')  // remove all separated accents
   s = s.replace(new RegExp('^'+SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '')
   s = s.replace(new RegExp(SLUG_CHAR_RANGE_TO_IGNORE, 'g'), '-')

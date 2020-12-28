@@ -5,8 +5,8 @@ Slug: variante-2-joueurs-rapide-pour-7-wonders
 ---
 
 <!-- Com'
-* https://boardgamegeek.com/
-* https://www.trictrac.net/
+* https://boardgamegeek.com/filepage/213093/variante-2-joueurs-rapide-pour-7-wonders
+* https://www.trictrac.net/jeu-de-societe/7-wonders-1/ressources
 -->
 
 Pour les amateurs du jeu de société **7 Wonders** d’Antoine Bauza,

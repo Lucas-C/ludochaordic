@@ -121,7 +121,10 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('stackoverflow', 'https://stackoverflow.com/users/636849/lucas-cimon'),
           ('discord', 'https://discord.com/invite/BJeuEtX'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
-          ('travis-ci', 'https://travis-ci.org/Lucas-C'))
+          ('reddit', 'https://www.reddit.com/user/lucas-c/posts/'))
+          # ('reddit', 'https://www.reddit.com/user/drmaxkurt/posts/'),
+          # ('deviantart', 'https://www.deviantart.com/drmaxkurt/favourites'),
+          # ('travis-ci', 'https://travis-ci.com/Lucas-C'),
 
 SUPPORTS = (('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/logo_la-quadrature-du-net_20x20.png', 'Faites un don à la Quadrature !'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/button_80x15_framasoft.png', 'Soutenez Framasoft !'),
