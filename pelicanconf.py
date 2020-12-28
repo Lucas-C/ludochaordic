@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2020-12-27', 'img_url': 'images/readings/le-chateau-des-animaux.jpg', 'description': "Le château des animaux - Deleps & Dorison (BD)"},
     {'date': u'2020-11-21', 'img_url': 'images/readings/broadway.jpg', 'description': "Broadway - Fabrice Caro (roman)"},
     {'date': u'2020-10-19', 'img_url': 'images/readings/la-zad.jpg', 'description': "La ZAD - C'est plus grand que nous - Rochepeau & Azuélos (BD)"},
     {'date': u'2020-10-06', 'img_url': 'images/readings/kiffe-ton-cycle.jpg', 'description': 'Kiffe ton cycle - Gaëlle Baldassari'},
