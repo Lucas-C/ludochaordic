@@ -56,6 +56,8 @@ personal, minimalist, bookmarking service, in PHP
     * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
 
+- [<img alt="Logo fpdf2" src="images/open-source/fpdf2-logo.png" style="max-width: 12rem"> fpdf2](https://github.com/PyFPDF/fpdf2) : minimalist PDF creation library for Python - _cf._ blog post about [my contributions to release 2.2.0 of fpdf2](fpdf2-release-2-2-0.html).
+
 - [<img alt="Logo isso" src="images/open-source/isso-logo.svg" style="max-width: 6rem"> isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
 
 - [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
