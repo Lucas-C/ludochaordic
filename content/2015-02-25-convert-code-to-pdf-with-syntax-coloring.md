@@ -1,6 +1,6 @@
 Title: Convert source code to PDF with syntax coloring
 Date: 2015-02-25 23:02
-Tags: lang:en, html, color, pdf, vim, syntastic, postscript, term, source-code, syntax-highlight, pygmentize, wkhtmltopdf, prog
+Tags: lang:en, html, color, pdf, vim, syntastic, postscript, term, source-code, syntax-highlight, perl, python, pygmentize, wkhtmltopdf, prog
 Slug: convert-code-to-pdf-with-syntax-coloring
 ---
 Sometimes, it's useful to print some source code on paper. And PDF is a very common file format, that you can be sure your printer will accept, and that will let you preview the final page layout.
@@ -19,7 +19,7 @@ src2pdf () {
 }
 ```
 
-There is an example of [PDF result, 133Ko](/lucas/blog/images/2015/Fev/UnixUsefulCmds.pdf).
+There is an example of [PDF result, 133Ko](images/2015/Fev/UnixUsefulCmds.pdf).
 
 Alternatively, if you have syntax coloring enabled in vim, e.g. with the great `syntastic` plugin, export to PostScript is trivial :
 
