@@ -65,7 +65,7 @@ writer.write(OUT_FILEPATH)
 ```
 
 This example relies on [_Pull Request_ #216](https://github.com/pmaupin/pdfrw/pull/216)
-in order to be able to specify `at_index` (currently `pdfrw` only allows to append pages).
+in order to be able to specify `at_index` (currently `pdfrw` only allows to **append** pages).
 Until it is merged, you can install a forked version of `pdfrw` including the required patch:
 
     pip install git+https://github.com/PyPDF/pdfrw.git@addpage_at_index
@@ -79,7 +79,7 @@ I first generated a PDF of the 1st code snippet above using the [`src2pdf` bash 
 <a href="images/2021/01/add_on_page.pdf">
   <figure>
     <img alt="PDF Logo" src="images/2021/01/add_on_page-thumbnail.pdf.png">
-    <figcaption><code>add_on_page.pdf</code> (PDF 1 page 133 Ko)</figcaption>
+    <figcaption><code>add_on_page.pdf</code> (PDF 1 page 30 Ko)</figcaption>
   </figure>
 </a>
 
@@ -98,4 +98,4 @@ def new_content():
     return reader.pages[0]
 ```
 
-And there is the result: [add_on_page_with_python_logo.pdf](images/2021/01/add_on_page_with_python_logo.pdf).
+And there is the result: [add_on_page_with_python_logo.pdf (41 Ko)](images/2021/01/add_on_page_with_python_logo.pdf).
