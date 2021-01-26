@@ -187,6 +187,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
         <li><a href="http://www.onesevendesign.com/ladyblackbird/">Site officiel, en anglais</a></li>
         <li><a href="http://www.ecuries-augias.fr/index.php/fr/nos-jeux/lady-blackbird">Site de la VF des Ecuries d'Augias, avec chapitres bonus et conseils</a></li>
         <li><a href="https://ladyblackbird.org">Site de la trilogie de jeux au même format de John Harper</a></li>
+        <li><a href="https://app.box.com/s/yj9y4ascil">Tales From the Wild Blue Yonder: The Lady Blackbird Companion (PDF en anglais 7,5 Mo)</a> - (<a href="https://archive.org/details/blackbirdcompanion/page/n1/mode/2up">alt link</a>)</li>
       </ul>
       <blockquote>
       Lady Blackbird fuit un mariage arrangé.

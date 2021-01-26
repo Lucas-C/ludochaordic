@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2021-01-26', 'img_url': 'images/readings/Sombre6.jpg', 'description': "Sombre n°6 - Johan Scipion (JdR)"},
     {'date': u'2020-12-27', 'img_url': 'images/readings/le-chateau-des-animaux.jpg', 'description': "Le château des animaux - Deleps & Dorison (BD)"},
     {'date': u'2020-11-21', 'img_url': 'images/readings/broadway.jpg', 'description': "Broadway - Fabrice Caro (roman)"},
     {'date': u'2020-10-19', 'img_url': 'images/readings/la-zad.jpg', 'description': "La ZAD - C'est plus grand que nous - Rochepeau & Azuélos (BD)"},
@@ -110,10 +111,12 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('Tristan Nitot', 'http://standblog.org/blog/'),
          ('Blog de Victor Stinner', 'http://vstinner.github.io'),
          ('Rhizome.org', 'https://anthology.rhizome.org'),
-         ('Jane McGonigal', 'https://twitter.com/avantgame'),
          ("Du Monde Dans l'Objectif", 'https://www.dumondedanslobjectif.com'),
          ("Galerie d'Elliot Jolivet aka Tenseï", 'https://illutensei.com'),
          ("Galerie d'Elodie Olivier", 'https://elodie-olivier.com'),)
+         # ('John Carmack', 'https://twitter.com/id_aa_carmack/'),
+         # ('Jane McGonigal', 'https://twitter.com/avantgame'),
+         # ('Antoine Bauza', 'https://twitter.com/Toinito'),
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('github', 'https://github.com/Lucas-C'),
