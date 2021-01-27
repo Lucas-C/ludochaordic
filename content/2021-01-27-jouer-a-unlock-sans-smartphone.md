@@ -11,7 +11,7 @@ j'ai la solution pour vous !
 
 ![Capture d'écran d'Unlock! avec BlueStacks](images/2021/01/unlock.png)
 
-Peut-être n'avez simplement pas de smartphone sous la main, chargé, au moment de vouloir commencer la partie 😅
+Peut-être n'avez-vous simplement pas de smartphone sous la main, chargé, au moment de vouloir commencer la partie 😅
 Quoi qu'il en soit, une solution que j'ai testé et qui fonctionne très bien, est d'employer un **émulateur pour Androïd**,
 c'est-à-dire un logiciel qui va simuler le système d'exploitation d'un téléphone portable sous Androïd.
 
