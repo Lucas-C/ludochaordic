@@ -61,9 +61,9 @@ Or with [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)):
 a(){ echo $2 \\$1 $1 $2 $1 ;};a \' ' a(){ echo $2 \\$1 $1 $2 $1 ;};a '
 ```
 
-There is also the amazing `quinesnake`, a quine in C language, that is also a video game !
+There is also the amazing [quinesnake](https://github.com/taylorconor/quinesnake), a quine in C language, that is also a video game !
 
-![Unbreakable movie poster](images/2021/01/quinesnake.gif)
+[![Unbreakable movie poster](images/2021/01/quinesnake.gif)](https://github.com/taylorconor/quinesnake)
 
 No, could it be possible to build **a PDF that displays its own source code?**
 
