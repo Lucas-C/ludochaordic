@@ -1,8 +1,12 @@
 Title: fpdf2.3.0 Unbreakable! and PDF quines
 Date: 2021-01-29 12:30
-Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, fpdf2, quine, prog
+Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, fpdf2, quine, NightShyamalan, prog
 Slug: fpdf2-3-0-unbreakable-and-pdf-quines
 ---
+
+<!--
+Shared there: https://www.reddit.com/r/programming/comments/l7qok4/release_of_fpdf230_a_challenge_can_you_craft_a/
+-->
 ![Unbreakable movie poster](images/2021/01/unbreakable.jpg)
 
 Today, I am happy to announce **version 2.3.0 of fpdf2**, code name: **Unbreakable!**
