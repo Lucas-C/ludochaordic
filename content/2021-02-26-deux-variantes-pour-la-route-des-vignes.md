@@ -5,7 +5,8 @@ Slug: deux-variantes-pour-la-route-des-vignes
 ---
 
 <!-- Com':
-* https://boardgamegeek.com/boardgame/205045/avenue/files (WIP)
+* https://boardgamegeek.com/filepage/217872/variante-aperitif-fr-en
+* https://boardgamegeek.com/filepage/217872/variante-vignerons-fr-en
 
 PDF sources: https://gitlab.com/Lucas-C/board-games/-/tree/master/LaRouteDesVignes
 -->
@@ -31,7 +32,7 @@ j'ai décidé de concevoir une petite variante.
 La voici donc : **APÉRITIF !**
 Bon jeu 😉
 
-<a href="images/jeux/LaRouteDesVignes-Variante-FR.pdf">
+<a href="images/jeux/LaRouteDesVignes-Variante-Aperitif-FR.pdf">
   <figure>
     <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Aperitif.png">
     <figcaption>Variante « Apéritif » FR (PDF 1 page 369 Ko)</figcaption>
@@ -42,7 +43,7 @@ Je ne l'ai pas encore beaucoup testé, et je serais ravir d'avoir vos retours de
 
 **EDIT (plus tard dans la journée)** : bon, j'ai finalement été inspiré pour une seconde variante : **Vignerons**
 
-<a href="images/jeux/LaRouteDesVignes-Variante-FR.pdf">
+<a href="images/jeux/LaRouteDesVignes-Variante-Vignerons-FR.pdf">
   <figure>
     <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Vignerons.png">
     <figcaption>Variante « Vignerons » FR (PDF 1 page 370 Ko)</figcaption>
