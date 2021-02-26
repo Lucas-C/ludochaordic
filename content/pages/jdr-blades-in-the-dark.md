@@ -666,6 +666,7 @@ https://www.creativeuncut.com/gallery-29/bb-scorge-beast.html
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
 TO MENTION:
++ https://assemblyrequisite.itch.io/the-duskvol-bestiary
 + https://mabelharper.itch.io/steelweavers-rebellion
 + https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0
 + https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0

@@ -1,6 +1,6 @@
 Title: Variante 2 joueurs rapide pour 7 Wonders
 Date: 2020-12-11 18:00
-Tags: lang:fr, antoine-bauza, jeu-de-societe, board-game, 2-players, antoine-bauza, boardgamegeek, gamedesign, traduction, variante, gratuit, jeux
+Tags: lang:fr, jeu-de-societe, board-game, 2-players, antoine-bauza, boardgamegeek, gamedesign, traduction, variante, gratuit, jeux
 Slug: variante-2-joueurs-rapide-pour-7-wonders
 ---
 
