@@ -4,8 +4,10 @@ Tags: lang:en, lang:fr, personal-project, jeu-de-societe, board-game, paris-est-
 Slug: variante-aperitif-pour-la-route-des-vignes
 ---
 
-<!-- Com'
+<!-- Com':
 * https://boardgamegeek.com/boardgame/205045/avenue/files -> 2 autres fichiers à ajouter
+
+PDF sources: https://gitlab.com/Lucas-C/board-games/-/tree/master/LaRouteDesVignes
 -->
 
 _(English PDF rules at the bottom)_
