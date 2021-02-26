@@ -5,7 +5,7 @@ Slug: variante-aperitif-pour-la-route-des-vignes
 ---
 
 <!-- Com':
-* https://boardgamegeek.com/boardgame/205045/avenue/files -> 2 autres fichiers à ajouter
+* https://boardgamegeek.com/boardgame/205045/avenue/files
 
 PDF sources: https://gitlab.com/Lucas-C/board-games/-/tree/master/LaRouteDesVignes
 -->
