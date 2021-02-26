@@ -1,11 +1,11 @@
-Title: Variante "APÉRITIF" pour La Route Des Vignes
-Date: 2021-02-26 13:00
+Title: Deux variantes pour La Route Des Vignes
+Date: 2021-02-26 18:15
 Tags: lang:en, lang:fr, personal-project, jeu-de-societe, board-game, paris-est-ludique, matagot, jedijeux, 2-players, boardgamegeek, gamedesign, traduction, variante, gratuit, jeux
-Slug: variante-aperitif-pour-la-route-des-vignes
+Slug: deux-variantes-pour-la-route-des-vignes
 ---
 
 <!-- Com':
-* https://boardgamegeek.com/boardgame/205045/avenue/files
+* https://boardgamegeek.com/boardgame/205045/avenue/files (WIP)
 
 PDF sources: https://gitlab.com/Lucas-C/board-games/-/tree/master/LaRouteDesVignes
 -->
@@ -33,26 +33,50 @@ Bon jeu 😉
 
 <a href="images/jeux/LaRouteDesVignes-Variante-FR.pdf">
   <figure>
-    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante.png">
-    <figcaption>(PDF 1 page 369 Ko)</figcaption>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Aperitif.png">
+    <figcaption>Variante « Apéritif » FR (PDF 1 page 369 Ko)</figcaption>
   </figure>
 </a>
 
 Je ne l'ai pas encore beaucoup testé, et je serais ravir d'avoir vos retours dessus !
 
+**EDIT (plus tard dans la journée)** : bon, j'ai finalement été inspiré pour une seconde variante : **Vignerons**
+
+<a href="images/jeux/LaRouteDesVignes-Variante-FR.pdf">
+  <figure>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Vignerons.png">
+    <figcaption>Variante « Vignerons » FR (PDF 1 page 370 Ko)</figcaption>
+  </figure>
+</a>
+
 _English & printer friendly versions:_
 
 <div class="side-by-side">
-  <a href="images/jeux/Avenue-Variant-EN.pdf">
+  <a href="images/jeux/Avenue-Aperitif-Variant-EN.pdf">
     <figure>
-    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante.png">
-      <figcaption>(English PDF 1 page 368 Ko)</figcaption>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Aperitif.png">
+      <figcaption>« Aperitif » variant EN (PDF 1 page 368 Ko)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Avenue-LaRouteDesVignes-Variant-PrinterFriendly.pdf">
+  <a href="images/jeux/Avenue-LaRouteDesVignes-Aperitif-Variant-PrinterFriendly.pdf">
     <figure>
-    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante.png">
-      <figcaption>(printer-friendly PDF 1 page 357 Ko)</figcaption>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Aperitif.png">
+      <figcaption>Printer-friendly « aperitif » variant (PDF 1 page 357 Ko)</figcaption>
+    </figure>
+  </a>
+</div>
+
+<div class="side-by-side">
+  <a href="images/jeux/Avenue-Winegrowers-Variant-EN.pdf">
+    <figure>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Vignerons.png">
+      <figcaption>« Winegrowers » variant EN (PDF 1 page 369 Ko)</figcaption>
+    </figure>
+  </a>
+  <a href="images/jeux/Avenue-LaRouteDesVignes-Winegrowers-Variant-PrinterFriendly.pdf">
+    <figure>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Vignerons.png">
+      <figcaption>Printer-friendly « winegrowers » variant (PDF 1 page 359 Ko)</figcaption>
     </figure>
   </a>
 </div>
