@@ -6,7 +6,7 @@ Slug: deux-variantes-pour-la-route-des-vignes
 
 <!-- Com':
 * https://boardgamegeek.com/filepage/217872/variante-aperitif-fr-en
-* https://boardgamegeek.com/filepage/217872/variante-vignerons-fr-en
+* https://boardgamegeek.com/filepage/217928/variante-vignerons-fr-en
 
 PDF sources: https://gitlab.com/Lucas-C/board-games/-/tree/master/LaRouteDesVignes
 -->

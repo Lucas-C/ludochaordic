@@ -144,6 +144,10 @@ puzzles that did not go well...
 - sokoban
 - CTRL+F
 
+Difficulties to terminate the game (especially to rework stuff like the last boss fight)
+
+Metadata addition with pikepdf that took 1h15 :(
+
 # Storywriting
 Books : really useful
 

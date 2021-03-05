@@ -231,10 +231,17 @@ Peut-être en affrontant le boss cowboy qui s'en sert. Et il y a une autre boss 
 En attendant je serais ravis de lire vos propres recommandations dans les commentaires,
 où vos propres anecdotes de partie que cet article ont pu rappeler à votre mémoire !
 
+<img style="float: left" src="images/2019/02/flat-heroes.webp" alt="Flat Heroes : A minimalistic epic adventures">
+
 **EDIT [2019/02/16]** : Je rajoute à cette liste [Super Crate Box Together](https://yellowafterlife.itch.io/super-crate-box-together)
 testé hier soir : sans être inoubliable, cette version co-op (jusqu'à 4) d'un petit jeu gratuit des hollandais de Vlambeer
 est suffisament hypnotique, avec l'envie d'en refaire toujours « une dernière » pour faire un meilleur score,
 pour que je vous le recommande ici !
+
+**EDIT [2021/03/04]** : Je rajoute également [Flat Heroes](http://parallelcircles.com/press/sheet.php?p=flat_heroes)
+découvert l'année dernière : un excellent jeu de plateforme jusqu'à 4 joueurs,
+semi-coopératif avec même de sympatiques bosses de fin de niveau !
+La direction artistique est originale, minimaliste mais réussie, et le gameplay très réactif et simple à prendre en main.
 
 <style>
 article img { max-width: 28rem; }
