@@ -1,5 +1,5 @@
 Title: Undying Dusk : a PDF video game
-Date: 2020-10-07 18:0
+Date: 2021-03-07 13:00
 Tags: lang:en, lang:fr, libre-software, open-source, pdf, video-game, dungeon-crawler, rpg, indie-game, python, library, gratuit, creative-commons, gpl, gamedesign, post-mortem, recreative-programming, prog, cyberconv, jeux
 Slug: undying-dusk-a-pdf-video-game
 Status: draft
@@ -54,16 +54,16 @@ It was made during the summer of 2020 by Lucas Cimon.
 To my knowledge, this is **the very first video game in a PDF format**.
 
 <div class="side-by-side">
-  <a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.4/undying-dusk.pdf" download>
+  <a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.6/undying-dusk.pdf" download>
     <figure>
       <img alt="" src="images/2020/10/pdf-icon.png">
-      <figcaption>v0.9.4 - 3 novembre 2020<br>(PDF 148 Mo)</figcaption>
+      <figcaption>v0.9.6 - 7 mars 2021<br>(PDF 272 Mo)</figcaption>
     </figure>
   </a>
-  <a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.4/undying-dusk-with-sumatra-windows.zip" download>
+  <a href="https://github.com/Lucas-C/undying-dusk/releases/download/v0.9.6/undying-dusk-with-sumatra-windows.zip" download>
     <figure>
       <img alt="" src="images/2020/11/zip-icon.jpg">
-      <figcaption>v0.9.4 - 3 novembre 2020<br>(ZIP 59 Mo)</figcaption>
+      <figcaption>v0.9.6 - 7 mars 2021 2020<br>(ZIP 109 Mo)</figcaption>
     </figure>
   </a>
 </div>
