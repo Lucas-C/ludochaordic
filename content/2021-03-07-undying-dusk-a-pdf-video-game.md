@@ -14,7 +14,7 @@ Status: draft
 - [ ] Sumatra PDF
 - [ ] famille Cesbron, Thomas G & ses potes
 - [ ] bruno bord
-- [ ] collègues, Michael Bourhis, Martin & son frère, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
+- [ ] collègues, Michael Bourhis, Martin & son frère, Maxence, Thomas G, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
 - [ ] thierry.fetiveau@gmail.com
 - [ ] https://www.coupleofgamer.com/about
 - [ ] envoyer version PDF à Thib pour tester sur smartphone + msg HackerNews
@@ -27,6 +27,15 @@ post write-up:
 - [ ] linux fr ?
 - [ ] collègues, dont Michaël Bouris & son beauf fan de JV/jdr
 - [ ] Emily F & other Irish people
+
+Idées de format de com' originales et peu coûteuses à réaliser :
+* raisons pour jouer / ne pas jouer à Undying Dusk
+  + an old-school video game challenge to beat
+  + retro aesthetics
+  + challenging puzzles
+  + enter the hall of fame of the 1st video game PDF
+  - ergonomics
+* animated GIF that initially just looks like static text
 -->
 
 ![UNDYING DUSK](images/2020/10/undying-dusk-title.png)
@@ -35,8 +44,8 @@ post write-up:
 with a gameplay based on exploration and logic puzzles,
 in the tradition of [dungeon crawlers](https://en.wikipedia.org/wiki/Dungeon_crawl#Video_games).
 
-The game is set in a fantasy realm where a curse set by the Empress keeps the world in an eternal dusk.
-You play a woman who recently found shelter in an eerie monastery.
+> A curse set by the Empress keeps the world in an eternal dusk.
+> You are have recently found shelter in an eerie monastery.
 
 It features:
 
