@@ -50,6 +50,15 @@ Je ne l'ai pas encore beaucoup testé, et je serais ravir d'avoir vos retours de
   </figure>
 </a>
 
+**EDIT [2021/03/22]** : j'ai conçu une troisième variante : **Joker**
+
+<a href="images/jeux/LaRouteDesVignes-Variante-Joker-FR.pdf">
+  <figure>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Joker.png">
+    <figcaption>Variante « Joker » FR (PDF 1 page 190 Ko)</figcaption>
+  </figure>
+</a>
+
 _English & printer friendly versions:_
 
 <div class="side-by-side">
@@ -62,7 +71,7 @@ _English & printer friendly versions:_
   <a href="images/jeux/Avenue-LaRouteDesVignes-Aperitif-Variant-PrinterFriendly.pdf">
     <figure>
     <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Aperitif.png">
-      <figcaption>Printer-friendly « aperitif » variant (PDF 1 page 357 Ko)</figcaption>
+      <figcaption>Printer-friendly « Aperitif » variant (PDF 1 page 357 Ko)</figcaption>
     </figure>
   </a>
 </div>
@@ -77,11 +86,25 @@ _English & printer friendly versions:_
   <a href="images/jeux/Avenue-LaRouteDesVignes-Winegrowers-Variant-PrinterFriendly.pdf">
     <figure>
     <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Vignerons.png">
-      <figcaption>Printer-friendly « winegrowers » variant (PDF 1 page 359 Ko)</figcaption>
+      <figcaption>Printer-friendly « Winegrowers » variant (PDF 1 page 359 Ko)</figcaption>
     </figure>
   </a>
 </div>
 
+<div class="side-by-side">
+  <a href="images/jeux/Avenue-Joker-Variant-EN.pdf">
+    <figure>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Joker.png">
+      <figcaption>« Joker » variant EN (PDF 1 page 189 Ko)</figcaption>
+    </figure>
+  </a>
+  <a href="images/jeux/Avenue-LaRouteDesVignes-Joker-Variant-PrinterFriendly.pdf">
+    <figure>
+    <img alt="Aperçu miniature" src="images/2021/02/LaRouteDesVignes-Variante-Joker.png">
+      <figcaption>Printer-friendly « Joker » variant (PDF 1 page 179 Ko)</figcaption>
+    </figure>
+  </a>
+</div>
 
 <style>
 .side-by-side {
@@ -91,3 +114,4 @@ _English & printer friendly versions:_
 }
 .side-by-side > * { margin: 0 2rem; }
 </style>
+
