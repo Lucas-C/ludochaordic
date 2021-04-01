@@ -129,21 +129,32 @@ de Clément De Ruyter a l'air très prometeur également ! Et cette version Mini
 **EDIT [2019/08/15]** : un court jeu en anglais, basé sur l'exploration et la création collective d'une carte,
 qui pourrait également être amusant de jouer avec des enfants : [Untold Horizons de Gordie Murphy](https://gmurphy.itch.io/untold-horizons).
 
+[![Couverture d'Untold Horizons](images/2018/11/untold-horizons.png)](https://gmurphy.itch.io/untold-horizons)
+
 **EDIT [2020/01/15]** : on vient de me recommander [Tails of Equestria](https://www.black-book-editions.fr/catalogue.php?id=553)
 inspiré de la série animée _My Little Pony - Friendship is Magic_, pour jouer avec de jeunes enfants.
 
+[![Couverture de Tails of Equestria](images/2018/11/TailsOfEquestria.jpg)](https://www.black-book-editions.fr/catalogue.php?id=553)
+
 **EDIT [2020/03/16]** : vous trouverez d'autres suggestions sur la page de [mes jeux de rôle préférés](pages/jdr-favoris.html),
-et je viens de rédiger un article sur [comment faire découvrir le JdR](faire-decouvrir-le-jdr-et-fete-du-jeu.html).
+et je viens de rédiger un article sur [comment faire découvrir le JdR](faire-decouvrir-le-jdr-et-fete-du-jeu.html),
+incluant **Ori Mushi**, un court jeu complet (système, scénario & illustrations) pour faire découvrir ce loisir :
+
+[![Couverture d'Ori Mushi](https://lucas-c.github.io/jdr/OriMushi/Journey-to-the-West-TysonTan.png)](faire-decouvrir-le-jdr-et-fete-du-jeu.html)
 
 **EDIT [2020/03/20]** : [une spéciale redif’ de la plupart du matériel gratuit à destination des enfants](https://lefix.di6dent.fr/archives/10704), Le Fix - Di6dent
 
 **EDIT [2020/06/24]** : je viens de découvrir [Smallest adventures… Pirates!](https://gaet-hoth.itch.io/smallest-adventures-pirates-fr),
 qui me semble malin, minimaliste et très accessible pour des enfants (de 8 ans et plus).
 
+[![Couverture de Smallest Adventures](images/2018/11/SmallestAdventures.png)](https://gaet-hoth.itch.io/smallest-adventures-pirates-fr)
+
 **EDIT [2020/07/05]** : un ami m'a parlé de [Donjons & Chenapans](https://gusandco.net/2020/03/18/donjons-chenapans-jeu-enfants/),
 un jeu de rôle pour les enfants dès 4 ans, avec une très jolie feuille de personnage.
 Je viens également d'écrire un court scénario pour _Run Die Repeat_ pour jouer avec des enfants :
 [_le camembert de la sorcière_](un-scenario-pour-run-die-repeat-pour-les-enfants.html).
+
+[![Couverture de Donjons & Chenapans](images/2018/11/DonjonsEtChenapans.webp)](https://gusandco.net/2020/03/18/donjons-chenapans-jeu-enfants/)
 
 <style>
 article img { max-height: 20rem; }

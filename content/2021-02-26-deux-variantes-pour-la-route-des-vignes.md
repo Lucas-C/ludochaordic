@@ -5,8 +5,8 @@ Slug: deux-variantes-pour-la-route-des-vignes
 ---
 
 <!-- Com':
-* https://boardgamegeek.com/filepage/217872/variante-aperitif-fr-en
-* https://boardgamegeek.com/filepage/217928/variante-vignerons-fr-en
+* [ ] https://boardgamegeek.com/boardgame/205045/avenue/files
+* [ ] https://www.trictrac.net/jeu-de-societe/la-route-des-vignes/ressources
 
 PDF sources: https://gitlab.com/Lucas-C/board-games/-/tree/master/LaRouteDesVignes
 -->
@@ -114,4 +114,3 @@ _English & printer friendly versions:_
 }
 .side-by-side > * { margin: 0 2rem; }
 </style>
-
