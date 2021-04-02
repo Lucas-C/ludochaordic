@@ -52,6 +52,9 @@ Choses qui ont été adapté :
 
 Prévoir 2 bandes son
 
+<!-- TODO: imgs_upload.sh -->
+
+
 ## Galerie d'illustrations
 
 <figure>

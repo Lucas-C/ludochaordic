@@ -145,6 +145,8 @@ DEFAULT_LANG = 'fr'
 PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
 WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
 
+META_IMAGE = 'images/Tom_Brown_Mathematics_CC-by-2-0_800x534.jpg'
+
 # microformats info for h-card:
 COUNTRY = 'France'
 LOCALITY = 'Saint-Mathurin-sur-Loire'
