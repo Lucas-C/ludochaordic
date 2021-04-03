@@ -145,7 +145,8 @@ DEFAULT_LANG = 'fr'
 PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
 WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
 
-META_IMAGE = 'images/Tom_Brown_Mathematics_CC-by-2-0_800x534.jpg'
+# "Open Graph tags do not acknowledge <base>, and should always have full absolute URLs" - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+META_IMAGE = 'https://chezsoi.org/lucas/blog/images/Tom_Brown_Mathematics_CC-by-2-0_800x534.jpg'
 
 # microformats info for h-card:
 COUNTRY = 'France'
