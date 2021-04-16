@@ -9,6 +9,8 @@ Status: draft
 
 [Why is HTML linting not a common practice?](https://dev.to/dandevri/why-is-html-linting-not-a-common-practice-4gme)
 
+Criterias : activity (commits / year, overview of last issues...), features (auto-fix, #number of rules...), usability (user-friendliness, ease of installation & configuration...) testing 3-4 example pages (Boostrap 4.1 Starter template, Foundation, Pure CSS, Semantic UI, UI kit, https://www.w3schools.com/html/html_examples.asp)
+
 - Tidy HTML:
   * ` -modify` autoformat
   * latest version allow to mute some warnings, but [the exit code will still be non-zero](https://github.com/htacg/tidy-html5/issues/933),
@@ -33,17 +35,25 @@ indent: auto
 indent-spaces: 4
 wrap: no
 drop-empty-elements: false
+# The following config entries requires tidy v5.6+:
+warn-proprietary-attributes: no
 # Display message ID's with error reports, useful to filter them out using "mute":
 mute-id: yes
-# The following config entry requires tidy v5.6+:
-warn-proprietary-attributes: no
 ```
+<!-- /opt/tidy-html5/build/cmake/tidy --version # 5.7.45 -->
 
 - [v.Nu, the Nu HTML Checker](https://validator.github.io/validator/) from the W3C
-  * [html5validator](https://pypi.org/project/html5validator/) Python wrapper
-  * also npm & Docker usages
+  * [html5validator (Python package)](https://pypi.org/project/html5validator/)
+  * [vnu-jar (npm package)](https://www.npmjs.com/package/vnu-jar)
+  * [validator/validator (Docker image)[https://hub.docker.com/r/validator/validator/]
 
 - [htmlhint](https://htmlhint.com)
+
+Usage in [GitHub Actions](https://github.com/features/actions) / [Gitlab CI](https://docs.gitlab.com/ee/ci/) / [Travis CI](https://www.travis-ci.com):
+
+```yaml
+- npm install -g htmlhint
+```
 
 Example of `.htmlhintrc`:
 
@@ -64,6 +74,12 @@ Example of `.htmlhintrc`:
 
 - [htmllint](https://github.com/htmllint/htmllint)
 
+Usage in [GitHub Actions](https://github.com/features/actions) / [Gitlab CI](https://docs.gitlab.com/ee/ci/) / [Travis CI](https://www.travis-ci.com):
+
+```yaml
+- npm install -g htmllint
+```
+
 Example of `.htmllintrc`:
 
 ```json
@@ -79,6 +95,11 @@ Example of `.htmllintrc`:
 
 - [html-validate](https://gitlab.com/html-validate/html-validate)
 
+Usage in [GitHub Actions](https://github.com/features/actions) / [Gitlab CI](https://docs.gitlab.com/ee/ci/) / [Travis CI](https://www.travis-ci.com):
+
+```yaml
+- npm install -g html-validate
+```
 
 Also mentions:
 * https://github.com/twbs/bootlint

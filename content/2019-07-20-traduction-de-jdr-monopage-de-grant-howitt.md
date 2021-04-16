@@ -36,7 +36,7 @@ et que c'est déjà la troisième, je vais vous les présenter rapidement ici.
 
 - [Version originale _This Is Not A Place Of Honour_ sur itch.io](https://gshowitt.itch.io/this-is-not-a-place-of-honour)
 - [Version web en français](https://lucas-c.github.io/jdr/ce-nest-pas-une-place-dhonneur/)
-- [PDF en français](https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.2/ce-nest-pas-une-place-dhonneur-v1.2.pdf)
+- [PDF en français](https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.3/ce-nest-pas-une-place-dhonneur-v1.3.pdf)
 
 ---
 
