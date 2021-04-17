@@ -79,7 +79,7 @@ cf. <https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html>
 - [my Pinterest board of BitD characters](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-characters/)
 - [my Pinterest board of BitD places](https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/)
 
-Note: il y en a [plein d'autres](https://www.pinterest.fr/search/boards/?q=blades%20in%20the%20dark&rs=filter) !
+<u>Note :</u> il y en a [plein d'autres](https://www.pinterest.fr/search/boards/?q=blades%20in%20the%20dark&rs=filter) !
 
 ### Compte-rendu de partie
 
@@ -464,7 +464,7 @@ mais une "énigme à tiroirs" pour lui permettre de développer un pouvoir surna
 Comme l'énigme est toujours en cours, je n'en révèle pas plus pour le moment.
 
 Suite à l'opération en demi-teinte de la nuit précédente, le gang du Harpon se rassemble pour faire le point.
-Pour préparer l'opération dans le district perdu pour laquelle les Silver Nails les ont recruté,
+Pour préparer l'opération dans le district perdu pour laquelle les **Silver Nails** les ont recruté,
 il est décidé qu'Ethnos allait consulter les notes de Ludius dans son bureau,
 et avec l'aide d'Elaria tenter de trouver d'anciennes connaissances qui pourraient les acheminer jusqu'au district perdu.
 
@@ -473,7 +473,7 @@ un ancien camarade marin de Ludius, devenu pêcheur
 et ayant encore une dette envers ce dernier.
 Il accepte finalement à contre-cœur d'acheminer de nuit, dans 4 jours,
 une dizaine de personnes jusqu'en dehors de la barrière électroplasmique,
-et de les déposer sur l'île de la Quarantaine, pour les rapatrier ensuite au lever du jour.
+et de les déposer sur l'**île de la Quarantaine**, pour les rapatrier ensuite au lever du jour.
 
 De son côté, Eric confronte l'individu qui se renseignait sur lui à l'_Habit fait le Moine_,
 dans un bordel où il a ses habitudes.
@@ -499,14 +499,14 @@ l'_Encre & la Plume_, il y a 2 jours. Il doit retourner y faire son rapport dans
 > « Ça fait plus d'un mot ça. Perdu. »
 
 Après avoir éliminé Casta et s'être débarrassé de son corps, Eric rejoint le reste du gang à leur planque.
-Là-bas, Ethnos-Ludius & Elaria ont découvert que quelqu'un s'était introduit chez eux malgré leurs systèmes de protection, et surprenne l'intrus alors qu'il tentait de forcer le coffre contenant le _logbook_.
+Là-bas, Ethnos-Ludius & Elaria ont découvert que quelqu'un s'était introduit chez eux malgré leurs systèmes de protection, et surprennent l'intrus alors qu'il tentait de forcer le coffre contenant le _logbook_.
 Elaria rattrape leur voleur avant qu'il ne s'enfuie, l’assomme et le ramène au Vieux Galion.
 La jeune femme étant muette, Ethnos lui donne une plume et une feuille de papier
 et procède à un interrogatoire inquisiteur.
 La monte-en-l'air accepte de parler s'ils promettent de lui laisser la vie sauve.
 Elle révèle s'appeler **Sylvia Derengathi** et avoir tenté de voler le _logbook_
 pour impressionner les membres de la société secrète du Cercle de Feu, et ainsi être intronisée en leur sein.
-Elle retranscrit toute ce qu'elle sait sur les informations fournies à l'ordre,
+Elle retranscrit tout ce qu'elle sait sur les informations fournies à l'ordre,
 par exemple par les Chasseurs de Léviathans.
 En définitive, Ethnos-Ludius lui tranche la main pour la punir avant de l'abandonner dans une ruelle en ville.
 
@@ -534,13 +534,13 @@ et convenir de leur rémunération.
 Le soir venu, ils se rendent à l'auberge l'_Encre & la Plume_
 pour identifier le mystérieux commanditaire qui avait engagé Casta.
 Celui-ci se révèle être la fille de l'ancien psy d'Eric, dont le meurtre lui avait valu la prison,
-mais dont il avait oublié le nom.
+mais dont il avait oublié le nom...
 
 Le lendemain soir, ils retrouvent les Silver Nails, armés et harnachés pour le combat,
-chez Phil, et ils embarquent tous en direction des des barrières électroplasmiques.
+chez Phil, et ils embarquent tous en direction des barrières électroplasmiques.
 Le contrôle de routine de l'armée impériale se déroule sans encombre,
-et une fois à l'île de la Quarantaine ils mettent deux barques à l'eau pour rejoindre la côte.
-Le paysage qui s'offre à eux est celui d'une terre désolé, noire et cendreuse.
+et une fois à proximité de l'île de la Quarantaine, ils mettent deux barques à l'eau pour rejoindre la côte.
+Le paysage qui s'offre à eux est celui d'une terre désolée, noire et cendreuse.
 Les bâtiments qui composent le district se dressent, immaculés et nus,
 au milieu de rues désertes où plus rien d'organique de subsiste, ni bois ni végétation.
 La mere d'huile et la plage sont nappées d'un silence lugubre.
@@ -626,7 +626,7 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 Pour l'ambiance musicale, j'ai opté pour cette playlist YouTube :
 [Blades in the Dark music](https://www.youtube.com/watch?v=pPWCkhulCn8&list=PLxiArOyYrVNHsgg1Y3ShKX6Yhys_NgfsY).
 Elle contient 65 morceaux dont certains issus de la bande son des jeux vidéos Dishonored, Thief et
-de The Witcher (il faut passer la piste 10 au bout d'un certain car elle tourne en boucle pendant 1h), ainsi que du film Sherlock Holmes.
+de The Witcher (il faut passer la piste 10 au bout d'un certain temps car elle tourne en boucle pendant 1h), ainsi que du film Sherlock Holmes.
 
 Histoire de réviser la géographie de la ville et me préparer à des scènes improvisées,
 j'ai pris le temps d'associer les suggestions d'obstacles de [noobule dans ce thread Reddit](https://www.reddit.com/r/bladesinthedark/comments/ah92m6/a_list_of_flavorful_obstacles/eeegujz)
@@ -641,46 +641,150 @@ qui vont m'être bien utiles je pense.
 Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https://thetrove.net/Books/Powered%20by%20the%20Apocalypse/Blades%20in%20the%20Dark/Hacks/).
 
 
-## Session 8 - ? août 2020
+## Session 8 - 17 avril 2021
 
 ![Harpoon + Crow + Red Sash + White Eye](images/bitd/crow-harpoon-red-scard.jpg)
 
+<figure>
+  <img alt="Let's do this! - Ronamis" src="images/bitd/Ronamis-LetsDoThis.jpg">
+  <figcaption><a href="https://www.reddit.com/r/bladesinthedark/comments/gr4sm9/lets_do_this_bitd_image_by_ronamis/">Let's do this! - Ronamis</a></figcaption>
+</figure>
+
+<div class="side-by-side">
+  <figure>
+    <img alt="Justinia (Talyn by Banished-shadow)" src="images/bitd/Justinia.png">
+    <figcaption>Justinia (<a href="https://www.deviantart.com/banished-shadow/art/Talyn-569327626">Talyn by Banished-shadow</a>)</figcaption>
+  </figure>
+  <figure>
+    <img alt="Early Morning Lights - Joseph Feely" src="images/bitd/JosephFeely-EarlyMorningLights.jpg">
+    <figcaption><a href="https://www.artstation.com/artwork/3ddmVE">Early Morning Lights - Joseph Feely</a></figcaption>
+  </figure>
+  <figure>
+    <img alt="Josef Tucker (Daud By Infernal Guardian'17)" src="images/bitd/JosefTucker.jpg">
+    <figcaption>Josef Tucker (Daud By Infernal Guardian'17)</figcaption>
+  </figure>
+</div>
+
+La partie débute par le rapport de l'espion Valeris, qui apprend au gang du Harpon de nombreuses informations sur le gang de l'Oeil Blanc :
+
+- le penchant pour Baszos Baz pour le culte d'aciens dieux et ses arrangements avec l'ordre du Cercle de la Flamme;
+- le matériel dont ils disposent : bombes incendiaires, fourgonnette, armes à arc électrique...
+- leurs troupes : une trentaine de _thugs_, dont une grande part de mercennaires, une escouade d'experts en infiltration, _Les Cendreux_, et 2 lieutenants versés dans les arcanes
+- l'état de leurs opérations : buisness en berne depuis les offensives du Harpon, distillerie de drogue dans leur QG et bordels en cours de réapprovisonnement via le réseau de prostitution iruvien
+
+Le Harpon paye son dû à l'espion, qui leur est reconnaissant et leur glisse en partant :
+
+> Si vous voulez mon humble avis, en ayant choisi de placer leur QG dans cet entrepôt de charbon, ils ont pris un sérieux risque d'incendie... 😉
+
+Ellipse et transition directe au coeur de l'action, alors que le gang au complet se dresse au milieu des flammes de l'incendie qui ravage l'entrepôt de charbon servant de QG à l'Oeil Blanc...
+
+Un assaut rondement mené se déroule alors : Eric pulvérise un première poche de résistance qui s'était formée autour d'un lieutenant arcaniste de Baszos, récoltant une nouvelle tête pour sa collection, tandis qu'Elaria & Ethnos propagent l'incendie puis font dégringoler un autre arcaniste perché sur une grue, en faisant fondre sa base métallique !
+Il a néanmoins le temps de projeter une charge spectrale sur ses adversaires, qui sont
+sauvés in-extremis par un nouveau charme protecteur (_spirit bane_) récemment acquis par Elaria en vue de cet affrontement.
+Le lieutenant arcaniste plonge de sa grue dans un réservoir d'eau proche, où Eric lui règle sont compte en y versant un très violent poison.
+
+Eric et les troupes de l'Écharpe Rouge mènent alors une charge endiablée contre les dernières forces de l'Oeil Blanc
+réfugiées derrières des barricades de fortune.
+Baszos Baz, voyant ses derniers hommes succomber face au nombre et à l'habilité des assaillants,
+fuit à l'intérieur d'un bâtiment et débute un rituel occulte face à des statues anciennes et grimaçantes...
+Elaria qui l'a suivi discrètement lui règle néanmoins son compte avant qu'il n'aie pu l'achever,
+sans hésiter à porter le coup fatal alors que Baszos tente de négocier sa vie :
+
+> « Épargne-moi et je vous ramènerai votre compagnon Melvir d'entre les morts ! »
+
+> « Essaie de te ramener toi-même d'abord. »
+
+Pendant ce temps, Ethnos-Ludius s'est infiltré dans les étages de ce même bâtiment,
+et découvre la pièce renfermant le trésor de guerre du gang.
+La victoire est assurée et la situation est sous contrôle.
+Il est décidé que les 3 gangs, Crows, Harpon & Écharpe Rouge se réuniront demain midi pour négocier la répartition du butin
+et du territoire de l'Oeil Blanc.
+
+Cette anhilation d'un gang vaut au gang du Harpon une telle hausse de leur réputation qu'**ils entrent véritablement dans
+« la cour des grands »**, devenant un gang majeur de Doskvol !
+Ils deviennent également une préoccupation plus sérieuse pour la milice, qui les a de plus en plus dans le colimateur...
+
+Le lendemain matin, le gang entreprend donc d'essayer de rassurer la populace en faisant circuler quelques rumeurs en leur faveur,
+puis de recruter des hommes : **Josef Tucker** tout d'abord, un _whisper_ versé dans les illusions, également ancien barman à la Goule Fendue devant de l'argent au gang, ainsi qu'une demi-douzaine de sous-fifres triés sur le volet.
+
+Ethnos-Ludius et Aldo se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire de l'Écharpe Rouge, mais Justinia manque au rendez-vous... Sur place, ils retrouvent Mylera, Oru et Bell. Les négociations se déroulent sans accroc :
+l'Écharpe Rouge récupère le territoire sud, les artefacts magiques que possédait Baszos et le buisness de la prostitution;
+les Crows conservent leur territoire et récupèrent la moitié du magot et tous les hommes restant de l'Oeil Blanc qu'ils souhaitent;
+le Harpon récupère les territoires Ouest (Limmerfield, Miser's Row, Saltridge) et l'autre moitié du magot.
+Quand au buisness de la drogue, il est décidé que l'Écharpe Rouge en reprendrait la production et les Crows la distribution
+dans les les lieux qui étaient tenus par l'Oeil Blanc, avec des profits qui seraient partagés pendant un an entre les 3 gangs.
+
+Juste après cette rencontre, le gang apprend que **Justinia a été arrêtée par les BlueCoats**.
+En se renseignant un peu, ils découvrent que **Conway** l'a balancé à la milice en révélant ses liens avec le Harpon
+et ses suspicions que le gang auquelle elle appartient serait responsable de l'incendie de la nuit précédente.
+Elaria envoie une des nouvelles recrues tagger la porte des WCs de Conway d'un message d'avertissement menaçant,
+et tout le gang s'en va pavaner dans les territoires nouvellement acquis pour marquer leur présence.
+
+> « Je ne suis pas le boss mais tu seras mon goon. »
+
+En fin de journée, Ethnos-Ludius tente de reprendre contact avec Grell Jayan, qui décline l'entrevue,
+puis avec **Lord Scurlock**, qui accepte une rencontre le lendemain à l'heure du thé chez lui.
+
+Le gang reçoit également une missive de l'ordre du Cercle de la Flamme indiquant leur souhait
+d'acquérir des artefacts entrés en possession du gang à un prix des plus alléchants.
+
+### Ressources
+- ambiance musicale : [playlist Youtube _Aces Wild_](https://www.youtube.com/playlist?list=PL9CvW37uj8DoA0t45lmy4rd1x9hppZD-A)
+- [Setting Primer](https://www.reddit.com/r/bladesinthedark/comments/h1331p/setting_primer_updated/) ([re-uploaded PDF](https://chezsoi.org/lucas/blog/images/bitd/BitD-SettingPrimer.pdf)), pour se replonger dans l'univers en début de partie
+- [plan du QG de l'Oeil Blanc](https://chezsoi.org/lucas/blog/images/bitd/degenesis-black-atlantic-parel-island-en-3264x2320.webp) (source : [carte officielle du JdR Degenesis](https://degenesis.com/downloads/maps))
+- [carte "interactive" de Doskvol](https://view.genial.ly/6040a029edb57f0d0fd34763/interactive-image-doskvol)
+- [The Duskvol Bestiary](https://assemblyrequisite.itch.io/the-duskvol-bestiary) : River Eel, Spiritseeker Crow, Coursing bat, Arcanomoth, Draftgoat, Gillyfoot, Leviathan
+- comme cette partie s'est déroulé via _Discord_, les fiches des personnages et du gang ont migré sur [rpg-bonhomme](https://chezsoi.org/lucas/jdr/rpg-bonhomme/)
+- en début de partie, j'ai demandé au joueurs d'inventer chacun un objet magique, sans préciser son apparence.
+L'idée étant que j'allais ensuite déterminer celle-ci secrètement, et introduire ces objets durant la partie,
+sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont choisi :
+    * un objet permettant à un groupe de personnes de "s'occulter" temporairement et devenir invisible aux yeux de tous
+    * un objet émettant une lueur fantômatique, qui permet de localiser les fissures du voile fantôme et la nature de ce qui en transpire
+    * un objet permettant, telle une baguette de sourcier macabre, de trouver où sont les morts à proximité
+
+
 <!-- Idées :
-* prochaine partie : plonger les joueurs dans l'action dès le début
-+ leur donner des scènes où ils sont BADASS
-* pour sauver sa peau, Baszos Baz leur promettra qu'il peut ramener Melvir d'entre les morts
-* anticiper partage du territoire de l'Oeil Blanc & recrutement d'un whisper par Elaria (clock en cours)
+* début de partie : BitD-IntroText.png
+* ACTION! *Il faut faire évader Justinia* -> trouver un plan du commissariat
+* leur donner des scènes où ils sont BADASS
+
 * préparer des pistes de Scores / opportunités vis à vis des autres gangs,
 entre autres à partir des renseignements de Sylvia Derengathi
-* introduire des "artefacts multifonctions"
+
+* introduire les "artefacts multifonctions" -> définis à la partie précédente
 * logbook = game changer, va modifier équilibre des forces de la ville...
-* prendre inspis de Dirty MJ
-* gimmick pour PNJs: renifle tout, les gens, les lieux
 * introduire un événement à gros impact sur la ville (ex: plus de soleil) idéalement lié aux actions des PJs
 
-+ trouver illustrations pour les PNJs ppaux, comme Baszos Baz
+* prendre inspis de Dirty MJ
+* gimmick pour PNJs: renifle tout, les gens, les lieux
+
++ trouver illustrations pour les PNJs ppaux
 <img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">
-https://www.creativeuncut.com/gallery-29/bb-scorge-beast.html
 
 + make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
 TO MENTION:
-+ https://assemblyrequisite.itch.io/the-duskvol-bestiary
-+ https://mabelharper.itch.io/steelweavers-rebellion
-+ https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0
-+ https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0
-+ https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0
-+ https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA
-+ https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/
++ [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
++ [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
++ [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
++ [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco,
+1 page PDF
++[Favorite session zero questions](https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/)
++ Scores:
+  * [Scurlock Manor](https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0)
+  * [Doskvol Riots of 847](https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0)
+  * [Gaddoc Rail](https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0)
+  * One-Shot : [The Soul Merchants](https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit)
+-> l'idée des "ghost dealers" est très chouette !
+> Most citizens of Duskwall are terrified of ghosts. Lost, mad, destructive spirits, whose only desire is to return to the warm embrace of a warm body. They’ve lost their own, but are eager to adopt yours.
+> But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
 
 TO ADD to Pinterest: https://wallpaperaccess.com/bloodborne-city
 
-MAPS:
-+ https://degenesis.com/downloads/maps
-
-One-Shot : https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit#
--> l'idée des "ghost dealers" est très chouette !
+Maps: https://degenesis.com/downloads/maps
+* https://chezsoi.org/lucas/blog/images/bitd/degenesis-in-thy-blood-cloister-en-3264x2320.webp
+* https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
 -->
 
 <style>
