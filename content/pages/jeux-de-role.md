@@ -51,7 +51,8 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       </dl>
       <ul>
         <li><a href="images/jdr/RunDieRepeat-FR.pdf">Traduction en français des règles du jeu (PDF, 37 Ko)</a></li>
-        <li>un scénario à distance : <a href="https://lucas-c.itch.io/les-couloirs-du-temps">Les Couloirs du Temps</li>
+        <li>un scénario : <a href="https://lucas-c.itch.io/docteur-lestrange">Docteur Lestrange</li>
+        <li>un autre scénario se jouant à distance&nbsp: <a href="https://lucas-c.itch.io/les-couloirs-du-temps">Les Couloirs du Temps</li>
         <li><a href="https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat">10 autres scénarios</li>
         <li><a href="tag/run-die-repeat.html">Articles de blog à propos du jeu</a></li>
       </ul>

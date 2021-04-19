@@ -745,6 +745,7 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
 
 <!-- Idées :
 * début de partie : BitD-IntroText.png
+* anticiper ce que va proposer Lord Scurlock à Ethnos-Ludius
 * ACTION! *Il faut faire évader Justinia* -> trouver un plan du commissariat
 * leur donner des scènes où ils sont BADASS
 
