@@ -4,7 +4,7 @@ Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scena
 Slug: run-die-repeat-docteur-lestrange
 ---
 
-Voici un nouveau scénario, prévu pour être joué par conférence audio, pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
+Voici un nouveau scénario pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat),
 le jeu de rôle monopage de **Labrys Games** où l'on décède à la chaîne :
 
 <a href="https://lucas-c.itch.io/docteur-lestrange">

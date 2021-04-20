@@ -747,6 +747,8 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
 * début de partie : BitD-IntroText.png
 * anticiper ce que va proposer Lord Scurlock à Ethnos-Ludius
 * ACTION! *Il faut faire évader Justinia* -> trouver un plan du commissariat
+  + The jailhouse: https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/
+  + City streets & alleys: https://www.reddit.com/r/battlemaps/comments/jjmp7c/city_streets_and_alleys_25x45/
 * leur donner des scènes où ils sont BADASS
 
 * préparer des pistes de Scores / opportunités vis à vis des autres gangs,
@@ -783,9 +785,21 @@ TO MENTION:
 
 TO ADD to Pinterest: https://wallpaperaccess.com/bloodborne-city
 
-Maps: https://degenesis.com/downloads/maps
+Demons & creatures in the Ghost Field:
+* https://www.deviantart.com/carpet-crawler/art/Rooster-Knight-Splash-Animation-876402753
+* Leviathan: https://www.deviantart.com/carpet-crawler/art/The-Dream-Quest-of-Elyza-Lee-Commission-Work-822423747
+
+Maps:
 * https://chezsoi.org/lucas/blog/images/bitd/degenesis-in-thy-blood-cloister-en-3264x2320.webp
 * https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
+* https://www.reddit.com/r/FantasyMaps/comments/mo7fsq/deep_gnome_hamlet_map_30x38battlemapoc/
+* https://2minutetabletop.com/product/thermal-mines-1/
+* https://2minutetabletop.com/product/docks-of-the-dead/
+* https://2minutetabletop.com/product/sewer-map-assets/
+* https://2minutetabletop.com/product/haunted-mansion-furnished/
+* https://2minutetabletop.com/product/typical-tavern/
+* https://2minutetabletop.com/product/japanese-castle/ -> QG Écharpe Rouge
+* https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
 -->
 
 <style>
