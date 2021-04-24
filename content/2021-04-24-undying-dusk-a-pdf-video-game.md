@@ -1,6 +1,6 @@
 Title: Undying Dusk : a PDF video game
 Date: 2021-04-24 17:00
-Tags: lang:en, lang:fr, libre-software, open-source, pdf, video-game, dungeon-crawler, rpg, indie-game, python, library, gratuit, creative-commons, gpl, gamedesign, post-mortem, recreative-programming, prog, cyberconv, jeux
+Tags: lang:en, lang:fr, libre-software, open-source, pdf, video-game, dungeon-crawler, rpg, indie-game, python, library, gratuit, creative-commons, gpl, gamedesign, recreative-programming, prog, jeux
 Slug: undying-dusk-a-pdf-video-game
 ---
 ![UNDYING DUSK](images/2021/04/undying-dusk-title.png)
@@ -27,7 +27,7 @@ Featuring:
 
 To my knowledge, this is **the very first video game in a PDF format**.
 
-Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-dusk").
+Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-dusk).
 
 ![GIF trailer #2](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer2.gif)
 
@@ -35,26 +35,20 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 <!-- com' :
 - [x] itch.io
 - [x] blog
-- [ ] author: Clint Bellanger
-- [ ] amis, dont Francis, Aurélien, Anne-Laure...
-- [ ] oujevipo, warpdoor, gamejolt & cie
-- [ ] forum.canardpc.com
+- [x] Clint Bellanger
+- [x] Pierre Corbinais (OuJeViPo)
+- [x] amis
+- [x] collègues
+- [x] warpdoor.com, indiegamesplus.com, game-curator.com, forum.canardpc.com, www.coupleofgamer.com
 - [ ] subReddits: r/pdf, r/gaming, r/games, r/gamedev, r/IndieGaming, r/IndieDev, r/playmygame, r/freegames, /r/adventuregames, r/PixelArt
 - [ ] Sumatra PDF
-- [ ] famille Cesbron, Thomas G & ses potes
-- [ ] bruno bord
-- [ ] collègues, Michael Bourhis, Martin & son frère, Maxence, Thomas G, Fabrice Descombes -> https://www.filfre.net/2015/12/dungeon-master-part-1-the-making-of/
-- [ ] thierry.fetiveau@gmail.com
-- [ ] https://www.coupleofgamer.com/about
+- [ ] famille Cesbron
+- [ ] bruno bord ?
 - [ ] envoyer version PDF à Thib pour tester sur smartphone + msg HackerNews
 - [ ] LinkedIn, FaceBook
 - [ ] https://adventuregamers.com
 - [ ] http://hu-mu.blogspot.com en mode HUMBLE
-- [ ] post GIF trailer on Youtube
-post write-up:
-- [ ] subReddits: r/python, r/programming
-- [ ] linux fr ?
-- [ ] collègues, dont Michaël Bouris & son beauf fan de JV/jdr
+- [ ] sites recensant les JV OSS faits en Python
 - [ ] Emily F & other Irish people
 
 Idées de format de com' originales et peu coûteuses à réaliser :
@@ -124,5 +118,9 @@ ajouts / changements comparé à l'original à mentionner:
 - monster arrival animations are missing
 * moins de gold farming / backtracking
 * use content hidden in original sources: 2 monsters & extra equipment (swords & armor)
+
+com':
+- [ ] subReddits: r/python, r/programming
+- [ ] linux fr ?
 -->
 
