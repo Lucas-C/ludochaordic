@@ -15,6 +15,35 @@ Status: hidden
 et mettant en scène un gang de criminels en quête de fortune dans les rues hantées de Doskvol, une ville d'un univers fictif de Dark fantasy.
 
 
+<!-- Pour mettre à jour ce sommaire: markdown-toc --indent "    " -i jdr-blades-in-the-dark.md -->
+
+<!-- toc -->
+
+- [Session 1 - août 2017](#session-1---aout-2017)
+- [Session 2 - décembre 2017](#session-2---decembre-2017)
+    * [Questionnaire aux joueurs pour se synchroniser sur les attentes / envies de tout le monde](#questionnaire-aux-joueurs-pour-se-synchroniser-sur-les-attentes--envies-de-tout-le-monde)
+    * [Les points à avoir en tête au début de chaque session](#les-points-a-avoir-en-tete-au-debut-de-chaque-session)
+    * [Compte-rendu de partie](#compte-rendu-de-partie)
+    * [Éléments de l'univers établis durant la partie](#elements-de-lunivers-etablis-durant-la-partie)
+- [One-shot "préquelle" avec d'autres joueurs et le système Psi*Run](#one-shot-prequelle-avec-dautres-joueurs-et-le-systeme-psirun)
+- [Session 3 - février 2018](#session-3---fevrier-2018)
+    * [Ressources](#ressources)
+    * [Compte-rendu de partie](#compte-rendu-de-partie-1)
+- [Session 4 - avril 2018](#session-4---avril-2018)
+    * [Resources](#resources)
+    * [Compte-rendu de partie](#compte-rendu-de-partie-2)
+        + [Acte 1 - Vol de sang de Léviathan](#acte-1---vol-de-sang-de-leviathan)
+        + [Acte 2 - Un rituel qui tourne mal](#acte-2---un-rituel-qui-tourne-mal)
+- [Session 5 - 1er août 2019](#session-5---1er-aout-2019)
+- [Session 6 - 8 février 2020](#session-6---8-fevrier-2020)
+    * [Ressources](#ressources-1)
+- [Session 7 - 6 juin 2020](#session-7---6-juin-2020)
+    * [Ressources](#ressources-2)
+- [Session 8 - 17 avril 2021](#session-8---17-avril-2021)
+    * [Ressources](#ressources-3)
+
+<!-- tocstop -->
+
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
 

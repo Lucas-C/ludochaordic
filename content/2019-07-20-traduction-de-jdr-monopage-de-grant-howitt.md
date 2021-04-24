@@ -45,6 +45,8 @@ Je rajouterai alors un petit compte-rendu ici.
 Et comme il est probable que je traduise d'autre jeux de M. Howitt à l'avenir,
 vous pourrez les retrouver dans [la page dédiée aux jeux de rôle de ce blog](pages/jeux-de-role.html).
 
+**EDIT [2021/04/21]** : j'ai testé **Ce n'est pas une place d'honneur** et j'en parle dans [cet article](ce-nest-pas-une-place-dhonneur.html).
+
 <style>
 article img { max-height: 16rem; }
 </style>

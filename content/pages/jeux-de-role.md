@@ -120,6 +120,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <li><a href="https://lucas-c.github.io/jdr/">Versions web de chaque jeu</a></li>
         <li><a href="images/jdr/genius-loci.pdf">Genius Loci (PDF) en français</a></li>
         <li><a href="images/jdr/plus-de-place-en-enfer.pdf">Plus de place en enfer (PDF)</a></li>
+        <li><a href="ce-nest-pas-une-place-dhonneur.html">Article de présentation de Ce n'est pas une place d'honneur</a></li>
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.2/ce-nest-pas-une-place-dhonneur-v1.2.pdf">Ce n'est pas une place d'honneur (PDF)</a></li>
       </ul>
       <blockquote>Dans <strong>Genius Loci</strong>, vous êtes un dieu mineur, un genius loci, dans un petit village calme du sud de l'Angleterre dans les années 60.</blockquote>

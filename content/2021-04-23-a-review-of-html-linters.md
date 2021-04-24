@@ -9,7 +9,7 @@ Status: draft
 
 [Why is HTML linting not a common practice?](https://dev.to/dandevri/why-is-html-linting-not-a-common-practice-4gme)
 
-Criterias : activity (commits / year, overview of last issues...), features (auto-fix, #number of rules...), usability (user-friendliness, ease of installation & configuration...) testing 3-4 example pages (Boostrap 4.1 Starter template, Foundation, Pure CSS, Semantic UI, UI kit, https://www.w3schools.com/html/html_examples.asp)
+Criterias : activity (commits / year, overview of last issues...), features (auto-fix, #number of rules...), usability (user-friendliness, ease of installation & configuration...) testing 3-4 example pages (Boostrap 4.1 Starter template, Foundation, Pure CSS, Semantic UI, UI kit, https://www.w3schools.com/html/html_examples.asp, HTML5UP)
 
 - Tidy HTML:
   * ` -modify` autoformat
@@ -20,9 +20,16 @@ Criterias : activity (commits / year, overview of last issues...), features (aut
 Usage in [GitHub Actions](https://github.com/features/actions) / [Gitlab CI](https://docs.gitlab.com/ee/ci/) / [Travis CI](https://www.travis-ci.com):
 
 ```yaml
-- apt-get update && apt-get install -y tidy
+# Building HTML tidy linter as there are no Linux binary releases since v5.4:
+- apt-get update && apt-get install -y cmake g++ wget
+- wget -O tidy-html5.tar.gz https://github.com/htacg/tidy-html5/archive/refs/tags/5.7.28.tar.gz
+- tar xzvf tidy-html5.tar.gz
+- cd tidy-html5-*/build/cmake
+- cmake ../.. -DCMAKE_BUILD_TYPE=Release
+- make install
+- cd -
 - tidy -version
-- tidy -quiet -lang en -config htmltidy.conf index.html
+- tidy -quiet -lang en -modify -config htmltidy.conf index.html
 ```
 
 Example of `htmltidy.conf`:
