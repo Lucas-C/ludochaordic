@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2021-04-27', 'img_url': 'images/readings/la-communaute.jpg', 'description': "La Communauté - Hervé Tanquerelle & Yann Benoit (BD)"},
     {'date': u'2021-02-18', 'img_url': 'images/readings/lhyperreve.jpg', 'description': "L'Hyperrêve - Marc-Antoine Mathieu (BD)"},
     {'date': u'2021-01-26', 'img_url': 'images/readings/Sombre6.jpg', 'description': "Sombre n°6 - Johan Scipion (JdR)"},
     {'date': u'2020-12-27', 'img_url': 'images/readings/le-chateau-des-animaux.jpg', 'description': "Le château des animaux - Deleps & Dorison (BD)"},

@@ -39,17 +39,24 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 - [x] Pierre Corbinais (OuJeViPo)
 - [x] amis
 - [x] collègues
-- [x] warpdoor.com, indiegamesplus.com, game-curator.com, forum.canardpc.com, www.coupleofgamer.com
-- [ ] subReddits: r/pdf, r/gaming, r/games, r/gamedev, r/IndieGaming, r/IndieDev, r/playmygame, r/freegames, /r/adventuregames, r/PixelArt
-- [ ] Sumatra PDF
-- [ ] famille Cesbron
-- [ ] bruno bord ?
-- [ ] envoyer version PDF à Thib pour tester sur smartphone + msg HackerNews
-- [ ] LinkedIn, FaceBook
-- [ ] https://adventuregamers.com
-- [ ] http://hu-mu.blogspot.com en mode HUMBLE
-- [ ] sites recensant les JV OSS faits en Python
+- [x] warpdoor.com, indiegamesplus.com, game-curator.com, rockpapershotgun.com
+- [x] https://forum.canardpc.com/threads/130686-Undying-Dusk
+- [x] subReddits: r/pdf, r/gaming, r/IndieGaming, r/IndieDev, r/playmygame, r/freegames, /r/adventuregames, r/PixelArt, r/france (dimanche autopromo), r/shamelessplug, r/pcgaming -> https://www.reddit.com/r/gamedev/comments/8zwmio/how_to_post_about_your_game_without_being_flamed/
+- [x] Sumatra PDF forum: https://forum.sumatrapdfreader.org/t/undying-dusk-a-video-game-designed-to-be-played-with-sumatra-pdf/3847/1
+- [x] HackerNews: https://news.ycombinator.com/item?id=26928782
+- [x] LinkedIn, FaceBook
+- [x] https://adventuregamers.com/forums/viewthread/15358/
+- [x] https://forums.tigsource.com/index.php?topic=71958.0
+- [x] http://hu-mu.blogspot.com en mode HUMBLE
+- [x] https://www.igdb.com/games/undying-dusk
+- [x] https://www.indiedb.com/games/undying-dusk
+- [x] https://gamedev.net/projects/3485-undying-dusk/
+- [ ] carte promo @ work kfet
+- [ ] https://www.justadventure.com & http://gameboomers.com & https://www.planete-aventure.net & http://www.indie-love.com & https://www.indiemag.fr & https://www.gameblog.fr/actualite/jeux-independants/
+- [ ] sites recensant les JV OSS faits en Python ?
+- [ ] http://planete-ldvelh.com/ (pour VF)
 - [ ] Emily F & other Irish people
+- [ ] where else ?
 
 Idées de format de com' originales et peu coûteuses à réaliser :
 * animated GIF that initially just looks like static text
@@ -120,7 +127,7 @@ ajouts / changements comparé à l'original à mentionner:
 * use content hidden in original sources: 2 monsters & extra equipment (swords & armor)
 
 com':
-- [ ] subReddits: r/python, r/programming
+- [ ] subReddits: r/python, r/programming, r/gamedev
 - [ ] linux fr ?
 -->
 
