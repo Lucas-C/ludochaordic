@@ -10,7 +10,7 @@ with a gameplay based on exploration and logic puzzles,
 in the tradition of [dungeon crawlers](https://en.wikipedia.org/wiki/Dungeon_crawl#Video_games).
 
 > A curse set by the Empress keeps the world in an eternal dusk.
-> You are have recently found shelter in an eerie monastery.
+> You have recently found shelter in an eerie monastery.
 
 ![GIF trailer #1](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer1.gif)
 
@@ -34,7 +34,7 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 
 <!-- com' :
 - [x] itch.io
-- [x] blog
+- [x] blog article (+ "ads" on most popular posts)
 - [x] Clint Bellanger
 - [x] Pierre Corbinais (OuJeViPo)
 - [x] amis
