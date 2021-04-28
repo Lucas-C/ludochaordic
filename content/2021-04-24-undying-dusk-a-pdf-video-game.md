@@ -52,7 +52,7 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 - [x] https://www.indiedb.com/games/undying-dusk
 - [x] https://gamedev.net/projects/3485-undying-dusk/
 - [ ] carte promo @ work kfet
-- [ ] https://www.justadventure.com & http://gameboomers.com & https://www.planete-aventure.net & http://www.indie-love.com & https://www.indiemag.fr & https://www.gameblog.fr/actualite/jeux-independants/
+- [ ] https://www.justadventure.com & http://gameboomers.com & https://www.planete-aventure.net & http://www.indie-love.com & https://www.indiemag.fr & https://www.gameblog.fr/actualite/jeux-independants/ & https://tildes.net/~games
 - [ ] sites recensant les JV OSS faits en Python ?
 - [ ] http://planete-ldvelh.com/ (pour VF)
 - [ ] Emily F & other Irish people

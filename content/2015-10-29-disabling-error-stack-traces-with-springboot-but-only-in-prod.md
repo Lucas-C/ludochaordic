@@ -37,3 +37,8 @@ error:
 ```
 
 I tested it with a [`.war`](//en.wikipedia.org/wiki/WAR_(file_format)) deployed under Apache Tomcat 7.0.52. Most of the code comes straight from the [official documentation](//spring.io/blog/2013/11/01/exception-handling-in-spring-mvc), I only added the `@ConditionalOnProperty`.
+
+
+---
+
+[![Undying Dusk game cover](https://chezsoi.org/lucas/undying-dusk/cover.png)](https://lucas-c.itch.io/undying-dusk)

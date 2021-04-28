@@ -29,3 +29,8 @@ Simply make sure that they match, e.g by [looking here for version 1.2.3.RELEASE
 > I faced the same exception when including hibernate-search ontop of spring-boot + hibernate + spring-mvc project! What is the exact resolution?
 
 > Resolution: use 4.5.x hibernate-search-orm artifact. works fine with the latest spring-boot. atleast the unit tests are starting to run! :-)
+
+
+---
+
+[![Undying Dusk game cover](https://chezsoi.org/lucas/undying-dusk/cover.png)](https://lucas-c.itch.io/undying-dusk)
