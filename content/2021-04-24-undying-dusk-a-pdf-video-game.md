@@ -51,12 +51,18 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 - [x] https://www.igdb.com/games/undying-dusk
 - [x] https://www.indiedb.com/games/undying-dusk
 - [x] https://gamedev.net/projects/3485-undying-dusk/
-- [ ] carte promo @ work kfet
-- [ ] https://www.justadventure.com & http://gameboomers.com & https://www.planete-aventure.net & http://www.indie-love.com & https://www.indiemag.fr & https://www.gameblog.fr/actualite/jeux-independants/ & https://tildes.net/~games
-- [ ] sites recensant les JV OSS faits en Python ?
+- [x] carte promo @ work kfet
+- [x] https://www.indiemag.fr/forum/lactu-inde-reagissez/t16874-undying-dusk-jeu-video-au-format-pdf
+- [x] https://www.rockpapershotgun.com/amp/tfi-friday-3-new-text-based-indie-games-with-a-twist
+- [x] https://www.afjv.com/forums/sujet/8-1527-1-undying-dusk-un-jeu-video-en-200-000-pages-pdf
+- [x] https://www.jeuxvideo.com/forums/message/1092251955
+- [x] https://opengameart.org/forumtopic/undying-dusk-an-adventure-game-in-a-pdf
+- [x] https://slashdot.org/submission/13725574/undying-dusk-is-a-video-game-in-a-200-000-pages-pdf-generated-with-python
+- [x] https://www.gameboomers.com/forum/ubbthreads.php/topics/1246628/undying-dusk-a-pdf-video-game
+- [ ] https://www.gameblog.fr/actualite/jeux-independants/ : en attente de validation du compte
+- [ ] http://www.game-sphere.fr & https://www.planete-aventure.net/forums/ : sites HS :(
+- [ ] sites recensant les JV OSS faits en Python ? -> trouvé aucun à part https://wiki.python.org/moin/PythonGames inéditable :(
 - [ ] http://planete-ldvelh.com/ (pour VF)
-- [ ] Emily F & other Irish people
-- [ ] where else ?
 
 Idées de format de com' originales et peu coûteuses à réaliser :
 * animated GIF that initially just looks like static text
