@@ -772,6 +772,10 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
     * un objet permettant, telle une baguette de sourcier macabre, de trouver où sont les morts à proximité
 
 
+## Session 9 - ?
+
+![Portrait de Lodius en pied](images/bitd/Lodius-en-pied.jpg)
+
 <!-- Idées :
 * début de partie : BitD-IntroText.png
 * anticiper ce que va proposer Lord Scurlock à Ethnos-Ludius

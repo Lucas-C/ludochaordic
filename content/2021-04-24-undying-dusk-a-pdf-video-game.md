@@ -36,12 +36,21 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 - [x] itch.io
 - [x] blog article (+ "ads" on most popular posts)
 - [x] Clint Bellanger
-- [x] Pierre Corbinais (OuJeViPo)
+- [x] Pierre Corbinais -> https://twitter.com/Oujevipo/status/1392042344652935168
 - [x] amis
 - [x] collègues
 - [x] warpdoor.com, indiegamesplus.com, game-curator.com, rockpapershotgun.com
 - [x] https://forum.canardpc.com/threads/130686-Undying-Dusk
-- [x] subReddits: r/pdf, r/gaming, r/IndieGaming, r/IndieDev, r/playmygame, r/freegames, /r/adventuregames, r/PixelArt, r/france (dimanche autopromo), r/shamelessplug, r/pcgaming -> https://www.reddit.com/r/gamedev/comments/8zwmio/how_to_post_about_your_game_without_being_flamed/
+- [x] subReddits: - cf. https://www.reddit.com/r/gamedev/comments/8zwmio/how_to_post_about_your_game_without_being_flamed/
+  * https://www.reddit.com/r/UndyingDuskPdfGame/
+  * https://www.reddit.com/r/freegames/comments/mxu9j1/i_made_a_video_game_out_of_a_pdf_it_has_200_000/
+  * https://www.reddit.com/r/gaming/comments/mxu73t/i_made_a_video_game_out_of_a_pdf_it_has_200_000/
+  * https://www.reddit.com/r/pdf/comments/mxu6qf/i_made_a_video_game_out_of_a_pdf_it_has_200_000/
+  * https://www.reddit.com/r/PixelArt/comments/mxucob/i_made_a_pixelart_video_game_out_of_a_pdf_it_has/
+  * https://www.reddit.com/r/IndieGaming/comments/mxu8f8/i_made_a_video_game_out_of_a_pdf_it_has_200_000/
+  * https://www.reddit.com/r/playmygame/comments/mxu6aq/i_made_a_video_game_out_of_a_pdf_it_has_200_000/
+  * https://www.reddit.com/r/france/comments/my19ee/dimanche_autopromo_20210425/gvsrwmt?context=3
+  * https://www.reddit.com/r/shamelessplug/comments/mzin4x/i_made_a_video_game_out_of_a_pdf_it_has_200_000/
 - [x] Sumatra PDF forum: https://forum.sumatrapdfreader.org/t/undying-dusk-a-video-game-designed-to-be-played-with-sumatra-pdf/3847/1
 - [x] HackerNews: https://news.ycombinator.com/item?id=26928782
 - [x] LinkedIn, FaceBook
@@ -63,6 +72,12 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 - [ ] http://www.game-sphere.fr & https://www.planete-aventure.net/forums/ : sites HS :(
 - [ ] sites recensant les JV OSS faits en Python ? -> trouvé aucun à part https://wiki.python.org/moin/PythonGames inéditable :(
 - [ ] http://planete-ldvelh.com/ (pour VF)
+
+Info reprise sans mon intervention :
+* https://www.pcgamer.com/this-dungeon-crawler-is-built-inside-a-200000-page-pdf/
+* https://www.reddit.com/r/thisweekinretro/comments/n5sgyn/undying_dusk_by_lucasc_first_video_game_in_pdf/
+
++ https://f5bot.com/dash
 
 Idées de format de com' originales et peu coûteuses à réaliser :
 * animated GIF that initially just looks like static text
@@ -132,8 +147,9 @@ ajouts / changements comparé à l'original à mentionner:
 * moins de gold farming / backtracking
 * use content hidden in original sources: 2 monsters & extra equipment (swords & armor)
 
+publish-on-itch.io.sh
+
 com':
 - [ ] subReddits: r/python, r/programming, r/gamedev
 - [ ] linux fr ?
 -->
-
