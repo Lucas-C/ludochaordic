@@ -76,6 +76,7 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 Info reprise sans mon intervention :
 * https://www.pcgamer.com/this-dungeon-crawler-is-built-inside-a-200000-page-pdf/
 * https://www.reddit.com/r/thisweekinretro/comments/n5sgyn/undying_dusk_by_lucasc_first_video_game_in_pdf/
+* https://shiftdelete.net/canavari-oldurmek-icin-56-sayfaya-gecin
 
 + https://f5bot.com/dash
 

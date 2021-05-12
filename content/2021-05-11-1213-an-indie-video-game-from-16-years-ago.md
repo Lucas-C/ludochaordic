@@ -8,11 +8,11 @@ Slug: 1213-an-indie-video-game-from-16-years-ago
 
 > When was the last time you wanted to play again an old video game?
 
-Personnaly, I don't usually re-play video games.
+Personally, I don't usually re-play video games.
 I'm always more tempted to try a new interesting one found on [WarpDoors](https://www.warpdoor.com).
 
 I have the impression that this is common to most video game players,
-wether the prefer AAA games or "indie" ones.
+whether the prefer AAA games or "indie" ones.
 
 I bet that you have a few favorite books, or favorite movies,
 that you have already read or watched a few times,
@@ -47,7 +47,7 @@ a game engine intended to build _point and click_ adventure games.
 However Yahtzee managed to build a [Flashback](https://en.wikipedia.org/wiki/Flashback_%281992_video_game%29)-like
 game out of it!
 
-It is a bit slow to start, but the gameplay becomes a lot more fluid on episode 2,
+The game takes a slow start, but the gameplay becomes a lot more fluid on episode 2,
 when you get to move around faster.
 
 The level design is nice, with an initial tutorial fitting the story.
@@ -59,7 +59,7 @@ The color palette creates an atmosphere straight out of a comic book.
 The overall directing is well thought, with for example some ominous visual patterns repeated throughout the game... 👀
 
 While the story is not very original in itself,
-the naration is really well done.
+the narration is really well done.
 There are very few cut scenes,
 and key story events take place directly around you as you move the main characters from place to place,
 solving some basic puzzles, escaping some enemies and shooting down others.
