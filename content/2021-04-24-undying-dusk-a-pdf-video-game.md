@@ -62,6 +62,7 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 - [x] https://gamedev.net/projects/3485-undying-dusk/
 - [x] carte promo @ work kfet
 - [x] https://www.indiemag.fr/forum/lactu-inde-reagissez/t16874-undying-dusk-jeu-video-au-format-pdf
+      => très chouette feedback de Nival
 - [x] https://www.rockpapershotgun.com/amp/tfi-friday-3-new-text-based-indie-games-with-a-twist
 - [x] https://www.afjv.com/forums/sujet/8-1527-1-undying-dusk-un-jeu-video-en-200-000-pages-pdf
 - [x] https://www.jeuxvideo.com/forums/message/1092251955
@@ -74,9 +75,23 @@ Download it on the [**dedicated itch.io page**](https://lucas-c.itch.io/undying-
 - [ ] http://planete-ldvelh.com/ (pour VF)
 
 Info reprise sans mon intervention :
-* https://www.pcgamer.com/this-dungeon-crawler-is-built-inside-a-200000-page-pdf/
+* https://www.pcgamer.com/this-dungeon-crawler-is-built-inside-a-200000-page-pdf/ + https://twitter.com/pcgamer/status/1392197460211154944
 * https://www.reddit.com/r/thisweekinretro/comments/n5sgyn/undying_dusk_by_lucasc_first_video_game_in_pdf/
 * https://shiftdelete.net/canavari-oldurmek-icin-56-sayfaya-gecin
+  -> https://translate.google.com/translate?hl=&sl=auto&tl=fr&u=https%3A%2F%2Fshiftdelete.net%2Fcanavari-oldurmek-icin-56-sayfaya-gecin
+  -> (turc) a généré plus de 400 visites dans les jours suivants
+* https://www.36kr.com/p/1223842190905733
+* https://www.yystv.cn/p/7902
+  -> https://translate.google.com/translate?sl=auto&tl=fr&u=https://www.yystv.cn/p/7902
+* https://quantrimang.com/undying-dusk-game-nhap-vai-mien-phi-181264
+* https://www.idnes.cz/hry/novinky/videohra-v-pdf-rpg-hry-lucas-cimon-undying-dusk.A210519_134716_bw-novinky_srp
+  -> https://translate.google.com/translate?hl=&sl=auto&tl=fr&u=https%3A%2F%2Fwww.idnes.cz%2Fhry%2Fnovinky%2Fvideohra-v-pdf-rpg-hry-lucas-cimon-undying-dusk.A210519_134716_bw-novinky_srp
+  -> a généré plus de 450 visites dans les jours suivants
+* https://www.youtube.com/watch?v=OMmQiezna7s&t=4377s (<20min de test)
+  -> kiffe pas trop les flashs blancs...
+* https://www.youtube.com/watch?v=Yibs4c7CAJY&t=1548s
+* Cri du Lapin (newsletter Canard PC) - 18 mai 2021
+> **Pages comme une image**. Oui je sais, ce n'est pas vraiment un article, mais vu que je vous avais parlé l'autre fois d'un jeu vidéo entièrement codé dans une police de caractères, je me suis dit que cela valait le coup de mentionner Undying Dusk, un jeu fourni sous forme d'un PDF de 200 000 pages.
 
 + https://f5bot.com/dash
 

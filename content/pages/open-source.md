@@ -34,7 +34,7 @@ with a companion [brain_dump](https://github.com/Lucas-C/brain_dump) repo contai
 Some open-source projects to which I have contributed.
 
 - <img alt="Logo Python" src="images/open-source/python-logo.png" style="max-width: 16em">
-I made a few minor bug fixes to CPython: [GitHub PRs](https://github.com/python/cpython/pulls?utf8=%E2%9C%93&q=author%3ALucas-C+)
+I made a few minor bug fixes to CPython: [GitHub PRs](https://github.com/python/cpython/pulls?utf8=%E2%9C%93&q=author%3ALucas-C)
 
 - [<img alt="Logo pre-commit" src="images/open-source/pre-commit-logo.png" style="max-width: 6em"> pre-commit](http://pre-commit.com) :
 Python command line manager for `git` pre-commit hooks
@@ -56,7 +56,9 @@ personal, minimalist, bookmarking service, in PHP
     * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
 
-- [<img alt="Logo fpdf2" src="images/open-source/fpdf2-logo.png" style="max-width: 12rem"> fpdf2](https://github.com/PyFPDF/fpdf2) : minimalist PDF creation library for Python - _cf._ blog post about [my contributions to release 2.2.0 of fpdf2](fpdf2-release-2-2-0.html).
+- [<img alt="Logo fpdf2" src="images/open-source/fpdf2-logo.png" style="max-width: 12rem"> fpdf2](https://github.com/PyFPDF/fpdf2) : minimalist PDF creation library for Python.
+I have implemented [all new features from `v2.1.0` onwards](https://github.com/PyFPDF/fpdf2/blob/master/CHANGELOG.md).
+_cf._ [related blog posts](tag/fpdf2.html).
 
 - [<img alt="Logo isso" src="images/open-source/isso-logo.svg" style="max-width: 6rem"> isso](https://posativ.org/isso/) : several [small bugfixes & improvements](https://github.com/posativ/isso/pulls?q=author%3ALucas-C) to this great self-hosted commenting service using Markdown & SQLite
 

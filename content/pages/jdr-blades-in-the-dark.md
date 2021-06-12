@@ -833,6 +833,7 @@ Maps:
 * https://2minutetabletop.com/product/typical-tavern/
 * https://2minutetabletop.com/product/japanese-castle/ -> QG Écharpe Rouge
 * https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
+* http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
 -->
 
 <style>
