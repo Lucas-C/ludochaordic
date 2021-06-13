@@ -6,7 +6,12 @@ Image: images/2021/06/exploding-cat.gif
 ---
 
 <!-- Com' à faire :
-* https://www.reddit.com/r/programming/
+* [x] https://planetpython.org
+* [x] https://www.reddit.com/r/Python/comments/nywfb7/new_release_of_fpdf2_markdown_styling_jpeg/
+* [x] https://www.reddit.com/r/pythonnews/comments/nywnx9/new_release_of_fpdf2_markdown_styling_jpeg/
+* [x] https://dev.to/lucasc/new-release-for-fpdf2-40pi
+* [x] video comment: https://www.youtube.com/watch?v=euNvxWaRQMY
+* [x] video comment: https://www.youtube.com/watch?v=JhQVD7Y1bsA
 -->
 
 `fpdf2` is a minimalist PDF creation library for Python that I am maintaining.

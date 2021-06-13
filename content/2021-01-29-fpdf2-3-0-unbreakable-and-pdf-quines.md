@@ -5,7 +5,10 @@ Slug: fpdf2-3-0-unbreakable-and-pdf-quines
 ---
 
 <!--
-Shared there: https://www.reddit.com/r/programming/comments/l7qok4/release_of_fpdf230_a_challenge_can_you_craft_a/
+Com':
+* [x] https://planetpython.org
+* [x] https://www.reddit.com/r/Python/comments/kvbb4j/fpdf2_the_library_to_easily_generate_pdfs_got_a/
+* [x] https://www.reddit.com/r/programming/comments/l7qok4/release_of_fpdf230_a_challenge_can_you_craft_a/
 -->
 ![Unbreakable movie poster](images/2021/01/unbreakable.jpg)
 
