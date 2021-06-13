@@ -35,8 +35,10 @@ Following this major overhaul, many interesting methodologies & tools were used 
 * fully automated daily deployments, partially based on [GitHub Actions pipelines](https://docs.github.com/en/actions)
 
 Over the years, many contributors helped on this project: [backend contributors](https://github.com/voyages-sncf-technologies/hesperides/graphs/contributors) - [frontend contributors](https://github.com/voyages-sncf-technologies/hesperides-gui/graphs/contributors).
-Special shout-out to **Sylvain Maillard**, **Adrien Auffredou**, **Victor Salaun**, **Mamadou Bhoye Barry**
+Special shout-out to **Sylvain Maillard**, **Adrien Auffredou**, **Victor Salaun**,
+**Vincent Lae**, **Nicolas Laurenti**, **Mamadou Bhoye Barry**
 and the persons who took part in the Hesperides workshops: thank you all for your great work!
 
 The live demo website is hosted on [Heroku](https://www.heroku.com).
-I wrote down a short tutorial on how this was done here:<https://voyages-sncf-technologies.github.io/hesperides-gui/start.html#heroku>.
+I wrote down a short tutorial on how this was done here:
+<https://voyages-sncf-technologies.github.io/hesperides-gui/start.html#heroku>.

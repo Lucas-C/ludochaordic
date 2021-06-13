@@ -22,7 +22,7 @@ Doc: <https://pyfpdf.github.io/fpdf2/>
 
 `fpdf2` now uses the newly supported `DCTDecode` image filter for JPEG images, in order to improve the compression ratio without any image quality loss.
 
-On test images, this **reduced** the size of embeded JPEG images by **90%**.
+On test images, this **reduced** the size of embedded JPEG images by **90%**.
 
 ## Basic Markdown styling
 
@@ -51,7 +51,7 @@ Full documentation: [fpdf2 / Document outline & table of contents](https://pyfpd
 <img class="right" alt="Text annotation example" src="images/2021/06/text-annotation.png">
 
 `fpdf2` now allows to add various PDF annotations, such as **text annotations**
-or **links to directly open other PDF files** on the same filesystem.
+or **links to directly open other PDF files** on the same file-system.
 
 Full documentation: [fpdf2 / Annotations](https://pyfpdf.github.io/fpdf2/Annotations.html)
 
