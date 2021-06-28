@@ -16,7 +16,7 @@ It is **strongly hierarchized** based on few main concepts: **modules**, **appli
 
 Hesperides has two main components: a [REST API backend](https://github.com/voyages-sncf-technologies/hesperides)
 and a [web frontend](https://github.com/voyages-sncf-technologies/hesperides-gui).
-It has a companion [CLI written in Python](https://github.com/voyages-sncf-technologies/hesperides-cli)
+It has a companion [CLI written in Python](https://github.com/voyages-sncf-technologies/hesperides-cli),
 a dedicated [Jenkins shared lib](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib),
 and it has been used in production for more than 5 years.
 

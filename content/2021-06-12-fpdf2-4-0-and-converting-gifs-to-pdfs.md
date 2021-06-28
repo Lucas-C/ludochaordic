@@ -98,7 +98,7 @@ then press `CTRL+L` to launch presentation mode,
 and then ENTER to admire the animation!
 
 Of course PDF readers are not optimized for this kind of animated files,
-so the animation may be pretty slow, despite being configure to execute at 25 frames per second.
+so the animation may be pretty slow, despite being configured to execute at 25 frames per second.
 
 ---
 
