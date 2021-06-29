@@ -4,7 +4,7 @@ Tags: lang:en, indie-game, video-game, gratuit, playtest, flashback, nostalgia, 
 Slug: 1213-an-indie-video-game-from-16-years-ago
 ---
 
-<img alt="Screenshot from the game 1213" class="small" src="images/2021/05/1213.gif">
+![Screenshot from the game 1213](images/2021/05/1213.gif){: .small}
 
 > When was the last time you wanted to play again an old video game?
 

@@ -179,6 +179,7 @@ PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_imag
 DEADLINK_VALIDATION = False  # à activer de temps en temps via "inovke build" inclus quelques faux positifs
 DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings
 
+# logging.getLogger('pelican.plugins.image_process.image_process').setLevel(logging.DEBUG)
 IMAGE_PROCESS = {
     'thumb': ['scale_out 300 300 False'],
 }
