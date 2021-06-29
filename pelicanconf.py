@@ -34,6 +34,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2021-06-29', 'img_url': 'images/readings/manifeste-pour-un-urbanisme-circulaire.jpg', 'description': " Manifeste pour un urbanisme circulaire : pour des alternatives concrètes à l'étalement de la ville (essai)"},
     {'date': u'2021-04-27', 'img_url': 'images/readings/la-communaute.jpg', 'description': "La Communauté - Hervé Tanquerelle & Yann Benoit (BD)"},
     {'date': u'2021-02-18', 'img_url': 'images/readings/lhyperreve.jpg', 'description': "L'Hyperrêve - Marc-Antoine Mathieu (BD)"},
     {'date': u'2021-01-26', 'img_url': 'images/readings/Sombre6.jpg', 'description': "Sombre n°6 - Johan Scipion (JdR)"},

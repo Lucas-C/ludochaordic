@@ -60,7 +60,7 @@ def src2out(src_file_path):
         joiner = '/drafts/'
     elif '/pages/' in src_file_path:
         joiner = '/pages/'
-    slug = metadata.get('slug') or slugify(metadata['title'])
+    slug = metadata.get('slug') or slugify(metadata['title'].replace(' ', '-'))
     return CONFIG['deploy_path'] + joiner + slug + '.html'
 
 @task
