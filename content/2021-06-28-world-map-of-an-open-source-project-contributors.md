@@ -1,6 +1,6 @@
 Title: World map of an open-source project contributors
 Date: 2021-06-28 12:00
-Tags: lang:en, libre-software, open-source, fpdf2, geocoding, maps, cartography, leafletjs, github-actions, python, prog
+Tags: lang:en, libre-software, open-source, fpdf2, geocoding, maps, cartography, leafletjs, github, github-actions, python, prog
 Slug: world-map-of-an-open-source-project-contributors
 ---
 
@@ -27,4 +27,4 @@ Finally, the page is built & deployed by the GitHub Actions pipeline on every pu
 
 I tried to make it easy to reuse for other projects,
 and it is under [CC-0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.en),
-so **feel free to add a similar contributors world map to you favorite open-source project!**
+so **feel free to add a similar contributor world maps to your favorite open-source project!**
