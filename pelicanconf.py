@@ -5,6 +5,7 @@ import logging, os
 from os.path import dirname, join
 
 logging.root.setLevel(logging.INFO)
+logging.getLogger('pelican.utils').setLevel(logging.WARN)  # avoids very verbose "-> Copying ..." logs
 
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'

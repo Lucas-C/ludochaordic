@@ -1,6 +1,6 @@
 Title: Jouer à Unlock! sans smartphone
 Date: 2021-01-27 9:00
-Tags: lang:fr, enigme, emulateur, android, smartphone, windows, jeux
+Tags: lang:fr, enigme, unlock, emulateur, android, smartphone, windows, jeux
 Slug: jouer-a-unlock-sans-smartphone
 ---
 

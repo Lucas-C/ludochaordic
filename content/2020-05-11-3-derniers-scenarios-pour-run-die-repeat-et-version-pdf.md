@@ -4,6 +4,9 @@ Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamed
 Slug: 3-derniers-scenarios-pour-run-die-repeat-et-version-pdf
 Image: images/2020/05/banner-small.jpg
 ---
+<!--
+Com' : https://www.aubergevirtuelle.fr/t/sorties-et-nouveautes/3278/5
+-->
 
 Dans la continuité des [trois](1ere-fournee-de-scenarios-pour-run-die-repeat.html) [articles](2e-serie-de-scenarios-pour-run-die-repeat.html) [précédents](scenarios-hitman-et-la-chute-du-colosse-pour-run-die-repeat.html),
 voici 3 derniers scénarios de **30min** chacun formant un tryptique

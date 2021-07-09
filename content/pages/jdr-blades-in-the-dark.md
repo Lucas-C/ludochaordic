@@ -790,6 +790,8 @@ entre autres à partir des renseignements de Sylvia Derengathi
 * introduire les "artefacts multifonctions" -> définis à la partie précédente
 * logbook = game changer, va modifier équilibre des forces de la ville...
 * introduire un événement à gros impact sur la ville (ex: plus de soleil) idéalement lié aux actions des PJs
+* les PJs remontent le temps au début de la campagne ! [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
+-> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
 
 * prendre inspis de Dirty MJ
 * gimmick pour PNJs: renifle tout, les gens, les lieux

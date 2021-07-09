@@ -52,6 +52,7 @@ personal, minimalist, bookmarking service, in PHP
     * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
     * and another [to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
     * designed [a 2-columns layout theme](https://github.com/Lucas-C/pelican-theme-timeline)
+    * improved two other themes: [pelican-mg](https://github.com/Lucas-C/pelican-mg) & [html5-dopetrope](https://github.com/Lucas-C/html5-dopetrope)
     * fixed the [Travis CI pipeline for the pelican-plugins repository](https://github.com/getpelican/pelican-plugins/issues/1170)
     * [added support for the {include} syntax](https://github.com/getpelican/pelican/pull/2628)
     * fixed some minor things in [the core](https://github.com/getpelican/pelican/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ALucas-C+) & in [plugins](https://github.com/getpelican/pelican-plugins/pull/1035)
