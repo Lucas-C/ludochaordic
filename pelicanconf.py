@@ -177,7 +177,7 @@ MARKDOWN = {
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_image', 'tag_cloud') #, 'w3c_validate')
 
-DEADLINK_VALIDATION = False  # à activer de temps en temps via "inovke build" inclus quelques faux positifs
+DEADLINK_VALIDATION = False  # à activer de temps en temps via "invoke build" inclus quelques faux positifs
 DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings
 
 # logging.getLogger('pelican.plugins.image_process.image_process').setLevel(logging.DEBUG)

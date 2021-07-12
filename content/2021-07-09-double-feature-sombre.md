@@ -70,6 +70,8 @@ le jeu est bien plus tactique et un peu gore.
 Enfin, il reste quelques points de règles un peu obscurs dans cette version 2.1.3,
 mais nous avons tout de même passé un excellent moment !
 
+[![Photo de la table de jeu durant la partie](images/2021/07/DietLife-session.jpg)](images/2021/07/DietLife-session.jpg)
+
 <style>
 .side-by-side {
   display: flex;

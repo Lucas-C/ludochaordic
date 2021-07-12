@@ -4,7 +4,7 @@ livereload
 markdown
 mdx_include
 pelican
-git+https://github.com/Lucas-C/pelican-image-process.git@hardening
+git+https://github.com/pelican-plugins/image-process.git
 pillow
 py_w3c
 shaarli-client
