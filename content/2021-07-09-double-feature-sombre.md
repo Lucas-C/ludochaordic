@@ -40,7 +40,7 @@ C'est seulement dans les dernières minutes qu'ont eu lieu des suicides / échan
 À noter que je me suis entièrement passé de la règle des Personnalités,
 simplement parce que je n'étais pas très à l'aise avec ce profil Brutal / Cruel / Sadique.
 
-Si jamais je le fais rejouer à nouveau, je songe à peut-être introduire quelques éléments supplémenaire :
+Si jamais je le fais rejouer à nouveau, je songe à peut-être introduire quelques éléments supplémentaires :
 
 * Un peu plus de mécanismes interactifs dans la pièce. Quelques idées : les objets placés dans les octogones au sol se retrouvent dupliqués; verser le sang d'un PJ sur un octogone "ravive" un peu sa lumière...
 
@@ -60,7 +60,7 @@ Pas de MJ, une seule page de règles initiales, puis on suit les instructions en
 Ça m'a beaucoup rappelé le jeu **Unlock** par moments.
 
 L'ensemble est très imaginatif et bien huilé !
-Parmi les trouvailles ludiques qui m'ont beaucoup plu, je citerai : les pièges tordus (votre carrément vicieux);
+Parmi les trouvailles ludiques qui m'ont beaucoup plu, je citerai : les pièges tordus (voir carrément vicieux);
 un événement scripté au milieu du scénario; la mécanique de déclaration d'intentions et les déplacements de personnages entre les lieux; les armes à usage unique ou effet spécial.
 
 Par contre, c'est très clairement un court jeu de plateau, et pas un jeu de rôle.
@@ -69,6 +69,8 @@ le jeu est bien plus tactique et un peu gore.
 
 Enfin, il reste quelques points de règles un peu obscurs dans cette version 2.1.3,
 mais nous avons tout de même passé un excellent moment !
+
+**[EDIT 2021/07/13]**: Suite à mes retours, l'auteur Julien _DeathAmbre_ De Monte à publié une version révisée 2.2.0 du scénario sur son site [DarkFarm](http://arkhive.free.fr/) : merci !
 
 [![Photo de la table de jeu durant la partie](images/2021/07/DietLife-session.jpg)](images/2021/07/DietLife-session.jpg)
 
