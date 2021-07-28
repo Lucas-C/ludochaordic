@@ -10,7 +10,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Psi*Run</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="psi-run">Psi*Run</h2>
     <img class="uk-align-center" src="images/jdr/PsiRun.jpg" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
@@ -43,7 +43,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Aux marches du pouvoir</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="aux-marches-du-pouvoir">Aux marches du pouvoir</h2>
     <img class="uk-align-center" src="images/2017/08/AuxMarchesDuPouvoir.png" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
@@ -73,7 +73,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Blades in the Dark</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="blades-in-the-dark">Blades in the Dark</h2>
     <figure>
       <img class="uk-align-center" src="images/bitd/Elaria.jpg" alt="">
       <figcaption>Illustration d'<a href="https://www.instagram.com/tensei_draw/">Elliot Jolivet</a></figcaption>
@@ -106,7 +106,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Dédale</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="dedale">Dédale</h2>
     <figure>
       <img class="uk-align-center" src="images/jdr/dedale.jpg" alt="">
       <figcaption>Illustration de <a href="https://www.behance.net/gallery/25545867/Showtime">Maciej Kuciara</a> - CC-BY-NC</figcaption>
@@ -144,7 +144,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Les 13 Reliques</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="les-13-reliques">Les 13 Reliques</h2>
     <img class="uk-align-center" src="https://chezsoi.org/lucas/blog/images/2018/11/Les13Reliques.png" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
@@ -173,7 +173,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Lady Blackbird</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="lady-blackbird">Lady Blackbird</h2>
     <img class="uk-align-center" src="images/jdr/lady-blackbird-pages.png" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
@@ -212,7 +212,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Scavengers</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="scavengers">Scavengers</h2>
     <img class="uk-align-center" src="images/2018/12/scavengers.png" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
@@ -247,7 +247,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Dog Bear</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="dog-bear">Dog Bear</h2>
     <img class="uk-align-center" src="images/2018/11/dog-bear.png" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
@@ -277,7 +277,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Sombre Light</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="sombre-light">Sombre Light</h2>
     <img class="uk-align-center" src="images/jdr/sombre3.jpg" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
