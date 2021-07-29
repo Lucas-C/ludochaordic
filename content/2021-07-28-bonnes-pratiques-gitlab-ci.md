@@ -8,16 +8,17 @@ Slug: bonnes-pratiques-gitlab-ci
 
 ![Logo Gitlab](images/2021/07/gitlab-ci.png)
 
-À `oui.sncf`, je travaille au sein d'une équipe en charge de l'**usine logicielle**,
-qui administre depuis des années une instance Gitlab _self-hosted_.
+À [E-voyageurs Technologies](https://www.oui.sncf), je travaille au sein d'une équipe en charge de l'**usine logicielle**,
+qui administre depuis plusieurs années une instance Gitlab _self-hosted_.
 
 Cet article contient quelques-unes de nos recommandations à l'intention des utilisateurs de notre Gitlab,
 ayant pour but à la fois **améliorer les performances de leurs _pipelines_**,
-et **limiter leur impact en termes de ressources** sur cette instance Gitlab employée par des dizaines d'équipes.
+et **limiter leur impact en termes de ressources** sur cette instance Gitlab partagée entre des dizaines d'équipes.
 Un dernier volet rassemble quelques points de **sécurité**.
 
 Ces conseils sont essentiellement issus de mon expérience au fil des années,
 mais recoupent également des recommandations officielles de Gitlab.
+J'espère qu'en les partageant ici ils pourront être utiles à la communauté qui gravite autour de ce bel outil.
 Merci à Christophe, Etienne, Gilles, Jérôme & Raphaël pour la relecture.
 
 - [Shallow cloning avec GIT_DEPTH=1](bonnes-pratiques-gitlab-ci.html#shallow-cloning-avec-git_depth=1)
@@ -113,7 +114,7 @@ Bien souvent, résoudre le problème "de fond" de l'instabilité sera la meilleu
 ## Évitez les déploiements depuis les _forks_
 
 Il est courant d'effectuer certaines étapes d'une pipeline uniquement sur la branche `master` / `main`,
-comme la publication de livrables (tel une image Docker) ou le déclenchement d'action de déploiement.
+comme la publication de livrables (telle une image Docker) ou le déclenchement d'action de déploiement.
 
 La syntaxe suivante est alors souvent employée :
 ```yaml
@@ -208,6 +209,8 @@ script:
 ```
 
 ![Logo SonarQube](images/2021/07/sonarqube.png)
+
+Et vous, avez-vous des recommandations à partager autour de Gitlab CI ?
 
 <script>
 ['h2'].forEach(function (selector) {
