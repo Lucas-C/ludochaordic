@@ -6,6 +6,11 @@ from os.path import dirname, join
 
 logging.root.setLevel(logging.INFO)
 logging.getLogger('pelican.utils').setLevel(logging.WARN)  # avoids very verbose "-> Copying ..." logs
+# Configure LOG_FORMAT to prefix it with "%(asctime)s [%(module)s]":
+# (TODO : PR to Pelican to allow this to be easily configured)
+if logging.root.handlers:  # handlers are only set the 2nd time this file is evaluated by Pelican
+    formatter = logging.root.handlers[0].formatter
+    formatter._fmt = formatter._style._fmt = "%(asctime)s [%(module)s] %(customlevelname)s %(message)s"
 
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'

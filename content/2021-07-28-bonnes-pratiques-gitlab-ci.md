@@ -4,7 +4,13 @@ Tags: lang:fr, oui.sncf, usine-logicielle, gitlab-ci, git, continuous-integratio
 Slug: bonnes-pratiques-gitlab-ci
 ---
 
-<!-- NEXT: com' -->
+<!-- Com' :
+* https://medium.com/@Lucas_C/bonnes-pratiques-gitlab-ci-9a380c83a74a
+* https://linuxfr.org/users/lucas-c/liens/bonnes-pratiques-gitlab-ci
+* https://dev.to/lucasc/bonnes-pratiques-gitlab-ci-5fb7
+* https://www.journalduhacker.net/s/cafeya/bonnes_pratiques_gitlab_ci
+* En cours de modération : https://news.humancoders.com
+-->
 
 ![Logo Gitlab](images/2021/07/gitlab-ci.png)
 
@@ -77,7 +83,7 @@ variables:
 Définir une `cache:key` est souvent une bonne idée, ainsi éventuellement qu'une `CACHE_FALLBACK_KEY`.
 Pour plus de détails, vous pouvez vous référer aux [Good caching practices](https://docs.gitlab.com/ee/ci/caching/#good-caching-practices) & [Common use cases for caches](https://docs.gitlab.com/ee/ci/caching/#common-use-cases-for-caches) de la documentation Gitlab CI.
 
-Notez également que le niveau de compression du cache est configurable via la variable [CACHE_COMPRESSION_LEVEL](https://docs.gitlab.com/ee/ci/runners/configure_runners.html#artifact-and-cache-settings).
+Notez également que le niveau de compression du cache est configurable via la variable [CACHE_COMPRESSION_LEVEL](https://docs.gitlab.com/ee/ci/runners/configure_runners.html#artifact-and-cache-settings), et la vitesse de compression via [FF_USE_FASTZIP](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26490).
 
 Enfin, pour approfondir le sujet, vous pouvez lire la manière dont Gitlab optimise sa gestion de cache pour son propre projet `git` : <https://docs.gitlab.com/ee/development/pipelines.html#caching-strategy>
 
@@ -93,7 +99,7 @@ artifacts:
   expire_in: 1 day
 ```
 
-Notez également que le niveau de compression des artefacts est configurable via la variable [ARTIFACT_COMPRESSION_LEVEL](https://docs.gitlab.com/ee/ci/runners/configure_runners.html#artifact-and-cache-settings).
+Notez également que le niveau de compression des artefacts est configurable via la variable [ARTIFACT_COMPRESSION_LEVEL](https://docs.gitlab.com/ee/ci/runners/configure_runners.html#artifact-and-cache-settings), et la vitesse de compression via [FF_USE_FASTZIP](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26490).
 
 Enfin, pour approfondir le sujet, vous pouvez lire la manière dont Gitlab optimise sa gestion d'artefacts pour son propre projet `git` : <https://docs.gitlab.com/ee/development/pipelines.html#artifacts-strategy>
 

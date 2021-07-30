@@ -167,5 +167,6 @@ publish-on-itch.io.sh
 
 com':
 - [ ] subReddits: r/python, r/programming, r/gamedev
-- [ ] linux fr ?
+- [ ] linux fr, dev.to, journalduhacker.net, news.humancoders.com
+- [ ] medium.com
 -->
