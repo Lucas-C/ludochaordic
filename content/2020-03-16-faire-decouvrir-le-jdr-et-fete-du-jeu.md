@@ -1,6 +1,6 @@
 Title: Faire découvrir le JdR et Fête du jeu
 Date: 2020-03-16 14:30
-Tags: lang:fr, jdr, maine-et-loire, gratuit, auberge-des-reveurs, ffjdr, le-grumph, kalwrynn, creative-commons, jeux
+Tags: lang:fr, jdr, maine-et-loire, gratuit, auberge-des-reveurs, ffjdr, le-grumph, kalwrynn, libre-office, creative-commons, jeux
 ---
 Il y a une semaine, j'ai eu la chance d'être invité le samedi à [la Fête du jeu](https://www.les-garennes-sur-loire.fr/%C3%A9v%C3%A8nement/fete-du-jeu/?instance_id=456)
 à Saint Jean-des-Mauvrets, pour y faire découvrir le **jeu de rôle** aux joueurs curieux.
