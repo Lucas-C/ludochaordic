@@ -5,12 +5,13 @@ import logging, os
 from os.path import dirname, join
 
 logging.root.setLevel(logging.INFO)
-logging.getLogger('pelican.utils').setLevel(logging.WARN)  # avoids very verbose "-> Copying ..." logs
+logging.getLogger('pelican.utils').setLevel(logging.WARN)  # avoids verbose "-> Copying ..." logs
+logging.getLogger('tornado.access').setLevel(logging.WARN)  # avoids verbose HTTP logs from livereload server
 # Configure LOG_FORMAT to prefix it with "%(asctime)s [%(module)s]":
 # (TODO : PR to Pelican to allow this to be easily configured)
 if logging.root.handlers:  # handlers are only set the 2nd time this file is evaluated by Pelican
     formatter = logging.root.handlers[0].formatter
-    formatter._fmt = formatter._style._fmt = "%(asctime)s [%(module)s] %(customlevelname)s %(message)s"
+    formatter._fmt = formatter._style._fmt = "%(asctime)s [%(module)s] %(levelname)s %(message)s"
 
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'
@@ -40,6 +41,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2021-08-16', 'img_url': 'images/readings/DoggyBags-tome13.jpg', 'description': "Doggybags tome 13 - Tanguy Mandias - RUN - Elsa Bordier (BD)"},
     {'date': u'2021-08-03', 'img_url': 'images/readings/il-faut-flinguer-ramirez-tome-2.jpg', 'description': "Il faut flinguer Ramirez - Nicolas Petrimaux (BD)"},
     {'date': u'2021-06-29', 'img_url': 'images/readings/manifeste-pour-un-urbanisme-circulaire.jpg', 'description': "Manifeste pour un urbanisme circulaire : pour des alternatives concrètes à l'étalement de la ville (essai)"},
     {'date': u'2021-04-27', 'img_url': 'images/readings/la-communaute.jpg', 'description': "La Communauté - Hervé Tanquerelle & Yann Benoit (BD)"},
@@ -181,7 +183,12 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'representative_image', 'tag_cloud') #, 'w3c_validate')
+PLUGINS = ('ctags_generator', 'deadlinks', 'image_process', 'image_preview_thumbnailer', 'representative_image', 'tag_cloud') #, 'w3c_validate')
+
+# Configuring image lazyloading for the image_preview_thumbnailer plugin:
+IMAGE_PREVIEW_THUMBNAILER_INSERTED_HTML = '''<a href="{link}" target="_blank">
+    <div class="lazyload" data-noscript=""><noscript><img src="{thumb}" alt=""></noscript></div>
+</a>'''
 
 DEADLINK_VALIDATION = False  # à activer de temps en temps via "invoke build" inclus quelques faux positifs
 DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings

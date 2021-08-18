@@ -19,7 +19,6 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-PLUGIN_PATHS += ['../pelican-plugin-linkbacks']
 PLUGINS += ('shaarli_poster', 'linkbacks')
 
 DEADLINK_VALIDATION = False

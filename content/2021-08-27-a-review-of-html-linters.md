@@ -1,5 +1,5 @@
 Title: A review of HTML linters
-Date: 2021-04-23 14:00
+Date: 2021-08-27 14:00
 Tags: lang:en, html, linter, python, source-code, vnu, w3c, continuous-integration, gitlab-ci, github-actions, travis-ci, prog
 Slug: a-review-of-html-linters
 Status: draft
@@ -20,14 +20,8 @@ Criterias : activity (commits / year, overview of last issues...), features (aut
 Usage in [GitHub Actions](https://github.com/features/actions) / [Gitlab CI](https://docs.gitlab.com/ee/ci/) / [Travis CI](https://www.travis-ci.com):
 
 ```yaml
-# Building HTML tidy linter as there are no Linux binary releases since v5.4:
-- apt-get update && apt-get install -y cmake g++ wget
-- wget -O tidy-html5.tar.gz https://github.com/htacg/tidy-html5/archive/refs/tags/5.7.28.tar.gz
-- tar xzvf tidy-html5.tar.gz
-- cd tidy-html5-*/build/cmake
-- cmake ../.. -DCMAKE_BUILD_TYPE=Release
-- make install
-- cd -
+- wget -O tidy-html5.deb https://github.com/htacg/tidy-html5/releases/download/5.8.0/tidy-5.8.0-Linux-64bit.deb
+- dpkg -i tidy-html5.deb
 - tidy -version
 - tidy -quiet -lang en -modify -config htmltidy.conf index.html
 ```
@@ -42,7 +36,6 @@ indent: auto
 indent-spaces: 4
 wrap: no
 drop-empty-elements: false
-# The following config entries requires tidy v5.6+:
 warn-proprietary-attributes: no
 # Display message ID's with error reports, useful to filter them out using "mute":
 mute-id: yes

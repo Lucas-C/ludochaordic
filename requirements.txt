@@ -4,7 +4,9 @@ livereload
 markdown
 mdx_include
 pelican
-git+https://github.com/pelican-plugins/image-process.git
+pelican-image-process
+pelican-plugin-image-preview-thumbnailer
+pelican-plugin-linkbacks
 pillow
 py_w3c
 shaarli-client

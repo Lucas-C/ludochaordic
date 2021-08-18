@@ -3,8 +3,8 @@
     invoke livereload
     invoke publish -- -D
 
-The [pelican-plugins](https://github.com/getpelican/pelican-plugins) & [pelican-plugin-linkbacks](https://github.com/pelican-plugins/linkbacks/)
-repositories need to be present in the parent directory, under those names.
+The [pelican-plugins](https://github.com/getpelican/pelican-plugins)
+repositoriy need to be present in the parent directory, under this name.
 
 
 ## License

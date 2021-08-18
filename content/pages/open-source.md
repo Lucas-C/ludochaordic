@@ -49,6 +49,7 @@ personal, minimalist, bookmarking service, in PHP
 
 - [<img alt="Logo Pelican" src="images/open-source/pelican-logo.png" style="max-width: 6rem"> Pelican](https://getpelican.com/) : a static site generator in Python
     * created [a plugin to send LinkBacks](https://github.com/pelican-plugins/linkbacks/)
+    * and another [to insert thumbnails along image links](https://github.com/pelican-plugins/image-preview-thumbnailer)
     * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
     * and another [to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
     * designed [a 2-columns layout theme](https://github.com/Lucas-C/pelican-theme-timeline)
