@@ -1,7 +1,7 @@
 Title: Images libres de droits
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, gratuit
 Image-preview-thumbnailer: article ul ul,h2:nth-of-type(3) + ul
-Image-preview-thumbnailer-except-urls: artvee.com,deviantart.com/.+/gallery,artstation.com/[^/]+$
+Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,deviantart.com/.+/gallery,artstation.com/[^/]+$
 ---
 Cette page recense des site web, des illustrateurs, des icônes et des polices de caractères libres de droits.
 
@@ -583,7 +583,7 @@ Dedicated to games:
 - [OpenGameArt](https://opengameart.org)
     * [WTactics](https://opengameart.org/content/wtactics) / [@GitHub](https://github.com/wtactics/art/tree/master)
 
-Photos:
+Mostly photos:
 
 - [Pixabay illustrations](https://pixabay.com/en/photos/?image_type=illustration) -> beaucoup de choses intéressantes en N&B
 - [Open Image Collections](https://blogs.ntu.edu.sg/openimagecollections/)

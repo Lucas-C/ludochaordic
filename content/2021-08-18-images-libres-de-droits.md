@@ -1,16 +1,20 @@
 Title: Images libres de droits
-Date: 2021-08-16 14:00
+Date: 2021-08-18 14:00
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, personal-project, gratuit, python, pelican
 Slug: images-libres-de-droits
 ---
-<!-- Com' à faire :
+<!-- Com' :
+* [x] https://www.reddit.com/r/creativecommons/comments/p6rt1p/images_libres_de_droits_curated_list_of_websites/
+* [x] https://linuxfr.org/users/lucas-c/liens/images-libres-de-droits-recueil-d-illustrations-sous-creative-commons
+* [x] https://www.deviantart.com/drmaxkurt/journal/Images-libres-de-droits-pour-illustrer-vos-jeux-889178900 (pending approval)
+* [x] https://rpggeek.com/thread/2711762/article/38305777
+* [x] https://www.casusno.fr/viewtopic.php?f=26&t=39510
+* [x] https://github.com/shime/creative-commons-media/issues/18
+* [x] https://www.journalduhacker.net/s/ufhwee/images_libres_de_droits
 * [ ] Le Bocal
 * [ ] http://forums.ffjdr.org
 * [ ] https://www.500nuancesdegeek.fr
-* [ ] https://www.casusno.fr
 * [ ] https://opale-roliste.com/forum
-* [ ] http://rpggeek.com
-* [ ] https://www.deviantart.com/jeuxderole
 * [ ] sites dédiés aux creative commons ?
 * [ ] Elliot & Lélo
 -->

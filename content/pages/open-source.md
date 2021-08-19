@@ -13,7 +13,7 @@ Tags: lang:en, cygwin, hesperides, isso, jenkins, luigi, open-source, pre-commit
 
 - [Undying Dusk](https://github.com/Lucas-C/undying-dusk) : **a video game in a PDF format**, with a gameplay based on exploration and logic puzzles, in the tradition of dungeon crawlers:
 
-![Game trailer](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer.gif)
+![Game trailer](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer1.gif)
 
 - [The King Must Know](https://github.com/Lucas-C/OuiJam2018) : a Phaser JS short video game made with 2 colleagues during the Global Game Jam 2018
 - [tablut](https://github.com/Lucas-C/tablut/) : a PHP implementation of an old [Scandinavian](https://en.wikipedia.org/wiki/Tafl_games) duel board game for the online platform [BoardGameArena](https://boardgamearena.com), with [simple rules](http://en.doc.boardgamearena.com/Gamehelptablut)
