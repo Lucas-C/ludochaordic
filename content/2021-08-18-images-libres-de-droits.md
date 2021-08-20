@@ -6,7 +6,7 @@ Slug: images-libres-de-droits
 <!-- Com' :
 * [x] https://www.reddit.com/r/creativecommons/comments/p6rt1p/images_libres_de_droits_curated_list_of_websites/
 * [x] https://linuxfr.org/users/lucas-c/liens/images-libres-de-droits-recueil-d-illustrations-sous-creative-commons
-* [x] https://www.deviantart.com/drmaxkurt/journal/Images-libres-de-droits-pour-illustrer-vos-jeux-889178900 (pending approval)
+* [x] https://www.deviantart.com/drmaxkurt/journal/Images-libres-de-droits-pour-illustrer-vos-jeux-889178900
 * [x] https://rpggeek.com/thread/2711762/article/38305777
 * [x] https://www.casusno.fr/viewtopic.php?f=26&t=39510
 * [x] https://github.com/shime/creative-commons-media/issues/18
@@ -15,8 +15,8 @@ Slug: images-libres-de-droits
 * [ ] http://forums.ffjdr.org
 * [ ] https://www.500nuancesdegeek.fr
 * [ ] https://opale-roliste.com/forum
-* [ ] sites dédiés aux creative commons ?
 * [ ] Elliot & Lélo
+* [ ] autres sites dédiés aux creative commons ?
 -->
 
 Ce blog voit l'apparition d'une nouvelle page permanente : [Images libres de droits](pages/images-libres-de-droits.html).

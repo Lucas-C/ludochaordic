@@ -3,6 +3,9 @@ Date: 2021-06-28 12:00
 Tags: lang:en, libre-software, open-source, fpdf2, geocoding, maps, cartography, leafletjs, github, github-actions, python, prog
 Slug: world-map-of-an-open-source-project-contributors
 ---
+<!-- Com' :
+* Feature suggested: https://github.com/all-contributors/all-contributors/issues/537
+-->
 
 I have been amazed recently at the **diversity** of contributors on the [fpdf2](https://github.com/PyFPDF/fpdf2) project,
 coming from all around the world!
