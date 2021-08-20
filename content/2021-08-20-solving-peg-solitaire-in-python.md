@@ -1,11 +1,12 @@
 Title: Solving peg solitaire in Python
-Date: 2021-08-20 16:30
+Date: 2021-08-20 17:00
 Tags: lang:en, problem-solving, algorithm, maths, python, gif, moviepy, prog, jeux
 Slug: solving-peg-solitaire-in-python
 ---
 <!-- Com'
 * [x] https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)#Solutions
-* [ ] 
+* [x] email at Max Khrapov & Valentin Zulkower
+* [x] https://www.reddit.com/r/solitaire/comments/p87dw8/animated_gifs_for_solving_european_peg_solitaire/
 -->
 
 The other day, while watching [_La Carte aux trésors_](https://fr.wikipedia.org/wiki/La_Carte_aux_tr%C3%A9sors)

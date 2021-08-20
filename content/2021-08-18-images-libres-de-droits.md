@@ -11,12 +11,10 @@ Slug: images-libres-de-droits
 * [x] https://www.casusno.fr/viewtopic.php?f=26&t=39510
 * [x] https://github.com/shime/creative-commons-media/issues/18
 * [x] https://www.journalduhacker.net/s/ufhwee/images_libres_de_droits
+* [x] https://forums.ffjdr.org/t/images-libres-de-droits-pour-illustrer-vos-jeux/578
+* [x] https://opale-roliste.com/forum/ressources/liens-utiles/images-libres-droits-illustrer-vos-jeux
 * [ ] Le Bocal
-* [ ] http://forums.ffjdr.org
-* [ ] https://www.500nuancesdegeek.fr
-* [ ] https://opale-roliste.com/forum
 * [ ] Elliot & Lélo
-* [ ] autres sites dédiés aux creative commons ?
 -->
 
 Ce blog voit l'apparition d'une nouvelle page permanente : [Images libres de droits](pages/images-libres-de-droits.html).

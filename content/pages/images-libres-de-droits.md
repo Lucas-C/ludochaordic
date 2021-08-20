@@ -183,6 +183,13 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Soldier](https://www.deviantart.com/alexzebol/art/Sketch-BoS-Field-Scribe-761565487)
     * [Mechanic](https://www.deviantart.com/alexzebol/art/Brotherhood-of-Steel-mechanic-761565453)
     * [Alliance Priestess](https://www.deviantart.com/alexzebol/art/WIP-Alliance-Priestess-776556324)
+- [Mike Winkelmann alias Beeple](https://fr.wikipedia.org/wiki/Mike_Winkelmann) : all the artworks from his _Everydays_ project up to november 2016 are CC-BY
+    * [everydays - may 2015](https://www.behance.net/gallery/26813509/everydays-may-2015) - CC-BY
+    * [everydays - november 2015](https://www.behance.net/gallery/32560691/everydays-november-2015) - CC-BY
+    * [everydays - july 2016](https://www.behance.net/gallery/41498819/everydays-july-2016) - CC-BY
+    * [everydays - august 2016](https://www.behance.net/gallery/43911047/everydays-august-2016) - CC-BY
+    * [everydays - october 2016](https://www.behance.net/gallery/47960531/everydays-october-2016) - CC-BY
+    * [everydays - november 2016](https://www.behance.net/gallery/48659359/everydays-november-2016) - CC-BY
 - [Tofu Verde](https://www.flickr.com/photos/tofuverde/) : CC BY - psychedelic characters
 > Designer from Bauru, São Paulo, Brasil. Trained as a designer, an artist by hobby and who knows, maybe one day he could claim to be a comic artist.
     * [Vashta Nerada](https://www.flickr.com/photos/tofuverde/30859168220/)
