@@ -184,6 +184,8 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Mechanic](https://www.deviantart.com/alexzebol/art/Brotherhood-of-Steel-mechanic-761565453)
     * [Alliance Priestess](https://www.deviantart.com/alexzebol/art/WIP-Alliance-Priestess-776556324)
 - [Mike Winkelmann alias Beeple](https://fr.wikipedia.org/wiki/Mike_Winkelmann) : all the artworks from his _Everydays_ project up to november 2016 are CC-BY
+> American digital artist, graphic designer, and animator.
+> He is known for using various mediums in creating comical, phantasmagoric works that makes political, social commentary while using pop culture figures as references.
     * [everydays - may 2015](https://www.behance.net/gallery/26813509/everydays-may-2015) - CC-BY
     * [everydays - november 2015](https://www.behance.net/gallery/32560691/everydays-november-2015) - CC-BY
     * [everydays - july 2016](https://www.behance.net/gallery/41498819/everydays-july-2016) - CC-BY
