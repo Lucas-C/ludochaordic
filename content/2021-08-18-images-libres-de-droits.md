@@ -1,4 +1,4 @@
-Title: Images libres de droits
+Title: Images sous licences libres
 Date: 2021-08-18 14:00
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, personal-project, gratuit, python, pelican
 Slug: images-libres-de-droits

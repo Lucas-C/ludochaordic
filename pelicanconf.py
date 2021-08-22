@@ -41,6 +41,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2021-08-22', 'img_url': 'images/readings/the-private-eye.jpg', 'description': "The Private Eye - Brian K Vaughan &  Marcos Martin (BD)"},
     {'date': u'2021-08-16', 'img_url': 'images/readings/DoggyBags-tome13.jpg', 'description': "Doggybags tome 13 - Tanguy Mandias - RUN - Elsa Bordier (BD)"},
     {'date': u'2021-08-03', 'img_url': 'images/readings/il-faut-flinguer-ramirez-tome-2.jpg', 'description': "Il faut flinguer Ramirez - Nicolas Petrimaux (BD)"},
     {'date': u'2021-06-29', 'img_url': 'images/readings/manifeste-pour-un-urbanisme-circulaire.jpg', 'description': "Manifeste pour un urbanisme circulaire : pour des alternatives concrètes à l'étalement de la ville (essai)"},

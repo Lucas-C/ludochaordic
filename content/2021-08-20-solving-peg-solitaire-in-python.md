@@ -6,6 +6,7 @@ Slug: solving-peg-solitaire-in-python
 <!-- Com'
 * [x] https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)#Solutions
 * [x] email at Max Khrapov & Valentin Zulkower
+* [x] https://www.reddit.com/r/Python/comments/p8djlz/solving_peg_solitaire_in_python/
 * [x] https://www.reddit.com/r/solitaire/comments/p87dw8/animated_gifs_for_solving_european_peg_solitaire/
 -->
 

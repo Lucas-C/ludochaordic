@@ -1,4 +1,4 @@
-Title: Images libres de droits
+Title: Images sous licences libres
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, gratuit
 Image-preview-thumbnailer: article ul ul,h2:nth-of-type(3) + ul
 Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,deviantart.com/.+/gallery,artstation.com/[^/]+$
@@ -657,7 +657,7 @@ Old public domain illustrations & photos:
     * [Impact Label Reversed](https://www.fontspace.com/tension-type/impact-label)
     * [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny)
     * [Marker Scratch](https://www.fontspace.com/marcus-melton-design/marker-scratch)
-    * [UFO NEST Regular](https://www.urbanfonts.com/fonts/UFO_NESTRegular.font)
+    * [UFO NEST](https://www.dafont.com/ufo-nest.font)
     * [Nebulous](https://www.fontspace.com/pobrenerd/nebulous) : spacial free font, sans accents, nécessite `font-weight: normal`,
       test pas terrible en `h1 4rem` noir sur fond blanc
     * [first order](http://www.iconian.com/f.html) : celtico-magique avec des points, 20$ de donation pour usage commercial
