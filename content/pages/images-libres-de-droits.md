@@ -1,4 +1,5 @@
 Title: Images sous licences libres
+Slug: images-libres-de-droits
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, gratuit
 Image-preview-thumbnailer: article ul ul,h2:nth-of-type(3) + ul
 Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,deviantart.com/.+/gallery,artstation.com/[^/]+$
@@ -590,7 +591,7 @@ Dedicated to games:
 - [Kenney assets](https://kenney.nl/assets/)
 - [craftpix freebies](https://craftpix.net/freebies/) : free 2D game assets
 - [OpenGameArt](https://opengameart.org)
-    * [WTactics](https://opengameart.org/content/wtactics) / [@GitHub](https://github.com/wtactics/art/tree/master)
+    * [WTactics](https://opengameart.org/content/wtactics) / [@GitHub](https://github.com/wtactics/art/tree/master) - [preview board](https://arcmage.org/artwork/) - CC BY-SA
 
 Mostly photos:
 
