@@ -1,11 +1,23 @@
 Title: La Brigade du Chaos
 Date: 2021-09-18 17:00
-Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, jeux
+Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, jeux
 ---
 <!-- Com'
-* [ ] https://discord.com/invite/uFn5zJZrt2
-* [ ] https://www.deviantart.com/jeuxderole
+* [x] https://discord.com/invite/uFn5zJZrt2
+* [x] https://www.deviantart.com/drmaxkurt/journal/Excellent-JdR-gratuit-la-Brigade-du-Chaos-892253402
 * [ ] https://www.cestpasdujdr.fr/lettrpg/
+* [ ] http://troplongpaslu.fr
+* [ ] https://www.trictrac.net/forum/question-sur-les-jeux-en-telechargement & https://www.trictrac.net/forum/discutons-jeux-de-role
+* [ ] http://forums.ffjdr.org
+* [ ] https://www.500nuancesdegeek.fr
+* [ ] http://www.taverneproduction.com/forum/
+* [ ] https://www.casusno.fr https://forum.cwowd.com
+* [ ] https://opale-roliste.com/forum
+* [ ] https://laubergedesreveurs.forumactif.com & http://heritiers-dumnacus.forumactif.org
+* [ ] http://rpggeek.com & https://boardgamegeek.com/forum/31/bgg/press-releasesv
+* [ ] http://www.scenariotheque.org
+* [ ] https://forum.cwowd.com/c/jeux-de-role/6
+* [ ] https://forum.canardpc.com/threads/12905-JDR-Jeux-de-R%C3%B4le-Topic-G%C3%A9n%C3%A9ral
 -->
 
 J'ai récidivé : ayant déjà [traduit plusieurs courts jeux de rôle de M. Grant Howitt](traduction-de-jdr-monopage-de-grant-howitt.html),
