@@ -13,7 +13,7 @@ Slug: images-libres-de-droits
 * [x] https://www.journalduhacker.net/s/ufhwee/images_libres_de_droits
 * [x] https://forums.ffjdr.org/t/images-libres-de-droits-pour-illustrer-vos-jeux/578
 * [x] https://opale-roliste.com/forum/ressources/liens-utiles/images-libres-droits-illustrer-vos-jeux
-* [ ] Le Bocal
+* [x] Le Bocal
 -->
 
 Ce blog voit l'apparition d'une nouvelle page permanente : [Images libres de droits](pages/images-libres-de-droits.html).

@@ -446,6 +446,12 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [El Caracol Observatory - Chichen Itza, Yucatan](https://www.deviantart.com/dandelo1/art/El-Caracol-Observatory-Chichen-Itza-Yucatan-336903327)
     * [The Old Knox House - Coudersport, Pennsylvania](https://www.deviantart.com/dandelo1/art/The-Old-Knox-House-Coudersport-Pennsylvania-666886833)
     * [Ambulancia](https://www.deviantart.com/dandelo1/art/Ambulance-315987152)
+- [Alexander Werner Jr.](http://alexander-werner-jr.com) - CC BY
+> German illustrator & musician
+    * [Goblin's Pike - The Sorceror's Tower](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-The-Sorceror-s-Tower-888471464)
+    * [Goblin's Pike - Swamp Goblins](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Swamp-Goblins-888473663)
+    * [Goblin's Pike - Tree Statue](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Tree-Statue-881074015)
+    * [Sleepy Cave Dragon](https://www.deviantart.com/alexander-werner-jr/art/Sleepy-Cave-Dragon-888474721)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 
 ## From last century

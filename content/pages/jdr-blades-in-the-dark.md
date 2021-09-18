@@ -793,6 +793,7 @@ entre autres à partir des renseignements de Sylvia Derengathi
 * les PJs remontent le temps au début de la campagne ! [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
 
+* scène des monstres dans les miroirs: https://www.youtube.com/watch?v=Qir5t9RbEHo
 * prendre inspis de Dirty MJ
 * gimmick pour PNJs: renifle tout, les gens, les lieux
 
