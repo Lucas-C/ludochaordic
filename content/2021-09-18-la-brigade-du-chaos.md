@@ -47,6 +47,8 @@ et partagé mes impressions ici sur ce blog : [Monster Chef & Havoc Brigade](dou
 Parmi ses inspirations pour ce jeu, Grant Howitt mentionne _Warhammer 40K - Dark Heresy_,
 _Marvel Superheroic Roleplaying_ et l'excellent _Lady Blackbird_ de John Harper.
 
+<img class="comic-strip" alt="BD" src="images/2021/09/havoc-brigade-comic-strip.png">
+
 ---
 
 Comme j'ai adoré ce jeu, après l'avoir fait jouer plusieurs fois,
@@ -62,4 +64,5 @@ Merci à Aurélien, Henri, Loic & Thomas pour les parties de test !
 
 <style>
 article img { max-width: 30rem; }
+img.comic-strip { max-height: none; max-width: 100%; }
 </style>
