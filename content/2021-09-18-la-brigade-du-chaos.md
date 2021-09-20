@@ -1,11 +1,12 @@
 Title: La Brigade du Chaos
 Date: 2021-09-18 17:00
-Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, jeux
+Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-blackbird, john-harper, jeux
 ---
 <!-- Com'
+* [x] blog post & page jeux-de-role
 * [x] https://discord.com/invite/uFn5zJZrt2
 * [x] https://www.deviantart.com/drmaxkurt/journal/Excellent-JdR-gratuit-la-Brigade-du-Chaos-892253402
-* [ ] https://www.cestpasdujdr.fr/lettrpg/
+* [x] https://www.cestpasdujdr.fr/lettrpg/
 * [ ] http://troplongpaslu.fr
 * [ ] https://www.trictrac.net/forum/question-sur-les-jeux-en-telechargement & https://www.trictrac.net/forum/discutons-jeux-de-role
 * [ ] http://forums.ffjdr.org
@@ -40,6 +41,12 @@ lorsque vous n’avez rien préparé.
 * **Pour**:  1 MJ + 1 à 5 joueurs
 * **Durée** : flexible, quelques heures environ
 
+Avant de le traduire, j'avais déjà testé le jeu il y a quelque temps,
+et partagé mes impressions ici sur ce blog : [Monster Chef & Havoc Brigade](double-brigade.html).
+
+Parmi ses inspirations pour ce jeu, Grant Howitt mentionne _Warhammer 40K - Dark Heresy_,
+_Marvel Superheroic Roleplaying_ et l'excellent _Lady Blackbird_ de John Harper.
+
 ---
 
 Comme j'ai adoré ce jeu, après l'avoir fait jouer plusieurs fois,
@@ -49,7 +56,9 @@ afin d'enrichir le matériel ludique et de partager quelques conseils aux MJs qu
 Voici donc **Freiberg, nid d'espions**:
 
 [![Couverture de l'aide de jeu Freiberg, nid d'espions](images/2021/09/medieval_city_concept_by_davidhueso.jpg)](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions)
-<center>(cliquez sur l'image pour accéder au jeu)</center>
+<center>(cliquez sur l'image pour accéder à cette aide de jeu)</center>
+
+Merci à Aurélien, Henri, Loic & Thomas pour les parties de test !
 
 <style>
 article img { max-width: 30rem; }

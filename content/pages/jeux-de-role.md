@@ -16,6 +16,30 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">La Brigade du Chaos</h2>
+    <img class="uk-align-center" src="../images/2021/09/Havoc-Brigade-cover.jpg" alt="Couverture du jeu Havoc Brigade">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction d'un jeu de 25 pages<br>&amp; aide de jeu maison</dd>
+        <dt>Pour</dt><dd>1 MJ + 1 à 5 joueurs</dd>
+        <dt>Durée</dt><dd>2h à 4h environ</dd>
+      </dl>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/la-brigade-du-chaos">La Brigade du Chaos (jeu complet sur itch.io)</a></li>
+        <li><a href="https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions">Freiberg nid d'espions (aide de jeu sur itch.io)</a></li>
+      </ul>
+      <blockquote>
+        Incarnez la Brigade du Chaos, une escouade d'orcs chahuteurs en mission pour « infiltrer »
+        une ville humaine afin de kidnapper l'ignoble prince Holstein.
+        <hr>
+        C'est un jeu au ton léger. Ce n'est pas une histoire de bouleversement émotionnel profond et d'introspection torturée.
+        C'est une histoire d'explosions, de grosses bastons, de vols de trucs, de panique générale et, surtout, de plans vraiment stupides!
+        <hr>
+        C'est un jeu idéal en convention, pour faire découvrir le jeu de rôle, ou comme jeu de rôle « de secours » lorsque vous n’avez rien préparé.
+      </blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Les Non-morts</h2>
     <img class="uk-align-center" src="https://lucas-c.github.io/jdr/LesNonMorts/cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg" alt="Couverture du jeu : un motard zombie">
     <div class="uk-thumbnail-caption">
@@ -33,7 +57,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         Les Non-morts est un court jeu narratif compétitif,
         à mi-chemin entre jeu de société et jeu de rôle sans meneur, dans une ambiance de film de mort-vivants de série Z :
         un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.
-        <br>
+        <hr>
         Les joueurs incarnent les réalisateurs / scénaristes d'un tel film, qui se sont succédés à la production, chaotique.
         Au cours de la partie, ils vont dessiner collectivement le plan d'un lieu, et décrire les actions d'une poignée de survivants
         de la catastrophe en cours, tentant de survivre à une marée de mort-vivants !
@@ -45,7 +69,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
     <img class="uk-align-center" src="images/2020/01/RunDieRepeat.jpg" alt="Run. Die. Repeat">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
-        <dt>Genre</dt><dd>Traduction d'un jeu monopage & scénarios</dd>
+        <dt>Genre</dt><dd>Traduction d'un jeu monopage &amp; scénarios</dd>
         <dt>Pour</dt><dd>1 MJ + 2 à 5 joueurs</dd>
         <dt>Durée</dt><dd>20min à 45min</dd>
       </dl>
@@ -60,17 +84,17 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       Vous êtes piégé dans un cauchemar, pourchassé par des monstres.
       Chaque fois que vous mourrez, vous recommencez exactement au même endroit, au même instant.
       Trouverez-vous comment vous échapper ?
-      <br>
+      <hr>
       Un jeu ne nécessitant aucune préparation, conçu pour de courtes sessions effrénées, improvisées n’importe où, n’importe quand.
       </blockquote>
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Dungeon Hearts - Heroes & Spells</h2>
+    <h2 class="uk-text-bold uk-text-primary">Dungeon Hearts - Heroes &amp; Spells</h2>
     <img class="uk-align-center" src="images/2019/06/aggron_stonebreak_the_ogre_magi_by_halycon450.png" alt="Aggron Stonebreak The Ogre Magi">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
-        <dt>Genre</dt><dd>Traduction & extension d'un jeu en 2 pages</dd>
+        <dt>Genre</dt><dd>Traduction &amp; extension d'un jeu en 2 pages</dd>
         <dt>Pour</dt><dd>1 à 4 joueurs, sans MJ</dd>
         <dt>Durée</dt><dd>2h-4h environ</dd>
       </dl>
@@ -124,9 +148,11 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <li><a href="https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.2/ce-nest-pas-une-place-dhonneur-v1.2.pdf">Ce n'est pas une place d'honneur (PDF)</a></li>
       </ul>
       <blockquote>Dans <strong>Genius Loci</strong>, vous êtes un dieu mineur, un genius loci, dans un petit village calme du sud de l'Angleterre dans les années 60.</blockquote>
+      <hr>
       <blockquote><strong>Plus de place en enfer</strong> est un jdr de survie et d'horreur.
       Dans ce jeu vous serez à la fois un joueur ET un meneur de jeu (MJ).
       <strong>Ils sont là dehors pour nous choper, on doit s'échapper !</strong></blockquote>
+      <hr>
       <blockquote>Dans <strong>Ce n'est pas une place d'honneur</strong>, incarnez des pèlerins dévoués à la recherche des reliques d'anciens dieux
       ET les humains terrifiés qui deviendront ces divinités alors qu'ils s'écrasent à bord d'un vaisseau-colonie sur une planète inconnue.</blockquote>
     </div>
@@ -149,6 +175,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       </ul>
       <blockquote>Dans <strong>Cheat Your Own Adventure</strong>, vous incarnez tour à tour le Lecteur d'un livre-dont-vous-êtes-le-héros
       et le Narrateur qui offre des choix de pages où se rendrent ensuite. Réussirez-vous à aller au bout de l'aventure sans revenir en arrière ?</blockquote>
+      <hr>
       <blockquote><strong>Le dernier café sur la gauche</strong> est un court jeu narratif dont la particularité est qu'il recommandé de ne <strong>pas</strong>
       le lire entièrement avant de jouer, mais au fur et à mesure au cour de la partie.</blockquote>
     </div>
@@ -207,10 +234,10 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       </ul>
       <blockquote>Dans <strong>Scavengers</strong> vous jouez un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
         et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.</blockquote>
-      <br><br>
+      <br>
       Cette aide de jeu contient:<ul>
         <li>de quoi décrire votre vaisseau, avec en particulier une table d'anomalies</li>
-        <li>des playbooks & Trouble Obsessionnel Compulsifs pour vos PJs</li>
+        <li>des playbooks &amp; Trouble Obsessionnel Compulsifs pour vos PJs</li>
         <li>une règle optionnelle, le compas d'humeurs</li>
         <li>des cachotteries de mission, incluant des contrats bonus</li>
         <li>des imprévus de voyages, certains tendant vers l'horreur cosmique</li>

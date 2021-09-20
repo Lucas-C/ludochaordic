@@ -584,7 +584,20 @@ And possibly: `after:2020-01-01` / `before:2020-01-01`
 
 Dedicated to Vector graphics & flat / ClipArt images:
 
-- [freesvg.org](https://freesvg.org)
+- [freesvg.org](https://freesvg.org) - CC0
+    * [Ancient dragon head](https://freesvg.org/ancient-dragon-head)
+    * [Fantasy Knight 2](https://freesvg.org/1527042374)
+    * [Zombie creature](https://freesvg.org/zombie-creature)
+    * [Death poster](https://freesvg.org/death-poster)
+    * [Dead reanimated](https://freesvg.org/deadreanimated)
+    * [Vector illustration of monster guy in suit](https://freesvg.org/vector-illustration-of-monster-guy-in-suit)
+    * [trianglemaninsuit](https://freesvg.org/trianglemaninsuit)
+    * [Man wearing mantle](https://freesvg.org/man-wearing-mantle)
+    * [Lady Flower Frame](https://freesvg.org/1548320024)
+    * [hooded man](https://freesvg.org/hooded-man-56837)
+    * [Shifty people](https://freesvg.org/shifty-people)
+    * [Black and white image of speaking man](https://freesvg.org/black-and-white-image-of-speaking-man)
+    * [Female Warrior](https://freesvg.org/female-warrior)
 - [svgrepo.com](https://www.svgrepo.com)
 - [CocoMaterial, the Open Source hand-drawn illustration library](https://cocomaterial.com/)
 - [Blush free graphics](https://blush.design/collections)
@@ -719,6 +732,7 @@ Go on and suggest artists to be added to this list by dropping a comment below !
 <style>
 article h2 + ul > li { margin-bottom: 2rem; }
 @media (min-width:768px) {
-  article h2 + ul > li > ul { columns: 2; }
+  article h2 + ul > li > ul,
+  #image-banks + p + ul + p + ul > li > ul { columns: 2; }
 }
 </style>
