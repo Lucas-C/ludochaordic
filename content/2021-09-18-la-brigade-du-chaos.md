@@ -25,8 +25,8 @@ J'ai récidivé : ayant déjà [traduit plusieurs courts jeux de rôle de M. Gra
 je viens de publier une traduction gratuite, avec l'accord de [Rowan, Rook and Decard](https://rowanrookanddecard.com),
 de son fantastique jeu _**Havoc Brigade**_.
 
-[![Couverture du jeu Havoc Brigade](images/2021/09/Havoc-Brigade-cover.jpg)](https://lucas-c.itch.io/la-brigade-du-chaos)
-<center>(cliquez sur l'image pour accéder au jeu)</center>
+<em>[![Couverture du jeu Havoc Brigade](images/2021/09/Havoc-Brigade-cover.jpg)](https://lucas-c.itch.io/la-brigade-du-chaos)
+<center>(cliquez sur l'image pour accéder au jeu)</center></em>
 
 > Incarnez la Brigade du Chaos, une escouade d'orcs chahuteurs en mission pour « infiltrer » une ville humaine afin de kidnapper l'ignoble prince Holstein.
 
@@ -49,7 +49,13 @@ _Marvel Superheroic Roleplaying_ et l'excellent _Lady Blackbird_ de John Harper.
 
 <img class="comic-strip" alt="BD" src="images/2021/09/havoc-brigade-comic-strip.png">
 
+<center><em>
+Portraits : [Jeff Preston](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+/ Licorne : [Mariana Ruiz Villarreal (LadyofHats)](https://commons.wikimedia.org/wiki/File:DnD_Unicorn.png) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
+</em></center>
+
 ---
+<br>
 
 Comme j'ai adoré ce jeu, après l'avoir fait jouer plusieurs fois,
 j'ai décidé de concevoir une courte aide de jeu,
@@ -58,7 +64,7 @@ afin d'enrichir le matériel ludique et de partager quelques conseils aux MJs qu
 Voici donc **Freiberg, nid d'espions**:
 
 [![Couverture de l'aide de jeu Freiberg, nid d'espions](images/2021/09/medieval_city_concept_by_davidhueso.jpg)](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions)
-<center>(cliquez sur l'image pour accéder à cette aide de jeu)</center>
+<em><center>(cliquez sur l'image pour accéder à cette aide de jeu)</center></em>
 
 Merci à Aurélien, Henri, Loic & Thomas pour les parties de test !
 
