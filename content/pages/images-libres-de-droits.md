@@ -611,6 +611,7 @@ Dedicated to games:
 - [craftpix freebies](https://craftpix.net/freebies/) : free 2D game assets
 - [OpenGameArt](https://opengameart.org)
     * [WTactics](https://opengameart.org/content/wtactics) / [@GitHub](https://github.com/wtactics/art/tree/master) - [preview board](https://arcmage.org/artwork/) - CC BY-SA
+- [Open source board game box art icons](https://sinisterdesign.net/open-source-board-game-box-art-icons/)
 
 Mostly photos:
 
@@ -655,6 +656,7 @@ Old public domain illustrations & photos:
 
 # Icons
 - [Game-icons.net](https://game-icons.net)
+- [Noun Project](https://thenounproject.com)
 - [Loading.io](https://loading.io) : animated icons
 - [hand-drawn famous buildings throughout the world @ SVG repo](https://www.svgrepo.com/vectors/hand-drawn-travel/)
 - [ICONFINDER all _gaming_ icons](https://www.iconfinder.com/gaming-gambling-icons?price=free)
