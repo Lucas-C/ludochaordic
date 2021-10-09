@@ -5,7 +5,7 @@ Status: hidden
 ---
 
 <figure>
-  <video autoplay loop style="display: block; margin: auto">
+  <video autoplay loop>
     <source src="images/bitd/emperor_of_steelcity-animated-wallpaper.mp4">
   </video>
   <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/eo7dkx/wanted_an_animated_wallpaper_made_an_animated/">emperor_of_steelcity animated wallpaper on Reddit</a></figcaption>
@@ -772,9 +772,20 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
     * un objet permettant, telle une baguette de sourcier macabre, de trouver où sont les morts à proximité
 
 
-## Session 9 - ?
+## Session 9 - 16 octobre 2021
 
-![Portrait de Lodius en pied](images/bitd/Lodius-en-pied.jpg)
+<figure>
+  <img alt="Portrait de Lodius en pied" src="images/bitd/Lodius-en-pied.gif">
+  <figcaption><a href="images/bitd/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
+              GIF créé avec <a href="https://icons8.com/animizer/en/animate-static-image">Animizer</a> puis retouché avec <a href="https://ezgif.com/effects">EZGIF</a></figcaption>
+</figure>
+
+<figure>
+  <video autoplay loop>
+    <source src="https://chezsoi.org/lucas/blog/images/bitd/Lodius-en-pied-moshed.webm">
+  </video>
+  <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
+</figure>
 
 <!-- Idées :
 * début de partie : BitD-IntroText.png
@@ -814,12 +825,17 @@ TO MENTION:
   * [Scurlock Manor](https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0)
   * [Doskvol Riots of 847](https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0)
   * [Gaddoc Rail](https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0)
+  * [The Crystal Cleaver of Griezt](https://www.reddit.com/r/bladesinthedark/comments/nc7klz/a_1page_heist_the_crystal_cleaver_of_griezt/)
   * One-Shot : [The Soul Merchants](https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit)
 -> l'idée des "ghost dealers" est très chouette !
 > Most citizens of Duskwall are terrified of ghosts. Lost, mad, destructive spirits, whose only desire is to return to the warm embrace of a warm body. They’ve lost their own, but are eager to adopt yours.
 > But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
++ Eye of Kotar: allows the user to see events currently happening anywhere in the world.
+  User gains knowledge, and each use ticks a clock of someone seeing back at the user's actions.
 
-TO ADD to Pinterest: https://wallpaperaccess.com/bloodborne-city
+Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view
+
+Visuals: https://www.reddit.com/r/bladesinthedark/comments/nezxjh/header_images_for_duskwall_districts/
 
 Demons & creatures in the Ghost Field:
 * https://www.deviantart.com/carpet-crawler/art/Rooster-Knight-Splash-Animation-876402753
@@ -847,7 +863,7 @@ Maps:
     margin: .1rem;
   }
 }
-article img {
+article img, article video {
   max-height: 80vh;
   display: block;
   margin: 0 auto;

@@ -363,6 +363,8 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Aluum (slave-soul-powered construct guardian)](https://www.deviantart.com/whodrewthis/art/Aluum-120141667) - CC BY-NC-SA
     * [Hill Giant](https://www.deviantart.com/whodrewthis/art/Hill-Giant-594057657) - CC BY
     * [Taiko Hadashi - wizard tengu](https://www.deviantart.com/whodrewthis/art/Taiko-Hadashi-589714235) - CC BY
+    * [Robot- Wretch](https://www.deviantart.com/whodrewthis/art/Robot-Wretch-889868599) - CC BY
+    * [Numerian Scav Flailer](https://www.deviantart.com/whodrewthis/art/Numerian-Scav-Flailer-889373883) - CC BY
 - [Michael Richards _aka_ Butteredbap](https://www.deviantart.com/butteredbap/gallery) : **some** CC BY
 > Senior concept artist currently working at Playground-Games. United Kingdom.
     * [Tribal Woman](https://www.deviantart.com/butteredbap/art/Tribal-Woman-412509631)
@@ -507,6 +509,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 
 ## Projects & game assets
 - [Glitch](https://www.glitchthegame.com/public-domain-game-art/) : ![thumbnail](https://www.glitchthegame.com/img/locations_ix.v1520324238.jpg) - ![thumbnail](https://www.glitchthegame.com/img/locations_firebog.v1520324238.jpg)
+    * [Glitch tag on freesvg.org](https://freesvg.org/tag/glitch)
 - [Eclipse Phase](http://www.eclipsephase.com/cclicense)
     * [Sunward Images - Reformatted](http://www.eclipsephase.com/sunward-images-reformatted)
       <!-- links extracted in [imgur.com_a_31U0S.html](imgur.com_a_31U0S.html) due to imgur scroll bug -->
@@ -587,6 +590,7 @@ Dedicated to Vector graphics & flat / ClipArt images:
 - [freesvg.org](https://freesvg.org) - CC0
     * [Ancient dragon head](https://freesvg.org/ancient-dragon-head)
     * [Fantasy Knight 2](https://freesvg.org/1527042374)
+    * [Mr Hyde](https://freesvg.org/mr-hyde)
     * [Zombie creature](https://freesvg.org/zombie-creature)
     * [Death poster](https://freesvg.org/death-poster)
     * [Dead reanimated](https://freesvg.org/deadreanimated)
@@ -598,6 +602,12 @@ Dedicated to Vector graphics & flat / ClipArt images:
     * [Shifty people](https://freesvg.org/shifty-people)
     * [Black and white image of speaking man](https://freesvg.org/black-and-white-image-of-speaking-man)
     * [Female Warrior](https://freesvg.org/female-warrior)
+    * [Wild knight](https://freesvg.org/wild-knight)
+    * [Hill castle silhouette](https://freesvg.org/hill-castle-silhouette)
+    * [Elf princess](https://freesvg.org/elf-princess)
+    * [Elf princess sketch image](https://freesvg.org/elf-princess-sketch-image)
+    * [Attack the Tower 3rd Gen](https://freesvg.org/results)
+    * [Yellow Green Leafy Sea Dragon](https://freesvg.org/1526744332)
 - [svgrepo.com](https://www.svgrepo.com)
 - [CocoMaterial, the Open Source hand-drawn illustration library](https://cocomaterial.com/)
 - [Blush free graphics](https://blush.design/collections)
