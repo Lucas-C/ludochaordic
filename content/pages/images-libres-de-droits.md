@@ -395,6 +395,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Killer Croc](https://www.deviantart.com/hijodelopio/art/Kiler-Croc-Btas-764337009)
     * [Red Oni](https://www.deviantart.com/hijodelopio/art/Red-Oni-764338573)
     * [Shinobi Saipat](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581)
+    * [Ogre worker](https://www.deviantart.com/hijodelopio/art/Ogre-Worker-894642371)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
 > Artist, game developper & composer from Paris, France.
     * [dame blanche](https://www.deviantart.com/joke-biloumaster/art/2014-04-22-Crob-1-493705401)
@@ -454,6 +455,19 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Goblin's Pike - Swamp Goblins](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Swamp-Goblins-888473663)
     * [Goblin's Pike - Tree Statue](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Tree-Statue-881074015)
     * [Sleepy Cave Dragon](https://www.deviantart.com/alexander-werner-jr/art/Sleepy-Cave-Dragon-888474721)
+- [Kieu Nguyen @Pixabay](https://pixabay.com/fr/users/vank_ngn-18684180/?tab=popular)
+    * [house couple street sketch style](https://pixabay.com/fr/illustrations/loger-coupler-rue-esquisser-style-5650706/)
+    * [boat vietnamese culture sketch](https://pixabay.com/fr/photos/bateau-la-culture-vietnamienne-5733038/)
+- [Piyapong Saydaung @Pixabay](https://pixabay.com/fr/users/saydung89-18713596/?tab=popular)
+    * [woman cellphone technology call](https://pixabay.com/fr/vectors/femme-t%c3%a9l%c3%a9phone-portable-5716875/)
+    * [girl tired student bored depressed](https://pixabay.com/fr/illustrations/fille-fatigu%c3%a9-%c3%a9tudiant-ennuyait-6024567/)
+    * [monsters children happy kids](https://pixabay.com/fr/illustrations/monstres-enfants-content-enfance-6032084/)
+    * [tent camp trees forest woods](https://pixabay.com/fr/illustrations/tente-camp-des-arbres-for%c3%aat-6024521/)
+- [Cdd20 @Pixabay](https://pixabay.com/fr/users/%E6%84%9A%E6%9C%A8%E6%B7%B7%E6%A0%AAcdd20-1193381/?tab=popular)
+    * [fantasy lighting man one man show](https://pixabay.com/fr/illustrations/fantaisie-%c3%a9clairage-homme-4065924/)
+    * [book read novel light painting](https://pixabay.com/fr/illustrations/livre-lis-roman-l%c3%a9ger-la-peinture-5946219/)
+    * [fairy tales elephants smoke myths](https://pixabay.com/fr/illustrations/les-contes-de-f%c3%a9es-%c3%a9l%c3%a9phants-fum%c3%a9e-4057425/)
+    * [cartoon painting universe hood stars](https://pixabay.com/fr/illustrations/dessin-anim%c3%a9-la-peinture-univers-5124000/)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 
 ## From last century
@@ -498,6 +512,9 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - some _League of Legends_ illustrations by [Spellshuei](https://www.deviantart.com/spellshuei/gallery):
     * [Jax](https://www.deviantart.com/spellshuei/art/League-of-Legends-Jax-378242620) - CC BY-NC-SA &
     * [Shen / Blood Moon](https://www.deviantart.com/spellshuei/art/League-of-Legends-Shen-Blood-Moon-296075743) - CC BY
+- Artworkids (Pixabay license =~ CC0):
+    * [Asiatic tower](https://pixabay.com/fr/vectors/art-illustration-dessin-peinture-4226052/)
+    * [Monster & rainbow castle](https://pixabay.com/fr/vectors/enfants-dessin-ouvrages-d-art-art-4206920/)
 - [Sam Hogg - Bright sci-fi characters](https://www.artstation.com/artwork/rRA6J) : CC BY-NC-SA
 - [Raphaël CLOZEAU - Blue-haired one-eyed girl](https://www.artstation.com/artwork/2LkYx) : CC BY-NC-ND
 - [Elias Ainsworth (The Ancient Magus' Bride) by amgr99](https://www.deviantart.com/amgr99/art/Elias-Ainsworth-The-Ancient-Magus-Bride-791617132) : CC BY-SA
@@ -569,7 +586,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - [Google images](https://www.google.fr/search?site=imghp&tbm=isch&tbs=sur:f&gws_rd=cr&dcr=0&ei=57lCWp-8LsalUdaugOAI) -
 Useful syntax: `(artwork|clipart|"concept art"|illustration|drawing|painting|comics) -"No Derivative" -site:intergalacticrobot.blogspot.com` -
 And possibly: `after:2020-01-01` / `before:2020-01-01`
-- [DeviantArt Creative Commons via Google](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-%22No+Derivative+Works%22+-mandala)
+- [DeviantArt Creative Commons via Google](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-%22No+Derivative+Works%22+-mandala-"User Profile")
 - [CCSearch](https://search.creativecommons.org/search)
 - [Flickr CC search](https://www.flickr.com/search/?l=cc)
     * example: [British Library castles](https://www.flickr.com/search/?w=12403504%40N02&q=castle)
