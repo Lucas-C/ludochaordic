@@ -17,7 +17,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">La Brigade du Chaos</h2>
-    <img class="uk-align-center" src="../images/2021/09/Havoc-Brigade-cover.jpg" alt="Couverture du jeu Havoc Brigade">
+    <img class="uk-align-center" src="images/2021/09/Havoc-Brigade-cover.jpg" alt="Couverture du jeu Havoc Brigade">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Traduction d'un jeu de 25 pages<br>&amp; aide de jeu maison</dd>
