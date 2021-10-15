@@ -8,12 +8,43 @@ Status: hidden
   <video autoplay loop>
     <source src="images/bitd/emperor_of_steelcity-animated-wallpaper.mp4">
   </video>
-  <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/eo7dkx/wanted_an_animated_wallpaper_made_an_animated/">emperor_of_steelcity animated wallpaper on Reddit</a></figcaption>
+  <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/eo7dkx/wanted_an_animated_wallpaper_made_an_animated/">emperor_of_steelcity animated wallpaper @ Reddit</a></figcaption>
 </figure>
 
-[Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) est un jeu de rôle médiéval-fantastique créé par John Harper
-et mettant en scène un gang de criminels en quête de fortune dans les rues hantées de Doskvol, une ville d'un univers fictif de Dark fantasy.
+### Le _pitch_
+[Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) est un jeu de rôle de John Harper
+où vous incarnez un groupe de scélérats audacieux qui établit son entreprise criminelle dans les rues hantées
+d'une ville industrielle de _dark fantasy_.
 
+Vivez des braquages, des poursuites, des évasions, des pactes dangereux, des escarmouches sanglantes, des tromperies,
+des trahisons, des victoires et des morts.
+Jouez pour savoir si votre gang naissant peut prospérer entre vos rivaux dans la pègre, de puissantes familles nobles,
+des fantômes vengeurs et les _Bluecoats_ de La Garde... sans succomber à vos propres vices.
+
+### L'univers
+Le jeu se déroule dans la ville industrielle, froide et brumeuse de **Doskvol** (alias Duskwall ou encore "la ville crépusculaire").
+Imaginez un monde semblable au nôtre lors de la deuxième révolution industrielle des années 1870 :
+il y a des trains, des bateaux à vapeur, des presses à imprimer, de la technologie électrique simple, des voitures
+et le brouillard noir des fumées de cheminée est omniprésent.
+Doskvol est un mélange de Venise, Londres et Prague. La ville est encombrée de maisons en rangée et de rues sinueuses.
+Elle est sillonnée de centaines de petits cours d'eau et de ponts.
+
+<img class="small-img" style="float: left; margin-right: 1rem" alt="Soleil brisé" src="images/bitd/shattered-sun.webp">
+
+La ville est aussi fantastique. Le monde est dans l'obscurité perpétuelle et hanté par des fantômes
+résultant du cataclysme qui a brisé le soleil et ouvert les Portes de la Mort il y a mille ans.
+
+Les villes de l'empire sont chacune encerclées par des tours de foudre crépitantes pour les protéger des esprits vengeurs
+et autres horreurs monstrueuses issues des Terres de la Mort. Pour alimenter ces barrières massives, des vaisseaux métalliques
+titanesques nommés chasseurs de Léviathan sont envoyés de Doskvol sur la Mer du Vide pour chasser et extraire
+le sang électroplasmique de terreurs démoniaques massives.
+
+Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur d'un mur de foudre alimenté par du sang de démons.
+
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pmQScScPce4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Source:  <a href="https://www.reddit.com/r/bladesinthedark/comments/q0geo7/blades_in_the_dark_intro_fan_made/">Blades in the Dark intro [fan made] @ Reddit</a></figcaption>
+</figure>
 
 <!-- Pour mettre à jour ce sommaire: markdown-toc --indent "    " -i jdr-blades-in-the-dark.md -->
 
@@ -155,15 +186,15 @@ le gang des Crows a décidé de ne laisser passer aucune provocation d'aucun gan
 En toute transparence, Elaria informe également Bell que Baszos leur a proposé une alliance, mais qu'ils ne comptent pas l'accepter.
 Elle quitte ensuite les lieux pour retourner au galion.
 
-<figure role="group">
+<figure role="group" class="side-by-side">
   <a href="images/bitd/Thief_clocktower1.jpg" target="_blank">
-    <img class="small-img" alt="Clocktower concept art 1 de Mathieu Latour" src="images/bitd/Thief_clocktower1.jpg">
+    <img alt="Clocktower concept art 1 de Mathieu Latour" src="images/bitd/Thief_clocktower1.jpg">
   </a>
   <a href="images/bitd/Thief_clocktower2.jpg" target="_blank">
-    <img class="small-img" alt="Clocktower concept art 2 de Mathieu Latour" src="images/bitd/Thief_clocktower2.jpg">
+    <img alt="Clocktower concept art 2 de Mathieu Latour" src="images/bitd/Thief_clocktower2.jpg">
   </a>
   <a href="images/bitd/Thief_clocktower3.jpg" target="_blank">
-    <img class="small-img" alt="Clocktower concept art 3 de Mathieu Latour" src="images/bitd/Thief_clocktower3.jpg">
+    <img alt="Clocktower concept art 3 de Mathieu Latour" src="images/bitd/Thief_clocktower3.jpg">
   </a>
   <figcaption>Concept art de <a href="https://www.artstation.com/artwork/Yl1b">Mathieu Latour</a></figcaption>
 </figure>
@@ -595,7 +626,8 @@ qui suffit à les effrayer.
 </figure>
 
 Quelques heures avant l'aube, un molosse spectral s'avance sur la plage vers eux.
-Tentant tout d'abord de se cacher, Ethnos-Ludius finit par décharger sur la créature le barillet de son pistolet électroplasmique. Cela suffit à la faire reculer, mais elle hurle alors à la lune pour appeler à la rescousse sa meute entière.
+Tentant tout d'abord de se cacher, Ethnos-Ludius finit par décharger sur la créature le barillet de [son pistolet électroplasmique](https://www.reddit.com/r/bladesinthedark/comments/pvwu8v/maybe_a_little_more_modernlooking_than_most_of/).
+Cela suffit à la faire reculer, mais elle hurle alors à la lune pour appeler à la rescousse sa meute entière.
 Contraints de se réfugier dans les ruines du district pour y échapper,
 les PJs retiennent ensuite leur souffle au passage dans la rue d'un monstre sanguinolent
 [(vidéo illustrative : _Bloodborne Blood Beast_)](https://www.youtube.com/watch?v=Vtj19enwgSE).
@@ -672,7 +704,7 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 
 ## Session 8 - 17 avril 2021
 
-![Harpoon + Crow + Red Sash + White Eye](images/bitd/crow-harpoon-red-scard.jpg)
+<img class="small-img" alt="Harpoon + Crow + Red Sash + White Eye" src="images/bitd/crow-harpoon-red-scard.jpg">
 
 <figure>
   <img alt="Let's do this! - Ronamis" src="images/bitd/Ronamis-LetsDoThis.jpg">
@@ -694,18 +726,21 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
   </figure>
 </div>
 
-La partie débute par le rapport de l'espion Valeris, qui apprend au gang du Harpon de nombreuses informations sur le gang de l'Oeil Blanc :
+La partie débute par le rapport de l'espion **Valeris**, qui apprend au gang du Harpon de nombreuses informations sur le gang de l'Oeil Blanc :
 
-- le penchant pour Baszos Baz pour le culte d'aciens dieux et ses arrangements avec l'ordre du Cercle de la Flamme;
+- le penchant pour **Baszos Baz pour le culte d'aciens dieux** et ses arrangements avec **l'ordre du Cercle de la Flamme**;
 - le matériel dont ils disposent : bombes incendiaires, fourgonnette, armes à arc électrique...
-- leurs troupes : une trentaine de _thugs_, dont une grande part de mercennaires, une escouade d'experts en infiltration, _Les Cendreux_, et 2 lieutenants versés dans les arcanes
-- l'état de leurs opérations : buisness en berne depuis les offensives du Harpon, distillerie de drogue dans leur QG et bordels en cours de réapprovisonnement via le réseau de prostitution iruvien
+- leurs troupes : une trentaine de _thugs_, dont une grande part de mercennaires, une escouade d'experts en infiltration,
+  _Les Cendreux_, et 2 lieutenants versés dans les arcanes
+- l'état de leurs opérations : _business_ en berne depuis les offensives du Harpon, distillerie de drogue dans leur QG
+  et bordels en cours de réapprovisonnement via le réseau de prostitution iruvien
 
 Le Harpon paye son dû à l'espion, qui leur est reconnaissant et leur glisse en partant :
 
 > Si vous voulez mon humble avis, en ayant choisi de placer leur QG dans cet entrepôt de charbon, ils ont pris un sérieux risque d'incendie... 😉
 
-Ellipse et transition directe au coeur de l'action, alors que le gang au complet se dresse au milieu des flammes de l'incendie qui ravage l'entrepôt de charbon servant de QG à l'Oeil Blanc...
+Ellipse et transition directe au coeur de l'action, alors que **le gang au complet se dresse au milieu des flammes de l'incendie
+qui ravage l'entrepôt de charbon servant de QG à l'Oeil Blanc**...
 
 Un assaut rondement mené se déroule alors : Eric pulvérise un première poche de résistance qui s'était formée autour d'un lieutenant arcaniste de Baszos, récoltant une nouvelle tête pour sa collection, tandis qu'Elaria & Ethnos propagent l'incendie puis font dégringoler un autre arcaniste perché sur une grue, en faisant fondre sa base métallique !
 Il a néanmoins le temps de projeter une charge spectrale sur ses adversaires, qui sont
@@ -729,7 +764,7 @@ La victoire est assurée et la situation est sous contrôle.
 Il est décidé que les 3 gangs, Crows, Harpon & Écharpe Rouge se réuniront demain midi pour négocier la répartition du butin
 et du territoire de l'Oeil Blanc.
 
-Cette anhilation d'un gang vaut au gang du Harpon une telle hausse de leur réputation qu'**ils entrent véritablement dans
+Cette annihilation de l'Oeil Blanc vaut au gang du Harpon une telle hausse de leur réputation qu'**ils entrent véritablement dans
 « la cour des grands »**, devenant un gang majeur de Doskvol !
 Ils deviennent également une préoccupation plus sérieuse pour la milice, qui les a de plus en plus dans le colimateur...
 
@@ -737,10 +772,10 @@ Le lendemain matin, le gang entreprend donc d'essayer de rassurer la populace en
 puis de recruter des hommes : **Josef Tucker** tout d'abord, un _whisper_ versé dans les illusions, également ancien barman à la Goule Fendue devant de l'argent au gang, ainsi qu'une demi-douzaine de sous-fifres triés sur le volet.
 
 Ethnos-Ludius et Aldo se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire de l'Écharpe Rouge, mais Justinia manque au rendez-vous... Sur place, ils retrouvent Mylera, Oru et Bell. Les négociations se déroulent sans accroc :
-l'Écharpe Rouge récupère le territoire sud, les artefacts magiques que possédait Baszos et le buisness de la prostitution;
+l'Écharpe Rouge récupère le territoire sud, les artefacts magiques que possédait Baszos et le _business_ de la prostitution;
 les Crows conservent leur territoire et récupèrent la moitié du magot et tous les hommes restant de l'Oeil Blanc qu'ils souhaitent;
 le Harpon récupère les territoires Ouest (Limmerfield, Miser's Row, Saltridge) et l'autre moitié du magot.
-Quand au buisness de la drogue, il est décidé que l'Écharpe Rouge en reprendrait la production et les Crows la distribution
+Quand au _business_ de la drogue, il est décidé que l'Écharpe Rouge en reprendrait la production et les Crows la distribution
 dans les les lieux qui étaient tenus par l'Oeil Blanc, avec des profits qui seraient partagés pendant un an entre les 3 gangs.
 
 Juste après cette rencontre, le gang apprend que **Justinia a été arrêtée par les BlueCoats**.
@@ -774,30 +809,36 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
 
 ## Session 9 - 16 octobre 2021
 
-<figure>
-  <img alt="Portrait de Lodius en pied" src="images/bitd/Lodius-en-pied.gif">
-  <figcaption><a href="images/bitd/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
-              GIF créé avec <a href="https://icons8.com/animizer/en/animate-static-image">Animizer</a> puis retouché avec <a href="https://ezgif.com/effects">EZGIF</a></figcaption>
-</figure>
+<div class="side-by-side">
+  <figure>
+    <img alt="Portrait de Lodius en pied" src="images/bitd/Lodius-en-pied.gif">
+    <figcaption><a href="images/bitd/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
+                GIF créé avec <a href="https://icons8.com/animizer/en/animate-static-image">Animizer</a> puis retouché avec <a href="https://ezgif.com/effects">EZGIF</a></figcaption>
+  </figure>
+  <figure>
+    <video autoplay loop>
+      <source src="https://chezsoi.org/lucas/blog/images/bitd/Lodius-en-pied-moshed.webm">
+    </video>
+    <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
+  </figure>
+</div>
 
-<figure>
-  <video autoplay loop>
-    <source src="https://chezsoi.org/lucas/blog/images/bitd/Lodius-en-pied-moshed.webm">
-  </video>
-  <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
-</figure>
+
+### Ressources
+- ambiance musicale : [Blades in the Dark Ambience | Victorian City](https://www.youtube.com/watch?v=PuRFNzizkXs) par Luke Westaway, avec des timecodes dans la description de la vidéo
+- [one-page cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn)
+- plan du commissariat :
+    + intérieur : [The jailhouse](https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/)
+    + extérieur : [City streets & alleys](https://www.reddit.com/r/battlemaps/comments/jjmp7c/city_streets_and_alleys_25x45/)
+
 
 <!-- Idées :
-* début de partie : BitD-IntroText.png
 * anticiper ce que va proposer Lord Scurlock à Ethnos-Ludius
-* ACTION! *Il faut faire évader Justinia* -> trouver un plan du commissariat
-  + The jailhouse: https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/
-  + City streets & alleys: https://www.reddit.com/r/battlemaps/comments/jjmp7c/city_streets_and_alleys_25x45/
-* leur donner des scènes où ils sont BADASS
-
+* ACTION! *Il faut faire évader Justinia* -> cf. plan du commissariat
+* travailler le PNJ Josef Tucker
+* anticiper comportement factions "officielles" (Bluecoats & cie)
 * préparer des pistes de Scores / opportunités vis à vis des autres gangs,
 entre autres à partir des renseignements de Sylvia Derengathi
-
 * introduire les "artefacts multifonctions" -> définis à la partie précédente
 * logbook = game changer, va modifier équilibre des forces de la ville...
 * introduire un événement à gros impact sur la ville (ex: plus de soleil) idéalement lié aux actions des PJs
@@ -856,19 +897,14 @@ Maps:
 -->
 
 <style>
-@media screen and (min-width: 1200px) {
-  .small-img {
-    display: inline-block;
-    width: 30%;
-    margin: .1rem;
-  }
-}
-article img, article video {
+h1 { text-align: center; }
+article img, article video, article iframe {
   max-height: 80vh;
   display: block;
   margin: 0 auto;
 }
 article figcaption { text-align: center; }
+.small-img { max-height: 15rem; max-witdh: 15rem; }
 .side-by-side {
   display: flex;
   justify-content: center;
@@ -876,6 +912,7 @@ article figcaption { text-align: center; }
   flex-flow: wrap;
 }
 .side-by-side > * { flex: 1 0; padding: 0 .5rem; }
+.side-by-side > figcaption { min-width: 100%; }
 /* headless tables */
 article table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; margin: 0 auto; }
 article td, article th { font-weight: normal; padding: 5px 10px; text-align: left; }
