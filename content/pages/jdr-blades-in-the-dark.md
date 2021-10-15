@@ -29,7 +29,8 @@ et le brouillard noir des fumées de cheminée est omniprésent.
 Doskvol est un mélange de Venise, Londres et Prague. La ville est encombrée de maisons en rangée et de rues sinueuses.
 Elle est sillonnée de centaines de petits cours d'eau et de ponts.
 
-<img class="small-img" style="float: left; margin-right: 1rem" alt="Soleil brisé" src="images/bitd/shattered-sun.webp">
+<img class="small-img" style="float: left; margin-right: 1rem" alt="Soleil brisé" src="images/bitd/shattered-sun-glowing.gif">
+<!-- Built with: Gimp + Image Magick to turn PNG into a 40 frames GIF + webestools.com Animated Images Effects Generator -->
 
 La ville est aussi fantastique. Le monde est dans l'obscurité perpétuelle et hanté par des fantômes
 résultant du cataclysme qui a brisé le soleil et ouvert les Portes de la Mort il y a mille ans.
@@ -731,7 +732,7 @@ La partie débute par le rapport de l'espion **Valeris**, qui apprend au gang du
 - le penchant pour **Baszos Baz pour le culte d'aciens dieux** et ses arrangements avec **l'ordre du Cercle de la Flamme**;
 - le matériel dont ils disposent : bombes incendiaires, fourgonnette, armes à arc électrique...
 - leurs troupes : une trentaine de _thugs_, dont une grande part de mercennaires, une escouade d'experts en infiltration,
-  _Les Cendreux_, et 2 lieutenants versés dans les arcanes
+  **Les Cendreux**, et 2 lieutenants versés dans les arcanes
 - l'état de leurs opérations : _business_ en berne depuis les offensives du Harpon, distillerie de drogue dans leur QG
   et bordels en cours de réapprovisonnement via le réseau de prostitution iruvien
 
@@ -769,9 +770,12 @@ Cette annihilation de l'Oeil Blanc vaut au gang du Harpon une telle hausse de le
 Ils deviennent également une préoccupation plus sérieuse pour la milice, qui les a de plus en plus dans le colimateur...
 
 Le lendemain matin, le gang entreprend donc d'essayer de rassurer la populace en faisant circuler quelques rumeurs en leur faveur,
-puis de recruter des hommes : **Josef Tucker** tout d'abord, un _whisper_ versé dans les illusions, également ancien barman à la Goule Fendue devant de l'argent au gang, ainsi qu'une demi-douzaine de sous-fifres triés sur le volet.
+puis de recruter des hommes : **Josef Tucker** tout d'abord, un _whisper_ versé dans les illusions,
+également ancien barman à la Goule Fendue devant de l'argent au gang, ainsi qu'une demi-douzaine de sous-fifres triés sur le volet.
 
-Ethnos-Ludius et Aldo se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire de l'Écharpe Rouge, mais Justinia manque au rendez-vous... Sur place, ils retrouvent Mylera, Oru et Bell. Les négociations se déroulent sans accroc :
+Ethnos-Ludius et Aldo se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire
+de l'Écharpe Rouge, mais Justinia manque au rendez-vous... Sur place, ils retrouvent Mylera, Oru et Bell.
+Les négociations se déroulent sans accroc :
 l'Écharpe Rouge récupère le territoire sud, les artefacts magiques que possédait Baszos et le _business_ de la prostitution;
 les Crows conservent leur territoire et récupèrent la moitié du magot et tous les hommes restant de l'Oeil Blanc qu'ils souhaitent;
 le Harpon récupère les territoires Ouest (Limmerfield, Miser's Row, Saltridge) et l'autre moitié du magot.
@@ -785,6 +789,9 @@ Elaria envoie une des nouvelles recrues tagger la porte des WCs de Conway d'un m
 et tout le gang s'en va pavaner dans les territoires nouvellement acquis pour marquer leur présence.
 
 > « Je ne suis pas le boss mais tu seras mon goon. »
+
+<img class="small-img" style="float: right; margin-left: 1rem" alt="Soleil brisé" src="images/bitd/flame-circle-raster-bw.gif">
+<!-- Built with: Gimp + Image Magick to turn PNG into a 40 frames GIF + webestools.com Animated Images Effects Generator -->
 
 En fin de journée, Ethnos-Ludius tente de reprendre contact avec Grell Jayan, qui décline l'entrevue,
 puis avec **Lord Scurlock**, qui accepte une rencontre le lendemain à l'heure du thé chez lui.
