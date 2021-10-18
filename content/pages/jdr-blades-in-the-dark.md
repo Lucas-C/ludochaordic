@@ -47,34 +47,36 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
   <figcaption>Source:  <a href="https://www.reddit.com/r/bladesinthedark/comments/q0geo7/blades_in_the_dark_intro_fan_made/">Blades in the Dark intro [fan made] @ Reddit</a></figcaption>
 </figure>
 
-<!-- Pour mettre à jour ce sommaire: markdown-toc --indent "    " -i jdr-blades-in-the-dark.md -->
+<div class="side-by-side">
+  <a href="images/bitd/Doskvol-map.png" target="_blank"><img alt="Carte de Doskvol" src="images/bitd/Doskvol-map.png"></a>
+  <a href="images/bitd/CrowsFoot-map.jpg" target="_blank"><img alt="Carte de Crow's Foot" src="images/bitd/CrowsFoot-map.jpg"></a>
+  <a href="images/bitd/world-map.png" target="_blank"><img alt="Carte du monde" src="images/bitd/world-map.png"></a>
+</div>
 
-<!-- toc -->
-
-- [Session 1 - août 2017](#session-1---aout-2017)
-- [Session 2 - décembre 2017](#session-2---decembre-2017)
-    * [Questionnaire aux joueurs pour se synchroniser sur les attentes / envies de tout le monde](#questionnaire-aux-joueurs-pour-se-synchroniser-sur-les-attentes--envies-de-tout-le-monde)
-    * [Les points à avoir en tête au début de chaque session](#les-points-a-avoir-en-tete-au-debut-de-chaque-session)
-    * [Compte-rendu de partie](#compte-rendu-de-partie)
-    * [Éléments de l'univers établis durant la partie](#elements-de-lunivers-etablis-durant-la-partie)
-- [One-shot "préquelle" avec d'autres joueurs et le système Psi*Run](#one-shot-prequelle-avec-dautres-joueurs-et-le-systeme-psirun)
-- [Session 3 - février 2018](#session-3---fevrier-2018)
-    * [Ressources](#ressources)
-    * [Compte-rendu de partie](#compte-rendu-de-partie-1)
-- [Session 4 - avril 2018](#session-4---avril-2018)
-    * [Resources](#resources)
-    * [Compte-rendu de partie](#compte-rendu-de-partie-2)
-        + [Acte 1 - Vol de sang de Léviathan](#acte-1---vol-de-sang-de-leviathan)
-        + [Acte 2 - Un rituel qui tourne mal](#acte-2---un-rituel-qui-tourne-mal)
-- [Session 5 - 1er août 2019](#session-5---1er-aout-2019)
-- [Session 6 - 8 février 2020](#session-6---8-fevrier-2020)
-    * [Ressources](#ressources-1)
-- [Session 7 - 6 juin 2020](#session-7---6-juin-2020)
-    * [Ressources](#ressources-2)
-- [Session 8 - 17 avril 2021](#session-8---17-avril-2021)
-    * [Ressources](#ressources-3)
-
-<!-- tocstop -->
+- [Session 1 - août 2017](pages/jdr-blades-in-the-dark.html#session-1-ao-t-2017)
+- [Session 2 - décembre 2017](pages/jdr-blades-in-the-dark.html#session-2-d-cembre-2017)
+    * [Questionnaire aux joueurs pour se synchroniser sur les attentes / envies de tout le monde](pages/jdr-blades-in-the-dark.html#questionnaire-aux-joueurs-pour-se-synchroniser-sur-les-attentes-envies-de-tout-le-monde)
+    * [Les points à avoir en tête au début de chaque session](pages/jdr-blades-in-the-dark.html#les-points-avoir-en-t-te-au-d-but-de-chaque-session)
+    * [Compte-rendu de partie](pages/jdr-blades-in-the-dark.html#compte-rendu-de-partie)
+    * [Éléments de l'univers établis durant la partie](pages/jdr-blades-in-the-dark.html#l-ments-de-l-univers-tablis-durant-la-partie)
+- [One-shot "préquelle" avec d'autres joueurs et le système Psi*Run](pages/jdr-blades-in-the-dark.html#one-shot-pr-quelle-avec-d-autres-joueurs-et-le-syst-me-psi-run)
+- [Session 3 - février 2018](pages/jdr-blades-in-the-dark.html#session-3-f-vrier-2018)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources)
+    * [Compte-rendu de partie](pages/jdr-blades-in-the-dark.html#compte-rendu-de-partie)
+- [Session 4 - avril 2018](pages/jdr-blades-in-the-dark.html#session-4-avril-2018)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-2)
+    * [Compte-rendu de partie](pages/jdr-blades-in-the-dark.html#compte-rendu-de-partie-2)
+        + [Acte 1 - Vol de sang de Léviathan](pages/jdr-blades-in-the-dark.html#acte-1-vol-de-sang-de-l-viathan)
+        + [Acte 2 - Un rituel qui tourne mal](pages/jdr-blades-in-the-dark.html#acte-2-un-rituel-qui-tourne-mal)
+- [Session 5 - 1er août 2019](pages/jdr-blades-in-the-dark.html#session-5-1er-ao-t-2019)
+- [Session 6 - 8 février 2020](pages/jdr-blades-in-the-dark.html#session-6-8-f-vrier-2020)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-3)
+- [Session 7 - 6 juin 2020](pages/jdr-blades-in-the-dark.html#session-7-6-juin-2020)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-4)
+- [Session 8 - 17 avril 2021](pages/jdr-blades-in-the-dark.html#session-8-17-avril-2021)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-5)
+- [Session 9 - 16 octobre 2021](pages/jdr-blades-in-the-dark.html#session-9-16-octobre-2021)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-6)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -114,20 +116,22 @@ _→ **3/3** ok_
 <img alt="le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
 
 - le gang des PJs découvrent une page du _logbook_ tachée de sang dans les affaires de Stravul
-- Ethnos envisage de remplacer Ludius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
+- Ethnos envisage de remplacer Lodius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
 mais Elaria refuse tout en bloc : pas question de remplacer leur _leader_, il faut le sauver !
-- le gang s'organise pour se venger du gang de l'Œil Blanc : ils décident tout d'abord de balancer aux _Bluecoats_, via leur contact **Conway**, leur bordel installé dans un poste de garde de la milice
-- Eleria rend visite à **Grell Jayan**, où elle peut enfin avoir une entrevue avec Ludius, en piteux état
+- le gang s'organise pour se venger du gang de l'Œil Blanc : ils décident tout d'abord de balancer aux _Bluecoats_,
+via leur contact **Conway**, leur bordel installé dans un poste de garde de la milice
+- Eleria rend visite à **Grell Jayan**, où elle peut enfin avoir une entrevue avec Lodius, en piteux état
 - le gang des PJs organise une descente dans un point de revente de drogue de l'Œil Blanc, au sous-sol d'un hôtel.
 Tout se passe très bien et ils éliminent un des lieutenants de leur gang: **Pickett**
 - nouvelle visite à Jayan, où les PJs établissent un deal : contre l'autorisation de faire une copie du _logbook_,
-il va organiser une cérémonie pour désenvoûter Ludius. Le gang doit toutefois trouver un tatoueur d'ici demain soir, pour participer au rituel
+il va organiser une cérémonie pour désenvoûter Lodius. Le gang doit toutefois trouver un tatoueur d'ici demain soir, pour participer au rituel
 
 ### Éléments de l'univers établis durant la partie
-- la sœur de Ludius, **Justinia**, était en voyage et rentre demain
+- la sœur de Lodius, **Justinia**, était en voyage et rentre demain
 - les _physickers_ consomment des potions d'alchimiste pour modifier leur corps
 - gang **Œil Blanc** == **Lampbacks** dans le bouquin VO
-- le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence, et déjà le gang de l'Œil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
+- le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence,
+et déjà le gang de l'Œil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
 
 
 ## One-shot "préquelle" avec d'autres joueurs et le système Psi*Run
@@ -202,7 +206,7 @@ Elle quitte ensuite les lieux pour retourner au galion.
 
 - une fois arrivée, elle retrouve Ethnos qui lui apprend la mésaventure d'Eric.
 Elle éclate alors de rage face à la situation du gang qui devient de plus en plus désastreuse.
-- c'est alors que Justinia, la sœur de Ludius, se présente à l'entrée du repaire.
+- c'est alors que Justinia, la sœur de Lodius, se présente à l'entrée du repaire.
 Elaria l'accueille et lui résume les derniers événements.
 Justinia, furieuse et inquiète, se rend immédiatement chez Grell Jayan
 - Elaria décide de noyer sa colère personnelle dans l'alcool, et se rend au match de lutte auquel participe Melvir.
@@ -231,7 +235,7 @@ et quelques pièces.
 </figure>
 
 ## Session 4 - avril 2018
-### Resources
+### Ressources
 Un peu de musique:
 
 - <https://www.reddit.com/r/bladesinthedark/comments/653i60/music_in_the_dark/>
@@ -241,8 +245,7 @@ Un peu de musique:
 
 #### Acte 1 - Vol de sang de Léviathan
 - Justinia leur annonce qu'elle a trouvé un tatoueur pour le rituel de Grell Jayan,
-mais qu'il demande un baril de sang de Léviathan pour le tatouage,
-comme paye et comme composant au rituel
+mais qu'il demande un baril de sang de Léviathan pour le tatouage, comme paye et comme composant au rituel
 - les PJs décident de se renseigner sur les derniers arrivages de navires chasseurs de Léviathan,
 et apprennent que l'un d'eux est actuellement en cours de déchargement et d'entretien aux chantiers navals.
 D'après la rumeur, des fantômes auraient semé la panique sur place la nuit précédente
@@ -273,10 +276,10 @@ heureusement déjà découpée à la scie par Aldo pour laisser s'enfuir Ethnos
 - les PJs terminent donc cette opération d'extraction sans encombre, avec deux tonnelets de sang de Léviathan récoltés
 
 #### Acte 2 - Un rituel qui tourne mal
-- les PJs assistent au rituel de Grell Jayan pour réincorporer l'âme de Ludius,
+- les PJs assistent au rituel de Grell Jayan pour réincorporer l'âme de Lodius,
 en cercle dans sa demeure, aux côtés de Justinia, Melvir, Aldo et quelques disciples de Grell,
 éclairés à la lumière de flambeaux dansants tandis que le tatoueur termine d'inscrire un complexe motif sur la peau de leur chef
-- alors que Grell conclue une longue psalmodie, les tatouages se mettent à onduler sur le corps de Ludius qui tremble.
+- alors que Grell conclue une longue psalmodie, les tatouages se mettent à onduler sur le corps de Lodius qui tremble.
 Le tatoueur s'éclipse et Justinia s'approche aux côtés de ce frère qui semble de réveiller lentement.
 - soudain, des coups sont frappés à la porte à l'étage. Un des disciples de Grell Jayan va ouvrir
 et on entend distinctement le bruit d'une lame déchirant les chairs et d'un corps s'écroulant au sol
@@ -295,11 +298,11 @@ Elle élimine le tatoueur qui tentait de s'enfuir, et alors que son corps tombe 
 **le fantôme de Roric** surgit de l'eau bouillonnante en hurlant "Vengeance !"
 - repoussé par une amulette de Lyssa, il s'élève à l'étage, où Grell tente de le contrôler.
 Ethnos lui tire finalement dessus avec ses munitions ectoplasmiques.
-Blessé, en partie exorcisé, le fantôme se jette sur Ethnos et Ludius tout proche, dans lesquels il disparaît.
-- Ethnos ne peut plus ouvrir ses mains, agrippées à Ludius, alors que le tatouage semble migrer en rampant sur leur peau de l'un à l'autre.
+Blessé, en partie exorcisé, le fantôme se jette sur Ethnos et Lodius tout proche, dans lesquels il disparaît.
+- Ethnos ne peut plus ouvrir ses mains, agrippées à Lodius, alors que le tatouage semble migrer en rampant sur leur peau de l'un à l'autre.
 Puis tout bascule, et leur conscience change de corps !
 - le corps d'Ethnos, possédé par Roric, se relève, saisit deux épées et bondit à travers deux étages pour charger Lyssa en hurlant.
-A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de lui rendre son corps.
+A ses trousses, Ethnos dans le corps de Lodius lui cours après en lui criant de lui rendre son corps.
 - Ethnos réussit finalement à exorciser Roric de son corps. Lyssa et ses hommes de replient, et le gang du Harpon fait de même
 
 ## Session 5 - 1er août 2019
@@ -309,19 +312,23 @@ A ses trousses, Ethnos dans le corps de Ludius lui cours après en lui criant de
   <figcaption>Le personnage d'Ethnos par Elliot Jolivet aka Tenseï</figcaption>
 </figure>
 
-- la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec Aldo, Justinia et Melvir, mais aussi Grell Jayan blessé au ventre et le corps inanimé d'Ethnos
+- la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec Aldo, Justinia et Melvir,
+mais aussi Grell Jayan blessé au ventre et le corps inanimé d'Ethnos
 
-- Ethnos, dans le corps de Ludius recouvert d'étranges tatouages mouvants, entrepose son corps originel au milieu de sacs de sel,
-et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe. Elle finit par sortir, furieuse, en claquant la porte.
+- Ethnos, dans le corps de Lodius recouvert d'étranges tatouages mouvants, entrepose son corps originel au milieu de sacs de sel,
+et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe.
+Elle finit par sortir, furieuse, en claquant la porte.
 
-- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ; Ethnos étudie des grimoires dans le bureau - bibliothèque de Ludius pour trouver un moyen de retrouver son corps ;
+- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ;
+Ethnos étudie des grimoires dans le bureau--bibliothèque de Lodius pour trouver un moyen de retrouver son corps ;
 Elaria dépouille **Toni les deux saucisses**, un boucher de Beef Market, de sa recette hebdomadaire, avec l'aide d'une mendiante qui l'a mise sur le coup
 
-- au petit matin, le gang fait le point sur la situation. Ethnos révèle au groupe qu'il est bien malgré lui désormais dans le corps de Ludius.
+- au petit matin, le gang fait le point sur la situation. Ethnos révèle au groupe qu'il est bien malgré lui désormais dans le corps de Lodius.
 Il est convenu qu'il joue son rôle tant qu'une solution n'est pas trouvée pour qu'il réintègre le sien
 
-- après quelques discussions, un plan émerge : le gang du Harpon va approcher celui de l'Écharpe Rouge et conclure un deal avec Bell pour se partager la portion du territoire Crows de Lyssa et l'évincer.
-Tandis qu'Elaria & Ethnos-Ludius se rendent à l'école de l'Écharpe Rouge, Eric va repérer les lieux au niveau du lupanar où Lyssa a établi son quartier général.
+- après quelques discussions, un plan émerge : le gang du Harpon va approcher celui de l'Écharpe Rouge et conclure un deal avec Bell
+pour se partager la portion du territoire Crows de Lyssa et l'évincer.
+Tandis qu'Elaria & Ethnos-Lodius se rendent à l'école de l'Écharpe Rouge, Eric va repérer les lieux au niveau du lupanar où Lyssa a établi son quartier général.
 En effet, son activité principal au sein du gang Crows étant le racket et la gestion de bordel, tandis que Bell s'occupe surtout du trafic d'armes.
 
 > Eh, ya plein de fois où j'ai tabassé personne ! - Eric
@@ -329,18 +336,22 @@ En effet, son activité principal au sein du gang Crows étant le racket et la g
 - les autres membres du gang ont également de quoi s'occuper : Melvir garde la baraque et veille sur le corps d'Ethnos;
 Aldo fait courir le bruit auprès de ses anciens frères d'arme chez les Crows
 que **Rorik est revenu d'entre les morts punir la traîtresse Lyssa** et quel le gang du Harpon soutient Bell;
-Justinia contacte les fidèles de Grell Jayan ayant survécu pour le leur confier, et a fini par céder et accepter de rencontrer Conway pour un rencard à contre-cœur...
+Justinia contacte les fidèles de Grell Jayan ayant survécu pour le leur confier, et a fini par céder et accepter de rencontrer Conway
+pour un rencard à contre-cœur...
 
-- après avoir fait parvenir un message à l'Écharpe Rouge annonçant leur intention de leur rendre visite en apportant un cadeau, Ethnos-Ludius et Elaria se rendent à leur école centrale.
+- après avoir fait parvenir un message à l'Écharpe Rouge annonçant leur intention de leur rendre visite en apportant un cadeau,
+Ethnos-Lodius et Elaria se rendent à leur école centrale.
 Ils y sont reçu avec faste, et invités à déjeuner autour d'un banquet raffiné en compagnie de leur chef **Mylera Klev** et d'un de ses lieutenants les plus anciens, **Oru**.
 Le gang du harpon leur remet l'équivalent d'un demi-tonnelet de sang de Léviathan, placé dans des fioles ornementées, et leur cadeau est très bien reçu.
-L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
+L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse
+le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
 <figure>
   <img alt="Ethnos" src="images/bitd/sebastian-bauer-dojo-05.jpg">
   <figcaption>Le dojo de l'Écharpe Rouge</figcaption>
 </figure>
 
-- de son côté Eric observe d'abord le lupanar depuis le bar d'en face, puis retrouve une prostituée qu'il connait et décide de s'adonner à son vice en allant y passer du bon temps avec elle...
+- de son côté Eric observe d'abord le lupanar depuis le bar d'en face, puis retrouve une prostituée qu'il connait
+et décide de s'adonner à son vice en allant y passer du bon temps avec elle...
 pour finalement se faire chasser par les videurs car il gêne les autres clients en faisant trop de bruit !
 
 - les PJs se retrouvent et se rendent ensuite ensemble à la tour de l'horloge, au centre du territoire des Crows, pour y rencontrer Bell. Cette fois la discussion se révèle tendue.
@@ -352,17 +363,19 @@ Il finit par s'énerver quand les PJs évoquent l'idée de partager le territoir
 - pour finir la journée, les PJs décident de profiter des repérages d'Eric et d'organiser une opération le soir même sur le lupanar de Lyssa.
 Eric profite de la complicité de la fille de joie qu'il connait pour y introduire Elaria cachée dans un tonneau.
 Il provoque ensuite les gardes et les attire dans une ruelle où il les élimine rapidement avec l'aide d'Aldo et Melvir.
-L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyssa éliminés, et Ethnos-Ludius faisant une entrée fracassante au milieu du bordel avec ses deux hachettes.
+L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyssa éliminés, et Ethnos-Lodius faisant une entrée fracassante
+au milieu du bordel avec ses deux hachettes.
 
 - soudain, une calèche et un charriot déboulent dans la cour intérieure. Aussitôt qu'elle aperçoit Lyssa à l'intérieur, Elaria lui lance un couteau dans l’œil !
-Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par la même occasion Bell qui était leur prisonnier, dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
+Avec Ethnos & Eric ils lui règle son compte avec ses hommes, et libèrent par la même occasion Bell qui était leur prisonnier,
+dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 
 ## Session 6 - 8 février 2020
 
 <figure role="group">
-  <!--img alt="Ludius Dalmore" src="images/bitd/Lodius B&W.jpg"-->
-  <img alt="Ludius Dalmore" src="images/bitd/Lodius.jpg">
-  <figcaption>Ludius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+  <!--img alt="Lodius Dalmore" src="images/bitd/Lodius B&W.jpg"-->
+  <img alt="Lodius Dalmore" src="images/bitd/Lodius.jpg">
+  <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
 <div class="side-by-side">
@@ -382,7 +395,7 @@ le laissent retourner dans son gang, en sous-entendant au passage qu'ils compten
 
 - le lendemain, le nouveau système d'alarme de leur planque se déclenche : un groupe de Bluecoats
 mené par **Darmot** a débarqué devant leur planque !
-Eric & Ethnos-Ludius vont à sa rencontre pour parlementer, tandis qu'Elaria ronge son frein,
+Eric & Ethnos-Lodius vont à sa rencontre pour parlementer, tandis qu'Elaria ronge son frein,
 trépignant de trancher la gorge à Darmot... Celui-ci révèle avoir des témoins pouvant incriminer les PJs
 pour leur opération « coup de poing » de la veille, et souhaite visiblement se faire graisser la patte pour
 les laisser tranquille... Les PJs acceptent à contre-coeur, et enveront plus tard Melvir lui remettre un « cadeau ».
@@ -518,26 +531,23 @@ la partie a débuté par des _love letters_ préparés en amont pour deux PJs :
 </div>
 
 <u>Petit bilan :</u> je suis très content du résultat !
-C'était idéal pour se remettre dans le bain en début de partie,
-et les joueurs ont plutôt bien accrochés au principe.
-Il n'y avait pas de _love letter_ pour le 3e PJ, Ethnos-Ludius,
+C'était idéal pour se remettre dans le bain en début de partie, et les joueurs ont plutôt bien accrochés au principe.
+Il n'y avait pas de _love letter_ pour le 3e PJ, Ethnos-Lodius,
 mais une "énigme à tiroirs" pour lui permettre de développer un pouvoir surnaturel naissant...
 Comme l'énigme est toujours en cours, je n'en révèle pas plus pour le moment.
 
 Suite à l'opération en demi-teinte de la nuit précédente, le gang du Harpon se rassemble pour faire le point.
 Pour préparer l'opération dans le district perdu pour laquelle les **Silver Nails** les ont recruté,
-il est décidé qu'Ethnos allait consulter les notes de Ludius dans son bureau,
+il est décidé qu'Ethnos allait consulter les notes de Lodius dans son bureau,
 et avec l'aide d'Elaria tenter de trouver d'anciennes connaissances qui pourraient les acheminer jusqu'au district perdu.
 
-Ils se rendent finalement à la rencontre de **Phil**,
-un ancien camarade marin de Ludius, devenu pêcheur
+Ils se rendent finalement à la rencontre de **Phil**, un ancien camarade marin de Lodius, devenu pêcheur
 et ayant encore une dette envers ce dernier.
 Il accepte finalement à contre-cœur d'acheminer de nuit, dans 4 jours,
 une dizaine de personnes jusqu'en dehors de la barrière électroplasmique,
 et de les déposer sur l'**île de la Quarantaine**, pour les rapatrier ensuite au lever du jour.
 
-De son côté, Eric confronte l'individu qui se renseignait sur lui à l'_Habit fait le Moine_,
-dans un bordel où il a ses habitudes.
+De son côté, Eric confronte l'individu qui se renseignait sur lui à l'_Habit fait le Moine_, dans un bordel où il a ses habitudes.
 La discussion tourne court quand ce dernier, un chasseur de prime nommé **Casta**,
 tente de le paralyser par une décharge électrique via sa bague :
 Eric encaisse sans broncher, puis le rattrape alors qu'il tente de s'échapper avec une amulette.
@@ -560,7 +570,8 @@ l'_Encre & la Plume_, il y a 2 jours. Il doit retourner y faire son rapport dans
 > « Ça fait plus d'un mot ça. Perdu. »
 
 Après avoir éliminé Casta et s'être débarrassé de son corps, Eric rejoint le reste du gang à leur planque.
-Là-bas, Ethnos-Ludius & Elaria ont découvert que quelqu'un s'était introduit chez eux malgré leurs systèmes de protection, et surprennent l'intrus alors qu'il tentait de forcer le coffre contenant le _logbook_.
+Là-bas, Ethnos-Lodius & Elaria ont découvert que quelqu'un s'était introduit chez eux malgré leurs systèmes de protection,
+et surprennent l'intrus alors qu'il tentait de forcer le coffre contenant le _logbook_.
 Elaria rattrape leur voleur avant qu'il ne s'enfuie, l’assomme et le ramène au Vieux Galion.
 La jeune femme étant muette, Ethnos lui donne une plume et une feuille de papier
 et procède à un interrogatoire inquisiteur.
@@ -569,14 +580,14 @@ Elle révèle s'appeler **Sylvia Derengathi** et avoir tenté de voler le _logbo
 pour impressionner les membres de la société secrète du Cercle de Feu, et ainsi être intronisée en leur sein.
 Elle retranscrit tout ce qu'elle sait sur les informations fournies à l'ordre,
 par exemple par les Chasseurs de Léviathans.
-En définitive, Ethnos-Ludius lui tranche la main pour la punir avant de l'abandonner dans une ruelle en ville.
+En définitive, Ethnos-Lodius lui tranche la main pour la punir avant de l'abandonner dans une ruelle en ville.
 
-Suite à ces événements, Elaria & Ethnos-Ludius ressentent tous deux le besoin de faire retomber la pression.
+Suite à ces événements, Elaria & Ethnos-Lodius ressentent tous deux le besoin de faire retomber la pression.
 Elaria se brouille définitivement avec Damian, le patron du __Dragon d'Iruvia__,
 la fumerie d'opium où elle a l'habitude de se rendre.
 Jetée à la porte, refusant de se rendre à une fumerie tenue par l'Œil Blanc,
 elle finit par allez se fournir à Coalridge puis perd pied pendant 24 heures suite à une overdose...
-De son côté, Ethnos-Ludius réalise que ses séances d'auto-flagellation ne le soulagent plus.
+De son côté, Ethnos-Lodius réalise que ses séances d'auto-flagellation ne le soulagent plus.
 Des fissures auraient-elles émergées dans sa foi envers l'Église de l'Extase de la Chair
 suite à son changement d'enveloppe charnelle ? Il décide d'aller se confier au prêtre Herman à l'église de Nightmarket.
 Une fois sa confession terminée cependant, le bon curé horrifié le jette à la porte et l’excommunie de son district.
@@ -585,7 +596,7 @@ Vis à vis de l'alliance des gangs contre l'Œil Blanc,
 le gang du Harpon respecte sa parole et entame une campagne décrédibilisation,
 insistant sur la faiblesse visible du gang ciblé, incapable d'assurer la sécurité
 de ses clients et de leur territoire.
-En parallèle, ils engagent un espion, **Veleris**,
+En parallèle, ils engagent un espion, **Valeris**,
 pour récolter des informations sur le gang de l'Œil Blanc,
 et plus particulièrement leurs rapports avec l'occulte, leur équipement,
 leur nombre d'hommes et leurs opérations en cours.
@@ -606,28 +617,28 @@ Les bâtiments qui composent le district se dressent, immaculés et nus,
 au milieu de rues désertes où plus rien d'organique de subsiste, ni bois ni végétation.
 La mere d'huile et la plage sont nappées d'un silence lugubre.
 
-Une fois à terre, Melvir, Elaria, Eric, Ethnos-Ludius et Fatima restent surveiller les barques
+Une fois à terre, Melvir, Elaria, Eric, Ethnos-Lodius et Fatima restent surveiller les barques
 tandis que les autres Silver Nails s'enfoncent dans le district perdu.
-Malgré les réticences du reste du groupe, Ethnos-Ludius s'éloigne examiner les environs.
+Malgré les réticences du reste du groupe, Ethnos-Lodius s'éloigne examiner les environs.
 Alors que l'attention est centrée sur sa silhouette s'enfonçant dans la brume,
 nul ne remarque les tentacules sortant de l'eau et se dirigeant vers Fatima sur l'une des barques.
 En un instant, tout bascule : une barque se retourne tandis qu'Eric éloigne l'autre en sécurité sur la plage,
-Fatima est entraîné dans l'eau, Melvir tente de la secourir et,
-tandis qu'Ethnos-Ludius découpe des tentacules à tour de bras,
+Fatima est entraîné dans l'eau, Melvir tente de la secourir et, tandis qu'Ethnos-Lodius découpe des tentacules à tour de bras,
 tous deux disparaissent sous l'eau sans qu'Elaria ne parviennent et les sauver avec sa corde.
 
 Atterrés par la perte de leurs camarades, la terreur s'empare du trio du Harpon
-lorsqu'un peu plus tard ils entendent la voix de Melvir provenir du district et les supplier de venir lui porter secours... Un peu plus tard, c'est un bateau fantôme qu'ils voient glisser sur la mer.
+lorsqu'un peu plus tard ils entendent la voix de Melvir provenir du district et les supplier de venir lui porter secours...
+Un peu plus tard, c'est un bateau fantôme qu'ils voient glisser sur la mer.
 Les nerfs à fleur de peau, c'est ensuite le simple tic-tac provenant du sac de Melvir échoué sur la plage
 qui suffit à les effrayer.
 
 <figure role="group">
-  <img alt="Molosse spectral" src="images/bitd/bb-scorge-beast.jpg">
-  <figcaption>Scourge Beast - <a href="https://www.creativeuncut.com/art_bloodborne_a.html" target="_blank">Blooborne artwork</a></figcaption>
+  <img alt="Molosse spectral" src="images/bitd/scourge-beast.jpg">
+  <figcaption>Scourge Beast - <a href="https://www.creativeuncut.com/art_bloodborne_a.html" target="_blank">Bloodborne artwork</a></figcaption>
 </figure>
 
 Quelques heures avant l'aube, un molosse spectral s'avance sur la plage vers eux.
-Tentant tout d'abord de se cacher, Ethnos-Ludius finit par décharger sur la créature le barillet de [son pistolet électroplasmique](https://www.reddit.com/r/bladesinthedark/comments/pvwu8v/maybe_a_little_more_modernlooking_than_most_of/).
+Tentant tout d'abord de se cacher, Ethnos-Lodius finit par décharger sur la créature le barillet de [son pistolet électroplasmique](https://www.reddit.com/r/bladesinthedark/comments/pvwu8v/maybe_a_little_more_modernlooking_than_most_of/).
 Cela suffit à la faire reculer, mais elle hurle alors à la lune pour appeler à la rescousse sa meute entière.
 Contraints de se réfugier dans les ruines du district pour y échapper,
 les PJs retiennent ensuite leur souffle au passage dans la rue d'un monstre sanguinolent
@@ -646,7 +657,7 @@ Le soir même, un ivrogne se met à les insulter à l'entrée de leur planque :
 > C'est pas un alcoolique, une pute et une saloperie d'iruvien qui me font peur à moi !
 > Argaz vous pisse à la raie ! »
 
-Ethnos-Ludius lui court après pour lui donner un leçon, mais l'ivrogne se volatilise.
+Ethnos-Lodius lui court après pour lui donner un leçon, mais l'ivrogne se volatilise.
 
 Le lendemain matin, Eric le surprend à peindre sur un mur devant le Vieux Galion
 « HARPON TROU DU FION ».
@@ -727,7 +738,7 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
   </figure>
 </div>
 
-La partie débute par le rapport de l'espion **Valeris**, qui apprend au gang du Harpon de nombreuses informations sur le gang de l'Oeil Blanc :
+La partie débute par le rapport de l'espion **Valeris**, qui apprend au gang du Harpon de nombreuses informations sur le gang de l'Œil Blanc :
 
 - le penchant pour **Baszos Baz pour le culte d'aciens dieux** et ses arrangements avec **l'ordre du Cercle de la Flamme**;
 - le matériel dont ils disposent : bombes incendiaires, fourgonnette, armes à arc électrique...
@@ -741,14 +752,16 @@ Le Harpon paye son dû à l'espion, qui leur est reconnaissant et leur glisse en
 > Si vous voulez mon humble avis, en ayant choisi de placer leur QG dans cet entrepôt de charbon, ils ont pris un sérieux risque d'incendie... 😉
 
 Ellipse et transition directe au coeur de l'action, alors que **le gang au complet se dresse au milieu des flammes de l'incendie
-qui ravage l'entrepôt de charbon servant de QG à l'Oeil Blanc**...
+qui ravage l'entrepôt de charbon servant de QG à l'Œil Blanc**...
 
-Un assaut rondement mené se déroule alors : Eric pulvérise un première poche de résistance qui s'était formée autour d'un lieutenant arcaniste de Baszos, récoltant une nouvelle tête pour sa collection, tandis qu'Elaria & Ethnos propagent l'incendie puis font dégringoler un autre arcaniste perché sur une grue, en faisant fondre sa base métallique !
+Un assaut rondement mené se déroule alors : Eric pulvérise un première poche de résistance qui s'était formée
+autour d'un lieutenant arcaniste de Baszos, récoltant une nouvelle tête pour sa collection, tandis qu'Elaria & Ethnos propagent l'incendie
+puis font dégringoler un autre arcaniste perché sur une grue, en faisant fondre sa base métallique !
 Il a néanmoins le temps de projeter une charge spectrale sur ses adversaires, qui sont
 sauvés in-extremis par un nouveau charme protecteur (_spirit bane_) récemment acquis par Elaria en vue de cet affrontement.
 Le lieutenant arcaniste plonge de sa grue dans un réservoir d'eau proche, où Eric lui règle sont compte en y versant un très violent poison.
 
-Eric et les troupes de l'Écharpe Rouge mènent alors une charge endiablée contre les dernières forces de l'Oeil Blanc
+Eric et les troupes de l'Écharpe Rouge mènent alors une charge endiablée contre les dernières forces de l'Œil Blanc
 réfugiées derrières des barricades de fortune.
 Baszos Baz, voyant ses derniers hommes succomber face au nombre et à l'habilité des assaillants,
 fuit à l'intérieur d'un bâtiment et débute un rituel occulte face à des statues anciennes et grimaçantes...
@@ -759,13 +772,13 @@ sans hésiter à porter le coup fatal alors que Baszos tente de négocier sa vie
 
 > « Essaie de te ramener toi-même d'abord. »
 
-Pendant ce temps, Ethnos-Ludius s'est infiltré dans les étages de ce même bâtiment,
+Pendant ce temps, Ethnos-Lodius s'est infiltré dans les étages de ce même bâtiment,
 et découvre la pièce renfermant le trésor de guerre du gang.
 La victoire est assurée et la situation est sous contrôle.
 Il est décidé que les 3 gangs, Crows, Harpon & Écharpe Rouge se réuniront demain midi pour négocier la répartition du butin
-et du territoire de l'Oeil Blanc.
+et du territoire de l'Œil Blanc.
 
-Cette annihilation de l'Oeil Blanc vaut au gang du Harpon une telle hausse de leur réputation qu'**ils entrent véritablement dans
+Cette annihilation de l'Œil Blanc vaut au gang du Harpon une telle hausse de leur réputation qu'**ils entrent véritablement dans
 « la cour des grands »**, devenant un gang majeur de Doskvol !
 Ils deviennent également une préoccupation plus sérieuse pour la milice, qui les a de plus en plus dans le colimateur...
 
@@ -773,14 +786,14 @@ Le lendemain matin, le gang entreprend donc d'essayer de rassurer la populace en
 puis de recruter des hommes : **Josef Tucker** tout d'abord, un _whisper_ versé dans les illusions,
 également ancien barman à la Goule Fendue devant de l'argent au gang, ainsi qu'une demi-douzaine de sous-fifres triés sur le volet.
 
-Ethnos-Ludius et Aldo se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire
+Ethnos-Lodius et Aldo se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire
 de l'Écharpe Rouge, mais Justinia manque au rendez-vous... Sur place, ils retrouvent Mylera, Oru et Bell.
 Les négociations se déroulent sans accroc :
 l'Écharpe Rouge récupère le territoire sud, les artefacts magiques que possédait Baszos et le _business_ de la prostitution;
-les Crows conservent leur territoire et récupèrent la moitié du magot et tous les hommes restant de l'Oeil Blanc qu'ils souhaitent;
+les Crows conservent leur territoire et récupèrent la moitié du magot et tous les hommes restant de l'Œil Blanc qu'ils souhaitent;
 le Harpon récupère les territoires Ouest (Limmerfield, Miser's Row, Saltridge) et l'autre moitié du magot.
 Quand au _business_ de la drogue, il est décidé que l'Écharpe Rouge en reprendrait la production et les Crows la distribution
-dans les les lieux qui étaient tenus par l'Oeil Blanc, avec des profits qui seraient partagés pendant un an entre les 3 gangs.
+dans les les lieux qui étaient tenus par l'Œil Blanc, avec des profits qui seraient partagés pendant un an entre les 3 gangs.
 
 Juste après cette rencontre, le gang apprend que **Justinia a été arrêtée par les BlueCoats**.
 En se renseignant un peu, ils découvrent que **Conway** l'a balancé à la milice en révélant ses liens avec le Harpon
@@ -793,7 +806,7 @@ et tout le gang s'en va pavaner dans les territoires nouvellement acquis pour ma
 <img class="small-img" style="float: right; margin-left: 1rem" alt="Soleil brisé" src="images/bitd/flame-circle-raster-bw.gif">
 <!-- Built with: Gimp + Image Magick to turn PNG into a 40 frames GIF + webestools.com Animated Images Effects Generator -->
 
-En fin de journée, Ethnos-Ludius tente de reprendre contact avec Grell Jayan, qui décline l'entrevue,
+En fin de journée, Ethnos-Lodius tente de reprendre contact avec Grell Jayan, qui décline l'entrevue,
 puis avec **Lord Scurlock**, qui accepte une rencontre le lendemain à l'heure du thé chez lui.
 
 Le gang reçoit également une missive de l'ordre du Cercle de la Flamme indiquant leur souhait
@@ -801,8 +814,9 @@ d'acquérir des artefacts entrés en possession du gang à un prix des plus all�
 
 ### Ressources
 - ambiance musicale : [playlist Youtube _Aces Wild_](https://www.youtube.com/playlist?list=PL9CvW37uj8DoA0t45lmy4rd1x9hppZD-A)
-- [Setting Primer](https://www.reddit.com/r/bladesinthedark/comments/h1331p/setting_primer_updated/) ([re-uploaded PDF](https://chezsoi.org/lucas/blog/images/bitd/BitD-SettingPrimer.pdf)), pour se replonger dans l'univers en début de partie
-- [plan du QG de l'Oeil Blanc](https://chezsoi.org/lucas/blog/images/bitd/degenesis-black-atlantic-parel-island-en-3264x2320.webp) (source : [carte officielle du JdR Degenesis](https://degenesis.com/downloads/maps))
+- [Setting Primer](https://www.reddit.com/r/bladesinthedark/comments/h1331p/setting_primer_updated/) ([re-uploaded PDF](https://chezsoi.org/lucas/blog/images/bitd/BitD-SettingPrimer.pdf)),
+  pour se replonger dans l'univers en début de partie
+- [plan du QG de l'Œil Blanc](https://chezsoi.org/lucas/blog/images/bitd/degenesis-black-atlantic-parel-island-en-3264x2320.webp) (source : [carte officielle du JdR Degenesis](https://degenesis.com/downloads/maps))
 - [carte "interactive" de Doskvol](https://view.genial.ly/6040a029edb57f0d0fd34763/interactive-image-doskvol)
 - [The Duskvol Bestiary](https://assemblyrequisite.itch.io/the-duskvol-bestiary) : River Eel, Spiritseeker Crow, Coursing bat, Arcanomoth, Draftgoat, Gillyfoot, Leviathan
 - comme cette partie s'est déroulé via _Discord_, les fiches des personnages et du gang ont migré sur [rpg-bonhomme](https://chezsoi.org/lucas/jdr/rpg-bonhomme/)
@@ -819,47 +833,126 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
 <div class="side-by-side">
   <figure>
     <img alt="Portrait de Lodius en pied" src="images/bitd/Lodius-en-pied.gif">
-    <figcaption><a href="images/bitd/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
+    <figcaption>Lodius - <a href="images/bitd/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
                 GIF créé avec <a href="https://icons8.com/animizer/en/animate-static-image">Animizer</a> puis retouché avec <a href="https://ezgif.com/effects">EZGIF</a></figcaption>
   </figure>
-  <figure>
+  <!--figure>
     <video autoplay loop>
       <source src="https://chezsoi.org/lucas/blog/images/bitd/Lodius-en-pied-moshed.webm">
     </video>
     <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
+  </figure-->
+  <figure>
+    <img alt="Lord Scurlock" src="images/bitd/LordScurlock.jpg">
+    <figcaption>Lord Scurlock - <a href="https://www.deviantart.com/miles-johnston/art/Dnd-Rudolph-Van-Richten-331873119">Dnd - Rudolph Van Richten by Miles-Johnston</a></figcaption>
+  </figure>
+  <figure>
+    <img alt="Inspector Boden" src="images/bitd/Inspector-Boden.jpg">
+    <figcaption>Inspector Boden - <a href="https://quarkmaster.tumblr.com/post/158062423277/nq70-watch-inspector-watch-inspector-career">Watch Inspector by Mitchell Malloy</a></figcaption>
   </figure>
 </div>
 
+Le gang apprend que **Justinia va être transportée** dans une autre prison à Charterhall.
+Une opération est alors montée en urgence pour l'exfiltrer durant le trajet :
+Josef confectionne un charme donnant pour quelques heures l'apparence de Justinia à une "volontaire",
+afin de **la substituer comme sosie durant le trajet**.
+Comme le chariot blindé des _Bluecoats_ va traverser leur territoire, de l'aide est demandé à l'Écharpe Rouge
+afin de bloquer temporairement le convoi sur la route.
+Elaria & Ethnos-Lodius passent par les égouts pour en sortir via une plaque juste sous le fourgon transportant Justinia...
+Mais comme la roue du chariot bloque la plaque, ils doivent la découper en urgence pour se glisser à travers.
+Dans la précipitation, la seringue contenant l'acide pour faire fondre le métal du chariot se brise,
+et Ethnos-Lodius doit projeter le liquide avec sa bouche !
+En surface, Eric fait tout son possible pour retenir le convoi : il envoie d'abord deux hommes du Harpon faire diversion,
+en se faisant passer pour des ivrognes. Comme **Darmot** en personne leur ordonne de déguerpir,
+Eric fait alors s'écrouler un échafaudage proche.
+Après s'être débarrassé du _Bluecoat_ fermant la marche du convoi en le poussant dans les égouts,
+Elaria, Ethnos-Lodius & Justinia s'apprêtent à s'y glisser à leur tour pour fuir les lieux,
+quand un homme surgit de la foule, s'exclame être l'**inspecteur Boden** et descend un des hommes du Harpon !
+Un tir réflexe d'Ethnos-Lodius de flèchette hypodermique l'immobilise heureusement, et le gang s'enfuit.
+
+Dans l'après-midi, Ethnos-Lodius se rend au **manoir Scurlock**, suite à l'invitation qu'il a reçu.
+L'échange est bref et courtois. Ethnos-Lodius y glanne quelques informations et la promesse d'une embauche
+des services du gang dans un futur proche.
+
+Dans la journée, le gang s'attèle à faire descendre la tension qui monte,
+et la dangereuse attention qu'on leur porte suite à leurs derniers exploits...
+Le mot circule que les territoires nouvellement acquis par le Harpon sont "bien plus sûrs qu'avant",
+des truands indépendants mineurs sont arrêtés et remis aux athorités...
+et une descente est faite dans un poste de Bluecoats, pour l'attribuer ensuite à l'ordre du Cercle de la Flamme !
+
+Une partie du gang se renseigne également sur l'inspecteur Boden :
+Valeris est embauché pour découvrir où il habite, et Elaria se rend à la rencontre d'**Ulf Ironborn**,
+un réfugié Skov et nouveau truand se faisant petit à petit une place sur les Docks.
+L'inspecteur Boden, d'origine severosi, a en effet exercé à Lockport en Skovlan avant d'être muté à Doskvol.
+Incorruptible et tenace, de nombreux Slov le haïssent pour avoir mis sous les verous un grand nombre d'indépendantistes.
+
+Le gang prend également le temps de régler son compte au traître **Conway** :
+il est piégé par Justinia dans une ruelle, puis questionné et torturé dans les caves de la Goule Fendue.
+Le gang au complet consacre alors la soirée à célébrer les récents succès à l'auberge.
+
+Eric s'attele à explorer les égoûts afin de trouver le lieu idéal pour établir une planque secondaire pour la gang.
+Il jette son dévolu sur une citerne vide située juste sous un poste de _Bluecoats_, et commence à creuser la paroi pour y créer une ouverture.
+
+Au lever du jour, **Mylera Klev** de l'Écharpe rouge vient en personne au galion solliciter l'aide des PJs :
+suite à la diversion organisée la veille, son bras droit **Oru** a été arrêté par **Darmot**,
+et une mesure de justice expéditive est en cours pour l'envoyer à **IronHook** !
+Il faut faire taire le témoin, un journaliste du nom de **Fridrik Nash**,
+et faire disparaître les preuves, à savoir le sabre d'Oru tâché de sang.
+
+Eric décide de prendre en charge la question du témoin génant, et se rench à Charhollow
+dans les bureaux du _Weekly Raven_ dont Nash à le principal _reporter_ et éditeur en chef.
+Sur place, il tente sans succès d'isoler Nash et finit pour lui donner une poignée de main "électrique" pour le mettre KO.
+Malheureusement, l'empressement de ses camarades à lui porter secours empêche Eric de l'évacuer hors du bâtiment,*
+et il se rédoud à **lui briser la nuque devant plusieurs témoins** !
+La situation dégénère et une foule en furie s'en prend à Eric, qui réussit _in-extermis_ à accéder à la rue
+et à s'enfuir par une bouche d'égouts où un homme l'attendait, avant que la bande des _The Lost_ ne lui tombe dessus.
+
+Tandis qu'Ethnos-Lodius confectionne une potion de transe et des explosifs,
+Elaria se rend à Charterhall pour localiser le sabre d'Oru.
+Elle apprend que la juge **Elstera Avrathi** est en charge de l'affaire et qu'elle statuera sur cette affaire le soir même.
+Elaria découvre les bureaux proche du tribunal où cette magistrate travaille, et qu'elle se fait servir des plats tous les midi.
+Elle tente alors de corrompre le commis chargé de lui livrer son repas, mais cela tourne mal !
+Elaria se fait poursuivre par des _Bluecoats_ jusqu'au tribunal, où elle échappe de justesse aux gardes en faction,
+puis se fait poursuivre à travers tout le quartier avant d'échapper par les toits.
+Ethnos-Lodius prend alors le relai, et se rend au bureau de la juge où il prend la place du commis pour la livraison,
+et met KO son garde du corps grâce à la potion qu'il a confectionné.
+Néanmoins les choses tournent mal lorsqu'il savère que la demeur est protégée par un démon
+et qu'Elstera Avrathi est une membre du Cercle de la Flamme !
+La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arraché et jeté au loin le collier porté par la magistrate.
 
 ### Ressources
-- ambiance musicale : [Blades in the Dark Ambience | Victorian City](https://www.youtube.com/watch?v=PuRFNzizkXs) par Luke Westaway, avec des timecodes dans la description de la vidéo
-- [one-page cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn)
-- plan du commissariat :
-    + intérieur : [The jailhouse](https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/)
-    + extérieur : [City streets & alleys](https://www.reddit.com/r/battlemaps/comments/jjmp7c/city_streets_and_alleys_25x45/)
+- ambiance musicale :
+    + [Blades in the Dark Ambience | Victorian City](https://www.youtube.com/watch?v=PuRFNzizkXs) par Luke Westaway, avec des timecodes dans la description de la vidéo
+    + [Extended Blades in the Dark soundtrack by  Mr. Macduggan](https://www.youtube.com/playlist?list=PLSe0gLu3vnlutsQmMjNH8-xdOFMJtxswO)
+    * [Drunken Sailor from Assassin's Creed 4: Black Flag OST](https://www.youtube.com/watch?v=OOu9W9Nmj6U) pour la célébration le soir à l'auberge de la Goule Fendue
+- [one-page rules cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn)
+- [3 Expanded Factions: The Inspectors, The Lord Governor, and The Foundation](https://www.reddit.com/r/bladesinthedark/comments/e73pdx/3_expanded_factions_the_inspectors_the_lord/)
+- l'intéressante description d'un PNJ majeur du jeu : [The Immortal Emperor](https://githyankidiaspora.wordpress.com/2017/07/20/the-immortal-emperor/)
+- plans employés :
+    + [Charterhall near the law court](https://www.reddit.com/r/battlemaps/comments/jjmp7c/city_streets_and_alleys_25x45/)
+    + [cloître de Lucatore](https://chezsoi.org/lucas/blog/images/bitd/degenesis-in-thy-blood-cloister-en-3264x2320.webp) (source : [JdR Degenesis](https://degenesis.com/downloads/maps))
+- radar plot of a survey I made to figure what my players like most in the game:
+[![](images/bitd/AppetencesJoueurs.png)](https://www.reddit.com/r/bladesinthedark/comments/qail84/at_the_beginning_of_last_session_i_asked_my/)
+- simple "position" board I made, to make PC positions explicit to players:
+[![](images/bitd/bitd-position-board.jpg)](https://www.reddit.com/r/bladesinthedark/comments/qaiork/tool_i_find_this_simple_board_useful_to_make_pc/)
 
 
 <!-- Idées :
-* anticiper ce que va proposer Lord Scurlock à Ethnos-Ludius
-* ACTION! *Il faut faire évader Justinia* -> cf. plan du commissariat
-* travailler le PNJ Josef Tucker
-* anticiper comportement factions "officielles" (Bluecoats & cie)
-* préparer des pistes de Scores / opportunités vis à vis des autres gangs,
-entre autres à partir des renseignements de Sylvia Derengathi
-* introduire les "artefacts multifonctions" -> définis à la partie précédente
+* ToPrint: FPs de PJs pour guests + nouvelle illustration Lodius d'Elliot + one-page rules cheat sheet
+* ToRead/ -> many ideas for scores
+* rédiger une feuille par gang majeur
+* introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente
 * logbook = game changer, va modifier équilibre des forces de la ville...
-* introduire un événement à gros impact sur la ville (ex: plus de soleil) idéalement lié aux actions des PJs
+  -> peut permettre la libération des enfants de Setarra et/ou le retour de Kotar (Cercle de la Flamme)
+* introduire un événement à gros impact sur la ville (ex: plus de soleil ?)
+  idéalement lié aux actions des PJs / au logbook / à Lord Scurlock / Cercle de la Flamme
+* When the gang attempts a heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
+* prendre inspis de Dirty MJ
 * les PJs remontent le temps au début de la campagne ! [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
-
-* scène des monstres dans les miroirs: https://www.youtube.com/watch?v=Qir5t9RbEHo
-* prendre inspis de Dirty MJ
 * gimmick pour PNJs: renifle tout, les gens, les lieux
-
-+ trouver illustrations pour les PNJs ppaux
-<img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">
-
-+ make a diagram of DOWNTIME steps ?
+* trouver illustrations pour les PNJs ppaux, ex: <img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">
+* make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
 TO MENTION:
@@ -878,8 +971,6 @@ TO MENTION:
 -> l'idée des "ghost dealers" est très chouette !
 > Most citizens of Duskwall are terrified of ghosts. Lost, mad, destructive spirits, whose only desire is to return to the warm embrace of a warm body. They’ve lost their own, but are eager to adopt yours.
 > But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
-+ Eye of Kotar: allows the user to see events currently happening anywhere in the world.
-  User gains knowledge, and each use ticks a clock of someone seeing back at the user's actions.
 
 Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view
 
@@ -890,20 +981,65 @@ Demons & creatures in the Ghost Field:
 * Leviathan: https://www.deviantart.com/carpet-crawler/art/The-Dream-Quest-of-Elyza-Lee-Commission-Work-822423747
 
 Maps:
-* https://chezsoi.org/lucas/blog/images/bitd/degenesis-in-thy-blood-cloister-en-3264x2320.webp
-* https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
-* https://www.reddit.com/r/FantasyMaps/comments/mo7fsq/deep_gnome_hamlet_map_30x38battlemapoc/
-* https://2minutetabletop.com/product/thermal-mines-1/
-* https://2minutetabletop.com/product/docks-of-the-dead/
-* https://2minutetabletop.com/product/sewer-map-assets/
-* https://2minutetabletop.com/product/haunted-mansion-furnished/
-* https://2minutetabletop.com/product/typical-tavern/
-* https://2minutetabletop.com/product/japanese-castle/ -> QG Écharpe Rouge
-* https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
-* http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
+* The jailhouse: https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/
+* Docks of the Dead: https://2minutetabletop.com/product/docks-of-the-dead/
+* Mine: https://www.reddit.com/r/FantasyMaps/comments/mo7fsq/deep_gnome_hamlet_map_30x38battlemapoc/
+* Mine & poches de liquide: https://2minutetabletop.com/product/thermal-mines-1/
+* Égouts https://2minutetabletop.com/product/sewer-map-assets/
+* (Scurlock ?) Haunted Mansion: https://2minutetabletop.com/product/haunted-mansion-furnished/
+* Typical Tavern: https://2minutetabletop.com/product/typical-tavern/
+* QG Écharpe Rouge: https://2minutetabletop.com/product/japanese-castle/
+* Dragon Ghost: https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
+* Tangle Town: http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
+* WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
+
+Énigme à tiroirs des tatouages d'Ethnos-Lodius:
+1. Écrit en Hadrathi (iruvien) de manière "stylisé" :
+   53P355Ob n+ 7eW1ue un +910P uO+ 3P
+   3We uO+ 3P 3u1e+1be> 37 51O5
+   -> à l'envers + 133T SPEAK:
+   SOIS LE CAPITAINE DE TON AME
+   DE TON DOIGT UN ANIMAL TU POSSEDES
+   (permet de contrôler un animal après l'avoir touché)
+2. Écrit dans un vieux patois de marin Severosi :
+   GH CRHK BHIEVE YRF LRHK
+   GBA PBECF G'NCCNEGVRAG
+   -> Cesar Cypher +13
+   TU PEUX OUVRIR LES YEUX
+   TON CORPS T'APPARTIENT
+   (permet de contrôle des personnages à la fois)
+3. Écrit en ancien Tycherosi, dit "Babylonien" :
+   char(76)char(69)char(83)char(72)char(85)char(77)char(65)char(73)char(78)char(83)char(83)char(79)char(78)char(84)char(65)char(84)char(65)char(80)char(79)char(82)char(84)char(69)char(69)
+   char(84)char(79)char(85)char(67)char(72)char(69)char(76)char(69)char(85)char(82)char(67)char(79)char(69)char(85)char(82)
+   -> Code des templiers (attention au sens haut/bas) via dcode.fr:
+   LESHUMAINSSONTATAPORTEE
+   TOUCHELEURCOEUR
+   (permet de contrôler des humains en touchant leur coeur)
+4. Écrit en cunéiforme démonique, mais déguisé en Skovic :
+   char(57)char(49)char(41)char(53)char(61)char(62)char(33)char(41)char(62)
+   char(62)char(69)char(61)char(33)char(46)char(47)char(39)char(69)char(46)char(35)char(49)char(46)char(53)char(42)char(61)
+   -> braille (attention au sens haut/bas) via dcode.fr:
+   DECONTACT
+   TUNASPLUSBESOIN
+LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécue de transfert de corps
+      peuvent octroyer des capacités démoniaques... Pour les maîtriser il faut déchiffrer leur sens !
+Pour chaque "strate" du tatouage, le principe est le même :
+  * identifier de quelle langue il s'agit, par enquête ou grâce à un érudit : occultiste / linguiste / ancien...
+  * décoder le message. Convaincre un érudit d'aider permet d'éviter d'effectuer le décodage soi-même
+  * s'entrainer (roue x4) ou tester par soi-même pour maîtriser le nouveau pouvoir
+Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site dcode.fr (sans lui indiquer la page)
+
+Notes / joueurs:
+* Elliot s'éclate à crafter
+* Simon aimerait bien jouer un autre archétype (Spy ?)
 -->
 
 <style>
+@font-face {
+  font-family: Kirsty;
+  src: url('images/bitd/fonts/kirsty.otf') format('opentype');
+}
+h1, h2, h3, h4 { font-family: Kirsty; }
 h1 { text-align: center; }
 article img, article video, article iframe {
   max-height: 80vh;
@@ -927,9 +1063,27 @@ article td { border-top: 1px solid #ddd; }
 article tr > td:first-child, article tr > th:first-child { font-weight: bold; text-align: right; }
 </style>
 <script>
-['h2', 'h3'].forEach(function (selector) {
+const ANCHOR_ID_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
+function slugify(s) {
+  var s = String(s)
+  s = s.trim()
+  s = s.toLowerCase()
+  s = s.replace(new RegExp('^'+ANCHOR_ID_CHAR_RANGE_TO_IGNORE, 'g'), '')
+  s = s.replace(new RegExp(ANCHOR_ID_CHAR_RANGE_TO_IGNORE, 'g'), '-')
+  return encodeURIComponent(s);
+}
+function buildId(s) {
+  let slug = slugify(s)
+  let newId = slug
+  let suffixInt = 1
+  while (document.getElementById(newId)) {
+    newId = slug + '-' + (++suffixInt)
+  }
+  return newId
+}
+['h2', 'h3', 'h4'].forEach(function (selector) {
     document.querySelectorAll(selector).forEach(function (title) {
-        if (!title.id) { title.id = title.textContent; }
+        if (!title.id) { title.id = buildId(title.textContent); }
         var a = document.createElement('a');
         a.href = document.location + '#' + title.id;
         a['aria-hidden'] = true;
