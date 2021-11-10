@@ -48,7 +48,7 @@ personal, minimalist, bookmarking service, in PHP
     * some bug fixes
 
 - [<img alt="Logo Pelican" src="images/open-source/pelican-logo.png" style="max-width: 6rem"> Pelican](https://getpelican.com/) : a static site generator in Python
-    * created [a plugin to send LinkBacks](https://github.com/pelican-plugins/linkbacks/)
+    * created [a plugin to send LinkBacks](pelican-pingback-and-webmentions.html)
     * and another [to insert thumbnails along image links](https://github.com/pelican-plugins/image-preview-thumbnailer)
     * and another [to publish articles on a Shaarli instance](https://github.com/getpelican/pelican-plugins/pull/1167)
     * and another [to generate CTags](https://github.com/getpelican/pelican-plugins/pull/1038)
@@ -109,6 +109,7 @@ a Python tool to help with the development & deployment of company-private Pytho
 ### Translation
 - [translation from English to French](https://github.com/CrowsCrowsCrows/the-temple-of-no/pull/1) of the short, open-source, interactive story game
 [The Temple of No](https://crowscrowscrows.itch.io/the-temple-of-no) by the [Crows Crows Crows](http://www.crowscrowscrows.com/) studio
+- [Havoc Brigade](https://gshowitt.itch.io/havoc-brigade), a 25 pages tabletop role-playing game by Grant Howitt, that I translated to French: [La Brigade du Chaos](la-brigade-du-chaos.html)
 
 
 <style>

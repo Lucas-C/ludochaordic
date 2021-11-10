@@ -3,7 +3,6 @@
 import plotly.graph_objects as go
 import plotly.offline as pyo
 
-
 categories = ['<b>GRITTY</b>: violence,<br>extortion, vice, gore, intimidation',
               '<b>SCORES</b>: being into the action,<br>performing tactical operations, stealth',
               '<b>THE FANTASTIC</b>: occult arcanes,<br>mysteries to be unfolded',
@@ -33,4 +32,5 @@ fig = go.Figure(
     )
 )
 
+print(fig.to_json())
 pyo.plot(fig, auto_open=False, filename="AppetencesJoueurs.html")

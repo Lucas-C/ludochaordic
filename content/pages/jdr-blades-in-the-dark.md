@@ -938,7 +938,8 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
 
 
 <!-- Idées :
-* ToPrint: FPs de PJs pour guests + nouvelle illustration Lodius d'Elliot + one-page rules cheat sheet
+* ToPrint: FPs de PJs pour guests + nouvelle illustration Lodius d'Elliot + one-page rules cheat sheet + poster WANTED Eric
+  + https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
 * ToRead/ -> many ideas for scores
 * rédiger une feuille par gang majeur
 * introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente

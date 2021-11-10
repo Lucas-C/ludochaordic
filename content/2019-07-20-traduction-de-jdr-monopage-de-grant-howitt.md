@@ -47,6 +47,8 @@ vous pourrez les retrouver dans [la page dédiée aux jeux de rôle de ce blog](
 
 **EDIT [2021/04/21]** : j'ai testé **Ce n'est pas une place d'honneur** et j'en parle dans [cet article](ce-nest-pas-une-place-dhonneur.html).
 
+**EDIT [2021/09/18]** : je viens également de traduire [La Brigade du Chaos](la-brigade-du-chaos.html), un autre excellent jeu de Grant Howitt, en 25 pages, idéal pour faire découvrir le JdR lors d'une partie fun et rapide !
+
 <style>
 article img { max-height: 16rem; }
 </style>

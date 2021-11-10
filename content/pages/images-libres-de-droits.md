@@ -38,6 +38,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Search engines](pages/images-libres-de-droits.html#search-engines)
     * [Image banks](pages/images-libres-de-droits.html#image-banks)
 - [Icons](pages/images-libres-de-droits.html#icons)
+- [Avatars & maps](pages/images-libres-de-droits.html#avatars--maps)
 - [Fonts](pages/images-libres-de-droits.html#fonts)
 
 <figure>
@@ -184,6 +185,8 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Soldier](https://www.deviantart.com/alexzebol/art/Sketch-BoS-Field-Scribe-761565487)
     * [Mechanic](https://www.deviantart.com/alexzebol/art/Brotherhood-of-Steel-mechanic-761565453)
     * [Alliance Priestess](https://www.deviantart.com/alexzebol/art/WIP-Alliance-Priestess-776556324)
+    * [Bunny! Carrot! EXPLOSION!](https://www.deviantart.com/alexzebol/art/Bunny-Carrot-EXPLOSION-793331652)
+    * [Killer](https://www.deviantart.com/alexzebol/art/Killer-647461299)
 - [Mike Winkelmann alias Beeple](https://fr.wikipedia.org/wiki/Mike_Winkelmann) : all the artworks from his _Everydays_ project up to november 2016 are CC-BY
 > American digital artist, graphic designer, and animator.
 > He is known for using various mediums in creating comical, phantasmagoric works that makes political, social commentary while using pop culture figures as references.
@@ -292,6 +295,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Strogg](https://www.deviantart.com/tarakanovich/art/Strogg-440464871)
     * [Dexter: Futuristic Debra](https://www.deviantart.com/tarakanovich/art/Dexter-Futuristic-Debra-481485290)
     * [Handsome Jakie](https://www.deviantart.com/tarakanovich/art/Handsome-Jakie-588655246) - CC BY-SA
+    * [The Machinist](https://www.deviantart.com/moooncube/art/The-Machinist-704053565)
 - [Philipp Höhnel _aka_ moooncube](https://www.deviantart.com/moooncube/gallery) : CC BY-SA - B&W (N&B) sci-fi spaceships
 > Concept artist, designer, 3D modeller and illustrator from München, Germany. Linux and open source enthusiast
 > ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) - [official website](https://www.mooncube.space)
@@ -393,7 +397,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Daddy Gorilla](https://www.deviantart.com/hijodelopio/art/Daddy-Gorilla-3-788725994)
     * [Venom](https://www.deviantart.com/hijodelopio/art/Venom-764336723)
     * [Killer Croc](https://www.deviantart.com/hijodelopio/art/Kiler-Croc-Btas-764337009)
-    * [Red Oni](https://www.deviantart.com/hijodelopio/art/Red-Oni-764338573)
+    * [Boutmon](https://www.deviantart.com/hijodelopio/art/Boutmon-895209587)
     * [Shinobi Saipat](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581)
     * [Ogre worker](https://www.deviantart.com/hijodelopio/art/Ogre-Worker-894642371)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
@@ -643,6 +647,7 @@ Dedicated to games:
 Mostly photos:
 
 - [Pixabay illustrations](https://pixabay.com/en/photos/?image_type=illustration) -> beaucoup de choses intéressantes en N&B
+    * [homme-guerrier-portrait-soldat](https://pixabay.com/fr/illustrations/homme-guerrier-portrait-soldat-5996080/)
 - [Open Image Collections](https://blogs.ntu.edu.sg/openimagecollections/)
 - [rawpixel Public Domain images](https://www.rawpixel.com/category/53/public-domain) : Vintage Design Resources with a CC0 License
     * [Public Domain Gems](https://www.rawpixel.com/board/325102/public-domain-gems-famous-paintings-free-vintage-illustrations)
@@ -691,6 +696,14 @@ Old public domain illustrations & photos:
       -> spider, death herself, scroll, witch, werewolf, castle, knight, king, fairy, sword, ork, spell book
     * [game play](https://www.iconfinder.com/iconsets/game-play) : straight lines
     * [Sketchy icons](https://www.iconfinder.com/iconsets/Sketchy_icons_by_ma) : down arrow, feather, cloud, glasses, diamond, fox... (free for personal use only)
+
+
+# Avatars & maps
+- [DM Heroes character & portrait generator](http://www.dmheroes.com)
+- [avataaars generator](https://getavataaars.com/)
+- Un excellent générateur de plan de donjon: [one-page-dungeon by watabou](https://watabou.itch.io/one-page-dungeon).
+  Les cartes générées sont de plus éditables avec [RpgMap de Sébastien Benard](https://deepnight.net/tools/rpg-map/).
+  Watabou a également réalisé un [générateur de ville médiévale](https://watabou.itch.io/medieval-fantasy-city-generator)
 
 
 # Fonts
