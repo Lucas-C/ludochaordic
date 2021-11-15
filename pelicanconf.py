@@ -41,6 +41,7 @@ AVATARS = [
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2021-11-15', 'img_url': 'images/readings/encore-des-patates.webp', 'description': "Encore des patates !? Pour une Sécurité Sociale de l'Alimentation (BD)"},
     {'date': u'2021-08-22', 'img_url': 'images/readings/the-private-eye.jpg', 'description': "The Private Eye - Brian K Vaughan &  Marcos Martin (BD)"},
     {'date': u'2021-08-16', 'img_url': 'images/readings/DoggyBags-tome13.jpg', 'description': "Doggybags tome 13 - Tanguy Mandias - RUN - Elsa Bordier (BD)"},
     {'date': u'2021-08-03', 'img_url': 'images/readings/il-faut-flinguer-ramirez-tome-2.jpg', 'description': "Il faut flinguer Ramirez - Nicolas Petrimaux (BD)"},
