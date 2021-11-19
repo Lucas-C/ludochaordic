@@ -38,7 +38,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Search engines](pages/images-libres-de-droits.html#search-engines)
     * [Image banks](pages/images-libres-de-droits.html#image-banks)
 - [Icons](pages/images-libres-de-droits.html#icons)
-- [Avatars & maps](pages/images-libres-de-droits.html#avatars--maps)
+- [Avatars](pages/images-libres-de-droits.html#avatars)
+- [Maps](pages/images-libres-de-droits.html#maps)
+- [Online image tools](pages/images-libres-de-droits.html#online-image-tools)
 - [Fonts](pages/images-libres-de-droits.html#fonts)
 
 <figure>
@@ -150,6 +152,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Border Guard](https://www.deviantart.com/dumaker/art/Border-Guard-871092624)
     * [Maestro](https://www.deviantart.com/dumaker/art/Maestro-883647700)
     * [Spy Pug](https://www.deviantart.com/dumaker/art/Spy-Pug-409905421)
+    * [Templar](https://www.deviantart.com/dumaker/art/Templar-356427772)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -527,6 +530,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - [Morgana - King Arthur II concept art](https://commons.wikimedia.org/wiki/File:King_Arthur_II_concept_art_4.jpg) : CC BY-SA - young witch with pentacle
 - [B&W skull on book and candlestick](https://www.deviantart.com/darius-c/art/Skull-on-book-1-862596105) : CC BY
 - [Ruins on top of moutain by ConfirmedBurger](https://www.deviantart.com/confirmedburger/art/Ruins-757941256) : CC BY-NC-SA
+- [Zombie Run Logo](https://commons.wikimedia.org/wiki/File:Zombie_Run_Logo_(15166442908).jpg) : CC BY
 
 ## Projects & game assets
 - [Glitch](https://www.glitchthegame.com/public-domain-game-art/) : ![thumbnail](https://www.glitchthegame.com/img/locations_ix.v1520324238.jpg) - ![thumbnail](https://www.glitchthegame.com/img/locations_firebog.v1520324238.jpg)
@@ -648,6 +652,9 @@ Mostly photos:
 
 - [Pixabay illustrations](https://pixabay.com/en/photos/?image_type=illustration) -> beaucoup de choses intéressantes en N&B
     * [homme-guerrier-portrait-soldat](https://pixabay.com/fr/illustrations/homme-guerrier-portrait-soldat-5996080/)
+    * [décès-morte-gens-zombi-monstre](https://pixabay.com/fr/vectors/d%c3%a9c%c3%a8s-morte-gens-zombi-monstre-161695/)
+- [pxfuel](https://www.pxfuel.com)
+    * [analog, watch, illustration lot, time, clock, watches, time of, business, appointment, past](https://www.pxfuel.com/en/free-photo-ooqqp)
 - [Open Image Collections](https://blogs.ntu.edu.sg/openimagecollections/)
 - [rawpixel Public Domain images](https://www.rawpixel.com/category/53/public-domain) : Vintage Design Resources with a CC0 License
     * [Public Domain Gems](https://www.rawpixel.com/board/325102/public-domain-gems-famous-paintings-free-vintage-illustrations)
@@ -698,12 +705,30 @@ Old public domain illustrations & photos:
     * [Sketchy icons](https://www.iconfinder.com/iconsets/Sketchy_icons_by_ma) : down arrow, feather, cloud, glasses, diamond, fox... (free for personal use only)
 
 
-# Avatars & maps
+# Avatars
 - [DM Heroes character & portrait generator](http://www.dmheroes.com)
+- [artflow](https://artflow.ai/) - all images are CC BY
+- [Artbreeder](https://www.artbreeder.com/browse) - all images are under CC0
 - [avataaars generator](https://getavataaars.com/)
+
+
+# Maps
 - Un excellent générateur de plan de donjon: [one-page-dungeon by watabou](https://watabou.itch.io/one-page-dungeon).
   Les cartes générées sont de plus éditables avec [RpgMap de Sébastien Benard](https://deepnight.net/tools/rpg-map/).
   Watabou a également réalisé un [générateur de ville médiévale](https://watabou.itch.io/medieval-fantasy-city-generator)
+
+
+# Online image tools
+- [remove.bg | Supprime l'arrière-plan d'une image](https://www.remove.bg/fr)
+- [cleanup.pictures | Supprime n'importe quel objet, personne, texte ou défaut de vos images](https://cleanup.pictures/)
+- [lunapic artistic styles](https://www2.lunapic.com/editor/?action=art)
+- [funny.pho.to charcoal filter](https://funny.pho.to/fr/charcoal/)
+
+## GIFs
+- [Animizer](https://icons8.com/animizer/en/animate-static-image)
+- [EZGIF](https://ezgif.com/effects)
+- [webestools.com Animated Images Effects Generator](http://www.webestools.com/animated-images-effect-generator-effects-gif-images-picture-blog-gif-fx-images-animated-effect.html)
+- [PhotoMosh](https://photomosh.com)
 
 
 # Fonts
