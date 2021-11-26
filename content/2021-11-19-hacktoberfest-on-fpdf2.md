@@ -4,11 +4,10 @@ Tags: lang:en, libre-software, open-source, fpdf2, hacktoberfest, python, pdf, t
 Slug: hacktoberfest-on-fpdf2
 ---
 <!-- Com'
-* [ ] https://medium.com/@Lucas_C
-* [ ] https://linuxfr.org
-* [ ] https://dev.to
-* [ ] https://www.journalduhacker.net
-* [ ] reddit hacktoberfest?
+* [x] notified contributors on their PRs
+* [x] https://linuxfr.org/users/lucas-c/liens/retour-d-experience-du-hacktoberfest-comme-mainteneur-du-projet-fpdf2
+* [x] https://www.journalduhacker.net/s/udvgeu/hacktoberfest_on_fpdf2_v2_4_6
+* [x] https://www.reddit.com/r/hacktoberfest/comments/qxguse/hacktoberfest_on_fpdf2_v246/
 -->
 
 Last month, I realized late that October was [hacktoberfest](https://hacktoberfest.digitalocean.com) month!
@@ -59,10 +58,10 @@ making the tutorial available in 8 languages total! [Link to Tutorial](https://p
 
 * **more than 50 issues & PRs** have been created since October 1st, on the `fpdf2` GitHub repo
 * **v2.4.6** of `fpdf2` has been released, and it is the biggest release since I joined the project: [v2.4.6 ChangeLog](https://github.com/PyFPDF/fpdf2/blob/master/CHANGELOG.md#246---2021-11-16)
-* `fpdf2` reached **300 stars ⭐ & 300 forks** on GitHub! ✨ 🥳 🎉 🎈 🥂
+* `fpdf2` reached **300 stars ⭐** on GitHub! ✨ 🥳 🎉 🎈 🥂
 * it seems like the **peak downloads per day almost doubled** since September: [Pepy stats](https://pepy.tech/project/fpdf2?versions=2.3.5&versions=2.4.2&versions=2.4.3&versions=2.4.5), [PypiStats](https://pypistats.org/packages/fpdf2)
 
-![](images/2021/11/fpdf2-download-stats.png)
+![fpdf2 download statistics](images/2021/11/fpdf2-download-stats.png)
 
 A huge _THANKS!_ to all the people who made contributions to `fpdf2` since October 1st:
 

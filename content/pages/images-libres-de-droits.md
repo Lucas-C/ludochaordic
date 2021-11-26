@@ -423,6 +423,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [wait for the moment](https://www.deviantart.com/tis1451/art/Am-Ende-des-Lichts-5-5-wait-for-the-moment-866457524) - vampire hunter priest
     * [cooking beans with thunder](https://www.deviantart.com/tis1451/art/cooking-beans-with-thunder-862785789)
     * [Jang san tiger](https://www.deviantart.com/tis1451/art/jang-san-tiger-871776702) - yeti-like
+    * [quake doodle 1](https://www.deviantart.com/tis1451/art/quake-doodle-1-897883999) - 3 monsters
 - [Linus Pettersson](https://www.deviantart.com/ubergank/gallery) : **some** CC BY-SA - fantasy, color
 > Professional digital artist and aspiring Industrial Designer from Linköping, Sweden
     * [Dark knight](https://www.deviantart.com/ubergank/art/The-Penitent-One-815448320)
