@@ -41,6 +41,8 @@ personal, minimalist, bookmarking service, in PHP
 
 - [pylint](http://pylint.pycqa.org/en/latest/intro.html) : a Python code static analyzer, for which I added [a check for oversighted implicit string concatenations in sequences](https://github.com/PyCQA/pylint/pull/1655)
 
+- [bandit](https://github.com/PyCQA/bandit) : a Python security linter, for which I added [a check for bidirectional unicode control characters](https://github.com/PyCQA/bandit/pull/757) to detect [TrojanSource](https://trojansource.codes) vulnerabilities
+
 - [<img alt="Logo luigi" src="images/open-source/luigi-logo.png" style="max-width: 6rem">](https://github.com/spotify/luigi) :
 a Python module to build batch pipelines, it handles dependency resolution, workflow management, visualization, etc.
     * added a new parameter type: `DateSecondParameter`

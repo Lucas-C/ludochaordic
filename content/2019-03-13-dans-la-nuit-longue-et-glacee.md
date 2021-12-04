@@ -1,4 +1,4 @@
-Title: Dans la nuit longue et glacée
+Title: Dans la nuit longue et glaciale
 Date: 2019-03-13 20:00
 Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, mecaniques-de-jeu, variante, compte-rendu, opinion, gratuit, damien-rahyll-c, @Henri, @Matt, @ThomasC, @Loïc, jeux
 Slug: dans-la-nuit-longue-et-glacee
@@ -9,7 +9,7 @@ Slug: dans-la-nuit-longue-et-glacee
   <figcaption>The Phantom Hunter - William Blair Bruce</figcaption>
 </figure>
 
-[Dans la nuit longue et glacée](http://troplongpaslu.fr/wp-content/uploads/2018/08/DLNLG_web.pdf) est un jeu
+[Dans la nuit longue et glaciale](http://troplongpaslu.fr/wp-content/uploads/2018/08/DLNLG_web.pdf) est un jeu
 de Damien “Rahyll” C., qui n'en est pas à sa première bafouille puisqu'il a gagné le Game Chef 2016 avec [Matching Hearts](https://rpggeek.com/rpg/37904/matching-hearts).
 
 Le jeu place un joueur dans la peau d'un survivant d'un crash d'hélicoptère, livré à lui même seul dans la montagne.
@@ -72,6 +72,6 @@ S'il n'arrive pas à améliorer cette condition avant qu'il soit écoulé, un je
 ![Hourglass](images/2019/03/hourglass.png)
 
 <style>
-img { max-width: 40rem; }
+img { width: 40rem; }
 p > img { max-height: 10rem; }
 </style>

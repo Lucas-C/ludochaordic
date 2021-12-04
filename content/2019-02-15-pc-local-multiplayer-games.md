@@ -244,7 +244,7 @@ semi-coopératif avec même de sympatiques bosses de fin de niveau !
 La direction artistique est originale, minimaliste mais réussie, et le gameplay très réactif et simple à prendre en main.
 
 <style>
-article img { max-width: 28rem; }
+article img { width: 28rem; }
 .sbm2 { padding: 1rem 0; }
 @media screen and (min-width: 40rem) {
   article img { margin: 1rem; }

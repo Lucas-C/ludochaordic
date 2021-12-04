@@ -71,6 +71,6 @@ Voici donc **Freiberg, nid d'espions**:
 Merci à Aurélien, Henri, Loic & Thomas pour les parties de test !
 
 <style>
-article img { max-width: 30rem; }
+article img { width: 30rem; }
 img.comic-strip { max-height: none; max-width: 100%; }
 </style>

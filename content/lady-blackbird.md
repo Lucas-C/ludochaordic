@@ -1,6 +1,6 @@
 Title: Lady Blackbird
 Date: 2019-01-15 11:00
-Tags: lang:fr, jdr, compte-rendu, partie-jdr-hebdo, playtest, opinion, steampunk, john-harper, @Laetitia, @Simon, @Cedric, jeux
+Tags: lang:fr, jdr, compte-rendu, partie-jdr-hebdo, playtest, opinion, steampunk, john-harper, lady-blackbird, @Laetitia, @Simon, @Cedric, jeux
 Status: draft
 Slug: lady-blackbird
 ---

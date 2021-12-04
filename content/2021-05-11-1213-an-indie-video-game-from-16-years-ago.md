@@ -1,6 +1,6 @@
 Title: 1213, an indie video game from 16 years ago
 Date: 2021-05-11 23:00
-Tags: lang:en, indie-game, video-game, gratuit, playtest, flashback, nostalgia, storytelling, adventure-games, opinion, ben-yahtzee-croshaw, jeux
+Tags: lang:en, indie-game, video-game, gratuit, playtest, flashback, nostalgia, storytelling, adventure-games, opinion, ben-yahtzee-croshaw, GreatOnes, jeux
 Slug: 1213-an-indie-video-game-from-16-years-ago
 ---
 

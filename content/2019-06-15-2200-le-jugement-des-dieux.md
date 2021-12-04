@@ -95,5 +95,5 @@ et à mettre les 2 versions en ligne sur itch.io :
 <https://lucas-c.itch.io/2200-le-jugement-des-dieux>.
 
 <style>
-article img { max-width: 12rem; }
+article img { width: 12rem; }
 </style>

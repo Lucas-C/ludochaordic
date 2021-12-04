@@ -170,8 +170,7 @@ Ce _talk_ s'est conclu par une très intéressante discussion avec Serge et Vict
 Une présentation très complète détaillant beaucoup de conseils pour concevoir des applications distribuées en Python,
 par le développeur de [Gnocchi](https://github.com/gnocchixyz/gnocchi).
 
-<img src="images/2017/09/gnocchi-logo.png" alt="Logo Gnocchi"
-     style="max-width: 20rem">
+<img src="images/2017/09/gnocchi-logo.png" alt="Logo Gnocchi" style="width: 20rem">
 
 Les _slides_ de ce _talk_ étaient très complets. Voici quelques notes en pagaille qui en sont issues.
 

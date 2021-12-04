@@ -106,6 +106,6 @@ Chapeau bas à Damien son auteur, et bonne chance si vous vous aventurez vous au
 
 <style>
 article hr { margin: 5rem; }
-article figure img { max-width: 30rem; }
-article li img { max-width: 7rem; float: right; }
+article figure img { width: 30rem; }
+article li img { width: 7rem; float: right; }
 </style>

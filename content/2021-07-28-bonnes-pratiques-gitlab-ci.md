@@ -235,5 +235,5 @@ Et vous, avez-vous des recommandations à partager autour de Gitlab CI ?
 </script>
 <style>
 section > ul > li { margin-top: .5rem; }
-article img { max-width: 16rem; }
+article img { width: 16rem; }
 </style>

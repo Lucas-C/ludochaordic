@@ -62,5 +62,5 @@ avec des joueurs un peu imaginatifs. Pour ma part j'attends la sortie du jeu fin
 
 
 <style>
-article img { max-width: 20rem; }
+article img { width: 20rem; }
 </style>

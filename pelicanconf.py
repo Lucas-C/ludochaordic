@@ -34,10 +34,9 @@ Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.
 <small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les !</em>😉<em>)</em></small>
 '''
 
-AVATARS = [
-    'images/avatar.jpeg',
-    'images/avatar.jfif',
-]
+EXTRA_PAGE_LINKS = (
+    ("Découvertes vidéoludiques", "https://chezsoi.org/shaarli/?searchtags=GreatOnes"),
+)
 
 # Readings, from most recent to oldest
 READINGS = (
@@ -103,6 +102,11 @@ READINGS = (
     {'date': u'2017-11-14', 'img_url': 'images/readings/l-art-internet.jpg', 'description': "L'Art Internet - Rachel Greene"},
     {'date': u'2017-11-16', 'img_url': 'images/readings/The-Thrilling-Adventures-of-Lovelace-and-Babbage.jpg', 'description': 'The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer'},
 )  # ends READINGS
+
+AVATARS = [
+    'images/avatar.jpeg',
+    'images/avatar.jfif',
+]
 
 # Blogroll
 LINKS = (("Justin Mason's Weblog", 'http://taint.org'),

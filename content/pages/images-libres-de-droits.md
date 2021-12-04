@@ -120,6 +120,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Shadow of the Jaeger](https://www.deviantart.com/karbik/art/Shadow-of-the-Jaeger-561518227)
     * [Polar dilemma](https://www.deviantart.com/karbik/art/Polar-dilemma-461980990)
     * [I'M IN YOUR SERVERS, DROPPING YOUR TABLES](https://www.deviantart.com/karbik/art/I-M-IN-YOUR-SERVERS-DROPPING-YOUR-TABLES-648222610)
+    * [Hunt the heat](https://www.deviantart.com/karbik/art/Hunt-the-heat-576934861)
+    * [Congenial](https://www.deviantart.com/karbik/art/Congenial-576655988)
 - [NicoSaba _aka_ w1r3d](https://www.deviantart.com/nicosaba/gallery/) CC BY - BLAME inspired
 > A mysterious illustrator, presumably japanese
     * [Ivy](https://www.deviantart.com/nicosaba/art/Ivy-849971871)
@@ -634,6 +636,7 @@ Dedicated to Vector graphics & flat / ClipArt images:
     * [Elf princess sketch image](https://freesvg.org/elf-princess-sketch-image)
     * [Attack the Tower 3rd Gen](https://freesvg.org/results)
     * [Yellow Green Leafy Sea Dragon](https://freesvg.org/1526744332)
+- [SVG Silh](https://svgsilh.com) - CC0
 - [svgrepo.com](https://www.svgrepo.com)
 - [CocoMaterial, the Open Source hand-drawn illustration library](https://cocomaterial.com/)
 - [Blush free graphics](https://blush.design/collections)

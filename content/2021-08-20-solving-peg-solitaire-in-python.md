@@ -54,7 +54,7 @@ The program relies on the [gizeh](https://pypi.org/project/gizeh/) & [moviepy](h
 in order to generate the GIFs, but those dependencies are not needed by the solver.
 
 <style>
-img { max-width: 16rem; }
+img { width: 16rem; }
 .side-by-side {
   display: flex;
   justify-content: center;
