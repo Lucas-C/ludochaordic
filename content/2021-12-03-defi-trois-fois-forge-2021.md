@@ -1,10 +1,23 @@
 Title: Défi trois fois forgé 2021
 Date: 2021-12-03 23:00
-Tags: lang:fr, jdr, gratuit, compte-rendu, post-mortem, creative-commons, personal-project, gamedesign, scenario, pdf, discord, playtest, opinion, ptgptb, narration-collective, mecaniques-de-jeu, psirun, lady-blackbird, mise-en-page, libre-office, securite-sociale, gilles-perret, angeldust-fabien-c, jeux
+Tags: lang:fr, jdr, gratuit, compte-rendu, post-mortem, creative-commons, personal-project, gamedesign, scenario, pdf, discord, playtest, opinion, ptgptb, narration-collective, mecaniques-de-jeu, psirun, lady-blackbird, mise-en-page, libre-office, securite-sociale, gilles-perret, tolkraft, jeux
 ---
 <!-- Com'
-* [ ] discord ptgptb
-* [ ] https://hu-mu.blogspot.com/2021/06/cthulhu-cest-ton-destin.html
+* [x] discord PTGPTB
+* [x] https://hu-mu.blogspot.com/2021/06/cthulhu-cest-ton-destin.html
+* [x] emails aux auteurs du top 6
+Une fois le verdict du défi annoncé :
+* [ ] https://www.casusno.fr
+* [ ] https://forums.ffjdr.org/
+* [ ] Discord Auberge
+* [ ] https://www.reddit.com/r/jdr/
+* [ ] https://www.500nuancesdegeek.fr
+* [ ] https://forum.canardpc.com/threads/12905-JDR-Jeux-de-R%C3%B4le-Topic-G%C3%A9n%C3%A9ral
+* [ ] https://www.trictrac.net/forum/discutons-jeux-de-role
+* [ ] https://forum.cwowd.com/c/jeux-de-role/6
+* [ ] https://www.deviantart.com/jeuxderole
+
+Inclure les versions Director's Cut
 -->
 
 Cette année j'ai participé pour la première fois au [défi trois fois forgé](https://ptgptb.fr/defi-troisfoisforge)
@@ -186,7 +199,7 @@ Voici une petite sélection de mes jeux préférés, auxquels je me vois bien jo
 <a href="https://ptgptb.fr/3FF6/etape3/TRAQUEE-3.pdf">
   <figure>
     <img alt="Aperçu miniature" src="images/2021/12/LaReineEtLEclipse-preview.jpg">
-    <figcaption>La Reine et l'Eclipse par CorenDM, Amatsu & DeReel<br>(PDF 16 pages, 2.5 Mo)</figcaption>
+    <figcaption>La Reine et l'Eclipse par CorenDM, <a href="https://www.badnewsonradio.fr/trois-fois-forge-6/">Amatsu</a> & DeReel<br>(PDF 16 pages, 2.5 Mo)</figcaption>
   </figure>
 </a>
 
@@ -220,7 +233,7 @@ Détail qui tue : la feuille de personnage comporte un rappel du système de jeu
 <a href="https://ptgptb.fr/3FF6/etape3/MILDEFF-3.pdf">
   <figure>
     <img alt="Aperçu miniature" src="images/2021/12/LaForetDesRevesPerdus-review.jpg">
-    <figcaption>La Forêt des Rêves Perdus par DeReel, Tolkraft & Xav<br>(PDF 20 pages, 8.8 Mo)</figcaption>
+    <figcaption>La Forêt des Rêves Perdus par <a href="https://dereel.itch.io">DeReel</a>, Tolkraft & Xav<br>(PDF 20 pages, 8.8 Mo)</figcaption>
   </figure>
 </a>
 
@@ -308,7 +321,11 @@ par Rappar, Comicsoap & Fantome AS,
 un jeu [PbtA](https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse) très bien écrit et très drôle
 où l'on joue de jeune sorciers dans une version humoristique d'un célèbre roman
 
-<!-- Inclure les versions Director's Cut -->
+* [PérégriNation](https://ptgptb.fr/3FF6/etape3/ROULDE-3.pdf),
+par Tolkraft, Omega White & Frogeaters,
+un jeu cyberpunk se déroulant en 2167 en Egypte, où les joueuses incarnent des hôtes humains vivant plus ou moins en harmonie
+avec des parasites extra-dimensionnels, les pérégrins.
+La mise en page de Tolkraft est magnifique!
 
 # Le mot de la fin
 
@@ -332,6 +349,28 @@ Ce sont des **pépites brutes**, qui proposent des expériences de jeu véritabl
 hors des sentiers battus. J'espère que ces pépites sauront conquérir le cœur de nombreux rôlistes.
 
 Et sincères félicitations à tous les participants d'avoir réalisé le défi jusqu'au bout !
+
+## EDIT [13/12/2021] Playtest de _Snitch!_
+
+La semaine dernière j'ai eu l'occasion de tester _Snitch!_ avec quatre copains.
+Nous avons employé [une version _printer friendly_](images/2021/12/USUSMI-3-printer-friendly.pdf) du jeu.
+Le hasard a voulu que je sois **le captif**, interrogé par les autres joueurs, **les mafieux**.
+La prise en main s'est fait très facilement, et les deux joueurs non familiers des jeux de rôle
+n'ont eu aucun mal à se plonger dans le jeu.
+
+Globalement, voici les retours que j'ai collecté en fin de partie :
+
+* le jeu est **fun** ! Le principe et la thématique ont plu
+* on est plus proche d'un **jeu de plateau** que d'un jeu de rôle,
+  et les séquences où l'ont s'essayait à jouer notre rôle un peu théâtralement en début de partie
+  se sont petit à petit espacées et raccourcies pour finalement complètement s'estomper face à la mécanique de déduction au cœur du jeu. En l'absence de mécaniques de jeu encourageant le _roleplay_, celui-ci est probablement voué à rester marginal.
+* il nous a semblé qu'il y avait le **bon nombre de personnages** : plus et cela deviendrait laborieux; moins rendrait probablement les choses trop faciles
+* certains joueurs ont trouvé dommage d'être autant **limités sur les questions** qu'ils pouvaient poser.
+  Certaines questions "hors règles" ont d'ailleurs été tentées : _Est-ce qu'une des taupes est une femme ?_ _Est-ce que le nom d'une des balances finit en "o" ?_
+* toujours au sujet des questions, les règles n'indiquent pas clairement si on peut poser une question concernant l'activité 1 des personnages, l'activité 2, ou concernant les deux activités à la fois
+* l'**équilibrage** est encore à peaufiner un peu : j'ai **perdu en tant que captif**, et il m'a paru très difficile de découvrir l'identité des 4 mafieux face à moi
+
+En tout cas c'était très plaisant de tester ce court jeu expérimental !Un grand merci aux auteurs 😉
 
 <style>
 article img { max-height: 20rem; }

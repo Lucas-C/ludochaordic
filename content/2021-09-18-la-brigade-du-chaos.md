@@ -18,8 +18,8 @@ Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-
 * [x] https://rpggeek.com/thread/2728434/article/38492614#38492614
 * [x] https://forum.canardpc.com/threads/12905-JDR-Jeux-de-R%C3%B4le-Topic-G%C3%A9n%C3%A9ral?p=13548708&viewfull=1#post13548708
 * [x] https://www.reddit.com/r/jdr/comments/pt2p93/gratuit_oneshot_traduction_la_brigade_du_chaos/
+* [x] http://www.legrog.org/jeux-amateurs/la-brigade-du-chaos
 * [wip] https://www.annuairejdr.fr
-* [wip] http://www.legrog.org/jeux-amateurs/
 -->
 
 > Incarnez la Brigade du Chaos, une escouade d'orcs chahuteurs en mission pour « infiltrer » une ville humaine afin de kidnapper l'ignoble prince Holstein.

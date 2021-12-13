@@ -143,6 +143,7 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('wikipedia', 'https://fr.wikipedia.org/wiki/Utilisateur:Dr_max_kurt'),
           ('itchio', 'https://lucas-c.itch.io'),
           ('stackoverflow', 'https://stackoverflow.com/users/636849/lucas-cimon'),
+          ('root-me', 'https://www.root-me.org/Lucas-C'),
           ('discord', 'https://discord.com/invite/BJeuEtX'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
           ('reddit', 'https://www.reddit.com/user/lucas-c/posts/'))
