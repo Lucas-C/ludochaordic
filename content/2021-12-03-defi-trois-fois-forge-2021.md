@@ -370,7 +370,17 @@ Globalement, voici les retours que j'ai collecté en fin de partie :
 * toujours au sujet des questions, les règles n'indiquent pas clairement si on peut poser une question concernant l'activité 1 des personnages, l'activité 2, ou concernant les deux activités à la fois
 * l'**équilibrage** est encore à peaufiner un peu : j'ai **perdu en tant que captif**, et il m'a paru très difficile de découvrir l'identité des 4 mafieux face à moi
 
-En tout cas c'était très plaisant de tester ce court jeu expérimental !Un grand merci aux auteurs 😉
+En tout cas c'était très plaisant de tester ce court jeu expérimental !
+Un grand merci aux auteurs 😉
+
+## EDIT [23/12/2021] Classement final de P²
+
+_Le Placard des Profondeurs_ termine finalement à la 12e place sur 30.
+
+Merci aux relecteurs @Tolkraft, @Eikseï, @Pounous & @Xav pour leurs feedbacks très construits & pertinents !
+
+Je pense sortir une version _Director's Cut_ la semaine prochaine,
+basée sur leurs retours et quelques idées qui me sont venues depuis...
 
 <style>
 article img { max-height: 20rem; }
