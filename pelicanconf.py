@@ -40,6 +40,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2021-12-27', 'img_url': 'images/readings/ion-mud.jpg', 'description': "Ion Mud - Amaury Bündgen (BD)"},
     {'date': u'2021-12-21', 'img_url': 'images/readings/FaussesPistes.jpg', 'description': "Fausses pistes - Duhamel (BD)"},
     {'date': u'2021-11-15', 'img_url': 'images/readings/encore-des-patates.webp', 'description': "Encore des patates !? Pour une Sécurité Sociale de l'Alimentation (BD)"},
     {'date': u'2021-08-22', 'img_url': 'images/readings/the-private-eye.jpg', 'description': "The Private Eye - Brian K Vaughan &  Marcos Martin (BD)"},

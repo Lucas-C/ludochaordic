@@ -384,10 +384,4 @@ basée sur leurs retours et quelques idées qui me sont venues depuis...
 
 <style>
 article img { max-height: 20rem; }
-.side-by-side {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.side-by-side > * { margin: 0 2rem; }
 </style>

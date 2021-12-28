@@ -1,6 +1,6 @@
 Title: Les Couloirs du Temps, un scénario pour Run Die Repeat
 Date: 2020-11-30 11:00
-Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, cyberconv, jeux
+Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, cyberconv, web-app, jeux
 Slug: les-couloirs-du-temps-un-scenario-pour-run-die-repeat
 ---
 
