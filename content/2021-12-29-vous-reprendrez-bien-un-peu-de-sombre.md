@@ -1,17 +1,21 @@
 Title: Vous reprendrez bien un peu de Sombre ?
 Date: 2021-12-29 23:30
-Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, johan-scipion, @Aurelien, @Michael, @Matt, @Kevin, jeux
+Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, scenario, johan-scipion, mecaniques-de-jeu, mise-en-page, @Aurelien, @Michael, @Matt, @Kevin, jeux
 ---
+<!-- Com'
+* https://www.terresetranges.net/forums/viewtopic.php?pid=20266#p20266
+* PM à Axel sur FB JeudiJDR
+-->
 
 > **Sombre : la peur comme au cinéma** est un jeu de rôle d’horreur contemporain. Il met en scène des antihéros qui essaient de survivre dans un monde particulièrement violent et hostile. L’univers de jeu proposé est celui des films d’horreur, soit un monde contemporain particulièrement dur où fous dangereux et maniaques du découpage de viande humaine sont légion.
 
 Site officiel : [TerresEtranges.net](https://www.terresetranges.net/sombre.html). _Trailer_ :
 
-<iframe width="800" height="450" src="https://www.youtube.com/watch?v=-5sJzJfEgKY" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/-5sJzJfEgKY" allowfullscreen></iframe>
 
 J'ai déjà eu l'occasion d'évoquer ce JdR dans [deux précédent articles](tag/sombre.html).
 
-Lors d'une après-midi la semaine dernière avec quatre amis, nous avons joué **trois scénarios Sombre Zéro**, la variante la plus minimaliste du système de jeu de Johan Scipion.
+Lors d'une après-midi la semaine dernière avec quatre amis, tous rôlistes chevronnés, nous avons joué **trois scénarios Sombre Zéro**, la variante la plus minimaliste du système de jeu de Johan Scipion.
 
 Voici donc un petit retour sur ce _triple feature_.
 
@@ -78,7 +82,7 @@ Pour la postérité, voici les paires de lieu / monstre que j'ai tiré :
 
 Le « plat principal » de milieu de session !
 Un scénario d'Axel Tentacle, de la chaîne Youtube [Jeudi JdR](https://www.youtube.com/channel/UCPS_7ef_xjABXpXWWn9NUAA), [partagé sur le forum TerresEtranges.net](https://www.terresetranges.net/forums/viewtopic.php?pid=19630#p19630), inspiré de REC & _Blair Witch_.
-J'ai d'ailleurs employé [la bande son du jeu vidéo de 2029](https://www.youtube.com/watch?v=0sVnce8iSSk)
+J'ai d'ailleurs employé [la bande son du jeu vidéo de 2019](https://www.youtube.com/watch?v=0sVnce8iSSk)
 comme ambiance sonore, et c'était parfait !
 
 > 1973, vous incarnez de jeunes adolescents, nouveaux arrivants dans une petite ville américaine.

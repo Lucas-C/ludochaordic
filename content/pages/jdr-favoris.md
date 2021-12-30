@@ -277,7 +277,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary" id="sombre-light">Sombre Light</h2>
+    <h2 class="uk-text-bold uk-text-primary" id="sombre-zero">Sombre Zéro</h2>
     <img class="uk-align-center" src="images/jdr/sombre3.jpg" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
@@ -289,7 +289,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
       </dl>
       <ul>
         <li><a href="https://www.terresetranges.net/sombre.html">Site officiel</a></li>
-        <li><a href="espace-profond-et-sanglant.html">Mon avis sur le niméro 3</a></li>
+        <li><a href="tag/sombre.html">Tous mes articles sur ce jeu</a></li>
       </ul>
       <blockquote>
       Les joueurs incarnent des victimes de films d'horreur. Typiquement, ils doivent survivre face à une situation d'horreur (survival horror),
@@ -306,7 +306,9 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
 </div>
 
 Il y en bien d'autres, mais il fallait bien faire une sélection ici :
+[La Brigade du Chaos](https://chezsoi.org/lucas/blog/la-brigade-du-chaos.html),
 [Run Die Repeat](https://chezsoi.org/lucas/blog/run-die-repeat.html),
+[Tel Ulysse](https://chezsoi.org/lucas/blog/tel-ulysse.html),
 [Dungeon Hearts](https://chezsoi.org/lucas/blog/dungeon-heart-heroes-and-spells.html),
 [Genius Loci](https://chezsoi.org/lucas/blog/genie-domestique.html),
 [L'île mystérieuse](https://chezsoi.org/lucas/blog/ldcslg-et-l-ile-mysterieuse.html),

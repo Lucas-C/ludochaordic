@@ -1,12 +1,12 @@
 Title: Défi trois fois forgé 2021
 Date: 2021-12-03 23:00
-Tags: lang:fr, jdr, gratuit, compte-rendu, post-mortem, creative-commons, personal-project, gamedesign, scenario, pdf, discord, playtest, opinion, ptgptb, narration-collective, mecaniques-de-jeu, psirun, lady-blackbird, mise-en-page, libre-office, securite-sociale, gilles-perret, tolkraft, jeux
+Tags: lang:fr, jdr, gratuit, compte-rendu, post-mortem, creative-commons, personal-project, gamedesign, scenario, pdf, discord, playtest, opinion, ptgptb, narration-collective, mecaniques-de-jeu, psirun, lady-blackbird, mise-en-page, libre-office, securite-sociale, gilles-perret, tolkraft, defi-3ff, jeux
 ---
 <!-- Com'
 * [x] discord PTGPTB
 * [x] https://hu-mu.blogspot.com/2021/06/cthulhu-cest-ton-destin.html
 * [x] emails aux auteurs du top 6
-Une fois le verdict du défi annoncé :
+Une fois le verdict du défi annoncé / la version Director's Cut :
 * [ ] https://www.casusno.fr
 * [ ] https://forums.ffjdr.org/
 * [ ] Discord Auberge
@@ -17,10 +17,10 @@ Une fois le verdict du défi annoncé :
 * [ ] https://forum.cwowd.com/c/jeux-de-role/6
 * [ ] https://www.deviantart.com/jeuxderole
 
-Inclure les versions Director's Cut
+Inclure ici un lien vers l'article de release de la Director's Cut
 -->
 
-Cette année j'ai participé pour la première fois au [défi trois fois forgé](https://ptgptb.fr/defi-troisfoisforge)
+Cette année j'ai participé pour la première fois au [défi Trois Fois Forgé](https://ptgptb.fr/defi-troisfoisforge)
 organisé par le site [PtgPtb.fr](https://ptgptb.fr).
 
 Le principe ? Un défi d'écriture où chaque auteur participe successivement à la création de trois jeux de rôle (JdR).
