@@ -65,3 +65,11 @@ Now lets prove this.
 \`"Then given (1) :" EE K in NN " such as " a²+b² = Kg²(ab+1) "."\`
 \`"By definition of " g " : " gcd(g, ab + 1) = 1 " and hence " gcd(g², ab + 1) = 1 "."\`
 \`"Consequently " K " divides " a²+b² "(2) ."\`
+
+<style>
+article iframe {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+}
+</style>

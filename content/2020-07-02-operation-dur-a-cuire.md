@@ -88,5 +88,6 @@ la maquette est réussie, joliment structurée et illustrée.
 article iframe {
   display: block;
   margin: 1rem auto;
+  max-width: 100%;
 }
 </style>

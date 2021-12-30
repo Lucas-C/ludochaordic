@@ -15,3 +15,11 @@ Pour une explication drôle de la situation là-bas, à base de photos de pénis
 En France, le Syndicat de la Magistrature, Reporters sans frontières, Amnesty International et la Ligue des Droits de l'Homme sont opposé au texte.
 
 Et vous ?
+
+<style>
+article iframe {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+}
+</style>

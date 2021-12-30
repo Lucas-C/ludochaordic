@@ -38,3 +38,11 @@ set printoptions=number:y,left:5pc
 And [the final .ps file](/lucas/blog/images/2015/Fev/UnixUsefulCmds.ps).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wudV1c9jLKM" allowfullscreen></iframe>
+
+<style>
+article iframe {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+}
+</style>

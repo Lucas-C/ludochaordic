@@ -77,5 +77,5 @@ Un court métrage humoristique sur le quotidien d'une équipe en charge d'une ce
 Mon préféré personnellement, très drôle, également réalisé par des étudiants de l'école MOPA.
 
 <style>
-iframe, img { display: block; margin: 0 auto; }
+article iframe, article img { display: block; margin: 0 auto; max-width: 100%; }
 </style>

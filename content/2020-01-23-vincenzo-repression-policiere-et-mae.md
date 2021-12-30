@@ -79,3 +79,12 @@ Enfin, je rappelle quelques liens importants :
 
 - [le site du comité de soutien à Vincenzo](https://www.comite-soutien-vincenzo.org)
 - [la pétition change.org](https://www.change.org/p/soci%C3%A9t%C3%A9-civile-libert%C3%A9-pour-vincenzo-vecchi?recruiter=993659191&recruited_by_id=2cceeeb0-c2bc-11e9-9d01-efeb0a57e58f&utm_source=share_petition&utm_medium=copylink&utm_campaign=petition_dashboard&utm_content=bandit-starter_cl_share_content_fr-fr%3Av5)
+
+
+<style>
+article iframe {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+}
+</style>

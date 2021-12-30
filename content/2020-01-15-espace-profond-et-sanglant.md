@@ -1,6 +1,6 @@
 Title: Espace profond et sanglant
 Date: 2020-01-15 22:00
-Tags: lang:fr, jdr, playtest, opinion, compte-rendu, space, horror, alien, johan-scipion, @Camille, @Matt, @Michael, @Laetitia, jeux
+Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, space, horror, alien, johan-scipion, @Camille, @Matt, @Michael, @Laetitia, jeux
 Slug: espace-profond-et-sanglant
 ---
 

@@ -1,9 +1,9 @@
 Title: 5 Minute Dungeon : variante CIBLE
-Date: 2021-12-28 20:00
+Date: 2021-12-28 13:30
 Tags: lang:fr, lang:en, jeu-de-societe, board-game, coop, fantasy, dungeon-crawler, boardgamegeek, traduction, variante, gratuit, web-app, @Juliette, @PE, jeux
 ---
 <!-- Com'
-* https://boardgamegeek.com
+* https://boardgamegeek.com/boardgame/207830/5-minute-dungeon/files
 * https://www.trictrac.net/jeu-de-societe/5-minute-dungeon-master-edition/ressources
 * https://gusandco.net/2020/03/09/5-minute-dungeon-critique-jeu/
 * https://paradoxetemporel.fr/21656-test-de-5-minute-dungeon-de-connor-reid-chez-spin-master.html
@@ -38,7 +38,7 @@ J'ai eu l'occasion de la tester dimanche, et c'était **un franc succès** !
 Le jeu s'en retrouve corsé d'une petite difficulté supplémentaire,
 qui augmente encore un peu la tension et l'attention des joueurs,
 surtout lorsque chacun a sa propre CIBLE !
-Cerise sur le gateau : cette variante donne plus de valeurs aux illustrations,
+Cerise sur le gâteau : cette variante donne plus de valeurs aux illustrations,
 trop souvent ignorées lors d'une partie classique.
 
 J'ai donc décidé de **traduire cette variante en français**

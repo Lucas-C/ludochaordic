@@ -486,4 +486,9 @@ but are still interested by the ethics & goals of Libre & Open Source software:
 <style>
 article img { max-height: 15rem; }
 article video { display: block; margin: 0 auto; }
+article iframe {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+}
 </style>

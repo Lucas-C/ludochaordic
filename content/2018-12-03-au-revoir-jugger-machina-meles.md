@@ -161,6 +161,7 @@ article iframe, article img {
     display: block;
     margin: 3rem auto;
     max-height: 25rem;
+    max-width: 100%;
 }
 article figcaption {
     margin-top: -2rem;

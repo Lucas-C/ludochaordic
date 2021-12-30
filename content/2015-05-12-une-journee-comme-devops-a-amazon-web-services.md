@@ -18,3 +18,11 @@ Les slides sont accessibles [ici](/lucas/HTML_2015-05-12), ainsi que [les source
 Je vous encourage également a visionner les 3 autres talks du jour, listés [sur la page de l'évênement](http://mainelabs.fr/evenement/humantalks-mai-2015), tous réellement passionant !
 
 Et merci à toute l'équipe de MaineLabs pour organiser ce super évênement mensuel.
+
+<style>
+article iframe {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+}
+</style>
