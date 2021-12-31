@@ -8,7 +8,7 @@ Slug: traduction-de-jdr-monopage-de-grant-howitt
 
 [Grant Howitt](http://lookrobot.co.uk/games/) est un créateur de jeu de rôle que j'aime beaucoup.
 Auteur prolifique, comme en attestent [ses nombreux jeux publiés](https://rowanrookanddecard.com/designer/grant-howitt/),
-j'affectionne particulièrement sa série de jeux monopage (oui, [c'est mon dada](https://chezsoi.org/lucas/blog/tag/monopage.html)),
+j'affectionne particulièrement sa série de jeux monopage (oui, [c'est mon dada](/lucas/blog/tag/monopage.html)),
 tous très inventifs.
 
 J'ai déjà parlé de son excellent jeu _Genius Loci_ dans [un article précédent](http://localhost:8888/genie-domestique.html).

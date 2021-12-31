@@ -1,6 +1,6 @@
 Title: Défi trois fois forgé 2021
 Date: 2021-12-03 23:00
-Tags: lang:fr, jdr, gratuit, compte-rendu, post-mortem, creative-commons, personal-project, gamedesign, scenario, pdf, discord, playtest, opinion, ptgptb, narration-collective, mecaniques-de-jeu, psirun, lady-blackbird, mise-en-page, libre-office, securite-sociale, gilles-perret, tolkraft, defi-3ff, jeux
+Tags: lang:fr, jdr, gratuit, compte-rendu, post-mortem, pbta, creative-commons, personal-project, gamedesign, scenario, pdf, discord, playtest, opinion, ptgptb, narration-collective, mecaniques-de-jeu, psirun, lady-blackbird, mise-en-page, libre-office, securite-sociale, gilles-perret, tolkraft, defi-3ff, jeux
 ---
 <!-- Com'
 * [x] discord PTGPTB
@@ -68,7 +68,7 @@ des amorces de scénario basées sur les années 1945-1946 en France...
 Le système de jeu était très ludique / simulationniste,
 et entraînait des choix tactiques que j'espérais intéressant.
 L'idée était essentiellement de proposer un [PMT](https://fr.wikipedia.org/wiki/Porte-monstre-tr%C3%A9sor)
-à jouer à grande vitesse, en 60 min seulement (sans doute influencé là par [_Run. Die. Repeat._](https://chezsoi.org/lucas/blog/tag/run-die-repeat.html)).
+à jouer à grande vitesse, en 60 min seulement (sans doute influencé là par [_Run. Die. Repeat._](/lucas/blog/tag/run-die-repeat.html)).
 
 Voici les deux forges qui ont suivi ensuite :
 

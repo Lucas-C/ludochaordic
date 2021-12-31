@@ -4,6 +4,7 @@ Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, scenario, j
 ---
 <!-- Com'
 * https://www.terresetranges.net/forums/viewtopic.php?pid=20266#p20266
+* https://www.terresetranges.net/forums/viewtopic.php?pid=20267#p20267
 * PM à Axel sur FB JeudiJDR
 -->
 
@@ -13,7 +14,7 @@ Site officiel : [TerresEtranges.net](https://www.terresetranges.net/sombre.html)
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/-5sJzJfEgKY" allowfullscreen></iframe>
 
-J'ai déjà eu l'occasion d'évoquer ce JdR dans [deux précédent articles](tag/sombre.html).
+J'ai déjà eu l'occasion d'évoquer ce [JdR](/lucas/blog/tag/jdr.html) dans [deux précédent articles](tag/sombre.html).
 
 Lors d'une après-midi la semaine dernière avec quatre amis, tous rôlistes chevronnés, nous avons joué **trois scénarios Sombre Zéro**, la variante la plus minimaliste du système de jeu de Johan Scipion.
 

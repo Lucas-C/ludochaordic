@@ -64,7 +64,7 @@ pour ensuite aller chercher Loubiakov en salle d'interrogatoire à l'étage.
 Les choses se sont ensuite beaucoup compliqué, et Loubiakov à fini par traverser une fenêtre pile à la fin du minuteur...
 pour atterrir dans la cour intérieure !
 
-Le thème de la course poursuite me rappelle un peu [Psi*Run](https://chezsoi.org/lucas/blog/tag/psirun.html) de Meguey Baker,
+Le thème de la course poursuite me rappelle un peu [Psi*Run](/lucas/blog/tag/psirun.html) de Meguey Baker,
 mais la mécanique du jeu m'a surtout évoqué un film d'action injustement méconnu avec Nicolas Cage, _Next_,
 où le héro est capable de prédire l'avenir immédiat :
 

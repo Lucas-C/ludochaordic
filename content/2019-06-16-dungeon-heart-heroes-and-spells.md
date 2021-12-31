@@ -1,6 +1,6 @@
 Title: Dungeon Heart - Heroes & Spells
 Date: 2019-06-16 20:00
-Tags: lang:fr, jdr, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, coop, variante, playtest, opinion, gratuit, dungeon-keeper, @Matt, @NicolasL, jeux
+Tags: lang:fr, jdr, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, coop, variante, playtest, opinion, gratuit, dungeon-keeper, @Matt, @kleph, jeux
 Slug: dungeon-heart-heroes-and-spells
 ---
 ![Aggron Stonebreak The Ogre Magi](images/2019/06/aggron_stonebreak_the_ogre_magi_by_halycon450.png)
@@ -11,7 +11,7 @@ En bref, voici les fichiers qui pourraient vous intéresser :
 - l'extension _Dungeon Heart - Heroes & Spells_ en français : [web](https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/) - [PDF](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf)
 - the expansion _Dungeon Heart - Heroes & Spells_ in English : [web](https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - [PDF](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-en.pdf)
 
-Présenté dans l'[article précédent](dungeon-heart.html), _Dungeon Heart_ est un jeu de rôle coopératif sans meneur
+Présenté dans l'[article précédent](dungeon-heart.html), _Dungeon Heart_ est un jeu de rôle [coopératif](/lucas/blog/tag/coop.html) sans meneur
 où l'on incarne les gardiens d'un donjon devant faire face à des hordes d'aventuriers.
 
 Le week-end dernier nous avons fait une seconde partie de test du jeu, à 3 joueurs cette fois,
