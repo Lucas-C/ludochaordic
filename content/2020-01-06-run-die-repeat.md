@@ -1,6 +1,6 @@
 Title: Courir. Mourir. Recommencer.
 Date: 2020-01-06 21:00
-Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, compte-rendu, traduction, variante, cthulhu, run-die-repeat, @Matt, @Michael, @Laetitia, jeux
+Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, compte-rendu, traduction, variante, cthulhu, run-die-repeat, zero-prep, @Matt, @Michael, @Laetitia, jeux
 Slug: run-die-repeat
 ---
 

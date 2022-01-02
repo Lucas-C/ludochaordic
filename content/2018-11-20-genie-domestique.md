@@ -1,6 +1,6 @@
 Title: Génie domestique
 Date: 2018-11-20 21:30
-Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, grant-howitt, aide-de-jeu, gratuit, @Matt, @Naïg, @Cédric, jeux
+Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, zero-prep, monopage, grant-howitt, aide-de-jeu, gratuit, @Matt, @Naïg, @Cédric, jeux
 Slug: genie-domestique
 ---
 
@@ -11,7 +11,7 @@ Slug: genie-domestique
     <figcaption><a href="https://www.flickr.com/photos/digitalrob70/3736263913/in/photolist-6Gak6k-ndPvyA-oE99K3-U6SUQu-Vcqj8g-qxRXES-MCUqLF-dLfEXY-hCAPS4-dSXX6k-Sb4ZnV-dUUTc8-SLLyFj-ST6Tz1-f1W1Ma-3o9gkV-ekqJKF-3odLbU-pkyUZ1-V49kDN-q6ZK6u-fE6FVr-2cPytgN-Ub1y3y-3o9fMB-efrLux-5Axiq4-qQkLiU-59dDme-8t1zDT-UR5sJ4-bpACnN-q3obA6-dVp8Zz-X4SNoZ-cYBYLw-W5LbT3-pAqSdp-56944f-9f4mTK-ifWsJY-QHt3vf-dCvmf4-raXAQb-s4JuYx-6B3tAL-557Zh7-84LmCH-fdkQnq-NYuz6v">Castle Combe, Wiltshire, England</a> by Robert Lennon - <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
 </figure>
 
-Voici le pitch de [Genius Loci](https://rowanrookanddecard.com/product/genius-loci/), le JdR monopage de Grant Howitt
+Voici le pitch de [Genius Loci](https://rowanrookanddecard.com/product/genius-loci/), le JdR [monopage](/lucas/blog/tag/monopage.html) de Grant Howitt
 auquel nous avons joué lors de notre session hebdomadaire.
 
 Tout commence avec la création des PJs à partir d'une table aléatoire.

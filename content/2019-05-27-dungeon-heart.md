@@ -1,6 +1,6 @@
 Title: Dungeon Heart
 Date: 2019-05-27 23:00
-Tags: lang:fr, lang:en, jdr, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, variante, playtest, opinion, gratuit, dungeon-keeper, willy-favre, @Matt, @ThomasG, @Henri, jeux
+Tags: lang:fr, lang:en, jdr, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, variante, playtest, zero-prep, opinion, gratuit, dungeon-keeper, willy-favre, @Matt, @ThomasG, @Henri, jeux
 Slug: dungeon-heart
 ---
 [![Couverture du jeu](images/2019/05/dungeon-heart.png)](images/2019/05/dungeon-heart.png)
@@ -15,7 +15,7 @@ Très franchement, le jeu était carrément à la hauteur de mes attentes, et je
 J'ai été tellement conquis que j'ai même déjà traduit le jeu en français et écrit une petite extension d'une page !
 
 Dans cet article je compte présenter la version 1.6 de ce jeu que nous avons testé, faire un rapide compte rendu de notre partie,
-puis discuter les mécaniques de jeu et explorer quelques variantes possibles.
+puis discuter les [mécaniques de jeu](/lucas/blog/tag/mecaniques-de-jeu.html) et explorer quelques variantes possibles.
 
 ## Cœur de Donjon
 

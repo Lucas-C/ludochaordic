@@ -1,6 +1,6 @@
 Title: L'assassin de la reine
 Date: 2019-08-16 19:00
-Tags: lang:fr, jdr, gratuit, monopage, playtest, opinion, compte-rendu, partie-jdr-hebdo, variante, matthieu-be, clarity-flowers, @Henri, @Estelle, jeux
+Tags: lang:fr, jdr, gratuit, monopage, zero-prep, playtest, opinion, compte-rendu, partie-jdr-hebdo, variante, matthieu-be, clarity-flowers, @Henri, @Estelle, jeux
 Slug: lassassin-de-la-reine
 ---
 
@@ -8,7 +8,7 @@ Slug: lassassin-de-la-reine
 
 > Un jeu rapide d'intrigues, de trahisons, et de romances pour trois joueurs et plus
 
-J'ai eu l'occasion de tester hier ce très chouette jeu de rôle de [@clarity_flowers (PDF sur itch.io)](<https://strangerelics.itch.io/queen-killer>)
+J'ai eu l'occasion de tester hier ce très chouette [jeu de rôle](/lucas/blog/tag/jdr.html) de [@clarity_flowers (PDF sur itch.io)](<https://strangerelics.itch.io/queen-killer>)
 traduit en français par [Matthieu Bé (PDF sur itch.io)](https://matthieu-be.itch.io/queen-killer-vf),
 et découvert via l'excellent site [troplongpaslu.fr](http://troplongpaslu.fr/jeux-de-role-court/queen-killer/).
 

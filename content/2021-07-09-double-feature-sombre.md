@@ -1,6 +1,6 @@
 Title: Double feature SOMBRE
 Date: 2021-07-09 15:00
-Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, saw, unknown-armies, unlock, johan-scipion, @Aurelien, @Nicolas, @Michael, @Juliette, @PE, jeux
+Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, saw, unknown-armies, unlock, johan-scipion, julien-death-ambre-de-monte, @Aurelien, @Nicolas, @Michael, @Juliette, @PE, jeux
 Slug: double-feature-sombre
 ---
 
@@ -9,7 +9,7 @@ Slug: double-feature-sombre
   <img alt="Couverture de Diet Life" src="images/2021/07/Sombre-DietLife.jpg">
 </div>
 
-Petit retour de partie d'hier soir, où nous avons joué deux scénarios du jeu de rôle [Sombre](https://www.terresetranges.net/sombre.html) de Johan Scipion :
+Petit [retour de partie](tag/compte-rendu.html) d'hier soir, où nous avons joué deux scénarios du jeu de rôle [Sombre](https://www.terresetranges.net/sombre.html) de Johan Scipion :
 
 * **Ubiquité**, scénario _Sombre Classic_ de 60min issu de [Sombre n°2](https://www.terresetranges.net/forums/viewtopic.php?pid=7439#p7439), joué à 1 MJ + 5 joueurs
 

@@ -1,6 +1,6 @@
 Title: Psi*Run : résumé de partie et avis personnel
 Date: 2017-01-04 19:01
-Tags: lang:fr, jdr, psirun, rpg-bonhomme, narration-collective, compte-rendu, mecaniques-de-jeu, meguey-baker, jeux
+Tags: lang:fr, jdr, zero-prep, one-shot, psirun, rpg-bonhomme, narration-collective, compte-rendu, mecaniques-de-jeu, meguey-baker, jeux
 Slug: psi-run-resume-de-partie-et-avis-personnel
 ---
 <img alt="Couverture du jeu de rôle PsiRun" src="images/2017/01/psirun-couverture.png">
@@ -15,7 +15,7 @@ Et voici le résultat:
 
 Spoiler: la partie était super sympa, ça a été l'occasion de faire découvrir le jdr à une amie.
 Le jeu est bien équilibré, nerveux et original.
-Et très axé narration collective. Parfait pour improviser un One-Shot !
+Et très axé narration collective. Parfait pour improviser un [One-Shot](/lucas/blog/tag/one-shot.html) !
 
 Chapeau à son auteur, [Meguey Baker](http://nightskygames.com/welcome/game/PsiRun), et merci à Alexis Lamiable pour [la VF](https://electric-goat.net/products/1).
 

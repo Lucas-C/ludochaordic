@@ -29,7 +29,7 @@ On peut avoir assez vite l'impression d'avoir « fait le tour » du jeu,surtout
 
 Heureusement dans ces cas là, il y a **les variantes de fan**
 qu'on peut souvent trouver sur [BoardGameGeek](https://boardgamegeek.com/boardgame/207830/5-minute-dungeon/forums/69).
-Et j'ai été ravi de découvrir la variante CIBLE de **Laos the Lurking** :
+Et j'ai été ravi de découvrir la [variante](/lucas/blog/tag/variante.html) CIBLE de **Laos the Lurking** :
 [Find and rescue the enchanted princess](https://boardgamegeek.com/thread/1855051/variant-find-and-rescue-enchanted-princess).
 
 > J'ai récemment acheté le jeu et j'y ai joué avec quatre amis tout de suite. C'était hilarant, même pour un gars qui se moque d'habitude des jeux coopératifs. De manière surprenante, nous avons remporté toute la campagne du jeu de base. [...] J'ai donc réfléchi à une façon de pimenter encore plus l'expérience pour moi et mes amis.

@@ -1,6 +1,6 @@
 Title: La Brigade du Chaos
 Date: 2021-09-18 17:00
-Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-blackbird, john-harper, jeux
+Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-blackbird, john-harper, zero-prep, jdr4kids, jeux
 ---
 <!-- Com'
 * [x] blog post & page jeux-de-role
@@ -27,7 +27,7 @@ Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-
 <em>[![Couverture du jeu Havoc Brigade](images/2021/09/Havoc-Brigade-cover.jpg)](https://lucas-c.itch.io/la-brigade-du-chaos)
 <center>(cliquez sur l'image pour accéder au jeu)</center></em>
 
-La Brigade du Chaos est la traduction de **Havoc Brigade** de Grant Howitt.
+La Brigade du Chaos est la [traduction](/lucas/blog/tag/traduction.html) de **Havoc Brigade** de Grant Howitt.
 
 > C'est un jeu au ton léger. Ce n'est pas une histoire de bouleversement émotionnel profond et d'introspection
 > torturée. C'est une histoire d'explosions, de grosses bastons, de vols de trucs, de panique générale et,

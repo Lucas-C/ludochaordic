@@ -1,6 +1,6 @@
 Title: Dans la nuit longue et glaciale
 Date: 2019-03-13 20:00
-Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, mecaniques-de-jeu, variante, compte-rendu, opinion, gratuit, damien-rahyll-c, @Henri, @Matt, @ThomasC, @Loïc, jeux
+Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, mecaniques-de-jeu, variante, compte-rendu, opinion, zero-prep, gratuit, damien-rahyll-c, game-chef, @Henri, @Matt, @ThomasC, @Loïc, jeux
 Slug: dans-la-nuit-longue-et-glacee
 ---
 
@@ -10,7 +10,7 @@ Slug: dans-la-nuit-longue-et-glacee
 </figure>
 
 [Dans la nuit longue et glaciale](http://troplongpaslu.fr/wp-content/uploads/2018/08/DLNLG_web.pdf) est un jeu
-de Damien “Rahyll” C., qui n'en est pas à sa première bafouille puisqu'il a gagné le Game Chef 2016 avec [Matching Hearts](https://rpggeek.com/rpg/37904/matching-hearts).
+de [Damien “Rahyll” C.](/lucas/blog/tag/damien-rahyll-c.html), qui n'en est pas à sa première bafouille puisqu'il a gagné le Game Chef 2016 avec [Matching Hearts](https://rpggeek.com/rpg/37904/matching-hearts).
 
 Le jeu place un joueur dans la peau d'un survivant d'un crash d'hélicoptère, livré à lui même seul dans la montagne.
 Je dis bien _un survivant_ car il n'y a bien qu'un unique personnage principal ici,

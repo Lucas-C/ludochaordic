@@ -1,6 +1,6 @@
 Title: Faire découvrir le JdR et Fête du jeu
 Date: 2020-03-16 14:30
-Tags: lang:fr, jdr, maine-et-loire, gratuit, auberge-des-reveurs, ffjdr, le-grumph, kalwrynn, libre-office, creative-commons, jeux
+Tags: lang:fr, jdr, maine-et-loire, gratuit, auberge-des-reveurs, ffjdr, le-grumph, kalwrynn, libre-office, creative-commons, jdr4kids, jeux
 ---
 Il y a une semaine, j'ai eu la chance d'être invité le samedi à [la Fête du jeu](https://www.les-garennes-sur-loire.fr/%C3%A9v%C3%A8nement/fete-du-jeu/?instance_id=456)
 à Saint Jean-des-Mauvrets, pour y faire découvrir le **jeu de rôle** aux joueurs curieux.
@@ -24,7 +24,7 @@ Des animateurs proposaient également d'expliquer les règles jeux aux gens.
 
 Pour rester dans le même esprit et le même format, je voulais également proposer aux gens de
 **tester une partie de jeu de rôle en 30min-45min**,
-une durée proche de celle d'un jeu de société "plus classique".
+une durée proche de celle d'un [jeu de société](/lucas/blog/tag/jeu-de-societe.html) "plus classique".
 
 En faisant le tour de [mes JdR favoris](pages/jdr-favoris.html),
 seuls [Run. Die. Repeat](run-die-repeat.html) ou une partie de [Sombre Light](espace-profond-et-sanglant.html) auraient pu convenir au format,
@@ -58,7 +58,7 @@ Voici le résultat, conçu exclusivement avec des illustrations _Creative Common
 [![Photo de la table de jeu à la Fête du jeu, côté joueurs](images/2020/03/FeteDuJeu_OriMushi_FPetIllustrations.jpg)](images/2020/03/FeteDuJeu_OriMushi_FPetIllustrations.jpg)
 
 Durant la Fête du Jeu, je n'ai eu l'occasion de tester ce petit scénario qu'avec un petit groupe de 4 adolescents.
-Mais ils m'ont semblé plutôt content de la partie,
+Mais ils m'ont semblé plutôt contents de la partie,
 et pour ma part je compte bien le réemployer à l'avenir !
 Un grand merci à Kalwrynn et à son essai, que je recommande vivement.
 

@@ -1,6 +1,6 @@
 Title: Un scénario pour Run Die Repeat pour les enfants
 Date: 2020-07-06 15:30
-Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, @Matt, @Julie, @Louka, jeux
+Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, zero-prep, jdr4kids, @Matt, @Julie, @Louka, jeux
 Slug: un-scenario-pour-run-die-repeat-pour-les-enfants
 Image: images/jdr/rdr/halloween_witch_face_profile_by_scottepentzer_d5hadl5-fullview.jpg
 ---

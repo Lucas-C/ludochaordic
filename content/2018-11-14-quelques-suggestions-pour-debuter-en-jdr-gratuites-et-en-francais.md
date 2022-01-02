@@ -1,10 +1,10 @@
 Title: Quelques suggestions pour débuter en jeu de rôle, gratuites et en français
 Date: 2018-11-14 23:45
-Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jeux, @Matt
+Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jdr4kids, jeux, @Matt
 Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 ---
 
-Le week-end dernier, un de mes cousins m'a demandé si je pouvais le conseiller pour faire découvrir le jeu de rôle à des enfants / ados dans le cadre de son boulot.
+Le week-end dernier, un de mes cousins m'a demandé si je pouvais le conseiller pour faire découvrir le jeu de rôle à des [enfants](/lucas/blog/tag/jdr4kids.html) / ados dans le cadre de son boulot.
 
 Après lui avoir conseillé quelques noms, je me fais la réflexion que ça pourra peut-être servir à d'autres.
 Voici donc une petite liste de recommandations de jeux de rôle, gratuits et en français,

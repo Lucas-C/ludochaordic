@@ -27,7 +27,7 @@ repos:
     -   id: insert-at-least-a-tag-link-in-articles
         name: Insert at least a tag link in articles
         language: pygrep
-        entry: "/tag/"
+        entry: "tag/"
         args: [--negate]
         files: \.md$
         exclude: content/2017-09-25-compte-rendu-de-la-pyconfr-2017.md

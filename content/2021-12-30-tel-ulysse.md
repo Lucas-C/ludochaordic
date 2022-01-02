@@ -1,6 +1,6 @@
 Title: Tel Ulysse
 Date: 2021-12-30 2:00
-Tags: lang:fr, jdr, playtest, opinion, compte-rendu, tolkraft, auberge-des-reveurs, ptgptb, defi-3ff, @Olivier, @Luc, jeux
+Tags: lang:fr, jdr, gratuit, playtest, opinion, compte-rendu, tolkraft, auberge-des-reveurs, ptgptb, defi-3ff, zero-prep, jdr4kids, @Olivier, @Luc, jeux
 ---
 <!-- Com'
 * PM Discord Tolkraft
@@ -39,6 +39,7 @@ Je recommande chaudement l'expérience 😉
 Voici quelques retours un peu plus précis, incluant des suggestions :
 
 * les règles sont très claires, et rapides à prendre en main 👍
+  Organiser une partie nécessite vraiment [zéro préparation](/lucas/blog/tag/zero-prep.html).
 * en fin de partie, le navire a tracé un chemin sur le mer de cartes :
   c'est génial de visualiser ainsi le trajet parcouru !
 * la mécanique de jeu basée sur les cartes est très futée et colle parfaitement au thème.

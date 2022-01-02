@@ -1,6 +1,6 @@
 Title: Vous reprendrez bien un peu de Sombre ?
 Date: 2021-12-29 23:30
-Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, scenario, johan-scipion, mecaniques-de-jeu, mise-en-page, @Aurelien, @Michael, @Matt, @Kevin, jeux
+Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, scenario, johan-scipion, julien-death-ambre-de-monte, mecaniques-de-jeu, mise-en-page, @Aurelien, @Michael, @Matt, @Kevin, jeux
 ---
 <!-- Com'
 * https://www.terresetranges.net/forums/viewtopic.php?pid=20266#p20266
@@ -29,7 +29,7 @@ Voici donc un petit retour sur ce _triple feature_.
 ## Overlord
 <figure>
     <img class="small" alt="Loup-garou" src="images/2021/12/werewolf.jpg">
-    <figcaption>Illustration tirée de la BD World War Wolves</ficaption>
+    <figcaption>Illustration tirée de la <a href="https://www.bedetheque.com/serie-43442-BD-World-War-Wolves.html">BD World War Wolves</a></ficaption>
 </figure>
 
 Scénario officiel de type « survival forestier coopératif », issu de Sombre n°2 et d'environ 15min.
@@ -114,6 +114,9 @@ avec même un plan détaillé de la maison (que j'ai progressivement révélé a
 
 **Merci Axel Tentacle** pour ce scénario !!
 Il fait définitivement partie de mon top 2 pour Sombre Zéro, avec _Deep Space Gore_.
+
+**EDIT [2 janvier 2021]** : j'en profite pour mentionner la sortie d'un copieux (143 pages) recueil de scénarios
+par Julien _DeathAmbre_ De Monte @[DarkFarm](http://arkhive.free.fr) : [Terminatrice.pdf](http://arkhive.free.fr/Terminatrice.pdf). Génial !
 
 <style>
 img.small { width: 30rem; }

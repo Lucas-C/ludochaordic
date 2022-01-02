@@ -1,6 +1,6 @@
 Title: La Tour & Cheat Your Own Adventure
 Date: 2018-12-08 16:00
-Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, personal-project, storytelling, mise-en-page, variante, livre-dont-vous-etes-le-heros, creative-commons, gamedesign, gratuit, shane-mclean, @Henri, @Matt, jeux
+Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, personal-project, storytelling, mise-en-page, zero-prep, variante, livre-dont-vous-etes-le-heros, creative-commons, gamedesign, gratuit, shane-mclean, @Henri, @Matt, jeux
 Slug: la-tour-et-cheat-your-own-adventure
 ---
 

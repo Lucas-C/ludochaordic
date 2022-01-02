@@ -1,6 +1,6 @@
 Title: Opération « dur à cuire »
 Date: 2020-07-02 12:00
-Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, jdr, 2-players, coop, pbta, gamedesign, equilibrage, metal-gear, @Matt, jeux
+Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, jdr, 2-players, coop, pbta, gamedesign, equilibrage, metal-gear, zero-prep, @Matt, jeux
 Slug: operation-dur-a-cuire
 ---
 
@@ -16,7 +16,7 @@ _Operation Hard Case_ est court, autant en durée de partie, environ une heure, 
 4 pages, couverture comprise, que j'ai imprimé sur une seule feuille recto-verso.
 
 _Operation Hard Case_ est une proposition ludique atypique :
-un jeu coopératif tactique pour 2 joueurs,
+un jeu [coopératif](/lucas/blog/tag/coop.html) tactique pour 2 joueurs,
 où la carte et les obstacles sont générés aléatoirement,
 sans nécessitée de _roleplay_ mais qui s'y prête très bien.
 

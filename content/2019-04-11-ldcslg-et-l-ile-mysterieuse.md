@@ -1,11 +1,11 @@
 Title: Le dernier café sur la droite & L'île mystérieuse
 Date: 2019-04-11 22:00
-Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, compte-rendu, opinion, gratuit, traduction, damien-rahyll-c, shane-mclean, @Henri, @Matt, @Estelle, jeux
+Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, compte-rendu, opinion, gratuit, traduction, zero-prep, damien-rahyll-c, shane-mclean, @Henri, @Matt, @Estelle, jeux
 Slug: ldcslg-et-l-ile-mysterieuse
 ---
 
 Le premier jeu que nous avons testé hier était [_The last coffee shop on the left_](http://cheatyourownadventure.co.uk/the-last-coffee-shop-on-the-left)
-de Shane McLean, l'auteur de [_Cheat your own adventure_](la-tour-et-cheat-your-own-adventure.html) auquel nous avions déjà joué.
+de [Shane McLean](/lucas/blog/tag/shane-mclean.html), l'auteur de [_Cheat your own adventure_](la-tour-et-cheat-your-own-adventure.html) auquel nous avions déjà joué.
 J'en propose une traduction en français dans [la section _jeux de rôle_ de ce blog](pages/jeux-de-role.html).
 
 [![Tableau Nighthawks de Edward Hopper](images/2019/04/Nighthawks_by_Edward_Hopper_1942.jpg)](https://en.wikipedia.org/wiki/Nighthawks)

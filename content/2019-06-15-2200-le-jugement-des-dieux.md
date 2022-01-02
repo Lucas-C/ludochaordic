@@ -1,6 +1,6 @@
 Title: 2200: Le Jugement Des Dieux
 Date: 2019-06-15 23:00
-Tags: lang:fr, jdr, bd, personal-project, narration-collective, creative-commons, gamedesign, gratuit, @Henri, @Loic, jeux
+Tags: lang:fr, jdr, bd, personal-project, narration-collective, creative-commons, gamedesign, gratuit, zero-prep, @Henri, @Loic, jeux
 Slug: 2200-le-jugement-des-dieux
 ---
 
@@ -64,7 +64,7 @@ lors des _playtests_ du dernier jeu de rôle que j'ai écrit : **2200 : Le Jugem
 - PDF in English : <https://chezsoi.org/lucas/blog/images/jdr/2200-the-gods-judgement-v1.1.pdf>
 - web version in English : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/2200_the_gods_judgement.html>
 
-Il s'agit d'un jeu de rôle narratif pour 3 ou 4 joueurs, sans préparation nécessaire,
+Il s'agit d'un jeu de rôle [narratif](/lucas/blog/tag/narration-collective.html) pour 3 ou 4 joueurs, sans préparation nécessaire,
 dans lequel vous aller incarner un dieu, ancien ou moderne,
 ayant la charge de statuer du sort des mortels décédés en cette année 2200.
 Vous avez chacun vos propres critères pour juger des actions des hommes,

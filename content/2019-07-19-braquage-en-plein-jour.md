@@ -1,12 +1,12 @@
 Title: Braquage en Plein Jour
 Date: 2019-07-19 20:00
-Tags: lang:fr, jdr, partie-jdr-hebdo, compte-rendu, playtest, opinion, gratuit, pbta, creative-commons, twine, @Gulix, @Henri, @Loic, @Etienne, jeux
+Tags: lang:fr, jdr, partie-jdr-hebdo, compte-rendu, playtest, opinion, gratuit, zero-prep, pbta, creative-commons, twine, @Gulix, @Henri, @Loic, @Etienne, jeux
 Slug: braquage-en-plein-jour
 ---
 
 ![Couverture du jeu en version originale](images/2019/07/daylight-robbery-the-heist.png)
 
-Mercredi j'ai eu l'occasion de tester ce très chouette jeu de rôle PbTA (_Powered by The Apocalypse_) avec 3 joueurs.
+Mercredi j'ai eu l'occasion de tester ce très chouette jeu de rôle [PbTA](/lucas/blog/tag/pbta.html) (_Powered by The Apocalypse_) avec 3 joueurs.
 
 Le jeu traduit en français par [Gulix](http://www.gulix.fr) est disponible gratuitement [sur DriveThruRPG](https://www.drivethrurpg.com/product/222945/Braquage-en-Plein-Jour),
 et j'ai trouvé la version originale _Daylight Robbery_ d'Edwin Moriarty [dans ce post Reddit](https://www.reddit.com/r/PBtA/comments/5c34ag/freebies_from_a_fellow_redditor/),

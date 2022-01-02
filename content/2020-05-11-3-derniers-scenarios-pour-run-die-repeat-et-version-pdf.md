@@ -1,6 +1,6 @@
 Title: 3 derniers scénarios pour Run Die Repeat et version PDF
 Date: 2020-05-11 15:50
-Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, pdf, run-die-repeat, metal-gear, @Henri, jeux
+Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, gamedesign, scenario, pdf, run-die-repeat, metal-gear, zero-prep, @Henri, jeux
 Slug: 3-derniers-scenarios-pour-run-die-repeat-et-version-pdf
 Image: images/2020/05/banner-small.jpg
 ---
@@ -23,7 +23,7 @@ inspiré des jeux vidéos _Splinter Cell_, _Metal Gear_ & _Prototype_ :
 9. **Spec Ops #2 - Prototype**
 10. **Spec Ops #3 - REVENGEANCE**
 
-Pour l'occasion, j'ai fini de les rassembler tous sous forme de PDF :
+Pour l'occasion, j'ai fini de les rassembler tous sous forme de [PDF](/lucas/blog/tag/pdf.html) :
 
 <div class="side-by-side">
   <a href="images/jdr/RunDieRepeat-scenarios-FR-v1.1.pdf">

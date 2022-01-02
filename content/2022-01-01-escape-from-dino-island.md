@@ -1,9 +1,9 @@
 Title: Escape from Dino Island
 Date: 2022-01-01 20:00
-Tags: lang:fr, jdr, pbta, playtest, opinion, compte-rendu, one-shot, aide-de-jeu, @Gulix, @Aurelien, @Simon, @Nicolas, jeux
+Tags: lang:fr, jdr, pbta, playtest, opinion, compte-rendu, one-shot, zero-prep, aide-de-jeu, zero-prep, @Gulix, @Aurelien, @Simon, @Nicolas, jeux
 ---
 <!-- Com'
-* https://www.gulix.fr/blog/escape-from-dino-island/
+* PM Discord @Gulix
 -->
 
 ![Couverture du jeu](images/2022/01/escape-from-dino-island.jpg)
@@ -23,6 +23,7 @@ et d'un paléontologue, le professeur Long. Celui-ci est mort assez rapidement d
 
 Nos 6 heures de partie ont été émaillées de scènes anthologiques :
 
+* un milliardaire excentrique qui ressemble à Kanye West
 * la jeep des PJs démolie et encastrée dans une clôture par un tricératops
 * un gros moment de trouille lorsqu'un morceau de poisson mort tombe sur la tête d'un PJ...
   Alors qu'il s'agissait juste d'une filet suspendu pour nourrir les dinos marins,
