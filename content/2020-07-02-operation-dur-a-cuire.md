@@ -85,9 +85,5 @@ la maquette est réussie, joliment structurée et illustrée.
 ![Solid snake stencil](images/2020/07/solid-snake-stencil.jpg)
 
 <style>
-article iframe {
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-}
+article iframe { display: block; margin: 1rem auto; }
 </style>

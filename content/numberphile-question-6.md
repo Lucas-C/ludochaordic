@@ -67,9 +67,5 @@ Now lets prove this.
 \`"Consequently " K " divides " a²+b² "(2) ."\`
 
 <style>
-article iframe {
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-}
+article iframe { display: block; margin: 1rem auto; }
 </style>

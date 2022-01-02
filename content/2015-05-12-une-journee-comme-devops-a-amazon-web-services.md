@@ -20,9 +20,5 @@ Je vous encourage également a visionner les 3 autres talks du jour, listés [su
 Et merci à toute l'équipe de MaineLabs pour organiser ce super évênement mensuel.
 
 <style>
-article iframe {
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-}
+article iframe { display: block; margin: 1rem auto; }
 </style>

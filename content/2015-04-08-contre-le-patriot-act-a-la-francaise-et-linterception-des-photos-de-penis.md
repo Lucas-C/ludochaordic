@@ -17,9 +17,5 @@ En France, le Syndicat de la Magistrature, Reporters sans frontières, Amnesty I
 Et vous ?
 
 <style>
-article iframe {
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-}
+article iframe { display: block; margin: 1rem auto; }
 </style>

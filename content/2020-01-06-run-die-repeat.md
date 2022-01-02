@@ -89,9 +89,5 @@ Je vous en reparle bientôt !
 
 
 <style>
-article iframe {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-}
+article iframe { display: block; margin: 0 auto; }
 </style>

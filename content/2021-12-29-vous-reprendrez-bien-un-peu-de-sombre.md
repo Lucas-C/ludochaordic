@@ -120,9 +120,5 @@ par Julien _DeathAmbre_ De Monte @[DarkFarm](http://arkhive.free.fr) : [Terminat
 
 <style>
 img.small { width: 30rem; }
-article iframe {
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-}
+article iframe { display: block; margin: 1rem auto; }
 </style>
