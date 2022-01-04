@@ -98,12 +98,14 @@ a Python tool to help with the development & deployment of company-private Pytho
 - [tablut](https://github.com/Lucas-C/tablut/) : a PHP implementation of an old [Scandinavian](https://en.wikipedia.org/wiki/Tafl_games) duel board game for the online platform [BoardGameArena](https://boardgamearena.com), with [simple rules](http://en.doc.boardgamearena.com/Gamehelptablut)
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) : a simple HTML+JS memory game, forked from Mark Rolich repo to add support for images
 
-### For tabletop RPGs
+### For games & tabletop RPGs
+- [5 Minute Dungeon - Target Assigner](https://chezsoi.org/lucas/5md/) : a minimal web app for a great board game variant - [related blog article](5-minute-dungeon-variante-cible.html)
 - [shared-img-reveal](https://github.com/Lucas-C/shared-img-reveal) : a minimal web application to share an image with your players, like a map, and progressively reveal it
 - [rpg-bonhomme](https://github.com/Lucas-C/rpg-bonhomme) : a tabletop RPG character sheet viewer, with a Python backend using a JSONP key-value store
 - [rpg-dice](https://chezsoi.org/lucas/jdr/rpg-dice) : perform dice rolls on a web page shared among players
 
 ### Other
+- [OkCupid AutoPass bookmarklet](https://lucas-c.github.io/okcupid-auto-pass-cities/) : some extra filters for this nice dating website
 - [Python Black Box challenge](https://lucas-c.frama.io/python-blackbox-challenges/)
 - [genealogic-d3](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using [d3.js](https://d3js.org)
 - [youtube_playlist_watcher](https://github.com/Lucas-C/youtube_playlist_watcher) : backup Youtube playlists and alert you on songs deletions, written in Python

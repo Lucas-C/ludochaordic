@@ -6,7 +6,8 @@ Tags: lang:en, html, okcupid, bookmarklet, javascript, open-source, prog
 * https://www.reddit.com/r/OkCupid/
 * https://webapps.stackexchange.com/questions/60101/why-is-okcupid-showing-me-matches-who-live-more-than-5-kilometers-away
 -->
-<a href="https://www.okcupid.com"><img class="logo" alt="OkCupid logo" src="https://lucas-c.github.io/okcupid-auto-pass-cities/OkCupid-logo.jpg"></img></a> is great!
+I very recently joined [<img class="logo" alt="OkCupid logo" src="https://lucas-c.github.io/okcupid-auto-pass-cities/OkCupid-logo.jpg"></img>](https://www.okcupid.com),
+and it seems great! Even if [its new system makes difficult to talk to new people](https://www.reddit.com/r/OkCupid/comments/r9sddx/i_really_dont_like_what_okcupid_has_become/).
 
 One things that annoys me a little though,
 is that I often get matches for **people too far away** from where I live,
