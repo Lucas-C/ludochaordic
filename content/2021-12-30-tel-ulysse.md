@@ -12,7 +12,7 @@ Et **Tel Ulysse**, de Tolkraft sur une idée de Tunime, gagnant de l'édition 20
 
 ![Couverture du jeu Tel Ulysse](images/2021/12/TelUlysse-cover.jpg)
 
-Vous pouvez le retrouver sur PtgPtb.fr : [5e Défi PTGPTB Trois Fois Forgé - Les Jeux](https://ptgptb.fr/defi-troisfoisforge-5-les-jeux) ou directement sur le site de Tolkraft : [Denrobat](https://www.dendrobat.fr/tel-ulysse).
+Vous pouvez le retrouver sur PtgPtb.fr : [5e Défi PTGPTB Trois Fois Forgé - Les Jeux](https://ptgptb.fr/defi-troisfoisforge-5-les-jeux) ou directement sur le site de Tolkraft : [Dendrobat](https://www.dendrobat.fr/tel-ulysse).
 
 J'ai eu l'occasion de le tester lundi avec deux joueurs, et nous nous sommes vraiment bien amusés !
 

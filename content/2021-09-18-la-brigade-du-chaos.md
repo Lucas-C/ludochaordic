@@ -1,6 +1,6 @@
 Title: La Brigade du Chaos
 Date: 2021-09-18 17:00
-Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-blackbird, john-harper, zero-prep, jdr4kids, jeux
+Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-blackbird, john-harper, zero-prep, jdr4kids, jeux, @Aurelien, @Henri, @ThomasG
 ---
 <!-- Com'
 * [x] blog post & page jeux-de-role
