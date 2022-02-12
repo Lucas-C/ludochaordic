@@ -85,10 +85,10 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Working in the salt mine](https://www.deviantart.com/themefinland/art/Working-in-the-salt-mine-861940212)
     * [The winding path](https://www.deviantart.com/themefinland/art/The-winding-path-commission-800945478)
     * [Approaching the golden city](https://www.deviantart.com/themefinland/art/Approaching-the-golden-city-commission-832588007)
-    * [Boreal archer](https://www.deviantart.com/themefinland/art/Boreal-archer-775218898)
     * [Naphas alchemist](https://www.deviantart.com/themefinland/art/Naphas-alchemist-Glimpse-of-Luna-trading-card-760806047)
     * [Dragon burning a city](https://www.deviantart.com/themefinland/art/Infernal-commission-871047213)
     * [Crooks creek canyon background](https://www.deviantart.com/themefinland/art/Crooks-creek-872195811)
+    * [The frozen spire](https://www.deviantart.com/themefinland/art/The-frozen-spire-commission-904236586)
 - [Ramirez de Souza _aka_ Halycon450](https://www.deviantart.com/halycon450/gallery/) CC BY-NC-SA : >700 illustrations, Shadowrun, DOTA, Monster Hunter, Dark Souls dark fantasy, Shadowrun, some sci-fi characters & ships, swordsmen, Huntsman + 2 mouse characters
 > An amazing “hobbyist” from Germany
     * [Shadowrun Elf Decker](https://www.deviantart.com/halycon450/art/Shadowrun-Elf-Decker-607928463)
@@ -155,6 +155,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Maestro](https://www.deviantart.com/dumaker/art/Maestro-883647700)
     * [Spy Pug](https://www.deviantart.com/dumaker/art/Spy-Pug-409905421)
     * [Templar](https://www.deviantart.com/dumaker/art/Templar-356427772)
+    * [Barbarian Warrior](https://www.deviantart.com/dumaker/art/Barbarian-Warrior-905580618)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -263,8 +264,10 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Luke (alien with gun)](https://www.deviantart.com/ignusdei/art/Luke-410568511)
     * [Ceadeus, The Paladin of Ren](https://www.deviantart.com/ignusdei/art/Ceadeus-The-Paladin-of-Ren-803672798)
     * [Stosszahn Funf (mecha)](https://www.deviantart.com/ignusdei/art/Stosszahn-Funf-528222286)
-    * [Rendili Aerospace B-52 StarHammer](https://www.deviantart.com/ignusdei/art/Rendili-Aerospace-B-52-StarHammer-830840195)
     * [LAWBREAKERS - Shura VTOL](https://www.deviantart.com/ignusdei/art/LAWBREAKERS-Shura-VTOL-698013614)
+    * [Demi-God Aang Daleth](https://www.deviantart.com/ignusdei/art/Demi-God-Aang-Daleth-535870766)
+    * [Castlevania - Lady of Anguish](https://www.deviantart.com/ignusdei/art/Castlevania-Lady-of-Anguish-182850072)
+    * [Commando WIP](https://www.deviantart.com/ignusdei/art/Commando-WIP-411855213)
 - [Martina Lexi _aka_ thesimplyLexi](https://www.deviantart.com/thesimplylexi/gallery) : CC BY-NC-SA - portraits mostly
 > Freelance concept artist, animator and illustrator from Croatia
     * [Guardian #1](https://www.deviantart.com/thesimplylexi/art/Guardian-1-755343936)
@@ -478,6 +481,20 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [book read novel light painting](https://pixabay.com/fr/illustrations/livre-lis-roman-l%c3%a9ger-la-peinture-5946219/)
     * [fairy tales elephants smoke myths](https://pixabay.com/fr/illustrations/les-contes-de-f%c3%a9es-%c3%a9l%c3%a9phants-fum%c3%a9e-4057425/)
     * [cartoon painting universe hood stars](https://pixabay.com/fr/illustrations/dessin-anim%c3%a9-la-peinture-univers-5124000/)
+- [amamidori](https://www.deviantart.com/amamidori/gallery) - CC BY-SA - many SCP-inspired illustrations
+> A hobbyist illustrator from Japan
+    * [Gods](https://www.deviantart.com/amamidori/art/Gods-871254672)
+    * [SCP-049 - Next patient please](https://www.deviantart.com/amamidori/art/Next-patient-please-706481380)
+    * [SCP-073 / SCP-191 - fluffy flower](https://www.deviantart.com/amamidori/art/fluffy-flower-807831890)
+    * [SCP-682](https://www.deviantart.com/amamidori/art/SCP-682-726605988)
+    * [SCP-2264](https://www.deviantart.com/amamidori/art/SCP-2264-809125734)
+    * [SCP-6666](https://www.deviantart.com/amamidori/art/SCP-6666-885190107)
+- [abelov2014](https://www.deviantart.com/abelov2014/gallery) - CC BY - Dinosaurs everywhere!
+    * [A Carocaraptor on the hunt(king kong)](https://www.deviantart.com/abelov2014/art/A-Carocaraptor-on-the-hunt-king-kong-902367142)
+    * [Ferrucutus cerastes(king_kong)](https://www.deviantart.com/abelov2014/art/Ferrucutus-cerastes-king-kong-814293335)
+    * [Venatosaurus Hunter (king_kong)](https://www.deviantart.com/abelov2014/art/Venatosaurus-Hunter-king-kong-834629146)
+    * [Gigant Island(king Kong)](https://www.deviantart.com/abelov2014/art/Gigant-Island-king-Kong-844825909)
+    * [The mysteries of the Martian Sphinx](https://www.deviantart.com/abelov2014/art/The-mysteries-of-the-Martian-Sphinx-886210745)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 
 ## From last century
@@ -583,6 +600,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Marcelines Henchman BG001](https://www.flickr.com/photos/84568447@N00/4427719044/in/album-72157616038185579/)
     * [Marcelines Henchman BG005](https://www.flickr.com/photos/84568447@N00/4427719072/in/album-72157616038185579/)
     * ["Rainy Day Daydream" Background](https://www.flickr.com/photos/84568447@N00/4945606330/in/album-72157616038185579/)
+- [ZzSprite 16x16 sprite generator](https://killedbyapixel.github.io/ZzSprite/)
 
 ## Photos
 - [Newcastle upon Tyne criminals of the 1930s](https://www.flickr.com/photos/twm_news/albums/72157631080087096)
@@ -714,12 +732,24 @@ Old public domain illustrations & photos:
 - [artflow](https://artflow.ai/) - all images are CC BY
 - [Artbreeder](https://www.artbreeder.com/browse) - all images are under CC0
 - [avataaars generator](https://getavataaars.com/)
+- [DiceBear Avatars](https://avatars.dicebear.com/)
+- [RoboHash](https://robohash.org/)
+
+
+# AI-based art
+- [DeepDreamGenerator](https://deepdreamgenerator.com/) - transfer a painting style to the uploaded image
+- [InstaPainting](https://www.instapainting.com) - transfer a painting style to the uploaded image
+- [wombo.art](https://www.wombo.art) - _text-to-image_
+- [text2art.com](https://text2art.com/) - _text-to-image_
 
 
 # Maps
 - Un excellent générateur de plan de donjon: [one-page-dungeon by watabou](https://watabou.itch.io/one-page-dungeon).
   Les cartes générées sont de plus éditables avec [RpgMap de Sébastien Benard](https://deepnight.net/tools/rpg-map/).
 - Watabou a également réalisé un [générateur de ville médiévale](https://watabou.itch.io/medieval-fantasy-city-generator), un [générateur de village](https://watabou.itch.io/village-generator) et un [générateur d'îles](https://watabou.itch.io/perilous-shores)
+- [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
+- [Planet / World Generator @ donjon.bin.sh](https://donjon.bin.sh/world/)
+- [Alien RPG System Generator](https://donjon.bin.sh/alien/system/)
 - [Polygon map generator from Red Blob Games](https://www.redblobgames.com/maps/mapgen2/)
 
 

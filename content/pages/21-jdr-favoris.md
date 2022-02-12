@@ -305,7 +305,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
   </section>
 </div>
 
-Il y en bien d'autres, mais il fallait bien faire une sélection ici :
+Je souhaitais faire une courte sélection ici, mais j'aurais pu en citer bien d'autres ! :
 [La Brigade du Chaos](https://chezsoi.org/lucas/blog/la-brigade-du-chaos.html),
 [Run Die Repeat](https://chezsoi.org/lucas/blog/run-die-repeat.html),
 [Tel Ulysse](https://chezsoi.org/lucas/blog/tel-ulysse.html),

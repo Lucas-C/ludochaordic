@@ -1,6 +1,6 @@
 Title: Glitch art and image processing with Python
 Date: 2018-02-18 23:00
-Tags: lang:en, glitch-art, reddit, image-processing, python, music, net-art, datamoshing, prog
+Tags: lang:en, glitch-art, reddit, image-processing, python, music, net-art, datamoshing, art, lazy-loading, prog
 Slug: glitch-art-and-image-processing-with-python
 Image: images/2018/02/colorstolen_japanified_TDZSJMs.jpg
 ---

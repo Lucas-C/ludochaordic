@@ -1,6 +1,6 @@
 Title: Quelques suggestions pour débuter en jeu de rôle, gratuites et en français
 Date: 2018-11-14 23:45
-Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jdr4kids, jeux, @Matt
+Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, daniel-bayn, gordie-murphy, matthieu-be, gratuit, jdr4kids, pbta, jeux, @Matt
 Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 ---
 
@@ -81,6 +81,8 @@ dégage une ambiance captivante de contes et mystères,
 utilise un système de jeu simple et efficace à base de 2d6, et a un univers qui se prête à des aventures dans des mondes différents à chaque partie,
 tout comme un autre excellent jeu du LAB 01, [Dedale](http://lab00.free.fr/dedale/home.htm).
 
+Un scénario supplémentaire est disponible [sur la Scénariothèque](https://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=207).
+
 ## Monster Chef
 
 <figure role="group">
@@ -97,9 +99,10 @@ de 11 pages que je compte tester bientôt et dont je trouve le concept diablemen
 > ou un Globurlien affamé qui attend ses larves de Ver Galactique au chocolat ?
 
 **EDIT [2018/12/01]**: Après l'[avoir testé](/lucas/blog/double-brigade.html), le jeu est pour le moment à l'état de prototype et le système manque d'équilibrage,
-aussi je vous recommande plutôt "Havoc Brigade" de Grant Howitt.
+aussi je vous recommande plutôt [La Brigade du Chaos](la-brigade-du-chaos.html) de Grant Howitt.
 
-**EDIT [2019/10/07]**: Sur un thème assez similaire, [Menu mystère pour Madame la Duchesse](https://supersepia.itch.io/menu-mystere) est un jeu PbtA très mignon !
+**EDIT [2019/10/07]**: Sur un thème assez similaire, [Menu mystère pour Madame la Duchesse](https://supersepia.itch.io/menu-mystere)
+est un jeu [_Powered by the Apocalypse_](https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse) ([PbtA](/lucas/blog/tag/pbta.html)) très mignon !
 
 ## Wushu
 
@@ -114,6 +117,8 @@ pour imaginer collectivement une histoire centrée sur les combats stylisés, te
 Des personnages dont les caractéristiques tiennent sur un coin de feuille, un système ultra-simple et narrativiste :
 idéal pour une partie improvisée sur le pouce, mais nécessite une bonne expérience du MJ pour improviser l'histoire
 [JdRP](http://www.jdrp.fr/recherche/wushu.html) recense pas mal de ressources pour le jeu.
+
+---
 
 **EDIT [2019/04/28]** : [Donjons & Châtons](http://troplongpaslu.fr/jeux-de-role-court/donjons-et-chatons-version-mini/)
 de Clément De Ruyter a l'air très prometeur également ! Et cette version Mini est très courte : 10 pages seulement.

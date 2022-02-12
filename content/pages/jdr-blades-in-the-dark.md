@@ -916,7 +916,7 @@ Elaria se fait poursuivre par des _Bluecoats_ jusqu'au tribunal, où elle échap
 puis se fait poursuivre à travers tout le quartier avant d'échapper par les toits.
 Ethnos-Lodius prend alors le relai, et se rend au bureau de la juge où il prend la place du commis pour la livraison,
 et met KO son garde du corps grâce à la potion qu'il a confectionné.
-Néanmoins les choses tournent mal lorsqu'il savère que la demeur est protégée par un démon
+Néanmoins les choses tournent mal lorsqu'il savère que la demeure est protégée par un démon
 et qu'Elstera Avrathi est une membre du Cercle de la Flamme !
 La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arraché et jeté au loin le collier porté par la magistrate.
 

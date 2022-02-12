@@ -84,8 +84,8 @@ ou demandé un jet **4+** / **5+**.
 **EDIT [2020/03/14]** : la Rolisterie a enregistré quelques parties de _Run. Die. Repeat._ sous forme de podcast !
 [Cliquez ici](https://anchor.fm/rolisterie/episodes/S06E01%E2%80%94Les-argouliens-attaquent%E2%80%94Run%E2%80%93Die%E2%80%93Repeat-earf0c) pour y accéder.
 
-**EDIT [2020/03/24]** : je travaille en ce moment à créer de courts scénarios pour le jeu...
-Je vous en reparle bientôt !
+**EDIT [2020/03/24]** : j'ai conçu quelques courts scénarios pour le jeu,
+retrouvez-les dans les autres articles avec le [tag run-die-repeat](tag/run-die-repeat.html).
 
 
 <style>

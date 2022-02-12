@@ -1,6 +1,6 @@
 Title: Mothership Hive Mind
 Date: 2018-12-18 1:00
-Tags: lang:en, jdr, storytelling, random-table, space, horror, alien, mothership-rpg, chartopia, @Matt, jeux
+Tags: lang:en, jdr, storytelling, aide-de-jeu, random-table, space, horror, alien, mothership-rpg, chartopia, @Matt, jeux
 Slug: mothership-hive-mind
 ---
 In June this year, Sean McCoy published a tabletop RPG called [**Mothership**](http://www.tuesdayknightgames.com/mothership/).

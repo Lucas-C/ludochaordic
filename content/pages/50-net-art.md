@@ -1,9 +1,10 @@
 Title: Net-Art
-Tags: lang:fr, net-art, technoromanticism
+Tags: lang:fr, net-art, technoromanticism, glitch-art, generative-art
 ---
-Dans cette page, je liste simplement des oeuvres de `net.art` qui m'ont touché.
+Dans cette page, je liste simplement des œuvres de `net.art` qui m'ont touché.
 
-Si cela vous plait, je vous recommande aussi de jeter un oeil au [Glitch Art](glitch-art-and-image-processing-with-python.html).
+Si cela vous plait, je vous recommande aussi de jeter un œil au [Glitch Art](glitch-art-and-image-processing-with-python.html),
+ainsi qu'à l'[art génératif](generative-art.html).
 
 ---
 

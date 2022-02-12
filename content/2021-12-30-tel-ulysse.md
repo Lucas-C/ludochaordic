@@ -5,6 +5,7 @@ Tags: lang:fr, jdr, gratuit, playtest, opinion, compte-rendu, tolkraft, auberge-
 <!-- Com'
 * PM Discord Tolkraft
 * Discord Auberge des Rêveurs
+* Discord PtgPtb
 -->
 
 Participer cette année au [défi Trois Fois Forgé](https://ptgptb.fr/defi-troisfoisforge) m'a donné envie de jeter un œil aux jeux des éditions précédentes...
