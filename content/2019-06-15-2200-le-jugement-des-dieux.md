@@ -1,6 +1,6 @@
 Title: 2200: Le Jugement Des Dieux
 Date: 2019-06-15 23:00
-Tags: lang:fr, jdr, bd, personal-project, narration-collective, creative-commons, gamedesign, gratuit, zero-prep, @Henri, @Loic, jeux
+Tags: lang:fr, jdr, bd, personal-project, narration-collective, creative-commons, gamedesign, gratuit, zero-prep, ElliotJolivet, @Henri, @Loic, jeux
 Slug: 2200-le-jugement-des-dieux
 ---
 
@@ -72,6 +72,8 @@ de leur karma et du destin de leur âme.
 
 Plusieurs BDs m'ont inspiré : la trilogie Nikopol d'Enki Bilal,
 Sandman de Neil Gaiman, Candélabres d'Algésiras et Jaguar de Dufaux & Bosschaert.
+
+Un grand merci à Elliot Jolivet _aka_ **Tenseï** pour ses illustrations que j'ai employé !
 
 Il comporte très peu de jets mais nécessite deux dés à 8 faces, quelques pions quelconques,
 et optionnellement un sablier.

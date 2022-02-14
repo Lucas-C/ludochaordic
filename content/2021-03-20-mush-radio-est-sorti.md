@@ -1,6 +1,6 @@
 Title: Mush Radio est sorti !
 Date: 2021-03-20 17:00
-Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, tipeee, mush-radio, jeux, @Elliot
+Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, tipeee, mush-radio, jeux, ElliotJolivet
 Slug: mush-radio-est-sorti
 ---
 Ça y est, le jeu est fini !
