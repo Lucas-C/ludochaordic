@@ -1,7 +1,6 @@
 Title: Elliot Jolivet aka Tenseï
-Date: 2022-02-14 20:00
+Date: 2022-02-14 22:00
 Tags: lang:fr, art, illustration, angers, post-apo, fantasy , science-fiction, cyberpunk, mush-radio, jeux, jdr, ElliotJolivet
-Status: draft
 ---
 
 Petit _focus_ sur un artiste que j'adore : **Elliot Jolivet** _aka_ Tenseï.
@@ -17,7 +16,7 @@ on peut citer parmi ses univers de prédilection le post-apo, le cyberpunk, la f
 et les mondes extra-terrestres. Il a ainsi réalisé de nombreuses illustrations dans ces domaines
 pour des jeux de rôle.
 
-Voici une sélection de ses illustrations :
+Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Lutte.jpg" target="_blank">
