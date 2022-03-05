@@ -60,6 +60,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Shaman portrait](https://commons.wikimedia.org/wiki/File:Character_Shaman-portrait.png)
     * [Shaman-hut](https://commons.wikimedia.org/wiki/File:Environments-02-shaman-hut.png)
     * [traveler with yack in the snow](https://www.deviantart.com/deevad/art/Krita-texture-speedpainting-test-350472256)
+    * he also draws the [Peper & Carrot comic](https://www.peppercarrot.com/fr/artworks/artworks.html), which is entirely under CC-BY license
 - [Fernand0FC](https://www.deviantart.com/fernand0fc/gallery/) CC BY - colourful Moebius-like illustrations, weapons, cyberpunk & sci-fi characters, cars...
 > An amazing “hobbyist” from Argentina
     * [At the saloon](https://www.deviantart.com/fernand0fc/art/At-the-saloon-861886230)
@@ -128,6 +129,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Doomer](https://www.deviantart.com/nicosaba/art/Doomer-611593550)
     * [053](https://www.deviantart.com/nicosaba/art/053-558229291)
     * [204612699](https://www.deviantart.com/nicosaba/art/204612699-887380984)
+    * [Princessss3](https://www.deviantart.com/nicosaba/art/Princessss3-906800136)
 - Yann Blomquist _aka_ TinySecretDoor [fantasy portraits](https://www.deviantart.com/tinysecretdoor/gallery/52921157/Fantasy-Portraits) CC BY-NC:
 > Senior Concept Artist ⚔️ Drawer of People, Places & Things 🖌 Armorsmith ⚒ Lover of Chocolate 🍫 United Kingdom
     * [Fantasy Portraits 9](https://www.deviantart.com/tinysecretdoor/art/Fantasy-Portraits-9-547312601)
@@ -156,6 +158,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Spy Pug](https://www.deviantart.com/dumaker/art/Spy-Pug-409905421)
     * [Templar](https://www.deviantart.com/dumaker/art/Templar-356427772)
     * [Barbarian Warrior](https://www.deviantart.com/dumaker/art/Barbarian-Warrior-905580618)
+    * [The Writer](https://www.deviantart.com/dumaker/art/The-Writer-908244029)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -408,6 +411,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Boutmon](https://www.deviantart.com/hijodelopio/art/Boutmon-895209587)
     * [Shinobi Saipat](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581)
     * [Ogre worker](https://www.deviantart.com/hijodelopio/art/Ogre-Worker-894642371)
+    * [Tiberius Rourke](https://www.deviantart.com/hijodelopio/art/Tiberius-Rourke-905836595)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
 > Artist, game developper & composer from Paris, France.
     * [dame blanche](https://www.deviantart.com/joke-biloumaster/art/2014-04-22-Crob-1-493705401)
@@ -481,6 +485,16 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [book read novel light painting](https://pixabay.com/fr/illustrations/livre-lis-roman-l%c3%a9ger-la-peinture-5946219/)
     * [fairy tales elephants smoke myths](https://pixabay.com/fr/illustrations/les-contes-de-f%c3%a9es-%c3%a9l%c3%a9phants-fum%c3%a9e-4057425/)
     * [cartoon painting universe hood stars](https://pixabay.com/fr/illustrations/dessin-anim%c3%a9-la-peinture-univers-5124000/)
+- [kirillslov @Pixabay](https://pixabay.com/fr/users/kirillslov-8058952/?tab=popular)
+    * [château fleurs pont-levis](https://pixabay.com/fr/vectors/ch%c3%a2teau-fleurs-pont-pont-levis-6968619/)
+    * [dinosaure préhistorique planète](https://pixabay.com/fr/vectors/dinosaure-pr%c3%a9historique-plan%c3%a8te-6968712/)
+    * [château forteresse immeuble](https://pixabay.com/fr/vectors/ch%c3%a2teau-forteresse-imeuble-6477872/)
+    * [bateau volant](https://pixabay.com/fr/vectors/fond-d-%c3%a9cran-haute-d%c3%a9finition-5514965/)
+- [Asketch @Pixabay](https://pixabay.com/fr/users/asketch-21255728/?tab=popular)
+    * [ninja japon warrior yakuza](https://pixabay.com/fr/illustrations/ninja-japon-style-guerrier-homme-6246685/)
+    * [cat ninja oni demon](https://pixabay.com/fr/photos/zombi-cat-femme-ninja-fille-6194997/)
+    * [zombie melting eye projector](https://pixabay.com/fr/illustrations/zombi-fusion-femme-fille-peu-s%c3%bbr-6203296/)
+    * [VR steampunk](https://pixabay.com/fr/illustrations/bo%c3%aete-de-vr-steampunk-femme-fille-6203301/)
 - [amamidori](https://www.deviantart.com/amamidori/gallery) - CC BY-SA - many SCP-inspired illustrations
 > A hobbyist illustrator from Japan
     * [Gods](https://www.deviantart.com/amamidori/art/Gods-871254672)
@@ -495,6 +509,23 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Venatosaurus Hunter (king_kong)](https://www.deviantart.com/abelov2014/art/Venatosaurus-Hunter-king-kong-834629146)
     * [Gigant Island(king Kong)](https://www.deviantart.com/abelov2014/art/Gigant-Island-king-Kong-844825909)
     * [The mysteries of the Martian Sphinx](https://www.deviantart.com/abelov2014/art/The-mysteries-of-the-Martian-Sphinx-886210745)
+- [VachalenXEON](https://www.deviantart.com/vachalenxeon/gallery) - CC BY-NC-SA - anime hindu art
+> Thai freelance artist, MMO game introducer, compact photographer, fireman and electro-robotics technician
+    * [India paladin](https://www.deviantart.com/vachalenxeon/art/Detail-India-paladin-275154739) - CC BY
+    * [The Black Radar Commuter](https://www.deviantart.com/vachalenxeon/art/The-Black-Radar-Commuter-288308608) - CC BY
+    * [Navgraha - Chandra Dev](https://www.deviantart.com/vachalenxeon/art/Navgraha-Chandra-Dev-858436472)
+    * [Chinese Deity - Huangdi](https://www.deviantart.com/vachalenxeon/art/Chinese-Deity-Huangdi-894631612)
+    * [Chinese creature - Dragon eat The Sun](https://www.deviantart.com/vachalenxeon/art/Chinese-creature-Dragon-eat-The-Sun-894746114)
+    * [Chinese Chinese Deity - Chang'e](https://www.deviantart.com/vachalenxeon/art/Chinese-Deity-Chang-e-894150273)
+    * [The Specimen cultivating](https://www.deviantart.com/vachalenxeon/art/The-Specimen-cultivating-860589925)
+- [Meg James](https://www.google.com/search?tbm=isch&q=site%3Ameg-james.com-BY-NC-ND) - mostly CC BY-NC-SA - fantasy & furries
+> a queer agender digital artist in southeast Washington State, mostly doing art and comics
+    * [Dead man in a dead land](http://meg-james.com/art/dead-man-in-a-dead-land/)
+    * [She came from the bog](http://meg-james.com/art/she-came-from-the-bog/)
+    * [Compliments to the chef](http://meg-james.com/art/compliments-to-the-chef/)
+    * [Summer Witch](http://meg-james.com/art/summer-witch/)
+    * [Trapper team](http://meg-james.com/art/trapper-team/)
+    * [Flash in the pan](http://meg-james.com/art/flash-in-the-pan/)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 
 ## From last century
@@ -551,6 +582,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - [B&W skull on book and candlestick](https://www.deviantart.com/darius-c/art/Skull-on-book-1-862596105) : CC BY
 - [Ruins on top of moutain by ConfirmedBurger](https://www.deviantart.com/confirmedburger/art/Ruins-757941256) : CC BY-NC-SA
 - [Zombie Run Logo](https://commons.wikimedia.org/wiki/File:Zombie_Run_Logo_(15166442908).jpg) : CC BY
+- [samurai silhouette](https://pixahive.com/photo/colorful-illustration-5/) & [flying girl](https://pixahive.com/photo/dream-illustration/) - CC0
 
 ## Projects & game assets
 - [Glitch](https://www.glitchthegame.com/public-domain-game-art/) : ![thumbnail](https://www.glitchthegame.com/img/locations_ix.v1520324238.jpg) - ![thumbnail](https://www.glitchthegame.com/img/locations_firebog.v1520324238.jpg)
@@ -608,6 +640,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 
 ## Textures
 - [JurgaSan](https://www.deviantart.com/jurgasan/gallery/51630892/TEXTURE) - CC BY
+- [Geometric Background Pattern Hexagon](https://www.maxpixel.net/Geometric-Wallpaper-Background-Pattern-Hexagon-6954131)
 
 
 # Websites
@@ -657,7 +690,10 @@ Dedicated to Vector graphics & flat / ClipArt images:
 - [SVG Silh](https://svgsilh.com) - CC0
 - [svgrepo.com](https://www.svgrepo.com)
 - [CocoMaterial, the Open Source hand-drawn illustration library](https://cocomaterial.com/)
-- [Blush free graphics](https://blush.design/collections)
+- [Blush free graphics](https://blush.design/collections) generators - Notable ones:
+    * [Open Peeps](https://blush.design/collections/open-peeps/open-peeps)
+    * [Fuzzy animal friends](https://blush.design/collections/aarkKHQ2eBWDgSC0A3U6/fuzzy-friends-illustrations)
+    * [Cityscapes](https://blush.design/collections/cityscapes/cityscapes)
 - [OpenClipArt](https://openclipart.org/search/) - Some great galleries:
     * [isacvale](https://openclipart.org/user-cliparts/isacvale)
     * [tzunghaor](https://openclipart.org/user-cliparts/tzunghaor)
@@ -731,9 +767,20 @@ Old public domain illustrations & photos:
 - [DM Heroes character & portrait generator](http://www.dmheroes.com)
 - [artflow](https://artflow.ai/) - all images are CC BY
 - [Artbreeder](https://www.artbreeder.com/browse) - all images are under CC0
-- [avataaars generator](https://getavataaars.com/)
-- [DiceBear Avatars](https://avatars.dicebear.com/)
-- [RoboHash](https://robohash.org/)
+- [avataaars generator](https://getavataaars.com/) - Free for personal and commercial use
+- [DiceBear Avatars](https://avatars.dicebear.com/) - "you are free to use the generated avatars for [any] purposes [...] developed open source and will remain free of charge"
+- [RoboHash](https://robohash.org/) ([Python sources @GitHub](https://github.com/e1ven/Robohash)): generate heads of robots, monsters, humans, cats - CC BY
+- [Doodle Ipsum](https://doodleipsum.com/) from [Blush](https://blush.design): `URL=https://doodleipsum.com/$widthx$height/$category`,
+  with `$category` from: `avatar`, `avatar-2`, `avatar-3`, `avatar-4`, `avatar-5` (also: `hand-drawn`, `abstract`)
+- Avatar generators by Pablo Stanley @ Blush:
+    * [Face](https://blush.design/collections/open-peeps/open-peeps/character-avatar)
+    * [Bust](https://blush.design/collections/open-peeps/open-peeps/character-bust)
+    * [Sitting](https://blush.design/collections/open-peeps/open-peeps/character-sitting)
+    * [Standing](https://blush.design/collections/open-peeps/open-peeps/character-standing)
+- Character generators by Veronica Iezzi @ Blush:
+    * [Adult](https://blush.design/collections/family-values/family-values/profile-character-adult)
+    * [Face](https://blush.design/collections/family-values/family-values/profile-character-avatar)
+    * [Child](https://blush.design/collections/family-values/family-values/profile-character-child)
 
 
 # AI-based art
