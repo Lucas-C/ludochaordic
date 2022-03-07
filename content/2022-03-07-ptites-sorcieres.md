@@ -1,6 +1,6 @@
 Title: P'tites sorcières
 Date: 2022-03-07 20:00
-Tags: lang:fr, jdr, jdr4kids, gratuit, aide-de-jeu, opinion, creative-commons, illustration, antoine-bauza, david-revoy, @Aurelien, @Elliot, @Pyrene, jeux
+Tags: lang:fr, jdr, jdr4kids, gratuit, aide-de-jeu, opinion, sorcieres, creative-commons, illustration, antoine-bauza, david-revoy, @Aurelien, @Elliot, @Pyrene, jeux
 Slug: ptites-sorcieres
 ---
 
@@ -60,7 +60,7 @@ a conçu une foultitude de scénarios pour le jeu !
 J'en ai en particulier repéré quelques-uns :
 
 * **Un conte : Les papillons** qui a remporté le 35ème concours de la Cour d’Obéron : [Recueil35-v2.pdf](http://couroberon.com/auteur/Recueil35-v2.pdf)
-* [Le discours de l'amnésique](https://www.scenariotheque.org/Document/info_doc.php?id_doc=7202) où les p'tites sorcières devront aider un homme à écrire son discours de mariage
+* [Le discours de l'amnésique](https://www.scenariotheque.org/Document/info_doc.php?id_doc=7202) où les p'tites sorcières devront aider un amnésique à écrire son discours de mariage
 * [La Fée Electricité](https://www.scenariotheque.org/Document/info_doc.php?id_doc=6734) : concours de cerf-volants & appareils ménagers possédés !
 * [Coup de bambou](http://scenarios-aides-de-jeu-jdr-jdra.blogspot.com/2009/08/coup-de-bambou.html) : enquête sur une mystérieuse narcolepsie générale dans l’Archipel des Bambous
 * [Voyage au Pays des Sables](https://www.scenariotheque.org/Document/info_doc.php?id_doc=4655) : il faut porter assistance à une p'tite sorcière de l’Archipel des Sables
