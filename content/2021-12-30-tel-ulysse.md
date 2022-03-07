@@ -1,6 +1,6 @@
 Title: Tel Ulysse
 Date: 2021-12-30 2:00
-Tags: lang:fr, jdr, gratuit, playtest, opinion, compte-rendu, tolkraft, auberge-des-reveurs, ptgptb, defi-3ff, zero-prep, jdr4kids, @Olivier, @Luc, jeux
+Tags: lang:fr, jdr, gratuit, playtest, opinion, compte-rendu, tolkraft, auberge-des-reveurs, ptgptb, defi-3ff, zero-prep, @Olivier, @Luc, jeux
 ---
 <!-- Com'
 * PM Discord Tolkraft

@@ -10,7 +10,7 @@ In the same spirit as a precedent article [on glitch art](glitch-art-and-image-p
 I want to share some of my favorites:
 
 <figure class="lazyload" data-noscript="">
-  <img alt="Everything's Fine by Kenny Vaden" src="images/2022/02/everythings_fine_by_kenny_vaden.webp"></noscript>
+  <noscript><img alt="Everything's Fine by Kenny Vaden" src="images/2022/02/everythings_fine_by_kenny_vaden.webp"></noscript>
   <figcaption>
     <a href="https://www.reddit.com/r/generative/comments/s2u8tm/everythings_fine_r_code/">Everything's Fine by Kenny Vaden</a>
   </figcaption>
@@ -66,7 +66,7 @@ Some incredible art by **Frank Force aka KilledByAPixel**:
 </figure>
 
 <figure class="lazyload" data-noscript="">
-  <img alt="Astronomic Comics - Code Generated Space Comics" src="images/2022/02/astronomic_comics_code_generated_space_comics.webp"></noscript>
+  <noscript><img alt="Astronomic Comics - Code Generated Space Comics" src="images/2022/02/astronomic_comics_code_generated_space_comics.webp"></noscript>
   <figcaption>
     <a href="https://www.reddit.com/r/generative/comments/skiqjn/astronomic_comics_code_generated_space_comics/">Astronomic Comics - Code Generated Space Comics</a>
     - visit the link for more pages
@@ -74,7 +74,7 @@ Some incredible art by **Frank Force aka KilledByAPixel**:
 </figure>
 
 <figure class="lazyload" data-noscript="">
-  <img alt="Gensuzendō - Generative Calligraphy" src="images/2022/02/gensuzendō_generative_calligraphy.webp"></noscript>
+  <noscript><img alt="Gensuzendō - Generative Calligraphy" src="images/2022/02/gensuzendō_generative_calligraphy.webp"></noscript>
   <figcaption>
     <a href="https://www.reddit.com/r/generative/comments/s1oecz/gensuzend%C5%8D_generative_calligraphy/">Gensuzendō - Generative Calligraphy</a>
     - visit the link for more pages

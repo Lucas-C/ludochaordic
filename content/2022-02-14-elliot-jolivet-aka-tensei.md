@@ -20,7 +20,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Lutte.jpg" target="_blank">
-    <img alt="Lutte" src="images/2022/02/ej-Lutte.jpg"></noscript>
+    <noscript><img alt="Lutte" src="images/2022/02/ej-Lutte.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://illutensei.com/lutte">Lutte</a> - 2022
@@ -29,7 +29,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Echoués.jpg" target="_blank">
-    <img alt="Echoués" src="images/2022/02/ej-Echoués.jpg"></noscript>
+    <noscript><img alt="Echoués" src="images/2022/02/ej-Echoués.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://illutensei.com/echoues">Echoués</a> - 2022
@@ -38,7 +38,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Despair.jpg" target="_blank">
-    <img alt="Despair" src="images/2022/02/ej-Despair.jpg"></noscript>
+    <noscript><img alt="Despair" src="images/2022/02/ej-Despair.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://illutensei.com/despair">Despair</a> - 2022
@@ -47,7 +47,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Voiles.jpg" target="_blank">
-    <img alt="Voiles" src="images/2022/02/ej-Voiles.jpg"></noscript>
+    <noscript><img alt="Voiles" src="images/2022/02/ej-Voiles.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://www.artstation.com/artwork/GaWK4d">Voiles</a> - 2020
@@ -56,7 +56,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Fuite.jpg" target="_blank">
-    <img alt="Fuite" src="images/2022/02/ej-Fuite.jpg"></noscript>
+    <noscript><img alt="Fuite" src="images/2022/02/ej-Fuite.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://illutensei.com/fuite">Fuite</a> - 2020
@@ -65,7 +65,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Elaria.jpg" target="_blank">
-    <img alt="Elaria" src="images/2022/02/ej-Elaria.jpg"></noscript>
+    <noscript><img alt="Elaria" src="images/2022/02/ej-Elaria.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://www.facebook.com/tenseidraw/posts/919218605165292">Elaria</a> - 2020
@@ -74,7 +74,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Lodius.jpg" target="_blank">
-    <img alt="Lodius" src="images/2022/02/ej-Lodius.jpg"></noscript>
+    <noscript><img alt="Lodius" src="images/2022/02/ej-Lodius.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://www.facebook.com/tenseidraw/posts/912848592468960">Lodius</em></a> - 2020
@@ -83,7 +83,7 @@ Voici une sélection de ses créations :
 
 <figure class="lazyload" data-noscript="">
   <a href="images/2022/02/ej-Mountains-King.jpg" target="_blank">
-    <img alt="Mountain's King" src="images/2022/02/ej-Mountains-King.jpg"></noscript>
+    <noscript><img alt="Mountain's King" src="images/2022/02/ej-Mountains-King.jpg"></noscript>
   </a>
   <figcaption>
     <a href="https://www.behance.net/gallery/20039645/Mountains-King">Mountain's King</em></a> - 2014
@@ -95,7 +95,7 @@ Il a conçu pour ce projet une belle identité visuelle, ainsi que de nombreuses
 
 <div class="lazyload" data-noscript="">
   <a href="https://mush-radio.chezsoi.org/" target="_blank">
-    <img alt="Mush Radio" src="images/2022/02/ej-MushRadio.jpg"></noscript>
+    <noscript><img alt="Mush Radio" src="images/2022/02/ej-MushRadio.jpg"></noscript>
   </a>
 </div>
 
