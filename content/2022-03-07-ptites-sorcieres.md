@@ -3,9 +3,6 @@ Date: 2022-03-07 20:00
 Tags: lang:fr, jdr, jdr4kids, gratuit, aide-de-jeu, opinion, creative-commons, illustration, antoine-bauza, david-revoy, @Aurelien, @Elliot, @Pyrene, jeux
 Slug: ptites-sorcieres
 ---
-<!-- Com'
-*
--->
 
 <figure>
   <img alt="Ladybug par David Revoy" src="images/2022/03/Ladybug-by-DavidRevoy.jpg"></noscript>
@@ -159,6 +156,14 @@ Il y a également les illustrations officielles, dont une représentant l'Archip
 sur le [site officiel](http://toinito.free.fr/fr/jdr/psorcieres.php).
 
 Voici enfin quelques illustrations supplémentaires, éventuellement pour représenter les PJs : [tableau Pinterest](https://www.pinterest.fr/drmaxkurt/ptites-sorci%C3%A8res/).
+
+<figure class="lazyload" data-noscript="">
+  <noscript><img alt="Little Wizard by Nicholas Kole animated by Yennifer Dark" src="images/2022/03/LittleWizard-by-NicholasKole-animated-by-YenniferDark.gif"></noscript>
+  <figcaption>
+    <a href="https://www.artstation.com/artwork/VDw6X">Little Wizard by Nicholas Kole</a>
+    - <a href="https://twitter.com/Ulkhror/status/802474344748183552">animated version by Yennifer Dark</a>
+  </figcaption>
+</figure>
 
 ## Musique
 Une _playlist_ issue des films du studio Ghibli (en particulier _Princesse Mononoké_ & _Mary and The Witch's Flower_),
