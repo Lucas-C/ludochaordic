@@ -1,6 +1,6 @@
 Title: Ce n'est pas une place d'honneur
 Date: 2021-04-16 19:45
-Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, traduction, jdr, zero-prep, grant-howitt, @Matt, @Henri, @Aurelien, jeux
+Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, traduction, jdr, zero-prep, one-shot, grant-howitt, @Matt, @Henri, @Aurelien, jeux
 Slug: ce-nest-pas-une-place-dhonneur
 ---
 

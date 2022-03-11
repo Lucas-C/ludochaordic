@@ -1,6 +1,6 @@
 Title: The red panda intelligence division's revenge
 Date: 2018-11-10 23:55
-Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, manuel-bedouet, gratuit, @ThomasG, @Elliot, @Henri, jeux
+Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, manuel-bedouet, one-shot, gratuit, @ThomasG, @Elliot, @Henri, jeux
 Slug: the-red-panda-intelligence-divisions-revenge
 ---
 

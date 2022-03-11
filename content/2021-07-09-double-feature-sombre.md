@@ -1,6 +1,6 @@
 Title: Double feature SOMBRE
 Date: 2021-07-09 15:00
-Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, saw, unknown-armies, unlock, johan-scipion, julien-death-ambre-de-monte, @Aurelien, @Nicolas, @Michael, @Juliette, @PE, jeux
+Tags: lang:fr, jdr, sombre, one-shot, playtest, opinion, compte-rendu, horror, saw, unknown-armies, unlock, johan-scipion, julien-death-ambre-de-monte, @Aurelien, @Nicolas, @Michael, @Juliette, @PE, jeux
 Slug: double-feature-sombre
 ---
 

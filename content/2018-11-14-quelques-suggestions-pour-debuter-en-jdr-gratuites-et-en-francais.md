@@ -4,7 +4,7 @@ Tags: lang:fr, jdr, gratuit, dedale, les-13-reliques, le-grumph, bruno-bord, dan
 Slug: quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais
 ---
 
-Le week-end dernier, un de mes cousins m'a demandé si je pouvais le conseiller pour faire découvrir le jeu de rôle à des [enfants](/lucas/blog/tag/jdr4kids.html) / ados dans le cadre de son boulot.
+Le week-end dernier, un de mes cousins m'a demandé si je pouvais le conseiller pour faire découvrir le jeu de rôle à des enfants / ados dans le cadre de son boulot.
 
 Après lui avoir conseillé quelques noms, je me fais la réflexion que ça pourra peut-être servir à d'autres.
 Voici donc une petite liste de recommandations de jeux de rôle, gratuits et en français,
@@ -160,6 +160,8 @@ Je viens également d'écrire un court scénario pour _Run Die Repeat_ pour joue
 [_le camembert de la sorcière_](un-scenario-pour-run-die-repeat-pour-les-enfants.html).
 
 [![Couverture de Donjons & Chenapans](images/2018/11/DonjonsEtChenapans.webp)](https://gusandco.net/2020/03/18/donjons-chenapans-jeu-enfants/)
+
+**Retrouvez tous les articles de ce blog mentionnant des JdR adaptés avec des enfants avec le tag** [jdr4kids](/lucas/blog/tag/jdr4kids.html).
 
 <style>
 article img { max-height: 20rem; }

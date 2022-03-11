@@ -1,6 +1,6 @@
 Title: Vous reprendrez bien un peu de Sombre ?
 Date: 2021-12-29 23:30
-Tags: lang:fr, jdr, sombre, playtest, opinion, compte-rendu, horror, scenario, johan-scipion, julien-death-ambre-de-monte, mecaniques-de-jeu, mise-en-page, @Aurelien, @Michael, @Matt, @Kevin, jeux
+Tags: lang:fr, jdr, sombre, one-shot, playtest, opinion, compte-rendu, horror, scenario, johan-scipion, julien-death-ambre-de-monte, mecaniques-de-jeu, mise-en-page, @Aurelien, @Michael, @Matt, @Kevin, jeux
 ---
 <!-- Com'
 * https://www.terresetranges.net/forums/viewtopic.php?pid=20266#p20266

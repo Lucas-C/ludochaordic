@@ -1,6 +1,6 @@
 Title: 2200: Le Jugement Des Dieux
 Date: 2019-06-15 23:00
-Tags: lang:fr, jdr, bd, personal-project, narration-collective, creative-commons, gamedesign, gratuit, zero-prep, ElliotJolivet, @Henri, @Loic, jeux
+Tags: lang:fr, jdr, bd, personal-project, narration-collective, creative-commons, gamedesign, one-shot, gratuit, zero-prep, ElliotJolivet, @Henri, @Loic, jeux
 Slug: 2200-le-jugement-des-dieux
 ---
 
