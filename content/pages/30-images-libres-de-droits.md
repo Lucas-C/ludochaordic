@@ -31,6 +31,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
 
 - [Illustrations](pages/images-libres-de-droits.html#illustrations)
     * [Modern artists](pages/images-libres-de-droits.html#modern-artists)
+    * [Pixabay artists](pages/images-libres-de-droits.html#pixabay-artists)
     * [From last century](pages/images-libres-de-droits.html#from-last-century)
     * [Single artworks](pages/images-libres-de-droits.html#single-artworks)
     * [Projects & game assets](pages/images-libres-de-droits.html#projects--game-assets)
@@ -295,6 +296,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Mr Hope](https://www.deviantart.com/leomon32/art/Mr-Hope-834857965)
     * [Axel Stone - Streets of Rage 4](https://www.deviantart.com/leomon32/art/Axel-Stone-Streets-of-Rage-4-840431815)
     * [Greek god](https://www.deviantart.com/leomon32/art/Hamblor-the-god-of-hamburgers-480880559)
+    * [Giant Jigen - Lupin the Third](https://www.deviantart.com/leomon32/art/Giant-Jigen-Lupin-the-Third-910420082)
 - [Tarakanovich](https://www.deviantart.com/tarakanovich/gallery/) : **some** CC BY
 > Russian digital artist (includes NSFW) - [patreon](https://www.patreon.com/tarakanovich)
     * [Dark Souls 2 Caitha's concept art](https://www.deviantart.com/tarakanovich/art/Dark-Souls-2-Caitha-s-concept-art-475169114)
@@ -433,6 +435,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [cooking beans with thunder](https://www.deviantart.com/tis1451/art/cooking-beans-with-thunder-862785789)
     * [Jang san tiger](https://www.deviantart.com/tis1451/art/jang-san-tiger-871776702) - yeti-like
     * [quake doodle 1](https://www.deviantart.com/tis1451/art/quake-doodle-1-897883999) - 3 monsters
+    * [sir maggot](https://www.deviantart.com/tis1451/art/sir-maggot-909603822)
 - [Linus Pettersson](https://www.deviantart.com/ubergank/gallery) : **some** CC BY-SA - fantasy, color
 > Professional digital artist and aspiring Industrial Designer from Linköping, Sweden
     * [Dark knight](https://www.deviantart.com/ubergank/art/The-Penitent-One-815448320)
@@ -472,29 +475,6 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Goblin's Pike - Swamp Goblins](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Swamp-Goblins-888473663)
     * [Goblin's Pike - Tree Statue](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Tree-Statue-881074015)
     * [Sleepy Cave Dragon](https://www.deviantart.com/alexander-werner-jr/art/Sleepy-Cave-Dragon-888474721)
-- [Kieu Nguyen @Pixabay](https://pixabay.com/fr/users/vank_ngn-18684180/?tab=popular)
-    * [house couple street sketch style](https://pixabay.com/fr/illustrations/loger-coupler-rue-esquisser-style-5650706/)
-    * [boat vietnamese culture sketch](https://pixabay.com/fr/photos/bateau-la-culture-vietnamienne-5733038/)
-- [Piyapong Saydaung @Pixabay](https://pixabay.com/fr/users/saydung89-18713596/?tab=popular)
-    * [woman cellphone technology call](https://pixabay.com/fr/vectors/femme-t%c3%a9l%c3%a9phone-portable-5716875/)
-    * [girl tired student bored depressed](https://pixabay.com/fr/illustrations/fille-fatigu%c3%a9-%c3%a9tudiant-ennuyait-6024567/)
-    * [monsters children happy kids](https://pixabay.com/fr/illustrations/monstres-enfants-content-enfance-6032084/)
-    * [tent camp trees forest woods](https://pixabay.com/fr/illustrations/tente-camp-des-arbres-for%c3%aat-6024521/)
-- [Cdd20 @Pixabay](https://pixabay.com/fr/users/%E6%84%9A%E6%9C%A8%E6%B7%B7%E6%A0%AAcdd20-1193381/?tab=popular)
-    * [fantasy lighting man one man show](https://pixabay.com/fr/illustrations/fantaisie-%c3%a9clairage-homme-4065924/)
-    * [book read novel light painting](https://pixabay.com/fr/illustrations/livre-lis-roman-l%c3%a9ger-la-peinture-5946219/)
-    * [fairy tales elephants smoke myths](https://pixabay.com/fr/illustrations/les-contes-de-f%c3%a9es-%c3%a9l%c3%a9phants-fum%c3%a9e-4057425/)
-    * [cartoon painting universe hood stars](https://pixabay.com/fr/illustrations/dessin-anim%c3%a9-la-peinture-univers-5124000/)
-- [kirillslov @Pixabay](https://pixabay.com/fr/users/kirillslov-8058952/?tab=popular)
-    * [château fleurs pont-levis](https://pixabay.com/fr/vectors/ch%c3%a2teau-fleurs-pont-pont-levis-6968619/)
-    * [dinosaure préhistorique planète](https://pixabay.com/fr/vectors/dinosaure-pr%c3%a9historique-plan%c3%a8te-6968712/)
-    * [château forteresse immeuble](https://pixabay.com/fr/vectors/ch%c3%a2teau-forteresse-imeuble-6477872/)
-    * [bateau volant](https://pixabay.com/fr/vectors/fond-d-%c3%a9cran-haute-d%c3%a9finition-5514965/)
-- [Asketch @Pixabay](https://pixabay.com/fr/users/asketch-21255728/?tab=popular)
-    * [ninja japon warrior yakuza](https://pixabay.com/fr/illustrations/ninja-japon-style-guerrier-homme-6246685/)
-    * [cat ninja oni demon](https://pixabay.com/fr/photos/zombi-cat-femme-ninja-fille-6194997/)
-    * [zombie melting eye projector](https://pixabay.com/fr/illustrations/zombi-fusion-femme-fille-peu-s%c3%bbr-6203296/)
-    * [VR steampunk](https://pixabay.com/fr/illustrations/bo%c3%aete-de-vr-steampunk-femme-fille-6203301/)
 - [amamidori](https://www.deviantart.com/amamidori/gallery) - CC BY-SA - many SCP-inspired illustrations
 > A hobbyist illustrator from Japan
     * [Gods](https://www.deviantart.com/amamidori/art/Gods-871254672)
@@ -526,7 +506,56 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Summer Witch](http://meg-james.com/art/summer-witch/)
     * [Trapper team](http://meg-james.com/art/trapper-team/)
     * [Flash in the pan](http://meg-james.com/art/flash-in-the-pan/)
+- [Gray-Skull](https://www.deviantart.com/gray-skull/gallery) - CC BY-NC-SA - Warhammer 40K B&W (N&B)
+> Digital artist from Russia - [Patreon](https://www.patreon.com/GraySkull_Art)
+    * [Flayed One](https://www.deviantart.com/gray-skull/art/Flayed-One-858677213)
+    * [You have colonized the wrong planet](https://www.deviantart.com/gray-skull/art/You-have-colonized-the-wrong-planet-878839247)
+    * [Don't be afraid. You can pet her](https://www.deviantart.com/gray-skull/art/Don-t-be-afraid-You-can-pet-her-910377307)
+    * [HAPPY NEW YEAR 2022](https://www.deviantart.com/gray-skull/art/HAPPY-NEW-YEAR-2022-902393457)
+    * [Farsight Enclaves Fire Warriors](https://www.deviantart.com/gray-skull/art/Farsight-Enclaves-Fire-Warriors-881942945)
+    * [PREPARE TO DIE](https://www.deviantart.com/gray-skull/art/PREPARE-TO-DIE-855993716)
+    * [Biologis Adept](https://www.deviantart.com/gray-skull/art/Biologis-Adept-847217956)
+    * [Monochrome art #2](https://www.deviantart.com/gray-skull/art/Monochrome-art-2-847331859)
+- [Rodrigo Catraca](https://www.deviantart.com/rodrigokatrakas/gallery) - CC BY-SA - mostly comis & superheroes - many illustrations exist in both color + B&W (N&B)
+> Comic Artist and Illustrator based in Brazil, creates pages and covers for Comic companies.
+    * [Wookie - Concept](https://www.deviantart.com/rodrigokatrakas/art/Wookie-Concept-898003865)
+    * [Star Wars - Concept - Ig-88](https://www.deviantart.com/rodrigokatrakas/art/Star-Wars-Concept-Ig-88-857367196)
+    * [Kio - Wookie Concept](https://www.deviantart.com/rodrigokatrakas/art/Kio-Wookie-Concept-842376246)
+    * [Guts](https://www.deviantart.com/rodrigokatrakas/art/Guts-839600288)
+    * [Pirate - Rafe - Concept](https://www.deviantart.com/rodrigokatrakas/art/Pirate-Rafe-Concept-855364621)
+    * [Kale - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Kale-DD-Concept-866064695)
+    * [Klaus - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Klaus-DD-Concept-859428803)
+    * [Siobhan - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Siobhan-DD-Concept-861655408)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
+
+## Pixabay artists
+I have gathered those artists in this section as they share their work under the same [Pixabay license](https://pixabay.com/fr/service/license/),
+which does not share the same ambition as the _Creative Commons_, but still allows many usages:
+
+- [Kieu Nguyen @Pixabay](https://pixabay.com/fr/users/vank_ngn-18684180/?tab=popular)
+    * [house couple street sketch style](https://pixabay.com/fr/illustrations/loger-coupler-rue-esquisser-style-5650706/)
+    * [boat vietnamese culture sketch](https://pixabay.com/fr/photos/bateau-la-culture-vietnamienne-5733038/)
+- [Piyapong Saydaung @Pixabay](https://pixabay.com/fr/users/saydung89-18713596/?tab=popular)
+> A minimalist fashion style illustrator from Thailand, good at drawing character hairstyles, making him more focused on jagged lines. Likes and donations ("coffee") are welcome.
+    * [woman cellphone technology call](https://pixabay.com/fr/vectors/femme-t%c3%a9l%c3%a9phone-portable-5716875/)
+    * [girl tired student bored depressed](https://pixabay.com/fr/illustrations/fille-fatigu%c3%a9-%c3%a9tudiant-ennuyait-6024567/)
+    * [monsters children happy kids](https://pixabay.com/fr/illustrations/monstres-enfants-content-enfance-6032084/)
+    * [tent camp trees forest woods](https://pixabay.com/fr/illustrations/tente-camp-des-arbres-for%c3%aat-6024521/)
+- [Cdd20 @Pixabay](https://pixabay.com/fr/users/%E6%84%9A%E6%9C%A8%E6%B7%B7%E6%A0%AAcdd20-1193381/?tab=popular)
+    * [fantasy lighting man one man show](https://pixabay.com/fr/illustrations/fantaisie-%c3%a9clairage-homme-4065924/)
+    * [book read novel light painting](https://pixabay.com/fr/illustrations/livre-lis-roman-l%c3%a9ger-la-peinture-5946219/)
+    * [fairy tales elephants smoke myths](https://pixabay.com/fr/illustrations/les-contes-de-f%c3%a9es-%c3%a9l%c3%a9phants-fum%c3%a9e-4057425/)
+    * [cartoon painting universe hood stars](https://pixabay.com/fr/illustrations/dessin-anim%c3%a9-la-peinture-univers-5124000/)
+- [kirillslov @Pixabay](https://pixabay.com/fr/users/kirillslov-8058952/?tab=popular)
+    * [château fleurs pont-levis](https://pixabay.com/fr/vectors/ch%c3%a2teau-fleurs-pont-pont-levis-6968619/)
+    * [dinosaure préhistorique planète](https://pixabay.com/fr/vectors/dinosaure-pr%c3%a9historique-plan%c3%a8te-6968712/)
+    * [château forteresse immeuble](https://pixabay.com/fr/vectors/ch%c3%a2teau-forteresse-imeuble-6477872/)
+    * [bateau volant](https://pixabay.com/fr/vectors/fond-d-%c3%a9cran-haute-d%c3%a9finition-5514965/)
+- Ady Setiawan aka [Asketch @Pixabay](https://pixabay.com/fr/users/asketch-21255728/?tab=popular), from Indonesia
+    * [ninja japon warrior yakuza](https://pixabay.com/fr/illustrations/ninja-japon-style-guerrier-homme-6246685/)
+    * [cat ninja oni demon](https://pixabay.com/fr/photos/zombi-cat-femme-ninja-fille-6194997/)
+    * [zombie melting eye projector](https://pixabay.com/fr/illustrations/zombi-fusion-femme-fille-peu-s%c3%bbr-6203296/)
+    * [VR steampunk](https://pixabay.com/fr/illustrations/bo%c3%aete-de-vr-steampunk-femme-fille-6203301/)
 
 ## From last century
 - [John Bauer @ WikiArt](https://www.wikiart.org/en/john-bauer) : public domain - classic gothic / nordic tales, art nouveau
@@ -588,13 +617,11 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - [Glitch](https://www.glitchthegame.com/public-domain-game-art/) : ![thumbnail](https://www.glitchthegame.com/img/locations_ix.v1520324238.jpg) - ![thumbnail](https://www.glitchthegame.com/img/locations_firebog.v1520324238.jpg)
     * [Glitch tag on freesvg.org](https://freesvg.org/tag/glitch)
 - [Eclipse Phase](http://www.eclipsephase.com/cclicense)
-    * [Sunward Images - Reformatted](http://www.eclipsephase.com/sunward-images-reformatted)
-      <!-- links extracted in [imgur.com_a_31U0S.html](imgur.com_a_31U0S.html) due to imgur scroll bug -->
+>  Eclipse Phase releases (including print books, digital PDFs/ebooks, text, artwork, audio files, and this website) by Posthuman Studios are licensed under a Creative Commons Attribution-Noncommercial-Share Alike 4.0 License
+    * [all websites images from Google search](https://www.google.com/search?q=site%3Awww.eclipsephase.com&tbm=isch)
     * [Unwinding](https://www.artstation.com/artwork/rKbBO) - Mitchell Malloy CC BY-NC-SA
-    * [Ongoing Titan Activity](http://www.infectedbyart.com/contestpiece.asp?piece=7916) - Mitchell Malloy CC BY-NC-SA
-    * [Jovian SIS Team](https://static1.squarespace.com/static/557fb887e4b0dc46df0e93ac/557fe22ae4b074355c7419ed/5774b221414fb53c8282a03a/1485114239436/mitchell-malloy-x-risks-18-joviansisteam-mitchmalloy-web.jpg) - Mitchell Malloy CC BY-NC-SA
-    * [Spacewalk Artwork](http://eclipsephase.com/spacewalk-artwork) - Opus Artz CC BY-NC-SA
-    * [Alien Setting Artwork](http://eclipsephase.com/alien-setting-artwork) - Leanne Buckley CC BY-NC-SA
+    * [Ongoing Titan Activity](https://www.infectedbyart.com/contestpiece.asp?piece=7916) - Mitchell Malloy CC BY-NC-SA
+    * [Jovian SIS Team](https://www.artstation.com/artwork/LmdXk) - Mitchell Malloy CC BY-NC-SA
 - [28 Room Backgrounds by OokamiKasumi](https://lemmasoft.renai.us/forums/viewtopic.php?t=16392) - CC BY-NC - [some more on her DeviantArt galery](https://www.deviantart.com/ookamikasumi/gallery/24187224/Stock-Backgrounds)
   ![thumbnail](https://lemmasoft.renai.us/forums/download/file.php?id=14363&t=1&sid=c296adc09cd9085cc3f4fd05c508da4c) - ![thumbnail](https://lemmasoft.renai.us/forums/download/file.php?id=16995&t=1&sid=c296adc09cd9085cc3f4fd05c508da4c)
 - [itch.io](https://itch.io)
@@ -883,9 +910,11 @@ Go on and suggest artists to be added to this list by dropping a comment below !
 </script>
 
 <style>
-article h2 + ul > li { margin-bottom: 2rem; }
+article h2 + ul > li,
+article h2 + p + ul > li { margin-bottom: 2rem; }
 @media (min-width:768px) {
   article h2 + ul > li > ul,
+  article h2 + p + ul > li > ul,
   #image-banks + p + ul + p + ul > li > ul { columns: 2; }
 }
 </style>
