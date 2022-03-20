@@ -3,6 +3,7 @@ Date: 2022-03-20 12:30
 Tags: lang:en, creative-commons, illustration, deviantart, pixabay, gratuit
 Image-preview-thumbnailer: article ul ul,h2:nth-of-type(3) + ul
 Image-preview-thumbnailer-except-urls: deviantart.com/.+/gallery
+Image: thumbnails/summer-witch.png
 ---
 
 There are some notable recent addition to my page [Images sous licences libres](pages/images-libres-de-droits.html):
