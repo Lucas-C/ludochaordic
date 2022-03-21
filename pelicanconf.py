@@ -40,9 +40,10 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2022-03-21', 'img_url': 'images/readings/on-ne-nait-pas-grosse.jpg', 'description': "On ne naît pas grosse - Gabrielle Deydier (essai)"},
     {'date': u'2022-02-20', 'img_url': 'images/readings/le-monde-sans-fin.jpg', 'description': "Le monde sans fin - Blain & Jancovici (BD)"},
     {'date': u'2022-02-14', 'img_url': 'images/readings/facing-the-titan.png', 'description': "Face au Titan - Nicolas Ronvel (JdR)"},
-    {'date': u'2022-02-03', 'img_url': 'images/readings/s-occuper-de-son-sperme.jpg', 'description': "S’occuper de son sperme et être contracepté.e - éditions Leslie Bhar"},
+    {'date': u'2022-02-03', 'img_url': 'images/readings/s-occuper-de-son-sperme.jpg', 'description': "S’occuper de son sperme et être contracepté.e - éditions Leslie Bhar (essai)"},
     {'date': u'2021-12-29', 'img_url': 'images/readings/Strangers_in_Paradise.jpg', 'description': "Strangers in paradise - Terry Moore (BD)"},
     {'date': u'2021-12-27', 'img_url': 'images/readings/ion-mud.jpg', 'description': "Ion Mud - Amaury Bündgen (BD)"},
     {'date': u'2021-12-21', 'img_url': 'images/readings/FaussesPistes.jpg', 'description': "Fausses pistes - Duhamel (BD)"},

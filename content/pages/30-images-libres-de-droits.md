@@ -628,8 +628,11 @@ which does not share the same ambition as the _Creative Commons_, but still allo
     * [fantasy characters](https://opengameart.org/content/prismatic-art-collection-brian-patterson-fantasy-characters) by Brian Patterson
     * [fantasy characters](https://opengameart.org/content/prismatic-art-collection-kaitlyn-peavler-fantasy-characters) by Kaitlyn Peavler
     * [chibi fantasy characters](https://opengameart.org/content/prismatic-art-collection-daniel-solis-chibi-fantasy-characters) by Daniel Solis
-- [Silent Legions Art Pack](https://www.drivethrurpg.com/product/146840/Silent-Legions-Art-Pack): 56 B&W (N&B) line images (and one color cover) first used in the Silent Legions Lovecraftian horror RPG - public domain
-    * []()
+- **Sine Nomine Publishing** RPG publisher free art packs:
+    * [Silent Legions Art Pack](https://www.drivethrurpg.com/product/146840/Silent-Legions-Art-Pack) / [OpenGameArt collection](https://opengameart.org/content/silent-legions-art-pack) / [PDF preview](images/SilentLegionArtPack-ContactSheet.pdf): 56 B&W (N&B) line images (and one color cover) first used in the Silent Legions Lovecraftian horror RPG
+    * [Godbound Pack](https://www.drivethrurpg.com/product/186927/Godbound-Art-Pack): [PDF preview](images/GodboundArtPack-ContactSheet.pdf)
+    * [Scarlet Heroes Art Pack](https://www.drivethrurpg.com/product/114894/Scarlet-Heroes-Art-Pack): [PDF preview](images/ScarletHeroesArtPack-ContactSheet.pdf)
+    * [Stars Without Number: Revised Edition Art Pack](https://www.drivethrurpg.com/product/231355/Stars-Without-Number-Revised-Edition-Art-Pack): [PDF preview](images/SWN-Revised_Art_Pack_Contact_Sheet.pdf)
 - [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) by [Jeff Preston](http://team-preston.com/about/): CC BY -
 Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll, Zombie ![Thumbnail](https://d1vzi28wh99zvq.cloudfront.net/images/2902/91360.png)
 > IT / Game Industry Professional. Illustration, Game writing, design. From Lebanon (Oregon)
