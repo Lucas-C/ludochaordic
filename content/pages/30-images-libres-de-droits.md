@@ -166,9 +166,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Horseman of Thunder](https://www.deviantart.com/drinke94/art/Horseman-of-Thunder-717069246)
     * [Street Patrol](https://www.deviantart.com/drinke94/art/Street-Patrol-452991567)
     * [Fantasy envirnoment speedpainting](https://www.deviantart.com/drinke94/art/Fantasy-envirnoment-speedpainting-452991266)
-- [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) by [Jeff Preston](http://team-preston.com/about/): CC BY -
-Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll, Zombie ![Thumbnail](https://d1vzi28wh99zvq.cloudfront.net/images/2902/91360.png)
-> IT / Game Industry Professional. Illustration, Game writing, design. From Lebanon (Oregon)
 - [Halil URAL _aka_ MrDream](https://duckduckgo.com/?q=site%3Adeviantart.com%2Fmrdream+"creative+commons"+-"No+Derivative+Works") : **some** CC BY-NC artworks:
 > Illustrator / Painter from Helsinki, Finland
     * [UFO Crash Site](https://www.deviantart.com/mrdream/art/UFO-Crash-Site-348827947)
@@ -614,8 +611,28 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 - [samurai silhouette](https://pixahive.com/photo/colorful-illustration-5/) & [flying girl](https://pixahive.com/photo/dream-illustration/) - CC0
 
 ## Projects & game assets
-- [Glitch](https://www.glitchthegame.com/public-domain-game-art/) : ![thumbnail](https://www.glitchthegame.com/img/locations_ix.v1520324238.jpg) - ![thumbnail](https://www.glitchthegame.com/img/locations_firebog.v1520324238.jpg)
+- [Symbiosis CC Artbook by Steven Sanders](https://gumroad.com/l/oRzNi) : amazing collection of dozens of illustrations under CC BY-NC-SA
+  ![thumbnail](https://public-files.gumroad.com/variants/ws5q77hxpf6ccqokzkqlfkhaqgvx/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb)
+- [The Battle for Wesnoth](https://www.google.com/search?q=site%3Awiki.wesnoth.org&tbm=isch) - [GNU GPL v2 or CC BY-SA](https://wiki.wesnoth.org/Wesnoth:Copyrights#The_Battle_for_Wesnoth_-_Visual_and_Audio_Contributions)
+  ![thumbnail](https://raw.githubusercontent.com/wesnoth/wesnoth/master/data/campaigns/The_Rise_Of_Wesnoth/images/story/trow_intro_09.jpg)
+    * [Mainline Campaigns](https://wiki.wesnoth.org/Mainline_Campaigns)
+    * [Wesnoth Figures](https://wiki.wesnoth.org/WesnothFigures)
+    * [List of supporting characters from the Rise of Wesnoth](https://www.wesnoth.org/forum/viewtopic.php?t=32775)
+    * [Sceptre of Fire Campaign](https://wiki.wesnoth.org/List_of_supporting_characters_from_The_Rise_of_Wesnoth)
+- [Glitch](https://www.glitchthegame.com/public-domain-game-art/) - public domain : ![thumbnail](https://www.glitchthegame.com/img/locations_ix.v1520324238.jpg) - ![thumbnail](https://www.glitchthegame.com/img/locations_firebog.v1520324238.jpg)
     * [Glitch tag on freesvg.org](https://freesvg.org/tag/glitch)
+- Prismatic Art Collection: [OpenGameArt collection](https://opengameart.org/content/prismatic-art-collection) / [GitHub repo](https://github.com/hurleyit/prismatic_art) : heroes of all backgrounds: pirates, wizards, fighters... - CC BY-SA
+> In geek culture, there are plenty of Lukes, but not enough Landos or Leias. We want to change that. [2013 Kickstarter campaign](https://www.kickstarter.com/projects/sarahdarkmagic/prismatic-art-collection)
+    * [wizard](https://opengameart.org/content/prismatic-art-collection-robert-scott-wizard) by Robert Scott
+    * [necro](https://opengameart.org/content/prismatic-art-collection-shari-chankhamma-necromancer) by Shari Chankhamma
+    * [fantasy characters](https://opengameart.org/content/prismatic-art-collection-brian-patterson-fantasy-characters) by Brian Patterson
+    * [fantasy characters](https://opengameart.org/content/prismatic-art-collection-kaitlyn-peavler-fantasy-characters) by Kaitlyn Peavler
+    * [chibi fantasy characters](https://opengameart.org/content/prismatic-art-collection-daniel-solis-chibi-fantasy-characters) by Daniel Solis
+- [Silent Legions Art Pack](https://www.drivethrurpg.com/product/146840/Silent-Legions-Art-Pack): 56 B&W (N&B) line images (and one color cover) first used in the Silent Legions Lovecraftian horror RPG - public domain
+    * []()
+- [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) by [Jeff Preston](http://team-preston.com/about/): CC BY -
+Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll, Zombie ![Thumbnail](https://d1vzi28wh99zvq.cloudfront.net/images/2902/91360.png)
+> IT / Game Industry Professional. Illustration, Game writing, design. From Lebanon (Oregon)
 - [Eclipse Phase](http://www.eclipsephase.com/cclicense)
 >  Eclipse Phase releases (including print books, digital PDFs/ebooks, text, artwork, audio files, and this website) by Posthuman Studios are licensed under a Creative Commons Attribution-Noncommercial-Share Alike 4.0 License
     * [all websites images from Google search](https://www.google.com/search?q=site%3Awww.eclipsephase.com&tbm=isch)
@@ -628,20 +645,12 @@ which does not share the same ambition as the _Creative Commons_, but still allo
     * [@Axebane Free! Fantasy Stock Art](https://axebanegames.itch.io/free-fantasy-stock-art) : 74 hand-drawn B&W (N&B) images of fantasy items, including daggers, swords, axes, staves, shields, scrolls, spellbooks, potions, torches, war banners, tools...
     * [Free CC0 assets](https://itch.io/game-assets/assets-cc0/free)
     * [Free CC-BY assets](https://itch.io/game-assets/assets-cc4-by/free)
-- [Dragosha dungeon tiles](http://dragosha.com/free/dungeon-part-1-tiles.html) : CC BY-SA
+- [Dragosha dungeon tiles](http://dragosha.com/free/dungeon-part-1-tiles.html) : CC BY-SA - ~400 images (at 288dpi): floors, tiles, borders, objects, light, fire and doors animation
   ![thumbnail](https://dragosha.com/free/images/2014-07-31%2016-56-30%20xenofantfla.jpg?crc=329762651)
 - "The Incredible Adventures of Van Helsing" monsters:
     * [Mechanical werewolf](https://en.wikipedia.org/wiki/File:NeocoreGames_concept_art_-_VH_monster3.jpg)
     * [Frankestein creature with flamethrower](https://commons.wikimedia.org/wiki/File:NeocoreGames_concept_art_-_VH_monster2.jpg)
     * [Centaur-toad with hammer](https://commons.wikimedia.org/wiki/File:NeocoreGames_concept_art_-_VH_monster1.jpg)
-- [Symbiosis CC Artbook by Steven Sanders](https://gumroad.com/l/oRzNi) : amazing collection of illustrations under CC BY-NC-SA
-  ![thumbnail](https://public-files.gumroad.com/variants/ws5q77hxpf6ccqokzkqlfkhaqgvx/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb)
-- [The Battle for Wesnoth](https://www.google.com/search?q=site%3Awiki.wesnoth.org&tbm=isch) - [GNU GPL v2 or CC BY-SA](https://wiki.wesnoth.org/Wesnoth:Copyrights#The_Battle_for_Wesnoth_-_Visual_and_Audio_Contributions)
-  ![thumbnail](https://raw.githubusercontent.com/wesnoth/wesnoth/master/data/campaigns/The_Rise_Of_Wesnoth/images/story/trow_intro_09.jpg)
-    * [Mainline Campaigns](https://wiki.wesnoth.org/Mainline_Campaigns)
-    * [Wesnoth Figures](https://wiki.wesnoth.org/WesnothFigures)
-    * [List of supporting characters from the Rise of Wesnoth](https://www.wesnoth.org/forum/viewtopic.php?t=32775)
-    * [Sceptre of Fire Campaign](https://wiki.wesnoth.org/List_of_supporting_characters_from_The_Rise_of_Wesnoth)
 - [Adventure Time backgrounds](https://www.flickr.com/photos/84568447@N00/albums/72157616038185579) - [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
     * ["Dungeon" Background](https://www.flickr.com/photos/84568447@N00/4860797836/in/photostream/)
     * ["Dungeon" Background](https://www.flickr.com/photos/84568447@N00/4860798256/in/photostream/)
@@ -792,6 +801,9 @@ Old public domain illustrations & photos:
 
 # Avatars
 - [DM Heroes character & portrait generator](http://www.dmheroes.com)
+- [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) by [Jeff Preston](http://team-preston.com/about/): CC BY -
+Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll, Zombie ![Thumbnail](https://d1vzi28wh99zvq.cloudfront.net/images/2902/91360.png)
+> IT / Game Industry Professional. Illustration, Game writing, design. From Lebanon (Oregon)
 - [artflow](https://artflow.ai/) - all images are CC BY
 - [Artbreeder](https://www.artbreeder.com/browse) - all images are under CC0
 - [avataaars generator](https://getavataaars.com/) - Free for personal and commercial use
