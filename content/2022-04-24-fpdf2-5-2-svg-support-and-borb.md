@@ -171,8 +171,9 @@ There are documented as comments in the script (it did not like some PNG files, 
 and I think this supports my previous analysis regarding `fpdf2` robustness compared to `borb`.
 
 I hope that this comparison will be useful to pythonistas around here.
-I'd like to stress that this analysis is probably biased due to the fact that I'm `fpdf2` current maintainer,
-and that I really admire & respect Joris Schellekens work on `borb`.
+I'd like to stress that I really admire & respect Joris Schellekens work on `borb`,
+and that this analysis may be biased by the fact that I'm `fpdf2` current maintainer.
+I encourage every reader to make their own list of criteria that matter, depending on their own project.
 
 ---
 
