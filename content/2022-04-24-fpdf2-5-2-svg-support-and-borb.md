@@ -52,7 +52,7 @@ Two other useful features were added by [Georg Mischler](https://github.com/gmis
 * support for soft-hyphen (`\u00ad`) break in `write()`, `cell()` & `multi_cell()`,
   _cf._ [documentation on line breaks](https://pyfpdf.github.io/fpdf2/LineBreaks.html)
 * new parameters `new_x` and `new_y` were introduced for `cell()` and `multi_cell()` methods,
-  in order to make cursor position after cell-rendering a lot more intuituve & user-friendly,
+  in order to make cursor position after cell-rendering a lot more intuitive & user-friendly,
   _cf._ [related documentation](https://pyfpdf.github.io/fpdf2/Text.html#change-in-current-position)
 
 [Georg Mischler](https://github.com/gmischler) also took some time to revise the whole structure of the documentation,
@@ -105,7 +105,7 @@ In November of 2020, Joris Schellekens released another excellent pure-Python li
 He even wrote a very detailed e-book about it, available publicly there: [borb-examples](https://github.com/jorisschellekens/borb-examples/).
 
 In many ways, `borb` excels in areas where `fpdf2` has gaps:
-it has a very clean and well-structure code API, with well-defined PDF primitive data-types,
+it has a very clean and well-structure code API, with well-defined PDF primitive data-types and type hints (checked with `mypy`),
 it offers several options for [pages layout](https://github.com/jorisschellekens/borb-examples/#223-setting-a-pagelayout),
 it can [parse PDF files](https://github.com/jorisschellekens/borb-examples/#5-working-with-existing-pdfs) and even [extract tables](https://github.com/jorisschellekens/borb-examples/#71-extracting-tables-from-a-pdf),
 it even allows you to insert [forms](https://github.com/jorisschellekens/borb-examples/#4-forms) or [Javascript code](https://github.com/jorisschellekens/borb-examples/#439-adding-a-javascriptpushbutton-to-a-pdf).
@@ -118,7 +118,7 @@ we provide some guidance in doing so: [documentation](https://pyfpdf.github.io/f
 I have 2 intents in drawing this comparison:
 
 * help Python coders chose the library that best fit their need
-* figure if `fpdf2` is indeed the fastest of the 2 libs, as I suspect 😁
+* figure if `fpdf2` is indeed the fastest of the 2 libraries, as I suspect 😁
 
 <u>First</u>, there are a couple of features that only `fpdf2` offers: SVG support (`borb` [rasters](https://en.wikipedia.org/wiki/Rasterisation) `.svg` files to pixelated images)
 and some useful methods to generate a [table of contents](https://pyfpdf.github.io/fpdf2/DocumentOutlineAndTableOfContents.html).
