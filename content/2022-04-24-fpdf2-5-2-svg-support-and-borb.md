@@ -1,16 +1,14 @@
 Title: fpdf2.5.2 : SVG support and borb
-Date: 2022-04-24 11:00
-Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, benchmark, django, flask, streamlit, matplotlib, fpdf2, borb, prog
+Date: 2022-04-24 13:00
+Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, benchmark, documentation, xml, security, django, flask, streamlit, matplotlib, fpdf2, borb, prog
 Slug: fpdf2-5-2-svg-support-and-borb
 Image: images/2022/04/Ghostscript_Tiger.png
 ---
 
-<!-- Com' à faire :
-* [ ] https://planetpython.org
-* [ ] https://www.reddit.com/r/Python/
-* [ ] https://www.reddit.com/r/pythonnews/
-* [ ] https://dev.to/lucasc/
-* [ ] email @jorisschellekens & @gmischler + comment on @torque PR
+<!-- Com' réalisée :
+* [x] https://www.reddit.com/r/Python/comments/uasf5r/borb_vs_fpdf2_comparing_2_pdf_generation_libs/
+* [x] https://dev.to/lucasc/fpdf252-svg-support-and-comparison-with-borb-2fip
+* [x] email @jorisschellekens & @gmischler + comment on @torque PR
 -->
 
 `fpdf2` is a simple & fast PDF creation library for Python that I have been maintaining since mid-2020.
@@ -197,8 +195,8 @@ Now, I wish you all to have a lot of fun building PDFs with `fpdf2` & `borb`!
 
 <style>
 article img { max-height: 12rem; }
-article img.big { max-height: 20rem; }
 article h2 { padding-top: 2rem; }
+article hr { margin: 3rem; }
 .uk-article-content > p:nth-child(3) { /* Link to GitHub repo */
   display: block;
   text-align: center;
