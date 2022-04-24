@@ -832,15 +832,20 @@ Old public domain illustrations & photos:
 
 
 # Avatars
+I have a focus on collections & tools that allow for randomization, and that can be used as standalones (_e.g._ not embedded in Unity):
+
 - [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) by [Jeff Preston](http://team-preston.com/about/): CC BY 3.0 -
 Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll, Zombie ![Thumbnail](https://d1vzi28wh99zvq.cloudfront.net/images/2902/91360.png)
 > IT / Game Industry Professional. Illustration, Game writing, design. From Lebanon (Oregon)
 - [artflow](https://artflow.ai/) - all images are CC BY
 - [Artbreeder](https://www.artbreeder.com/browse) - all images are under CC0
 - [avataaars generator](https://getavataaars.com/) - Free for personal and commercial use
+- [Multiavatar](https://multiavatar.com) - [free for non-commercial and commercial purposes](https://github.com/multiavatar/Multiavatar/blob/main/LICENSE)
 - [DiceBear Avatars](https://avatars.dicebear.com/) - "you are free to use the generated avatars for [any] purposes [...] developed open source and will remain free of charge"
 - [RoboHash](https://robohash.org/) ([Python sources @GitHub](https://github.com/e1ven/Robohash)): generate heads of robots, monsters, humans, cats - CC BY
 - [Arbust0 Face Gallery](https://campaignwiki.org/face/gallery/arbust0/random) - from [Faces for your RPG Characters](https://campaignwiki.org/face) - public domain
+- [The Character Creator](https://charactercreator.org) - [@GitHub](https://github.com/ubik23/charactercreator) - CC BY-NC 4.0
+- [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker): pixel art animated 12x16 characters generator - _permission is granted to use the assets generated with the software in any commercial or non-commercial projects_
 - [Doodle Ipsum](https://doodleipsum.com/) from [Blush](https://blush.design): `URL=https://doodleipsum.com/$widthx$height/$category`,
   with `$category` from: `avatar`, `avatar-2`, `avatar-3`, `avatar-4`, `avatar-5` (also: `hand-drawn`, `abstract`).
   Blush illustrations can be used for commercial and non-commercial purposes, _cf._ [License license](https://blush.design/license)
@@ -857,11 +862,13 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 ## Non-libre avatar generators
 Generators that produces character illustrations that have not been placed under a Creative Commons license or in the public domain:
 
+- [Pixelart Portrait Maker by @Namatnieks](https://aamatniekss.itch.io/pixelart-portrait-maker): $20 -> can be used in both free and commercial projects
 - [DM Heroes character & portrait generator](http://www.dmheroes.com)
 - [League of Legends Avatar Generator](https://na.leagueoflegends.com/en/featured/events/avatar-creator#/)
 - [characters generators by elequinoa](https://elequinoa.com/games.html)
     * [Cyber Character](https://www.dolldivine.com/cyberpunk.php)
 - [Live Portrait Maker by Angela He](https://github.com/zephyo/Live-Portrait-Maker)
+- [Personas by Draftbit](https://github.com/draftbit/avatar-generator)
 
 
 # AI-based art
@@ -925,7 +932,7 @@ Generators that produces character illustrations that have not been placed under
     * [Cyber Gotica](https://www.dafont.com/cibergotica.font?l[]=10&l[]=1)
     * [Dark Garden](https://www.dafont.com/dark-garden.font?l[]=10&l[]=1) : bouuuh elle fait peuuuur !
     * [Green Fuz](https://www.dafont.com/green-fuz.font?l[]=10&l[]=1) : brrrr, ça tremble : American horror comics of the 1950’s
-    * [Shlop](https://www.dafont.com/shlop.font?text=Les+NON-MORTS&psize=l) : aaaah, ça suinte : wicked, oozing horror
+    * [Shlop](https://www.dafont.com/shlop.font?psize=l) : aaaah, ça suinte : wicked, oozing horror
     * [True Crimes](https://www.dafont.com/true-crimes.font) & [Zombie](https://www.dafont.com/zombie.font) : discrètement stylisées façon "os", ne gèrent pas les accents
     * [Ninja Sushi](https://www.dafont.com/ninjasushi.font) : cursive / hand-written that scales OK, free for personal use
     * [Gothic Ville](https://www.dafont.com/gothicville.font) : urban, "half" bold, kinda steampunk, free for personal use
@@ -933,6 +940,9 @@ Generators that produces character illustrations that have not been placed under
     * [Elementary Gothic](https://www.dafont.com/elementary-gothic.font) : mysterious, victorian, gothic, free (SIL Open Font)
     * [Road Rage](https://www.dafont.com/road-rage.font) : traces de pneu, coups de peinture, free for personal use
     * [Marker Scratch](https://www.fontspace.com/marker-scratch-font-f32739) : free
+    * [Lavender Rainstorm](https://fr.ffonts.net/Lavender-Rainstorm.font) : small raining clouds over all characters, public domain
+    * [Kill The Noise](https://www.dafont.com/kill-the-noise.font), free for all use
+    * [Anachronaut](https://www.fontspace.com/anachronaut-font-f30584) : minimalist / pixe-art / maze, public domain
 - <https://github.com/ianhan/BitmapFonts> & <http://robhagemans.github.io/monobit/>
 
 <!-- Music & sound
