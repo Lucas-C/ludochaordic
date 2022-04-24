@@ -162,7 +162,7 @@ There are the resulting PDF files:
 Now, what can we conclude <u>in this usage scenario</u>?
 
 * **`fpdf2` is faster than `borb`** (by a factor ~70)
-* **`fpdf2` use less memory than `borb`** (by a factor ~14)
+* **`fpdf2` use less memory than `borb`** (by a factor ~15)
 * **`borb` produces smaller PDFs than `fpdf2`** (by a factor ~10), but **at a cost**:
   if you check the files produced, the images in the PDF made with `borb` contain **visible [artifacts](https://en.wikipedia.org/wiki/Artifact_(error))** due to compression
 
