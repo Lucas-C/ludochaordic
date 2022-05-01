@@ -1,11 +1,13 @@
 Title: fpdf2.5.2 : SVG support and borb
 Date: 2022-04-24 13:00
-Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, benchmark, documentation, xml, security, django, flask, streamlit, matplotlib, fpdf2, borb, prog
+Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, benchmark, documentation, xml, security, django, flask, streamlit, aws, lambda, matplotlib, fpdf2, borb, prog
 Slug: fpdf2-5-2-svg-support-and-borb
 Image: images/2022/04/Ghostscript_Tiger.png
 ---
 
 <!-- Com' réalisée :
+* [x] https://news.ycombinator.com/item?id=31143783
+* [x] https://www.reddit.com/r/programming/comments/ubg1mu/borb_vs_fpdf2_comparing_2_pdf_generation_libs/
 * [x] https://www.reddit.com/r/Python/comments/uasf5r/borb_vs_fpdf2_comparing_2_pdf_generation_libs/
 * [x] https://dev.to/lucasc/fpdf252-svg-support-and-comparison-with-borb-2fip
 * [x] email @jorisschellekens & @gmischler + comment on @torque PR
@@ -67,8 +69,9 @@ I also contributed a few extra functionalities:
 
 A few additions were made to the documentation to provide usage examples of `fpdf2` with other libraries:
 
-* with [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com), [streamlit](https://streamlit.io/): _cf._ [documentation](https://pyfpdf.github.io/fpdf2/UsageInWebAPI.html)
+* with [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com), [streamlit](https://streamlit.io/), AWS lambdas: _cf._ [documentation](https://pyfpdf.github.io/fpdf2/UsageInWebAPI.html)
 * with [Matplotlib](https://matplotlib.org/) to embed **charts & equations**: _cf._ [documentation](https://pyfpdf.github.io/fpdf2/Maths.html)
+* with [SQLAlchemy](https://www.sqlalchemy.org/) to **store PDFs in a database**: _cf._ [documentation](https://pyfpdf.github.io/fpdf2/DatabaseStorage.html)
 * with [pdfrw](https://github.com/pmaupin/pdfrw) to modify **existing PDFs**: _cf._ [documentation](https://pyfpdf.github.io/fpdf2/ExistingPDFs.html)
 
 Would you like other examples being provided?

@@ -943,6 +943,8 @@ Generators that produces character illustrations that have not been placed under
     * [Lavender Rainstorm](https://fr.ffonts.net/Lavender-Rainstorm.font) : small raining clouds over all characters, public domain
     * [Kill The Noise](https://www.dafont.com/kill-the-noise.font), free for all use
     * [Anachronaut](https://www.fontspace.com/anachronaut-font-f30584) : minimalist / pixe-art / maze, public domain
+    * [Outrun Future](https://www.dafont.com/outrun-future.font) : $40 for a commercial license
+    * [Ninjos](https://www.dafont.com/ninjos.font)
 - <https://github.com/ianhan/BitmapFonts> & <http://robhagemans.github.io/monobit/>
 
 <!-- Music & sound
