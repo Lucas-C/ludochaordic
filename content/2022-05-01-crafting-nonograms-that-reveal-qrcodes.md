@@ -9,6 +9,9 @@ This tool can now build a solvable grid in the form of a valid [QR Code](https:/
 
 ![Animation of a nonogram grid being solved and revealing a QR code](images/2022/05/qrcode.gif)
 
+The nonogram size will depend on the hidden text size,
+but even with a short text, it will be a difficult one to solve manually.
+
 To find more about it: [Nonogram JS demo page](https://lucas-c.github.io/Nonogram/#qrcode-nonogram).
 
 Note that I've written about open-source generators to build pen & paper puzzles in the past (in French):
