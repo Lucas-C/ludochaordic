@@ -26,3 +26,28 @@ Et voilà !
 All my pre-existing scripts now send alerts to the rollbar web API,
 I still receive email notifications from this service
 **and** I now have an online web dashboard and extra functionnalities like alerts aggregation 🎉
+
+**EDIT [2022/05/03]**: in case of [rate-limit exceeded](https://docs.rollbar.com/docs/rate-limits), the `pyrollbar` Python client will raise a warning, not an error:
+[`rollbar/__init__.py` line 1700](https://github.com/rollbar/pyrollbar/blob/master/rollbar/__init__.py#L1700) 😔
+
+```
+WARNING:rollbar:Rollbar: over rate limit, data was dropped. Payload was:...
+```
+
+There is how to transform this warning into a proper `mail` command failure, because [fail-fast](https://en.wikipedia.org/wiki/Fail-fast) is **The Way**:
+
+```python
+#!/usr/bin/python3
+import logging, rollbar, sys
+from logging.handlers import BufferingHandler
+
+log_handler = BufferingHandler(capacity=100)
+rollbar.log.addHandler(log_handler)
+
+rollbar.init('rollbar token', handler='blocking')
+rollbar.report_message(socket.gethostname() + ' sent an email:' + ' '.join(sys.argv[1:]),
+                   extra_data={'stdin': sys.stdin.read()})
+
+if 'data was dropped' in log_handler.buffer[0].message:
+    sys.exit(1)
+```

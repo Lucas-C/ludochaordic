@@ -907,6 +907,9 @@ Generators that produces character illustrations that have not been placed under
 - [Font Library](https://fontlibrary.org)
 - [Urban Fonts](https://www.urbanfonts.com)
 - [DaFonts](https://www.dafont.com) : with filters "Public domain / GPL / OFL" + "100% Free"
+- [Use & Modify](https://usemodify.com/) :
+> selection of beautiful, classy, punk, professional, incomplete, weird typefaces.
+> Open source licenses make them free to use and modify.
 - Specific ones:
     * [Best of 2015: 100 Free Fonts for Designers](https://www.jotform.com/blog/best-of-2015-100-free-fonts-for-designers-95285/)
     * [Infiltrace](https://www.dafont.com/infiltrace.font?l[]=10&l[]=1)
