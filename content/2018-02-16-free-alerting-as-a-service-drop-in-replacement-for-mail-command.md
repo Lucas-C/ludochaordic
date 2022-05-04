@@ -48,6 +48,6 @@ rollbar.init('rollbar token', handler='blocking')
 rollbar.report_message(socket.gethostname() + ' sent an email:' + ' '.join(sys.argv[1:]),
                    extra_data={'stdin': sys.stdin.read()})
 
-if 'data was dropped' in log_handler.buffer[0].message:
+if any('data was dropped' in record.message for record in log_handler.buffer):
     sys.exit(1)
 ```

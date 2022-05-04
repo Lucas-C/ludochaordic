@@ -3,9 +3,10 @@ Date: 2017-05-17 16:05
 Tags: lang:en, python, twilio, prog
 Slug: record-an-existing-voicemail-message-with-python
 ---
-Last week, my father asked me if I could find make a backup of an old lovely voicemail message he had.
+Last week, my father asked me if I could make a backup of an old lovely voicemail message he had,recorded by my sister when she was a kid.
 
-I wrote a [short Python script](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/record_voicemail_with_twilio.py) to accomplis this:
+I wrote a [short Python script](https://github.com/Lucas-C/linux_configuration/blob/master/languages/python/record_voicemail_with_twilio.py)
+to accomplish this using [Twilio](https://www.twilio.com):
 ```python
 twiml_url = 'https://handler.twilio.com/twiml/EH9515e9e0d2fb81f27d75a493225ae703'
 client = Client(os.environ['TWILIO_ACCOUNT_SID'], os.environ['TWILIO_AUTH_TOKEN'])
