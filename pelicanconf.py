@@ -40,6 +40,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2022-05-14', 'img_url': 'images/readings/LaHordeDuContrevent.jpg', 'description': "La horde du Contrevent - Alain Damasio (roman)"},
     {'date': u'2022-03-21', 'img_url': 'images/readings/on-ne-nait-pas-grosse.jpg', 'description': "On ne naît pas grosse - Gabrielle Deydier (essai)"},
     {'date': u'2022-02-20', 'img_url': 'images/readings/le-monde-sans-fin.jpg', 'description': "Le monde sans fin - Blain & Jancovici (BD)"},
     {'date': u'2022-02-14', 'img_url': 'images/readings/facing-the-titan.png', 'description': "Face au Titan - Nicolas Ronvel (JdR)"},

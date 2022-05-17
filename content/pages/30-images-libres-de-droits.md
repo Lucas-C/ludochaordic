@@ -93,6 +93,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Crooks creek canyon background](https://www.deviantart.com/themefinland/art/Crooks-creek-872195811)
     * [The frozen spire](https://www.deviantart.com/themefinland/art/The-frozen-spire-commission-904236586)
     * [The veiled Weald](https://www.deviantart.com/themefinland/art/The-veiled-Weald-708896875)
+    * [Kiwi knight](https://www.deviantart.com/themefinland/art/Kiwi-knight-915768988)
 - [Ramirez de Souza _aka_ Halycon450](https://www.deviantart.com/halycon450/gallery/) CC BY-NC-SA : >700 illustrations, Shadowrun, DOTA, Monster Hunter, Dark Souls dark fantasy, Shadowrun, some sci-fi characters & ships, swordsmen, Huntsman + 2 mouse characters
 > An amazing “hobbyist” from Germany
     * [Shadowrun Elf Decker](https://www.deviantart.com/halycon450/art/Shadowrun-Elf-Decker-607928463)
@@ -256,6 +257,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Shub-Niggurath](https://www.deviantart.com/sunnyclockwork/art/Shub-Niggurath-518800024)
     * [The Crowned](https://www.deviantart.com/sunnyclockwork/art/The-Crowned-871782167)
     * [Devourer and Prophet (color)](https://www.deviantart.com/sunnyclockwork/art/Devourer-and-Prophet-873713126)
+    * [SCP-173 Concept](https://www.deviantart.com/sunnyclockwork/art/SCP-173-Concept-907112072)
 - [DocWendigo / WendiBones](https://www.deviantart.com/docwendigo/gallery/) : CC BY-NC - handsome men portraits
 > Italian digital artist, editor, writer [patreon](https://www.patreon.com/Wendigo)
     * [Dream Daddies](https://www.deviantart.com/docwendigo/art/Dream-Daddies-700446513)
