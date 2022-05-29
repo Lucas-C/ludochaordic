@@ -58,6 +58,13 @@ how writers & narrative designers work @ TellTale
 > * Writing doesn't have a monopoly on the story, Design doesn't have a monopoly on gameplay.
 > Making a game is a team effort.
 
+[Story Design Tips: 5 Articles about World-Building by Guy Hasson (2011)](https://guyhasson.wordpress.com/2011/06/20/story-design-tips-5-articles-about-world-building/)
+* Worlds need doors that **never open**: every world you create needs something that can't be solved, can't be seen, or can't be understood
+* There can be no definitive beginning nor ending to history
+* Design a world that feels infinite in its complexity
+* Reality is your best resource when building a false one
+* New Worlds Need Dust and Rust
+
 [Writing and Story Development @ gamedev.net](http://archive.gamedev.net/archive/reference/listc2bf.html?categoryid=63)
 
 

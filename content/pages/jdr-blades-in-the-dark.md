@@ -77,6 +77,9 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-5)
 - [Session 9 - 16 octobre 2021](pages/jdr-blades-in-the-dark.html#session-9-16-octobre-2021)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-6)
+- [Session 10 - 28 mai 2022](pages/jdr-blades-in-the-dark.html#session-10-28-mai-2022)
+    * [Intro](pages/jdr-blades-in-the-dark.html#intro)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-7)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -303,7 +306,7 @@ Blessé, en partie exorcisé, le fantôme se jette sur Ethnos et Lodius tout pro
 Puis tout bascule, et leur conscience change de corps !
 - le corps d'Ethnos, possédé par Roric, se relève, saisit deux épées et bondit à travers deux étages pour charger Lyssa en hurlant.
 A ses trousses, Ethnos dans le corps de Lodius lui cours après en lui criant de lui rendre son corps.
-- Ethnos réussit finalement à exorciser Roric de son corps. Lyssa et ses hommes de replient, et le gang du Harpon fait de même
+- Ethnos réussit finalement à exorciser Roric de son corps. Lyssa et ses hommes de replient, et le gang du Harpon fait de même.
 
 ## Session 5 - 1er août 2019
 
@@ -335,7 +338,7 @@ En effet, son activité principal au sein du gang Crows étant le racket et la g
 
 - les autres membres du gang ont également de quoi s'occuper : Melvir garde la baraque et veille sur le corps d'Ethnos;
 Aldo fait courir le bruit auprès de ses anciens frères d'arme chez les Crows
-que **Rorik est revenu d'entre les morts punir la traîtresse Lyssa** et quel le gang du Harpon soutient Bell;
+que **Roric est revenu d'entre les morts punir la traîtresse Lyssa** et quel le gang du Harpon soutient Bell;
 Justinia contacte les fidèles de Grell Jayan ayant survécu pour le leur confier, et a fini par céder et accepter de rencontrer Conway
 pour un rencard à contre-cœur...
 
@@ -467,7 +470,7 @@ Les PJs se replient finalement, en détruisant tout de même le laboratoire de l
 ### Ressources
 J'ai employé [TableTopAudio](https://tabletopaudio.com) pour l'ambiance, en mode "playlist de fond sonore".
 Je ne suis pas bien certain que ce soit la meilleure méthode (certains morceaux ne "collaient" pas bien aux situations de jeu,
-ça manquait parfois qu'une bande son épique...), mais le site comporte de très nombreuses pistes dans l'ambiance
+ça manquait parfois d'une bande son épique...), mais le site comporte de très nombreuses pistes dans l'ambiance
 _Blades in the Dark_ : Abandoned Windmill, Barovian Village, Castle Jail, Catacombs, Cathedral, Crossing the Styx, Cistern,
 Disembodied Spirits, Docks District, Dust to Dust, Graveyard, Medieval Library, Medieval Town, Mill Town, Sewers, Spire:*,
 Steampunk Airship, Sunken Temple, Temple of Helm, Temple of the Eye, Vampire's Castle, Victorian London, Waterkeep...
@@ -902,7 +905,7 @@ et faire disparaître les preuves, à savoir le sabre d'Oru tâché de sang.
 Eric décide de prendre en charge la question du témoin génant, et se rench à Charhollow
 dans les bureaux du _Weekly Raven_ dont Nash à le principal _reporter_ et éditeur en chef.
 Sur place, il tente sans succès d'isoler Nash et finit pour lui donner une poignée de main "électrique" pour le mettre KO.
-Malheureusement, l'empressement de ses camarades à lui porter secours empêche Eric de l'évacuer hors du bâtiment,*
+Malheureusement, l'empressement de ses camarades à lui porter secours empêche Eric de l'évacuer hors du bâtiment,
 et il se rédoud à **lui briser la nuque devant plusieurs témoins** !
 La situation dégénère et une foule en furie s'en prend à Eric, qui réussit _in-extermis_ à accéder à la rue
 et à s'enfuir par une bouche d'égouts où un homme l'attendait, avant que la bande des _The Lost_ ne lui tombe dessus.
@@ -925,7 +928,7 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
     + [Blades in the Dark Ambience | Victorian City](https://www.youtube.com/watch?v=PuRFNzizkXs) par Luke Westaway, avec des timecodes dans la description de la vidéo
     + [Extended Blades in the Dark soundtrack by  Mr. Macduggan](https://www.youtube.com/playlist?list=PLSe0gLu3vnlutsQmMjNH8-xdOFMJtxswO)
     * [Drunken Sailor from Assassin's Creed 4: Black Flag OST](https://www.youtube.com/watch?v=OOu9W9Nmj6U) pour la célébration le soir à l'auberge de la Goule Fendue
-- [one-page rules cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn)
+- [one-page rules cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn) - [alternative Player Reminder Sheet](https://www.reddit.com/r/bladesinthedark/comments/s5svf8/player_reminder_sheet/)
 - [3 Expanded Factions: The Inspectors, The Lord Governor, and The Foundation](https://www.reddit.com/r/bladesinthedark/comments/e73pdx/3_expanded_factions_the_inspectors_the_lord/)
 - l'intéressante description d'un PNJ majeur du jeu : [The Immortal Emperor](https://githyankidiaspora.wordpress.com/2017/07/20/the-immortal-emperor/)
 - plans employés :
@@ -937,24 +940,179 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
 [![](images/bitd/bitd-position-board.jpg)](https://www.reddit.com/r/bladesinthedark/comments/qaiork/tool_i_find_this_simple_board_useful_to_make_pc/)
 
 
+## Session 10 - 28 mai 2022
+
+### Intro
+
+_Cette intro s'est révélée être un flash forward, durant laquelle j'ai distribué aux joueurs au fur et à mesure
+quelques messages indiquant ce que devait dire ou faire leurs personnages, correspondant aux citations ci-dessous._
+
+Elaria, Eric et Lodius sont emprisonnés à IronHook, enchaînés 2 par 2 avec un 4<sup>e</sup> laron, **Mist**,
+qu'ils savent être membre du gang (même si les joueurs ne l'ont jamais encore côtoyé).
+Ils sont réveillés par des tirs de canon. Dans le ciel, il ne reste qu'UN FRAGMENT DE SOLEIL !
+À l'extérieur, ils peuvent appercevoir la falaise, et au loin une terrible bataille navale n'incluant pas que des bateaux...
+
+> (Eric) "L'armée de l'Empereur affronte la flotte de Rosces et ses léviathans..."
+
+Un garde rentre dans la cellule, et il s'avère qu'il s'agit de **Josef** grimmé avec une illusion, venu les délivrer.
+Des tirs de boulets de canon commencent à démolir le bâtiment.
+([bande son](https://www.youtube.com/watch?v=987shv-gJrc))
+
+Dans la prison, une foule frénétique monte les étages dans leur direction.
+Ils sauvent in extremis **Aldo** qui leur ramène leur matériel.
+Josef leur apprend que Justinia les attend avec une barque en bas de la falaise, au niveau d'une entreé d'égoût.
+Mais comment la rejoindre avec cette horde possédée qui remonte vers eux ?!
+
+> (Mist) : "PLUS LE CHOIX, IL FAUT Y ALLER !"
+
+Les PJs sautent à travers les ouvertures créés par les boulets de canon jusqu'à l'eau en contrebas,
+puis rejoignent la barque de Justinia à la nage.
+Malheureusement le corps de Josef flotte dans l'eau, canardé par les gardes.
+([bande son](https://www.youtube.com/watch?v=Zj8G5VxFy1M))
+
+Le gang atteint l'épave du galion par les égouts. Sur place, la mer est remplie de cadavres flottant,
+et ils découvrent Phil, Jenny Holt & ses Silver Nails, ainsi que de nombreux hommes du Harpon pendus aux mâts...
+
+![](images/bitd/HangingMen.jpg)
+
+Soudain, des morts-vivant sortent du galion et se mettent à se diriger vers le gang,
+et les cadavres de la mer se mettent en mouvement...
+([bande son](https://www.youtube.com/watch?v=kOFUXumDEHs))
+
+> (Ethnos) : "Les toits ! Il faut monter sur les toits !"
+
+Puis il se dirige en courant vers la Goule Fendue, en flammes, suivi par le gang.
+
+> (Elaria) : "Ils en ont après TOI Ethnos !"
+
+Les _booby-traps_ autour du galion ralentissent la horde de mort-vivants,
+mais Aldo est néanmoins dévorrés vivant sous leurs yeux.
+
+> (Eric) "Écartez-vous, je vais les retenir !"
+
+Il s'injecte alors un sérum de physicker dans le bras, et se transforme partiellement...
+
+![](images/bitd/KingShark.jpg)
+
+Armé de son marteau qu'il fait tournoyer, il fait un ravage parmis les mort-vivants.
+Malheusement, Justinia meurt dans l'effondrement d'un bâtiment en flammes.
+([bande son](https://www.youtube.com/watch?v=3FrXSJ5AS8I))
+
+![](https://images5.alphacoders.com/660/thumb-1920-660038.jpg)
+
+Le gang traverse l'incendie, alors que le quartier est en feu : [clip issu de Thief 4](https://youtu.be/cHF-jZfe1G0?t=3536).
+
+**Valeris** aparaît alors pour leur porter secours, et les conduit à travers plusieurs courte-portes.
+En passant sur une terrasse dans les hauts quartiers,
+ils voient une énorme brêche dans le Ghost Field, le mur electrostatique qui entoure la ville !
+Alors qu'ils s'apprêtent à rejoindre Bell, Oru & Milos sur une terrasse,
+Des templiers en toge blanche avec l'insigne du Cercle de la Flamme saisissent Ethnos au passage de la dernière porte, l'isolant ainsi.
+Eric réagit en premier, et détruit d'un coup de marteau la porte, empêchant malheureusement le gang de porter assitance à son chef.
+Ils l'aperçoivent sur un toit, au loin dans la ville, se battre contre ses assaillants et invoquer une horde de rats.
+
+> (Ethnos) "Jamais le Harpon ne se rendra !"
+
+_Courte éclipse._
+Valeris a mené le gang jusqu'à une église dans Six Towers, où une procession conduit Lodius enchaîné à l'intérieur...
+Le gang s'introduit par les toits dans la toiture de l'église, où ils observent quelques instants la cérémonie avant d'intervenir...
+Lodius est attaché à un autel pour participer à un rituel du Cercle de la Flamme. Le logbook trône sur un pupitre.
+([bande son](https://www.youtube.com/watch?v=QdIYVXCfrQM))
+
+Lodius reconnait Lord Scurlock parmi les cultistes. Soudain, le démon **Argaz** apparaît !
+Mist, Eric & Elaria arrivent à le vaincre, en lui plongeant sa propre dague dans le dos,
+mais ils ne peuvent empêcher le rituel d'avoir lieu
+et le mur du fond de l'Eglise explose, révêlant se qui ressemble à l'enfer...
+
+> (Elaria) "c'est la fin Mist, active la croix, sauves-toi, empêches ceci de se produire !"
+
+### Session de jeu
+
+Mist est propulsé en arrière dans le temps jusqu'à MAINTENANT,
+et atterit dans le galion au milieu du gang en réunion.
+Il leur explique d'où il vient, et ils finissent par accepter de le croire pour le moment.
+
+Mist explique également qu'ils doivent rapidement éliminer un étudiant de l'académie
+car il deviendra sinon bientôt l'un des principaux et redoutables ennemis du gang,
+responsable de la "fin du monde" dont il a réchappé.
+
+La priorité est néanmoins d'éviter à Oru de finir à IronHook...
+Mist & Josef tentent de localiser le sabre d'Oru au palais de justice,
+ainsi qu'Oru lui même dans la caserne de Charterhall,
+tandis qu'Elaria & Lodius rendent visite à Mylera pour lui expliquer qu'ils n'ont pas pu le libérer par la voie légale,
+et que le Harpon se propose de l'exfiltrer durant son trajet à IronHook le lendemain.
+
+Le gang passe la nuit à peaufiner un plan... Pour finalement improviser sur place le moment venu !
+Ils suivent le convoi transportant Oru au départ de la caserne, constitué d'un Échassier, d'une fourgonette blindée
+et d'une vingtaine d'hommes, mené par **Darmot**.
+
+Juste avant d'arriver au pont, Eric tend un filin qu'il a camouflé là pour faire chuter l'Échassier,
+puis Lodius le fait exploser, tandis que Mist lâche un esprit sur les Bluecoats et qu'Eleria
+s'introduit telle une ombre dans le fourgon qu'elle _car-jacke_ !
+Elle s'enfuit avec dans les ruelles, puis le fait disparaître dans le fleuve après avoir libéré Oru et 3 autres prisonniers,
+dont un ancien collecteur de taxes.
+Pendant ce temps, Eric profite de la panique et d'un nuage de poussière pour foncer sur Darmot... et le décapiter.
+
+Bien que l'opération soit un succès, il s'avère peu après qu'un portrait d'Eric fait la une des journaux suite au meurtre commis la veille à Charhollow,
+faisant de lui l'homme le plus recherché de Doskvol et attisant la tension sur le gang, et par extension tout Crow's Foot,
+où les Bluecoats procèdent à des descentes musclées un peu partout.
+
+Le gang descide alors de régler son compte à ce fameux **Quess Jeduin**...
+Leur tactique initiale est de patienter à la taverne de l'Æncre qui sèche,
+repère habituel d'étudiants de l'Académie de Doskvol.
+Néanmoins, comme il ne se manifeste pas, ils décident de franchir le pont amovible jusqu'à WhiteCrown :
+Mist se fait passer pour un étudiant, tandis qu'Elaria passe à travers le poste de contrôle comme une ombre,
+et que Lodius emploi un grappin pour passer sous le pont.
+
+Une fois dans le dortoir de l'université, ils trouvent la chambre de Quess Jeduin...
+Qui s'avère être Mist plus jeune !
+Mist le maîtrise et demande alors à Elaria de l'éliminer. Celle-ci obtempère après hésitation.
+Les choses se précipitent quand les Spirit Warden interviennent.
+Lodius réussit à en immobiliser un avec son _blow gun_,
+mais le gang est finalement rattrapé par eux et par la milice sur le sentier côtier de l'île.
+Après un affrontement rapide, le gang finit par sauter à l'eau et à s'échapper avec une navette des garde-côtes.
+Mist manque néanmoins d'y laisser la peau en se noyant.
+
+Peu après, une fois au sec, ils apprenent que les Crows ont une dent contre eux,
+ayant été expulsés de la tour de l'horloge par les Bluecoats suite à leur opération "coup de poing" de la journée,
+tandis que le Harpon lui même risque de voir son QG du galion démolit par ordre de l'administration de Doskvol !
+
+### Ressources
+- ambiance musicale :
+    + [Two Steps From Hell - Black Blade (Extended) | Epic Battle Choir Dark Music](https://www.youtube.com/watch?v=987shv-gJrc)
+    + [Dark Magic Music - Salem's Secret](https://www.youtube.com/watch?v=QdIYVXCfrQM)
+    + [TRAITOR | 1 HOUR of Epic Dark Dramatic Fierce Orchestral Strings Music](https://www.youtube.com/watch?v=HtgHRET61I4)
+* clips vidéos :
+    + [(Fake) Blades in the Dark movie trailer](https://www.youtube.com/watch?v=24M3evBhFHw)
+    + [Benvenuta a Doskvol](https://www.youtube.com/watch?v=9rP_mCfULdo)
+    * [Thief (4) - Alternate/Extended Trailer](https://www.youtube.com/watch?v=A3aD67_aZW0)
+    + [Thief // Ex Guru - Hunt](https://www.youtube.com/watch?v=Q1TdWPypGF0)
+
 <!-- Idées :
+
+* demander à Thomas ce qu'il kifferait dans la campagne (car pas très impliqué dans la dernière partie)
+* introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente
+* huis clos ?
+* logbook = game changer, va modifier équilibre des forces de la ville...
+  -> peut permettre la libération des enfants de Setarra et/ou le retour de Kotar (Cercle de la Flamme)
+* introduire un événement à gros impact sur la ville : plus de soleil ? épidémie zombie ?
+  idéalement lié aux actions des PJs / au logbook / à Lord Scurlock / Cercle de la Flamme
+* When the gang attempts a heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
+* dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
+-> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
+* gimmick pour PNJs: renifle tout, les gens, les lieux
+
 * ToPrint: nouvelle illustration Lodius d'Elliot EN COULEUR + poster WANTED Eric
   + https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
 * ToRead/ -> many ideas for scores
 * rédiger une feuille par gang majeur
-* introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente
-* logbook = game changer, va modifier équilibre des forces de la ville...
-  -> peut permettre la libération des enfants de Setarra et/ou le retour de Kotar (Cercle de la Flamme)
-* introduire un événement à gros impact sur la ville (ex: plus de soleil ?)
-  idéalement lié aux actions des PJs / au logbook / à Lord Scurlock / Cercle de la Flamme
-* When the gang attempts a heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
 * prendre inspis de Dirty MJ
-* les PJs remontent le temps au début de la campagne ! [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
--> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
-* gimmick pour PNJs: renifle tout, les gens, les lieux
 * trouver illustrations pour les PNJs ppaux, ex: <img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">
 * make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
+
+* clips vidéos :
+    + [Vision de la Tour de l'Horloge désertée](https://youtu.be/cHF-jZfe1G0?t=685)
+    + [Course poursuite / fuite à travers les toits](https://youtu.be/cHF-jZfe1G0?t=2307)
 
 TO MENTION:
 + [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
@@ -1008,7 +1166,7 @@ Maps:
    -> Cesar Cypher +13
    TU PEUX OUVRIR LES YEUX
    TON CORPS T'APPARTIENT
-   (permet de contrôle des personnages à la fois)
+   (permet de contrôle le PJ + animaux en même temps)
 3. Écrit en ancien Tycherosi, dit "Babylonien" :
    char(76)char(69)char(83)char(72)char(85)char(77)char(65)char(73)char(78)char(83)char(83)char(79)char(78)char(84)char(65)char(84)char(65)char(80)char(79)char(82)char(84)char(69)char(69)
    char(84)char(79)char(85)char(67)char(72)char(69)char(76)char(69)char(85)char(82)char(67)char(79)char(69)char(85)char(82)
