@@ -928,7 +928,10 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
     + [Blades in the Dark Ambience | Victorian City](https://www.youtube.com/watch?v=PuRFNzizkXs) par Luke Westaway, avec des timecodes dans la description de la vidéo
     + [Extended Blades in the Dark soundtrack by  Mr. Macduggan](https://www.youtube.com/playlist?list=PLSe0gLu3vnlutsQmMjNH8-xdOFMJtxswO)
     * [Drunken Sailor from Assassin's Creed 4: Black Flag OST](https://www.youtube.com/watch?v=OOu9W9Nmj6U) pour la célébration le soir à l'auberge de la Goule Fendue
-- [one-page rules cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn) - [alternative Player Reminder Sheet](https://www.reddit.com/r/bladesinthedark/comments/s5svf8/player_reminder_sheet/)
+- rappels des règles :
+    * [one-page rules cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn)
+    * [alternative Player Reminder Sheet](https://www.reddit.com/r/bladesinthedark/comments/s5svf8/player_reminder_sheet/)
+    * [official 2-pages moves summary, for Scoundrels & GM](https://bladesinthedark.com/sites/default/files/sheets/blades_core_playsheets.pdf)
 - [3 Expanded Factions: The Inspectors, The Lord Governor, and The Foundation](https://www.reddit.com/r/bladesinthedark/comments/e73pdx/3_expanded_factions_the_inspectors_the_lord/)
 - l'intéressante description d'un PNJ majeur du jeu : [The Immortal Emperor](https://githyankidiaspora.wordpress.com/2017/07/20/the-immortal-emperor/)
 - plans employés :
@@ -1099,6 +1102,7 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
 * When the gang attempts a heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
 * dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
+ALT: campaign END -> they become COPS !
 * gimmick pour PNJs: renifle tout, les gens, les lieux
 
 * ToPrint: nouvelle illustration Lodius d'Elliot EN COULEUR + poster WANTED Eric
@@ -1118,6 +1122,7 @@ TO MENTION:
 + [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
 + [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
++ (to read) [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
 + [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco,
 1 page PDF
 +[Favorite session zero questions](https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/)
