@@ -15,6 +15,8 @@ and uses [Zhao Liang's gifmaze.py](https://github.com/neozhaoliang/pywonderland/
 
 Feel free to reuse the code to make you own favicons 😉
 
+<!-- Another cool animated GIF favicon: https://i1.wp.com/studinano.com/wp-content/uploads/2018/11/favicon.gif -->
+
 <style>
 article img {
     transform: scale(8);

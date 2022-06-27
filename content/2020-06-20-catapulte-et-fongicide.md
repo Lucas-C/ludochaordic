@@ -1,6 +1,6 @@
 Title: Catapulte et fongicide
 Date: 2020-06-20 9:00
-Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, tipeee, mush-radio, playtest, jeux, ElliotJolivet, @Simon, @Henri, @Laetitia
+Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, tipeee, financement-participatif, mush-radio, playtest, jeux, ElliotJolivet, @Simon, @Henri, @Laetitia
 Slug: catapulte-et-fongicide
 Image: images/2020/06/MushRadio-2020-06-19.png
 ---

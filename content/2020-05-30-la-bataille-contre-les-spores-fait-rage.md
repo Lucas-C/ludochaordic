@@ -1,6 +1,6 @@
 Title: La bataille contre les spores fait rage
 Date: 2020-05-30 9:00
-Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, tipeee, mush-radio, playtest, hanabi, antoine-bauza, playlist, youtube, jeux, @Laetitia, @Nicolas, @Kevin, @ThomasG
+Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, tipeee, financement-participatif, mush-radio, playtest, hanabi, antoine-bauza, playlist, youtube, jeux, @Laetitia, @Nicolas, @Kevin, @ThomasG
 Slug: la-bataille-contre-les-spores-fait-rage
 ---
 

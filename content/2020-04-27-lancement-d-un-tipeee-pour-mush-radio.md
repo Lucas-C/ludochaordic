@@ -1,6 +1,6 @@
 Title: Lancement d'un Tipeee pour Mush Radio
 Date: 2020-04-27 17:00
-Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, coop, tipeee, mush-radio, jeux
+Tags: lang:fr, jeu-de-societe, print-play, 2-players, gratuit, personal-project, creative-commons, gamedesign, coop, tipeee, financement-participatif, mush-radio, jeux
 Slug: lancement-d-un-tipeee-pour-mush-radio
 ---
 

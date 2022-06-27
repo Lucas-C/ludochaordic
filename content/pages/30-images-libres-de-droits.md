@@ -63,6 +63,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Shaman-hut](https://commons.wikimedia.org/wiki/File:Environments-02-shaman-hut.png)
     * [traveler with yack in the snow](https://www.deviantart.com/deevad/art/Krita-texture-speedpainting-test-350472256)
     * he also draws the [Peper & Carrot comic](https://www.peppercarrot.com/fr/artworks/artworks.html), which is entirely under CC-BY license
+    * [Torreya](https://www.davidrevoy.com/article869/torreya)
 - [Fernand0FC](https://www.deviantart.com/fernand0fc/gallery/) CC BY - colourful Moebius-like illustrations, weapons, cyberpunk & sci-fi characters, cars...
 > An amazing “hobbyist” from Argentina
     * [At the saloon](https://www.deviantart.com/fernand0fc/art/At-the-saloon-861886230)
@@ -418,6 +419,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Shinobi Saipat](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581)
     * [Ogre worker](https://www.deviantart.com/hijodelopio/art/Ogre-Worker-894642371)
     * [Tiberius Rourke](https://www.deviantart.com/hijodelopio/art/Tiberius-Rourke-905836595)
+    * [Lion Swordsman](https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
 > Artist, game developper & composer from Paris, France.
     * [dame blanche](https://www.deviantart.com/joke-biloumaster/art/2014-04-22-Crob-1-493705401)
@@ -702,6 +704,20 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Marcelines Henchman BG001](https://www.flickr.com/photos/84568447@N00/4427719044/in/album-72157616038185579/)
     * [Marcelines Henchman BG005](https://www.flickr.com/photos/84568447@N00/4427719072/in/album-72157616038185579/)
     * ["Rainy Day Daydream" Background](https://www.flickr.com/photos/84568447@N00/4945606330/in/album-72157616038185579/)
+- [Ryzom](https://en.wikipedia.org/wiki/Ryzom) artworks: [B&W](https://www.flickr.com/photos/ryzom/albums/72157645463678069) - [color](https://www.flickr.com/photos/ryzom/sets/72157645935788203/) CC BY-SA
+    * [gant à gemmes](https://www.flickr.com/photos/ryzom/14540233157/in/album-72157645463678069/)
+    * [vaisseau](https://www.flickr.com/photos/ryzom/14726376552/in/album-72157645463678069/)
+    * [école de guerre Fyros](https://www.flickr.com/photos/ryzom/14724307684/in/album-72157645463678069/)
+    * [ambassade kalab](https://www.flickr.com/photos/ryzom/14540016640/in/album-72157645463678069/)
+    * [sanctuaire](https://www.flickr.com/photos/ryzom/14539984118/in/album-72157645463678069/)
+    * [rue](https://www.flickr.com/photos/ryzom/14540194677/in/album-72157645935788203/)
+    * [sabreur](https://www.flickr.com/photos/ryzom/14540195137/in/album-72157645935788203/)
+    * [tryker homme](https://www.flickr.com/photos/ryzom/14726336322/in/album-72157645935788203/)
+    * [tryker femme](https://www.flickr.com/photos/ryzom/14746505003/in/album-72157645935788203/)
+    * [homme](https://www.flickr.com/photos/ryzom/14726634975/in/album-72157645935788203/)
+    * [une tour](https://www.flickr.com/photos/ryzom/14703654796/in/album-72157645935788203/)
+    * [?](https://www.flickr.com/photos/ryzom/14703651576/in/album-72157645935788203/)
+    * [gnu](https://www.flickr.com/photos/ryzom/14539989010/in/album-72157645935788203/)
 - [ZzSprite 16x16 sprite generator](https://killedbyapixel.github.io/ZzSprite/)
 
 ## Photos
