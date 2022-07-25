@@ -12,6 +12,9 @@ De même, toutes mes créations, dont majoritairement des jeux de rôle, sont ac
 
 Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
 
+Si je vous cherchez un jeu pour votre 1ère partie de JdR,
+je vous recommande la lecture de cet article : [Quelques suggestions pour débuter en jeu de rôle, gratuites et en français](quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais.html).
+
 Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr-favoris.html).
 
 <div class="uk-grid">

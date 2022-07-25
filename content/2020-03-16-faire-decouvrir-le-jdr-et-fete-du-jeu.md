@@ -1,6 +1,6 @@
 Title: Faire découvrir le JdR et Fête du jeu
 Date: 2020-03-16 14:30
-Tags: lang:fr, jdr, maine-et-loire, gratuit, auberge-des-reveurs, ffjdr, le-grumph, kalwrynn, libre-office, creative-commons, jdr4kids, jeux
+Tags: lang:fr, jdr, maine-et-loire, gratuit, auberge-des-reveurs, ori-mushi, ffjdr, le-grumph, kalwrynn, libre-office, creative-commons, jdr4kids, jeux
 ---
 Il y a une semaine, j'ai eu la chance d'être invité le samedi à [la Fête du jeu](https://www.les-garennes-sur-loire.fr/%C3%A9v%C3%A8nement/fete-du-jeu/?instance_id=456)
 à Saint Jean-des-Mauvrets, pour y faire découvrir le **jeu de rôle** aux joueurs curieux.
@@ -51,7 +51,8 @@ Voici le résultat, conçu exclusivement avec des illustrations _Creative Common
 ## Ori Mushi
 
 - [version web](https://lucas-c.github.io/jdr/OriMushi/)
-- [PDF (11,3Mo) incluant une feuille de personnage & les illustrations](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.1/ori-mushi-v0.1.pdf)
+- feuille de personnage : [OriMushi-FeuillePersonnage.pdf](https://lucas-c.github.io/jdr/OriMushi/OriMushi-FeuillePersonnage.pdf)
+- version PDF des règles, incluant quelques illustrations: [ori-mushi-v0.2.zip _(10 pages, 5,5 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.zip)
 
 [![Photo de la table de jeu à la Fête du jeu, côté MJ](images/2020/03/FeteDuJeu_OriMushi_vueMJ.jpg)](images/2020/03/FeteDuJeu_OriMushi_vueMJ.jpg)
 

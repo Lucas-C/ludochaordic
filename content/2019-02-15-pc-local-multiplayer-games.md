@@ -243,6 +243,10 @@ découvert l'année dernière : un excellent jeu de plateforme jusqu'à 4 joueur
 semi-coopératif avec même de sympatiques bosses de fin de niveau !
 La direction artistique est originale, minimaliste mais réussie, et le gameplay très réactif et simple à prendre en main.
 
+**EDIT [2022/07/04]** : mon Shaarli contient également de nombreuses suggestions de jeux multijoueurs "en local", dont beaucoup sont gratuits : [#LocalMultiplayer](https://chezsoi.org/shaarli/?searchtags=LocalMultiplayer)
+
+<!-- TODO: mention Lethal League & Frog Smashers -->
+
 <style>
 article img { width: 28rem; }
 .sbm2 { padding: 1rem 0; }

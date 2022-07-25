@@ -1,6 +1,6 @@
 Title: P'tites sorcières
 Date: 2022-03-07 20:00
-Tags: lang:fr, jdr, jdr4kids, gratuit, aide-de-jeu, opinion, sorcieres, creative-commons, illustration, antoine-bauza, david-revoy, @Aurelien, @Elliot, @Pyrene, jeux
+Tags: lang:fr, jdr, jdr4kids, gratuit, aide-de-jeu, opinion, sorcieres, creative-commons, illustration, ori-mushi, antoine-bauza, david-revoy, @Aurelien, @Elliot, @Pyrene, jeux
 Slug: ptites-sorcieres
 ---
 
@@ -24,7 +24,7 @@ Une version commerciale, plus étoffée, est ensuite parue, **Contes ensorcelés
 [volume 1](http://toinito.free.fr/fr/jdr/ce.php) - [volume 2](http://toinito.free.fr/fr/jdr/ce2.php).
 
 J'avais entendu parler de ce jeu de rôle depuis des années, et j'ai eu l'occasion d'organiser une partie de P'tites Sorcières
-le week-end dernier, pour faire découvrir le jeu de rôle à une joueuse.
+le week-end dernier, pour faire découvrir le jeu de rôle à une amie.
 
 Je ne vais pas m'attarder cette fois sur un compte-rendu de partie détaillé.
 Et mon opinion sera très bref : **c'est un excellent jeu** !
@@ -41,7 +41,7 @@ C'était en particulier très amusant d'avoir deux « rôlistes aguéris » qui 
 pour se départir de leur ultra-vigilance et de leurs mauvais habitudes (comme fouiller partout ou faire pression sur des PNJs...)
 dans cet univers très mignon et bienveillant 🤣
 
-Je ne sais pas si j'y rejouerais dans l'immédiat,
+Je ne sais pas si j'y rejouerai dans l'avenir,
 mais je veux en profiter pour partager quelques ressources utiles pour ce jeu formidable :
 
 ## Scénarios
@@ -73,6 +73,7 @@ et des livres & films Harry Potter, voici quelques autres sources d'inspiration 
 * la série animée [Mushishi](https://fr.wikipedia.org/wiki/Mushishi)
 * les court-métrages et la série anime _Little Witch Academia_
 * le manga _L'Atelier des Sorciers_, recommandé par deux des joueurs
+* le travail de l'illustrateur allemand [Varguy](https://www.deviantart.com/varguy)
 
 ## Illustrations
 Voici tout d'abord une sélection d'illustrations sous _Creative Commons_ (réutilisables pour vos créations) :
@@ -171,6 +172,72 @@ ou inspirée par eux, devrait fonctionner à merveille.
 
 La bande son du jeu _Stardew Valley_ est également tout à fait adaptée.
 
+---
+
+**EDIT [24 juillet 2022]** :
+
+## Système alternatif
+A l'occasion d'une seconde partie, destinée à des joueuses découvrant les jeux de rôle,
+j'ai souhaité rendre les règles du système de jeu encore plus simples.
+
+Avec l'objectif de pouvoir toujours employer la feuille de personnage officielle du jeu,
+voici les changements que j'ai apporté, inspirés du système minimaliste d'[Ori Mushi](https://lucas-c.github.io/jdr/OriMushi/) :
+
+* **à la création des p'tites sorcières** :
+    + les joueuses répartissent les scores suivants dans leurs 5 attributs : **1, 1, 2, 2, 3**
+    + chaque personnage débute avec 5 compétences générales, qui ne sont plus associées à un quelconque score
+    + chaque personnage débute toujours avec les mêmes compétences de sorcellerie, sans score non plus
+* **les jets de dés** :
+    + les joueuses lancent **autant de d6 que leur valeur d'Attribut** correspondant à l'action;
+      elles ajoutent également **1d6 par compétence applicable**.
+      Selon le meilleur résultat obtenu aux dés :
+        - ⚅ : c'est réussi !
+        - ⚄ : c'est réussi **mais**...
+        - ⚃ : c'est raté **mais**...
+        - ⚂ / ⚁ / ⚀ : c'est raté
+    + si deux ⚀ sont obtenus : c'est un **échec critique** ; si deux ⚅ sont obtenus : c'est une **réussite parfaite / épique** !
+    + sur un ⚄ ou ⚃, le MJ peut également proposer un **dilemme** :
+      la joueuse se voit proposer un choix cornélien entre deux options exclusives.
+      Son personnage peut par exemple obtenir quelque chose au prix d'un sacrifice,
+      ou bien se rabattre sur une réussite partielle.
+    + les actions conjointes sont encouragées : une p'tite sorcière assistant une autre
+      à réaliser une action lui octroie un dé bonus
+    + actions en opposition (inclus les bagarres) : un jet est effectué par personnage, celui obtenant le plus de ⚅ l'emporte. En cas d'égalité, on considère les ⚄. Si l'égalité persiste, aucun personnage n'a l'avantage.
+    + initiative : chacune lance 1d6 par point d'Adaptabilité / Débrouille, puis les personnages agissent par ordre décroissant de résultat total (en tant que MJ je ne m’embarrasse néanmoins pas à gérer cela en général)
+* **progression / expérience** :
+    + 3pp par nouvelle compétence générale
+    + 6pp par nouvelle compétence de sorcellerie
+    + 10pp pour augmenter un attribut
+* ayant un groupe de 6 joueuses, leur faire jouer 6 familiers m'a semblé trop complexe à gérer,
+  et j'ai donc opté pour un scénario où les joueuses pourraient jouer leur sorcière **et** leur familier,
+  à tour de rôle dans des séquences de jeu dédiées, ceux-ci étant transportés dans un autre lieu très tôt dans l'histoire.
+
+L'inconvénient principal de ce système est que toutes les actions se valent en difficulté :
+le MJ ne spécifie plus aucun seuil. Je trouve que le jeu en vaut néanmoins la chandelle au vu de la simplification des règles réalisée. Pour des actions particulièrement audacieuses, le MJ peut toujours indiquer qu'il faudra obtenir au moins deux ⚄/⚅.
+
+J'ai testé ce système alternatif avec 5 joueurs adolescents durant ~4h de jeu, et c'était très concluant !
+
+<figure class="lazyload" data-noscript="">
+  <noscript><img alt="Tutelary Turtle Island by Cze and Peku" src="images/2022/03/TutelaryTurtleIsland.jpg"></noscript>
+  <figcaption>
+    <a href="https://www.reddit.com/r/battlemaps/comments/vkmnpd/heres_our_latest_czepeku_battlemap_the_tutelary/">Tutelary Turtle Island by Cze and Peku</a>
+  </figcaption>
+</figure>
+
+<figure class="lazyload" data-noscript="">
+  <noscript><img alt="The Crimson Scroll Library by Marve Bärg" src="images/2022/03/The Crimson Scroll Library by Marve Bärg.jpg"></noscript>
+  <figcaption>
+    <a href="https://www.reddit.com/r/ImaginaryLibraries/comments/jm414c/the_crimson_scroll_library_by_marve_b%C3%A4rg/">The Crimson Scroll Library by Marve Bärg</a>
+  </figcaption>
+</figure>
+
+<figure class="lazyload" data-noscript="">
+  <noscript><img alt="Wizard Tower Interior by David Abouaf" src="images/2022/03/Wizard Tower Interior by David Abouaf.webp"></noscript>
+  <figcaption>
+    <a href="https://www.reddit.com/r/ImaginaryLibraries/comments/giei25/wizard_tower_interior_by_david_abouaf/?utm_source=ifttt">Wizard Tower Interior by David Abouaf
+</a>
+  </figcaption>
+</figure>
 
 <style>
 article img { max-height: 80vh; }

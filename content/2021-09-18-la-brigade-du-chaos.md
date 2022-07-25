@@ -47,7 +47,7 @@ J'ai également déjà [traduit plusieurs courts jeux de rôle de M. Grant Howit
 Merci à son éditeur anglais [Rowan, Rook and Decard](https://rowanrookanddecard.com) de m'avoir donné l'autorisation de diffuser cette traduction.
 
 Parmi ses inspirations pour ce jeu, Grant Howitt mentionne _Warhammer 40K - Dark Heresy_,
-_Marvel Superheroic Roleplaying_ et l'excellent _Lady Blackbird_ de John Harper.
+_Marvel Superheroic Roleplaying_ et l'excellent [Lady Blackbird](lady-blackbird.html) de John Harper.
 
 <img class="comic-strip" alt="BD" src="images/2021/09/havoc-brigade-comic-strip.png">
 

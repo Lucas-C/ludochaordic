@@ -3,6 +3,9 @@ Date: 2020-07-02 12:00
 Tags: lang:fr, compte-rendu, monopage, gratuit, playtest, opinion, one-shot, jdr, 2-players, coop, pbta, gamedesign, equilibrage, metal-gear, zero-prep, @Matt, jeux
 Slug: operation-dur-a-cuire
 ---
+<!--
+https://www.deviantart.com/ignusdei/art/Commando-WIP-411855213
+-->
 
 ![Couverture du jeu](images/2020/07/OperationHardCase.jpg)
 

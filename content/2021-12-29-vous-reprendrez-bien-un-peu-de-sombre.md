@@ -83,7 +83,7 @@ Pour la postérité, voici les paires de lieu / monstre que j'ai tiré :
 
 Le « plat principal » de milieu de session !
 Un scénario d'Axel Tentacle, de la chaîne Youtube [Jeudi JdR](https://www.youtube.com/channel/UCPS_7ef_xjABXpXWWn9NUAA), [partagé sur le forum TerresEtranges.net](https://www.terresetranges.net/forums/viewtopic.php?pid=19630#p19630), inspiré de REC & _Blair Witch_.
-J'ai d'ailleurs employé [la bande son du jeu vidéo de 2019](https://www.youtube.com/watch?v=0sVnce8iSSk)
+J'ai d'ailleurs employé [la bande son du jeu vidéo de 2019](https://www.youtube.com/watch?v=Hcpl5zz6gtc)
 comme ambiance sonore, et c'était parfait !
 
 > 1973, vous incarnez de jeunes adolescents, nouveaux arrivants dans une petite ville américaine.

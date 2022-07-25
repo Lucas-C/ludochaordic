@@ -63,10 +63,12 @@ des CIBLES aléatoires à chaque partie :
 <style>
 article img { max-height: 20rem; }
 figcaption { font-size: large; line-height: 2rem; padding: 1rem; }
-.side-by-side {
+@media (min-width:768px) {
+  .side-by-side {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+  .side-by-side > * { margin: 0 2rem; }
 }
-.side-by-side > * { margin: 0 2rem; }
 </style>

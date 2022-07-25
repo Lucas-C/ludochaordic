@@ -420,6 +420,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Ogre worker](https://www.deviantart.com/hijodelopio/art/Ogre-Worker-894642371)
     * [Tiberius Rourke](https://www.deviantart.com/hijodelopio/art/Tiberius-Rourke-905836595)
     * [Lion Swordsman](https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803)
+    * [Pirate](https://www.deviantart.com/hijodelopio/art/Pirate-921122086)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
 > Artist, game developper & composer from Paris, France.
     * [dame blanche](https://www.deviantart.com/joke-biloumaster/art/2014-04-22-Crob-1-493705401)
@@ -534,6 +535,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Kale - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Kale-DD-Concept-866064695)
     * [Klaus - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Klaus-DD-Concept-859428803)
     * [Siobhan - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Siobhan-DD-Concept-861655408)
+    * [Obi-Wan Kenobi](https://www.deviantart.com/rodrigokatrakas/art/Obi-Wan-Kenobi-920381457)
 - [sphelon8565](https://www.deviantart.com/sphelon8565/gallery) - CC BY-SA - manga characters
 > Artist who draws a variety of animation, concepts and illustrations - [Buy him a ko-fi](https://ko-fi.com/amazingsphelon)
     * [The Squirrel Knight](https://www.deviantart.com/sphelon8565/art/OC-The-Squirrel-Knight-004-Pose-3-910655541)
@@ -908,7 +910,7 @@ Generators that produces character illustrations that have not been placed under
 
 # Online image tools
 - [remove.bg | Supprime l'arrière-plan d'une image](https://www.remove.bg/fr)
-- [cleanup.pictures | Supprime n'importe quel objet, personne, texte ou défaut de vos images](https://cleanup.pictures/)
+- [cleanup.pictures | Supprime n'importe quel objet, personne, texte ou défaut de vos images](https://cleanup.pictures/) & [cleanupphotos.com | Remove unwanted objects from photos](https://cleanupphotos.com/)
 - [lunapic artistic styles](https://www2.lunapic.com/editor/?action=art)
 - [funny.pho.to charcoal filter](https://funny.pho.to/fr/charcoal/)
 

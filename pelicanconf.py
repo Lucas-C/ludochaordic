@@ -40,6 +40,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2022-07-20', 'img_url': 'images/readings/LaCantineDeMinuit.jpg', 'description': "La Cantine De Minuit - Yarô Abe (manga)"},
     {'date': u'2022-06-05', 'img_url': 'images/readings/ShadowLife.jpg', 'description': "Shadow life - Ann Xu & Hiromi Goto (manga)"},
     {'date': u'2022-05-14', 'img_url': 'images/readings/LaHordeDuContrevent.jpg', 'description': "La horde du Contrevent - Alain Damasio (roman)"},
     {'date': u'2022-03-21', 'img_url': 'images/readings/on-ne-nait-pas-grosse.jpg', 'description': "On ne naît pas grosse - Gabrielle Deydier (essai)"},
@@ -143,6 +144,8 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ("Du Monde Dans l'Objectif", 'https://www.dumondedanslobjectif.com'),
          ("Galerie d'Elliot Jolivet aka Tenseï", 'https://illutensei.com'),
          ("Galerie d'Elodie Olivier", 'https://elodie-olivier.com'),)
+         # ('Steam Hidden Gems', 'https://www.canardpc.com/cat%C3%A9gorie/jeu-video/cabinet-de-curiosites/'),
+         # ('Le Cabinet de Curiosités de CanardPC', 'https://steam250.com/hidden_gems'),
          # ('Fenêtre sur cour', 'https://www.arteradio.com/emission/fenetre_sur_cour'),
          # ('John Carmack', 'https://twitter.com/id_aa_carmack/'),
          # ('Jane McGonigal', 'https://twitter.com/avantgame'),
@@ -170,6 +173,7 @@ SUPPORTS = (('La Revue Dessinée', 'https://www.larevuedessinee.fr/', 'images/La
             ('Blast', 'https://www.blast-info.fr/', 'images/blast.jpg', 'Soutenez Blast'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/button_80x15_framasoft.png', 'Soutenez Framasoft'),
             ('April', 'https://www.april.org/adherer', 'images/cartouche_april-jadhere.png', 'Promouvoir et soutenir le logiciel libre'),
+            ('andro switch', 'https://www.contraceptionmasculine.fr/andro-switch/', 'images/logo-andro-switch.png', 'La contraception masculine, renseignez-vous'),
             ('attac', 'https://france.attac.org/', 'images/attac.png', 'Soutenez attac'),
             ('Microformats', 'http://microformats.org/', 'images/microformats.png', 'Ce site adhère au standard microformats'),
             ('Webmention', 'https://indieweb.org/Webmention', 'images/webmention-button.svg', 'Ce site adhère au standard Webmention'),

@@ -31,6 +31,8 @@ Le manuel fait 84 pages et [la Scénariothèque](http://www.scenariotheque.org/D
 
 > L'objectif de votre personnage est de décrocher le diplôme de sorcellerie qui fera de lui une praticienne reconnue. N'attendez plus pour partir à la découverte du Pièce-monde, un univers insolite et merveilleux.
 
+**EDIT [2022/03/07]** : j'ai dédié un article à ce jeu, après l'avoir testé : [P'tites sorcières](ptites-sorcieres.html)
+
 ## Les jeux du Grümph
 Ce célèbre auteur de JdRs a plusieurs jeux parfaits pour débuter :
 

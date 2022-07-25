@@ -210,7 +210,7 @@ Le jeu brille par son concept : il est très alléchant de se plonger dans cette
 Un format de partie _one-shot_, une ambiance qui vous happe, une playlist, de magnifiques illustrations, un choix de route à prendre sur une carte…
 Beaucoup d’arguments pour me plaire !
 
-Pour moi, il ne lui manque que quelques retouches - peut-être étoffer le scénario et revoir un peu le système - pour pouvoir devenir un « classique » du one-shot tel _Lady Blackbird_.
+Pour moi, il ne lui manque que quelques retouches - peut-être étoffer le scénario et revoir un peu le système - pour pouvoir devenir un « classique » du one-shot tel [Lady Blackbird](lady-blackbird.html).
 
 <a href="https://ptgptb.fr/3FF6/etape3/BIROPE-3.pdf">
   <figure>

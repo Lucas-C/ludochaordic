@@ -185,10 +185,8 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
       </dl>
       <ul>
         <li><a href="http://www.onesevendesign.com/ladyblackbird/">Site officiel, en anglais</a></li>
-        <li><a href="http://www.ecuries-augias.fr/index.php/fr/nos-jeux/lady-blackbird">Site de la VF des Ecuries d'Augias, avec chapitres bonus et conseils</a></li>
-        <li><a href="https://ladyblackbird.org">Site de la trilogie de jeux au même format de John Harper</a> - Traduction par Yragaël Malbos & Khelren : <a href="http://www.mediafire.com/file/d3kbq66x606lakn/LBB+chapitre+2+-+version+finale.pdf">Magister Lor (PDF 3,6Mo)</a> &amp; <a href="http://www.mediafire.com/file/5m7skad15a33dkv/LBB+chapitre+3+-+version+finale.pdf">Lord Scurlock (PDF 3,4Mo)</a></li>
-        <li><a href="https://app.box.com/s/yj9y4ascil">Tales From the Wild Blue Yonder: The Lady Blackbird Companion (PDF en anglais 7,5 Mo)</a> - (<a href="https://archive.org/details/blackbirdcompanion/page/n1/mode/2up">alt link</a>)</li>
-        <li><a href="https://www.pinterest.fr/drmaxkurt/lady-blackbird-characters/">Illustrations collectées sur Pinterest</a></li>
+        <li><a href="https://www.sycko.fr/ecuries-augias">Site où la VF des Ecuries d'Augias est disponible, depuis la fermeture du site web originel des Ecuries d'Augias</a></li>
+        <li><a href="https://chezsoi.org/lucas/lady-blackbird.html">Article de blog dédié au jeu</a></li>
       </ul>
       <blockquote>
       Lady Blackbird fuit un mariage arrangé.
