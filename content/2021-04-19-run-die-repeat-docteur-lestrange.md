@@ -3,6 +3,10 @@ Date: 2021-04-19 12:30
 Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, zero-prep, comics, marvel, auberge-des-reveurs, jeux
 Slug: run-die-repeat-docteur-lestrange
 ---
+<!-- Com'
+* [x] http://troplongpaslu.fr/jeux-de-role-court/docteur-lestrange-un-scenario-pour-run-die-repeat/
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10295
+-->
 
 Voici un nouveau scénario pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat),
 le jeu de rôle monopage de **Labrys Games** où l'on décède à la chaîne :

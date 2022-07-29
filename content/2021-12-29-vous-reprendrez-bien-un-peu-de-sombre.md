@@ -118,6 +118,9 @@ Il fait définitivement partie de mon top 2 pour Sombre Zéro, avec _Deep Space 
 **EDIT [2 janvier 2021]** : j'en profite pour mentionner la sortie d'un copieux (143 pages) recueil de scénarios
 par Julien _DeathAmbre_ De Monte @[DarkFarm](http://arkhive.free.fr) : [Terminatrice.pdf](http://arkhive.free.fr/Terminatrice.pdf). Génial !
 
+**EDIT [26 juillet 2022]** : pour les curieux, la vidéo de la partie originale de _La Maison de la Sorcière_,
+avec l'auteur du scénario, est en ligne ici : <https://www.youtube.com/watch?v=kYQ0bsrPGmk>
+
 <style>
 img.small { width: 30rem; }
 article iframe { display: block; margin: 1rem auto; }

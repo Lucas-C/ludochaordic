@@ -5,6 +5,11 @@ Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-ha
 <!-- Com'
 -->
 
+<figure>
+  <img alt="Lady Blackbird" src="images/2022/07/LadyBlackbird-by-Midjourney.png">
+  <figcaption>Lady Blackbird - illustration générée par <a href="https://www.midjourney.com">Midjourney</a></figcaption>
+</figure>
+
 Mon premier brouillon d'article sur ce jeu date d'il y a plus de 3 ans,
 et il figure en bonne place dans [mes jeux de de rôle favoris](pages/jdr-favoris.html).
 Après l'avoir fait jouer de très nombreuses fois, je veux évoquer aujourd'hui le génial [Lady Blackbird (site officiel)](http://www.onesevendesign.com/ladyblackbird/) de [John Harper](tag/john-harper.html),
