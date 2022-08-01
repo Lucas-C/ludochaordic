@@ -1,8 +1,12 @@
 Title: Lady Blackbird
 Date: 2022-07-25 20:00
-Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-harper, lady-blackbird, jeux, hack, @Laetitia, @Simon, @Cedric, jeux
+Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-harper, damien-rahyll-c, lady-blackbird, jeux, hack, @Laetitia, @Simon, @Cedric, jeux
 ---
 <!-- Com'
+* [x] https://forums.ffjdr.org/t/lady-blackbird-un-excellent-jdr-gratuit-ideal-pour-des-debutants/1256
+* [x] https://www.casusno.fr/viewtopic.php?p=2103889
+* [x] https://opale-roliste.com/forum/ressources/debuter-jeu-role/lady-blackbird-excellent-jdr-gratuit-ideal-debutants
+* [x] Discords: Ludochaordic, CestPadDuJdr, PTGPTB, L'AubergeDesReveurs
 -->
 
 <figure>
@@ -52,7 +56,9 @@ Et il existe encore d'autres extensions, officielles ou créées par des fans :
 
 * John Harper a conçu [deux autres jeux au même format, disponible en VO sur ladyblackbird.org](https://ladyblackbird.org). Ils ont été traduits par Yragaël Malbos & Khelren [Magister Lor (PDF 3,6Mo)](http://www.mediafire.com/file/d3kbq66x606lakn/LBB+chapitre+2+-+version+finale.pdf) & [Lord Scurlock (PDF 3,4Mo)](http://www.mediafire.com/file/5m7skad15a33dkv/LBB+chapitre+3+-+version+finale.pdf)
 
-* un rôlite français, _Qui Revient de loin_, a conçu un _chapitre 0_ : [Par-delà les Vestiges](http://qui.revient.de.loin.blog.free.fr/index.php?post/2015/Lady-Blackbird%2C-chapitre-0%3A-Par-del%C3%A0-les-Vestiges)
+* un rôliste français, _Qui Revient de loin_, a conçu un _chapitre 0_ : [Par-delà les Vestiges](http://qui.revient.de.loin.blog.free.fr/index.php?post/2015/Lady-Blackbird%2C-chapitre-0%3A-Par-del%C3%A0-les-Vestiges)
+
+* [Damien «Rahyll» C.](tag/damien-rahyll-c.html) a conçu un chapitre 4 : **La Marque Noire** - [lien Google Drive du PDF](https://drive.google.com/file/d/0B35XI6tSb9fjSDdISW11WTIwWXZKUGNmNFU4Q2UxLTJSbm5n/view?resourcekey=0-0JDTCTtAVrpX-ml-ZoFQ9Q)
 
 * il existe enfin une aide de jeu de 27 pages décrivant plus en détails le monde de _L'Indomptable Bleue_, [Tales From the Wild Blue Yonder: The Lady Blackbird Companion (PDF 7,5 Mo)](https://app.box.com/s/yj9y4ascil), non traduit à ma connaisance (<a href="https://archive.org/details/blackbirdcompanion/page/n1/mode/2up">lien alternatif de téléchargement</a>)
 

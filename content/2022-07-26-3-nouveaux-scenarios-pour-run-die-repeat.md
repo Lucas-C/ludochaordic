@@ -3,8 +3,9 @@ Date: 2022-07-26 9:00
 Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, zero-prep, cyberconv, jeux
 ---
 <!-- Com'
-* [ ] http://troplongpaslu.fr
-* [ ] https://www.scenariotheque.org
+* [x] https://www.scenariotheque.org
+* [x] https://www.casusno.fr/viewtopic.php?p=2103886
+* [x] Discord TLPL
 -->
 
 Voici 3 nouveaux scénarios pour [_Run. Die. Repeat._](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf),
