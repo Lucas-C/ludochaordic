@@ -58,7 +58,7 @@ Et il existe encore d'autres extensions, officielles ou créées par des fans :
 
 * un rôliste français, _Qui Revient de loin_, a conçu un _chapitre 0_ : [Par-delà les Vestiges](http://qui.revient.de.loin.blog.free.fr/index.php?post/2015/Lady-Blackbird%2C-chapitre-0%3A-Par-del%C3%A0-les-Vestiges)
 
-* [Damien «Rahyll» C.](tag/damien-rahyll-c.html) a conçu un chapitre 4 : **La Marque Noire** - [lien Google Drive du PDF](https://drive.google.com/file/d/0B35XI6tSb9fjSDdISW11WTIwWXZKUGNmNFU4Q2UxLTJSbm5n/view?resourcekey=0-0JDTCTtAVrpX-ml-ZoFQ9Q)
+* [Damien « Rahyll » C.](tag/damien-rahyll-c.html) a conçu un chapitre 4 : **La Marque Noire** - [lien Google Drive du PDF](https://drive.google.com/file/d/0B35XI6tSb9fjSDdISW11WTIwWXZKUGNmNFU4Q2UxLTJSbm5n/view?resourcekey=0-0JDTCTtAVrpX-ml-ZoFQ9Q)
 
 * il existe enfin une aide de jeu de 27 pages décrivant plus en détails le monde de _L'Indomptable Bleue_, [Tales From the Wild Blue Yonder: The Lady Blackbird Companion (PDF 7,5 Mo)](https://app.box.com/s/yj9y4ascil), non traduit à ma connaisance (<a href="https://archive.org/details/blackbirdcompanion/page/n1/mode/2up">lien alternatif de téléchargement</a>)
 

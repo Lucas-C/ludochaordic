@@ -163,6 +163,8 @@ Je viens également d'écrire un court scénario pour _Run Die Repeat_ pour joue
 
 [![Couverture de Donjons & Chenapans](images/2018/11/DonjonsEtChenapans.webp)](https://gusandco.net/2020/03/18/donjons-chenapans-jeu-enfants/)
 
+**EDIT [2022/08/02]**: un intéressant article de blog de Cyol sur le sujet : [« Faire du Jeu de rôle avec les enfants »](http://cyol.fr/blog/post/faire-du-jeu-de-role-avec-les-enfants-sur-proxi-jeux/)
+
 **Retrouvez tous les articles de ce blog mentionnant des JdR adaptés avec des enfants avec le tag** [jdr4kids](/lucas/blog/tag/jdr4kids.html).
 
 <style>
