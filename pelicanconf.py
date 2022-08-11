@@ -31,7 +31,7 @@ Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.
 <br>
 <small><em>(you can selectively display English articles by clicking <a href="?lang=en">the LANG button above</a>)</em></small>
 <br>
-<small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les !</em>😉<em>)</em></small>
+<small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les ! </em>😉<em>)</em></small>
 '''
 
 EXTRA_PAGE_LINKS = (

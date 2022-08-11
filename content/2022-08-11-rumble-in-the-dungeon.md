@@ -1,15 +1,10 @@
 Title: Rumble in the Dungeon
-Date: 2022-08-09 12:00
+Date: 2022-08-11 12:00
 Tags: lang:fr, lang:en, jeu-de-societe, board-game, fantasy, boardgamegeek, variante, gratuit, jeux
-Status: draft
 ---
-<!-- Com'
-* [ ] https://boardgamegeek.com/boardgame/130827/rumble-dungeon/forums/69
-* [ ] https://www.trictrac.net/jeu-de-societe/rumble-in-the-dungeon
--->
 ![Logo du jeu](images/2022/08/rumble-in-the-dungeon-fan-cover.jpg)
 
-_<center>(English speakers : go to [BoardGameGeek](https://boardgamegeek.com/thread/TODO) to find the variant in English)</center>_
+_<center>(English speakers : go to [BoardGameGeek](https://boardgamegeek.com/thread/2915424/special-rooms-characters-abilities-exchange-charac) to find the variant in English)</center>_
 
 _**Rumble in the Dungeon**_ est ma dernière belle découverte ludique !
 
@@ -61,3 +56,8 @@ article img { max-height: 20rem; }
   .side-by-side > * { margin: 0 2rem; }
 }
 </style>
+
+<!-- Com'
+* [x] https://boardgamegeek.com/thread/2915424/special-rooms-characters-abilities-exchange-charac
+* [ ] https://www.trictrac.net/jeu-de-societe/rumble-in-the-dungeon
+-->
