@@ -180,6 +180,23 @@ SUPPORTS = (('La Revue Dessinée', 'https://www.larevuedessinee.fr/', 'images/La
             ('Webmention', 'https://indieweb.org/Webmention', 'images/webmention-button.svg', 'Ce site adhère au standard Webmention'),
             ('Low-tech', 'https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html', 'images/low-tech.svg', 'Ce site adhère à la philosophie low-tech'))
 
+MG_JOKES = (
+    ("C'est l'histoire du ptit dej, tu la connais ?", "Pas de bol."),
+    ("Pourquoi les canards sont toujours à l'heure ?", "Parce qu’ils sont dans l’étang."),
+    ("Que fait une fraise sur un cheval ?", "Tagada Tagada."),
+    ("Quel est le crustacé le plus léger de la mer ?", "La palourde"),
+    ("Qu'est-ce qui fait toin toin ?", "Un tanard."),
+    ("Pourquoi est-ce que Napoléon n'a pas voulu acheter de maison ?", "Parce qu’il avait déjà un Bonaparte"),
+    ("Comment appelle-t-on un préservatif pour statue britannique ?", "Une capote en glaise."),
+    ("Pourquoi n'y a-t-il plus de mammouths sur terre ?", "Parce qu’il n’y a plus de pappouths."),
+    ("Pourquoi est-ce qu'on met tous les crocos en prison ?", "Parce que les crocos dealent."),
+    ("Quel fruit est assez fort pour couper des arbres?", "Le ci-tron"),
+    ("Que dit une noisette quand elle tombe à l'eau ?", "Je me noix"),
+    ("Quel est le jambon que tout le monde déteste ?", "Le sale ami"),
+    ("Que fait un cendrier devant un ascenseur ?", "Il veut des cendres"),
+    ("Que dit une imprimante dans l'eau ?", "J’ai papier"),
+)
+
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
 
@@ -244,7 +261,7 @@ TAG_CLOUD_BADGE = True
 
 MG_NO_EXCERPT = True
 MG_DISABLE_SUMMARY = True
-MG_FILTER_TAGS = ['jeux', 'maths', 'prog']
+MG_FILTER_TAGS = ('jeux', 'maths', 'prog')
 MG_LANG_FILTER_TAGS = ['fr', 'en']  # 'lang:'-prefixed tags
 
 CATEGORY_SAVE_AS = ''
