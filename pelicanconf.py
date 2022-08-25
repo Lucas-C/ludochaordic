@@ -200,6 +200,7 @@ MG_JOKES = (
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
 
+SITEMAP_URL = './sitemap.xml'
 PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
 WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
 
@@ -229,7 +230,7 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'deadlinks', 'image_preview_thumbnailer', 'representative_image', 'tag_cloud') #, 'w3c_validate')
+PLUGINS = ('ctags_generator', 'deadlinks', 'image_preview_thumbnailer', 'pelican.plugins.sitemap', 'representative_image', 'tag_cloud') #, 'w3c_validate')
 
 # Configuring image lazyloading for the image_preview_thumbnailer plugin:
 IMAGE_PREVIEW_THUMBNAILER_INSERTED_HTML = '''<a href="{link}" target="_blank">

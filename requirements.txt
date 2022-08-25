@@ -7,6 +7,7 @@ pelican
 pelican-image-process
 pelican-plugin-image-preview-thumbnailer
 pelican-plugin-linkbacks
+pelican-sitemap
 pillow
 py_w3c
 shaarli-client
