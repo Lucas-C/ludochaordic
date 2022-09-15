@@ -40,6 +40,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2022-09-07', 'img_url': 'images/readings/RosalieBlum.jpg', 'description': "Rosalie Blum - Camille Jourdy (BD)"},
     {'date': u'2022-07-20', 'img_url': 'images/readings/LaCantineDeMinuit.jpg', 'description': "La Cantine De Minuit - Yarô Abe (manga)"},
     {'date': u'2022-06-05', 'img_url': 'images/readings/ShadowLife.jpg', 'description': "Shadow life - Ann Xu & Hiromi Goto (manga)"},
     {'date': u'2022-05-14', 'img_url': 'images/readings/LaHordeDuContrevent.jpg', 'description': "La horde du Contrevent - Alain Damasio (roman)"},
@@ -138,6 +139,8 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('J.P. Villain (Access42) @Twitter', 'https://twitter.com/villainjp'),
          ('Blog de David Larlet', 'https://larlet.fr/david/'),
          ('No Limit Secu', 'https://www.nolimitsecu.fr'),
+         ('LinuxFR', 'https://linuxfr.org/'),
+         ('Framablog', 'https://framablog.org/'),
          ('Reflets.info', 'https://reflets.info'),
          ('Tristan Nitot', 'http://standblog.org/blog/'),
          ('Blog de Victor Stinner', 'http://vstinner.github.io'),
@@ -181,7 +184,6 @@ SUPPORTS = (('La Revue Dessinée', 'https://www.larevuedessinee.fr/', 'images/La
             ('Low-tech', 'https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html', 'images/low-tech.svg', 'Ce site adhère à la philosophie low-tech'))
 
 MG_JOKES = (
-    ("C'est l'histoire du ptit dej, tu la connais ?", "Pas de bol."),
     ("Pourquoi les canards sont toujours à l'heure ?", "Parce qu’ils sont dans l’étang."),
     ("Que fait une fraise sur un cheval ?", "Tagada Tagada."),
     ("Quel est le crustacé le plus léger de la mer ?", "La palourde"),
@@ -195,6 +197,11 @@ MG_JOKES = (
     ("Quel est le jambon que tout le monde déteste ?", "Le sale ami"),
     ("Que fait un cendrier devant un ascenseur ?", "Il veut des cendres"),
     ("Que dit une imprimante dans l'eau ?", "J’ai papier"),
+    ("Pourquoi les vaches ferment-elles les yeux pendant la traite de lait ?", "Pour faire du lait concentré"),
+    ("Comment savoir quand un sapin est en colère ?", "Il a les boules"),
+    ("Que prend un éléphant dans un bar ?", "Beaucoup de place"),
+    ("Pourquoi dit-on que les Bretons sont tous frères et sœurs ?", "Parce qu’ils ont Quimper"),
+    ("Pourquoi est-ce que les livres ont-ils toujours chaud ?", "Parce qu’ils ont une couverture"),
 )
 
 TIMEZONE = 'Europe/Paris'
