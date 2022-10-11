@@ -40,6 +40,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2022-10-09', 'img_url': 'images/readings/juliette.jpg', 'description': "Juliette - Camille Jourdy (BD)"},
     {'date': u'2022-09-26', 'img_url': 'images/readings/Leviathan.jpg', 'description': "Léviathan - Jason Shiga (BD dont vous êtes le héro)"},
     {'date': u'2022-09-07', 'img_url': 'images/readings/RosalieBlum.jpg', 'description': "Rosalie Blum - Camille Jourdy (BD)"},
     {'date': u'2022-07-20', 'img_url': 'images/readings/LaCantineDeMinuit.jpg', 'description': "La Cantine De Minuit - Yarô Abe (manga)"},

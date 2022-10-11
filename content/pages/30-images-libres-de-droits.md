@@ -166,6 +166,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Templar](https://www.deviantart.com/dumaker/art/Templar-356427772)
     * [Barbarian Warrior](https://www.deviantart.com/dumaker/art/Barbarian-Warrior-905580618)
     * [The Writer](https://www.deviantart.com/dumaker/art/The-Writer-908244029)
+    * [El Acomodador](https://www.deviantart.com/dumaker/art/El-Acomodador-927391831)
+    * [Kingdom](https://www.deviantart.com/dumaker/art/Kingdom-925139187)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -224,6 +226,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Thought imprisons the gaze](https://www.deviantart.com/aldorodrigogoca/art/Thought-imprisons-the-gaze-693427491)
     * [Rembrandt fanart: The invocation of ghosts](https://www.deviantart.com/aldorodrigogoca/art/Rembrandt-fanart-The-invocation-of-ghosts-722309882)
     * [The dog that actually went to heaven](https://www.deviantart.com/aldorodrigogoca/art/The-dog-that-actually-went-to-heaven-722306225)
+    * [Sandman](https://www.deviantart.com/rodrigokatrakas/art/Sandman-927361795)
+    * [The curse of Monte Cristo - Concepts - Edmond](https://www.deviantart.com/rodrigokatrakas/art/The-curse-of-Monte-Cristo-Concepts-Edmond-925243462) & [Faces](https://www.deviantart.com/rodrigokatrakas/art/The-curse-of-Monte-Cristo-Concepts-Edmond-Face-925243458) & [FARIA](https://www.deviantart.com/rodrigokatrakas/art/The-curse-of-Monte-Cristo-Concepts-FARIA-925243434)
 - [TysonTan](https://www.deviantart.com/tysontan/gallery/) : CC BY-SA - sci-fi & samurai japanim furries
 > Chinese concept artist, character designer. [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) contributor.
 > Draws mostly anthropomorphic / robotic animals. Working on Freedom Planet 2. [official website](https://tysontan.com)
@@ -544,6 +548,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Original Characters: Streets on Hazard](https://www.deviantart.com/sphelon8565/art/OCAS-Original-Characters-Streets-on-Hazard-900918422)
     * [TerrorBlade](https://www.deviantart.com/sphelon8565/art/TerrorBlade-874274293)
     * [Ceres Fauna](https://www.deviantart.com/sphelon8565/art/Ceres-Fauna-892932513)
+    * [Portrait: THAAL SINESTRO](https://www.deviantart.com/sphelon8565/art/BR-Portrait-THAAL-SINESTRO-926338743)
 - [lukex8a](https://www.deviantart.com/lukex8a/gallery) - CC BY / BY-NC - many NSFW / boobs
 > An artist from Ecuador
     * [Random art 2022 001](https://www.deviantart.com/lukex8a/art/Random-art-2022-001-910621936)
