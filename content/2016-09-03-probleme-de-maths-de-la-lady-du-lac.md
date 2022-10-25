@@ -54,3 +54,10 @@ Le mathématicien Ben Sparks développe son raisonnement et démontre d'une part
 car il existe une solution, mais d'autre part que ce n'est pas celle de Tangente non plus !
 Il existe en effet une zone circulaire où la lady peut progressivement se placer à l'opposé de son poursuivant,
 pour ensuite sprinter vers le rivage.
+
+**[EDIT 2022/10/25]** : [El Jj](https://www.youtube.com/channel/UCgkhWgBGRp0sdFy2MHDWfSg) évoque ce problème dans l'une de se vidéos pour Mathctober, et le problème aurait été étudié par Leonard De Vinci :
+<iframe width="320" height="439" src="https://www.youtube.com/embed/cWhCVLLfBA8" title="21 - Bad Dog - #mathctober" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<style>
+article iframe { display: block; margin: 0 auto; }
+</style>
