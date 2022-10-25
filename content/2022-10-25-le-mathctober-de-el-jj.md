@@ -1,11 +1,12 @@
-Title: Le Mathcober de El Jj
+Title: Le Mathctober de El Jj
 Date: 2022-10-25 20:00
 Tags: lang:fr, youtube, maths
+Image: images/2022/10/eljj.png
 ---
 
 [El Jj](https://www.youtube.com/channel/UCgkhWgBGRp0sdFy2MHDWfSg) est une chaîne YouTube dédiée aux mathématiques que j'adore.
 
-Cette année, son auteur s'est engagé dans un superbe projet : [**Mathcober**](https://www.youtube.com/c/ElJj42/shorts),
+Cette année, son auteur s'est engagé dans un superbe projet : [**Mathctober**](https://www.youtube.com/c/ElJj42/shorts),
 où il diffuse chaque jour une nouvelle micro vidéo dédiée à un sujet mathématique.
 
 Le résultat et splendide, je vous laisse en juger :
