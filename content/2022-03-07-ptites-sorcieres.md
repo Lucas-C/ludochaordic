@@ -78,24 +78,24 @@ et des livres & films Harry Potter, voici quelques autres sources d'inspiration 
 ## Illustrations
 Voici tout d'abord une sélection d'illustrations sous _Creative Commons_ (réutilisables pour vos créations) :
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Flight of Spring by David Revoy" src="images/2022/03/2019-02-27_Flight-of-Spring_extended-version_by-David-Revoy.jpg"></noscript>
+<figure>
+  <img loading="lazy" alt="Flight of Spring by David Revoy" src="images/2022/03/2019-02-27_Flight-of-Spring_extended-version_by-David-Revoy.jpg">
   <figcaption>
     <a href="https://www.peppercarrot.com/fr/viewer/artworks__2019-02-27_Flight-of-Spring_extended-version_by-David-Revoy.html">Flight of Spring by David Revoy</a>
     - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 4.0</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Characters lineart by David Revoy" src="images/2022/03/2016-02-25_characters-lineart_by-David-Revoy.jpg"></noscript>
+<figure>
+  <img loading="lazy" alt="Characters lineart by David Revoy" src="images/2022/03/2016-02-25_characters-lineart_by-David-Revoy.jpg">
   <figcaption>
     <a href="https://www.peppercarrot.com/la/viewer/misc__2016-02-25_characters-lineart_by-David-Revoy.html">Characters lineart by David Revoy</a>
     - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 4.0</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Run by David Revoy" src="images/2022/03/2017-10-11_run_by-David-Revoy.jpg"></noscript>
+<figure>
+  <img loading="lazy" alt="Run by David Revoy" src="images/2022/03/2017-10-11_run_by-David-Revoy.jpg">
   <figcaption>
     <a href="https://www.davidrevoy.com/article353/run">Run by David Revoy</a>
     - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 4.0</a>
@@ -105,48 +105,48 @@ Voici tout d'abord une sélection d'illustrations sous _Creative Commons_ (réut
 Et bien d'autres de David Revoy sous license CC-BY, issues de _Pepper & Carrot_ :
 <https://www.peppercarrot.com/fr/artworks/artworks.html>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Summer Witch by Meg James" src="images/2022/03/summer-witch-MegJames-CC-BY-NC-SA.png"></noscript>
+<figure>
+  <img loading="lazy" alt="Summer Witch by Meg James" src="images/2022/03/summer-witch-MegJames-CC-BY-NC-SA.png">
   <figcaption>
     <a href="http://meg-james.com/art/summer-witch/">Summer Witch by Meg James</a>
     - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Compliments to the chef by Meg James" src="images/2022/03/compliments-to-the-chef-MegJames-CC-BY-NC-SA.png"></noscript>
+<figure>
+  <img loading="lazy" alt="Compliments to the chef by Meg James" src="images/2022/03/compliments-to-the-chef-MegJames-CC-BY-NC-SA.png">
   <figcaption>
     <a href="http://meg-james.com/art/compliments-to-the-chef/">Compliments to the chef by Meg James</a>
     - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="None of your business! by Meg James" src="images/2022/03/none-of-your-business-MegJames-CC-BY-NC-SA.png"></noscript>
+<figure>
+  <img loading="lazy" alt="None of your business! by Meg James" src="images/2022/03/none-of-your-business-MegJames-CC-BY-NC-SA.png">
   <figcaption>
     <a href="http://meg-james.com/art/none-of-your-business/">None of your business! by Meg James</a>
     - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Unusual, unlikely, but not unheard of by Meg James" src="images/2022/03/unusual-unlikely-but-not-unheard-of-MegJames-CC-BY-NC-SA.png"></noscript>
+<figure>
+  <img loading="lazy" alt="Unusual, unlikely, but not unheard of by Meg James" src="images/2022/03/unusual-unlikely-but-not-unheard-of-MegJames-CC-BY-NC-SA.png">
   <figcaption>
     <a href="http://meg-james.com/art/unusual-unlikely-but-not-unheard-of/">Unusual, unlikely, but not unheard of by Meg James</a>
     - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Lanterns in the Sky by desmondwoot" src="images/2022/03/desmondwoot-Lanterns-in-the-Sky-CC-BY-NC-SA.jpg"></noscript>
+<figure>
+  <img loading="lazy" alt="Lanterns in the Sky by desmondwoot" src="images/2022/03/desmondwoot-Lanterns-in-the-Sky-CC-BY-NC-SA.jpg">
   <figcaption>
     <a href="https://www.deviantart.com/desmondwoot/art/Lanterns-in-the-Sky-357624151">Lanterns in the Sky by desmondwoot</a>
     - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Witch House, a Glitch game asset" src="images/2022/03/witch-house-public-domain.svg"></noscript>
+<figure>
+  <img loading="lazy" alt="Witch House, a Glitch game asset" src="images/2022/03/witch-house-public-domain.svg">
   <figcaption>
     <a href="https://www.glitchthegame.com/public-domain-game-art/">Witch House, a Glitch game asset</a>
     - CC0 / domaine publiaue
@@ -158,8 +158,8 @@ sur le [site officiel](http://toinito.free.fr/fr/jdr/psorcieres.php).
 
 Voici enfin quelques illustrations supplémentaires, éventuellement pour représenter les PJs : [tableau Pinterest](https://www.pinterest.fr/drmaxkurt/ptites-sorci%C3%A8res/).
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Little Wizard by Nicholas Kole animated by Yennifer Dark" src="images/2022/03/LittleWizard-by-NicholasKole-animated-by-YenniferDark.gif"></noscript>
+<figure>
+  <img loading="lazy" alt="Little Wizard by Nicholas Kole animated by Yennifer Dark" src="images/2022/03/LittleWizard-by-NicholasKole-animated-by-YenniferDark.gif">
   <figcaption>
     <a href="https://www.artstation.com/artwork/VDw6X">Little Wizard by Nicholas Kole</a>
     - <a href="https://twitter.com/Ulkhror/status/802474344748183552">animated version by Yennifer Dark</a>
@@ -217,22 +217,22 @@ le MJ ne spécifie plus aucun seuil. Je trouve que le jeu en vaut néanmoins la 
 
 J'ai testé ce système alternatif avec 5 joueurs adolescents durant ~4h de jeu, et c'était très concluant !
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Tutelary Turtle Island by Cze and Peku" src="images/2022/03/TutelaryTurtleIsland.jpg"></noscript>
+<figure>
+  <img loading="lazy" alt="Tutelary Turtle Island by Cze and Peku" src="images/2022/03/TutelaryTurtleIsland.jpg">
   <figcaption>
     <a href="https://www.reddit.com/r/battlemaps/comments/vkmnpd/heres_our_latest_czepeku_battlemap_the_tutelary/">Tutelary Turtle Island by Cze and Peku</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="The Crimson Scroll Library by Marve Bärg" src="images/2022/03/The Crimson Scroll Library by Marve Bärg.jpg"></noscript>
+<figure>
+  <img loading="lazy" alt="The Crimson Scroll Library by Marve Bärg" src="images/2022/03/The Crimson Scroll Library by Marve Bärg.jpg">
   <figcaption>
     <a href="https://www.reddit.com/r/ImaginaryLibraries/comments/jm414c/the_crimson_scroll_library_by_marve_b%C3%A4rg/">The Crimson Scroll Library by Marve Bärg</a>
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Wizard Tower Interior by David Abouaf" src="images/2022/03/Wizard Tower Interior by David Abouaf.webp"></noscript>
+<figure>
+  <img loading="lazy" alt="Wizard Tower Interior by David Abouaf" src="images/2022/03/Wizard Tower Interior by David Abouaf.webp">
   <figcaption>
     <a href="https://www.reddit.com/r/ImaginaryLibraries/comments/giei25/wizard_tower_interior_by_david_abouaf/?utm_source=ifttt">Wizard Tower Interior by David Abouaf
 </a>
@@ -241,8 +241,6 @@ J'ai testé ce système alternatif avec 5 joueurs adolescents durant ~4h de jeu,
 
 <style>
 article img { max-height: 80vh; }
-.lazyloading { opacity: 0; }
-.lazyloaded { opacity: 1; transition: opacity 300ms; }
 </style>
 <script>
 function setTitles() {

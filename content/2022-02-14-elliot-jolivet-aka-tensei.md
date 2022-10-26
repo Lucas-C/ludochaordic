@@ -18,72 +18,72 @@ pour des jeux de rôle.
 
 Voici une sélection de ses créations :
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Lutte.jpg" target="_blank">
-    <noscript><img alt="Lutte" src="images/2022/02/ej-Lutte.jpg"></noscript>
+    <img loading="lazy" alt="Lutte" src="images/2022/02/ej-Lutte.jpg">
   </a>
   <figcaption>
     <a href="https://illutensei.com/lutte">Lutte</a> - 2022
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Echoués.jpg" target="_blank">
-    <noscript><img alt="Echoués" src="images/2022/02/ej-Echoués.jpg"></noscript>
+    <img loading="lazy" alt="Echoués" src="images/2022/02/ej-Echoués.jpg">
   </a>
   <figcaption>
     <a href="https://illutensei.com/echoues">Echoués</a> - 2022
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Despair.jpg" target="_blank">
-    <noscript><img alt="Despair" src="images/2022/02/ej-Despair.jpg"></noscript>
+    <img loading="lazy" alt="Despair" src="images/2022/02/ej-Despair.jpg">
   </a>
   <figcaption>
     <a href="https://illutensei.com/despair">Despair</a> - 2022
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Voiles.jpg" target="_blank">
-    <noscript><img alt="Voiles" src="images/2022/02/ej-Voiles.jpg"></noscript>
+    <img loading="lazy" alt="Voiles" src="images/2022/02/ej-Voiles.jpg">
   </a>
   <figcaption>
     <a href="https://www.artstation.com/artwork/GaWK4d">Voiles</a> - 2020
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Fuite.jpg" target="_blank">
-    <noscript><img alt="Fuite" src="images/2022/02/ej-Fuite.jpg"></noscript>
+    <img loading="lazy" alt="Fuite" src="images/2022/02/ej-Fuite.jpg">
   </a>
   <figcaption>
     <a href="https://illutensei.com/fuite">Fuite</a> - 2020
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Elaria.jpg" target="_blank">
-    <noscript><img alt="Elaria" src="images/2022/02/ej-Elaria.jpg"></noscript>
+    <img loading="lazy" alt="Elaria" src="images/2022/02/ej-Elaria.jpg">
   </a>
   <figcaption>
     <a href="https://www.facebook.com/tenseidraw/posts/919218605165292">Elaria</a> - 2020
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Lodius.jpg" target="_blank">
-    <noscript><img alt="Lodius" src="images/2022/02/ej-Lodius.jpg"></noscript>
+    <img loading="lazy" alt="Lodius" src="images/2022/02/ej-Lodius.jpg">
   </a>
   <figcaption>
     <a href="https://www.facebook.com/tenseidraw/posts/912848592468960">Lodius</em></a> - 2020
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
+<figure>
   <a href="images/2022/02/ej-Mountains-King.jpg" target="_blank">
-    <noscript><img alt="Mountain's King" src="images/2022/02/ej-Mountains-King.jpg"></noscript>
+    <img loading="lazy" alt="Mountain's King" src="images/2022/02/ej-Mountains-King.jpg">
   </a>
   <figcaption>
     <a href="https://www.behance.net/gallery/20039645/Mountains-King">Mountain's King</em></a> - 2014
@@ -93,9 +93,9 @@ Voici une sélection de ses créations :
 J'ai eu le plaisir de collaborer avec lui sur le projet de jeu de société [Mush Radio](https://mush-radio.chezsoi.org/).
 Il a conçu pour ce projet une belle identité visuelle, ainsi que de nombreuses illustrations :
 
-<div class="lazyload" data-noscript="">
+<div>
   <a href="https://mush-radio.chezsoi.org/" target="_blank">
-    <noscript><img alt="Mush Radio" src="images/2022/02/ej-MushRadio.jpg"></noscript>
+    <img loading="lazy" alt="Mush Radio" src="images/2022/02/ej-MushRadio.jpg">
   </a>
 </div>
 
@@ -114,8 +114,6 @@ Si vous aimez son travail, retrouvez d'autres créations d'EJ ici :
 
 <style>
 article img { max-height: 80vh; }
-.lazyloading { opacity: 0; }
-.lazyloaded { opacity: 1; transition: opacity 300ms; }
 </style>
 <script>
 function setTitles() {

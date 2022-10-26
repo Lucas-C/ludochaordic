@@ -12,8 +12,8 @@ on [r/generative](https://www.reddit.com/r/generative/top/?t=month).
 In the same spirit as a precedent article [on glitch art](glitch-art-and-image-processing-with-python.html),
 I want to share some of my favorites:
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Everything's Fine by Kenny Vaden" src="images/2022/02/everythings_fine_by_kenny_vaden.webp"></noscript>
+<figure>
+  <img loading="lazy" alt="Everything's Fine by Kenny Vaden" src="images/2022/02/everythings_fine_by_kenny_vaden.webp">
   <figcaption>
     <a href="https://www.reddit.com/r/generative/comments/s2u8tm/everythings_fine_r_code/">Everything's Fine by Kenny Vaden</a>
   </figcaption>
@@ -68,16 +68,16 @@ Some incredible art by **Frank Force aka KilledByAPixel**:
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Astronomic Comics - Code Generated Space Comics" src="images/2022/02/astronomic_comics_code_generated_space_comics.webp"></noscript>
+<figure>
+  <img loading="lazy" alt="Astronomic Comics - Code Generated Space Comics" src="images/2022/02/astronomic_comics_code_generated_space_comics.webp">
   <figcaption>
     <a href="https://www.reddit.com/r/generative/comments/skiqjn/astronomic_comics_code_generated_space_comics/">Astronomic Comics - Code Generated Space Comics</a>
     - visit the link for more pages
   </figcaption>
 </figure>
 
-<figure class="lazyload" data-noscript="">
-  <noscript><img alt="Gensuzendō - Generative Calligraphy" src="images/2022/02/gensuzendō_generative_calligraphy.webp"></noscript>
+<figure>
+  <img loading="lazy" alt="Gensuzendō - Generative Calligraphy" src="images/2022/02/gensuzendō_generative_calligraphy.webp">
   <figcaption>
     <a href="https://www.reddit.com/r/generative/comments/s1oecz/gensuzend%C5%8D_generative_calligraphy/">Gensuzendō - Generative Calligraphy</a>
     - visit the link for more pages
@@ -86,11 +86,11 @@ Some incredible art by **Frank Force aka KilledByAPixel**:
 
 Some splendid plotter drawings by **Anders Hoff @ inconvergent.net**:
 
-<div class="lazyload" data-noscript=""><noscript><img alt="Plotter drawing" src="images/2022/02/inconvergent-21-71dddd53.jpg"></noscript></div>
+<div><img loading="lazy" alt="Plotter drawing" src="images/2022/02/inconvergent-21-71dddd53.jpg"></div>
 
-<div class="lazyload" data-noscript=""><noscript><img alt="Plotter drawing" src="images/2022/02/inconvergent-ab17902d.jpg"></noscript></div>
+<div><img loading="lazy" alt="Plotter drawing" src="images/2022/02/inconvergent-ab17902d.jpg"></div>
 
-<div class="lazyload" data-noscript=""><noscript><img alt="Plotter drawing" src="images/2022/02/inconvergent-20171231-111025.png"></noscript></div>
+<div><img loading="lazy" alt="Plotter drawing" src="images/2022/02/inconvergent-20171231-111025.png"></div>
 
 Three beautiful pieces by **[@j2rgb](https://twitter.com/j2rgb)**:
 
@@ -181,8 +181,6 @@ document.addEventListener("DOMContentLoaded", () => {
 <style>
 article img { max-height: 80vh; }
 article video { display: block; margin: 0 auto; max-height: 80vh; }
-.lazyloading { opacity: 0; }
-.lazyloaded { opacity: 1; transition: opacity 300ms; }
 </style>
 <script>
 function setTitles() {
