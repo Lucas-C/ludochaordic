@@ -12,6 +12,12 @@ où il diffuse chaque jour une nouvelle micro vidéo dédiée à un sujet mathé
 Le résultat et splendide, je vous laisse en juger :
 
 <div class="grid">
+<iframe width="240" height="329" src="https://www.youtube.com/embed/mi7aBEer4WM" title="31 - Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="329" src="https://www.youtube.com/embed/PN0bMaGzRwE" title="30 - Gear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="329" src="https://www.youtube.com/embed/xDoBoO9Ph1o" title="29 - Uh Oh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="329" src="https://www.youtube.com/embed/zYpM6GBH9xE" title="28 - Camping" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="329" src="https://www.youtube.com/embed/AlIkbYhU8Lg" title="27 - Snack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="240" height="329" src="https://www.youtube.com/embed/iQAEXpwmEYs" title="26 - Ego" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="240" height="329" src="https://www.youtube.com/embed/7KPw6zLCN6I" title="25 - Tempting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="240" height="329" src="https://www.youtube.com/embed/rcG3VzzVdw0" title="24 - Fairy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="240" height="329" src="https://www.youtube.com/embed/cps2NPrt82w" title="23 - Booger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
