@@ -36,6 +36,7 @@ Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.
 
 EXTRA_PAGE_LINKS = (
     ("Découvertes vidéoludiques", "https://chezsoi.org/shaarli/?searchtags=GreatOnes"),
+    ("Gopher access", "gopher://chezsoi.org/"),
 )
 
 # Readings, from most recent to oldest
