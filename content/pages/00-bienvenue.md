@@ -17,7 +17,7 @@ Je m'appelle Lucas Cimon.
 Je suis un créateur de jeux,
 et un ingénieur en développement logiciel.
 
-Je vis dans la commune de Saint-Mathurin-sur-Loire
+Je vis dans la commune de Champtocé-sur-Loire
 et je travaille dans la région entre Angers et Nantes, actuellement pour [oui.sncf](https://www.oui.sncf).
 
 J'ai mis en place ce blog pour partager des découvertes en tout genre,

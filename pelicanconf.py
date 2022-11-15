@@ -36,11 +36,12 @@ Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.
 
 EXTRA_PAGE_LINKS = (
     ("Découvertes vidéoludiques", "https://chezsoi.org/shaarli/?searchtags=GreatOnes"),
-    ("Gopher access", "gopher://chezsoi.org/"),
+    ("Gopher access (beta)", "gopher://chezsoi.org/"),
 )
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2022-11-15', 'img_url': 'images/readings/jusquici-tout-allait-bien.jpg', 'description': "Jusqu'ici tout allait bien - Ersin Karabulut (BD)"},
     {'date': u'2022-10-09', 'img_url': 'images/readings/juliette.jpg', 'description': "Juliette - Camille Jourdy (BD)"},
     {'date': u'2022-09-26', 'img_url': 'images/readings/Leviathan.jpg', 'description': "Léviathan - Jason Shiga (BD dont vous êtes le héro)"},
     {'date': u'2022-09-07', 'img_url': 'images/readings/RosalieBlum.jpg', 'description': "Rosalie Blum - Camille Jourdy (BD)"},
