@@ -1,6 +1,6 @@
 Title: Lady Blackbird
 Date: 2022-07-25 20:00
-Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-harper, damien-rahyll-c, lady-blackbird, jeux, hack, @Laetitia, @Simon, @Cedric, jeux
+Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-harper, damien-rahyll-c, lady-blackbird, hack, @Laetitia, @Simon, @Cedric, jeux
 ---
 <!-- Com'
 * [x] https://forums.ffjdr.org/t/lady-blackbird-un-excellent-jdr-gratuit-ideal-pour-des-debutants/1256

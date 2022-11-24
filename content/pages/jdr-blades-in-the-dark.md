@@ -1059,7 +1059,7 @@ Bien que l'opération soit un succès, il s'avère peu après qu'un portrait d'E
 faisant de lui l'homme le plus recherché de Doskvol et attisant la tension sur le gang, et par extension tout Crow's Foot,
 où les Bluecoats procèdent à des descentes musclées un peu partout.
 
-Le gang descide alors de régler son compte à ce fameux **Quess Jeduin**...
+Le gang décide alors de régler son compte à ce fameux **Quess Jeduin**...
 Leur tactique initiale est de patienter à la taverne de l'Æncre qui sèche,
 repère habituel d'étudiants de l'Académie de Doskvol.
 Néanmoins, comme il ne se manifeste pas, ils décident de franchir le pont amovible jusqu'à WhiteCrown :
@@ -1075,7 +1075,7 @@ mais le gang est finalement rattrapé par eux et par la milice sur le sentier c�
 Après un affrontement rapide, le gang finit par sauter à l'eau et à s'échapper avec une navette des garde-côtes.
 Mist manque néanmoins d'y laisser la peau en se noyant.
 
-Peu après, une fois au sec, ils apprenent que les Crows ont une dent contre eux,
+Peu après, une fois au sec, ils apprennent que les Crows ont une dent contre eux,
 ayant été expulsés de la tour de l'horloge par les Bluecoats suite à leur opération "coup de poing" de la journée,
 tandis que le Harpon lui même risque de voir son QG du galion démolit par ordre de l'administration de Doskvol !
 
@@ -1089,6 +1089,28 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
     + [Benvenuta a Doskvol](https://www.youtube.com/watch?v=9rP_mCfULdo)
     * [Thief (4) - Alternate/Extended Trailer](https://www.youtube.com/watch?v=A3aD67_aZW0)
     + [Thief // Ex Guru - Hunt](https://www.youtube.com/watch?v=Q1TdWPypGF0)
+
+<!--
+
+## Session 11 - ?
+
+<div class="side-by-side">
+  <img alt="" src="https://i.redd.it/kx36ukt4ugg91.png">
+  <img alt="" src="https://i.redd.it/fdjdbdb3ugg91.png">
+  <img alt="" src="https://i.redd.it/3mo38kczugg91.png">
+</div>
+
+### Ressources
+- ambiance musicale :
+    + [Embers and Spirits - 3:23 @YouTube](https://www.youtube.com/watch?v=aXePNAotteQ)
+    + [The River Dusk - 1:13 @YouTube](https://www.youtube.com/watch?v=C4XXWuVaCyg) & [Rooftop Chase - 2:30 @YouTube](https://www.youtube.com/watch?v=3YP1pGDFqAA) by Ted Bushman
+* clips vidéos :
+    + [Blades in the Dark Title Animation @YouTube](https://www.youtube.com/watch?v=eoxIyivFJQI)
+    + [Blades in the Dark: atmosphere @YouTube](https://www.youtube.com/watch?v=nxXsWB1q7BE)
+    + [Widows | Blades in the Dark Trailer @YouTube](https://www.youtube.com/watch?v=HMnxSj9R6LY)
+- aides de jeu :
+    + [A Blades in the Dark mat for downtime stuff](https://www.reddit.com/r/bladesinthedark/comments/v7hlcy/a_blades_in_the_dark_mat_for_downtime_stuff/)
+    + [BitD Action Roll printable 'playmat'](https://www.reddit.com/r/bladesinthedark/comments/v3wc05/bitd_action_roll_printable_playmat_v2/)
 
 <!-- Idées :
 
@@ -1111,6 +1133,11 @@ ALT: campaign END -> they become COPS !
 * rédiger une feuille par gang majeur
 * prendre inspis de Dirty MJ
 * trouver illustrations pour les PNJs ppaux, ex: <img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">
+  NPCs: https://www.reddit.com/r/bladesinthedark/comments/w2aq02/i_made_some_npc_portraits_for_an_upcoming_vtt/
+        https://www.reddit.com/r/bladesinthedark/comments/wh1vci/more_npc_art_for_doskvol_scurlock/
+        https://www.reddit.com/r/bladesinthedark/comments/wxr31c/i_started_gm%C3%ADng_a_game_of_blades_and_drew_my/
+        https://www.reddit.com/r/bladesinthedark/comments/wj1p1j/i_generated_all_of_the_spirit_warden_portraits_i/
+        https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/
 * make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
@@ -1119,6 +1146,7 @@ ALT: campaign END -> they become COPS !
     + [Course poursuite / fuite à travers les toits](https://youtu.be/cHF-jZfe1G0?t=2307)
 
 TO MENTION:
++ [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
 + [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
 + [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)

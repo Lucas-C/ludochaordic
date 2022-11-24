@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Generates a directory containing only files suitable to be served by a Gopher client,
 # like https://framagit.org/Mindiell/gaufre
