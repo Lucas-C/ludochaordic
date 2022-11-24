@@ -1,15 +1,12 @@
 Title: World of Dungeons : Turbo Breakers
-Date: 2022-11-22 12:00
+Date: 2022-11-24 19:00
 Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, fantasy, dungeon-crawler, pbta, traduction, aide-de-jeu, john-harper, jeux, @Anna, @Olivier, @Aurelien, @Andree
 ---
 <!-- Com'
-* [ ] itch.io
-* [ ] http://troplongpaslu.fr
-* [ ] https://www.casusno.fr/viewforum.php?f=24&sid=3fd820e6d0d98b2be167817af027bd1d
-* [ ] https://johnharper.itch.io/breakers (comment)
-* [ ] Discords: Ludochaordic, CestPadDuJdr, PTGPTB, L'AubergeDesReveurs
-* [ ] https://www.scenariotheque.org
-* [ ] https://forums.ffjdr.org
+* [x] itch.io
+* [x] https://johnharper.itch.io/breakers (comment)
+* [x] http://troplongpaslu.fr
+* [x] https://www.casusno.fr/viewforum.php?f=24&sid=3fd820e6d0d98b2be167817af027bd1d
 -->
 
 En 2016, financé par Patreon, [John Harper](tag/john-harper.html) a sorti une courte suite à son jeu _World of Dungeons_ de 2012 : [World of Dungeons : Turbo Breakers](https://johnharper.itch.io/breakers).
