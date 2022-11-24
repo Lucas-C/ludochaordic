@@ -245,9 +245,7 @@ PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ('ctags_generator', 'deadlinks', 'image_preview_thumbnailer', 'pelican.plugins.sitemap', 'representative_image', 'tag_cloud') #, 'w3c_validate')
 
 # Configuring image lazyloading for the image_preview_thumbnailer plugin:
-IMAGE_PREVIEW_THUMBNAILER_INSERTED_HTML = '''<a href="{link}" target="_blank">
-    <div class="lazyload" data-noscript=""><noscript><img src="{thumb}" alt=""></noscript></div>
-</a>'''
+IMAGE_PREVIEW_THUMBNAILER_INSERTED_HTML = '<a href="{link}" target="_blank"s><img loading="lazy" src="{thumb}" class="preview-thumbnail"></a>'
 
 DEADLINK_VALIDATION = False  # à activer de temps en temps via "invoke build" inclus quelques faux positifs
 DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings
