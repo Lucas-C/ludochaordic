@@ -6,7 +6,7 @@ Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, fantasy, dungeon-c
 * [x] itch.io
 * [x] https://johnharper.itch.io/breakers (comment)
 * [x] http://troplongpaslu.fr
-* [x] https://www.casusno.fr/viewforum.php?f=24&sid=3fd820e6d0d98b2be167817af027bd1d
+* [x] https://www.casusno.fr/viewtopic.php?t=41349
 -->
 
 En 2016, financé par Patreon, [John Harper](tag/john-harper.html) a sorti une courte suite à son jeu _World of Dungeons_ de 2012 : [World of Dungeons : Turbo Breakers](https://johnharper.itch.io/breakers).
@@ -70,6 +70,7 @@ Le [Compendium 2022](https://spielknights.gumroad.com/l/2022opdc) regorge par ex
 
 Je vous recommande également ces autres sites pour vous fournir des idées de donjons :
 
+- quelques donjons du fantastique Michael Prescott traduits en français sur son site [trilemma.com](http://blog.trilemma.com/p/aventures-en-francais.html)
 - les [cartes isométriques](https://www.elventower.com/isometric-maps/) et les [one page dungeons](https://www.elventower.com/one-page-dungeons/) de Derek "ElvenTower" Ruiz
 - le générateur [One Page Dungeon de watabou](https://watabou.itch.io/one-page-dungeon)
 - une sélection de meilleurs one-page-dungeons : [A Dungeon Master’s Guide to the One-Page Dungeon](https://blackcitadelrpg.com/one-page-dungeon/) (en anglais)
