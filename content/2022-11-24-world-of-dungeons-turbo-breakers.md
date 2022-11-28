@@ -38,8 +38,14 @@ mais au final la partie a plutôt consisté en un enchaînement de péripéties 
 où le fun et les ressorts narratifs tenaient bien plus de l'improvisation des joueurs autour de la table
 que des mécaniques de jeu.
 
+<figure>
+  <img alt="Au saloon" src="images/2022/11/at_the_saloon_by_fernand0fc_de957o6-fullview.jpg">
+  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/At-the-saloon-861886230">At the saloon par Fernand0FC</a> - CC BY 3.0</figcaption>
+</figure>
+
 ## Règles
-Les règles sont très succinctes, et le rôle de la **Vitesse** en particulier n'y est pas absolument pas défini.J'ai considéré pour ma part que cela déterminait à quel point un _breaker_ était capable de faire preuve de réflexe ou non,
+Les règles sont très succinctes, et le rôle de la **Vitesse** en particulier n'y est pas absolument pas défini.
+J'ai considéré pour ma part que cela déterminait à quel point un _breaker_ était capable de faire preuve de réflexe ou non,
 dans une situation (sans jet), ainsi également que l'ordre d'initiative / action lors d'un combat.
 
 Par ailleurs les règles sont très simples et efficaces, fortement inspirées des jeux [PbtA](http://www.pbta.fr/apocalypse-2/).
@@ -76,6 +82,16 @@ Je vous recommande également ces autres sites pour vous fournir des idées de d
 - une sélection de meilleurs one-page-dungeons : [A Dungeon Master’s Guide to the One-Page Dungeon](https://blackcitadelrpg.com/one-page-dungeon/) (en anglais)
 - un générateur de monstres : [Book of Monsters](https://deep-fold.itch.io/book-of-monsters)
 
+<figure>
+  <img alt="One Page Donjon" src="images/2022/11/OPDC-2021-The-Eternal-Construction-Site-by-Gregor-Belogour.png">
+  <figcaption>One Page Donjon 2021 - The Eternal Construction Site by Gregor Belogour - CC BY-SA 3.0</figcaption>
+</figure>
+
 ## Musique
 J'ai beaucoup employé [TableTopAudio](https://tabletopaudio.com) lors de cette partie,
 ainsi que cette musique de poursuite : [Escape | RPG Chase Theme | Fantasy Music by The Seventh Midnight](https://www.youtube.com/watch?v=_j8jUUzGqDo).
+
+<figure>
+  <img alt="Arme blanche à fusion" src="images/2022/11/super_heated_by_fernand0fc_dc5a5wk-fullview.jpg">
+  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/Super-Heated-734466404">Super-Heated par Fernand0FC</a> - CC BY 3.0</figcaption>
+</figure>
