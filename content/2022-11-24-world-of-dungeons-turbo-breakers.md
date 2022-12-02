@@ -1,6 +1,6 @@
 Title: World of Dungeons : Turbo Breakers
 Date: 2022-11-24 19:00
-Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, fantasy, dungeon-crawler, pbta, traduction, aide-de-jeu, john-harper, jeux, @Anna, @Olivier, @Aurelien, @Andree
+Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, fantasy, dungeon-crawler, one-page-dungeon, pbta, traduction, aide-de-jeu, john-harper, jeux, @Anna, @Olivier, @Aurelien, @Andree
 ---
 <!-- Com'
 * [x] itch.io
