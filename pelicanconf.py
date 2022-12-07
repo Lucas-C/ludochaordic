@@ -132,6 +132,8 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ("C'est pas du jeu de rôle", 'https://www.cestpasdujdr.fr'),
          ('Trop Long ; Pas Lu !', 'http://troplongpaslu.fr'),
          ('Le blog de Gulix', 'https://www.gulix.fr'),
+         ('Le Fix di6dent', 'http://lefix.di6dent.fr/'),
+         ('ptgptb', 'https://ptgptb.fr/'),
          ('The Indie RPG Pipeline', 'https://therpgpipeline.blogspot.com'),
          ('Derrière le paravent de Greg Pogorzelski', 'http://awarestudios.blogspot.fr'),
          ('Oglaf', 'https://www.oglaf.com'),
@@ -211,6 +213,7 @@ MG_JOKES = (
 
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
+# LOCALE = 'fr_FR.utf8'  # impacts date format; must be installed with sudo dpkg-reconfigure locales
 
 SITEMAP_URL = './sitemap.xml'
 PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'

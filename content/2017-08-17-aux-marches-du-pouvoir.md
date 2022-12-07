@@ -3,7 +3,7 @@ Date: 2017-08-17 21:00
 Tags: lang:fr, jdr, storytelling, zero-prep, GameOfThrones, dominos, carte, jeux, compte-rendu, playtest, opinion, one-shot, manuel-bedouet, @Matt, @Sarah, @ET
 ---
 
-[![¨Page du studio Gobz'Ink dédiée](images/2017/08/AuxMarchesDuPouvoir.png)](http://www.shamzam.net/blog/nos-jeux-de-roles/aux-marches-du-pouvoir/)
+[![¨Page du studio Gobz'Ink dédiée](images/2017/08/AuxMarchesDuPouvoir.png)](https://melville.itch.io/aux-marches-du-pouvoir)
 
 J'ai découvert ce jeu via la critique de Steve Jakoubovitch sur [Hugin & Munin](http://hu-mu.blogspot.fr/2017/07/aux-marches-du-pouvoir.html).
 
@@ -13,7 +13,7 @@ Et personnellement, j'ai pris mon pied !
 
 Déjà à la lecture des quelques paragraphes succins détaillant la cité et les différentes idoles,
 leur description m'a évoqué de nombreuses images et donné plein d'idées de scénarios.
-Un grand bravo à [Manuel Bedouet](/lucas/blog/tag/manuel-bedouet.html) pour avoir su créer une ambiance si évocatrice en si peu de mots !
+Un grand bravo à [Manuel Bedouet](/lucas/blog/tag/manuel-bedouet.html) _aka_ [Mellville](http://melville-games.com/jeux-de-roles/) pour avoir su créer une ambiance si évocatrice en si peu de mots !
 
 Durant la partie, les mécaniques se sont révélées bien huilées, légères mais suffisamment directrices pour donner à l'histoire un début et une fin.
 J'ai beaucoup aimé manipuler les dominos. Je trouve qu'on se rapproche beaucoup de l'[image](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster)

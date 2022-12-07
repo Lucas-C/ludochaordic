@@ -2,12 +2,6 @@ Title: Lady Blackbird
 Date: 2022-07-25 20:00
 Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-harper, damien-rahyll-c, lady-blackbird, hack, @Laetitia, @Simon, @Cedric, jeux
 ---
-<!-- Com'
-* [x] https://forums.ffjdr.org/t/lady-blackbird-un-excellent-jdr-gratuit-ideal-pour-des-debutants/1256
-* [x] https://www.casusno.fr/viewtopic.php?p=2103889
-* [x] https://opale-roliste.com/forum/ressources/debuter-jeu-role/lady-blackbird-excellent-jdr-gratuit-ideal-debutants
-* [x] Discords: Ludochaordic, CestPadDuJdr, PTGPTB, L'AubergeDesReveurs
--->
 
 <figure>
   <img alt="Lady Blackbird" src="images/2022/07/LadyBlackbird-by-Midjourney.png">
@@ -176,3 +170,10 @@ Anecdotes de partie avec @Laetitia, @Simon, @Cedric :
   .side-by-side > * { margin: 0 2rem; }
 }
 </style>
+
+<!-- Com'
+* [x] https://forums.ffjdr.org/t/lady-blackbird-un-excellent-jdr-gratuit-ideal-pour-des-debutants/1256
+* [x] https://www.casusno.fr/viewtopic.php?p=2103889
+* [x] https://opale-roliste.com/forum/ressources/debuter-jeu-role/lady-blackbird-excellent-jdr-gratuit-ideal-debutants
+* [x] Discords: Ludochaordic, CestPadDuJdr, PTGPTB, L'AubergeDesReveurs
+-->

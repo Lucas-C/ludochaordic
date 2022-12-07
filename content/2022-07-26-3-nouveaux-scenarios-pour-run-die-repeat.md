@@ -2,11 +2,6 @@ Title: 3 nouveaux scenarios pour Run. Die. Repeat.
 Date: 2022-07-26 9:00
 Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, zero-prep, cyberconv, jeux
 ---
-<!-- Com'
-* [x] https://www.scenariotheque.org
-* [x] https://www.casusno.fr/viewtopic.php?p=2103886
-* [x] Discord TLPL
--->
 
 Voici 3 nouveaux scénarios pour [_Run. Die. Repeat._](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf),
 le jeu de rôle monopage de **Labrys Games** où l'on décède à la chaîne :
@@ -25,3 +20,9 @@ Au programme :
 * **Pirates, vaudou et île au trésor** : pirate revenu d'entre les morts grâce à une malédiction vaudoue, vous devez fuir l'île au trésor avant que la lune ne soit au zenith !
 
 Tous les articles de ce blog à propos de _Run Die Repeat_ : [tag run-die-repeat](tag/run-die-repeat.html).
+
+<!-- Com'
+* [x] https://www.scenariotheque.org
+* [x] https://www.casusno.fr/viewtopic.php?p=2103886
+* [x] Discord TLPL
+-->

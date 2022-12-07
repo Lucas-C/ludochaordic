@@ -2,12 +2,6 @@ Title: World of Dungeons : Turbo Breakers
 Date: 2022-11-24 19:00
 Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, fantasy, dungeon-crawler, one-page-dungeon, pbta, traduction, aide-de-jeu, john-harper, jeux, @Anna, @Olivier, @Aurelien, @Andree
 ---
-<!-- Com'
-* [x] itch.io
-* [x] https://johnharper.itch.io/breakers (comment)
-* [x] http://troplongpaslu.fr
-* [x] https://www.casusno.fr/viewtopic.php?t=41349
--->
 
 En 2016, financé par Patreon, [John Harper](tag/john-harper.html) a sorti une courte suite à son jeu _World of Dungeons_ de 2012 : [World of Dungeons : Turbo Breakers](https://johnharper.itch.io/breakers).
 
@@ -95,3 +89,11 @@ ainsi que cette musique de poursuite : [Escape | RPG Chase Theme | Fantasy Music
   <img alt="Arme blanche à fusion" src="images/2022/11/super_heated_by_fernand0fc_dc5a5wk-fullview.jpg">
   <figcaption><a href="https://www.deviantart.com/fernand0fc/art/Super-Heated-734466404">Super-Heated par Fernand0FC</a> - CC BY 3.0</figcaption>
 </figure>
+
+<!-- Com'
+* [x] itch.io
+* [x] https://johnharper.itch.io/breakers (comment)
+* [x] http://troplongpaslu.fr
+* [x] https://www.casusno.fr/viewtopic.php?t=41349
+* [ ] https://www.donjondudragon.fr
+-->

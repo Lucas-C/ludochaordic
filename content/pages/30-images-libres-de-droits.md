@@ -911,6 +911,7 @@ Generators that produces character illustrations that have not been placed under
 - [Planet / World Generator @ donjon.bin.sh](https://donjon.bin.sh/world/)
 - [Alien RPG System Generator](https://donjon.bin.sh/alien/system/)
 - [Polygon map generator from Red Blob Games](https://www.redblobgames.com/maps/mapgen2/)
+- [Scallywag!](https://rawgit.com/wlievens/scallywag/master/index.html) : générateur de cartes au trésor
 - [2-Minute Tabletop free maps](https://2minutetabletop.com/product-category/free/) - CC BY-NC 4.0
 
 

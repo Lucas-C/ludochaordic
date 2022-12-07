@@ -5,14 +5,6 @@ Slug: fpdf2-5-2-svg-support-and-borb
 Image: images/2022/04/Ghostscript_Tiger.png
 ---
 
-<!-- Com' réalisée :
-* [x] https://news.ycombinator.com/item?id=31143783
-* [x] https://www.reddit.com/r/programming/comments/ubg1mu/borb_vs_fpdf2_comparing_2_pdf_generation_libs/
-* [x] https://www.reddit.com/r/Python/comments/uasf5r/borb_vs_fpdf2_comparing_2_pdf_generation_libs/
-* [x] https://dev.to/lucasc/fpdf252-svg-support-and-comparison-with-borb-2fip
-* [x] email @jorisschellekens & @gmischler + comment on @torque PR
--->
-
 `fpdf2` is a simple & fast PDF creation library for Python that I have been maintaining since mid-2020.
 
 In this article, I'm going to present some of the new features that landed since [my last post on the subject](hacktoberfest-on-fpdf2.html).
@@ -211,3 +203,11 @@ article hr { margin: 3rem; }
 }
 .uk-article-content > p:nth-child(3) img { margin: auto; }
 </style>
+
+<!-- Com' réalisée :
+* [x] https://news.ycombinator.com/item?id=31143783
+* [x] https://www.reddit.com/r/programming/comments/ubg1mu/borb_vs_fpdf2_comparing_2_pdf_generation_libs/
+* [x] https://www.reddit.com/r/Python/comments/uasf5r/borb_vs_fpdf2_comparing_2_pdf_generation_libs/
+* [x] https://dev.to/lucasc/fpdf252-svg-support-and-comparison-with-borb-2fip
+* [x] email @jorisschellekens & @gmischler + comment on @torque PR
+-->

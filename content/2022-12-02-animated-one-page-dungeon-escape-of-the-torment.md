@@ -1,12 +1,7 @@
 Title: Animated one-page-dungeon : Escape of the Torment
 Date: 2022-12-02 12:50
-Tags: lang:en, jdr, gratuit, aide-de-jeu, one-page-dungeon, blades-in-the-dark, jeux, python, source-code, pdf, fpdf2, prog
+Tags: lang:en, jdr, gratuit, aide-de-jeu, one-page-dungeon, blades-in-the-dark, jeux, python, source-code, libre-software, open-source, pdf, libre-office, fpdf2, prog
 ---
-<!-- Com'
-* [ ] https://www.casusno.fr
-* [ ] email to dm@mooselich.com
-* [ ] Reddit ?
--->
 
 Last week, while translating John Harper's micro-TTRPG [World of Dungeons: Turbo Breakers](world-of-dungeons-turbo-breakers.html), I discovered the wonderful world of **one page dungeons**,
 starting with Michael Prescott splendid production at [trilemma.com](http://blog.trilemma.com/p/aventures-en-francais.html)
@@ -58,3 +53,12 @@ but it can be a handy, simple alternative, and very fun to build for Python code
   .side-by-side > * { margin: 0 2rem; }
 }
 </style>
+
+<!-- Com'
+* [x] email to dm@mooselich.com
+* [x] https://www.casusno.fr/viewtopic.php?t=41384
+* [x] Reddit:
+    + https://www.reddit.com/r/onePageDungeon/comments/zakoa1/animated_onepagedungeon_escape_of_the_torment/
+    + https://www.reddit.com/r/osr/comments/zakr9b/i_made_an_animated_pdf_out_of_brett_simison/
+    + https://www.reddit.com/r/battlemaps/comments/zasgjs/i_made_an_animated_pdf_out_of_brett_simison/
+-->
