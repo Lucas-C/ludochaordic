@@ -562,6 +562,20 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Storm the Albatross Gijinka](https://www.deviantart.com/svanetianrose/art/Storm-the-Albatross-Gijinka-694492179)
     * [Knuckles the Echidna Gijinka](https://www.deviantart.com/svanetianrose/art/Knuckles-the-Echidna-Gijinka-687258989)
     * [Wave the Swallow Gijinka](https://www.deviantart.com/svanetianrose/art/Wave-the-Swallow-Gijinka-693952531)
+- [Metzae](https://www.deviantart.com/metzae/gallery) - Many CC BY-NC-SA with watermark
+> Multimedia artist in Dallas, Texas
+    * [Nightmare Fuel](https://www.deviantart.com/metzae/art/Nightmare-Fuel-925185852)
+    * [Aeronaut](https://www.deviantart.com/metzae/art/Aeronaut-927610938)
+    * [The Kingdom's Greatest Defender](https://www.deviantart.com/metzae/art/The-Kingdom-s-Greatest-Defender-927773212)
+    * [Gorlok the Soul Crusher](https://www.deviantart.com/metzae/art/Gorlok-the-Soul-Crusher-929125994)
+- [ErstwhileSky](https://www.deviantart.com/erstwhilesky/gallery) : Some CC BY-NC-SA pieces
+> Hobbyist digital artist from the USA
+    * [Samuel Gordon](https://www.deviantart.com/erstwhilesky/art/Samuel-Gordon-683140507) : CC BY-NC
+    * [The Gentleman Scientist](https://www.deviantart.com/erstwhilesky/art/The-Gentleman-Scientist-582338401)
+    * [Aaron Hotchner](https://www.deviantart.com/erstwhilesky/art/Aaron-Hotchner-369252263)
+    * [MacCready](https://www.deviantart.com/erstwhilesky/art/MacCready-611535372) : CC BY-NC
+    * [Piper](https://www.deviantart.com/erstwhilesky/art/Piper-611423589) : CC BY-NC
+    * [The Puppet Master](https://www.deviantart.com/erstwhilesky/art/The-Puppet-Master-582340319)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 
 ## Pixabay artists

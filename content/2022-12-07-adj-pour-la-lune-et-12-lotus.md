@@ -27,6 +27,6 @@ Cette AdJ sera aussi disponible sur la vénérable et merveilleuse [Scénarioth�
 
 <!-- Com'
 * [x] https://www.scenariotheque.org
-* [ ] Discord Chibi
+* [x] Discord Chibi
 * [ ] https://www.casusno.fr
 -->

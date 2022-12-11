@@ -70,6 +70,7 @@ Le [Compendium 2022](https://spielknights.gumroad.com/l/2022opdc) regorge par ex
 
 Je vous recommande également ces autres sites pour vous fournir des idées de donjons :
 
+- [The Riven Tower par Aaron Potter](https://drive.google.com/file/d/1OfubXUEbkBAH0cP49pTThLsyyOlcuVMO/view), gagnant de l'OPDC 2020
 - quelques donjons du fantastique Michael Prescott traduits en français sur son site [trilemma.com](http://blog.trilemma.com/p/aventures-en-francais.html)
 - les [cartes isométriques](https://www.elventower.com/isometric-maps/) et les [one page dungeons](https://www.elventower.com/one-page-dungeons/) de Derek "ElvenTower" Ruiz
 - le générateur [One Page Dungeon de watabou](https://watabou.itch.io/one-page-dungeon)

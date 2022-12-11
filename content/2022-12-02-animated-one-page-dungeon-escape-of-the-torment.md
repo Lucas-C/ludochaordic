@@ -17,10 +17,10 @@ With my experience on building "animated" PDFs (on [Undying Dusk](undying-dusk-a
       <figcaption>PDF (146 pages - 6.76 MB)</figcaption>
     </figure>
   </a>
-  <a href="images/2022/08/EscapeOfTheTorment-PythonCodeAndAssets.zip">
+  <a href="images/2022/11/EscapeOfTheTorment-PythonCodeAndAssets.zip">
     <figure>
       <img alt="ZIP archive thumbnail" src="images/2022/11/EscapeOfTheTorment-zip-thumbnail.jpg">
-      <figcaption>ZIP archive of the Python source code &amp; assets (2 pages - 160 Ko)</figcaption>
+      <figcaption>ZIP archive of the Python source code &amp; assets (7.73 MB)</figcaption>
     </figure>
   </a>
 </div>
