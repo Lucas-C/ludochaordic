@@ -1,6 +1,6 @@
 Title: World of Dungeons : Turbo Breakers
 Date: 2022-11-24 19:00
-Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, fantasy, dungeon-crawler, one-page-dungeon, pbta, traduction, aide-de-jeu, john-harper, jeux, @Anna, @Olivier, @Aurelien, @Andree
+Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, fantasy, dungeon-crawler, one-page-dungeon, pbta, traduction, isometric, aide-de-jeu, john-harper, jeux, @Anna, @Olivier, @Aurelien, @Andree
 ---
 
 En 2016, financé par Patreon, [John Harper](tag/john-harper.html) a sorti une courte suite à son jeu _World of Dungeons_ de 2012 : [World of Dungeons : Turbo Breakers](https://johnharper.itch.io/breakers).
@@ -73,7 +73,8 @@ Je vous recommande également ces autres sites pour vous fournir des idées de d
 - [The Riven Tower par Aaron Potter](https://drive.google.com/file/d/1OfubXUEbkBAH0cP49pTThLsyyOlcuVMO/view), gagnant de l'OPDC 2020
 - quelques donjons du fantastique Michael Prescott traduits en français sur son site [trilemma.com](http://blog.trilemma.com/p/aventures-en-francais.html)
 - les [cartes isométriques](https://www.elventower.com/isometric-maps/) et les [one page dungeons](https://www.elventower.com/one-page-dungeons/) de Derek "ElvenTower" Ruiz
-- le générateur [One Page Dungeon de watabou](https://watabou.itch.io/one-page-dungeon)
+- le générateur [One Page Dungeon de watabou](https://duvelmandice.itch.io/tomb-of-the-serpent-kings-handdrawn-iso-map)
+- le scénario "tutoriel" OSR [La Tombe des Rois Serpents](https://www.whidou.fr/la-tombe-des-rois-serpents.html), et sa [carte isométrique](https://watabou.itch.io/one-page-dungeon)
 - une sélection de meilleurs one-page-dungeons : [A Dungeon Master’s Guide to the One-Page Dungeon](https://blackcitadelrpg.com/one-page-dungeon/) (en anglais)
 - un générateur de monstres : [Book of Monsters](https://deep-fold.itch.io/book-of-monsters)
 

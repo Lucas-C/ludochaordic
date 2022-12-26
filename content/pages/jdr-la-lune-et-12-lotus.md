@@ -10,9 +10,6 @@ Ressources :
 * [Page officielle du site du Grümph](http://legrumph.org/Terrier/public/chibi/lledl)
 * [Page du GROG](https://www.legrog.org/jeux/lune-et-douze-lotus/lune-et-douze-lotus-fr)
 * [Page de la Scénariothèque](https://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=556)
-<!--
-* submit La-Lune-et-douze-lotus-Scenario.pdf
--->
 * [Playlist YouTube](https://www.youtube.com/playlist?list=PLLgE-ga3W_kaqirHn0QZxsu6WH685vbY9) : _dungeon synth_ essentiellement
 
 # Principes de la campagne
@@ -26,6 +23,9 @@ Ressources :
 * il s'agit d'un univers de _**Sword & Sorcery**_ :
     + ses héros sont des hommes et des femmes d’action, violents, qui bougent vite et sans se poser beaucoup de questions métaphysiques – en tout cas, jamais avant d’avoir agi
     + ce sont des marginaux, dont les motivations personnelles ne témoignent pas toujours d’un sens moral aigu, mais qui ne restent pas indifférents au monde qui les entoure, même s’ils s’en défendent la plupart du temps
+
+# Artistes
+* [ma-ko](https://www.instagram.com/drivemeawaytroubledheart/)
 
 # Session 1 - mars 2022
 **Lieu** : désert entre le Sarmath et l'Erebe, au nord des Montagnes Blanches

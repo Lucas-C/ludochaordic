@@ -1,6 +1,6 @@
 Title: Another animated dungeon: The Sky-Blind Spire
 Date: 2022-12-12 21:30
-Tags: lang:en, jdr, gratuit, aide-de-jeu, one-page-dungeon, opinion, jeux, python, source-code, libre-software, open-source, pdf, fpdf2, prog
+Tags: lang:en, jdr, gratuit, aide-de-jeu, one-page-dungeon, opinion, jeux, python, source-code, libre-software, open-source, creative-commons, pdf, fpdf2, prog
 ---
 
 Following [last week animated PDF adventure](animated-one-page-dungeon-escape-of-the-torment.html),
@@ -8,7 +8,7 @@ I have been reading a series of one page dungeons...
 And yesterday I had the opportunity to play the best one in my opinion:
 **[The Sky-Blind Spire by Michael Prescott](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html)**.
 
-It has everythng I love on one page: a maze to explore, mysteries to unveil, an environment-based conundrum to solve, random encounters, useful items to loot, and lot of thematic consistency between all of that!
+It has everything I love on one page: a maze to explore, mysteries to unveil, an environment-based conundrum to solve, random encounters, useful items to loot, and lot of thematic consistency between all of that!
 
 I made another clickable PDF for this TTRPG session, that I'm sharing below:
 

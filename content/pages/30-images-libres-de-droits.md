@@ -285,7 +285,12 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Guardian #1](https://www.deviantart.com/thesimplylexi/art/Guardian-1-755343936)
     * [Escaping the madness](https://www.deviantart.com/thesimplylexi/art/Escaping-the-madness-669762771)
     * [American assassin](https://www.deviantart.com/thesimplylexi/art/American-assassin-706189262)
-    * [Sam Fisher](https://www.deviantart.com/thesimplylexi/art/Sam-Fisher-510237938)
+    * [Poldark](https://www.deviantart.com/thesimplylexi/art/Poldark-686876947)
+    * [Face 20](https://www.deviantart.com/thesimplylexi/art/Face-20-643005179)
+    * [#7](https://www.deviantart.com/thesimplylexi/art/7-594550690)
+    * [#8](https://www.deviantart.com/thesimplylexi/art/8-595389474)
+    * [#9](https://www.deviantart.com/thesimplylexi/art/9-595642973)
+    * [#18](https://www.deviantart.com/thesimplylexi/art/Barns-Courtney-642114160)
 - [Santiago Calle _aka_ justsantiago](https://www.deviantart.com/justsantiago/gallery/59086972/monster-girl-challenge) : **some** CC BY-NC-SA
 > Professional illustrator & animator from Bogotá, Colombia - [official website](http://www.liberumdonum.com)
     * Monster Girl Challenge, e.g. those cyber zombies: [Zombie](https://www.deviantart.com/justsantiago/art/Monster-Girl-Challenge-04-Zombie-612775703) & [True monster](https://www.deviantart.com/justsantiago/art/Monster-Girl-Challenge-21-True-Monster-618223884)
@@ -440,10 +445,10 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [army of horror](https://www.deviantart.com/tis1451/art/army-of-horror-876533303) - military vampire, werewolf & creature of Frankestein
     * [the diver and the welder](https://www.deviantart.com/tis1451/art/the-diver-and-the-welder-878497819) - 2 guys with briefcases and strange masks
     * [mk-1](https://www.deviantart.com/tis1451/art/mk-1-874982678) - Frankestein-like green magnetic demon
-    * [red riding hood](https://www.deviantart.com/tis1451/art/red-riding-hood-871967283)
+    * [Little witch](https://www.deviantart.com/tis1451/art/Little-witch-849621219)
     * [King Valve](https://www.deviantart.com/tis1451/art/King-Valve-840443590)
     * [wait for the moment](https://www.deviantart.com/tis1451/art/Am-Ende-des-Lichts-5-5-wait-for-the-moment-866457524) - vampire hunter priest
-    * [cooking beans with thunder](https://www.deviantart.com/tis1451/art/cooking-beans-with-thunder-862785789)
+    * [eel monster](https://www.deviantart.com/tis1451/art/eel-monster-867689972)
     * [Jang san tiger](https://www.deviantart.com/tis1451/art/jang-san-tiger-871776702) - yeti-like
     * [quake doodle 1](https://www.deviantart.com/tis1451/art/quake-doodle-1-897883999) - 3 monsters
     * [sir maggot](https://www.deviantart.com/tis1451/art/sir-maggot-909603822)
@@ -556,8 +561,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Random art 2020 002](https://www.deviantart.com/lukex8a/art/artwork-2020-002-880620209)
 - [sphelon8565](https://www.deviantart.com/sphelon8565/gallery) - CC BY - lots of Sonic characters & Gijinkas
 > UK animation student from Georgia, ambivert lowkey punk.
-    * [Cream the Rabbit](https://www.deviantart.com/svanetianrose/art/Cream-the-Rabbit-591216934)
-    * [Bike Chain Bandit](https://www.deviantart.com/svanetianrose/art/Bike-Chain-Bandit-698150759)
     * [Big the Cat Gijinka](https://www.deviantart.com/svanetianrose/art/Big-the-Cat-Gijinka-688218969)
     * [Storm the Albatross Gijinka](https://www.deviantart.com/svanetianrose/art/Storm-the-Albatross-Gijinka-694492179)
     * [Knuckles the Echidna Gijinka](https://www.deviantart.com/svanetianrose/art/Knuckles-the-Echidna-Gijinka-687258989)
@@ -576,6 +579,11 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [MacCready](https://www.deviantart.com/erstwhilesky/art/MacCready-611535372) : CC BY-NC
     * [Piper](https://www.deviantart.com/erstwhilesky/art/Piper-611423589) : CC BY-NC
     * [The Puppet Master](https://www.deviantart.com/erstwhilesky/art/The-Puppet-Master-582340319)
+- [Luis Alzate _aka_ Demento-Liszt](https://www.deviantart.com/demento-liszt/gallery) : A few CC BY-NC-SA B&W artworks
+> Columbian freelance, traditional and digital illustrator, with a tendency towards horror games and the study of the Tarot.
+    * [Silent Hill 4 Fan Art - Wounded Eileen Galvin](https://www.deviantart.com/demento-liszt/art/Silent-Hill-4-Fan-Art-Wounded-Eileen-Galvin-763349883)
+    * [Hellsing Ultimate Fanart - Integra Hellsing](https://www.deviantart.com/demento-liszt/art/Hellsing-Ultimate-Fanart-Integra-Hellsing-789516159)
+    * [Get Backers Fan Art - Dr. Jackal](https://www.deviantart.com/demento-liszt/art/Get-Backers-Fan-Art-Dr-Jackal-762869273)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 
 ## Pixabay artists

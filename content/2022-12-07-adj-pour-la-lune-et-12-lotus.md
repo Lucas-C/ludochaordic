@@ -1,6 +1,6 @@
 Title: AdJ pour La Lune et 12 Lotus
 Date: 2022-12-07 21:00
-Tags: lang:fr, jdr, gratuit, fantasy, aide-de-jeu, le-grumph, sword-sorcery, scenariotheque, les-marches-de-l-ouest, jeux
+Tags: lang:fr, jdr, gratuit, fantasy, aide-de-jeu, le-grumph, sword-sorcery, scenariotheque, la-lune-et-douze-lotus, les-marches-de-l-ouest, jeux
 ---
 
 Un petit billet rapide pour partager une aide de jeu très basique mais que je crois bien utile
@@ -18,7 +18,7 @@ qui me sera bien utile pour la petite campagne en mode ["les marches de l'ouest"
 <a href="images/lle12l/La-Lune-et-Douze-Lotus-AdJ.pdf">
   <figure>
     <img alt="PDF preview" src="images/2022/12/La-Lune-et-Douze-Lotus-AdJ-pdf-thumb.jpg">
-    <figcaption>Aide de Jeu PDF(2 pages - 2.2 Mo)</figcaption>
+    <figcaption>Aide de Jeu PDF (2 pages - 2.2 Mo)</figcaption>
   </figure>
 </a>
 
