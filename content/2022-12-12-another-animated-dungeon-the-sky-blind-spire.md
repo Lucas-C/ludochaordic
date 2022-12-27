@@ -13,7 +13,7 @@ It has everything I love on one page: a maze to explore, mysteries to unveil, an
 I made another clickable PDF for this TTRPG session, that I'm sharing below:
 
 <div class="side-by-side">
-  <a href="images/2022/12/SkyBlindSpire-clickable.pdf">
+  <a href="images/2022/12/TheSkyBlindSpire-clickable.pdf">
     <figure>
       <img alt="PDF thumbnail preview" src="images/2022/12/the-sky-blind-spire-pdf-preview.jpg">
       <figcaption>PDF (22 pages - 7.19 MB)</figcaption>
