@@ -6,7 +6,7 @@ Tags: lang:fr, jdr, fantasy, gratuit, one-page-dungeon, labyrinthe, opinion, cre
 Comme promis [il y a deux semaines](another-animated-dungeon-the-sky-blind-spire.html),
 voici la traduction du génialissime _one-page-dungeon_ de [Michael Prescott](http://blog.trilemma.com/) :
 
-<a href="images/2022/12/LaTourCielAveugle.pdf">
+<a href="https://lucas-c.itch.io/la-tour-ciel-aveugle">
 <figure>
 <img alt="PDF thumbnail preview" src="images/2022/12/LaTourCielAveugle-thumb.jpg">
 <figcaption>PDF (1 page - 508 Ko)</figcaption>
@@ -40,7 +40,8 @@ J'ai pour cela réalisé quelques ajustements thématiques :
 * j'ai aussi introduit un **basilique** au regard pétrifiant dans la salle 19, et un **mille-visages** dans un miroir d'eau vertical, face à la porte de la salle 21 : lorsque les PJs entrent dans cette pièce, ils peuvent distinguer que leur reflet comporte de fines inscriptions sur les doigts. S'ils approchent leur main du miroir pour les déchiffrer, leur reflet les saisit et tente de les faire basculer de l'autre côté du miroir, dans un monde inversé et cauchemardesque qui les rendra fous.
 
 <!-- Com'
-* [ ] email to Michael Prescott
-* [ ] tlpl
-* [ ] itch.io
+* [x] https://lucas-c.itch.io/la-tour-ciel-aveugle
+* [x] email to Michael Prescott
+* [x] comments on http://blog.trilemma.com/2016/04/the-sky-blind-spire.html & http://blog.trilemma.com/p/aventures-en-francais.html
+* [ ] http://troplongpaslu.fr/proposer-un-jeu-de-role-court/
 -->
