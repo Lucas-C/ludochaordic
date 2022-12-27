@@ -20,13 +20,13 @@ Voici donc le résultat : un condensé en une page de suggestions de lieux, de P
   <a href="https://lucas-c.itch.io/psirun-le-manoir">
     <figure>
       <img alt="PDF preview" src="images/2022/12/PsiRun-LeManoir-pdf-thumb.jpg">
-      <figcaption>Amorce scénaristique (1 page - 3.5 Mo)</figcaption>
+      <figcaption>Amorce scénaristique (lien vers itch.io)</figcaption>
     </figure>
   </a>
   <a href="https://lucas-c.itch.io/psirun-the-manor">
     <figure>
       <img alt="PDF preview" src="images/2022/12/PsiRun-TheManor-pdf-thumb.jpg">
-      <figcaption>Setting primmer - English version (1 page - 3.5 Mo)</figcaption>
+      <figcaption>Setting primmer - English version (lien vers itch.io)</figcaption>
     </figure>
   </a>
 </div>
@@ -48,7 +48,7 @@ Cette AdJ est d'ores et déjà également disponible sur la [Scénariothèque](h
 <!-- Com'
 * [x] https://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=424
 * [x] https://lucas-c.itch.io/psirun-le-manoir
+* [x] https://electric-goat.net/forums/2 & Discord
+* [x] https://lumpley.itch.io/psirun -> https://itch.io/post/7091711
 * [ ] https://www.casusno.fr
-* [ ] https://lumpley.itch.io/psirun
-* [ ] https://electric-goat.net/forums/2
 -->

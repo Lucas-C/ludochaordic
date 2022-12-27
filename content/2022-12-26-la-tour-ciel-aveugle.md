@@ -9,7 +9,7 @@ voici la traduction du génialissime _one-page-dungeon_ de [Michael Prescott](ht
 <a href="https://lucas-c.itch.io/la-tour-ciel-aveugle">
 <figure>
 <img alt="PDF thumbnail preview" src="images/2022/12/LaTourCielAveugle-thumb.jpg">
-<figcaption>PDF (1 page - 508 Ko)</figcaption>
+<figcaption>lien vers itch.io</figcaption>
 </figure>
 </a>
 
