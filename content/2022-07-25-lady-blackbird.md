@@ -1,6 +1,6 @@
 Title: Lady Blackbird
 Date: 2022-07-25 20:00
-Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-harper, damien-rahyll-c, lady-blackbird, hack, @Laetitia, @Simon, @Cedric, jeux
+Tags: lang:fr, jdr, compte-rendu, gratuit, playtest, opinion, steampunk, john-harper, damien-rahyll-c, midjourney, lady-blackbird, hack, @Laetitia, @Simon, @Cedric, jeux
 ---
 
 <figure>

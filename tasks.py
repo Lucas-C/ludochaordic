@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import os
-import shlex
-import shutil
-import sys
-import webbrowser
+import os, shlex, shutil, sys, webbrowser
 
 from invoke import task
 from invoke.main import program
@@ -31,18 +27,18 @@ CONFIG = {
 
 @task
 def clean(c):
-    """Remove generated files"""
+    "Remove generated files"
     if os.path.isdir(CONFIG['deploy_path']):
         shutil.rmtree(CONFIG['deploy_path'])
         os.makedirs(CONFIG['deploy_path'])
 
 @task
 def build(c, only_src_paths=None):  # CLI usage: invoke build --only-src-paths content/01.md,content/02.md
-    """Build local version of site"""
+    "Build local version of site"
     cmd = '-s {settings_base} -o {deploy_path}'.format(**CONFIG)
     if only_src_paths:
         only_out_paths = [src2out(path) for path in only_src_paths.split(',')]
-        cmd += ' -w ' + ','.join(only_out_paths)
+        cmd += ' --write-selected ' + ','.join(only_out_paths)
     print('build task cmd:', cmd)
     pelican_run(cmd)
 
@@ -65,17 +61,17 @@ def src2out(src_file_path):
 
 @task
 def rebuild(c):
-    """`build` with the delete switch"""
+    "`build` with the delete switch"
     pelican_run('-d -s {settings_base}'.format(**CONFIG))
 
 @task
 def regenerate(c):
-    """Automatically regenerate site upon file modification"""
+    "Automatically regenerate site upon file modification"
     pelican_run('-r -s {settings_base}'.format(**CONFIG))
 
 @task
 def serve(c):
-    """Serve site at http://localhost:$PORT/ (default port is 8000)"""
+    "Serve site at http://localhost:$PORT/ (default port is 8000)"
 
     class AddressReuseTCPServer(RootedHTTPServer):
         allow_reuse_address = True
@@ -90,13 +86,13 @@ def serve(c):
 
 @task
 def reserve(c):
-    """`build`, then `serve`"""
+    "`build`, then `serve`"
     build(c)
     serve(c)
 
 @task
 def publish(c):
-    """Build production version of site"""
+    "Build production version of site"
     pelican_run('-s {settings_publish} -o {deploy_path}'.format(**CONFIG))
     with open(CONFIG['deploy_path'] + '/tagcloud.html') as tagcloud_file:
         tagcloud_lines = extract_lines_between(tagcloud_file.readlines(), '<ul class="mg-tagcloud">', '</ul>')
@@ -128,7 +124,7 @@ def insert_after_line(in_lines, target_line_content, add_lines):
 
 @task
 def livereload(c):
-    """Automatically reload browser tab upon file modification."""
+    "Automatically reload browser tab upon file modification."
     from livereload import Server
     build(c)
     server = Server()

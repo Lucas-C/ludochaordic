@@ -26,6 +26,7 @@ Ressources :
 
 # Artistes
 * [ma-ko](https://www.instagram.com/drivemeawaytroubledheart/)
+* [a.shpwright](https://www.deviantart.com/ashpwright/gallery) : [The Red Knyght](https://www.deviantart.com/ashpwright/art/The-Red-Knyght-942511363), [The Blood Bow](https://www.deviantart.com/ashpwright/art/The-Blood-Bow-941891376), [Those Who Were Mistaken for Gods](https://www.deviantart.com/ashpwright/art/Those-Who-Were-Mistaken-for-Gods-940886871), [Gudrun the Snakehead](https://www.deviantart.com/ashpwright/art/Gudrun-the-Snakehead-935691728), [War Horn](https://www.deviantart.com/ashpwright/art/War-Horn-933143524), [The Sword Without](https://www.deviantart.com/ashpwright/art/The-Sword-Without-864799392), [Widow](https://www.deviantart.com/ashpwright/art/Widow-921822872), [The Wind Cutter](https://www.deviantart.com/ashpwright/art/The-Wind-Cutter-916596321)
 
 # Session 1 - mars 2022
 **Lieu** : désert entre le Sarmath et l'Erebe, au nord des Montagnes Blanches

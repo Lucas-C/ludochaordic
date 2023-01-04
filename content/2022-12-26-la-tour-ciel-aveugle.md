@@ -1,6 +1,6 @@
 Title: La Tour Ciel-Aveugle
 Date: 2022-12-26 23:55
-Tags: lang:fr, jdr, fantasy, gratuit, one-page-dungeon, labyrinthe, opinion, creative-commons, la-lune-et-douze-lotus, traduction, pdf, jeux, @Elliot, @Aurelien, @Laure, @Andree
+Tags: lang:fr, jdr, fantasy, gratuit, one-page-dungeon, labyrinthe, opinion, creative-commons, dungeon-crawler, la-lune-et-douze-lotus, traduction, pdf, jeux, @Elliot, @Aurelien, @Laure, @Andree
 ---
 
 Comme promis [il y a deux semaines](another-animated-dungeon-the-sky-blind-spire.html),

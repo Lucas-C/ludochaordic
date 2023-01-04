@@ -11,7 +11,7 @@ logging.getLogger('tornado.access').setLevel(logging.WARN)  # avoids verbose HTT
 # (TODO : PR to Pelican to allow this to be easily configured)
 if logging.root.handlers:  # handlers are only set the 2nd time this file is evaluated by Pelican
     formatter = logging.root.handlers[0].formatter
-    formatter._fmt = formatter._style._fmt = "%(asctime)s [%(module)s] %(levelname)s %(message)s"
+    formatter._fmt = formatter._style._fmt = "%(asctime)s [%(name)s] %(levelname)s %(message)s"
 
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'

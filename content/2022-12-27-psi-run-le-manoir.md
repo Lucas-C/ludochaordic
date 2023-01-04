@@ -48,7 +48,8 @@ Cette AdJ est d'ores et déjà également disponible sur la [Scénariothèque](h
 <!-- Com'
 * [x] https://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=424
 * [x] https://lucas-c.itch.io/psirun-le-manoir
-* [x] https://electric-goat.net/forums/2 & Discord
+* [x] https://electric-goat.net/forums/2
+* [x] https://discord.com/channels/805515399260405770/805515651493920778/1057093087471620167
 * [x] https://lumpley.itch.io/psirun -> https://itch.io/post/7091711
-* [ ] https://www.casusno.fr
+* [x] https://www.casusno.fr/viewtopic.php?p=2134040#p2134040
 -->
