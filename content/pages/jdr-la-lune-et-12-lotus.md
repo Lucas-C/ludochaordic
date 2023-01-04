@@ -14,17 +14,18 @@ Ressources :
 
 # Principes de la campagne
 * pas de table régulière : chaque partie peut avoir des **joueurs différents**, conservant leur même personnage (façon [_les marches de l'ouest_](https://www.cestpasdujdr.fr/les-marches-de-louest/))
-* jeu **bac à sable **: pas d’intrigue linéaire, les joueurs décidaient où aller et quoi faire
+* jeu **bac à sable** : pas d’intrigue linéaire, les joueurs décidaient où aller et quoi faire
 * aux joueurs de prendre des **notes**, le MJ ne servira pas de mémoire de substitution
 * le monde est **hostile** : des choix mal avisés peuvent mener à la **mort** en un instant - la retraite est toujours une option
-* la **magie** existe, elle vient de la **lune**, et elle corrompt l’esprit et le corps.  Il existe des objets **enchantés** lors de rituels par le sang et la lune.
+* la **magie** existe, elle vient de la **lune**, et elle corrompt l’esprit et le corps.
+  Il existe des objets **enchantés** lors de rituels par le sang et la lune.
   Ils ont une histoire, servent parfois les dieux, et le employer a parfois un prix.
 * le MJ et le système encouragent le _**problem solving**_ pour contourner les obstacles, plutôt que de lancer les dés
 * il s'agit d'un univers de _**Sword & Sorcery**_ :
     + ses héros sont des hommes et des femmes d’action, violents, qui bougent vite et sans se poser beaucoup de questions métaphysiques – en tout cas, jamais avant d’avoir agi
     + ce sont des marginaux, dont les motivations personnelles ne témoignent pas toujours d’un sens moral aigu, mais qui ne restent pas indifférents au monde qui les entoure, même s’ils s’en défendent la plupart du temps
 
-# Artistes
+# Illustrateurs inspirants
 * [ma-ko](https://www.instagram.com/drivemeawaytroubledheart/)
 * [a.shpwright](https://www.deviantart.com/ashpwright/gallery) : [The Red Knyght](https://www.deviantart.com/ashpwright/art/The-Red-Knyght-942511363), [The Blood Bow](https://www.deviantart.com/ashpwright/art/The-Blood-Bow-941891376), [Those Who Were Mistaken for Gods](https://www.deviantart.com/ashpwright/art/Those-Who-Were-Mistaken-for-Gods-940886871), [Gudrun the Snakehead](https://www.deviantart.com/ashpwright/art/Gudrun-the-Snakehead-935691728), [War Horn](https://www.deviantart.com/ashpwright/art/War-Horn-933143524), [The Sword Without](https://www.deviantart.com/ashpwright/art/The-Sword-Without-864799392), [Widow](https://www.deviantart.com/ashpwright/art/Widow-921822872), [The Wind Cutter](https://www.deviantart.com/ashpwright/art/The-Wind-Cutter-916596321)
 
@@ -67,7 +68,8 @@ PNJs rencontrés :
 
 * **Tonris** : "marchand" shamarite, roublard mais couard
 <!--
-* **Ricalu** : 
+* **Ricalu** : sorcier (maîtrise : instinct, vision, marque de sang, animation des morts) à l'origine du sort de ciel-aveugle.
+               A attaqué les PJs en étant invisible, en leur lançant une boule de feu.
 -->
 
 **Récap'** :

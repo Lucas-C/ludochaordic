@@ -23,7 +23,7 @@ qui me sera bien utile pour la petite campagne en mode ["les marches de l'ouest"
 </a>
 
 Cette AdJ sera aussi disponible sur la vénérable et merveilleuse [Scénariothèque](https://www.scenariotheque.org) 🐲
-[![](images/2022/12/scenariotheque-logo.png)](https://www.scenariotheque.org)
+[![Logo de la Scénariothèque](images/2022/12/scenariotheque-logo.png)](https://www.scenariotheque.org)
 
 <!-- Com'
 * [x] https://www.scenariotheque.org

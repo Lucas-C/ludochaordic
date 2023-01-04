@@ -32,7 +32,7 @@ Voici donc le résultat : un condensé en une page de suggestions de lieux, de P
 </div>
 
 Cette AdJ est d'ores et déjà également disponible sur la [Scénariothèque](https://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=424) 🐲
-[![](images/2022/12/scenariotheque-logo.png)](https://www.scenariotheque.org)
+[![Logo de la Scénariothèque](images/2022/12/scenariotheque-logo.png)](https://www.scenariotheque.org)
 
 <style>
 @media (min-width:768px) {
