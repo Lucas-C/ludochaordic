@@ -1184,6 +1184,11 @@ Maps:
 * Dragon Ghost: https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
 * Tangle Town: http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
 * WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
+* The Bridge District: https://i.imgur.com/LmQfBdl.jpeg
+* Les égouts :
+    + https://guillaumetavernierblog.wordpress.com/2017/04/17/87/
+    + https://guillaumetavernierblog.wordpress.com/2017/04/17/86/
+    + https://guillaumetavernierblog.wordpress.com/2017/04/17/80/
 
 Énigme à tiroirs des tatouages d'Ethnos-Lodius:
 1. Écrit en Hadrathi (iruvien) de manière "stylisé" :

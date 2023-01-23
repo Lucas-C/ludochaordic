@@ -48,9 +48,10 @@ along with advices on how to use it with [La Lune et Douze Lotus](http://legrump
 </style>
 
 <!-- Com'
-* [ ] email to Michael Prescott
+* [x] email to Michael Prescott
 * [ ] Reddit:
     + https://www.reddit.com/r/onePageDungeon/
+      https://www.reddit.com/r/onePageDungeon/comments/zakoa1/animated_onepagedungeon_escape_of_the_torment/
     + https://www.reddit.com/r/osr/
     + https://www.reddit.com/r/battlemaps/
 -->

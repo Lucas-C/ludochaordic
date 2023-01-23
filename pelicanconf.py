@@ -155,13 +155,15 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('Rhizome.org', 'https://anthology.rhizome.org'),
          ("Du Monde Dans l'Objectif", 'https://www.dumondedanslobjectif.com'),
          ("Galerie d'Elliot Jolivet aka Tenseï", 'https://illutensei.com'),
-         ("Galerie d'Elodie Olivier", 'https://elodie-olivier.com'),)
+         ("Galerie d'Elodie Olivier", 'https://elodie-olivier.com'),
+         ("Les bocaux-mondes de Laure Coignard", 'https://www.instagram.com/b.o.k.a_l/'),
          # ('Steam Hidden Gems', 'https://www.canardpc.com/cat%C3%A9gorie/jeu-video/cabinet-de-curiosites/'),
          # ('Le Cabinet de Curiosités de CanardPC', 'https://steam250.com/hidden_gems'),
          # ('Fenêtre sur cour', 'https://www.arteradio.com/emission/fenetre_sur_cour'),
          # ('John Carmack', 'https://twitter.com/id_aa_carmack/'),
          # ('Jane McGonigal', 'https://twitter.com/avantgame'),
          # ('Antoine Bauza', 'https://twitter.com/Toinito'),
+)
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('github', 'https://github.com/Lucas-C'),
