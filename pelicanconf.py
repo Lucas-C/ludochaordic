@@ -41,6 +41,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2023-01-25', 'img_url': 'images/readings/la-naissance-en-bd.jpg', 'description': "La Naissance en BD - Lucile Gomez(BD)"},
     {'date': u'2022-12-10', 'img_url': 'images/readings/Considerations-sur-les-fleches-de-lamour.jpg', 'description': "Considérations sur les flèches de l’amour Broché – Ibn al Rabin (BD)"},
     {'date': u'2022-11-15', 'img_url': 'images/readings/jusquici-tout-allait-bien.jpg', 'description': "Jusqu'ici tout allait bien - Ersin Karabulut (BD)"},
     {'date': u'2022-10-09', 'img_url': 'images/readings/juliette.jpg', 'description': "Juliette - Camille Jourdy (BD)"},
