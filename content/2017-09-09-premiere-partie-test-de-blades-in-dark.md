@@ -38,7 +38,7 @@ Voici un petit compte-rendu de notre première partie d'il y a quelques semaines
 
 (pour la bande son: [Dishonored 2 OST](https://www.youtube.com/watch?v=pxKq0eQaSk0))
 
-Tout commence par une mission assez simple pour le gang: s'infiltrer dans sur un navire de la flotte impériale,
+Tout commence par une mission assez simple pour le gang: s'infiltrer sur un navire de la flotte impériale,
 afin d'y dérober un très vieux et précieux journal de bord, détaillant les routes maritimes empruntées par les léviathans.
 
 <figure role="group">

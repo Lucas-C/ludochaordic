@@ -6,6 +6,10 @@
 The [pelican-plugins](https://github.com/getpelican/pelican-plugins)
 repositoriy need to be present in the parent directory, under this name.
 
+In cass of `[pelican] CRITICAL OSError: [Errno 18] Invalid cross-device link` under WSL:
+
+    export TMPDIR=/c/Temp
+
 
 ## License
 

@@ -3,9 +3,9 @@ Date: 2021-12-29 23:30
 Tags: lang:fr, jdr, sombre, one-shot, playtest, opinion, compte-rendu, horror, scenario, johan-scipion, julien-death-ambre-de-monte, mecaniques-de-jeu, mise-en-page, @Aurelien, @Michael, @Matt, @Kevin, jeux
 ---
 <!-- Com'
-* https://www.terresetranges.net/forums/viewtopic.php?pid=20266#p20266
-* https://www.terresetranges.net/forums/viewtopic.php?pid=20267#p20267
-* PM à Axel sur FB JeudiJDR
+* [x] https://www.terresetranges.net/forums/viewtopic.php?pid=20266#p20266
+* [x] https://www.terresetranges.net/forums/viewtopic.php?pid=20267#p20267
+* [x] PM à Axel sur FB JeudiJDR
 -->
 
 > **Sombre : la peur comme au cinéma** est un jeu de rôle d’horreur contemporain. Il met en scène des antihéros qui essaient de survivre dans un monde particulièrement violent et hostile. L’univers de jeu proposé est celui des films d’horreur, soit un monde contemporain particulièrement dur où fous dangereux et maniaques du découpage de viande humaine sont légion.

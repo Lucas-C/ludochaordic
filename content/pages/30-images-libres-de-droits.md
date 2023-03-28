@@ -95,6 +95,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [The frozen spire](https://www.deviantart.com/themefinland/art/The-frozen-spire-commission-904236586)
     * [The veiled Weald](https://www.deviantart.com/themefinland/art/The-veiled-Weald-708896875)
     * [Kiwi knight](https://www.deviantart.com/themefinland/art/Kiwi-knight-915768988)
+    * [Tears of Valki](https://www.deviantart.com/themefinland/art/Tears-of-Valki-945986297)
+    * [Skull Hollow](https://www.deviantart.com/themefinland/art/Skull-hollow-945986026)
+    * [Virus Takeover](https://www.deviantart.com/themefinland/art/Virus-takeover-kofi-946772301)
 - [Ramirez de Souza _aka_ Halycon450](https://www.deviantart.com/halycon450/gallery/) CC BY-NC-SA : >700 illustrations, Shadowrun, DOTA, Monster Hunter, Dark Souls dark fantasy, Shadowrun, some sci-fi characters & ships, swordsmen, Huntsman + 2 mouse characters
 > An amazing “hobbyist” from Germany
     * [Shadowrun Elf Decker](https://www.deviantart.com/halycon450/art/Shadowrun-Elf-Decker-607928463)
@@ -115,9 +118,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
 - [Dimitry Popov _aka_ JimHatama](https://www.google.com/search?tbm=isch&q=site%3Awww.deviantart.com%2Fjimhatama%2F+%22creative%2Bcommons%22+-%22No%2BDerivative%22) **some** CC BY-NC-SA - sci-fi mostly, medfan a bit
 > Concept artist from Russia
     * [winter flight](https://www.deviantart.com/jimhatama/art/winter-flight-281153021) : spaceship above  city, snowing
-    * [Escape Pod](https://www.deviantart.com/jimhatama/art/Escape-pod-149527590)
-    * [abandoned city](https://www.deviantart.com/jimhatama/art/abandoned-city-150926684)
-    * [Industrial](https://www.deviantart.com/jimhatama/art/Industrial-137207987)
     * [sea monster](https://www.deviantart.com/jimhatama/art/sea-monster-174612892)
 - [Karbik](https://www.deviantart.com/karbik/gallery/) **some** CC BY-NC-SA dragons, furries & sci-fi
 > Karbik creates THINGS such as paintings of sci-fi creatures over grand landscapes, feline shenanigans and fuzzy augmented lynxes with a hint of whimsy!
@@ -263,6 +263,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [The Crowned](https://www.deviantart.com/sunnyclockwork/art/The-Crowned-871782167)
     * [Devourer and Prophet (color)](https://www.deviantart.com/sunnyclockwork/art/Devourer-and-Prophet-873713126)
     * [SCP-173 Concept](https://www.deviantart.com/sunnyclockwork/art/SCP-173-Concept-907112072)
+    * [SCP-7103](https://www.deviantart.com/sunnyclockwork/art/SCP-7103-951086671)
 - [DocWendigo / WendiBones](https://www.deviantart.com/docwendigo/gallery/) : CC BY-NC - handsome men portraits
 > Italian digital artist, editor, writer [patreon](https://www.patreon.com/Wendigo)
     * [Dream Daddies](https://www.deviantart.com/docwendigo/art/Dream-Daddies-700446513)
@@ -452,6 +453,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Jang san tiger](https://www.deviantart.com/tis1451/art/jang-san-tiger-871776702) - yeti-like
     * [quake doodle 1](https://www.deviantart.com/tis1451/art/quake-doodle-1-897883999) - 3 monsters
     * [sir maggot](https://www.deviantart.com/tis1451/art/sir-maggot-909603822)
+    * [gray skin](https://www.deviantart.com/tis1451/art/gray-skin-944829410)
 - [Linus Pettersson](https://www.deviantart.com/ubergank/gallery) : **some** CC BY-SA - fantasy, color
 > Professional digital artist and aspiring Industrial Designer from Linköping, Sweden
     * [Dark knight](https://www.deviantart.com/ubergank/art/The-Penitent-One-815448320)

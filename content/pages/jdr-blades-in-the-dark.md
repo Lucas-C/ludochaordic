@@ -1,5 +1,5 @@
 Title: Campagne de JdR Blades In The Dark
-Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, jeux, @Simon, @Elliot, @ThomasG
+Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, jeux, @Simon, @Elliot, @ThomasG, @Matt, @Aurelien
 Slug: jdr-blades-in-the-dark
 Status: hidden
 ---
@@ -79,7 +79,10 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-6)
 - [Session 10 - 28 mai 2022](pages/jdr-blades-in-the-dark.html#session-10-28-mai-2022)
     * [Intro](pages/jdr-blades-in-the-dark.html#intro)
+    * [Session de jeu](pages/jdr-blades-in-the-dark.html#session-de-jeu)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-7)
+- [Session 11 - 25 février 2023](pages/jdr-blades-in-the-dark.html#session-11-25-f-vrier-202")
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-8)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -743,7 +746,7 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 
 La partie débute par le rapport de l'espion **Valeris**, qui apprend au gang du Harpon de nombreuses informations sur le gang de l'Œil Blanc :
 
-- le penchant pour **Baszos Baz pour le culte d'aciens dieux** et ses arrangements avec **l'ordre du Cercle de la Flamme**;
+- le penchant pour **Baszos Baz pour le culte d'anciens dieux** et ses arrangements avec **l'ordre du Cercle de la Flamme**;
 - le matériel dont ils disposent : bombes incendiaires, fourgonnette, armes à arc électrique...
 - leurs troupes : une trentaine de _thugs_, dont une grande part de mercennaires, une escouade d'experts en infiltration,
   **Les Cendreux**, et 2 lieutenants versés dans les arcanes
@@ -893,7 +896,7 @@ Le gang prend également le temps de régler son compte au traître **Conway** :
 il est piégé par Justinia dans une ruelle, puis questionné et torturé dans les caves de la Goule Fendue.
 Le gang au complet consacre alors la soirée à célébrer les récents succès à l'auberge.
 
-Eric s'attele à explorer les égoûts afin de trouver le lieu idéal pour établir une planque secondaire pour la gang.
+Eric s'attele à explorer les égoûts afin de trouver le lieu idéal pour établir une planque secondaire pour le gang.
 Il jette son dévolu sur une citerne vide située juste sous un poste de _Bluecoats_, et commence à creuser la paroi pour y créer une ouverture.
 
 Au lever du jour, **Mylera Klev** de l'Écharpe rouge vient en personne au galion solliciter l'aide des PJs :
@@ -948,9 +951,9 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
 ### Intro
 
 _Cette intro s'est révélée être un flash forward, durant laquelle j'ai distribué aux joueurs au fur et à mesure
-quelques messages indiquant ce que devait dire ou faire leurs personnages, correspondant aux citations ci-dessous._
+quelques messages indiquant ce que devaient dire ou faire leurs personnages, correspondant aux citations ci-dessous._
 
-Elaria, Eric et Lodius sont emprisonnés à IronHook, enchaînés 2 par 2 avec un 4<sup>e</sup> laron, **Mist**,
+Elaria, Eric et Lodius sont emprisonnés à IronHook, enchaînés deux par deux avec un 4<sup>e</sup> laron, **Mist**,
 qu'ils savent être membre du gang (même si les joueurs ne l'ont jamais encore côtoyé).
 Ils sont réveillés par des tirs de canon. Dans le ciel, il ne reste qu'UN FRAGMENT DE SOLEIL !
 À l'extérieur, ils peuvent appercevoir la falaise, et au loin une terrible bataille navale n'incluant pas que des bateaux...
@@ -963,7 +966,7 @@ Des tirs de boulets de canon commencent à démolir le bâtiment.
 
 Dans la prison, une foule frénétique monte les étages dans leur direction.
 Ils sauvent in extremis **Aldo** qui leur ramène leur matériel.
-Josef leur apprend que Justinia les attend avec une barque en bas de la falaise, au niveau d'une entreé d'égoût.
+Josef leur apprend que Justinia les attend avec une barque en bas de la falaise, au niveau d'une entrée d'égoût.
 Mais comment la rejoindre avec cette horde possédée qui remonte vers eux ?!
 
 > (Mist) : "PLUS LE CHOIX, IL FAUT Y ALLER !"
@@ -1015,7 +1018,7 @@ Ils l'aperçoivent sur un toit, au loin dans la ville, se battre contre ses assa
 
 > (Ethnos) "Jamais le Harpon ne se rendra !"
 
-_Courte éclipse._
+_Courte ellipse._
 Valeris a mené le gang jusqu'à une église dans Six Towers, où une procession conduit Lodius enchaîné à l'intérieur...
 Le gang s'introduit par les toits dans la toiture de l'église, où ils observent quelques instants la cérémonie avant d'intervenir...
 Lodius est attaché à un autel pour participer à un rituel du Cercle de la Flamme. Le logbook trône sur un pupitre.
@@ -1026,7 +1029,7 @@ Mist, Eric & Elaria arrivent à le vaincre, en lui plongeant sa propre dague dan
 mais ils ne peuvent empêcher le rituel d'avoir lieu
 et le mur du fond de l'Eglise explose, révêlant se qui ressemble à l'enfer...
 
-> (Elaria) "c'est la fin Mist, active la croix, sauves-toi, empêches ceci de se produire !"
+> (Elaria) "C'est la fin Mist, active la croix, sauves-toi, empêches ceci de se produire !"
 
 ### Session de jeu
 
@@ -1045,7 +1048,7 @@ tandis qu'Elaria & Lodius rendent visite à Mylera pour lui expliquer qu'ils n'o
 et que le Harpon se propose de l'exfiltrer durant son trajet à IronHook le lendemain.
 
 Le gang passe la nuit à peaufiner un plan... Pour finalement improviser sur place le moment venu !
-Ils suivent le convoi transportant Oru au départ de la caserne, constitué d'un Échassier, d'une fourgonette blindée
+Ils suivent le convoi transportant Oru au départ de la caserne, constitué d'un **Échassier**, d'une fourgonette blindée
 et d'une vingtaine d'hommes, mené par **Darmot**.
 
 Juste avant d'arriver au pont, Eric tend un filin qu'il a camouflé là pour faire chuter l'Échassier,
@@ -1090,9 +1093,8 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
     * [Thief (4) - Alternate/Extended Trailer](https://www.youtube.com/watch?v=A3aD67_aZW0)
     + [Thief // Ex Guru - Hunt](https://www.youtube.com/watch?v=Q1TdWPypGF0)
 
-<!--
 
-## Session 11 - ?
+## Session 11 - 25 février 2023
 
 <div class="side-by-side">
   <img alt="" src="https://i.redd.it/kx36ukt4ugg91.png">
@@ -1100,22 +1102,36 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
   <img alt="" src="https://i.redd.it/3mo38kczugg91.png">
 </div>
 
+Le gang se résigne à abandonner leur QG au galion, et trouve promptement une solution de remplacement :
+ils ciblent l'entreprise de transport Gruber & Fils, résident sur leur territoire, et en difficultés financières selon la rumeur... Josef & Lodius décident
+
 ### Ressources
 - ambiance musicale :
     + [Embers and Spirits - 3:23 @YouTube](https://www.youtube.com/watch?v=aXePNAotteQ)
-    + [The River Dusk - 1:13 @YouTube](https://www.youtube.com/watch?v=C4XXWuVaCyg) & [Rooftop Chase - 2:30 @YouTube](https://www.youtube.com/watch?v=3YP1pGDFqAA) by Ted Bushman
+    + [The River Dusk - 1:13 @YouTube](https://www.youtube.com/watch?v=C4XXWuVaCyg) & [Rooftop Chase - 2:30 @YouTube](https://www.youtube.com/watch?v=3YP1pGDFqAA) - Ted Bushman
+    + [Tense Negotiations | D&D/TTRPG Music | 1 Hour @YouTube](https://www.youtube.com/watch?v=RPkHu8M_U4c)
+    + playlist YouTube : [.Blades in The Dark - Main Soundtrack](https://www.youtube.com/playlist?list=PL-DPRgj_AsnOK9l3PgmOfho2aWuTT9IS2) - FrozenCovein
 * clips vidéos :
     + [Blades in the Dark Title Animation @YouTube](https://www.youtube.com/watch?v=eoxIyivFJQI)
     + [Blades in the Dark: atmosphere @YouTube](https://www.youtube.com/watch?v=nxXsWB1q7BE)
     + [Widows | Blades in the Dark Trailer @YouTube](https://www.youtube.com/watch?v=HMnxSj9R6LY)
+    + [Fuite par dessus les toits (clip issu de Thief 4) @YouTube](https://youtu.be/cHF-jZfe1G0?t=2307)
 - aides de jeu :
     + [A Blades in the Dark mat for downtime stuff](https://www.reddit.com/r/bladesinthedark/comments/v7hlcy/a_blades_in_the_dark_mat_for_downtime_stuff/)
     + [BitD Action Roll printable 'playmat'](https://www.reddit.com/r/bladesinthedark/comments/v3wc05/bitd_action_roll_printable_playmat_v2/)
+    + [Header Images for Duskwall Districts](https://www.reddit.com/r/bladesinthedark/comments/nezxjh/header_images_for_duskwall_districts/)
 
 <!-- Idées :
 
-* demander à Thomas ce qu'il kifferait dans la campagne (car pas très impliqué dans la dernière partie)
+* demander à Thomas ce qu'il kifferait dans la campagne (car pas très impliqué dans la session n°10)
 * introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente
+
+* sujets immédiats à traiter:
+    + Bell leur propose un coup (Gaddoc Rail) mais va tenter de les doubler / diminuer leurs forces
+    + Raffello (& son démon invisible) veut se venger
+    + comptabilité de Gruber & Fils : dettes à régler à Scurlock & Lord Mora (cercle de la Flamme)
+    + Scurlock
+
 * huis clos ?
 * logbook = game changer, va modifier équilibre des forces de la ville...
   -> peut permettre la libération des enfants de Setarra et/ou le retour de Kotar (Cercle de la Flamme)
@@ -1126,6 +1142,9 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
 ALT: campaign END -> they become COPS !
 * gimmick pour PNJs: renifle tout, les gens, les lieux
+
+* clips vidéos :
+    + [Vision de la Tour de l'Horloge désertée](https://youtu.be/cHF-jZfe1G0?t=685)
 
 * ToPrint: nouvelle illustration Lodius d'Elliot EN COULEUR + poster WANTED Eric
   + https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
@@ -1141,19 +1160,14 @@ ALT: campaign END -> they become COPS !
 * make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
-* clips vidéos :
-    + [Vision de la Tour de l'Horloge désertée](https://youtu.be/cHF-jZfe1G0?t=685)
-    + [Course poursuite / fuite à travers les toits](https://youtu.be/cHF-jZfe1G0?t=2307)
-
-TO MENTION:
+Ressources TO MENTION:
 + [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
 + [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
 + [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
 + (to read) [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
-+ [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco,
-1 page PDF
-+[Favorite session zero questions](https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/)
++ [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco, 1 page PDF
++ [Favorite session zero questions](https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/)
 + Scores:
   * [Scurlock Manor](https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0)
   * [Doskvol Riots of 847](https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0)
@@ -1165,8 +1179,6 @@ TO MENTION:
 > But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
 
 Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view
-
-Visuals: https://www.reddit.com/r/bladesinthedark/comments/nezxjh/header_images_for_duskwall_districts/
 
 Demons & creatures in the Ghost Field:
 * https://www.deviantart.com/carpet-crawler/art/Rooster-Knight-Splash-Animation-876402753
