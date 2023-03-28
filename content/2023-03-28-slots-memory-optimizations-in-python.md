@@ -21,7 +21,9 @@ mostly as a reminder to myself:
 ```python
 #!/usr/bin/env python
 import os, sys
+from collections import namedtuple
 from dataclasses import dataclass
+from typing import NamedTuple
 
 def get_process_rss():  # Similar to: psutil.Process().memory_info().rss / 1024 / 1024
     try:
@@ -57,6 +59,13 @@ class D:
     y: int
     z: int
 
+E = namedtuple('E', ('x', 'y', 'z'))
+
+class F(NamedTuple):
+    x: int
+    y: int
+    z: int
+
 Class = locals()[sys.argv[1].upper()]
 l = []
 for _ in range(100000):
@@ -74,24 +83,33 @@ $ ./slots_test.py c
 26.7 MiB
 $ ./slots_test.py d
 17.2 MiB
+$ ./slots_test.py e
+19.1 MiB
+$ ./slots_test.py f
+19.2 MiB
 ```
 Results on my machine with Python 3.10 in debug mode:
 ```
-./slots_test.py a
+$ ./slots_test.py a
 28.3 MiB
-./slots_test.py b
+$ ./slots_test.py b
 22.0 MiB
-./slots_test.py c
+$ ./slots_test.py c
 28.3 MiB
-./slots_test.py d
+$ ./slots_test.py d
 22.0 MiB
+$ ./slots_test.py e
+24.8 MiB
+$ ./slots_test.py f
+24.2 MiB
 ```
 
 We can conclude that:
 
 * `__slots__` is still an effective memory optimization with recent versions of Python,
-  that can save **up to 35% of memory**
+  that can provide between 10% en 30% of RAM savings
 * `__slots__` can effectively be combined with `@dataclass`
+* `namedtuple` / `NamedTuple` is less memory-efficient than `__slots__` (and both cannot be combined)
 
 Related content:
 * [Official Python documentation on `__slots__`](https://docs.python.org/3/reference/datamodel.html#slots)
