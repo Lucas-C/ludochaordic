@@ -5,15 +5,6 @@ Slug: fpdf2-4-0-and-converting-gifs-to-pdfs
 Image: images/2021/06/exploding-cat.gif
 ---
 
-<!-- Com' à faire :
-* [x] https://planetpython.org
-* [x] https://www.reddit.com/r/Python/comments/nywfb7/new_release_of_fpdf2_markdown_styling_jpeg/
-* [x] https://www.reddit.com/r/pythonnews/comments/nywnx9/new_release_of_fpdf2_markdown_styling_jpeg/
-* [x] https://dev.to/lucasc/new-release-for-fpdf2-40pi
-* [x] video comment: https://www.youtube.com/watch?v=euNvxWaRQMY
-* [x] video comment: https://www.youtube.com/watch?v=JhQVD7Y1bsA
--->
-
 `fpdf2` is a minimalist PDF creation library for Python that I am maintaining.
 
 With the release yesterday of its `v2.4.0`, I'm going to present some of its notable new features since [the latest minor version](fpdf2-3-0-unbreakable-and-pdf-quines.html).
@@ -115,6 +106,15 @@ I recently used it myself to create an animated poem for my girlfriend 😉
 I'd love to know what creations you have made using it,
 so please add comment below if you want to share them!
 
+
+<!-- Com' :
+* [x] https://planetpython.org
+* [x] https://www.reddit.com/r/Python/comments/nywfb7/new_release_of_fpdf2_markdown_styling_jpeg/
+* [x] https://www.reddit.com/r/pythonnews/comments/nywnx9/new_release_of_fpdf2_markdown_styling_jpeg/
+* [x] https://dev.to/lucasc/new-release-for-fpdf2-40pi
+* [x] video comment: https://www.youtube.com/watch?v=euNvxWaRQMY
+* [x] video comment: https://www.youtube.com/watch?v=JhQVD7Y1bsA
+-->
 
 <style>
 article img { max-height: 12rem; }

@@ -3,12 +3,6 @@ Date: 2021-11-19 14:00
 Tags: lang:en, libre-software, open-source, fpdf2, hacktoberfest, python, pdf, traduction, compte-rendu, pypi, github, prog, @kleph, @minitux
 Slug: hacktoberfest-on-fpdf2
 ---
-<!-- Com'
-* [x] notified contributors on their PRs
-* [x] https://linuxfr.org/users/lucas-c/liens/retour-d-experience-du-hacktoberfest-comme-mainteneur-du-projet-fpdf2
-* [x] https://www.journalduhacker.net/s/udvgeu/hacktoberfest_on_fpdf2_v2_4_6
-* [x] https://www.reddit.com/r/hacktoberfest/comments/qxguse/hacktoberfest_on_fpdf2_v246/
--->
 
 Last month, I realized late that October was [hacktoberfest](https://hacktoberfest.digitalocean.com) month!
 
@@ -119,3 +113,10 @@ I simply would have loved chat with the contributors at the end of the event!
 To get to know a little who they are and what are their reasons for contributing.
 
 Happy coding to you all!
+
+<!-- Com'
+* [x] notified contributors on their PRs
+* [x] https://linuxfr.org/users/lucas-c/liens/retour-d-experience-du-hacktoberfest-comme-mainteneur-du-projet-fpdf2
+* [x] https://www.journalduhacker.net/s/udvgeu/hacktoberfest_on_fpdf2_v2_4_6
+* [x] https://www.reddit.com/r/hacktoberfest/comments/qxguse/hacktoberfest_on_fpdf2_v246/
+-->

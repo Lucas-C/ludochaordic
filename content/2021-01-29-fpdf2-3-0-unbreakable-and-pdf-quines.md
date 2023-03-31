@@ -3,13 +3,6 @@ Date: 2021-01-29 12:30
 Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, fpdf2, quine, NightShyamalan, prog
 Slug: fpdf2-3-0-unbreakable-and-pdf-quines
 ---
-
-<!--
-Com':
-* [x] https://planetpython.org
-* [x] https://www.reddit.com/r/Python/comments/kvbb4j/fpdf2_the_library_to_easily_generate_pdfs_got_a/
-* [x] https://www.reddit.com/r/programming/comments/l7qok4/release_of_fpdf230_a_challenge_can_you_craft_a/
--->
 ![Unbreakable movie poster](images/2021/01/unbreakable.jpg)
 
 Today, I am happy to announce **version 2.3.0 of fpdf2**, code name: **Unbreakable!**
@@ -108,6 +101,12 @@ So, as I was a bit stuck to go further, I built this **PDF that displays its own
 
 What do you think, is it cheating? 😜
 
+<!--
+Com':
+* [x] https://planetpython.org
+* [x] https://www.reddit.com/r/Python/comments/kvbb4j/fpdf2_the_library_to_easily_generate_pdfs_got_a/
+* [x] https://www.reddit.com/r/programming/comments/l7qok4/release_of_fpdf230_a_challenge_can_you_craft_a/
+-->
 
 <style>
 .uk-article-content > p:nth-child(3) { /* Link to GitHub repo */
