@@ -112,6 +112,7 @@ We can conclude that:
 * `namedtuple` / `NamedTuple` is less memory-efficient than `__slots__` (and both cannot be combined)
 
 Related content:
+
 * [Official Python documentation on `__slots__`](https://docs.python.org/3/reference/datamodel.html#slots)
 * [Blog article @py.checkio.org](https://py.checkio.org/blog/memory-optimization-with-python-slots/)
 * [Les slots, une optimisation méconnue](https://www.invivoo.com/les-slots-une-optimisation-meconnue/), a Frenc blog article pointing that using `__slots__` also makes code faster

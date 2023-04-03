@@ -33,5 +33,5 @@ article img { max-height: 20rem; }
 </style>
 
 <!-- Com'
-* [ ] https://www.trictrac.net
+* [x] https://www.trictrac.net/jeu-de-societe/rumble-in-the-house/ressources
 -->

@@ -45,6 +45,8 @@ et de m'avoir fait des retours très constructifs !
 
 Vous pouvez retrouver toutes mes autres variantes de jeux ici : [tag **variante**](tag/variante.html).
 
+**[EDIT 2023/03/31]** : j'ai aussi conçu [quelques variantes pour _Rumble in the House_](rumble-in-the-house.html)
+
 <style>
 article img { max-height: 20rem; }
 @media (min-width:768px) {
