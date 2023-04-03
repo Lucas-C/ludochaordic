@@ -1,5 +1,5 @@
 Title: fpdf2 latest new features
-Date: 2023-04-02 12:00
+Date: 2023-04-03 17:00
 Tags: lang:en, libre-software, open-source, python, library, release, pdf, fpdf2, prog
 ---
 I wrote my latest [post on `fpdf2`](tag/fpdf2.html) almost a year ago.
