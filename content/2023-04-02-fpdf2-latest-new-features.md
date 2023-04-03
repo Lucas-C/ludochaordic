@@ -122,8 +122,7 @@ You can track this migration project and share your feedback in this GitHub disc
 As always, I am always happy to receive comments below 😊
 
 <!-- Com' :
-* [ ] https://news.ycombinator.com
-* [ ] https://www.reddit.com/r/programming/
-* [ ] https://www.reddit.com/r/Python/
-* [ ] https://dev.to/lucasc/
+* [x] https://news.ycombinator.com/item?id=35424491
+* [x] https://www.reddit.com/r/Python/comments/12amq5d/fpdf2_latest_new_features/
+* [x] https://dev.to/lucasc/fpdf2-latest-new-features-4mn0
 -->
