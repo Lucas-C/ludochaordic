@@ -84,7 +84,7 @@ There has been several new features related to images:
 
 - since **v2.5.6**, `fpdf2` allows to **sign** documents, using the companion [endesive](https://pypi.org/project/endesive/) package: [related documentation](https://pyfpdf.github.io/fpdf2/Signing.html).
 
-- since **v2.6.1**, and thanks to [@andersonhc](https://github.com/andersonhc) work in [PR #609](https://github.com/PyFPDF/fpdf2/pull/609) `fpdf2` allows to **encrypt** documents using RC4 or AES-128 algorithms: [related documentation](https://pyfpdf.github.io/fpdf2/Encryption.html).
+- since **v2.6.1**, and thanks to [@andersonhc](https://github.com/andersonhc) work in [PR #609](https://github.com/PyFPDF/fpdf2/pull/609), `fpdf2` allows to **encrypt** documents using RC4 or AES-128 algorithms: [related documentation](https://pyfpdf.github.io/fpdf2/Encryption.html).
 
 
 ## Annotations
@@ -119,7 +119,7 @@ Finally, I am seriously considering to **move the `fpdf2` project to the [@py-pd
 You can track this migration project and share your feedback in this GitHub discussion:
 <https://github.com/PyFPDF/fpdf2/discussions/752>.
 
-As always, I am always happy to receive comments below 😊
+As always, I would be happy to receive your comments below 😊
 
 <!-- Com' :
 * [x] https://news.ycombinator.com/item?id=35424491
