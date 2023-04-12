@@ -81,7 +81,7 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Intro](pages/jdr-blades-in-the-dark.html#intro)
     * [Session de jeu](pages/jdr-blades-in-the-dark.html#session-de-jeu)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-7)
-- [Session 11 - 25 février 2023](pages/jdr-blades-in-the-dark.html#session-11-25-f-vrier-202")
+- [Session 11 - 25 février 2023](pages/jdr-blades-in-the-dark.html#session-11-25-f-vrier-2023)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-8)
 
 ## Session 1 - août 2017
@@ -1102,8 +1102,48 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
   <img alt="" src="https://i.redd.it/3mo38kczugg91.png">
 </div>
 
-Le gang se résigne à abandonner leur QG au galion, et trouve promptement une solution de remplacement :
-ils ciblent l'entreprise de transport Gruber & Fils, résident sur leur territoire, et en difficultés financières selon la rumeur... Josef & Lodius décident
+Le gang se résigne à abandonner leur QG au galion, et trouve promptement une solution de remplacement : ils ciblent **l'entreprise de transport Gruber & Fils**, résidant sur leur territoire, et en difficultés financières selon la rumeur...
+Josef & Lodius décident de rendre visite au patron, M. Gruber, en se rendant directement dans les locaux de l'entreprise. Ils font peu de cas de la secrétaire qui s'interpose et entrent directement dans le bureau de M. Gruber. Très explicites, ils font bien comprendre au chef d'entreprise transpirant le peu d'options qui s'offrent à lui... Il est convenu qu'en échange d'un investissement conséquent de messieurs Harris (Tucker) & J. Duncan (Lodius), qui permettront d'éponger les importantes dettes de l'entreprise auprès de notables de Duskvol, l'étage supérieur, dans les combles, du grand bâtiment en U de l'entreprise de transport sera réservé à leur usage confidentiel.
+
+Peu de temps après, **Naria**, une étudiante, barmaid occasionnelle à la Goule Fendue et bonne amie de Josef Tucker, est retrouvée morte dans la rue, sur le territoire du gang.
+Bien que de premiers indices laissent à penser à une implication du gang de l'Écharpe Rouge dans ce crime, une investigation plus poussée révélera bientôt une autre vérité...
+
+En parallèle, le Harpon prépare une "fête d'adieu" au galion, où sont conviés tous les gangs avec lesquels ils sont alliés : Écharpe Rouge, Crows, Gondoliers, Silver Nails.
+Durant les préparatifs, une manifestation surnaturelle envahit le galion échoué : Elaria, Eric et plusieurs de leurs hommess sont pris d'une vision du _Ghost Field_ tourbillonnant autour d'eux, masquant la réalité et laissant entrapercevoir des créatures cauchemardesques. Il s'agit en réalité de préparatifs à un rituel d'illusion menés Josef, qui a mal tourné.
+
+Elaria apprend que les Bluecoats sont en train de se mobiliser pour préparer une intervention le soir de leur petite fête au galion... On les aurait trahi ? Serait-ce l'un des gangs alliés ?
+Le Harpon décide de mettre en place un plan pour identifier le mouchard : ils préviennent chacun des gangs conviés que le lieu de la soirée festive a été modifié, en indiquant à chaque fois un endroit différent, avec dans l'idée de déterminer ainsi qui informe les Bluecoats...
+
+Le moment venu, les Bluecoats effectuent une descente massive dans le quartier, et se rendent au galion après avoir inspecté rapidement la Goule Fendue. Une fois sur place, Eric fait exploser le galion qui avait été préalablement piégé avec des explosifs, projetant d'énormes éclats de bois sur les forces de l'ordre. Eric s'enfuit au dernier moment par un conduit souterrain le menant à l'extérieur.
+
+Le gang révèle ensuite aux représentant des gangs alliés la raison de ce stratagème, et Mylera n'est pas ravie que sa confiance ait ainsi été mise en doute.
+Mais cela est rapidement arrangé en lui faisant présent d'un splendide harpon en os de Léviathan.
+
+L'investigation sur le meurtre de Shane finit par aboutir à porter les suspicions du gang sur **Shane**,
+un client régulier de la Goule Fendue de puis quelques mois...
+Un interrogatoire est mené dans le sous-sol de la Goule Fendue, et Shane finit par avouer qu'il est un informateur pour **Boden**,
+et que c'est lui qui a tué Noria et tenté de faire porter le chapeau à l'Écharpe Rouge.
+D'ailleurs, d'autres opérations du même type seraient également organisés aux sein des autres gangs de Crow's Foot, pour semer la zizanie...
+
+Une fois le compte de Shane réglé, un autre problème vient occuper le Harpon :
+le tenancier du **Poney qui Tousse** refuserait de payer sa protection,
+sous prétexte que l'explosion du galion aurait mis en déroute le gang...
+Ce problème est rapidement expédié, avec une descente à l'auberge concernée,
+pour recadrer son patron, et démontrer publiquement que le Harpon est toujours là.
+
+Le gang se met ensuite en quête d'information concernant le **Cercle de la Flamme**,
+et fait jouer son réseau pour découvrir l'identité de certain de ses membres,
+dont notamment le célèbre artiste peintre **Raffello**.
+Une opération est alors organisée, pour aller fouiller son atelier sur les Docks,
+tandis que Josef le suit à la trace jusqu'à une réception huppée à Silkshore.
+
+Dans l'atelier du peintre, le gang découvre des toiles semblant prédire un avenir très sombre pour Doskvol,
+des peintures saisissantes de vérité pour Mist qui a traversé des événements similaires.
+Des livres d'occultisme sont également découverts, et le gang finit par décider de mettre le feu à la maison.
+
+De son côté, Josef est malheureuement repéré par Raffello à la soirée de Lady Penderyn à Silkshore,
+et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible sous la gorge !
+
 
 ### Ressources
 - ambiance musicale :
@@ -1123,7 +1163,7 @@ ils ciblent l'entreprise de transport Gruber & Fils, résident sur leur territoi
 
 <!-- Idées :
 
-* demander à Thomas ce qu'il kifferait dans la campagne (car pas très impliqué dans la session n°10)
+* introduire un Spirit Well
 * introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente
 
 * sujets immédiats à traiter:
