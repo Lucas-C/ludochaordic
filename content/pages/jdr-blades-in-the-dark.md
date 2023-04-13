@@ -1072,7 +1072,7 @@ et que Lodius emploi un grappin pour passer sous le pont.
 Une fois dans le dortoir de l'université, ils trouvent la chambre de Quess Jeduin...
 Qui s'avère être Mist plus jeune !
 Mist le maîtrise et demande alors à Elaria de l'éliminer. Celle-ci obtempère après hésitation.
-Les choses se précipitent quand les Spirit Warden interviennent.
+Les choses se précipitent quand les **Spirit Warden** interviennent.
 Lodius réussit à en immobiliser un avec son _blow gun_,
 mais le gang est finalement rattrapé par eux et par la milice sur le sentier côtier de l'île.
 Après un affrontement rapide, le gang finit par sauter à l'eau et à s'échapper avec une navette des garde-côtes.
@@ -1117,15 +1117,16 @@ Le Harpon décide de mettre en place un plan pour identifier le mouchard : ils p
 Le moment venu, les Bluecoats effectuent une descente massive dans le quartier, et se rendent au galion après avoir inspecté rapidement la Goule Fendue. Une fois sur place, Eric fait exploser le galion qui avait été préalablement piégé avec des explosifs, projetant d'énormes éclats de bois sur les forces de l'ordre. Eric s'enfuit au dernier moment par un conduit souterrain le menant à l'extérieur.
 
 Le gang révèle ensuite aux représentant des gangs alliés la raison de ce stratagème, et Mylera n'est pas ravie que sa confiance ait ainsi été mise en doute.
-Mais cela est rapidement arrangé en lui faisant présent d'un splendide harpon en os de Léviathan.
+Mais cela est rapidement arrangé en lui faisant présent d'un splendide harpon en os de Léviathan, une arme de **Spirit Warden**.
 
-L'investigation sur le meurtre de Shane finit par aboutir à porter les suspicions du gang sur **Shane**,
+L'investigation sur le meurtre de Noria finit par aboutir à porter les suspicions du gang sur **Shane**,
 un client régulier de la Goule Fendue de puis quelques mois...
 Un interrogatoire est mené dans le sous-sol de la Goule Fendue, et Shane finit par avouer qu'il est un informateur pour **Boden**,
 et que c'est lui qui a tué Noria et tenté de faire porter le chapeau à l'Écharpe Rouge.
 D'ailleurs, d'autres opérations du même type seraient également organisés aux sein des autres gangs de Crow's Foot, pour semer la zizanie...
 
-Une fois le compte de Shane réglé, un autre problème vient occuper le Harpon :
+Une fois le compte de Shane réglé, son âme arrachée et sa tête ayant rejoint
+la collection d'Eric, un autre problème vient occuper le Harpon :
 le tenancier du **Poney qui Tousse** refuserait de payer sa protection,
 sous prétexte que l'explosion du galion aurait mis en déroute le gang...
 Ce problème est rapidement expédié, avec une descente à l'auberge concernée,
@@ -1134,6 +1135,7 @@ pour recadrer son patron, et démontrer publiquement que le Harpon est toujours 
 Le gang se met ensuite en quête d'information concernant le **Cercle de la Flamme**,
 et fait jouer son réseau pour découvrir l'identité de certain de ses membres,
 dont notamment le célèbre artiste peintre **Raffello**.
+Cela a néanmoins pour conséquence d'alerter ce groupe occulte que le gang du Harpon se renseigne sur eux...
 Une opération est alors organisée, pour aller fouiller son atelier sur les Docks,
 tandis que Josef le suit à la trace jusqu'à une réception huppée à Silkshore.
 
@@ -1160,6 +1162,17 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
     + [A Blades in the Dark mat for downtime stuff](https://www.reddit.com/r/bladesinthedark/comments/v7hlcy/a_blades_in_the_dark_mat_for_downtime_stuff/)
     + [BitD Action Roll printable 'playmat'](https://www.reddit.com/r/bladesinthedark/comments/v3wc05/bitd_action_roll_printable_playmat_v2/)
     + [Header Images for Duskwall Districts](https://www.reddit.com/r/bladesinthedark/comments/nezxjh/header_images_for_duskwall_districts/)
+
+<!--
+
+## Session 12 - ? 2023
+
+> Rappel aussi pour la prochaine partie:
+> - Elaria a eu des infos sur le Cercle de la Flamme, mais ils sont maintenant au courant que quelqu'un les cherche. (Oui mais)
+> - On n'a pas eu le temps de regarder à quel point notre nouvel entreprise était déficitaire mais je crains le pire. On sait qu'elle a de nombreux débiteurs.
+> - On a appris que le Cercle de la Flamme voulait invoquer un certains prince démon Kotar.
+
+### Ressources
 
 <!-- Idées :
 
@@ -1204,6 +1217,7 @@ Ressources TO MENTION:
 + [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
 + [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
+  & newspaper template: https://jaderavens.itch.io/north-hook-lantern
 + [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
 + (to read) [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
 + [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco, 1 page PDF
