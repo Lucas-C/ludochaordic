@@ -52,9 +52,8 @@ class C:
     y: int
     z: int
 
-@dataclass
+@dataclass(slots=True)  # since Python 3.10, this is the same as defining __slots__ manually
 class D:
-    __slots__ = ('x', 'y', 'z')
     x: int
     y: int
     z: int
