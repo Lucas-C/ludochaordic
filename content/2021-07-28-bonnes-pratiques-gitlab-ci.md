@@ -3,13 +3,6 @@ Date: 2021-07-28 22:00
 Tags: lang:fr, oui.sncf, usine-logicielle, gitlab-ci, git, continuous-integration, best-practices, performances, security, dependency-confusion, cache, secrets, dependencies, renovate, sonar, java, maven, python, pip, pip-compile, nodejs, npm, docker, prog
 Slug: bonnes-pratiques-gitlab-ci
 ---
-<!-- Com' :
-* https://medium.com/@Lucas_C/bonnes-pratiques-gitlab-ci-9a380c83a74a
-* https://linuxfr.org/users/lucas-c/liens/bonnes-pratiques-gitlab-ci
-* https://dev.to/lucasc/bonnes-pratiques-gitlab-ci-5fb7
-* https://www.journalduhacker.net/s/cafeya/bonnes_pratiques_gitlab_ci
-* En cours de modération : https://news.humancoders.com
--->
 
 ![Logo Gitlab](images/2021/07/gitlab-ci.png)
 
@@ -215,7 +208,15 @@ script:
 
 ![Logo SonarQube](images/2021/07/sonarqube.png)
 
-Et vous, avez-vous des recommandations à partager autour de Gitlab CI ?
+Et vous, avez-vous des recommandations à partager autour de Gitlab CI ?
+
+<!-- Com' :
+* https://medium.com/@Lucas_C/bonnes-pratiques-gitlab-ci-9a380c83a74a
+* https://linuxfr.org/users/lucas-c/liens/bonnes-pratiques-gitlab-ci
+* https://dev.to/lucasc/bonnes-pratiques-gitlab-ci-5fb7
+* https://www.journalduhacker.net/s/cafeya/bonnes_pratiques_gitlab_ci
+* En cours de modération : https://news.humancoders.com
+-->
 
 <script>
 ['h2'].forEach(function (selector) {

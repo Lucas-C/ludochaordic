@@ -75,3 +75,11 @@ Related configuration files in `fpdf2`:
 I hope this `.pylintrc` could be useful to others!
 
 You can drop a comment if this article was helpful to you 😊
+
+<!-- Com' :
+* [x] https://linuxfr.org/users/lucas-c/liens/pylint-strict-base-configuration
+* [x] https://news.ycombinator.com/item?id=35800986
+* [x] https://www.reddit.com/r/Python/comments/136hqoo/pylint_strict_base_configuration/
+* [x] https://dev.to/lucasc/pylint-strict-base-configuration-1p0j
+* [ ] https://medium.com/@Lucas_C/
+-->
