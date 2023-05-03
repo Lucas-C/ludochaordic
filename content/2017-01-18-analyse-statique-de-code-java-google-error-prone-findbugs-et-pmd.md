@@ -1,6 +1,6 @@
 Title: Analyse statique de code Java : Google Error Prone, Findbugs et PMD
 Date: 2017-01-18 13:01
-Tags: lang:fr, findbugs, google, error-prone, java, maven, pmd, code-quality, static-code-analysis, oui.sncf, prog
+Tags: lang:fr, findbugs, google, error-prone, java, maven, pmd, code-quality, static-code-analysis, linter, oui.sncf, prog
 Slug: analyse-statique-de-code-java-google-error-prone-findbugs-et-pmd
 ---
 ![Illustration of a bug insect under a magnifying glass](images/2017/01/img_3069.jpg)
