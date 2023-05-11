@@ -41,6 +41,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2023-05-11', 'img_url': 'images/readings/GameEngineBlackBook-Wolfenstein3D.jpg', 'description': " Game Engine Black Book : Wolfenstein3 D - Fabien Sanglard (essai)"},
     {'date': u'2023-04-24', 'img_url': 'images/readings/Flic-L-histoire-vraie-du-journaliste-qui-a-infiltre-la-police.jpg', 'description': " Flic - L'histoire vraie du journaliste qui a infiltré la police - Valentin Gendrot & Thierry Chavant (BD)"},
     {'date': u'2023-01-25', 'img_url': 'images/readings/la-naissance-en-bd.jpg', 'description': "La Naissance en BD - Lucile Gomez (BD)"},
     {'date': u'2022-12-10', 'img_url': 'images/readings/Considerations-sur-les-fleches-de-lamour.jpg', 'description': "Considérations sur les flèches de l’amour Broché – Ibn al Rabin (BD)"},
