@@ -702,8 +702,8 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 
 ### Ressources
 
-Pour l'ambiance musicale, j'ai opté pour cette playlist YouTube :
-[Blades in the Dark music](https://www.youtube.com/watch?v=pPWCkhulCn8&list=PLxiArOyYrVNHsgg1Y3ShKX6Yhys_NgfsY).
+Pour l'ambiance musicale, j'ai opté pour cette playlist :
+[Blades in the Dark music @YouTube](https://www.youtube.com/watch?v=pPWCkhulCn8&list=PLxiArOyYrVNHsgg1Y3ShKX6Yhys_NgfsY).
 Elle contient 65 morceaux dont certains issus de la bande son des jeux vidéos Dishonored, Thief et
 de The Witcher (il faut passer la piste 10 au bout d'un certain temps car elle tourne en boucle pendant 1h), ainsi que du film Sherlock Holmes.
 
@@ -819,7 +819,7 @@ Le gang reçoit également une missive de l'ordre du Cercle de la Flamme indiqua
 d'acquérir des artefacts entrés en possession du gang à un prix des plus alléchants.
 
 ### Ressources
-- ambiance musicale : [playlist Youtube _Aces Wild_](https://www.youtube.com/playlist?list=PL9CvW37uj8DoA0t45lmy4rd1x9hppZD-A)
+- ambiance musicale : [playlist _Aces Wild_ @YouTube](https://www.youtube.com/playlist?list=PL9CvW37uj8DoA0t45lmy4rd1x9hppZD-A)
 - [Setting Primer](https://www.reddit.com/r/bladesinthedark/comments/h1331p/setting_primer_updated/) ([re-uploaded PDF](https://chezsoi.org/lucas/blog/images/bitd/BitD-SettingPrimer.pdf)),
   pour se replonger dans l'univers en début de partie
 - [plan du QG de l'Œil Blanc](https://chezsoi.org/lucas/blog/images/bitd/degenesis-black-atlantic-parel-island-en-3264x2320.webp) (source : [carte officielle du JdR Degenesis](https://degenesis.com/downloads/maps))
@@ -928,9 +928,9 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
 
 ### Ressources
 - ambiance musicale :
-    + [Blades in the Dark Ambience | Victorian City](https://www.youtube.com/watch?v=PuRFNzizkXs) par Luke Westaway, avec des timecodes dans la description de la vidéo
-    + [Extended Blades in the Dark soundtrack by  Mr. Macduggan](https://www.youtube.com/playlist?list=PLSe0gLu3vnlutsQmMjNH8-xdOFMJtxswO)
-    * [Drunken Sailor from Assassin's Creed 4: Black Flag OST](https://www.youtube.com/watch?v=OOu9W9Nmj6U) pour la célébration le soir à l'auberge de la Goule Fendue
+    + [Blades in the Dark Ambience | Victorian City @YouTube](https://www.youtube.com/watch?v=PuRFNzizkXs) par Luke Westaway, avec des timecodes dans la description de la vidéo
+    + [Extended Blades in the Dark soundtrack by Mr. Macduggan @YouTube](https://www.youtube.com/playlist?list=PLSe0gLu3vnlutsQmMjNH8-xdOFMJtxswO)
+    * [Drunken Sailor from Assassin's Creed 4: Black Flag OST @YouTube](https://www.youtube.com/watch?v=OOu9W9Nmj6U) pour la célébration le soir à l'auberge de la Goule Fendue
 - rappels des règles :
     * [one-page rules cheat sheet optimized for players](https://docs.google.com/document/d/1NKn4YI0nt678_rSj7RKYRGPeMU3rxsLKWAX_8eg93qs/edit#heading=h.cfsgh3nim1jn)
     * [alternative Player Reminder Sheet](https://www.reddit.com/r/bladesinthedark/comments/s5svf8/player_reminder_sheet/)
@@ -962,7 +962,7 @@ Ils sont réveillés par des tirs de canon. Dans le ciel, il ne reste qu'UN FRAG
 
 Un garde rentre dans la cellule, et il s'avère qu'il s'agit de **Josef** grimmé avec une illusion, venu les délivrer.
 Des tirs de boulets de canon commencent à démolir le bâtiment.
-([bande son](https://www.youtube.com/watch?v=987shv-gJrc))
+([bande son @YouTube](https://www.youtube.com/watch?v=987shv-gJrc))
 
 Dans la prison, une foule frénétique monte les étages dans leur direction.
 Ils sauvent in extremis **Aldo** qui leur ramène leur matériel.
@@ -974,7 +974,7 @@ Mais comment la rejoindre avec cette horde possédée qui remonte vers eux ?!
 Les PJs sautent à travers les ouvertures créés par les boulets de canon jusqu'à l'eau en contrebas,
 puis rejoignent la barque de Justinia à la nage.
 Malheureusement le corps de Josef flotte dans l'eau, canardé par les gardes.
-([bande son](https://www.youtube.com/watch?v=Zj8G5VxFy1M))
+([bande son @YouTube](https://www.youtube.com/watch?v=Zj8G5VxFy1M))
 
 Le gang atteint l'épave du galion par les égouts. Sur place, la mer est remplie de cadavres flottant,
 et ils découvrent Phil, Jenny Holt & ses Silver Nails, ainsi que de nombreux hommes du Harpon pendus aux mâts...
@@ -983,7 +983,7 @@ et ils découvrent Phil, Jenny Holt & ses Silver Nails, ainsi que de nombreux ho
 
 Soudain, des morts-vivant sortent du galion et se mettent à se diriger vers le gang,
 et les cadavres de la mer se mettent en mouvement...
-([bande son](https://www.youtube.com/watch?v=kOFUXumDEHs))
+([bande son @YouTube](https://www.youtube.com/watch?v=kOFUXumDEHs))
 
 > (Ethnos) : "Les toits ! Il faut monter sur les toits !"
 
@@ -1002,7 +1002,7 @@ Il s'injecte alors un sérum de physicker dans le bras, et se transforme partiel
 
 Armé de son marteau qu'il fait tournoyer, il fait un ravage parmis les mort-vivants.
 Malheusement, Justinia meurt dans l'effondrement d'un bâtiment en flammes.
-([bande son](https://www.youtube.com/watch?v=3FrXSJ5AS8I))
+([bande son @YouTube](https://www.youtube.com/watch?v=3FrXSJ5AS8I))
 
 ![](https://images5.alphacoders.com/660/thumb-1920-660038.jpg)
 
@@ -1022,7 +1022,7 @@ _Courte ellipse._
 Valeris a mené le gang jusqu'à une église dans Six Towers, où une procession conduit Lodius enchaîné à l'intérieur...
 Le gang s'introduit par les toits dans la toiture de l'église, où ils observent quelques instants la cérémonie avant d'intervenir...
 Lodius est attaché à un autel pour participer à un rituel du Cercle de la Flamme. Le logbook trône sur un pupitre.
-([bande son](https://www.youtube.com/watch?v=QdIYVXCfrQM))
+([bande son @YouTube](https://www.youtube.com/watch?v=QdIYVXCfrQM))
 
 Lodius reconnait Lord Scurlock parmi les cultistes. Soudain, le démon **Argaz** apparaît !
 Mist, Eric & Elaria arrivent à le vaincre, en lui plongeant sa propre dague dans le dos,
@@ -1084,14 +1084,14 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
 
 ### Ressources
 - ambiance musicale :
-    + [Two Steps From Hell - Black Blade (Extended) | Epic Battle Choir Dark Music](https://www.youtube.com/watch?v=987shv-gJrc)
-    + [Dark Magic Music - Salem's Secret](https://www.youtube.com/watch?v=QdIYVXCfrQM)
-    + [TRAITOR | 1 HOUR of Epic Dark Dramatic Fierce Orchestral Strings Music](https://www.youtube.com/watch?v=HtgHRET61I4)
+    + [Two Steps From Hell - Black Blade (Extended) | Epic Battle Choir Dark Music @YouTube](https://www.youtube.com/watch?v=987shv-gJrc)
+    + [Dark Magic Music - Salem's Secret @YouTube](https://www.youtube.com/watch?v=QdIYVXCfrQM)
+    + [TRAITOR | 1 HOUR of Epic Dark Dramatic Fierce Orchestral Strings Music @YouTube](https://www.youtube.com/watch?v=HtgHRET61I4)
 * clips vidéos :
-    + [(Fake) Blades in the Dark movie trailer](https://www.youtube.com/watch?v=24M3evBhFHw)
-    + [Benvenuta a Doskvol](https://www.youtube.com/watch?v=9rP_mCfULdo)
-    * [Thief (4) - Alternate/Extended Trailer](https://www.youtube.com/watch?v=A3aD67_aZW0)
-    + [Thief // Ex Guru - Hunt](https://www.youtube.com/watch?v=Q1TdWPypGF0)
+    + [(Fake) Blades in the Dark movie trailer @YouTube](https://www.youtube.com/watch?v=24M3evBhFHw)
+    + [Benvenuta a Doskvol @YouTube](https://www.youtube.com/watch?v=9rP_mCfULdo)
+    * [Thief (4) - Alternate/Extended Trailer @YouTube](https://www.youtube.com/watch?v=A3aD67_aZW0)
+    + [Thief // Ex Guru - Hunt @YouTube](https://www.youtube.com/watch?v=Q1TdWPypGF0)
 
 
 ## Session 11 - 25 février 2023
@@ -1152,7 +1152,7 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
     + [Embers and Spirits - 3:23 @YouTube](https://www.youtube.com/watch?v=aXePNAotteQ)
     + [The River Dusk - 1:13 @YouTube](https://www.youtube.com/watch?v=C4XXWuVaCyg) & [Rooftop Chase - 2:30 @YouTube](https://www.youtube.com/watch?v=3YP1pGDFqAA) - Ted Bushman
     + [Tense Negotiations | D&D/TTRPG Music | 1 Hour @YouTube](https://www.youtube.com/watch?v=RPkHu8M_U4c)
-    + playlist YouTube : [.Blades in The Dark - Main Soundtrack](https://www.youtube.com/playlist?list=PL-DPRgj_AsnOK9l3PgmOfho2aWuTT9IS2) - FrozenCovein
+    + playlist : [.Blades in The Dark - Main Soundtrack @YouTube](https://www.youtube.com/playlist?list=PL-DPRgj_AsnOK9l3PgmOfho2aWuTT9IS2) - FrozenCovein
 * clips vidéos :
     + [Blades in the Dark Title Animation @YouTube](https://www.youtube.com/watch?v=eoxIyivFJQI)
     + [Blades in the Dark: atmosphere @YouTube](https://www.youtube.com/watch?v=nxXsWB1q7BE)
