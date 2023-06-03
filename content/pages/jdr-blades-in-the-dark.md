@@ -1163,19 +1163,27 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
     + [BitD Action Roll printable 'playmat'](https://www.reddit.com/r/bladesinthedark/comments/v3wc05/bitd_action_roll_printable_playmat_v2/)
     + [Header Images for Duskwall Districts](https://www.reddit.com/r/bladesinthedark/comments/nezxjh/header_images_for_duskwall_districts/)
 
-<!--
+## Session 12 - 1er juillet 2023
 
-## Session 12 - ? 2023
+<!--
 
 > Rappel aussi pour la prochaine partie:
 > - Elaria a eu des infos sur le Cercle de la Flamme, mais ils sont maintenant au courant que quelqu'un les cherche. (Oui mais)
 > - On n'a pas eu le temps de regarder à quel point notre nouvel entreprise était déficitaire mais je crains le pire. On sait qu'elle a de nombreux débiteurs.
 > - On a appris que le Cercle de la Flamme voulait invoquer un certains prince démon Kotar.
 
+![](https://preview.redd.it/i21kcljezvj91.jpg?width=640&crop=smart&auto=webp&v=enabled&s=a6d21b018fc91207858ceb3ab5ac8f30252af440)
+
+![](https://preview.redd.it/l9iobjigzvj91.jpg?width=640&crop=smart&auto=webp&v=enabled&s=e013a4edb4a2497c8931f3c679259bac66836b34)
+
 ### Ressources
+- [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): 128 CC-BY AI-generated illustrations
+- ambiance musicale :
+    + [playlist Doskvol @YouTube](https://www.youtube.com/playlist?list=PLBbYqwGsEaZNIvZfTTmPzAGXamSD3e7mz)
 
 <!-- Idées :
 
+* demande humble d'aide de la part d'un membre du quartier
 * introduire un Spirit Well
 * introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente
 

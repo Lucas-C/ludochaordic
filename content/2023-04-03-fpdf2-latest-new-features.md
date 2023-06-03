@@ -16,10 +16,6 @@ This article will present some of the major features introduced between **v2.5.3
 - [Documentation & translated tutorials](#documentation--translated-tutorials)
 - [What's coming next?](#whats-coming-next)
 
-<!-- markdown-toc -i content/2023-04-02-fpdf2-latest-new-features.md -->
-<!-- toc -->
-<!-- tocstop -->
-
 ## Tables
 One major addition of **v2.7.0** of `fpdf2` has the new method `.table()`,
 that now makes very easy the generation of **tables** in PDF documents.

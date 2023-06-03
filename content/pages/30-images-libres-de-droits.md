@@ -587,6 +587,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Hellsing Ultimate Fanart - Integra Hellsing](https://www.deviantart.com/demento-liszt/art/Hellsing-Ultimate-Fanart-Integra-Hellsing-789516159)
     * [Get Backers Fan Art - Dr. Jackal](https://www.deviantart.com/demento-liszt/art/Get-Backers-Fan-Art-Dr-Jackal-762869273)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
+- [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
 ## Pixabay artists
 I have gathered those artists in this section as they share their work under the same [Pixabay license](https://pixabay.com/fr/service/license/),
@@ -706,12 +707,16 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Unwinding](https://www.artstation.com/artwork/rKbBO) - Mitchell Malloy CC BY-NC-SA
     * [Ongoing Titan Activity](https://www.infectedbyart.com/contestpiece.asp?piece=7916) - Mitchell Malloy CC BY-NC-SA
     * [Jovian SIS Team](https://www.artstation.com/artwork/LmdXk) - Mitchell Malloy CC BY-NC-SA
+- [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): CC BY 4.0 - 128 AI-generated illustrations
 - [28 Room Backgrounds by OokamiKasumi](https://lemmasoft.renai.us/forums/viewtopic.php?t=16392) - CC BY-NC - [some more on her DeviantArt galery](https://www.deviantart.com/ookamikasumi/gallery/24187224/Stock-Backgrounds)
   ![thumbnail](https://lemmasoft.renai.us/forums/download/file.php?id=14363&t=1&sid=c296adc09cd9085cc3f4fd05c508da4c) - ![thumbnail](https://lemmasoft.renai.us/forums/download/file.php?id=16995&t=1&sid=c296adc09cd9085cc3f4fd05c508da4c)
 - [itch.io](https://itch.io)
     * [@Axebane Free! Fantasy Stock Art](https://axebanegames.itch.io/free-fantasy-stock-art) : 74 hand-drawn B&W (N&B) images of fantasy items, including daggers, swords, axes, staves, shields, scrolls, spellbooks, potions, torches, war banners, tools...
     * [Free CC0 assets](https://itch.io/game-assets/assets-cc0/free)
     * [Free CC-BY assets](https://itch.io/game-assets/assets-cc4-by/free)
+    * [Tabletop Art Pack](https://stoneshore.itch.io/tabletop-art-pack) 14 B&W illustrations - CC BY 4.0
+    * [Hairic Assets Pack](https://hairic.itch.io/hairic-rpg-assets-fantasy-pack-01) 11 B&W illustrations - CC BY
+    * [Legacy Content Pack by Odd Gob](https://oddgobgames.itch.io/legacy-content-pack) 40+ art assets, 27 tokens & more - CC BY 4.0
 - [Dragosha dungeon tiles](http://dragosha.com/free/dungeon-part-1-tiles.html) : CC BY-SA - ~400 images (at 288dpi): floors, tiles, borders, objects, light, fire and doors animation
   ![thumbnail](https://dragosha.com/free/images/2014-07-31%2016-56-30%20xenofantfla.jpg?crc=329762651)
 - "The Incredible Adventures of Van Helsing" monsters:
@@ -812,8 +817,10 @@ Dedicated to Vector graphics & flat / ClipArt images:
     * [Fuzzy animal friends](https://blush.design/collections/aarkKHQ2eBWDgSC0A3U6/fuzzy-friends-illustrations)
     * [Cityscapes](https://blush.design/collections/cityscapes/cityscapes)
 - [OpenClipArt](https://openclipart.org/search/) - Some great galleries:
-    * [isacvale](https://openclipart.org/user-cliparts/isacvale)
-    * [tzunghaor](https://openclipart.org/user-cliparts/tzunghaor)
+    * [@isacvale](https://openclipart.org/user-cliparts/isacvale)
+    * [@tzunghaor](https://openclipart.org/user-cliparts/tzunghaor)
+    * [tag: role-playing](https://openclipart.org/tag/role-playing): B&W isometric buildings
+    * [tag: D & D](https://openclipart.org/tag/D%20&%20D)
 
 Dedicated to games:
 
