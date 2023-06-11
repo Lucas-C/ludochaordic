@@ -115,3 +115,51 @@ Quelques retours des 3 autres joueurs:
 - **+** mécaniques de jeu très bien pensées
 - **?** peut-être jouable en plusieurs séances
 - **!** attention à bien respecter la règle des complications, et faire intervenir l'icône, pas un dérivé
+
+
+## Seconde partie - juin 2023
+
+Un très bon moment en compagnie d'Olivier, Laetitia & Laurence
+de l'[Auberge des Rêveurs](https://laubergedesreveurs.forumactif.com) !
+
+Et cette fois nous avons réussi à faire tenir la partie en seulement 3h30 \o/ ^^
+Mais par contre j'avais stupidement oublié un élément essentiel du jeu...
+la carte de Naëscence 🗺️🤦‍♂️
+Voici quelques notes en vrac sur cette session :
+
+Nous avons opté pour une carte dessinée collectivement, et c'était très bien aussi !
+D'ailleurs il me semblerait intéressant d'établir une unité de lieu pour chaque chapitre,
+qui devrait se dérouler dans un lieu précis de la ville, désigné sur la carte.
+
+Il y a une mécanique de jeu de que j'ai trouvé en définitive pas géniale :
+l'octroi d'un domino supplémentaire à chaque joueur en fin de chapitre.
+Choisir de ne **PAS** octroyer de domino à un joueur est délicat,
+car facilement perceptible comme un jugement / une "sanction"
+vis à vis de la narration que le joueur vient de réaliser
+(qui n'est d'ailleurs pas vraiment la sienne, comme elle est collective).
+
+Les règles du jeu manquent parfois un peu de clarté concernant ces dominos :
+comment doit s'effectuer le choix initial des deux dominos sur trois ;
+les joueurs doivent favoriser la conservation de dominos de valeur élevée
+s'ils souhaitent optimiser les chances pour leur Ambitieux d'avoir une fin heureuse...
+
+Peut-être aussi qu'il serait au final préférable de laisser entièrement le choix aux joueurs
+concernant les tables qui définissent leurs Ambitieux.
+La contrainte des dominos apporte finalement peu de chose,
+et peut parfois mener à créer des Ambitieux que les joueurs ont du mal à s'approprier.
+
+En termes d'aides de jeux, celles-ci me sembleraient bien utiles pour une prochaine partie :
+
+* une feuille d'Ambitieux, incluant une section où chaque joeur peut indiquer les nom et Ambition/Attitude des autres Ambitieux
+* une feuille récapitulative des 7 thèmes, associés aux chiffres et Icônes correspondants
+
+Enfin, voici une suggestion qui me semble très intéressante d'un joueur :
+effectuer en début de partie un choix de visuels,
+à la façon des illustrations dans _Pour la Reine_,
+pour les Figures ou les Ambitieux par exemple,
+afin d'aider à l'immersion.
+
+<!--
+Vu les circonstances, avoir la version PDF du jeu m'a bien dépanné.
+J'étais par contre un peu déçu qu'elle diffère légèrement de la version imprimé sur certains points.
+-->

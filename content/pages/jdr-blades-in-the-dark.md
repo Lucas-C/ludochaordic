@@ -1300,6 +1300,13 @@ Pour chaque "strate" du tatouage, le principe est le même :
   * s'entrainer (roue x4) ou tester par soi-même pour maîtriser le nouveau pouvoir
 Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site dcode.fr (sans lui indiquer la page)
 
+Online rpg-dice boards:
+* https://chezsoi.org/lucas/jdr/rpg-dice/Elaria?bitd=1
+* https://chezsoi.org/lucas/jdr/rpg-dice/Eric?bitd=1
+* https://chezsoi.org/lucas/jdr/rpg-dice/Josef?bitd=1
+* https://chezsoi.org/lucas/jdr/rpg-dice/Lodius?bitd=1
+* https://chezsoi.org/lucas/jdr/rpg-dice/Mist?bitd=1
+
 Notes / joueurs:
 * Elliot s'éclate à crafter
 * Simon aimerait bien jouer un autre archétype (Spy ?)
