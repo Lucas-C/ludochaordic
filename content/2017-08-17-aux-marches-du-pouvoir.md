@@ -122,8 +122,9 @@ Quelques retours des 3 autres joueurs:
 Un très bon moment en compagnie d'Olivier, Laetitia & Laurence
 de l'[Auberge des Rêveurs](https://laubergedesreveurs.forumactif.com) !
 
-Et cette fois nous avons réussi à faire tenir la partie en seulement 3h30 \o/ ^^
-Mais par contre j'avais stupidement oublié un élément essentiel du jeu...
+Et cette fois nous avons réussi à faire tenir la partie en seulement 4h30 \o/ ^^
+En sautant par contre le second tour de table de l'acte 2.
+Par contre j'avais stupidement oublié un élément essentiel du jeu...
 la carte de Naëscence 🗺️🤦‍♂️
 Voici quelques notes en vrac sur cette session :
 

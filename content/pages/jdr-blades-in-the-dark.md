@@ -48,9 +48,9 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
 </figure>
 
 <div class="side-by-side">
-  <a href="images/bitd/Doskvol-map.png" target="_blank"><img alt="Carte de Doskvol" src="images/bitd/Doskvol-map.png"></a>
-  <a href="images/bitd/CrowsFoot-map.jpg" target="_blank"><img alt="Carte de Crow's Foot" src="images/bitd/CrowsFoot-map.jpg"></a>
-  <a href="images/bitd/world-map.png" target="_blank"><img alt="Carte du monde" src="images/bitd/world-map.png"></a>
+  <img alt="Carte de Doskvol" src="images/bitd/Doskvol-map.png">
+  <img alt="Carte de Crow's Foot" src="images/bitd/CrowsFoot-map.jpg">
+  <img alt="Carte du monde" src="images/bitd/world-map.png">
 </div>
 
 - [Session 1 - août 2017](pages/jdr-blades-in-the-dark.html#session-1-ao-t-2017)
@@ -180,7 +180,7 @@ lui arrachant son écharpe à mains nues, puis finalement décide de s'enfuir.
 Cela rend l'iruvien furieux. Sabre à la main, il se met en position de duel pour régler son compte à Eric,
 désarmé, décide de s'enfuir dans le dédale de rues pour regagner la place du marché
 
-![Iruvian sword fighter](images/bitd/iruvian_sword_fighter.jpg)
+![Iruvian sword fighter](images/bitd/NPCs/iruvian_sword_fighter.jpg)
 
 - quelques rues plus loin, l'homme du gang des Crows remercie Ethnos de lui avoir prêté main forte.
 Adossé à un mur, l'épaule amochée par sa chute, il lui explique que les marchants iruviens n'ont eu que ce qu'ils méritaient :
@@ -198,15 +198,9 @@ En toute transparence, Elaria informe également Bell que Baszos leur a proposé
 Elle quitte ensuite les lieux pour retourner au galion.
 
 <figure role="group" class="side-by-side">
-  <a href="images/bitd/Thief_clocktower1.jpg" target="_blank">
-    <img alt="Clocktower concept art 1 de Mathieu Latour" src="images/bitd/Thief_clocktower1.jpg">
-  </a>
-  <a href="images/bitd/Thief_clocktower2.jpg" target="_blank">
-    <img alt="Clocktower concept art 2 de Mathieu Latour" src="images/bitd/Thief_clocktower2.jpg">
-  </a>
-  <a href="images/bitd/Thief_clocktower3.jpg" target="_blank">
-    <img alt="Clocktower concept art 3 de Mathieu Latour" src="images/bitd/Thief_clocktower3.jpg">
-  </a>
+  <img alt="Clocktower concept art 1 de Mathieu Latour" src="images/bitd/places/Thief_clocktower1.jpg">
+  <img alt="Clocktower concept art 2 de Mathieu Latour" src="images/bitd/places/Thief_clocktower2.jpg">
+  <img alt="Clocktower concept art 3 de Mathieu Latour" src="images/bitd/places/Thief_clocktower3.jpg">
   <figcaption>Concept art de <a href="https://www.artstation.com/artwork/Yl1b">Mathieu Latour</a></figcaption>
 </figure>
 
@@ -234,9 +228,7 @@ et quelques pièces.
 **Aldo**, un ancien membre du gang des Crows, désormais pourchassé par Lyssa car il l'a vu assassiner Roric !
 
 <figure role="group">
-  <a href="images/bitd/HarpoonGangHQ.jpg" target="_blank">
-    <img alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
-  </a>
+  <img alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
   <figcaption>La planque du gang du Harpon - réalisé par <a href="https://www.behance.net/10sei">un des joueurs</a></figcaption>
 </figure>
 
@@ -265,9 +257,7 @@ un ouvrier manœuvre, Joerg, s'est fait poursuivre par un fantôme ivre de rage 
 qui a massacré tout le monde sur son passage
 
 <figure role="group">
-  <a href="images/bitd/dishonored-whale-slaughterhouse.jpg" target="_blank">
-    <img alt="Les chantiers navals des navires Léviathan" src="images/bitd/dishonored-whale-slaughterhouse.jpg">
-  </a>
+  <img alt="Les chantiers navals des navires Léviathan" src="images/bitd/places/dishonored-whale-slaughterhouse.jpg">
   <figcaption>Les chantiers navals des navires Léviathan - artwork de Dishonored - Viktor Antonov - Sébastien Mitton - Cedric Peyravernay</figcaption>
 </figure>
 
@@ -314,7 +304,7 @@ A ses trousses, Ethnos dans le corps de Lodius lui cours après en lui criant de
 ## Session 5 - 1er août 2019
 
 <figure>
-  <img alt="Ethnos" src="images/bitd/Ethnos.jpg">
+  <img alt="Ethnos" src="images/bitd/PCs/Ethnos.jpg">
   <figcaption>Le personnage d'Ethnos par Elliot Jolivet aka Tenseï</figcaption>
 </figure>
 
@@ -352,7 +342,7 @@ Le gang du harpon leur remet l'équivalent d'un demi-tonnelet de sang de Léviat
 L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse
 le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
 <figure>
-  <img alt="Ethnos" src="images/bitd/sebastian-bauer-dojo-05.jpg">
+  <img alt="Ethnos" src="images/bitd/places/sebastian-bauer-dojo-05.jpg">
   <figcaption>Le dojo de l'Écharpe Rouge</figcaption>
 </figure>
 
@@ -364,7 +354,7 @@ pour finalement se faire chasser par les videurs car il gêne les autres clients
 Bell leur fait comprendre qu'il n'apprécie pas qu'ils aient débauché Aldo, et que les conflits internes au gang Crows ne regardent personne d'extérieur.
 Il finit par s'énerver quand les PJs évoquent l'idée de partager le territoire de Lyssa, et la rencontre se termine précipitamment.
 
-![La tour de l'horloge des Crows](images/bitd/SMClocktower-CG1.jpg)
+![La tour de l'horloge des Crows](images/bitd/places/SMClocktower-CG1.jpg)
 
 - pour finir la journée, les PJs décident de profiter des repérages d'Eric et d'organiser une opération le soir même sur le lupanar de Lyssa.
 Eric profite de la complicité de la fille de joie qu'il connait pour y introduire Elaria cachée dans un tonneau.
@@ -379,18 +369,18 @@ dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 ## Session 6 - 8 février 2020
 
 <figure role="group">
-  <!--img alt="Lodius Dalmore" src="images/bitd/Lodius B&W.jpg"-->
-  <img alt="Lodius Dalmore" src="images/bitd/Lodius.jpg">
+  <!--img alt="Lodius Dalmore" src="images/bitd/PCs/Lodius Bimages/bitd/Lodius B&W.jpgW.jpg"-->
+  <img alt="Lodius Dalmore" src="images/bitd/PCs/Lodius.jpg">
   <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
 <div class="side-by-side">
   <figure role="group">
-    <img alt="Elaria" src="images/bitd/Elaria.jpg">
+    <img alt="Elaria" src="images/bitd/PCs/Elaria.jpg">
     <figcaption>Elaria par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Eric Stamp" src="images/bitd/EricStamp.jpg">
+    <img alt="Eric Stamp" src="images/bitd/PCs/EricStamp.jpg">
     <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
   </figure>
 </div>
@@ -436,11 +426,11 @@ Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une op
 
 <div class="side-by-side">
   <figure role="group">
-    <img alt="Darmot portrait" src="images/bitd/Darmot.jpg">
+    <img alt="Darmot portrait" src="images/bitd/NPCs/Darmot.jpg">
     <figcaption>Darmot portrait <em>(Carlos Carbrera)</em></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Jenny Holt, Silver Nails" src="https://cdna.artstation.com/p/assets/images/images/007/765/046/large/cedric-peyravernay-01.jpg?1508355612">
+    <img alt="Jenny Holt, Silver Nails" src="images/bitd/NPCs/JennyHolt.jpg">
     <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank"><em>(Cedric Peyravernay)</em></a></figcaption>
   </figure>
 </div>
@@ -455,11 +445,11 @@ de parfum et de pierres précieuses.
 
 <div class="side-by-side">
   <figure role="group">
-    <img alt="Mylera Klev" src="https://cdna.artstation.com/p/assets/images/images/015/505/384/large/mona-finden-windrider-2.jpg?1548613038">
+    <img alt="Mylera Klev" src="images/bitd/NPCs/MyleraKlev.jpg">
     <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank"><em>(Windrider 2 by Mona Finden)</em></a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Oru" src="https://cdnb.artstation.com/p/assets/images/images/012/643/861/large/silviu-sadoschi-old-master-final3.jpg?1535798091">
+    <img alt="Oru" src="images/bitd/NPCs/Oru.jpg">
     <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank"><em>(Old Master by Silviu Sadoschi)</em></a></figcaption>
   </figure>
 </div>
@@ -695,7 +685,7 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
     <figcaption><a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Baszos Baz" src="images/bitd/BaszosBaz.jpg">
+    <img alt="Baszos Baz" src="images/bitd/NPCs/BaszosBaz.jpg">
     <figcaption>Baszos Baz - John Harper</figcaption>
   </figure>
 </div>
@@ -725,21 +715,21 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 <img class="small-img" alt="Harpoon + Crow + Red Sash + White Eye" src="images/bitd/crow-harpoon-red-scard.jpg">
 
 <figure>
-  <img alt="Let's do this! - Ronamis" src="images/bitd/Ronamis-LetsDoThis.jpg">
+  <img alt="Let's do this! - Ronamis" src="images/bitd/places/Ronamis-LetsDoThis.jpg">
   <figcaption><a href="https://www.reddit.com/r/bladesinthedark/comments/gr4sm9/lets_do_this_bitd_image_by_ronamis/">Let's do this! - Ronamis</a></figcaption>
 </figure>
 
 <div class="side-by-side">
   <figure>
-    <img alt="Justinia (Talyn by Banished-shadow)" src="images/bitd/Justinia.png">
+    <img alt="Justinia (Talyn by Banished-shadow)" src="images/bitd/NPCs/Justinia.png">
     <figcaption>Justinia (<a href="https://www.deviantart.com/banished-shadow/art/Talyn-569327626">Talyn by Banished-shadow</a>)</figcaption>
   </figure>
   <figure>
-    <img alt="Early Morning Lights - Joseph Feely" src="images/bitd/JosephFeely-EarlyMorningLights.jpg">
+    <img alt="Early Morning Lights - Joseph Feely" src="images/bitd/places/JosephFeely-EarlyMorningLights.jpg">
     <figcaption><a href="https://www.artstation.com/artwork/3ddmVE">Early Morning Lights - Joseph Feely</a></figcaption>
   </figure>
   <figure>
-    <img alt="Josef Tucker (Daud By Infernal Guardian'17)" src="images/bitd/JosefTucker.jpg">
+    <img alt="Josef Tucker (Daud By Infernal Guardian'17)" src="images/bitd/PCs/JosefTucker.jpg">
     <figcaption>Josef Tucker (Daud By Infernal Guardian'17)</figcaption>
   </figure>
 </div>
@@ -838,22 +828,22 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
 
 <div class="side-by-side">
   <figure>
-    <img alt="Portrait de Lodius en pied" src="images/bitd/Lodius-en-pied.gif">
-    <figcaption>Lodius - <a href="images/bitd/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
+    <img alt="Portrait de Lodius en pied" src="images/bitd/PCs/Lodius-en-pied.gif">
+    <figcaption>Lodius - <a href="images/bitd/PCs/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
                 GIF créé avec <a href="https://icons8.com/animizer/en/animate-static-image">Animizer</a> puis retouché avec <a href="https://ezgif.com/effects">EZGIF</a></figcaption>
   </figure>
   <!--figure>
     <video autoplay loop>
-      <source src="https://chezsoi.org/lucas/blog/images/bitd/Lodius-en-pied-moshed.webm">
+      <source src="https://chezsoi.org/lucas/blog/images/bitd/PCs/Lodius-en-pied-moshed.webm">
     </video>
     <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
   </figure-->
   <figure>
-    <img alt="Lord Scurlock" src="images/bitd/LordScurlock.jpg">
+    <img alt="Lord Scurlock" src="images/bitd/NPCs/LordScurlock.jpg">
     <figcaption>Lord Scurlock - <a href="https://www.deviantart.com/miles-johnston/art/Dnd-Rudolph-Van-Richten-331873119">Dnd - Rudolph Van Richten by Miles-Johnston</a></figcaption>
   </figure>
   <figure>
-    <img alt="Inspector Boden" src="images/bitd/Inspector-Boden.jpg">
+    <img alt="Inspector Boden" src="images/bitd/NPCs/Inspector-Boden.jpg">
     <figcaption>Inspector Boden - <a href="https://quarkmaster.tumblr.com/post/158062423277/nq70-watch-inspector-watch-inspector-career">Watch Inspector by Mitchell Malloy</a></figcaption>
   </figure>
 </div>
@@ -998,13 +988,13 @@ mais Aldo est néanmoins dévorrés vivant sous leurs yeux.
 
 Il s'injecte alors un sérum de physicker dans le bras, et se transforme partiellement...
 
-![](images/bitd/KingShark.jpg)
+![](images/bitd/NPCs/KingShark.jpg)
 
 Armé de son marteau qu'il fait tournoyer, il fait un ravage parmis les mort-vivants.
 Malheusement, Justinia meurt dans l'effondrement d'un bâtiment en flammes.
 ([bande son @YouTube](https://www.youtube.com/watch?v=3FrXSJ5AS8I))
 
-![](https://images5.alphacoders.com/660/thumb-1920-660038.jpg)
+![](images/bitd/Doskvol-in-flames.jpg)
 
 Le gang traverse l'incendie, alors que le quartier est en feu : [clip issu de Thief 4](https://youtu.be/cHF-jZfe1G0?t=3536).
 
@@ -1101,6 +1091,7 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
   <img alt="" src="https://i.redd.it/fdjdbdb3ugg91.png">
   <img alt="" src="https://i.redd.it/3mo38kczugg91.png">
 </div>
+<figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wj5m9r/in_addition_to_character_portraits_aigenerated/">Generated by @Homard93 with Midjourney &amp; StableDiffusion @ Reddit</a></figcaption>
 
 Le gang se résigne à abandonner leur QG au galion, et trouve promptement une solution de remplacement : ils ciblent **l'entreprise de transport Gruber & Fils**, résidant sur leur territoire, et en difficultés financières selon la rumeur...
 Josef & Lodius décident de rendre visite au patron, M. Gruber, en se rendant directement dans les locaux de l'entreprise. Ils font peu de cas de la secrétaire qui s'interpose et entrent directement dans le bureau de M. Gruber. Très explicites, ils font bien comprendre au chef d'entreprise transpirant le peu d'options qui s'offrent à lui... Il est convenu qu'en échange d'un investissement conséquent de messieurs Harris (Tucker) & J. Duncan (Lodius), qui permettront d'éponger les importantes dettes de l'entreprise auprès de notables de Duskvol, l'étage supérieur, dans les combles, du grand bâtiment en U de l'entreprise de transport sera réservé à leur usage confidentiel.
@@ -1167,17 +1158,26 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
 
 <!--
 
-> Rappel aussi pour la prochaine partie:
+> Rappel pour la prochaine partie:
+>
 > - Elaria a eu des infos sur le Cercle de la Flamme, mais ils sont maintenant au courant que quelqu'un les cherche. (Oui mais)
 > - On n'a pas eu le temps de regarder à quel point notre nouvel entreprise était déficitaire mais je crains le pire. On sait qu'elle a de nombreux débiteurs.
 > - On a appris que le Cercle de la Flamme voulait invoquer un certains prince démon Kotar.
 
-![](https://preview.redd.it/i21kcljezvj91.jpg?width=640&crop=smart&auto=webp&v=enabled&s=a6d21b018fc91207858ceb3ab5ac8f30252af440)
-
-![](https://preview.redd.it/l9iobjigzvj91.jpg?width=640&crop=smart&auto=webp&v=enabled&s=e013a4edb4a2497c8931f3c679259bac66836b34)
+<figure>
+  <div class="side-by-side">
+    <img src="images/bitd/NPCs/Marlane-by-Cryptocartographer.webp" alt="Marlane">
+    <img src="images/bitd/NPCs/PuxBolin-by-Cryptocartographer.webp" alt="Pux Bolin">
+  </div>
+  <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/">Marlane &amp; Pux Bolin by @Cryptocartographer @ Reddit</a></figcaption>
+</figure>
 
 ### Ressources
-- [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): 128 CC-BY AI-generated illustrations
+- illustrations:
+    + [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): 128 CC-BY AI-generated illustrations
+    + [AI generated NPC portraits @Reddit](https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/)
+    + [Doskvol city album by Midjourney @Reddit](https://www.reddit.com/r/bladesinthedark/comments/1456qv4/doskvol_city_album_by_midjourney/)
+    + [Large thematic gang hideout background by @thepunintendad @ Reddit](https://www.reddit.com/r/bladesinthedark/comments/12xrgs9/made_some_thematic_scenespages_in_foundry_for_the/)
 - ambiance musicale :
     + [playlist Doskvol @YouTube](https://www.youtube.com/playlist?list=PLBbYqwGsEaZNIvZfTTmPzAGXamSD3e7mz)
 
@@ -1212,7 +1212,7 @@ ALT: campaign END -> they become COPS !
 * ToRead/ -> many ideas for scores
 * rédiger une feuille par gang majeur
 * prendre inspis de Dirty MJ
-* trouver illustrations pour les PNJs ppaux, ex: <img alt="Ulf Ironborn" src="images/bitd/ulf_ironborn.png">
+* trouver illustrations pour les PNJs ppaux, ex: <img alt="Ulf Ironborn" src="images/bitd/NPCs/ulf_ironborn.png">
   NPCs: https://www.reddit.com/r/bladesinthedark/comments/w2aq02/i_made_some_npc_portraits_for_an_upcoming_vtt/
         https://www.reddit.com/r/bladesinthedark/comments/wh1vci/more_npc_art_for_doskvol_scurlock/
         https://www.reddit.com/r/bladesinthedark/comments/wxr31c/i_started_gm%C3%ADng_a_game_of_blades_and_drew_my/
@@ -1300,6 +1300,9 @@ Pour chaque "strate" du tatouage, le principe est le même :
   * s'entrainer (roue x4) ou tester par soi-même pour maîtriser le nouveau pouvoir
 Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site dcode.fr (sans lui indiquer la page)
 
+Reddit image downloader:
+    bdfr download . --folder-scheme '' --link $POST_URL
+
 Online rpg-dice boards:
 * https://chezsoi.org/lucas/jdr/rpg-dice/Elaria?bitd=1
 * https://chezsoi.org/lucas/jdr/rpg-dice/Eric?bitd=1
@@ -1332,7 +1335,8 @@ article figcaption { text-align: center; }
   align-items: center;
   flex-flow: wrap;
 }
-.side-by-side > * { flex: 1 0; padding: 0 .5rem; }
+.side-by-side > * { padding: 0 .5rem; }
+.side-by-side > a, .side-by-side > figure { flex: 1 0; }
 .side-by-side > figcaption { min-width: 100%; }
 /* headless tables */
 article table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; margin: 0 auto; }
@@ -1386,5 +1390,15 @@ function buildId(s) {
         title.onmouseover = function () { this.getElementsByTagName('svg')[0].style.visibility = 'visible'; };
         title.onmouseout = function () { this.getElementsByTagName('svg')[0].style.visibility = 'hidden'; };
     });
+});
+// Make all images clickables:
+document.querySelectorAll("article img").forEach(function (img) {
+    if (img.parentElement.tagName !== "A") {
+        var a = document.createElement('a');
+        a.href = img.src;
+        a.target = "_blank";
+        img.parentElement.appendChild(a);
+        a.appendChild(img); // reparent <img>
+    }
 });
 </script>
