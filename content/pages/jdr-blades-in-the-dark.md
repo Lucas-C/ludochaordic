@@ -1175,17 +1175,14 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
 ### Ressources
 - illustrations:
     + [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): 128 CC-BY AI-generated illustrations
-    + [AI generated NPC portraits @Reddit](https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/)
+    + [AI generated NPC portraits @Reddit](https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/) & [Some character art for my crew, made with Midjourney](https://www.reddit.com/r/bladesinthedark/comments/13wkngm/some_character_art_for_my_crew_made_with/)
     + [Doskvol city album by Midjourney @Reddit](https://www.reddit.com/r/bladesinthedark/comments/1456qv4/doskvol_city_album_by_midjourney/)
     + [Large thematic gang hideout background by @thepunintendad @ Reddit](https://www.reddit.com/r/bladesinthedark/comments/12xrgs9/made_some_thematic_scenespages_in_foundry_for_the/)
+    + [Spirit Warden portraits with AI by @LoneRubberDucky](https://imgur.com/a/vae0Lrd)
 - ambiance musicale :
     + [playlist Doskvol @YouTube](https://www.youtube.com/playlist?list=PLBbYqwGsEaZNIvZfTTmPzAGXamSD3e7mz)
 
 <!-- Idées :
-
-* demande humble d'aide de la part d'un membre du quartier
-* introduire un Spirit Well
-* introduire 2 derniers "artefacts magiques" inventés par les joueurs à la partie précédente
 
 * sujets immédiats à traiter:
     + Bell leur propose un coup (Gaddoc Rail) mais va tenter de les doubler / diminuer leurs forces
@@ -1193,31 +1190,35 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
     + comptabilité de Gruber & Fils : dettes à régler à Scurlock & Lord Mora (cercle de la Flamme)
     + Scurlock
 
+* demande humble d'aide de la part d'un membre du quartier
+* introduire un Spirit Well
+* introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
 * huis clos ?
+* prendre inspis de Dirty MJ
+* ToRead/ -> many ideas for scores
+
+Campagne:
 * logbook = game changer, va modifier équilibre des forces de la ville...
   -> peut permettre la libération des enfants de Setarra et/ou le retour de Kotar (Cercle de la Flamme)
 * introduire un événement à gros impact sur la ville : plus de soleil ? épidémie zombie ?
   idéalement lié aux actions des PJs / au logbook / à Lord Scurlock / Cercle de la Flamme
-* When the gang attempts a heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
 * dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
-ALT: campaign END -> they become COPS !
-* gimmick pour PNJs: renifle tout, les gens, les lieux
-
-* clips vidéos :
-    + [Vision de la Tour de l'Horloge désertée](https://youtu.be/cHF-jZfe1G0?t=685)
-
-* ToPrint: nouvelle illustration Lodius d'Elliot EN COULEUR + poster WANTED Eric
-  + https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
-* ToRead/ -> many ideas for scores
 * rédiger une feuille par gang majeur
-* prendre inspis de Dirty MJ
-* trouver illustrations pour les PNJs ppaux, ex: <img alt="Ulf Ironborn" src="images/bitd/NPCs/ulf_ironborn.png">
-  NPCs: https://www.reddit.com/r/bladesinthedark/comments/w2aq02/i_made_some_npc_portraits_for_an_upcoming_vtt/
-        https://www.reddit.com/r/bladesinthedark/comments/wh1vci/more_npc_art_for_doskvol_scurlock/
-        https://www.reddit.com/r/bladesinthedark/comments/wxr31c/i_started_gm%C3%ADng_a_game_of_blades_and_drew_my/
-        https://www.reddit.com/r/bladesinthedark/comments/wj1p1j/i_generated_all_of_the_spirit_warden_portraits_i/
-        https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/
+* sélectionner illustrations pour les PNJs ppaux
+    + gimmick pour PNJs: renifle tout, les gens, les lieux
+ALT: campaign END -> they become COPS !
+
+Moments:
+* Vision de la Tour de l'Horloge désertée: https://youtu.be/cHF-jZfe1G0?t=685
+* heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
+
+ToPrint:
+* nouvelle illustration Lodius d'Elliot EN COULEUR + poster WANTED Eric
+* https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
+  & Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view ?
+
+Ressources to CRAFT:
 * make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 
@@ -1240,8 +1241,6 @@ Ressources TO MENTION:
 > Most citizens of Duskwall are terrified of ghosts. Lost, mad, destructive spirits, whose only desire is to return to the warm embrace of a warm body. They’ve lost their own, but are eager to adopt yours.
 > But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
 
-Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view
-
 Demons & creatures in the Ghost Field:
 * https://www.deviantart.com/carpet-crawler/art/Rooster-Knight-Splash-Animation-876402753
 * Leviathan: https://www.deviantart.com/carpet-crawler/art/The-Dream-Quest-of-Elyza-Lee-Commission-Work-822423747
@@ -1249,20 +1248,22 @@ Demons & creatures in the Ghost Field:
 Maps:
 * The jailhouse: https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/
 * Docks of the Dead: https://2minutetabletop.com/product/docks-of-the-dead/
-* Mine: https://www.reddit.com/r/FantasyMaps/comments/mo7fsq/deep_gnome_hamlet_map_30x38battlemapoc/
-* Mine & poches de liquide: https://2minutetabletop.com/product/thermal-mines-1/
-* Égouts https://2minutetabletop.com/product/sewer-map-assets/
+* Mine:
+    + https://www.reddit.com/r/FantasyMaps/comments/mo7fsq/deep_gnome_hamlet_map_30x38battlemapoc/
+    + poches de liquide: https://2minutetabletop.com/product/thermal-mines-1/
 * (Scurlock ?) Haunted Mansion: https://2minutetabletop.com/product/haunted-mansion-furnished/
 * Typical Tavern: https://2minutetabletop.com/product/typical-tavern/
 * QG Écharpe Rouge: https://2minutetabletop.com/product/japanese-castle/
-* Dragon Ghost: https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
+* Ghost Ship: https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
 * Tangle Town: http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
-* WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
+* Lord Governor’s Stronghold @ WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
 * The Bridge District: https://i.imgur.com/LmQfBdl.jpeg
 * Les égouts :
     + https://guillaumetavernierblog.wordpress.com/2017/04/17/87/
     + https://guillaumetavernierblog.wordpress.com/2017/04/17/86/
     + https://guillaumetavernierblog.wordpress.com/2017/04/17/80/
+    + https://2minutetabletop.com/product/sewer-map-assets/
+    + https://2minutetabletop.com/product/sewer-hideout/
 
 Énigme à tiroirs des tatouages d'Ethnos-Lodius:
 1. Écrit en Hadrathi (iruvien) de manière "stylisé" :
@@ -1300,8 +1301,10 @@ Pour chaque "strate" du tatouage, le principe est le même :
   * s'entrainer (roue x4) ou tester par soi-même pour maîtriser le nouveau pouvoir
 Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site dcode.fr (sans lui indiquer la page)
 
-Reddit image downloader:
-    bdfr download . --folder-scheme '' --link $POST_URL
+Tools:
+    Pinterest images downloader: ./pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/
+    Reddit images downloader: bdfr download . --folder-scheme '' --link $POST_URL
+    Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk
 
 Online rpg-dice boards:
 * https://chezsoi.org/lucas/jdr/rpg-dice/Elaria?bitd=1
@@ -1391,8 +1394,8 @@ function buildId(s) {
         title.onmouseout = function () { this.getElementsByTagName('svg')[0].style.visibility = 'hidden'; };
     });
 });
-// Make all images clickables:
-document.querySelectorAll("article img").forEach(function (img) {
+// Make all article images clickables / openable in a new tab:
+document.querySelectorAll("article img").forEach((img) => {
     if (img.parentElement.tagName !== "A") {
         var a = document.createElement('a');
         a.href = img.src;
@@ -1401,4 +1404,16 @@ document.querySelectorAll("article img").forEach(function (img) {
         a.appendChild(img); // reparent <img>
     }
 });
+// Detect broken image links:
+const DELAY_IN_MS_FOR_IMAGES_TO_LOAD = 10/*seconds*/ * 1000/*ms*/;
+setTimeout(() => {
+    document.querySelectorAll("img").forEach((img) => {
+        if (!img.complete || !img.naturalWidth) {
+            console.error(img, `failed to load after ${DELAY_IN_MS_FOR_IMAGES_TO_LOAD / 1000} seconds`);
+            if (location.hostname === "localhost" ) {
+                alert(`${img.src} failed to load after ${DELAY_IN_MS_FOR_IMAGES_TO_LOAD / 1000} seconds`);
+            }
+        }
+    });
+}, DELAY_IN_MS_FOR_IMAGES_TO_LOAD);
 </script>

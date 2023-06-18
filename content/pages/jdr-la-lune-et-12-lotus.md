@@ -14,35 +14,36 @@ Ressources :
 
 # Principes de la campagne
 * pas de table régulière : chaque partie peut avoir des **joueurs différents**, conservant leur même personnage (façon [_les marches de l'ouest_](https://www.cestpasdujdr.fr/les-marches-de-louest/))
-* jeu **bac à sable** : pas d’intrigue linéaire, les joueurs décidaient où aller et quoi faire
+* jeu **bac à sable** : pas d’intrigue linéaire, les joueurs décident où aller et quoi faire
 * aux joueurs de prendre des **notes**, le MJ ne servira pas de mémoire de substitution
 * le monde est **hostile** : des choix mal avisés peuvent mener à la **mort** en un instant - la retraite est toujours une option
-* la **magie** existe, elle vient de la **lune**, et elle corrompt l’esprit et le corps.
-  Il existe des objets **enchantés** lors de rituels par le sang et la lune.
-  Ils ont une histoire, servent parfois les dieux, et le employer a parfois un prix.
 * le MJ et le système encouragent le _**problem solving**_ pour contourner les obstacles, plutôt que de lancer les dés
 * il s'agit d'un univers de _**Sword & Sorcery**_ :
     + ses héros sont des hommes et des femmes d’action, violents, qui bougent vite et sans se poser beaucoup de questions métaphysiques – en tout cas, jamais avant d’avoir agi
     + ce sont des marginaux, dont les motivations personnelles ne témoignent pas toujours d’un sens moral aigu, mais qui ne restent pas indifférents au monde qui les entoure, même s’ils s’en défendent la plupart du temps
+* la **magie** existe, elle vient de la **lune**, et elle corrompt l’esprit et le corps.
+  Il existe des objets **enchantés** lors de rituels par le sang et la lune.
+  Ils ont une histoire, servent parfois les dieux, et le employer a parfois un prix.
 
 # Illustrateurs inspirants
 * [ma-ko](https://www.instagram.com/drivemeawaytroubledheart/)
 * [a.shpwright](https://www.deviantart.com/ashpwright/gallery) : [The Red Knyght](https://www.deviantart.com/ashpwright/art/The-Red-Knyght-942511363), [The Blood Bow](https://www.deviantart.com/ashpwright/art/The-Blood-Bow-941891376), [Those Who Were Mistaken for Gods](https://www.deviantart.com/ashpwright/art/Those-Who-Were-Mistaken-for-Gods-940886871), [Gudrun the Snakehead](https://www.deviantart.com/ashpwright/art/Gudrun-the-Snakehead-935691728), [War Horn](https://www.deviantart.com/ashpwright/art/War-Horn-933143524), [The Sword Without](https://www.deviantart.com/ashpwright/art/The-Sword-Without-864799392), [Widow](https://www.deviantart.com/ashpwright/art/Widow-921822872), [The Wind Cutter](https://www.deviantart.com/ashpwright/art/The-Wind-Cutter-916596321)
 
 # Session 1 - mars 2022
-**Lieu** : désert entre le Sarmath et l'Erebe, au nord des Montagnes Blanches
+Lieux :
 
-**Villes** : Glassice (départ) - Aldap (étape) - Tomer (arrivée)
+* désert entre le Sarmath et l'Erebe, au nord des Montagnes Blanches
+* Glassice (ville de départ) - Aldap (ville étape) - Tomer (ville d'arrivée)
 
 PJs :
 
-* **Matan** (sabathéen, Aurélien) : ancien pécheur de baleine devenu pirate après qu'on lui ait promis la gloire, superstitieux
+* **Matan** (sabatéen, Aurélien) : ancien pécheur de baleine devenu pirate après qu'on lui ait promis la gloire, superstitieux
 * **Lushan** (siamois, Elliot) : ancien maître d'arme, exilé volontaire en quête de rédemption, en armure lourde
 
 PNJs rencontrés :
 
 * **Ramal** : chef d'escorte mercenaire
-* **Alès** : mercenaire sabathéen rencontré à Glassice
+* **Alès** : mercenaire sabatéen rencontré à Glassice
 * **Hephia** : marchand revendeur d’orfèvrerie en bronze
 
 <figure>
@@ -60,35 +61,66 @@ Nouveaux PJs :
 * **Luce** (voïvoche, Andrée) : fils d'une riche famille d'éleveurs cherchant à se faire un nom
 * **Kora** (cimérienne, Laure) : exilée d'une grande beauté au visage masqué
 
-**Lieu** : village temporaire de tentes formé pour les funérailles du Roi Pélerin, près de la forteresse de la Reine Pourpre
+Lieux :
 
-**Villes** : Agadé (proche)
+* village temporaire de tentes formé pour les funérailles du Roi Pélerin, près de la forteresse de la Reine Pourpre. Le succession de ce dernier est incertaine, comme son fils unique a été assassiné il y a quelques années.
 
-PNJs rencontrés :
+Récap' :
 
-* **Tonris** : "marchand" shamarite, roublard mais couard
-<!--
-* **Ricalu** : sorcier (maîtrise : instinct, vision, marque de sang, animation des morts) à l'origine du sort de ciel-aveugle.
-               A attaqué les PJs en étant invisible, en leur lançant une boule de feu.
--->
-
-**Récap'** :
-
-* rencontre des PJs qui sauvent la mise à Tonris
+* rencontre des PJs qui sauvent la mise à **Tonris**, un "marchand" shamarite, roublard mais couard
 * celui-ci leur propose "un coup en or", et les mène à [une tour près d'un lac](https://i.ytimg.com/vi/ymxVFd_f8go/maxresdefault.jpg)
 * en vrac : tapisserie invisible, feu follet, pélicans géants, mouche géante, fontaine avec armure, sorcier invisible, basilique, géants, kastromancie, 24e pièce...
 
 <!--
+Les PJs ont également croisé **Ricalu**, un sorcier (maîtrise : instinct, vision, marque de sang, animation des morts) à l'origine du sort de ciel-aveugle.
+Il a attaqué les PJs en étant invisible, en leur lançant une boule de feu.
+-->
+
+# Session 3 - juin 2023
+
+![](images/lle12l/giant-snake.png)
+
+Nouveau PJ :
+
+* **Katura** (sabatéenne, Anna) : pêcheuse de perles du Saba, portant un bandeau sur un oeil
+
+Lieux :
+
+* la Forteresse de la Reine Pourpre
+* le fleuve Serpent
+* Agadé
+* le campement de l'armée de Gondar
+
+PNJs croisés :
+
+* **Ulagan**, ancienne bras droit du Roi Pélerin, commandante de la Forteresse, très âgée
+* **Gondar**, ancien général du Roi Pélerin, cherche à prendre le contrôle de la Forteresse
+* **Marika**, apothicaire de la Forteresse
+* **Gus**, marchand sabatéen
+* **Yog**, recruteur pour l'armée de Gondar
+* **PaoPao**, mercenaire siamoise
+
+<!--
+Dans le prochain épisode:
+* loot de plein de trucs dans la caverne au serpent
+* exécution d'Ulagan organisée par Gondar à la Forteresse
+* affontement avec le sorcier Ricalu
+* mère des Vorgacks = dragon dans les fondations du château
+* l'intendant (père de Tomasz) revient de sa mission diplo, découvre le désastre et croise les PJs
+* Kora a un fand fan dans l'armée de Gondar
+* PaoPao apprécie Lushan
+
+Dungeon sounds: https://tabletopaudio.com/dungeon_sp.html
+
 Scénarios :
 * p6. Or de tout doute [mixé avec] p17. De l'eau pour les braves [ainsi que] p49. L’auberge rousse
 * p8. La confusion des sentiments
 * p23. Une putain de bonne nuit ! -> improviser un système pour la récupération des souvenirs, dans le désordre
-* p30. Survivre et se venger -> en remplaçant les Grostesques par autre chose... mais la structure est bonne !
+* p28-30. Survivre et se venger -> en remplaçant les Grostesques par autre chose... mais la structure est bonne !
 * p32. Les villages du damné (les PJs doivent être des quasi-paladins pour prendre ce risque !)
 * p51. Du shamar à l’Erebe
 * https://surlepouce.dragounet.com/scenarios/la-lune-et-12-lotus
 
-Bande son ? https://tabletopaudio.com/dungeon_sp.html / https://www.youtube.com/watch?v=5DZu8TB6kbE
 Scénarios inspirés d'Olija ? https://www.instagram.com/p/CVlOIBxFWKS/
 * harpon légendaire : https://halfglassgaming.com/wp-content/uploads/2021/01/olija-relic.jpg / https://www.instagram.com/p/CKe3KRQj2-Y/
 * moonblade
@@ -97,8 +129,7 @@ Scénarios inspirés d'Olija ? https://www.instagram.com/p/CVlOIBxFWKS/
 * clan Noirsaule = Rottenwood / Yellow cloak (twisted god with a single eye)
 * character design: https://twitter.com/skeletoncrewen/status/1085090717955846146
 
-
-## One page dungeons
+One page dungeons:
 * The sky-blind spire (wizard tower with a puzzle): http://blog.trilemma.com/2016/04/the-sky-blind-spire.html
 * Basilica of the Leper Messiah: http://blog.trilemma.com/2017/09/basilica-of-leper-messiah.html
 * The call of the light: http://blog.trilemma.com/2016/12/the-call-of-light.html
