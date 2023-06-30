@@ -33,13 +33,13 @@ def get_process_rss():  # Similar to: psutil.Process().memory_info().rss / 1024 
     except FileNotFoundError:  # /proc files only exist under Linux
         return "<unavailable>"
 
-class A:
+class Object:
     def __init__(self, x, y, z):
         self.x = x
         self.y = y
         self.z = z
 
-class B:
+class ObjectWithSlots:
     __slots__ = ('x', 'y', 'z')
     def __init__(self, x, y, z):
         self.x = x
@@ -47,23 +47,29 @@ class B:
         self.z = z
 
 @dataclass
-class C:
+class Dataclass:
     x: int
     y: int
     z: int
 
 @dataclass(slots=True)  # since Python 3.10, this is the same as defining __slots__ manually
-class D:
+class DataclassWithSlots:
     x: int
     y: int
     z: int
 
-E = namedtuple('E', ('x', 'y', 'z'))
+Namedtuple = namedtuple('E', ('x', 'y', 'z'))
 
-class F(NamedTuple):
+class NamedTupleSubclass(NamedTuple):
     x: int
     y: int
     z: int
+
+def Tuple(x, y, z):
+    return (x, y, z)
+
+def Dict(x, y, z):
+    return locals()
 
 Class = locals()[sys.argv[1].upper()]
 l = []
@@ -74,33 +80,41 @@ print(get_process_rss())
 
 Results on my machine with Python 3.8:
 ```
-$ ./slots_test.py a
+$ ./slots_test.py Object
 26.6 MiB
-$ ./slots_test.py b
+$ ./slots_test.py ObjectWithSlots
 17.2 MiB
-$ ./slots_test.py c
+$ ./slots_test.py Dataclass
 26.7 MiB
-$ ./slots_test.py d
+$ ./slots_test.py DataclassWithSlots
 17.2 MiB
-$ ./slots_test.py e
+$ ./slots_test.py Namedtuple
 19.1 MiB
-$ ./slots_test.py f
+$ ./slots_test.py NamedTupleSubclass
 19.2 MiB
+$ ./slots_test.py Tuple
+17.8 MiB
+$ ./slots_test.py Dict
+34.5 MiB
 ```
 Results on my machine with Python 3.10 in debug mode:
 ```
-$ ./slots_test.py a
+$ ./slots_test.py Object
 28.3 MiB
-$ ./slots_test.py b
+$ ./slots_test.py ObjectWithSlots
 22.0 MiB
-$ ./slots_test.py c
+$ ./slots_test.py Dataclass
 28.3 MiB
-$ ./slots_test.py d
+$ ./slots_test.py DataclassWithSlots
 22.0 MiB
-$ ./slots_test.py e
+$ ./slots_test.py Namedtuple
 24.8 MiB
-$ ./slots_test.py f
+$ ./slots_test.py NamedTupleSubclass
 24.2 MiB
+$ ./slots_test.py Tuple
+24.3 MiB
+$ ./slots_test.py Dict
+38.3 MiB
 ```
 
 We can conclude that:

@@ -83,6 +83,11 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-7)
 - [Session 11 - 25 février 2023](pages/jdr-blades-in-the-dark.html#session-11-25-f-vrier-2023)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-8)
+- [Session 12 - 1er juillet 2023](pages/jdr-blades-in-the-dark.html#session-12-1er-juillet-2023)
+    * [QG @ Gruber & Fils](pages/jdr-blades-in-the-dark.html#gq-gruber-fils)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-9)
+    * [Mist adventures](pages/jdr-blades-in-the-dark.html#mist-adventures)
+    * [Recap'](pages/jdr-blades-in-the-dark.html#recap)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -119,7 +124,7 @@ _→ **3/3** ok_
 - bilan du stress et des blessures de chaque PJ
 
 ### Compte-rendu de partie
-<img alt="le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
+<img alt="Le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
 
 - le gang des PJs découvrent une page du _logbook_ tachée de sang dans les affaires de Stravul
 - Ethnos envisage de remplacer Lodius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
@@ -1156,6 +1161,61 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
 
 ## Session 12 - 1er juillet 2023
 
+### QG @ Gruber & Fils
+
+Une sélection d'illustrations gracieusement fournie par Elliot :
+
+<div class="side-by-side">
+  <figure>
+    <img src="images/bitd/QG/AtelierDAlchimieReconverti.jpg">
+    <figcaption>Atelier d'alchimie reconverti</figcaption>
+  </figure>
+  <figure>
+    <img src="images/bitd/QG/BureauDeMrGrubert.jpg">
+    <figcaption>Bureau de Mr. Grubert</figcaption>
+  </figure>
+  <figure>
+    <img src="images/bitd/QG/Lobby.jpg">
+    <figcaption>Lobby</figcaption>
+  </figure>
+  <figure>
+    <img src="images/bitd/QG/PartieDesaffectee.jpg">
+    <figcaption>Partie désaffectée</figcaption>
+  </figure>
+</div>
+<div class="side-by-side">
+  <figure>
+    <img src="images/bitd/QG/QuartiersDuHarpon.jpg">
+    <figcaption>Quartiers du Harpon</figcaption>
+  </figure>
+  <figure>
+    <img src="images/bitd/QG/VueExterieur.jpg">
+    <figcaption>Vue extérieur</figcaption>
+  </figure>
+  <figure>
+    <img src="images/bitd/QG/VueInterieure.jpg">
+    <figcaption>Vue intérieure</figcaption>
+  </figure>
+  <figure>
+    <img src="images/bitd/QG/ZoneDEntrepots.jpg">
+    <figcaption>Zone d'entrepots</figcaption>
+  </figure>
+</div>
+
+### Mist adventures
+
+<div class="side-by-side">
+  <img alt="In the catacombs ofthe College of Immortal Studies" src="images/bitd/in-the-catacombs.png">
+  <figure>
+    <img alt="Mist's ghost mask" src="images/bitd/PCs/mist-ghost-mask.png">
+    <figcaption>L'œil du masque de Mist semble avoir une expression différente à chaque fois qu'on l'observe...</figcaption>
+  </figure>
+</div>
+
+![](images/bitd/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg)
+
+### Recap'
+
 <!--
 
 > Rappel pour la prochaine partie:
@@ -1185,10 +1245,13 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
 <!-- Idées :
 
 * sujets immédiats à traiter:
+    + scène d'intro où les membres des Echos of the Past expérimentent sur Lodius
+        => deal avec Kristof Dahava, qui va infiltrer quelqu'un au Cercle de la Flamme
     + Bell leur propose un coup (Gaddoc Rail) mais va tenter de les doubler / diminuer leurs forces
     + Raffello (& son démon invisible) veut se venger
     + comptabilité de Gruber & Fils : dettes à régler à Scurlock & Lord Mora (cercle de la Flamme)
     + Scurlock
+    + Lodius a planqué le logbook
 
 * demande humble d'aide de la part d'un membre du quartier
 * introduire un Spirit Well
@@ -1214,7 +1277,6 @@ Moments:
 * heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
 
 ToPrint:
-* nouvelle illustration Lodius d'Elliot EN COULEUR + poster WANTED Eric
 * https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
   & Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view ?
 
@@ -1266,28 +1328,28 @@ Maps:
     + https://2minutetabletop.com/product/sewer-hideout/
 
 Énigme à tiroirs des tatouages d'Ethnos-Lodius:
-1. Écrit en Hadrathi (iruvien) de manière "stylisé" :
+1. [x] Écrit en Hadrathi (iruvien) de manière "stylisé" :
    53P355Ob n+ 7eW1ue un +910P uO+ 3P
    3We uO+ 3P 3u1e+1be> 37 51O5
    -> à l'envers + 133T SPEAK:
    SOIS LE CAPITAINE DE TON AME
    DE TON DOIGT UN ANIMAL TU POSSEDES
    (permet de contrôler un animal après l'avoir touché)
-2. Écrit dans un vieux patois de marin Severosi :
+2. [x] Écrit dans un vieux patois de marin Severosi :
    GH CRHK BHIEVE YRF LRHK
    GBA PBECF G'NCCNEGVRAG
    -> Cesar Cypher +13
    TU PEUX OUVRIR LES YEUX
    TON CORPS T'APPARTIENT
    (permet de contrôle le PJ + animaux en même temps)
-3. Écrit en ancien Tycherosi, dit "Babylonien" :
+3. [ ] Écrit en ancien Tycherosi, dit "Babylonien" :
    char(76)char(69)char(83)char(72)char(85)char(77)char(65)char(73)char(78)char(83)char(83)char(79)char(78)char(84)char(65)char(84)char(65)char(80)char(79)char(82)char(84)char(69)char(69)
    char(84)char(79)char(85)char(67)char(72)char(69)char(76)char(69)char(85)char(82)char(67)char(79)char(69)char(85)char(82)
    -> Code des templiers (attention au sens haut/bas) via dcode.fr:
    LESHUMAINSSONTATAPORTEE
    TOUCHELEURCOEUR
    (permet de contrôler des humains en touchant leur coeur)
-4. Écrit en cunéiforme démonique, mais déguisé en Skovic :
+4. [ ] Écrit en cunéiforme démonique, mais déguisé en Skovic :
    char(57)char(49)char(41)char(53)char(61)char(62)char(33)char(41)char(62)
    char(62)char(69)char(61)char(33)char(46)char(47)char(39)char(69)char(46)char(35)char(49)char(46)char(53)char(42)char(61)
    -> braille (attention au sens haut/bas) via dcode.fr:
@@ -1400,19 +1462,16 @@ document.querySelectorAll("article img").forEach((img) => {
         var a = document.createElement('a');
         a.href = img.src;
         a.target = "_blank";
-        img.parentElement.appendChild(a);
+        img.parentElement.insertBefore(a, img);
         a.appendChild(img); // reparent <img>
     }
 });
 // Detect broken image links:
-const DELAY_IN_MS_FOR_IMAGES_TO_LOAD = 10/*seconds*/ * 1000/*ms*/;
+const DELAY_IN_MS_FOR_IMAGES_TO_LOAD = 30/*seconds*/ * 1000/*ms*/;
 setTimeout(() => {
     document.querySelectorAll("img").forEach((img) => {
         if (!img.complete || !img.naturalWidth) {
             console.error(img, `failed to load after ${DELAY_IN_MS_FOR_IMAGES_TO_LOAD / 1000} seconds`);
-            if (location.hostname === "localhost" ) {
-                alert(`${img.src} failed to load after ${DELAY_IN_MS_FOR_IMAGES_TO_LOAD / 1000} seconds`);
-            }
         }
     });
 }, DELAY_IN_MS_FOR_IMAGES_TO_LOAD);
