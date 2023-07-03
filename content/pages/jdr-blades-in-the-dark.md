@@ -87,7 +87,7 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [QG @ Gruber & Fils](pages/jdr-blades-in-the-dark.html#gq-gruber-fils)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-9)
     * [Mist adventures](pages/jdr-blades-in-the-dark.html#mist-adventures)
-    * [Recap'](pages/jdr-blades-in-the-dark.html#recap)
+    * [Session de jeu](pages/jdr-blades-in-the-dark.html#session-de-jeu-2)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -1112,11 +1112,11 @@ Le Harpon décide de mettre en place un plan pour identifier le mouchard : ils p
 
 Le moment venu, les Bluecoats effectuent une descente massive dans le quartier, et se rendent au galion après avoir inspecté rapidement la Goule Fendue. Une fois sur place, Eric fait exploser le galion qui avait été préalablement piégé avec des explosifs, projetant d'énormes éclats de bois sur les forces de l'ordre. Eric s'enfuit au dernier moment par un conduit souterrain le menant à l'extérieur.
 
-Le gang révèle ensuite aux représentant des gangs alliés la raison de ce stratagème, et Mylera n'est pas ravie que sa confiance ait ainsi été mise en doute.
+Le gang révèle ensuite aux représentants des gangs alliés la raison de ce stratagème, et Mylera n'est pas ravie que sa confiance ait ainsi été mise en doute.
 Mais cela est rapidement arrangé en lui faisant présent d'un splendide harpon en os de Léviathan, une arme de **Spirit Warden**.
 
 L'investigation sur le meurtre de Noria finit par aboutir à porter les suspicions du gang sur **Shane**,
-un client régulier de la Goule Fendue de puis quelques mois...
+un client régulier de la Goule Fendue depuis quelques mois...
 Un interrogatoire est mené dans le sous-sol de la Goule Fendue, et Shane finit par avouer qu'il est un informateur pour **Boden**,
 et que c'est lui qui a tué Noria et tenté de faire porter le chapeau à l'Écharpe Rouge.
 D'ailleurs, d'autres opérations du même type seraient également organisés aux sein des autres gangs de Crow's Foot, pour semer la zizanie...
@@ -1129,7 +1129,7 @@ Ce problème est rapidement expédié, avec une descente à l'auberge concernée
 pour recadrer son patron, et démontrer publiquement que le Harpon est toujours là.
 
 Le gang se met ensuite en quête d'information concernant le **Cercle de la Flamme**,
-et fait jouer son réseau pour découvrir l'identité de certain de ses membres,
+et fait jouer son réseau pour découvrir l'identité de certains de ses membres,
 dont notamment le célèbre artiste peintre **Raffello**.
 Cela a néanmoins pour conséquence d'alerter ce groupe occulte que le gang du Harpon se renseigne sur eux...
 Une opération est alors organisée, pour aller fouiller son atelier sur les Docks,
@@ -1137,7 +1137,7 @@ tandis que Josef le suit à la trace jusqu'à une réception huppée à Silkshor
 
 Dans l'atelier du peintre, le gang découvre des toiles semblant prédire un avenir très sombre pour Doskvol,
 des peintures saisissantes de vérité pour Mist qui a traversé des événements similaires.
-Des livres d'occultisme sont également découverts, et le gang finit par décider de mettre le feu à la maison.
+Des livres d'occultisme sont également découverts, et le gang finit par décider de mettre le feu à la maison, après avoir été surpris par une amie du peintre...
 
 De son côté, Josef est malheureuement repéré par Raffello à la soirée de Lady Penderyn à Silkshore,
 et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible sous la gorge !
@@ -1167,62 +1167,93 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
 
 <div class="side-by-side">
   <figure>
-    <img src="images/bitd/QG/AtelierDAlchimieReconverti.jpg">
+    <img src="images/bitd/places/QG/AtelierDAlchimieReconverti.jpg">
     <figcaption>Atelier d'alchimie reconverti</figcaption>
   </figure>
   <figure>
-    <img src="images/bitd/QG/BureauDeMrGrubert.jpg">
+    <img src="images/bitd/places/QG/BureauDeMrGrubert.jpg">
     <figcaption>Bureau de Mr. Grubert</figcaption>
   </figure>
   <figure>
-    <img src="images/bitd/QG/Lobby.jpg">
+    <img src="images/bitd/places/QG/Lobby.jpg">
     <figcaption>Lobby</figcaption>
   </figure>
   <figure>
-    <img src="images/bitd/QG/PartieDesaffectee.jpg">
+    <img src="images/bitd/places/QG/PartieDesaffectee.jpg">
     <figcaption>Partie désaffectée</figcaption>
   </figure>
 </div>
 <div class="side-by-side">
   <figure>
-    <img src="images/bitd/QG/QuartiersDuHarpon.jpg">
+    <img src="images/bitd/places/QG/QuartiersDuHarpon.jpg">
     <figcaption>Quartiers du Harpon</figcaption>
   </figure>
   <figure>
-    <img src="images/bitd/QG/VueExterieur.jpg">
-    <figcaption>Vue extérieur</figcaption>
+    <img src="images/bitd/places/QG/VueExterieur.jpg">
+    <figcaption>Vue extérieure</figcaption>
   </figure>
   <figure>
-    <img src="images/bitd/QG/VueInterieure.jpg">
+    <img src="images/bitd/places/QG/VueInterieure.jpg">
     <figcaption>Vue intérieure</figcaption>
   </figure>
   <figure>
-    <img src="images/bitd/QG/ZoneDEntrepots.jpg">
-    <figcaption>Zone d'entrepots</figcaption>
+    <img src="images/bitd/places/QG/ZoneDEntrepots.jpg">
+    <figcaption>Zone d'entrepôts</figcaption>
   </figure>
 </div>
 
 ### Mist adventures
 
 <div class="side-by-side">
-  <img alt="In the catacombs ofthe College of Immortal Studies" src="images/bitd/in-the-catacombs.png">
   <figure>
     <img alt="Mist's ghost mask" src="images/bitd/PCs/mist-ghost-mask.png">
     <figcaption>L'œil du masque de Mist semble avoir une expression différente à chaque fois qu'on l'observe...</figcaption>
   </figure>
+  <img alt="In the catacombs ofthe College of Immortal Studies" src="images/bitd/in-the-catacombs.png">
+  <img alt="Rituel occulte souterrain" src="images/bitd/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg">
 </div>
 
-![](images/bitd/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg)
+### Session de jeu
 
-### Recap'
+<figure>
+    <img alt="Electro-rail train" src="images/bitd/places/Uncharted_AmongThieves_TrainConceptArt.jpg">
+    <figcaption>Electro-rail train</figcaption>
+</figure>
 
-<!--
 
-> Rappel pour la prochaine partie:
->
-> - Elaria a eu des infos sur le Cercle de la Flamme, mais ils sont maintenant au courant que quelqu'un les cherche. (Oui mais)
-> - On n'a pas eu le temps de regarder à quel point notre nouvel entreprise était déficitaire mais je crains le pire. On sait qu'elle a de nombreux débiteurs.
-> - On a appris que le Cercle de la Flamme voulait invoquer un certains prince démon Kotar.
+
+<figure>
+    <img alt="Rail Jack" src="images/bitd/NPCs/RailJack.jpg">
+    <figcaption>Rail Jack</figcaption>
+</figure>
+
+### Ressources
+- illustrations:
+    + [@pythosart illustrations @Tumblr](https://pythosart.tumblr.com/tagged/blades%20in%20the%20dark)
+    + [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): 128 CC-BY AI-generated illustrations
+    + [AI generated NPC portraits @Reddit](https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/) & [Some character art for my crew, made with Midjourney](https://www.reddit.com/r/bladesinthedark/comments/13wkngm/some_character_art_for_my_crew_made_with/)
+    + [Doskvol city album by Midjourney @Reddit](https://www.reddit.com/r/bladesinthedark/comments/1456qv4/doskvol_city_album_by_midjourney/)
+    + [Large thematic gang hideout background by @thepunintendad @ Reddit](https://www.reddit.com/r/bladesinthedark/comments/12xrgs9/made_some_thematic_scenespages_in_foundry_for_the/)
+    + [Spirit Warden portraits with AI by @LoneRubberDucky](https://imgur.com/a/vae0Lrd)
+- ambiance musicale :
+    + [playlist Doskvol @YouTube](https://www.youtube.com/playlist?list=PLBbYqwGsEaZNIvZfTTmPzAGXamSD3e7mz)
+    + [Heist | D&D/TTRPG Music | 1 Hour](https://www.youtube.com/watch?v=WW4bdFhcZgw)
+    + Boba Fett series soundtrack
+    + [Soundtrack for Dark Rituals and Ancient Cults - 1h @YouTube](https://www.youtube.com/watch?v=kMmHrtOfVvo)
+    + [Incantation, Dark Magic Pagan Ritual Folk, Whispering Witch - 1h @YouTube](https://www.youtube.com/watch?v=JIueAsVewuY)
+    + [Dark Ambient Melodies](https://www.youtube.com/watch?v=LptTKfrHSi4)
+    + [Dark Ritual Ambient | Vikings Ceremony Song - 1h @YouTube](https://www.youtube.com/watch?v=byNY7QcIAk8)
+    + [Dark Chantings Temple Occult Music - 1h @YouTube](https://www.youtube.com/watch?v=HlP8B0KrJxk)
+- clips vidéos :
+    + [Ritual - Dark Folk Music - Tagelharpa @YouTube](https://www.youtube.com/watch?v=tJ4u8U1ZLpw)
+- aides de jeu :
+    + [Blades in the Dark score collection @ itch.io](https://acoupleofdrakes.itch.io/unnofficial-blades-in-the-dark-score-collection-1), including: The Hour of Chains, Bad Dream House, Panic! at Brisco's Noodle Palace, A House of Cards: Shuffle up and deal with a high-stakes game at in a hidden casino where you'll be lucky to leave with your life, Gondolier in 60 Seconds, Every Man Jack, Little Rat Bastard, The Queen of Bones, What the Dog Dragged In, Hell on Rails
+    + [Opening Credits House Rule @Reddit](https://www.reddit.com/r/bladesinthedark/comments/14a7uzt/opening_credits_house_rule/)
+    + [Rail Jack playbook @bladesinthedark.com](https://bladesinthedark.com/blades-supplements)
+
+<!-- Idées :
+
+## Session 13
 
 <figure>
   <div class="side-by-side">
@@ -1232,33 +1263,19 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
   <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/">Marlane &amp; Pux Bolin by @Cryptocartographer @ Reddit</a></figcaption>
 </figure>
 
-### Ressources
-- illustrations:
-    + [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): 128 CC-BY AI-generated illustrations
-    + [AI generated NPC portraits @Reddit](https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/) & [Some character art for my crew, made with Midjourney](https://www.reddit.com/r/bladesinthedark/comments/13wkngm/some_character_art_for_my_crew_made_with/)
-    + [Doskvol city album by Midjourney @Reddit](https://www.reddit.com/r/bladesinthedark/comments/1456qv4/doskvol_city_album_by_midjourney/)
-    + [Large thematic gang hideout background by @thepunintendad @ Reddit](https://www.reddit.com/r/bladesinthedark/comments/12xrgs9/made_some_thematic_scenespages_in_foundry_for_the/)
-    + [Spirit Warden portraits with AI by @LoneRubberDucky](https://imgur.com/a/vae0Lrd)
-- ambiance musicale :
-    + [playlist Doskvol @YouTube](https://www.youtube.com/playlist?list=PLBbYqwGsEaZNIvZfTTmPzAGXamSD3e7mz)
+TODO: compléter grille de recap' des PJs avec Joseph + Mist
 
-<!-- Idées :
+Lodius : est hanté par le spectre de Bell (overindulge)
 
-* sujets immédiats à traiter:
-    + scène d'intro où les membres des Echos of the Past expérimentent sur Lodius
-        => deal avec Kristof Dahava, qui va infiltrer quelqu'un au Cercle de la Flamme
-    + Bell leur propose un coup (Gaddoc Rail) mais va tenter de les doubler / diminuer leurs forces
-    + Raffello (& son démon invisible) veut se venger
-    + comptabilité de Gruber & Fils : dettes à régler à Scurlock & Lord Mora (cercle de la Flamme)
-    + Scurlock
-    + Lodius a planqué le logbook
+Elaria (passé / background = labor) est occupée : d'anciens collègues / proches fomentent une rébellion ouvrière à Coalridge, et sollicitent son aide
+cf. [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
 
-* demande humble d'aide de la part d'un membre du quartier
-* introduire un Spirit Well
+* ToRead/ -> many ideas for scores
 * introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
+* add Clock: demande humble d'aide de la part d'un habitant du territoire Harpon
+* qu'est-ce qui peut revenir "hanter" les PJs dans leur background ?
 * huis clos ?
 * prendre inspis de Dirty MJ
-* ToRead/ -> many ideas for scores
 
 Campagne:
 * logbook = game changer, va modifier équilibre des forces de la ville...
@@ -1272,8 +1289,8 @@ Campagne:
     + gimmick pour PNJs: renifle tout, les gens, les lieux
 ALT: campaign END -> they become COPS !
 
-Moments:
-* Vision de la Tour de l'Horloge désertée: https://youtu.be/cHF-jZfe1G0?t=685
+Moments/videos:
+* Vision de la Tour de l'Horloge désertée (1min puis fade to black): https://youtu.be/cHF-jZfe1G0?t=685
 * heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
 
 ToPrint:
@@ -1286,7 +1303,6 @@ Ressources to CRAFT:
 
 Ressources TO MENTION:
 + [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
-+ [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
   & newspaper template: https://jaderavens.itch.io/north-hook-lantern
 + [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
