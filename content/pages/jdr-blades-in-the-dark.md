@@ -953,7 +953,7 @@ qu'ils savent être membre du gang (même si les joueurs ne l'ont jamais encore 
 Ils sont réveillés par des tirs de canon. Dans le ciel, il ne reste qu'UN FRAGMENT DE SOLEIL !
 À l'extérieur, ils peuvent appercevoir la falaise, et au loin une terrible bataille navale n'incluant pas que des bateaux...
 
-> (Eric) "L'armée de l'Empereur affronte la flotte de Rosces et ses léviathans..."
+> (Eric) « L'armée de l'Empereur affronte la flotte de Rosces et ses léviathans... »
 
 Un garde rentre dans la cellule, et il s'avère qu'il s'agit de **Josef** grimmé avec une illusion, venu les délivrer.
 Des tirs de boulets de canon commencent à démolir le bâtiment.
@@ -964,7 +964,7 @@ Ils sauvent in extremis **Aldo** qui leur ramène leur matériel.
 Josef leur apprend que Justinia les attend avec une barque en bas de la falaise, au niveau d'une entrée d'égoût.
 Mais comment la rejoindre avec cette horde possédée qui remonte vers eux ?!
 
-> (Mist) : "PLUS LE CHOIX, IL FAUT Y ALLER !"
+> (Mist) « PLUS LE CHOIX, IL FAUT Y ALLER ! »
 
 Les PJs sautent à travers les ouvertures créés par les boulets de canon jusqu'à l'eau en contrebas,
 puis rejoignent la barque de Justinia à la nage.
@@ -980,16 +980,16 @@ Soudain, des morts-vivant sortent du galion et se mettent à se diriger vers le 
 et les cadavres de la mer se mettent en mouvement...
 ([bande son @YouTube](https://www.youtube.com/watch?v=kOFUXumDEHs))
 
-> (Ethnos) : "Les toits ! Il faut monter sur les toits !"
+> (Ethnos) « Les toits ! Il faut monter sur les toits ! »
 
 Puis il se dirige en courant vers la Goule Fendue, en flammes, suivi par le gang.
 
-> (Elaria) : "Ils en ont après TOI Ethnos !"
+> (Elaria) « Ils en ont après TOI Ethnos ! »
 
 Les _booby-traps_ autour du galion ralentissent la horde de mort-vivants,
 mais Aldo est néanmoins dévorrés vivant sous leurs yeux.
 
-> (Eric) "Écartez-vous, je vais les retenir !"
+> (Eric) « Écartez-vous, je vais les retenir ! »
 
 Il s'injecte alors un sérum de physicker dans le bras, et se transforme partiellement...
 
@@ -1011,7 +1011,7 @@ Des templiers en toge blanche avec l'insigne du Cercle de la Flamme saisissent E
 Eric réagit en premier, et détruit d'un coup de marteau la porte, empêchant malheureusement le gang de porter assitance à son chef.
 Ils l'aperçoivent sur un toit, au loin dans la ville, se battre contre ses assaillants et invoquer une horde de rats.
 
-> (Ethnos) "Jamais le Harpon ne se rendra !"
+> (Ethnos) « Jamais le Harpon ne se rendra ! »
 
 _Courte ellipse._
 Valeris a mené le gang jusqu'à une église dans Six Towers, où une procession conduit Lodius enchaîné à l'intérieur...
@@ -1024,7 +1024,7 @@ Mist, Eric & Elaria arrivent à le vaincre, en lui plongeant sa propre dague dan
 mais ils ne peuvent empêcher le rituel d'avoir lieu
 et le mur du fond de l'Eglise explose, révêlant se qui ressemble à l'enfer...
 
-> (Elaria) "C'est la fin Mist, active la croix, sauves-toi, empêches ceci de se produire !"
+> (Elaria) « C'est la fin Mist, active la croix, sauves-toi, empêches ceci de se produire ! »
 
 ### Session de jeu
 
@@ -1105,7 +1105,7 @@ Peu de temps après, **Naria**, une étudiante, barmaid occasionnelle à la Goul
 Bien que de premiers indices laissent à penser à une implication du gang de l'Écharpe Rouge dans ce crime, une investigation plus poussée révélera bientôt une autre vérité...
 
 En parallèle, le Harpon prépare une "fête d'adieu" au galion, où sont conviés tous les gangs avec lesquels ils sont alliés : Écharpe Rouge, Crows, Gondoliers, Silver Nails.
-Durant les préparatifs, une manifestation surnaturelle envahit le galion échoué : Elaria, Eric et plusieurs de leurs hommess sont pris d'une vision du _Ghost Field_ tourbillonnant autour d'eux, masquant la réalité et laissant entrapercevoir des créatures cauchemardesques. Il s'agit en réalité de préparatifs à un rituel d'illusion menés Josef, qui a mal tourné.
+Durant les préparatifs, une manifestation surnaturelle envahit le galion échoué : Elaria, Eric et plusieurs de leurs hommes sont pris d'une vision du _Ghost Field_ tourbillonnant autour d'eux, masquant la réalité et laissant entrapercevoir des créatures cauchemardesques. Il s'agit en réalité de préparatifs à un rituel d'illusion menés Josef, qui a mal tourné.
 
 Elaria apprend que les Bluecoats sont en train de se mobiliser pour préparer une intervention le soir de leur petite fête au galion... On les aurait trahi ? Serait-ce l'un des gangs alliés ?
 Le Harpon décide de mettre en place un plan pour identifier le mouchard : ils préviennent chacun des gangs conviés que le lieu de la soirée festive a été modifié, en indiquant à chaque fois un endroit différent, avec dans l'idée de déterminer ainsi qui informe les Bluecoats...
@@ -1139,7 +1139,7 @@ Dans l'atelier du peintre, le gang découvre des toiles semblant prédire un ave
 des peintures saisissantes de vérité pour Mist qui a traversé des événements similaires.
 Des livres d'occultisme sont également découverts, et le gang finit par décider de mettre le feu à la maison, après avoir été surpris par une amie du peintre...
 
-De son côté, Josef est malheureuement repéré par Raffello à la soirée de Lady Penderyn à Silkshore,
+De son côté, Josef est malheureusement repéré par Raffello à la soirée de Lady Penderyn à Silkshore,
 et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible sous la gorge !
 
 
@@ -1216,16 +1216,73 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
 ### Session de jeu
 
 <figure>
+  <img src="images/bitd/people-from-cult-worshipping-demons-lit-by-candles-abandoned-by-gods-hyperdetailed-artstation-cgsociety-by-greg-rutkowski-and-by-gustave-dore.webp" alt="people from cult worshipping demons, lit by candles, abandoned by gods, hyperdetailed artstation cgsociety by greg rutkowski and by Gustave Dore">
+  <figcaption>Source: <a href="https://openart.ai/discovery/sd-1005905399179903167">openart.ai</a></figcaption>
+</figure>
+
+Une fois la nuit tombée, de concert chacun de son côté, les membres du gang interrompent leurs activités pour se diriger vers le quartier de Barrowcleft. Ils sont tous au complet avant d'avoir atteint le _Barrow bridge_, après la traversée duquel le groupe longe la falaise côtière vers la silhouette élancée d'un château d'eau. Au pied de ce bâtiment et de la côte, ils atteignent un large promontoire où l'on peut distinguer une ouverture dans la paroi du château d'eau, révélant un gigantesque puit, sans fond visible...
+Sur place, plusieurs dizaines de membres du _Path of Echoes_ les attendent, en tenue de cérémonie. Lodius est convié à y participer en s'allongeant sur un autel de bois. Durant le rituel, des dizaines de spectres apparaissent du puit, et des meutes de rats traversent la foule pour faire cercle autour de l'autel de Lodius. Josef est lui attiré par le _Spirit Well_, comme hypnotisé, et manque d'y tomber.
+Finalement, le rituel touche à sa fin, ces phénomènes s'estompent, et tout le monde se disperse.
+
+Tandis qu'Elaria s'en va faire un tour à Coalridge, le gang se retrouve chez Gruber et Fils pour faire le point. Leur planque dans les égouts est temporairement envahie de fumée suite à un incident lors de la confection de fumigènes. Mist est lui occupé à mener des recherches dans les archives de l'Université des Études Éternelles.
+
+Lodius commence par tenter de réduire l'attention portée au Harpon en faisant arrêter par les Bluecoats un homme de paille lors d'un braquage avorté. Néanmoins l'homme qu'il paye pour cela s'avère être alcoolique et le braquage tourne en fusillade, et cela ne fait que peu diminuer la _HEAT_ du gang.
+
+Les membres du Harpons décident ensuite de traiter en priorité le sujet des créanciers de l'entreprise qui leur sert de QG.
+Des renseignements sont pris, et une rencontre a lieu avec M. Gruber,
+toujours aussi transpirant, qui presse les PJs pour obtenir plus de fonds pour rembourser ses dettes. Après analyse du livre de comptes par Josef, il s'avère que des paiements de dettes au casino Golden Feather ont été réalisés par quelqu'un de l'entreprise et camouflés dans les comptes. Certains investisseurs de l'entreprise ont également décidé de retirer leurs billes pour financer des transports plus modernes, comme l'électro-train qui commence a être construit en ville.
+
+Plusieurs pistes d'action sont envisagées par le gang, dont une attaque de train qui servirait à la fois à obtenir du cash et à discréditer ce mode de transport.
+
+Lodius décide de rencontrer Bell pour envisager de réaliser un tel "coup" en commun.
+Une fois à la tour de l'horloge, le chef du Harpon croise une silhouette encapuchonnée qui s'entretenait avec Bell et qui quitte les lieux en masquant son visage. Lodius décide alors d'envoyer des rats la suivre, et découvre qu'il s'agit de Mylera.
+Il s'entretient avec Bell et celui-ci lui coupe l'herbe sous le pied en lui annonçant qu'il préparait justement un coup visant un électro-train au départ de la station de train Gaddoc. Comme Bell s'est déjà renseigné, et qu'il a déjà identifié une cargaison de valeur et un moyen pour s'introduire dans le train, il exige une répartition du butin 75-25 en faveur des Crows. Lodius négocie une part de 30% en acceptant que Bell soit celui qui dirige la manœuvre le jour de l'opération.
+
+De son côté, Eric embauche des gamins des rues pour faire annoter tous les posters _WANTED_ à son effigie dans la ville avec la tête de Boden à la place de la sienne, ce qui se révèle augmenter l'attention sur le gang, et annule totalement les efforts précédents de Lodius.
+
+L'heure de l'action vient alors...
+
+<figure>
     <img alt="Electro-rail train" src="images/bitd/places/Uncharted_AmongThieves_TrainConceptArt.jpg">
     <figcaption>Electro-rail train</figcaption>
 </figure>
 
+Tout démarre alors que l'électro-train quitte Doskvol, et que les membres du Harpon s'extraient de leurs cachettes, des caisses placées dans un wagon de marchandises. Bell est également là avec une demi-douzaine d'hommes, et les cibles de l'opération sont exposées : récupérer le liquide électroplasmique servant de carburant au train, ainsi que les caisses de matériel expérimental pour les Rail Jacks, et faire au passage les poches des passagers. Bell suggère que le Harpon se charge de l'avant du train, tandis que les Crows se déplaceront vers l'arrière, et s'occuperont de prendre le contrôle de la direction du train.
 
+Les PJs prennent le contrôle d'un premier wagon de passager et maîtrisent un Rail Jack, puis contournent par le toit un wagon-bar comportant des officiers militaires pour accéder à la locomotive avant. Là ils règlent leur compte à plusieurs autres Rail Jacks, dont le conducteur, et découvrent plusieurs énormes bouteilles de liquide électroplasmique ainsi que deux caisses en métal des industries StealWeather, dont Eric force le cadenas en un tour de main : elles s'avère contenir des plastrons et gantelets pour Rail Jacks. Josef en enfile un.
 
 <figure>
     <img alt="Rail Jack" src="images/bitd/NPCs/RailJack.jpg">
     <figcaption>Rail Jack</figcaption>
 </figure>
+
+Des cris surviennent alors de l'arrière du train... "HARPON"... "LODIUS"...
+Alors que Lodius s'apprête à monter sur le toit pour investiguer l'origine de ces cris, le cadavre d'un de ses hommes tombe à ses pieds, tué par balle. Plus loin à l'arrière, sur le toit du train, avec à la main un pistolet au canon fumant, Bell l'apostrophe :
+
+> « Navré Lodius, mais tu as trop tiré sur la corde. Il fallait en arriver là pour que le gang des Crows survive. »
+
+Et c'est alors qu'un de ses hommes détache les wagons au milieu du train, provoquant l'éloignement progressif des deux parties...
+Josef s'applique à prendre le contrôle des commandes de la locomotive avant pour ralentir,
+tandis qu'Eric s'élance à tout à allure sur le toit et réalise un bond surhumain de près de 30 mètres pour relier la partie arrière du train !
+Lodius s'élance à sa suite et emploie son grapin pour également rejoindre l'arrière et son camarade.
+
+> « Allons tuer Bell. »
+
+Tandis que Bell rejoint la locomotive arrière qui commence à freiner dans une pluie d'étincelles, les deux hommes du Harpon remontent le train wagon après wagon, réglant leur compte aux Crows qui s'opposent à eux, et faisant en chemin la tragique découverte de membres de leur gang traîtreusement assassinés...
+Grâce à Josef qui manœuvre habilement la locomotive de tête, ils réussissent à attacher de nouveau l'ensemble des wagons, puis à atteindre Bell dans un affrontement final où Eric broie métal, chairs & os. Empoisonné par la lame de Lodius, Bell finit par mettre fin à ses jours.
+
+Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se rendre, finissent de prendre le contrôle du train et de lui faire faire demi-tour vers Doskvol. Là, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
+
+![](images/bitd/places/river.webp)
+
+Le gang apprend que certains Crows avaient refusés de suivre Bell dans cette opération de trahison envers le Harpon. On décide de proposer à ces Crows de rejoindre le gang. Aldo leur porte cette invitation et ils acceptent.
+
+Une rencontre / négociation s'ensuit avec Mylera, où il est décidé de partager le territoire Crows équitablement entre Écharpe Rouge & Harpon, que la distribution de drogue anciennement assurée par le gang de Bell serait également partagée en deux, et enfin que la tour de l'horloge resterait un lieu neutre, une zone franche.
+
+Après avoir transmis à Mylera leurs découvertes concernant les manigances de Boden,
+les PJs commencent à avoir des suspicions sur ce qui a pu motiver Bell à agir comme il l'a fait... Et il découvrent alors que des hommes du Harpon avaient été vus par les Crows, sur leur territoire, en train de procéder à du racket, ce qui avait grandement irrité Bell.
+
+Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l'occasion de ce dévoilement, dilapide l'argent de l'entreprise. M. Guber père, furieux, décide alors de virer Garett de son poste de comptable, et de lui couper les vivres.
 
 ### Ressources
 - illustrations:
