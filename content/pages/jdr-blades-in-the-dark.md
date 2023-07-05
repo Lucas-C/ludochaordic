@@ -1243,17 +1243,18 @@ De son côté, Eric embauche des gamins des rues pour faire annoter tous les pos
 L'heure de l'action vient alors...
 
 <figure>
-    <img alt="Electro-rail train" src="images/bitd/places/Uncharted_AmongThieves_TrainConceptArt.jpg">
-    <figcaption>Electro-rail train</figcaption>
+  <img alt="Electro-rail train" src="images/bitd/places/Uncharted_AmongThieves_TrainConceptArt.jpg">
+  <figcaption>Electro-rail train</figcaption>
 </figure>
 
 Tout démarre alors que l'électro-train quitte Doskvol, et que les membres du Harpon s'extraient de leurs cachettes, des caisses placées dans un wagon de marchandises. Bell est également là avec une demi-douzaine d'hommes, et les cibles de l'opération sont exposées : récupérer le liquide électroplasmique servant de carburant au train, ainsi que les caisses de matériel expérimental pour les Rail Jacks, et faire au passage les poches des passagers. Bell suggère que le Harpon se charge de l'avant du train, tandis que les Crows se déplaceront vers l'arrière, et s'occuperont de prendre le contrôle de la direction du train.
 
-Les PJs prennent le contrôle d'un premier wagon de passager et maîtrisent un Rail Jack, puis contournent par le toit un wagon-bar comportant des officiers militaires pour accéder à la locomotive avant. Là ils règlent leur compte à plusieurs autres Rail Jacks, dont le conducteur, et découvrent plusieurs énormes bouteilles de liquide électroplasmique ainsi que deux caisses en métal des industries StealWeather, dont Eric force le cadenas en un tour de main : elles s'avère contenir des plastrons et gantelets pour Rail Jacks. Josef en enfile un.
+Les PJs prennent le contrôle d'un premier wagon de passager et maîtrisent un Rail Jack, puis contournent par le toit un wagon-bar comportant des officiers militaires pour accéder à la locomotive avant. Là ils règlent leur compte à plusieurs autres Rail Jacks, et découvrent plusieurs énormes bouteilles de liquide électroplasmique ainsi que deux caisses en métal des industries StealWeather, dont Eric force le cadenas en un tour de main : elles s'avèrent contenir des plastrons et gantelets pour Rail Jacks. Josef en enfile un.
+Le conducteur de la loco arrière finit par rester sur les rails, et à être happé dans les airs par... quelque chose.
 
 <figure>
-    <img alt="Rail Jack" src="images/bitd/NPCs/RailJack.jpg">
-    <figcaption>Rail Jack</figcaption>
+  <img alt="Rail Jack" src="images/bitd/NPCs/RailJack.jpg">
+  <figcaption>Rail Jack by <a href="https://pythosblathers.tumblr.com/post/628719642135937024/pythosart-playing-around-with-some-ocs-as-blades">@pythosart</a></figcaption>
 </figure>
 
 Des cris surviennent alors de l'arrière du train... "HARPON"... "LODIUS"...
@@ -1262,22 +1263,26 @@ Alors que Lodius s'apprête à monter sur le toit pour investiguer l'origine de 
 > « Navré Lodius, mais tu as trop tiré sur la corde. Il fallait en arriver là pour que le gang des Crows survive. »
 
 Et c'est alors qu'un de ses hommes détache les wagons au milieu du train, provoquant l'éloignement progressif des deux parties...
-Josef s'applique à prendre le contrôle des commandes de la locomotive avant pour ralentir,
-tandis qu'Eric s'élance à tout à allure sur le toit et réalise un bond surhumain de près de 30 mètres pour relier la partie arrière du train !
-Lodius s'élance à sa suite et emploie son grapin pour également rejoindre l'arrière et son camarade.
+Josef s'applique à prendre le contrôle des commandes de la locomotive avant, pour ralentir. Il affronte ensuite un officier impérial du wagon-bar, en employant l'équipement de Rail Jack, qui s'avère capable de former une scie électroplasmique acérée.
+De son côté, Eric s'élance à tout à allure sur le toit et réalise un bond surhumain de près de 30 mètres pour relier la partie arrière du train !
+Lodius, à sa suite, emploie son grappin pour également rejoindre l'autre section du train, où son camarade vient d’atterrir.
 
 > « Allons tuer Bell. »
 
-Tandis que Bell rejoint la locomotive arrière qui commence à freiner dans une pluie d'étincelles, les deux hommes du Harpon remontent le train wagon après wagon, réglant leur compte aux Crows qui s'opposent à eux, et faisant en chemin la tragique découverte de membres de leur gang traîtreusement assassinés...
-Grâce à Josef qui manœuvre habilement la locomotive de tête, ils réussissent à attacher de nouveau l'ensemble des wagons, puis à atteindre Bell dans un affrontement final où Eric broie métal, chairs & os. Empoisonné par la lame de Lodius, Bell finit par mettre fin à ses jours.
+Tandis que Bell rejoint la locomotive arrière qui commence à freiner dans une pluie d'étincelles, les deux hommes du Harpon remontent le train wagon après wagon, réglant leur compte aux Crows qui s'opposent à eux, et faisant en chemin la tragique découverte de membres de leur gang traîtreusement assassinés... D'autres créatures volantes en profitent pour se saisir et emmener des cadavres.
+Ils finissent par atteindre la loco, et font face à Bell dans un affrontement final où Eric broie métal, chairs & os. Empoisonné par la lame de Lodius, Bell finit par mettre fin à ses jours.
 
-Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se rendre, finissent de prendre le contrôle du train et de lui faire faire demi-tour vers Doskvol. Là, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
+Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se rendre, finissent de prendre le contrôle du train, et grâce à Josef qui manœuvre habilement la locomotive de tête, ils réussissent à attacher de nouveau l'ensemble des wagons.Après une courte hésitation où ils envisagent d'abandonner tous les passages dans les _deathlands_, le gang décide de diriger le train vers Doskvol. Ils sont suivis dans les airs par une gigantesque nuée de silhouettes rapaces...
+Une fois la barrière électroplasmique de la ville franchie, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
 
-![](images/bitd/places/river.webp)
+<figure>
+  <img alt="Les abords du fleuve Dosk à l'aube" src="images/bitd/places/river.webp">
+  <figcaption>Les abords du fleuve Dosk à l'aube</figcaption>
+</figure>
 
 Le gang apprend que certains Crows avaient refusés de suivre Bell dans cette opération de trahison envers le Harpon. On décide de proposer à ces Crows de rejoindre le gang. Aldo leur porte cette invitation et ils acceptent.
 
-Une rencontre / négociation s'ensuit avec Mylera, où il est décidé de partager le territoire Crows équitablement entre Écharpe Rouge & Harpon, que la distribution de drogue anciennement assurée par le gang de Bell serait également partagée en deux, et enfin que la tour de l'horloge resterait un lieu neutre, une zone franche.
+Une rencontre / négociation s'ensuit avec Mylera, où il est décidé de partager le territoire Crows équitablement entre Écharpe Rouge & Harpon, que la distribution de drogue anciennement assurée par le gang de Bell serait également partagée en deux, et enfin que la tour de l'horloge resterait un lieu neutre, une zone franche. Mylera leur apprend une rumeur : des rescapés des Cendreux, les troupes d'élite de l'Œil Blanc, auraient été vus se rassembler à Crow's Foot.
 
 Après avoir transmis à Mylera leurs découvertes concernant les manigances de Boden,
 les PJs commencent à avoir des suspicions sur ce qui a pu motiver Bell à agir comme il l'a fait... Et il découvrent alors que des hommes du Harpon avaient été vus par les Crows, sur leur territoire, en train de procéder à du racket, ce qui avait grandement irrité Bell.
