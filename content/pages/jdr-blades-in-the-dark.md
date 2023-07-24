@@ -4,7 +4,7 @@ Slug: jdr-blades-in-the-dark
 Status: hidden
 ---
 
-<figure>
+<figure role="group">
   <video autoplay loop>
     <source src="images/bitd/emperor_of_steelcity-animated-wallpaper.mp4">
   </video>
@@ -42,12 +42,12 @@ le sang électroplasmique de terreurs démoniaques massives.
 
 Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur d'un mur de foudre alimenté par du sang de démons.
 
-<figure>
+<figure role="group">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pmQScScPce4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <figcaption>Source:  <a href="https://www.reddit.com/r/bladesinthedark/comments/q0geo7/blades_in_the_dark_intro_fan_made/">Blades in the Dark intro [fan made] @ Reddit</a></figcaption>
 </figure>
 
-<div class="side-by-side">
+<div class="side-by-side" role="group">
   <img alt="Carte de Doskvol" src="images/bitd/Doskvol-map.png">
   <img alt="Carte de Crow's Foot" src="images/bitd/CrowsFoot-map.jpg">
   <img alt="Carte du monde" src="images/bitd/world-map.png">
@@ -308,7 +308,7 @@ A ses trousses, Ethnos dans le corps de Lodius lui cours après en lui criant de
 
 ## Session 5 - 1er août 2019
 
-<figure>
+<figure role="group">
   <img alt="Ethnos" src="images/bitd/PCs/Ethnos.jpg">
   <figcaption>Le personnage d'Ethnos par Elliot Jolivet aka Tenseï</figcaption>
 </figure>
@@ -346,7 +346,7 @@ Ils y sont reçu avec faste, et invités à déjeuner autour d'un banquet raffin
 Le gang du harpon leur remet l'équivalent d'un demi-tonnelet de sang de Léviathan, placé dans des fioles ornementées, et leur cadeau est très bien reçu.
 L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse
 le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
-<figure>
+<figure role="group">
   <img alt="Ethnos" src="images/bitd/places/sebastian-bauer-dojo-05.jpg">
   <figcaption>Le dojo de l'Écharpe Rouge</figcaption>
 </figure>
@@ -379,7 +379,7 @@ dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
   <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
-<div class="side-by-side">
+<div class="side-by-side" role="group">
   <figure role="group">
     <img alt="Elaria" src="images/bitd/PCs/Elaria.jpg">
     <figcaption>Elaria par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
@@ -429,7 +429,7 @@ Ils posent 2 conditions : que des garanties leur soit exposées sur comment comp
 et qu'ils soient eux-même présents pour l'opération.
 Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une opération qui aurait lieu dans 5.
 
-<div class="side-by-side">
+<div class="side-by-side" role="group">
   <figure role="group">
     <img alt="Darmot portrait" src="images/bitd/NPCs/Darmot.jpg">
     <figcaption>Darmot portrait <em>(Carlos Carbrera)</em></figcaption>
@@ -448,7 +448,7 @@ le gang du Harpon quand à lui annonce qu'il passera à l'action cette nuit mêm
 Les PJs recoivent même un cadeau de la part du gang de l'Écharpe Rouge : un coffret garni d'épices, d'étoffes précieuses,
 de parfum et de pierres précieuses.
 
-<div class="side-by-side">
+<div class="side-by-side" role="group">
   <figure role="group">
     <img alt="Mylera Klev" src="images/bitd/NPCs/MyleraKlev.jpg">
     <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank"><em>(Windrider 2 by Mona Finden)</em></a></figcaption>
@@ -526,7 +526,7 @@ Inspiré d'[un article de Bastien "Acritarche" Wauthoz](https://acritarche.tumbl
 à propos d'une invention de Vincent Baker,
 la partie a débuté par des _love letters_ préparés en amont pour deux PJs :
 
-<div class="side-by-side">
+<div class="side-by-side" role="group">
   <img alt="Love Letter d'Elaria" src="images/bitd/love-letter-Elaria.jpg">
   <img alt="Love Letter d'Eric" src="images/bitd/love-letter-Eric.jpg">
 </div>
@@ -684,8 +684,8 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 
 > « Vous adresserez la note à l'Œil Blanc. »
 
-<div class="side-by-side">
-  <figure>
+<div class="side-by-side" role="group">
+  <figure role="group">
     <img alt="I Will Find You And I Will Kill You" src="images/bitd/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
     <figcaption><a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
   </figure>
@@ -719,21 +719,21 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 
 <img class="small-img" alt="Harpoon + Crow + Red Sash + White Eye" src="images/bitd/crow-harpoon-red-scard.jpg">
 
-<figure>
+<figure role="group">
   <img alt="Let's do this! - Ronamis" src="images/bitd/places/Ronamis-LetsDoThis.jpg">
   <figcaption><a href="https://www.reddit.com/r/bladesinthedark/comments/gr4sm9/lets_do_this_bitd_image_by_ronamis/">Let's do this! - Ronamis</a></figcaption>
 </figure>
 
-<div class="side-by-side">
-  <figure>
+<div class="side-by-side" role="group">
+  <figure role="group">
     <img alt="Justinia (Talyn by Banished-shadow)" src="images/bitd/NPCs/Justinia.png">
     <figcaption>Justinia (<a href="https://www.deviantart.com/banished-shadow/art/Talyn-569327626">Talyn by Banished-shadow</a>)</figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img alt="Early Morning Lights - Joseph Feely" src="images/bitd/places/JosephFeely-EarlyMorningLights.jpg">
     <figcaption><a href="https://www.artstation.com/artwork/3ddmVE">Early Morning Lights - Joseph Feely</a></figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img alt="Josef Tucker (Daud By Infernal Guardian'17)" src="images/bitd/PCs/JosefTucker.jpg">
     <figcaption>Josef Tucker (Daud By Infernal Guardian'17)</figcaption>
   </figure>
@@ -831,8 +831,8 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
 
 ## Session 9 - 16 octobre 2021
 
-<div class="side-by-side">
-  <figure>
+<div class="side-by-side" role="group">
+  <figure role="group">
     <img alt="Portrait de Lodius en pied" src="images/bitd/PCs/Lodius-en-pied.gif">
     <figcaption>Lodius - <a href="images/bitd/PCs/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
                 GIF créé avec <a href="https://icons8.com/animizer/en/animate-static-image">Animizer</a> puis retouché avec <a href="https://ezgif.com/effects">EZGIF</a></figcaption>
@@ -843,11 +843,11 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
     </video>
     <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
   </figure-->
-  <figure>
+  <figure role="group">
     <img alt="Lord Scurlock" src="images/bitd/NPCs/LordScurlock.jpg">
     <figcaption>Lord Scurlock - <a href="https://www.deviantart.com/miles-johnston/art/Dnd-Rudolph-Van-Richten-331873119">Dnd - Rudolph Van Richten by Miles-Johnston</a></figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img alt="Inspector Boden" src="images/bitd/NPCs/Inspector-Boden.jpg">
     <figcaption>Inspector Boden - <a href="https://quarkmaster.tumblr.com/post/158062423277/nq70-watch-inspector-watch-inspector-career">Watch Inspector by Mitchell Malloy</a></figcaption>
   </figure>
@@ -1091,7 +1091,7 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
 
 ## Session 11 - 25 février 2023
 
-<div class="side-by-side">
+<div class="side-by-side" role="group">
   <img alt="" src="https://i.redd.it/kx36ukt4ugg91.png">
   <img alt="" src="https://i.redd.it/fdjdbdb3ugg91.png">
   <img alt="" src="https://i.redd.it/3mo38kczugg91.png">
@@ -1165,38 +1165,38 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
 
 Une sélection d'illustrations gracieusement fournie par Elliot :
 
-<div class="side-by-side">
-  <figure>
+<div class="side-by-side" role="group">
+  <figure role="group">
     <img src="images/bitd/places/QG/AtelierDAlchimieReconverti.jpg">
     <figcaption>Atelier d'alchimie reconverti</figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img src="images/bitd/places/QG/BureauDeMrGrubert.jpg">
     <figcaption>Bureau de Mr. Grubert</figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img src="images/bitd/places/QG/Lobby.jpg">
     <figcaption>Lobby</figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img src="images/bitd/places/QG/PartieDesaffectee.jpg">
     <figcaption>Partie désaffectée</figcaption>
   </figure>
 </div>
-<div class="side-by-side">
-  <figure>
+<div class="side-by-side" role="group">
+  <figure role="group">
     <img src="images/bitd/places/QG/QuartiersDuHarpon.jpg">
     <figcaption>Quartiers du Harpon</figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img src="images/bitd/places/QG/VueExterieur.jpg">
     <figcaption>Vue extérieure</figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img src="images/bitd/places/QG/VueInterieure.jpg">
     <figcaption>Vue intérieure</figcaption>
   </figure>
-  <figure>
+  <figure role="group">
     <img src="images/bitd/places/QG/ZoneDEntrepots.jpg">
     <figcaption>Zone d'entrepôts</figcaption>
   </figure>
@@ -1204,8 +1204,8 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
 
 ### Mist adventures
 
-<div class="side-by-side">
-  <figure>
+<div class="side-by-side" role="group">
+  <figure role="group">
     <img alt="Mist's ghost mask" src="images/bitd/PCs/mist-ghost-mask.png">
     <figcaption>L'œil du masque de Mist semble avoir une expression différente à chaque fois qu'on l'observe...</figcaption>
   </figure>
@@ -1215,7 +1215,7 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
 
 ### Session de jeu
 
-<figure>
+<figure role="group">
   <img src="images/bitd/people-from-cult-worshipping-demons-lit-by-candles-abandoned-by-gods-hyperdetailed-artstation-cgsociety-by-greg-rutkowski-and-by-gustave-dore.webp" alt="people from cult worshipping demons, lit by candles, abandoned by gods, hyperdetailed artstation cgsociety by greg rutkowski and by Gustave Dore">
   <figcaption>Source: <a href="https://openart.ai/discovery/sd-1005905399179903167">openart.ai</a></figcaption>
 </figure>
@@ -1242,7 +1242,7 @@ De son côté, Eric embauche des gamins des rues pour faire annoter tous les pos
 
 L'heure de l'action vient alors...
 
-<figure>
+<figure role="group">
   <img alt="Electro-rail train" src="images/bitd/places/Uncharted_AmongThieves_TrainConceptArt.jpg">
   <figcaption>Electro-rail train</figcaption>
 </figure>
@@ -1252,7 +1252,7 @@ Tout démarre alors que l'électro-train quitte Doskvol, et que les membres du H
 Les PJs prennent le contrôle d'un premier wagon de passager et maîtrisent un Rail Jack, puis contournent par le toit un wagon-bar comportant des officiers militaires pour accéder à la locomotive avant. Là ils règlent leur compte à plusieurs autres Rail Jacks, et découvrent plusieurs énormes bouteilles de liquide électroplasmique ainsi que deux caisses en métal des industries StealWeather, dont Eric force le cadenas en un tour de main : elles s'avèrent contenir des plastrons et gantelets pour Rail Jacks. Josef en enfile un.
 Le conducteur de la loco arrière finit par rester sur les rails, et à être happé dans les airs par... quelque chose.
 
-<figure>
+<figure role="group">
   <img alt="Rail Jack" src="images/bitd/NPCs/RailJack.jpg">
   <figcaption>Rail Jack by <a href="https://pythosblathers.tumblr.com/post/628719642135937024/pythosart-playing-around-with-some-ocs-as-blades">@pythosart</a></figcaption>
 </figure>
@@ -1275,7 +1275,7 @@ Ils finissent par atteindre la loco, et font face à Bell dans un affrontement f
 Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se rendre, finissent de prendre le contrôle du train, et grâce à Josef qui manœuvre habilement la locomotive de tête, ils réussissent à attacher de nouveau l'ensemble des wagons.Après une courte hésitation où ils envisagent d'abandonner tous les passages dans les _deathlands_, le gang décide de diriger le train vers Doskvol. Ils sont suivis dans les airs par une gigantesque nuée de silhouettes rapaces...
 Une fois la barrière électroplasmique de la ville franchie, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
 
-<figure>
+<figure role="group">
   <img alt="Les abords du fleuve Dosk à l'aube" src="images/bitd/places/river.webp">
   <figcaption>Les abords du fleuve Dosk à l'aube</figcaption>
 </figure>
@@ -1313,12 +1313,22 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
     + [Opening Credits House Rule @Reddit](https://www.reddit.com/r/bladesinthedark/comments/14a7uzt/opening_credits_house_rule/)
     + [Rail Jack playbook @bladesinthedark.com](https://bladesinthedark.com/blades-supplements)
 
+<figure role="group">
+  <img alt="Lames du Harpon" src="images/bitd/LamesDuHarpon.jpg">
+  <figcaption>Lames du Harpon par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+</figure>
+
+<figure role="group">
+  <img alt="Eric Stamp" src="images/bitd/PCs/EricStamp2.jpg">
+  <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+</figure>
+
 <!-- Idées :
 
 ## Session 13
 
-<figure>
-  <div class="side-by-side">
+<figure role="group">
+  <div class="side-by-side" role="group">
     <img src="images/bitd/NPCs/Marlane-by-Cryptocartographer.webp" alt="Marlane">
     <img src="images/bitd/NPCs/PuxBolin-by-Cryptocartographer.webp" alt="Pux Bolin">
   </div>
@@ -1326,6 +1336,7 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
 </figure>
 
 TODO: compléter grille de recap' des PJs avec Joseph + Mist
+-> indiquer lien entre Mist & Setarra
 
 Lodius : est hanté par le spectre de Bell (overindulge)
 
@@ -1386,6 +1397,7 @@ Demons & creatures in the Ghost Field:
 * Leviathan: https://www.deviantart.com/carpet-crawler/art/The-Dream-Quest-of-Elyza-Lee-Commission-Work-822423747
 
 Maps:
+* Deathlands map: https://www.reddit.com/r/bladesinthedark/comments/153es4a/deathlands_map_i_made_for_my_groups_deathlands/
 * The jailhouse: https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/
 * Docks of the Dead: https://2minutetabletop.com/product/docks-of-the-dead/
 * Mine:
