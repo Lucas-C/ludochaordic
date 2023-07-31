@@ -41,7 +41,8 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
-    {'date': u'2023-07-10', 'img_url': 'images/readings/vermis1cover_1800x1800.webp', 'description': "Vermis - Plastiboo (artbook)"},
+    {'date': u'2023-07-29', 'img_url': 'images/readings/LesPhilanthropesAuxPochesPercees.jpeg', 'description': "Les philanthropes aux poches percées - Scarlett & Sophie Rickard (BD)"},
+    {'date': u'2023-07-28', 'img_url': 'images/readings/bd-frontier.jpg', 'description': "Frontier - Guillaume Singelin (BD)"},
     {'date': u'2023-05-11', 'img_url': 'images/readings/GameEngineBlackBook-Wolfenstein3D.jpg', 'description': "Game Engine Black Book : Wolfenstein3 D - Fabien Sanglard (essai)"},
     {'date': u'2023-04-24', 'img_url': 'images/readings/Flic-L-histoire-vraie-du-journaliste-qui-a-infiltre-la-police.jpg', 'description': " Flic - L'histoire vraie du journaliste qui a infiltré la police - Valentin Gendrot & Thierry Chavant (BD)"},
     {'date': u'2023-01-25', 'img_url': 'images/readings/la-naissance-en-bd.jpg', 'description': "La Naissance en BD - Lucile Gomez (BD)"},
@@ -137,6 +138,7 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ("C'est pas du jeu de rôle", 'https://www.cestpasdujdr.fr'),
          ('Trop Long ; Pas Lu !', 'http://troplongpaslu.fr'),
          ('Le blog de Gulix', 'https://www.gulix.fr'),
+         ('Le blog de JeePee', 'http://www.jeepeeonline.be'),
          ('Le Fix di6dent', 'http://lefix.di6dent.fr/'),
          ('ptgptb', 'https://ptgptb.fr/'),
          ('The Indie RPG Pipeline', 'https://therpgpipeline.blogspot.com'),
