@@ -41,6 +41,8 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2023-08-11', 'img_url': 'images/readings/animan.jpg', 'description': "Animan - Anouk Ricard (BD)"},
+    {'date': u'2023-08-02', 'img_url': 'images/readings/moi-ce-que-jaime-cest-les-monstres.jpg', 'description': "Moi, ce que j'aime, c'est les monstres - Emil Ferris (BD)"},
     {'date': u'2023-07-29', 'img_url': 'images/readings/LesPhilanthropesAuxPochesPercees.jpeg', 'description': "Les philanthropes aux poches percées - Scarlett & Sophie Rickard (BD)"},
     {'date': u'2023-07-28', 'img_url': 'images/readings/bd-frontier.jpg', 'description': "Frontier - Guillaume Singelin (BD)"},
     {'date': u'2023-05-11', 'img_url': 'images/readings/GameEngineBlackBook-Wolfenstein3D.jpg', 'description': "Game Engine Black Book : Wolfenstein3 D - Fabien Sanglard (essai)"},
