@@ -1367,14 +1367,22 @@ Moments/videos:
 * heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
 
 ToPrint:
+* https://notwriting.itch.io/the-devils-almanac
 * https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
   & Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view ?
 
 Ressources to CRAFT:
 * make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
+* a SCORE (using one of angers-ma-0*.jpg as illustration)
 
 Ressources TO MENTION:
++ https://notwriting.itch.io/the-devils-almanac
++ Blades in the Dark Art Hack Tutorial: https://imgur.com/gallery/3lxWySf
+    * angers-ma-01-solarized-0.27-1-fotosketcher-painting5-watercolor.jpg
+    * angers-ma-02-duotone-bw-contrast-0.4-fotosketcher-painting5-watercolor.jpg
+    * angers-ma-03-duotone-bw-contrast-0.4-brightness-0.1-fotosketcher-painting5-watercolor.jpg
+    * angers-ma-04-duotone-bw-contrast-0.38-brightness-0.1-fotosketcher-painting5-watercolor.jpg
 + [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
   & newspaper template: https://jaderavens.itch.io/north-hook-lantern

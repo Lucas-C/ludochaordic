@@ -4,7 +4,7 @@ Tags: lang:fr, jdr, zero-prep, one-shot, narration-collective, compte-rendu, mec
 Image: images/2023/08/Alice-miniature.jpg
 ---
 
-![](images/2023/08/AIM_art_02.png)
+![Une des illustrations du jeu](images/2023/08/AIM_art_02.png)
 
 La semaine dernière, j'ai eu l'occasion de tester l'excellent jeu _Alice is missing_ de Spenser Starke.
 Et je pense pouvoir parler au nom des trois autres joueurs en disant que nous avons tous trouvé cette expérience ludique vraiment fantastique !
@@ -23,7 +23,7 @@ Mais au-delà de l'originalité ludique indéniable,
 un soin particulier a été donné au matériel de jeu, pour vous plonger dans l'ambiance :
 illustrations, textes, cartes, et surtout une magnifique bande son de 90min.
 
-![](images/2023/08/alice-is-missing-rpg-picture-cards.webp)
+![Le dos des cartes du jeu](images/2023/08/alice-is-missing-rpg-picture-cards.webp)
 
 Au terme de l'histoire et de la session de jeu,
 nous avions tous les quatre été très émus par l'expérience.
@@ -55,7 +55,7 @@ Voici quelques idées :
 Je n'ai pas trouvé de _hacks_ existants du jeu, mais si vous en connaissez,
 indiquez-le moi en commentaire svp ! 🙏
 
-![](images/2023/08/AIM_art_01.png)
+![Une des illustrations du jeu](images/2023/08/AIM_art_01.png)
 
 _Alice is Missing_ a gagné la [médaille d'or des ENnie en 2021](https://www.dicebreaker.com/topics/ennie-awards/news/ennie-awards-2021-winners-rpg-heart-alice-is-missing) pour "Meilleur jeu" "Meilleures règles" et "Produit de l'année." Il a également gagné le [prix IndieCade 2021](https://anywhere.indiecade.com/2021-award-winners/) du meilleur _design_ de jeu de société.
 En France, le jeu a été sélectionné pour l'As d'Or 2023 dans la catégorie « Initié ».
