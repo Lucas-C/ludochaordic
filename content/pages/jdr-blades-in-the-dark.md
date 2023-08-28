@@ -88,6 +88,7 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-9)
     * [Mist adventures](pages/jdr-blades-in-the-dark.html#mist-adventures)
     * [Session de jeu](pages/jdr-blades-in-the-dark.html#session-de-jeu-2)
+- [Session 13 - 16-17 septembre 2023](pages/jdr-blades-in-the-dark.html#session-13-16-17-septembre-2023)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -1319,13 +1320,13 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
 </figure>
 
 <figure role="group">
-  <img alt="Eric Stamp" src="images/bitd/PCs/EricStamp2.jpg">
-  <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+  <img alt="3 membres du Harpon : Mist, Lodius et Eric" src="images/bitd/PCs/Gang3-Mist-Lodius-Eric.jpg">
+  <figcaption>3 membres du Harpon : Mist, Lodius et Eric, par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
-<!-- Idées :
+## Session 13 - 16-17 septembre 2023
 
-## Session 13
+<!--
 
 <figure role="group">
   <div class="side-by-side" role="group">
@@ -1377,6 +1378,7 @@ Ressources to CRAFT:
 * a SCORE (using one of angers-ma-0*.jpg as illustration)
 
 Ressources TO MENTION:
++ https://nebmia.itch.io/the-magician-playbook
 + https://notwriting.itch.io/the-devils-almanac
 + Blades in the Dark Art Hack Tutorial: https://imgur.com/gallery/3lxWySf
     * angers-ma-01-solarized-0.27-1-fotosketcher-painting5-watercolor.jpg
