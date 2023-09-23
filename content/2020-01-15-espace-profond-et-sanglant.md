@@ -46,7 +46,7 @@ Pour le décompte du temps, j'ai utilisé [timer-tab.com](http://www.timer-tab.c
 en l'affichant sur l'écran d'un _laptop_ bien visible de tout le monde.
 J'ai aussi opté pour mettre un fond d'ambiance musical pour cette session,
 dès le départ du chrono, en utilisant les ambiances _Gravity_, _Nostromo_ & _Derelic Freighter_
-de [TableTopAudio](https://tabletopaudio.com) (avec en plan B : [Ambient Space Music - Alien (YouTube)](https://www.youtube.com/watch?v=u9a1EQS_9Wo)).
+de [TableTopAudio](https://tabletopaudio.com) (avec en plan B : [Alien Isolation Mix of 1979 and 2014 ambience FULL OST (YouTube)](https://www.youtube.com/watch?v=RYdjK5MJEy0)).
 Ça ajouté à l'immersion et à la tension dès le début de la partie, je recommande !
 
 Au final, le bilan de la partie est très positif pour moi !

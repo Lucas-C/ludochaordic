@@ -6,7 +6,7 @@ Status: hidden
 
 <figure role="group">
   <video autoplay loop>
-    <source src="images/bitd/emperor_of_steelcity-animated-wallpaper.mp4">
+    <source src="images/bitd/gifs/emperor_of_steelcity-animated-wallpaper.mp4">
   </video>
   <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/eo7dkx/wanted_an_animated_wallpaper_made_an_animated/">emperor_of_steelcity animated wallpaper @ Reddit</a></figcaption>
 </figure>
@@ -29,7 +29,7 @@ et le brouillard noir des fumées de cheminée est omniprésent.
 Doskvol est un mélange de Venise, Londres et Prague. La ville est encombrée de maisons en rangée et de rues sinueuses.
 Elle est sillonnée de centaines de petits cours d'eau et de ponts.
 
-<img class="small-img" style="float: left; margin-right: 1rem" alt="Soleil brisé" src="images/bitd/shattered-sun-glowing.gif">
+<img loading="lazy" class="small-img" style="float: left; margin-right: 1rem" alt="Soleil brisé" src="images/bitd/gifs/shattered-sun-glowing.gif">
 <!-- Built with: Gimp + Image Magick to turn PNG into a 40 frames GIF + webestools.com Animated Images Effects Generator -->
 
 La ville est aussi fantastique. Le monde est dans l'obscurité perpétuelle et hanté par des fantômes
@@ -48,9 +48,9 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
 </figure>
 
 <div class="side-by-side" role="group">
-  <img alt="Carte de Doskvol" src="images/bitd/Doskvol-map.png">
-  <img alt="Carte de Crow's Foot" src="images/bitd/CrowsFoot-map.jpg">
-  <img alt="Carte du monde" src="images/bitd/world-map.png">
+  <img loading="lazy" alt="Carte de Doskvol" src="images/bitd/Doskvol-map.png">
+  <img loading="lazy" alt="Carte de Crow's Foot" src="images/bitd/CrowsFoot-map.jpg">
+  <img loading="lazy" alt="Carte du monde" src="images/bitd/world-map.png">
 </div>
 
 - [Session 1 - août 2017](pages/jdr-blades-in-the-dark.html#session-1-ao-t-2017)
@@ -85,10 +85,14 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-8)
 - [Session 12 - 1er juillet 2023](pages/jdr-blades-in-the-dark.html#session-12-1er-juillet-2023)
     * [QG @ Gruber & Fils](pages/jdr-blades-in-the-dark.html#gq-gruber-fils)
-    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-9)
     * [Mist adventures](pages/jdr-blades-in-the-dark.html#mist-adventures)
     * [Session de jeu](pages/jdr-blades-in-the-dark.html#session-de-jeu-2)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-9)
 - [Session 13 - 16-17 septembre 2023](pages/jdr-blades-in-the-dark.html#session-13-16-17-septembre-2023)
+    * [Intro : pendant ce temps à Coalridge...](pages/jdr-blades-in-the-dark.html#intro-pendant-ce-temps-coalridge-)
+    * [Session de jeu](pages/jdr-blades-in-the-dark.html#session-de-jeu-3)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-10)
+- Session 14 - à venir
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -125,7 +129,7 @@ _→ **3/3** ok_
 - bilan du stress et des blessures de chaque PJ
 
 ### Compte-rendu de partie
-<img alt="Le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
+<img loading="lazy" alt="Le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
 
 - le gang des PJs découvrent une page du _logbook_ tachée de sang dans les affaires de Stravul
 - Ethnos envisage de remplacer Lodius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
@@ -204,9 +208,9 @@ En toute transparence, Elaria informe également Bell que Baszos leur a proposé
 Elle quitte ensuite les lieux pour retourner au galion.
 
 <figure role="group" class="side-by-side">
-  <img alt="Clocktower concept art 1 de Mathieu Latour" src="images/bitd/places/Thief_clocktower1.jpg">
-  <img alt="Clocktower concept art 2 de Mathieu Latour" src="images/bitd/places/Thief_clocktower2.jpg">
-  <img alt="Clocktower concept art 3 de Mathieu Latour" src="images/bitd/places/Thief_clocktower3.jpg">
+  <img loading="lazy" alt="Clocktower concept art 1 de Mathieu Latour" src="images/bitd/places/Thief_clocktower1.jpg">
+  <img loading="lazy" alt="Clocktower concept art 2 de Mathieu Latour" src="images/bitd/places/Thief_clocktower2.jpg">
+  <img loading="lazy" alt="Clocktower concept art 3 de Mathieu Latour" src="images/bitd/places/Thief_clocktower3.jpg">
   <figcaption>Concept art de <a href="https://www.artstation.com/artwork/Yl1b">Mathieu Latour</a></figcaption>
 </figure>
 
@@ -234,7 +238,7 @@ et quelques pièces.
 **Aldo**, un ancien membre du gang des Crows, désormais pourchassé par Lyssa car il l'a vu assassiner Roric !
 
 <figure role="group">
-  <img alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
+  <img loading="lazy" alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
   <figcaption>La planque du gang du Harpon - réalisé par <a href="https://www.behance.net/10sei">un des joueurs</a></figcaption>
 </figure>
 
@@ -263,7 +267,7 @@ un ouvrier manœuvre, Joerg, s'est fait poursuivre par un fantôme ivre de rage 
 qui a massacré tout le monde sur son passage
 
 <figure role="group">
-  <img alt="Les chantiers navals des navires Léviathan" src="images/bitd/places/dishonored-whale-slaughterhouse.jpg">
+  <img loading="lazy" alt="Les chantiers navals des navires Léviathan" src="images/bitd/places/dishonored-whale-slaughterhouse.jpg">
   <figcaption>Les chantiers navals des navires Léviathan - artwork de Dishonored - Viktor Antonov - Sébastien Mitton - Cedric Peyravernay</figcaption>
 </figure>
 
@@ -310,7 +314,7 @@ A ses trousses, Ethnos dans le corps de Lodius lui cours après en lui criant de
 ## Session 5 - 1er août 2019
 
 <figure role="group">
-  <img alt="Ethnos" src="images/bitd/PCs/Ethnos.jpg">
+  <img loading="lazy" alt="Ethnos" src="images/bitd/PCs/Ethnos.jpg">
   <figcaption>Le personnage d'Ethnos par Elliot Jolivet aka Tenseï</figcaption>
 </figure>
 
@@ -348,7 +352,7 @@ Le gang du harpon leur remet l'équivalent d'un demi-tonnelet de sang de Léviat
 L'entretien se déroule comme sur du velours et Mylera semble intéressée par leur proposition et annonce qu'elle leur donnera réponse
 le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
 <figure role="group">
-  <img alt="Ethnos" src="images/bitd/places/sebastian-bauer-dojo-05.jpg">
+  <img loading="lazy" alt="Ethnos" src="images/bitd/places/sebastian-bauer-dojo-05.jpg">
   <figcaption>Le dojo de l'Écharpe Rouge</figcaption>
 </figure>
 
@@ -376,17 +380,17 @@ dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 
 <figure role="group">
   <!--img alt="Lodius Dalmore" src="images/bitd/PCs/Lodius Bimages/bitd/Lodius B&W.jpgW.jpg"-->
-  <img alt="Lodius Dalmore" src="images/bitd/PCs/Lodius.jpg">
+  <img loading="lazy" alt="Lodius Dalmore" src="images/bitd/PCs/Lodius.jpg">
   <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img alt="Elaria" src="images/bitd/PCs/Elaria.jpg">
+    <img loading="lazy" alt="Elaria" src="images/bitd/PCs/Elaria.jpg">
     <figcaption>Elaria par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Eric Stamp" src="images/bitd/PCs/EricStamp.jpg">
+    <img loading="lazy" alt="Eric Stamp" src="images/bitd/PCs/EricStamp.jpg">
     <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
   </figure>
 </div>
@@ -432,11 +436,11 @@ Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une op
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img alt="Darmot portrait" src="images/bitd/NPCs/Darmot.jpg">
+    <img loading="lazy" alt="Darmot portrait" src="images/bitd/NPCs/Darmot.jpg">
     <figcaption>Darmot portrait <em>(Carlos Carbrera)</em></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Jenny Holt, Silver Nails" src="images/bitd/NPCs/JennyHolt.jpg">
+    <img loading="lazy" alt="Jenny Holt, Silver Nails" src="images/bitd/NPCs/JennyHolt.jpg">
     <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank"><em>(Cedric Peyravernay)</em></a></figcaption>
   </figure>
 </div>
@@ -451,11 +455,11 @@ de parfum et de pierres précieuses.
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img alt="Mylera Klev" src="images/bitd/NPCs/MyleraKlev.jpg">
+    <img loading="lazy" alt="Mylera Klev" src="images/bitd/NPCs/MyleraKlev.jpg">
     <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank"><em>(Windrider 2 by Mona Finden)</em></a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Oru" src="images/bitd/NPCs/Oru.jpg">
+    <img loading="lazy" alt="Oru" src="images/bitd/NPCs/Oru.jpg">
     <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank"><em>(Old Master by Silviu Sadoschi)</em></a></figcaption>
   </figure>
 </div>
@@ -478,47 +482,7 @@ Voici également quelques lectures intéressantes pour préparer ses sessions c�
 
 - [Running Jobs in Blades in the Dark](http://walkingmind.evilhat.com/2018/12/17/running-jobs-in-blades-in-the-dark/)
 - [General ideas for score obstacles](https://community.bladesinthedark.com/t/general-ideas-for-score-obstacles/468/4)
-J'en ai extrait cette table d'idées d'obstacles à solution "ouverte", à surmonter par les PJs :
-
-1  | finding a certain person in the crowd of a masquerade ball without drawing attention to yourselves
-  -|-
-2  | getting the warden off your back for a few minutes to talk to in private with an Ironhook inmate
-3  | finding Dunvil’s secret lab in the catacombs below the church of ecstasy
-4  | a well guarded elevator is the only obvious way to the lower levels of the cellar
-5  | get an important piece of information out of a slumming noble
-6  | place false evidence in a believable fashion
-7  | make an Iruvian scientist arriving at Gaddoc station climb into your carriage to kidnap him
-8  | lure a party guest out to the balcony
-9  | get past a lightning barrier
-10 | convince someone to sign a ghost contract
-
 - [Your best devil’s bargains](https://community.bladesinthedark.com/t/your-best-devils-bargains/364/3)
-Voici ceux suggérés dans le jeu :
-
-1  | Reveal a valuable secret
-  -|-
-2  | Sacrifice coin or an item
-3  | Betray a friend or loved one
-4  | Anger a powerful enemy
-5  | Make a dangerous promise (e.g. you’ll owe someone a favor)
-6  | Add heat to the crew from evidence or witnesses (*)
-7  | Suffer harm
-
-(*) Maybe a ghost sees you and might remember ? Maybe an x-ray plate captured a picture of your skull ?
-
-En voici quelques autres extraits de cet article :
-
-8  | A fire catch up
-  -|-
-9  | A NPC develop a crush / an intense dislike towards you
-9  | YOU fall in love / become friend with the person you're trying to sway
-10 | Someone recognizes you : a past victim ? A bluecoat ? A rival gang member ? An accomplice from a former life ? An ex lover ?
-11 | Unexpected presence : an ennemy appears / wake up / notice you
-12 | A voice whispering in your head “I can help you” -> tick a clock “Bound to a Demon / Forgotten God”
-13 | After you kill her, her body will drop down the cliff and the Spirit Wardens will never find her. Her ghost will come back to haunt you
-14 | Electroplasmic marker dust squibs. Victims are marked invisibly to normal sight, but blaze brightly and leave an easily traceable trail in the ghost field (*)
-
-(*) Decontamination requires time, fancy equipment, or involved rituals.
 
 
 ## Session 7 - 6 juin 2020
@@ -528,8 +492,8 @@ Inspiré d'[un article de Bastien "Acritarche" Wauthoz](https://acritarche.tumbl
 la partie a débuté par des _love letters_ préparés en amont pour deux PJs :
 
 <div class="side-by-side" role="group">
-  <img alt="Love Letter d'Elaria" src="images/bitd/love-letter-Elaria.jpg">
-  <img alt="Love Letter d'Eric" src="images/bitd/love-letter-Eric.jpg">
+  <img loading="lazy" alt="Love Letter d'Elaria" src="images/bitd/love-letter-Elaria.jpg">
+  <img loading="lazy" alt="Love Letter d'Eric" src="images/bitd/love-letter-Eric.jpg">
 </div>
 
 <u>Petit bilan :</u> je suis très content du résultat !
@@ -635,7 +599,7 @@ Les nerfs à fleur de peau, c'est ensuite le simple tic-tac provenant du sac de 
 qui suffit à les effrayer.
 
 <figure role="group">
-  <img alt="Molosse spectral" src="images/bitd/scourge-beast.jpg">
+  <img loading="lazy" alt="Molosse spectral" src="images/bitd/scourge-beast.jpg">
   <figcaption>Scourge Beast - <a href="https://www.creativeuncut.com/art_bloodborne_a.html" target="_blank">Bloodborne artwork</a></figcaption>
 </figure>
 
@@ -687,11 +651,11 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img alt="I Will Find You And I Will Kill You" src="images/bitd/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
+    <img loading="lazy" alt="I Will Find You And I Will Kill You" src="images/bitd/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
     <figcaption><a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Baszos Baz" src="images/bitd/NPCs/BaszosBaz.jpg">
+    <img loading="lazy" alt="Baszos Baz" src="images/bitd/NPCs/BaszosBaz.jpg">
     <figcaption>Baszos Baz - John Harper</figcaption>
   </figure>
 </div>
@@ -718,24 +682,24 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 
 ## Session 8 - 17 avril 2021
 
-<img class="small-img" alt="Harpoon + Crow + Red Sash + White Eye" src="images/bitd/crow-harpoon-red-scard.jpg">
+<img loading="lazy" class="small-img" alt="Harpoon + Crow + Red Sash + White Eye" src="images/bitd/crow-harpoon-red-scard.jpg">
 
 <figure role="group">
-  <img alt="Let's do this! - Ronamis" src="images/bitd/places/Ronamis-LetsDoThis.jpg">
+  <img loading="lazy" alt="Let's do this! - Ronamis" src="images/bitd/places/Ronamis-LetsDoThis.jpg">
   <figcaption><a href="https://www.reddit.com/r/bladesinthedark/comments/gr4sm9/lets_do_this_bitd_image_by_ronamis/">Let's do this! - Ronamis</a></figcaption>
 </figure>
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img alt="Justinia (Talyn by Banished-shadow)" src="images/bitd/NPCs/Justinia.png">
+    <img loading="lazy" alt="Justinia (Talyn by Banished-shadow)" src="images/bitd/NPCs/Justinia.png">
     <figcaption>Justinia (<a href="https://www.deviantart.com/banished-shadow/art/Talyn-569327626">Talyn by Banished-shadow</a>)</figcaption>
   </figure>
   <figure role="group">
-    <img alt="Early Morning Lights - Joseph Feely" src="images/bitd/places/JosephFeely-EarlyMorningLights.jpg">
+    <img loading="lazy" alt="Early Morning Lights - Joseph Feely" src="images/bitd/places/JosephFeely-EarlyMorningLights.jpg">
     <figcaption><a href="https://www.artstation.com/artwork/3ddmVE">Early Morning Lights - Joseph Feely</a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Josef Tucker (Daud By Infernal Guardian'17)" src="images/bitd/PCs/JosefTucker.jpg">
+    <img loading="lazy" alt="Josef Tucker (Daud By Infernal Guardian'17)" src="images/bitd/PCs/JosefTucker.jpg">
     <figcaption>Josef Tucker (Daud By Infernal Guardian'17)</figcaption>
   </figure>
 </div>
@@ -805,7 +769,7 @@ et tout le gang s'en va pavaner dans les territoires nouvellement acquis pour ma
 
 > « Je ne suis pas le boss mais tu seras mon goon. »
 
-<img class="small-img" style="float: right; margin-left: 1rem" alt="Soleil brisé" src="images/bitd/flame-circle-raster-bw.gif">
+<img loading="lazy" class="small-img" style="float: right; margin-left: 1rem" alt="Soleil brisé" src="images/bitd/gifs/flame-circle-raster-bw.gif">
 <!-- Built with: Gimp + Image Magick to turn PNG into a 40 frames GIF + webestools.com Animated Images Effects Generator -->
 
 En fin de journée, Ethnos-Lodius tente de reprendre contact avec Grell Jayan, qui décline l'entrevue,
@@ -834,7 +798,7 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img alt="Portrait de Lodius en pied" src="images/bitd/PCs/Lodius-en-pied.gif">
+    <img loading="lazy" alt="Portrait de Lodius en pied" src="images/bitd/PCs/Lodius-en-pied.gif">
     <figcaption>Lodius - <a href="images/bitd/PCs/Lodius-en-pied.jpg" target="_blank">Original</a> par <a href="https://www.instagram.com/tensei_draw/">Elliot</a> -
                 GIF créé avec <a href="https://icons8.com/animizer/en/animate-static-image">Animizer</a> puis retouché avec <a href="https://ezgif.com/effects">EZGIF</a></figcaption>
   </figure>
@@ -845,11 +809,11 @@ sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont cho
     <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
   </figure-->
   <figure role="group">
-    <img alt="Lord Scurlock" src="images/bitd/NPCs/LordScurlock.jpg">
+    <img loading="lazy" alt="Lord Scurlock" src="images/bitd/NPCs/LordScurlock.jpg">
     <figcaption>Lord Scurlock - <a href="https://www.deviantart.com/miles-johnston/art/Dnd-Rudolph-Van-Richten-331873119">Dnd - Rudolph Van Richten by Miles-Johnston</a></figcaption>
   </figure>
   <figure role="group">
-    <img alt="Inspector Boden" src="images/bitd/NPCs/Inspector-Boden.jpg">
+    <img loading="lazy" alt="Inspector Boden" src="images/bitd/NPCs/Inspector-Boden.jpg">
     <figcaption>Inspector Boden - <a href="https://quarkmaster.tumblr.com/post/158062423277/nq70-watch-inspector-watch-inspector-career">Watch Inspector by Mitchell Malloy</a></figcaption>
   </figure>
 </div>
@@ -1048,7 +1012,7 @@ Ils suivent le convoi transportant Oru au départ de la caserne, constitué d'un
 et d'une vingtaine d'hommes, mené par **Darmot**.
 
 Juste avant d'arriver au pont, Eric tend un filin qu'il a camouflé là pour faire chuter l'Échassier,
-puis Lodius le fait exploser, tandis que Mist lâche un esprit sur les Bluecoats et qu'Eleria
+puis Lodius le fait exploser, tandis que Mist lâche un esprit sur les _Bluecoats_ et qu'Eleria
 s'introduit telle une ombre dans le fourgon qu'elle _car-jacke_ !
 Elle s'enfuit avec dans les ruelles, puis le fait disparaître dans le fleuve après avoir libéré Oru et 3 autres prisonniers,
 dont un ancien collecteur de taxes.
@@ -1056,7 +1020,7 @@ Pendant ce temps, Eric profite de la panique et d'un nuage de poussière pour fo
 
 Bien que l'opération soit un succès, il s'avère peu après qu'un portrait d'Eric fait la une des journaux suite au meurtre commis la veille à Charhollow,
 faisant de lui l'homme le plus recherché de Doskvol et attisant la tension sur le gang, et par extension tout Crow's Foot,
-où les Bluecoats procèdent à des descentes musclées un peu partout.
+où les _Bluecoats_ procèdent à des descentes musclées un peu partout.
 
 Le gang décide alors de régler son compte à ce fameux **Quess Jeduin**...
 Leur tactique initiale est de patienter à la taverne de l'Æncre qui sèche,
@@ -1075,7 +1039,7 @@ Après un affrontement rapide, le gang finit par sauter à l'eau et à s'échapp
 Mist manque néanmoins d'y laisser la peau en se noyant.
 
 Peu après, une fois au sec, ils apprennent que les Crows ont une dent contre eux,
-ayant été expulsés de la tour de l'horloge par les Bluecoats suite à leur opération "coup de poing" de la journée,
+ayant été expulsés de la tour de l'horloge par les _Bluecoats_ suite à leur opération "coup de poing" de la journée,
 tandis que le Harpon lui même risque de voir son QG du galion démolit par ordre de l'administration de Doskvol !
 
 ### Ressources
@@ -1093,9 +1057,9 @@ tandis que le Harpon lui même risque de voir son QG du galion démolit par ordr
 ## Session 11 - 25 février 2023
 
 <div class="side-by-side" role="group">
-  <img alt="" src="https://i.redd.it/kx36ukt4ugg91.png">
-  <img alt="" src="https://i.redd.it/fdjdbdb3ugg91.png">
-  <img alt="" src="https://i.redd.it/3mo38kczugg91.png">
+  <img loading="lazy" alt="" src="https://i.redd.it/kx36ukt4ugg91.png">
+  <img loading="lazy" alt="" src="https://i.redd.it/fdjdbdb3ugg91.png">
+  <img loading="lazy" alt="" src="https://i.redd.it/3mo38kczugg91.png">
 </div>
 <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wj5m9r/in_addition_to_character_portraits_aigenerated/">Generated by @Homard93 with Midjourney &amp; StableDiffusion @ Reddit</a></figcaption>
 
@@ -1108,10 +1072,10 @@ Bien que de premiers indices laissent à penser à une implication du gang de l'
 En parallèle, le Harpon prépare une "fête d'adieu" au galion, où sont conviés tous les gangs avec lesquels ils sont alliés : Écharpe Rouge, Crows, Gondoliers, Silver Nails.
 Durant les préparatifs, une manifestation surnaturelle envahit le galion échoué : Elaria, Eric et plusieurs de leurs hommes sont pris d'une vision du _Ghost Field_ tourbillonnant autour d'eux, masquant la réalité et laissant entrapercevoir des créatures cauchemardesques. Il s'agit en réalité de préparatifs à un rituel d'illusion menés Josef, qui a mal tourné.
 
-Elaria apprend que les Bluecoats sont en train de se mobiliser pour préparer une intervention le soir de leur petite fête au galion... On les aurait trahi ? Serait-ce l'un des gangs alliés ?
-Le Harpon décide de mettre en place un plan pour identifier le mouchard : ils préviennent chacun des gangs conviés que le lieu de la soirée festive a été modifié, en indiquant à chaque fois un endroit différent, avec dans l'idée de déterminer ainsi qui informe les Bluecoats...
+Elaria apprend que les _Bluecoats_ sont en train de se mobiliser pour préparer une intervention le soir de leur petite fête au galion... On les aurait trahi ? Serait-ce l'un des gangs alliés ?
+Le Harpon décide de mettre en place un plan pour identifier le mouchard : ils préviennent chacun des gangs conviés que le lieu de la soirée festive a été modifié, en indiquant à chaque fois un endroit différent, avec dans l'idée de déterminer ainsi qui informe les _Bluecoats_...
 
-Le moment venu, les Bluecoats effectuent une descente massive dans le quartier, et se rendent au galion après avoir inspecté rapidement la Goule Fendue. Une fois sur place, Eric fait exploser le galion qui avait été préalablement piégé avec des explosifs, projetant d'énormes éclats de bois sur les forces de l'ordre. Eric s'enfuit au dernier moment par un conduit souterrain le menant à l'extérieur.
+Le moment venu, les _Bluecoats_ effectuent une descente massive dans le quartier, et se rendent au galion après avoir inspecté rapidement la Goule Fendue. Une fois sur place, Eric fait exploser le galion qui avait été préalablement piégé avec des explosifs, projetant d'énormes éclats de bois sur les forces de l'ordre. Eric s'enfuit au dernier moment par un conduit souterrain le menant à l'extérieur.
 
 Le gang révèle ensuite aux représentants des gangs alliés la raison de ce stratagème, et Mylera n'est pas ravie que sa confiance ait ainsi été mise en doute.
 Mais cela est rapidement arrangé en lui faisant présent d'un splendide harpon en os de Léviathan, une arme de **Spirit Warden**.
@@ -1168,37 +1132,37 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img src="images/bitd/places/QG/AtelierDAlchimieReconverti.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/AtelierDAlchimieReconverti.jpg">
     <figcaption>Atelier d'alchimie reconverti</figcaption>
   </figure>
   <figure role="group">
-    <img src="images/bitd/places/QG/BureauDeMrGrubert.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/BureauDeMrGrubert.jpg">
     <figcaption>Bureau de Mr. Grubert</figcaption>
   </figure>
   <figure role="group">
-    <img src="images/bitd/places/QG/Lobby.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/Lobby.jpg">
     <figcaption>Lobby</figcaption>
   </figure>
   <figure role="group">
-    <img src="images/bitd/places/QG/PartieDesaffectee.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/PartieDesaffectee.jpg">
     <figcaption>Partie désaffectée</figcaption>
   </figure>
 </div>
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img src="images/bitd/places/QG/QuartiersDuHarpon.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/QuartiersDuHarpon.jpg">
     <figcaption>Quartiers du Harpon</figcaption>
   </figure>
   <figure role="group">
-    <img src="images/bitd/places/QG/VueExterieur.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/VueExterieur.jpg">
     <figcaption>Vue extérieure</figcaption>
   </figure>
   <figure role="group">
-    <img src="images/bitd/places/QG/VueInterieure.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/VueInterieure.jpg">
     <figcaption>Vue intérieure</figcaption>
   </figure>
   <figure role="group">
-    <img src="images/bitd/places/QG/ZoneDEntrepots.jpg">
+    <img loading="lazy" src="images/bitd/places/QG/ZoneDEntrepots.jpg">
     <figcaption>Zone d'entrepôts</figcaption>
   </figure>
 </div>
@@ -1207,27 +1171,27 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img alt="Mist's ghost mask" src="images/bitd/PCs/mist-ghost-mask.png">
+    <img loading="lazy" alt="Mist's ghost mask" src="images/bitd/PCs/mist-ghost-mask.png">
     <figcaption>L'œil du masque de Mist semble avoir une expression différente à chaque fois qu'on l'observe...</figcaption>
   </figure>
-  <img alt="In the catacombs ofthe College of Immortal Studies" src="images/bitd/in-the-catacombs.png">
-  <img alt="Rituel occulte souterrain" src="images/bitd/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg">
+  <img loading="lazy" alt="In the catacombs ofthe College of Immortal Studies" src="images/bitd/places/in-the-catacombs.png">
+  <img loading="lazy" alt="Rituel occulte souterrain" src="images/bitd/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg">
 </div>
 
 ### Session de jeu
 
 <figure role="group">
-  <img src="images/bitd/people-from-cult-worshipping-demons-lit-by-candles-abandoned-by-gods-hyperdetailed-artstation-cgsociety-by-greg-rutkowski-and-by-gustave-dore.webp" alt="people from cult worshipping demons, lit by candles, abandoned by gods, hyperdetailed artstation cgsociety by greg rutkowski and by Gustave Dore">
+  <img loading="lazy" src="images/bitd/places/people-from-cult-worshipping-demons-lit-by-candles-abandoned-by-gods-hyperdetailed-artstation-cgsociety-by-greg-rutkowski-and-by-gustave-dore.webp" alt="people from cult worshipping demons, lit by candles, abandoned by gods, hyperdetailed artstation cgsociety by greg rutkowski and by Gustave Dore">
   <figcaption>Source: <a href="https://openart.ai/discovery/sd-1005905399179903167">openart.ai</a></figcaption>
 </figure>
 
 Une fois la nuit tombée, de concert chacun de son côté, les membres du gang interrompent leurs activités pour se diriger vers le quartier de Barrowcleft. Ils sont tous au complet avant d'avoir atteint le _Barrow bridge_, après la traversée duquel le groupe longe la falaise côtière vers la silhouette élancée d'un château d'eau. Au pied de ce bâtiment et de la côte, ils atteignent un large promontoire où l'on peut distinguer une ouverture dans la paroi du château d'eau, révélant un gigantesque puit, sans fond visible...
-Sur place, plusieurs dizaines de membres du _Path of Echoes_ les attendent, en tenue de cérémonie. Lodius est convié à y participer en s'allongeant sur un autel de bois. Durant le rituel, des dizaines de spectres apparaissent du puit, et des meutes de rats traversent la foule pour faire cercle autour de l'autel de Lodius. Josef est lui attiré par le _Spirit Well_, comme hypnotisé, et manque d'y tomber.
+Sur place, plusieurs dizaines de membres du _Path of Echoes_ les attendent, en tenue de cérémonie. **Lodius** est convié à y participer en s'allongeant sur un autel de bois. Durant le rituel, des dizaines de spectres apparaissent du puit, et des meutes de rats traversent la foule pour faire cercle autour de l'autel de Lodius. **Josef** est lui attiré par le _Spirit Well_, comme hypnotisé, et manque d'y tomber.
 Finalement, le rituel touche à sa fin, ces phénomènes s'estompent, et tout le monde se disperse.
 
-Tandis qu'Elaria s'en va faire un tour à Coalridge, le gang se retrouve chez Gruber et Fils pour faire le point. Leur planque dans les égouts est temporairement envahie de fumée suite à un incident lors de la confection de fumigènes. Mist est lui occupé à mener des recherches dans les archives de l'Université des Études Éternelles.
+Tandis qu'**Elaria** s'en va faire un tour à Coalridge, le gang se retrouve chez Gruber et Fils pour faire le point. Leur planque dans les égouts est temporairement envahie de fumée suite à un incident lors de la confection de fumigènes. **Mist** est lui occupé à mener des recherches dans les archives de l'Université des Études Éternelles.
 
-Lodius commence par tenter de réduire l'attention portée au Harpon en faisant arrêter par les Bluecoats un homme de paille lors d'un braquage avorté. Néanmoins l'homme qu'il paye pour cela s'avère être alcoolique et le braquage tourne en fusillade, et cela ne fait que peu diminuer la _HEAT_ du gang.
+Lodius commence par tenter de réduire l'attention portée au Harpon en faisant arrêter par les _Bluecoats_ un homme de paille lors d'un braquage avorté. Néanmoins l'homme qu'il paye pour cela s'avère être alcoolique et le braquage tourne en fusillade, et cela ne fait que peu diminuer la _HEAT_ du gang.
 
 Les membres du Harpons décident ensuite de traiter en priorité le sujet des créanciers de l'entreprise qui leur sert de QG.
 Des renseignements sont pris, et une rencontre a lieu avec M. Gruber,
@@ -1235,16 +1199,16 @@ toujours aussi transpirant, qui presse les PJs pour obtenir plus de fonds pour r
 
 Plusieurs pistes d'action sont envisagées par le gang, dont une attaque de train qui servirait à la fois à obtenir du cash et à discréditer ce mode de transport.
 
-Lodius décide de rencontrer Bell pour envisager de réaliser un tel "coup" en commun.
+Lodius décide de rencontrer **Bell** pour envisager de réaliser un tel "coup" en commun.
 Une fois à la tour de l'horloge, le chef du Harpon croise une silhouette encapuchonnée qui s'entretenait avec Bell et qui quitte les lieux en masquant son visage. Lodius décide alors d'envoyer des rats la suivre, et découvre qu'il s'agit de Mylera.
 Il s'entretient avec Bell et celui-ci lui coupe l'herbe sous le pied en lui annonçant qu'il préparait justement un coup visant un électro-train au départ de la station de train Gaddoc. Comme Bell s'est déjà renseigné, et qu'il a déjà identifié une cargaison de valeur et un moyen pour s'introduire dans le train, il exige une répartition du butin 75-25 en faveur des Crows. Lodius négocie une part de 30% en acceptant que Bell soit celui qui dirige la manœuvre le jour de l'opération.
 
-De son côté, Eric embauche des gamins des rues pour faire annoter tous les posters _WANTED_ à son effigie dans la ville avec la tête de Boden à la place de la sienne, ce qui se révèle augmenter l'attention sur le gang, et annule totalement les efforts précédents de Lodius.
+De son côté, **Eric** embauche des gamins des rues pour faire annoter tous les posters _WANTED_ à son effigie dans la ville avec la tête de Boden à la place de la sienne, ce qui se révèle augmenter l'attention sur le gang, et annule totalement les efforts précédents de Lodius.
 
 L'heure de l'action vient alors...
 
 <figure role="group">
-  <img alt="Electro-rail train" src="images/bitd/places/Uncharted_AmongThieves_TrainConceptArt.jpg">
+  <img loading="lazy" alt="Electro-rail train" src="images/bitd/places/Uncharted_AmongThieves_TrainConceptArt.jpg">
   <figcaption>Electro-rail train</figcaption>
 </figure>
 
@@ -1254,12 +1218,12 @@ Les PJs prennent le contrôle d'un premier wagon de passager et maîtrisent un R
 Le conducteur de la loco arrière finit par rester sur les rails, et à être happé dans les airs par... quelque chose.
 
 <figure role="group">
-  <img alt="Rail Jack" src="images/bitd/NPCs/RailJack.jpg">
+  <img loading="lazy" alt="Rail Jack" src="images/bitd/NPCs/RailJack.jpg">
   <figcaption>Rail Jack by <a href="https://pythosblathers.tumblr.com/post/628719642135937024/pythosart-playing-around-with-some-ocs-as-blades">@pythosart</a></figcaption>
 </figure>
 
 Des cris surviennent alors de l'arrière du train... "HARPON"... "LODIUS"...
-Alors que Lodius s'apprête à monter sur le toit pour investiguer l'origine de ces cris, le cadavre d'un de ses hommes tombe à ses pieds, tué par balle. Plus loin à l'arrière, sur le toit du train, avec à la main un pistolet au canon fumant, Bell l'apostrophe :
+Alors que Lodius s'apprête à monter sur le toit pour investiguer l'origine de ces cris, le cadavre d'un de ses hommes tombe à ses pieds, tué par balle. Plus loin à l'arrière, sur le toit du train, avec à la main un pistolet au canon fumant, **Bell** l'apostrophe :
 
 > « Navré Lodius, mais tu as trop tiré sur la corde. Il fallait en arriver là pour que le gang des Crows survive. »
 
@@ -1277,7 +1241,7 @@ Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se re
 Une fois la barrière électroplasmique de la ville franchie, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
 
 <figure role="group">
-  <img alt="Les abords du fleuve Dosk à l'aube" src="images/bitd/places/river.webp">
+  <img loading="lazy" alt="Les abords du fleuve Dosk à l'aube" src="images/bitd/places/river.webp">
   <figcaption>Les abords du fleuve Dosk à l'aube</figcaption>
 </figure>
 
@@ -1315,34 +1279,220 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
     + [Rail Jack playbook @bladesinthedark.com](https://bladesinthedark.com/blades-supplements)
 
 <figure role="group">
-  <img alt="Lames du Harpon" src="images/bitd/LamesDuHarpon.jpg">
+  <img loading="lazy" alt="Lames du Harpon" src="images/bitd/LamesDuHarpon.jpg">
   <figcaption>Lames du Harpon par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
-</figure>
-
-<figure role="group">
-  <img alt="3 membres du Harpon : Mist, Lodius et Eric" src="images/bitd/PCs/Gang3-Mist-Lodius-Eric.jpg">
-  <figcaption>3 membres du Harpon : Mist, Lodius et Eric, par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
 </figure>
 
 ## Session 13 - 16-17 septembre 2023
 
+### Intro : pendant ce temps à Coalridge...
+_Tout d'abord, quelques éléments du passé d'Elaria ont été définis, via une série de questions et de suggestions de l'ensemble des joueurs._
+
+_Ensuite, trois scènes ont été jouées à Coalridge, pour narrer ce qui est arrivé à Elaria en parallèle des actions des PJs à la session précédente. Les autres joueurs ont alors incarné 3 PNJs : Quill, Mal & Primm._
+
+Originaire de Coalridge, cela fait des années qu'Elaria n'y est pas retournée.
+Elle apprend néanmoins que la mort d'un garçon ouvrier de 8 ans, **Sten**, est en très d'y créer de sérieux remous,
+et décide sur un coup de tête d'aller rendre visite à son ancien quartier...
+
+On la retrouve d'abord à la veillée funéraire de **Sten**, dans la maison de sa famille.
+Une vingtaine de personnes sont présentes pour se recueillir, dont **Quill** la sœur de Sten,
+leur tante **Sera** qui gère la maison depuis la mort de leurs parents,
+**Primm** un cousin d'adoption devenu chef d'un gang de gamins, les Surins,
+et **Mal**, un ami militant syndical et partisan de l'action insurrectionnelle.
+
+À la surprise d'Elaria, le corps de Sten n'a pas été brûlé, et git à l'étage sur une table,
+le visage visible et le reste du corps sous un drap, la silhouette terriblement déformée par les machines de l'usine... L'accident mortel a eu lieu dans une fabrique surnommée le _Piège à Loup_ par les ouvriers.
+
+Tandis que Primm lance des coûteaux sur une cible dans le jardin,
+et que Mal sème les graines de la révolte dans l'assemblée,
+Quill fait reproche à Elaria d'être partie et de les avoir abandonné...
+
+<figure class="side-by-side" role="group">
+  <img loading="lazy" src="images/bitd/NPCs/Quill.jpg" alt="Quill">
+  <img loading="lazy" src="images/bitd/NPCs/Sera-Coalridge.png" alt="Sera">
+  <figcaption>Quill &amp; Sera</figcaption>
+</figure>
+
+Plus tard dans la nuit, on retrouve nos protagonistes dans une usine désaffectée,
+pour une réunion citoyenne et syndicale extraordinaire suite au décès de Sten.
+Les esprits s'échauffent et la colère de la foule se concentre contre **Lawler**,
+le contremaître de l'usine, qui n'a pas laissé paraître la moindre compassion pour Sten
+alors qu'il est le responsable des ouvriers...
+
+Sur une estrade, Quill en appelle à l'action directe, et la foule se rue à l'extérieur,
+tantôt pour rallier d'autre ouvriers, tantôt pour aller chercher Lawler chez lui...
+
+Terriblement consciente du risque qu'encourent les ouvriers en se révoltant ainsi,
+Elaria décide de mettre son réseau criminel à contribution pour organiser des actions de diversion,
+à Crow's Foot et sur les Docks, afin d'occuper une partie des _Bluecoats_ cette nuit.
+Dans la foule, elle croit un instant distinguer son père, décédé il y a des années dans lors d'une manifestation ouvrière...
+
+Quelques heures plus tard, à l'aube, Elaria revient à Coalridge, et à nouveau tous les personnages
+convergent en un même lieu : l'usine du _Piège à Loup_. Lawler, attaché sur une charette,
+vient d'être transporté à travers le quartier jusqu'ici, sous les crachets et les jets de pierre de la foule.
+Il est amené devant l'endroit où Sten a perdu la vie : une ouverture donnant accès aux rouages et pistons du cœur mécanique de la fabrique, brûlant, grondant et tournant à toute vitesse...
+Face à la foule, Quinn prononce quelques mots pour condamner Lawler, puis Elaria le précipite dans la machine,
+où il est broyé de la plus atroce manière.
+
+A cet instant, l'alerte est donnée : les _Bluecoats_ interviennent !
+Les révoltés décident de ne pas se laisser faire, de résister aux miliciens et de prendre le contrôle de l'usine.
+Déterminée à trouver un moyen de les aider dans leur action, Elaria s'en retourne au QG du gang...
+
+### Session de jeu
+<figure role="group">
+  <img loading="lazy" alt="Plan du QG du Harpon chez Gruber & Fils" src="images/bitd/maps/lampblackhq2.jpg">
+  <figcaption>Plan du QG du Harpon chez Gruber & Fils - Source : <em>Crow’s Foot Art Assets</em></figcaption>
+</figure>
+
+Chez Gruber & Fils, Elaria expose à ses camarades du Harpon ce qu'il se passe à Coalridge.Le gang décide d'intervenir collectivement, par soutien pour Elaria et car cela pourrait être une occasion pour eux de développer leur activité dans un nouveau quartier...
+
+Sans prévenir, Mist décide alors d'invoquer un démon de sable,
+à qui il confie la mission d'aller capturer **Lucretius Dream**,
+le riche patron de l'usine du _Piège à Loup_, et de l'amener là-bas.
+Le démon réclame en échange 3 perles d'eau, des pierres précieuses rares.Une fois le contrat établit, il disparaît en un filet de sable à travers le plancher.
+
+Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour de l'Horloge, préoccupé par le spectre de Bell qui le hante, et par le _logbook_ qui a disparu de la planque où il l'avait personnellement caché...
+
+À Coalridge, tous les ponts reliant le quartier sont contrôlés par les _Bluecoats_, et l'armée impériale se prépare même à intervenir... Le gang s'y rend donc à la nage, et débarque en plein milieu d'une charge de miliciens en armure sur l'usine barricadée. Tandis qu'Elaria, Joseph et Mist se faufilent à l'intérieur de l'enceinte, Eric tire sur les forces de l'ordre, et se retrouve rapidement tabassé et laissé pour mort. Mais sa grande résistance lui permet d'encaisser les coups puis de maîtriser deux _Bluecoats_, et de leur subtiliser leurs canons mortiers. Il s'en sert pour mettre les forces de l'ordre en déroute à grand coups d'explosions.
+
+<figure class="side-by-side" role="group">
+  <img loading="lazy" alt="Sand demon" src="images/bitd/NPCs/SandDemon.png">
+  <img loading="lazy" alt="Bluecoat CRS" src="images/bitd/NPCs/Bluecoats-CRS.jpg">
+  <figcaption>Démon de sable &amp; CRS Bluecoat - Source : <a href="https://www.artstation.com/artwork/qAQaqN" target="_blank"><em>costume illustration for Robin Hood Origins by Andrei Riabovitchev</em></a></figcaption>
+</figure>
+
+<figure class="side-by-side" role="group">
+  <img loading="lazy" src="images/bitd/NPCs/LucretiusDream.png" alt="Lucretius Dream">
+  <img loading="lazy" src="images/bitd/NPCs/ulf_ironborn.png" alt="Ulf Ironborn">
+  <figcaption>Lucretius Dream &amp; Ulf Ironborn</figcaption>
+</figure>
+
+De son côté, Elaria s'introduit dans la fabrique et retrouve dans un bureau à l'étage Quill, Mal, les représentants syndicaux ainsi que les boss de deux gangs locaux : **Ulf Ironborn** le _leader_ Skovland, et le chef des _BillHooks_. Ce dernier, en apprenant l'intervention imminente de l'armée impériale, décide de mettre les voiles. Ulf lui n'est pas venu seul : dans la fabrique en contrebas ses hommes, des vétérans de la guerre de l'unité, sont en train de s'équiper tandis qu'un autre Skolander trace des signes cabalistiques au sol...
+
+Pendant ce temps, Joseph et Mist décident de travailler de concert à ouvrir le _Ghost Veil_
+pour entrer en contact avec les esprits des travailleurs qui ont laissé leur vie aujourd'hui pour l'insurrection.
+Leur rituel fonctionne, et une cohorte d'esprits furieux se rue à travers Coalridge en direction des positions de l'armée impériale.
+
+Une fois réunis, les membres du gang assistent à l'apparition du démon missionné par Mist, qui se matérialise en un ruisselet de sable dans un coin de l'usine. Une fois tout le sable apparu, le petit monticule révèle alors le corps inconscient de Lucretius Dream. Celui-ci est alors ligoté et placé en lieu sûr par les insurgés, en vue d'un interrogatoire.
+
+La situation semblant sous contrôle, voir à l'avantage des ouvriers rebelles, le gang décide alors de retourner à Crow's Foot. Les membres du Harpon prenne alors tous un temps de repos, l'occasion notamment de s'adonner à leurs vices...
+
+De son côté, Elaria va s'étendre quelques heures au Dragon d'Iruvia, sur le territoire de l'Écharpe Rouge, pour fumer de l'opium. Mais alors qu'elle est ainsi à demi-consciente et très vulnérable, elle réalise que l'opium l'endort de manière anormale... Elle a juste le temps d'apercevoir **Raffello** dissimulé derrière une teinture puis elle perd conscience.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/places/SteampunkTendencies-byVladimirManyukhin.jpg" alt="Le Dragon d'Iruvia">
+  <figcaption>Le Dragon d'Iruvia</figcaption>
+</figure>
+
+Un peu plus tard, le Harpon sera informé de la disparition d'Elaria par un émissaire de l'Écharpe Rouge. Mist décide alors de se rendre à la fumerie d'opium pour investiguer. Là-bas, le lieutenant de l'Écharpe Rouge en charge de l'établissement finit par le recevoir et lui expliquer ce qu'il sait, c'est à dire bien peu de chose. Mist met tout de même la main sur un morceau de charbon d'opium à l'odeur suspecte, qu'une analyse au QG révélera ensuite être une odeur de soporifique.
+
+Une fois avisé, Joseph décide alors d'accomplir un rituel afin de percevoir la trace récente qu'a pu laisser Elaria dans le _Ghost Veil_. Son rituel permet alors au gang de remonter la piste d'Elaria jusqu'au club _The Seven Sins_, à Silkshore. D'après les informations recueillies par Mist, le lieu est un repaire du Cercle de la Flamme.
+
+De son côté, Elaria se réveille enchaînée et suspendue la tête à l'envers à une poutre, dans une pièce sans ouverture et avec très peu de meubles. Tandis qu'elle parvient à progressivement et e manière surnaturelle à se libérer, Raffello entre dans la pièce, accompagné de son démon invisible. Elaria profite d'un poignard lancé dans sa direction pour finir de s'extraire de ses chaînes et de se rétablir au sol. Un bref affrontement s'ensuit, où Elaria prend le dessus sur ses deux adversaires mais le paye par une grave blessure et un trauma.
+
+Le reste du gang choisit alors de lancer une opération « coup de poing » et de s'introduire à l'intérieur du club via une porte de service. Mist assure les arrières en tenant en respect deux démons-gargouilles descendus du toit, tandis qu'Eric et Joseph s'introduisent dans une succession de couloirs de pierre qui se révèle être un labyrinthe... Après plusieurs démolitions de murs par Eric, Joseph exploite le _Ghost Veil_ pour ignorer l'illusion et diriger le groupe vers la pièce où Elaria est prisonnière. Là, Joseph vide sont pistolet sur Raffello déjà gravement blessé, et Eric vient en soutien à Elaria face au démon.
+
+Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque.
+
+<figure class="side-by-side" role="group">
+  <img loading="lazy" src="images/bitd/demon.png" alt="Démon invisible">
+  <figcaption>Démon invisible &amp; -TODO- Raffelo</figcaption>
+</figure>
+
+> On a fait du Cercle des Sept le Cercle des Six.<br>
+> On a une adresse.<br>
+> On pourrait en faire le Cercle des Cinq.<br>
+> - Elaria à propos d'Elstera Avrathi
+
+De son côté, à la tour de l'horloge, Lodius a découvert une pièce secrète avec une petite bibliothèque, où il retrouve le _logbook_, des livres archivant l'histoire des _Crows_ et une paire de gants de Bell.Le fantôme qui le hante devient de plus en plus présent, menaçant même de lui faire sauter la cervelle.
+Un rituel d'exorcisme est donc organisé par le gang pour libérer Lodius du spectre de Bell.
+
+Le rituel est mené par Joseph accompagné de Mist, à la tour de l'horloge,
+sous l’œil attentif d'une meute de corbeaux qui se massent sur les poutres de l'édifice...
+Malgré une tentative du spectre pour que Lodius abatte l'un de ses camarades,
+le rituel est un succès et le fantôme est enfermé dans une bouteille.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/places/ThiefCity.jpg" alt="Vue de Doskvol et de la tour de l'horloge">
+  <figcaption>Vue de Doskvol et de la tour de l'horloge</figcaption>
+</figure>
+
+Tandis que le gang fait le point sur les prochaines actions à mener,
+une invitation de Lord Scurlock leur est remise : il a un travail à leur proposer.
+Suite à l'entrevue avec le mystérieux Lord, le Harpon accepte le job :
+récupérer un masque enchanté permettant de prendre l'apparence de n'importe qui,
+actuellement possédé par une diva des _Dagger Isles_ qui arrivera à l'aube à Doskvol par bateau.
+
+Une fois renseignements pris, et après moults plans échafaudés, le gang décide d'intervenir immédiatement,
+avant même que le masque ne quitte le paquebot.
+Avec l'aide de Phil, ils se font passer pour des dockers afin de rejoindre le bateau en chaloupe pour participer aux déchargement des marchandises.
+Elaria en profite pour se glisser à bord discrètement. Elle localiste la chambre de la diva, se débarrasse d'un garde et s'y introduit silencieusement. Elle y trouve deux hommes au lit, dont est visiblement un officier impérial. Repérée, elle finit par devoir les assommer tous les deux, et découvre que l'un d'entre eux était en fait la diva portant le masque !
+Le gang finit par mettre les voiles, sans même être inquiété par le navire volant impérial qui a abordé le navire.
+
+<figure class="side-by-side" role="group">
+  <img loading="lazy" src="images/bitd/jan-goszyk-template-tourist-ship-01.jpg" alt="Le navire" style="flex: 2 0">
+  <img loading="lazy" src="images/bitd/NavetteImperiale.jpg" alt="Navette volante impériale">
+  <figcaption>Le navire &amp; la navette volante impériale</figcaption>
+</figure>
+
+<figure class="side-by-side" role="group">
+  <img loading="lazy" src="images/bitd/PCs/Elaria2.jpg" alt="Elaria">
+  <img loading="lazy" alt="3 membres du Harpon : Mist, Lodius et Eric" src="images/bitd/PCs/Gang3-Mist-Lodius-Eric.jpg" style="flex: 2 0">
+  <figcaption>4 membres du Harpon : Elaria, Mist, Lodius et Eric, par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+</figure>
+
+L'après-midi même, le gang retourne chez Lord Scurlock pour lui remettre le masque.
+Il est ravi de leur efficacité, et les paye grassement de six perles d'eau.
+Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job...
+
+### Ressources
+- illustrations:
+    + [Crow’s Foot Art Assets](https://www.olddog.games/Blades-in-the-Dark-Crow-s-Foot-Art-Assets)
+- ambiance musicale :
+    + [Peaky Blinders music mix @ YouTube](https://www.youtube.com/watch?v=hnRXp2_3c-g)
+    + [Thief (2014) game soundtrack @ YouTube](https://www.youtube.com/watch?v=SAHvDlgefIU)
+    + [Dark Steampunk Music – The Shadow Empire | Dystopian, Mystery @ YouTube](https://www.youtube.com/watch?v=Qllr787tttQ)
+    + [Dark Steampunk Music – Clockwatcher City | Dystopian, Mystery @ YouTube](https://www.youtube.com/watch?v=KkLgkTvnri4)
+    + [Fantasy Infiltration | Keys from the Golden Vault | "Execute the Heist" | TTRPG DnD Music @ YouTube](https://www.youtube.com/watch?v=j11ugZtNy7M&list=PLcnvkahJI9vlrsRhw28tIUrPLwFYRz0Oi)
+- clips vidéos :
+    + [Dishonored: The Tales From Dunwall + The Cure - Burn @ YouTube](https://www.youtube.com/watch?v=ksOLviwaBsY)
+    + [Dishonored: Bluecoats at Doskvol @ YouTube](https://youtu.be/VeIn3WjbVbw?si=vDYiTZk8TO7kTMPw&t=84) from 01:25 to 1:59
+    + [Thief: vision de la Tour de l'Horloge désertée](https://youtu.be/cHF-jZfe1G0?t=685) ~1min
+- aides de jeu :
+    + [Magician playbook](https://nebmia.itch.io/the-magician-playbook)
+    + [The Devil's Almanach](https://notwriting.itch.io/the-devils-almanac): a collection of Devil’s Bargains
+    + [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion): _BitD module where you and your scrappy revolutionary crew must band together with other working-class factions in order to claw Coalridge back from fascism_
+    + [Score: Mask of a Thousand Faces](https://www.elvenfirefly.com/mask-of-a-thousand-faces-a-blades-in-the-dark-heist/)
+    + [Blades in the Dark Relationship Maps](https://kumu.io/Tatourmi/blades-in-the-dark-relationship-maps#blades-in-the-dark-relationships) ([Reddit post](https://www.reddit.com/r/bladesinthedark/comments/13d81ei/complete_blades_in_the_dark_relationship_map/))
+    + [A primer on the nature of demons @ Reddit](https://www.reddit.com/r/bladesinthedark/comments/x6znph/a_primer_on_the_nature_of_demons/)
+    + [Advice for Blades in the Dark GM by Osiride Luca Cascioli](https://blastgames-official.itch.io/my-advice-for-blades-in-the-dark-gm)
+
+
+## Session 14 - ?
+
 <!--
 
 <figure role="group">
-  <div class="side-by-side" role="group">
-    <img src="images/bitd/NPCs/Marlane-by-Cryptocartographer.webp" alt="Marlane">
-    <img src="images/bitd/NPCs/PuxBolin-by-Cryptocartographer.webp" alt="Pux Bolin">
-  </div>
-  <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/">Marlane &amp; Pux Bolin by @Cryptocartographer @ Reddit</a></figcaption>
+  <img loading="lazy" src="images/bitd/NPCs/Marlane-by-Cryptocartographer.webp" alt="Marlane">
+  <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/">Marlane @ Reddit</a></figcaption>
 </figure>
 
-TODO: compléter grille de recap' des PJs avec Joseph + Mist
--> indiquer lien entre Mist & Setarra
+DOWNTIME fait, sauf pour Elaria (ni son XP)
++ au début du Score, demander aux PJ leur LOADOUT : Light / Normal / Heavy / Encumbered
 
-Lodius : est hanté par le spectre de Bell (overindulge)
+Demain: médiation évêque de la church of the Ectasy of the Flesh @Coalridge
+-> insurgés suspicieux, demandent de l'aide à Elaria
+-> anticiper que les Spirit Wardens ont forcément dû intervenir à Coalridge
 
-Elaria (passé / background = labor) est occupée : d'anciens collègues / proches fomentent une rébellion ouvrière à Coalridge, et sollicitent son aide
-cf. [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
+Anticiper / définir :
+* intentions de Scurlock à propos de Mist / Setarra / la croix
+* si le Harpon et l'Echarpe Rouge sont en guerre -> effets mécaniques ?
+* règle concernant démons décédés -> comment peuvent-ils être ré-invoqués ?
+* donner un bonus à Joseph pour avoir étudié le masque aux 1000 visages
+* travailler sur : "ce que veulent les démons"
+
+Joueurs partants pour renouveler le fait de faire des sessions pour développer le passé des PJs,
+à base de questions à choix multiples et interprétation de PNJs
 
 * ToRead/ -> many ideas for scores
 * introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
@@ -1352,6 +1502,7 @@ cf. [Steelweavers Rebellion](https://mabelharper.itch.io/steelweavers-rebellion)
 * prendre inspis de Dirty MJ
 
 Campagne:
+
 * logbook = game changer, va modifier équilibre des forces de la ville...
   -> peut permettre la libération des enfants de Setarra et/ou le retour de Kotar (Cercle de la Flamme)
 * introduire un événement à gros impact sur la ville : plus de soleil ? épidémie zombie ?
@@ -1361,35 +1512,32 @@ Campagne:
 * rédiger une feuille par gang majeur
 * sélectionner illustrations pour les PNJs ppaux
     + gimmick pour PNJs: renifle tout, les gens, les lieux
-ALT: campaign END -> they become COPS !
+
+Music:
+* [Bloodborne-based Doskvol Action Youtube playlist](https://www.youtube.com/playlist?list=PLzUXbrG_iz1FhRL4_YEncEy4z90u92YAU)
 
 Moments/videos:
-* Vision de la Tour de l'Horloge désertée (1min puis fade to black): https://youtu.be/cHF-jZfe1G0?t=685
+
 * heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
 
 ToPrint:
-* https://notwriting.itch.io/the-devils-almanac
+
 * https://www.reddit.com/r/bladesinthedark/comments/qh43y6/devils_bargains_card_deck/
   & Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view ?
 
 Ressources to CRAFT:
+
 * make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 * a SCORE (using one of angers-ma-0*.jpg as illustration)
 
 Ressources TO MENTION:
-+ https://nebmia.itch.io/the-magician-playbook
-+ https://notwriting.itch.io/the-devils-almanac
-+ Blades in the Dark Art Hack Tutorial: https://imgur.com/gallery/3lxWySf
-    * angers-ma-01-solarized-0.27-1-fotosketcher-painting5-watercolor.jpg
-    * angers-ma-02-duotone-bw-contrast-0.4-fotosketcher-painting5-watercolor.jpg
-    * angers-ma-03-duotone-bw-contrast-0.4-brightness-0.1-fotosketcher-painting5-watercolor.jpg
-    * angers-ma-04-duotone-bw-contrast-0.38-brightness-0.1-fotosketcher-painting5-watercolor.jpg
+
++ [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
 + [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
   & newspaper template: https://jaderavens.itch.io/north-hook-lantern
 + [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
-+ (to read) [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
 + [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco, 1 page PDF
 + [Favorite session zero questions](https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/)
 + Scores:
@@ -1401,12 +1549,21 @@ Ressources TO MENTION:
 -> l'idée des "ghost dealers" est très chouette !
 > Most citizens of Duskwall are terrified of ghosts. Lost, mad, destructive spirits, whose only desire is to return to the warm embrace of a warm body. They’ve lost their own, but are eager to adopt yours.
 > But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
++ Blades in the Dark Art Hack Tutorial: https://imgur.com/gallery/3lxWySf
+    * angers-ma-01-solarized-0.27-1-fotosketcher-painting5-watercolor.jpg
+    * angers-ma-02-duotone-bw-contrast-0.4-fotosketcher-painting5-watercolor.jpg
+    * angers-ma-03-duotone-bw-contrast-0.4-brightness-0.1-fotosketcher-painting5-watercolor.jpg
+    * angers-ma-04-duotone-bw-contrast-0.38-brightness-0.1-fotosketcher-painting5-watercolor.jpg
+
+Sources d'inspis visuelles (jeux vidéo) : Dishonored, Thief, A Plague Tale, Steelrising, Vampyr, The Order 1886, Amnesya
 
 Demons & creatures in the Ghost Field:
+
 * https://www.deviantart.com/carpet-crawler/art/Rooster-Knight-Splash-Animation-876402753
 * Leviathan: https://www.deviantart.com/carpet-crawler/art/The-Dream-Quest-of-Elyza-Lee-Commission-Work-822423747
 
 Maps:
+
 * Deathlands map: https://www.reddit.com/r/bladesinthedark/comments/153es4a/deathlands_map_i_made_for_my_groups_deathlands/
 * The jailhouse: https://www.reddit.com/r/Roll20/comments/ftmebc/send_your_players_to_jail_jailhouseprison_battle/
 * Docks of the Dead: https://2minutetabletop.com/product/docks-of-the-dead/
@@ -1418,7 +1575,7 @@ Maps:
 * QG Écharpe Rouge: https://2minutetabletop.com/product/japanese-castle/
 * Ghost Ship: https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
 * Tangle Town: http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
-* Lord Governor’s Stronghold @ WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
+* Lord Governor’s Stronghold @ WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/maps/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
 * The Bridge District: https://i.imgur.com/LmQfBdl.jpeg
 * Les égouts :
     + https://guillaumetavernierblog.wordpress.com/2017/04/17/87/
@@ -1428,6 +1585,7 @@ Maps:
     + https://2minutetabletop.com/product/sewer-hideout/
 
 Énigme à tiroirs des tatouages d'Ethnos-Lodius:
+
 1. [x] Écrit en Hadrathi (iruvien) de manière "stylisé" :
    53P355Ob n+ 7eW1ue un +910P uO+ 3P
    3We uO+ 3P 3u1e+1be> 37 51O5
@@ -1464,11 +1622,13 @@ Pour chaque "strate" du tatouage, le principe est le même :
 Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site dcode.fr (sans lui indiquer la page)
 
 Tools:
-    Pinterest images downloader: ./pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/
-    Reddit images downloader: bdfr download . --folder-scheme '' --link $POST_URL
-    Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk
+
+* Pinterest images downloader: ./pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/
+* Reddit images downloader: bdfr download . --folder-scheme '' --link $POST_URL
+* Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk
 
 Online rpg-dice boards:
+
 * https://chezsoi.org/lucas/jdr/rpg-dice/Elaria?bitd=1
 * https://chezsoi.org/lucas/jdr/rpg-dice/Eric?bitd=1
 * https://chezsoi.org/lucas/jdr/rpg-dice/Josef?bitd=1
@@ -1476,9 +1636,11 @@ Online rpg-dice boards:
 * https://chezsoi.org/lucas/jdr/rpg-dice/Mist?bitd=1
 
 Notes / joueurs:
+
 * Elliot s'éclate à crafter
-* Simon aimerait bien jouer un autre archétype (Spy ?)
--->
+* Simon aimerait bien jouer un autre archétype (Slide ?)
+
+<!---->
 
 <style>
 @font-face {
@@ -1562,6 +1724,7 @@ document.querySelectorAll("article img").forEach((img) => {
         var a = document.createElement('a');
         a.href = img.src;
         a.target = "_blank";
+        a.style.flex = img.style.flex;
         img.parentElement.insertBefore(a, img);
         a.appendChild(img); // reparent <img>
     }

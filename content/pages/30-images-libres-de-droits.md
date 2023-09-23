@@ -640,6 +640,13 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 > Polish painter, photographer and sculptor specializing in the field of dystopian surrealism.
     * [AA78, year 1978](https://commons.wikimedia.org/wiki/File:AA78_by_Zdzislaw_Beksinski_1978.jpg)
     * [Untitled, 1984](https://commons.wikimedia.org/wiki/File:Untitled_painting_by_Zdzislaw_Beksinski_1984.jpg)
+- [Arben Krasniqi _aka_ SilentEmotionn](https://www.deviantart.com/silentemotionn/gallery): CC BY
+    * [Mad Max](https://www.deviantart.com/silentemotionn/art/Mad-Max-979054284)
+    * [Mobile Suit Gundam SEED Pilot #2](https://www.deviantart.com/silentemotionn/art/Mobile-Suit-Gundam-SEED-Pilot-2-978882245)
+    * [Retrowave Beach](https://www.deviantart.com/silentemotionn/art/Retrowave-Beach-977650505)
+    * [Waiting 4 U](https://www.deviantart.com/silentemotionn/art/Waiting-4-U-977640198)
+    * [Walk Alone](https://www.deviantart.com/silentemotionn/art/Walk-Alone-977296273)
+    * [Skylands](https://www.deviantart.com/silentemotionn/art/Skylands-976697408)
 
 ## Single artworks
 - FJF Toledo CC BY-NC-ND artworks (⚠️: Non-Derivative):
@@ -835,6 +842,7 @@ Mostly photos:
 - [Pixabay illustrations](https://pixabay.com/en/photos/?image_type=illustration) -> beaucoup de choses intéressantes en N&B
     * [homme-guerrier-portrait-soldat](https://pixabay.com/fr/illustrations/homme-guerrier-portrait-soldat-5996080/)
     * [décès-morte-gens-zombi-monstre](https://pixabay.com/fr/vectors/d%c3%a9c%c3%a8s-morte-gens-zombi-monstre-161695/)
+    * [fantasy-warrior-demon-undead-evil](https://pixabay.com/illustrations/fantasy-warrior-demon-undead-evil-8082370/)
 - [pxfuel](https://www.pxfuel.com)
     * [analog, watch, illustration lot, time, clock, watches, time of, business, appointment, past](https://www.pxfuel.com/en/free-photo-ooqqp)
 - [Open Image Collections](https://blogs.ntu.edu.sg/openimagecollections/)
