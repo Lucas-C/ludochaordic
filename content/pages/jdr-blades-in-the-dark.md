@@ -381,17 +381,17 @@ dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 <figure role="group">
   <!--img alt="Lodius Dalmore" src="images/bitd/PCs/Lodius Bimages/bitd/Lodius B&W.jpgW.jpg"-->
   <img loading="lazy" alt="Lodius Dalmore" src="images/bitd/PCs/Lodius.jpg">
-  <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+  <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
 <div class="side-by-side" role="group">
   <figure role="group">
     <img loading="lazy" alt="Elaria" src="images/bitd/PCs/Elaria.jpg">
-    <figcaption>Elaria par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+    <figcaption>Elaria par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
   </figure>
   <figure role="group">
     <img loading="lazy" alt="Eric Stamp" src="images/bitd/PCs/EricStamp.jpg">
-    <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+    <figcaption>Eric Stamp par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
   </figure>
 </div>
 
@@ -437,11 +437,11 @@ Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une op
 <div class="side-by-side" role="group">
   <figure role="group">
     <img loading="lazy" alt="Darmot portrait" src="images/bitd/NPCs/Darmot.jpg">
-    <figcaption>Darmot portrait <em>(Carlos Carbrera)</em></figcaption>
+    <figcaption>Darmot portrait (Carlos Carbrera)</figcaption>
   </figure>
   <figure role="group">
     <img loading="lazy" alt="Jenny Holt, Silver Nails" src="images/bitd/NPCs/JennyHolt.jpg">
-    <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank"><em>(Cedric Peyravernay)</em></a></figcaption>
+    <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank">(Cedric Peyravernay)</a></figcaption>
   </figure>
 </div>
 
@@ -456,11 +456,11 @@ de parfum et de pierres précieuses.
 <div class="side-by-side" role="group">
   <figure role="group">
     <img loading="lazy" alt="Mylera Klev" src="images/bitd/NPCs/MyleraKlev.jpg">
-    <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank"><em>(Windrider 2 by Mona Finden)</em></a></figcaption>
+    <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank">(Windrider 2 by Mona Finden)</a></figcaption>
   </figure>
   <figure role="group">
     <img loading="lazy" alt="Oru" src="images/bitd/NPCs/Oru.jpg">
-    <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank"><em>(Old Master by Silviu Sadoschi)</em></a></figcaption>
+    <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank">(Old Master by Silviu Sadoschi)</a></figcaption>
   </figure>
 </div>
 
@@ -1280,7 +1280,7 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
 
 <figure role="group">
   <img loading="lazy" alt="Lames du Harpon" src="images/bitd/LamesDuHarpon.jpg">
-  <figcaption>Lames du Harpon par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+  <figcaption>Lames du Harpon par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
 ## Session 13 - 16-17 septembre 2023
@@ -1341,10 +1341,11 @@ Déterminée à trouver un moyen de les aider dans leur action, Elaria s'en reto
 ### Session de jeu
 <figure role="group">
   <img loading="lazy" alt="Plan du QG du Harpon chez Gruber & Fils" src="images/bitd/maps/lampblackhq2.jpg">
-  <figcaption>Plan du QG du Harpon chez Gruber & Fils - Source : <em>Crow’s Foot Art Assets</em></figcaption>
+  <figcaption>Plan du QG du Harpon chez Gruber & Fils - Source : <a href="https://www.olddog.games/Blades-in-the-Dark-Crow-s-Foot-Art-Assets">Crow’s Foot Art Assets</a></figcaption>
 </figure>
 
-Chez Gruber & Fils, Elaria expose à ses camarades du Harpon ce qu'il se passe à Coalridge.Le gang décide d'intervenir collectivement, par soutien pour Elaria et car cela pourrait être une occasion pour eux de développer leur activité dans un nouveau quartier...
+Chez Gruber & Fils, Elaria expose à ses camarades du Harpon ce qu'il se passe à Coalridge.
+Le gang décide d'intervenir collectivement, par soutien pour Elaria et car cela pourrait être une occasion pour eux de développer leur activité dans un nouveau quartier...
 
 Sans prévenir, Mist décide alors d'invoquer un démon de sable,
 à qui il confie la mission d'aller capturer **Lucretius Dream**,
@@ -1358,7 +1359,7 @@ Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour 
 <figure class="side-by-side" role="group">
   <img loading="lazy" alt="Sand demon" src="images/bitd/NPCs/SandDemon.png">
   <img loading="lazy" alt="Bluecoat CRS" src="images/bitd/NPCs/Bluecoats-CRS.jpg">
-  <figcaption>Démon de sable &amp; CRS Bluecoat - Source : <a href="https://www.artstation.com/artwork/qAQaqN" target="_blank"><em>costume illustration for Robin Hood Origins by Andrei Riabovitchev</em></a></figcaption>
+  <figcaption>Emgast, démon de sable &amp; CRS Bluecoat - Source : <a href="https://www.artstation.com/artwork/qAQaqN" target="_blank">costume illustration for Robin Hood Origins by Andrei Riabovitchev</a></figcaption>
 </figure>
 
 <figure class="side-by-side" role="group">
@@ -1392,11 +1393,12 @@ De son côté, Elaria se réveille enchaînée et suspendue la tête à l'envers
 
 Le reste du gang choisit alors de lancer une opération « coup de poing » et de s'introduire à l'intérieur du club via une porte de service. Mist assure les arrières en tenant en respect deux démons-gargouilles descendus du toit, tandis qu'Eric et Joseph s'introduisent dans une succession de couloirs de pierre qui se révèle être un labyrinthe... Après plusieurs démolitions de murs par Eric, Joseph exploite le _Ghost Veil_ pour ignorer l'illusion et diriger le groupe vers la pièce où Elaria est prisonnière. Là, Joseph vide sont pistolet sur Raffello déjà gravement blessé, et Eric vient en soutien à Elaria face au démon.
 
-Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque.
+Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque, sous un feu nourri de carreaux d'arbalète.
 
 <figure class="side-by-side" role="group">
   <img loading="lazy" src="images/bitd/demon.png" alt="Démon invisible">
-  <figcaption>Démon invisible &amp; -TODO- Raffelo</figcaption>
+  <img loading="lazy" src="images/bitd/NPCs/Raffelo3.jpg" alt="Raffelo">
+  <figcaption>Vassock, démon invisible &amp; Raffelo</figcaption>
 </figure>
 
 > On a fait du Cercle des Sept le Cercle des Six.<br>
@@ -1432,18 +1434,25 @@ Le gang finit par mettre les voiles, sans même être inquiété par le navire v
 <figure class="side-by-side" role="group">
   <img loading="lazy" src="images/bitd/jan-goszyk-template-tourist-ship-01.jpg" alt="Le navire" style="flex: 2 0">
   <img loading="lazy" src="images/bitd/NavetteImperiale.jpg" alt="Navette volante impériale">
-  <figcaption>Le navire &amp; la navette volante impériale</figcaption>
+  <figcaption>Le navire &amp; la navette volante impériale - Source : <a href="https://www.artstation.com/artwork/XB30LD">Jan Goszyk pour Anno 1800</a></figcaption>
 </figure>
 
 <figure class="side-by-side" role="group">
   <img loading="lazy" src="images/bitd/PCs/Elaria2.jpg" alt="Elaria">
   <img loading="lazy" alt="3 membres du Harpon : Mist, Lodius et Eric" src="images/bitd/PCs/Gang3-Mist-Lodius-Eric.jpg" style="flex: 2 0">
-  <figcaption>4 membres du Harpon : Elaria, Mist, Lodius et Eric, par <a href="https://illutensei.com" target="_blank"><em>Elliot Jolivet aka Tenseï</em></a></figcaption>
+  <figcaption>4 membres du Harpon : Elaria, Mist, Lodius et Eric, par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
 L'après-midi même, le gang retourne chez Lord Scurlock pour lui remettre le masque.
 Il est ravi de leur efficacité, et les paye grassement de six perles d'eau.
 Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job...
+
+<a href="images/bitd/ChroniquesDuCrepuscule-MadeByAurelien.pdf">
+  <figure>
+    <img alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule-pdf-thumbnail.jpg">
+    <figcaption>Chroniques du Crépuscules - par Aurélien</figcaption>
+  </figure>
+</a>
 
 ### Ressources
 - illustrations:
@@ -1490,6 +1499,11 @@ Anticiper / définir :
 * règle concernant démons décédés -> comment peuvent-ils être ré-invoqués ?
 * donner un bonus à Joseph pour avoir étudié le masque aux 1000 visages
 * travailler sur : "ce que veulent les démons"
+
+Joseph :
++ ajouter "Anguille Rouge", cabaret de Silkshore
++ PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Joseph
++ la famille Daava en veut probablement à Joseph...
 
 Joueurs partants pour renouveler le fait de faire des sessions pour développer le passé des PJs,
 à base de questions à choix multiples et interprétation de PNJs
