@@ -64,7 +64,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [traveler with yack in the snow](https://www.deviantart.com/deevad/art/Krita-texture-speedpainting-test-350472256)
     * he also draws the [Peper & Carrot comic](https://www.peppercarrot.com/fr/artworks/artworks.html), which is entirely under CC-BY license
     * [Torreya](https://www.davidrevoy.com/article869/torreya)
-- [Fernand0FC](https://www.deviantart.com/fernand0fc/gallery/) CC BY - colourful Moebius-like illustrations, weapons, cyberpunk & sci-fi characters, cars...
+-  Fernando Correa aka [Fernand0FC](https://www.deviantart.com/fernand0fc/gallery/) CC BY - colourful Moebius-like illustrations, weapons, cyberpunk & sci-fi characters, cars...
 > An amazing “hobbyist” from Argentina
     * [At the saloon](https://www.deviantart.com/fernand0fc/art/At-the-saloon-861886230)
     * [Plague doctor](https://www.deviantart.com/fernand0fc/art/Plague-doctor-832945533)
@@ -98,7 +98,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Tears of Valki](https://www.deviantart.com/themefinland/art/Tears-of-Valki-945986297)
     * [Skull Hollow](https://www.deviantart.com/themefinland/art/Skull-hollow-945986026)
     * [Virus Takeover](https://www.deviantart.com/themefinland/art/Virus-takeover-kofi-946772301)
-- [Ramirez de Souza _aka_ Halycon450](https://www.deviantart.com/halycon450/gallery/) CC BY-NC-SA : >700 illustrations, Shadowrun, DOTA, Monster Hunter, Dark Souls dark fantasy, Shadowrun, some sci-fi characters & ships, swordsmen, Huntsman + 2 mouse characters
+- [Ramirez de Souza _aka_ Halycon450](https://www.deviantart.com/halycon450/gallery/) his older works are CC BY-NC-SA : >700 illustrations, Shadowrun, DOTA, Monster Hunter, Dark Souls dark fantasy, Shadowrun, some sci-fi characters & ships, swordsmen, Huntsman + 2 mouse characters
 > An amazing “hobbyist” from Germany
     * [Shadowrun Elf Decker](https://www.deviantart.com/halycon450/art/Shadowrun-Elf-Decker-607928463)
     * [Shadowrun Hitman](https://www.deviantart.com/halycon450/art/Shadowrun-Hitman-607114550)
@@ -168,6 +168,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [The Writer](https://www.deviantart.com/dumaker/art/The-Writer-908244029)
     * [El Acomodador](https://www.deviantart.com/dumaker/art/El-Acomodador-927391831)
     * [Kingdom](https://www.deviantart.com/dumaker/art/Kingdom-925139187)
+    * [Bruja de suburbio](https://www.deviantart.com/dumaker/art/Bruja-de-suburbio-980190581)
+    * [Rip](https://www.deviantart.com/dumaker/art/Rip-978037113)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -397,15 +399,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Taiko Hadashi - wizard tengu](https://www.deviantart.com/whodrewthis/art/Taiko-Hadashi-589714235) - CC BY
     * [Robot- Wretch](https://www.deviantart.com/whodrewthis/art/Robot-Wretch-889868599) - CC BY
     * [Numerian Scav Flailer](https://www.deviantart.com/whodrewthis/art/Numerian-Scav-Flailer-889373883) - CC BY
-- [Michael Richards _aka_ Butteredbap](https://www.deviantart.com/butteredbap/gallery) : **some** CC BY
-> Senior concept artist currently working at Playground-Games. United Kingdom.
-    * [Tribal Woman](https://www.deviantart.com/butteredbap/art/Tribal-Woman-412509631)
-    * [Tribal Shaman](https://www.deviantart.com/butteredbap/art/Tribal-Shaman-418078781)
-    * [Tribal Warrior](https://www.deviantart.com/butteredbap/art/Tribal-Warrior-412271526)
-    * [Demon Assassin](https://www.deviantart.com/butteredbap/art/Demon-Assassin-441683027)
-    * [Undead Assassin](https://www.deviantart.com/butteredbap/art/Undead-Assassin-442339163)
-    * [Tengu Assassin](https://www.deviantart.com/butteredbap/art/Tengu-Assassin-441471936)
-    * [Sunset pyramids](https://www.deviantart.com/butteredbap/art/Sunset-pyramids-72dpi-358955164)
 - [M. K. Amphitaman](https://www.deviantart.com/amphitaman/gallery) : CC BY-NC / CC BY-NC-SA - sci-fi characters & creatures
     * [The unreachable Sword](https://www.deviantart.com/amphitaman/art/The-unreachable-Sword-358964600)
     * [Space Abyss](https://www.deviantart.com/amphitaman/art/Space-Abyss-363270133)
@@ -460,14 +453,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Kenku](https://www.deviantart.com/ubergank/art/Kenku-814005528)
     * [Ronin](https://www.deviantart.com/ubergank/art/Ronin-812555564)
     * [WoW female dwarf](https://www.deviantart.com/ubergank/art/World-of-Warcraft-Dwarf-790169780)
-- [MissPendleton](https://www.deviantart.com/misspendleton/gallery) : CC BY-NC - fantasy, WoW, lots of elfs
-> Hobbyist digital artist from Germany
-    * [night elf druid](https://www.deviantart.com/misspendleton/art/night-elf-druid-878115067)
-    * [Nightelf Priestess](https://www.deviantart.com/misspendleton/art/Nightelf-Priestess-801327252)
-    * [Paladins - Corvus Fanart](https://www.deviantart.com/misspendleton/art/Paladins-Corvus-Fanart-865863930)
-    * [Paladins - Maeve Fanart](https://www.deviantart.com/misspendleton/art/Maeve-Fanart-from-Paladins-867021156)
-    * [Paladins - Seris Fanart](https://www.deviantart.com/misspendleton/art/Paladins-Seris-Fanart-832867452)
-    * [Deer Girl](https://www.deviantart.com/misspendleton/art/Deer-Girl-846893377)
 - [Eggboy122](https://www.deviantart.com/eggboy122/gallery) : CC / CC BY-NC
 > Student,nerd and artist from China.
     * [Dragon in the cloud](https://www.deviantart.com/eggboy122/art/Dragon-in-the-cloud-729190895)
@@ -556,12 +541,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [TerrorBlade](https://www.deviantart.com/sphelon8565/art/TerrorBlade-874274293)
     * [Ceres Fauna](https://www.deviantart.com/sphelon8565/art/Ceres-Fauna-892932513)
     * [Portrait: THAAL SINESTRO](https://www.deviantart.com/sphelon8565/art/BR-Portrait-THAAL-SINESTRO-926338743)
-- [lukex8a](https://www.deviantart.com/lukex8a/gallery) - CC BY / BY-NC - many NSFW / boobs
-> An artist from Ecuador
-    * [Random art 2022 001](https://www.deviantart.com/lukex8a/art/Random-art-2022-001-910621936)
-    * [Random art 2021 001](https://www.deviantart.com/lukex8a/art/Artwork-2021-001-880605438)
-    * [Random art 2020 002](https://www.deviantart.com/lukex8a/art/artwork-2020-002-880620209)
-- [sphelon8565](https://www.deviantart.com/sphelon8565/gallery) - CC BY - lots of Sonic characters & Gijinkas
+    * [Ride with Strangers - The Detective](https://www.deviantart.com/sphelon8565/art/Commission-Ride-with-Strangers-The-Detective-941604058)
+- [rosytoonz](https://www.deviantart.com/rosytoonz/gallery) - CC BY - lots of Sonic characters & Gijinkas
 > UK animation student from Georgia, ambivert lowkey punk.
     * [Big the Cat Gijinka](https://www.deviantart.com/svanetianrose/art/Big-the-Cat-Gijinka-688218969)
     * [Storm the Albatross Gijinka](https://www.deviantart.com/svanetianrose/art/Storm-the-Albatross-Gijinka-694492179)
@@ -586,6 +567,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Silent Hill 4 Fan Art - Wounded Eileen Galvin](https://www.deviantart.com/demento-liszt/art/Silent-Hill-4-Fan-Art-Wounded-Eileen-Galvin-763349883)
     * [Hellsing Ultimate Fanart - Integra Hellsing](https://www.deviantart.com/demento-liszt/art/Hellsing-Ultimate-Fanart-Integra-Hellsing-789516159)
     * [Get Backers Fan Art - Dr. Jackal](https://www.deviantart.com/demento-liszt/art/Get-Backers-Fan-Art-Dr-Jackal-762869273)
+- [Stéphane Wootha Richard](https://express.adobe.com/page/ucLFuLOEKK9Uo/) public domain:
+    * [Mordor](https://www.e-tribart.fr/blog/wp-content/uploads/2016/08/wootha7.jpg)
+    * [Doctor Strange](https://express.adobe.com/page/ucLFuLOEKK9Uo/images/dc03da9f-60f8-489d-b686-d05b5bd54d22.jpg)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -835,6 +819,12 @@ Dedicated to games:
 - [craftpix freebies](https://craftpix.net/freebies/) : free 2D game assets
 - [OpenGameArt](https://opengameart.org)
     * [WTactics](https://opengameart.org/content/wtactics) / [@GitHub](https://github.com/wtactics/art/tree/master) - [preview board](https://arcmage.org/artwork/) - CC BY-SA
+    * [Justin Nichol](https://opengameart.org/users/justin-nichol) - CC BY-SA:
+        + [Post Apocalyptic Woman 1](https://opengameart.org/content/post-apocalyptic-woman-1)
+        + [Ogre](https://opengameart.org/content/ogre-2)
+        + [Starship pilot](Justin Nichol)
+        + [Science officer](https://opengameart.org/content/science-officer)
+        + [Zombie brute](https://opengameart.org/content/zombie-brute-concept)
 - [Open source board game box art icons](https://sinisterdesign.net/open-source-board-game-box-art-icons/)
 
 Mostly photos:
@@ -851,6 +841,10 @@ Mostly photos:
     * [Artists Collections](https://www.rawpixel.com/category/191/artist-collections)
 - [Public Domain Files](http://www.publicdomainfiles.com)
     * [The Child of the Cavern](http://www.publicdomainfiles.com/show_file.php?id=13932096626406)
+- [The Public Domain Review](https://publicdomainreview.org/):
+    * [Compendium Of Demonology and Magic (ca. 1775)](https://publicdomainreview.org/collection/compendium-of-demonology-and-magic-ca-1775/)
+    * [Don Quixote in the 20th Century (ca. 1905)](https://publicdomainreview.org/collection/pedro-de-rojas-don-quixote-in-the-20th-century/)
+    * [Harry Clarke’s Illustrations for Poe’s Tales of Mystery and Imagination (1919) ](https://publicdomainreview.org/collection/harry-clarke-s-illustrations-for-poe-s-tales-of-mystery-and-imagination-1919/)
 
 Old public domain illustrations & photos:
 

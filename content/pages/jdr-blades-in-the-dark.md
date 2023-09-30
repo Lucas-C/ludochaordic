@@ -1528,6 +1528,7 @@ Campagne:
     + gimmick pour PNJs: renifle tout, les gens, les lieux
 
 Music:
+* [DARK AMBIENT VAMPIRE MUSIC | In the Belly of the Demeter @ YouTube](https://www.youtube.com/watch?v=HY-ExG2VHuU)
 * [Bloodborne-based Doskvol Action Youtube playlist](https://www.youtube.com/playlist?list=PLzUXbrG_iz1FhRL4_YEncEy4z90u92YAU)
 
 Moments/videos:
