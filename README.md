@@ -6,10 +6,13 @@
 The [pelican-plugins](https://github.com/getpelican/pelican-plugins)
 repositoriy need to be present in the parent directory, under this name.
 
-In cass of `[pelican] CRITICAL OSError: [Errno 18] Invalid cross-device link` under WSL:
+In case of `[pelican] CRITICAL OSError: [Errno 18] Invalid cross-device link` under WSL:
 
     export TMPDIR=/c/Temp
 
+In case of repeated `FileNotFoundError: [Errno 2] No such file or directory: 'output/thumbnails/...`:
+
+    while ! python $opt/pelican-plugin-image-preview-thumbnailer/image_preview_thumbnailer.py output/pages/images-libres-de-droits.html; do sleep .5; done
 
 ## License
 
