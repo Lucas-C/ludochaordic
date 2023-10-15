@@ -413,6 +413,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Anglers](https://www.deviantart.com/raphtor/art/Angler-flying-dutchman-crew-299394432)
     * [Fishy Alien creature](https://www.deviantart.com/raphtor/art/Fishy-Alien-creature-315217052)
     * [Vaas Montenegro](https://www.deviantart.com/raphtor/art/Vaas-Montenegro-349529523)
+    * [Bolo yeung as Yujiro Hanma](https://www.deviantart.com/raphtor/art/Bolo-yeung-as-Yujiro-Hanma-980469644)
 - [HIJODELOPIO](https://www.deviantart.com/hijodelopio/gallery) : CC BY - cartoon zoomorphe culturists / fighters
 > Hobbyist digital artist from Santiago, Chile
     * [Daddy Gorilla](https://www.deviantart.com/hijodelopio/art/Daddy-Gorilla-3-788725994)
@@ -542,6 +543,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Ceres Fauna](https://www.deviantart.com/sphelon8565/art/Ceres-Fauna-892932513)
     * [Portrait: THAAL SINESTRO](https://www.deviantart.com/sphelon8565/art/BR-Portrait-THAAL-SINESTRO-926338743)
     * [Ride with Strangers - The Detective](https://www.deviantart.com/sphelon8565/art/Commission-Ride-with-Strangers-The-Detective-941604058)
+    * [Battle Rehime | Monkey D. Luffy](https://www.deviantart.com/sphelon8565/art/Battle-Rehime-Monkey-D-Luffy-979252194)
+    * [Charlenne](https://www.deviantart.com/sphelon8565/art/Commission-Charlenne-978385892)
 - [rosytoonz](https://www.deviantart.com/rosytoonz/gallery) - CC BY - lots of Sonic characters & Gijinkas
 > UK animation student from Georgia, ambivert lowkey punk.
     * [Big the Cat Gijinka](https://www.deviantart.com/svanetianrose/art/Big-the-Cat-Gijinka-688218969)
