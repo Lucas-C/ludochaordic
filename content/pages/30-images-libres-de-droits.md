@@ -1011,6 +1011,9 @@ Generators that produces character illustrations that have not been placed under
     * [Anachronaut](https://www.fontspace.com/anachronaut-font-f30584) : minimalist / pixe-art / maze, public domain
     * [Outrun Future](https://www.dafont.com/outrun-future.font) : $40 for a commercial license
     * [Ninjos](https://www.dafont.com/ninjos.font)
+    * [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756)
+    * [Treasure Map Deadhand](https://www.fontspace.com/treasure-map-deadhand-font-f4241)
+    * [Buffied](https://www.fontspace.com/buffied-font-f4051)
 - <https://github.com/ianhan/BitmapFonts> & <http://robhagemans.github.io/monobit/>
 
 <!-- Music & sound
