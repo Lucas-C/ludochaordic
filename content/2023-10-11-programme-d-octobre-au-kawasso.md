@@ -3,7 +3,7 @@ Date: 2023-10-11 20:30
 Tags: lang:fr, champtoce, maine-et-loire, kawasso, cafe-associatif, gratuit, spectacle, theatre, renard-eau, gravure, jeux, @Laetitia
 ---
 
-Voici la programmation du mois d'octobre au Kawasso,
+Voici la programmation du mois d'octobre au [Kawasso](tag/kawasso.html),
 le café associatif de Champtocé-sur-Loire :
 
 ![Programme d'octobre 2023 au Kawasso](images/2023/10/Kawasso-Programmation-octobre-2023.jpg)

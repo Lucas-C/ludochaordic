@@ -3,7 +3,7 @@ Date: 2023-10-30 10:00
 Tags: lang:fr, champtoce, maine-et-loire, kawasso, cafe-associatif, gratuit, jeux
 ---
 
-Voici la programmation du mois de novembre au Kawasso,
+Voici la programmation du mois de novembre au [Kawasso](tag/kawasso.html),
 le café associatif de Champtocé-sur-Loire :
 
 ![Programme de novembre 2023 au Kawasso](images/2023/10/Kawasso-Programmation-novembre-2023.jpg)
