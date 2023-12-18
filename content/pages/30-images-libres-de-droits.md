@@ -170,6 +170,11 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Kingdom](https://www.deviantart.com/dumaker/art/Kingdom-925139187)
     * [Bruja de suburbio](https://www.deviantart.com/dumaker/art/Bruja-de-suburbio-980190581)
     * [Rip](https://www.deviantart.com/dumaker/art/Rip-978037113)
+    * [Polizon](https://www.deviantart.com/dumaker/art/Polizon-994144031)
+    * [Fantasma desangrado](https://www.deviantart.com/dumaker/art/Fantasma-desangrado-993431525)
+    * [Dia de paseo](https://www.deviantart.com/dumaker/art/Dia-de-paseo-990336618)
+    * [Misterioso sketch](https://www.deviantart.com/dumaker/art/Misterioso-sketch-979342027)
+    * [Medium](https://www.deviantart.com/dumaker/art/Medium-955311634)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -230,6 +235,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [The dog that actually went to heaven](https://www.deviantart.com/aldorodrigogoca/art/The-dog-that-actually-went-to-heaven-722306225)
     * [Sandman](https://www.deviantart.com/rodrigokatrakas/art/Sandman-927361795)
     * [The curse of Monte Cristo - Concepts - Edmond](https://www.deviantart.com/rodrigokatrakas/art/The-curse-of-Monte-Cristo-Concepts-Edmond-925243462) & [Faces](https://www.deviantart.com/rodrigokatrakas/art/The-curse-of-Monte-Cristo-Concepts-Edmond-Face-925243458) & [FARIA](https://www.deviantart.com/rodrigokatrakas/art/The-curse-of-Monte-Cristo-Concepts-FARIA-925243434)
+    * [Poison Ivy](https://www.deviantart.com/rodrigokatrakas/art/Poison-Ivy-991603738)
 - [TysonTan](https://www.deviantart.com/tysontan/gallery/) : CC BY-SA - sci-fi & samurai japanim furries
 > Chinese concept artist, character designer. [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) contributor.
 > Draws mostly anthropomorphic / robotic animals. Working on Freedom Planet 2. [official website](https://tysontan.com)
@@ -425,6 +431,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Tiberius Rourke](https://www.deviantart.com/hijodelopio/art/Tiberius-Rourke-905836595)
     * [Lion Swordsman](https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803)
     * [Pirate](https://www.deviantart.com/hijodelopio/art/Pirate-921122086)
+    * [Goblin Samurai](https://www.deviantart.com/hijodelopio/art/Goblin-Samurai-988113458)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
 > Artist, game developper & composer from Paris, France.
     * [dame blanche](https://www.deviantart.com/joke-biloumaster/art/2014-04-22-Crob-1-493705401)
@@ -448,6 +455,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [quake doodle 1](https://www.deviantart.com/tis1451/art/quake-doodle-1-897883999) - 3 monsters
     * [sir maggot](https://www.deviantart.com/tis1451/art/sir-maggot-909603822)
     * [gray skin](https://www.deviantart.com/tis1451/art/gray-skin-944829410)
+    * [shadow goverment](https://www.deviantart.com/tis1451/art/shadow-goverment-991848187)
 - [Linus Pettersson](https://www.deviantart.com/ubergank/gallery) : **some** CC BY-SA - fantasy, color
 > Professional digital artist and aspiring Industrial Designer from Linköping, Sweden
     * [Dark knight](https://www.deviantart.com/ubergank/art/The-Penitent-One-815448320)

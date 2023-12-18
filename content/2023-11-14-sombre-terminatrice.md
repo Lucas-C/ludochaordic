@@ -4,7 +4,7 @@ Tags: lang:fr, jdr, sombre, one-shot, playtest, opinion, compte-rendu, horror, s
 Image: images/2023/11/Terminatrice.png
 ---
 <!-- Com'
-* [ ] email à DeathAmbre
+* [x] email à DeathAmbre
 -->
 
 ![Logo Sombre](images/jdr/Sombre_logo_jeu_de_role.png)
@@ -156,4 +156,7 @@ les PJs sont un groupe de détenus et le garde qui les escorte, dans un laborato
 Le scénario comporte une part d'exploration, les lieux étant progressivement révélés aux joueurs.
 
 Je compte le faire jouer une seconde fois puis peaufiner la mise en page,
-et je le partagerai très bientôt ici et sur [itch.io](https://lucas-c.itch.io/) !
+et je le partagerai très bientôt ici, sur [le forum terresetranges.net](https://www.terresetranges.net/forums/)
+et sur [itch.io](https://lucas-c.itch.io/) !
+
+**EDIT** : Ça y est, le scénario est sorti ! → [Lab Escape](sombre-lab-escape.html)

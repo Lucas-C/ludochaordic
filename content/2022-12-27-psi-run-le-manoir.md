@@ -1,6 +1,6 @@
 Title: Psi*Run - Le Manoir
 Date: 2022-12-27 00:20
-Tags: lang:fr, lang:en, jdr, psirun, meguey-baker, one-shot, scenario, horror, creative-commons, gratuit, mise-en-page, jeux, @Sandra, @Anna, @Olivier
+Tags: lang:fr, lang:en, jdr, psirun, meguey-baker, one-shot, personal-project, scenario, horror, creative-commons, gratuit, mise-en-page, jeux, @Sandra, @Anna, @Olivier
 ---
 
 <figure>
