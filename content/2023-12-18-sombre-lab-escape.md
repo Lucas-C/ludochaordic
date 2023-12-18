@@ -35,17 +35,22 @@ Si jamais vous vous aventurez à tester ce scénario, je serais ravi d'avoir vos
 
 <div class="side-by-side">
   <img alt="" src="images/2023/12/Photo03.jpg">
-  <img alt="" src="images/2023/12/Sombre-LabEscape-page13.jpg">
+  <img alt="" src="images/2023/12/FullPlan-small.jpg">
 </div>
 
 <div class="side-by-side">
+    <img alt="" src="images/2023/12/Sombre-LabEscape-page13.jpg">
     <img alt="" src="images/2023/12/Sombre-LabEscape-page14.jpg">
+</div>
+
+<div class="side-by-side">
     <img alt="" src="images/2023/12/Sombre-LabEscape-page15.jpg">
+    <img alt="" src="images/2023/12/Sombre-LabEscape-page19.jpg">
 </div>
 
 <!-- Com'
 * [x] https://lucas-c.itch.io/sombre-lab-escape
-* [ ] https://www.scenariotheque.org/
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10996
 * [ ] https://www.terresetranges.net/forums/
 * [ ] https://www.casusno.fr
 -->
