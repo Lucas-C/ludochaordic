@@ -16,7 +16,7 @@ Et puis ça y est, je me suis lancé, **j'ai créé mon propre scénario** !
 Pour 3 à 5 joueurs, d'une durée d'environ 45min, **Lab Escape** vous plonge dans un laboratoire envahi de zombies, avec une part d'exploration, les lieux étant progressivement révélés aux joueurs.
 
 Vous pouvez le retrouver ici <https://lucas-c.itch.io/sombre-lab-escape>
-Le PDF est à prix libre, fait 1 Mo et contient 21 pages.
+Le PDF est à prix libre, fait 8 Mo et contient 21 pages.
 
 Les parties de test ont été très concluantes, et je suis plutôt fier de certains idées présentes dans le scénario : les tuiles des lieux révélées progressivement aux joueurs ; la tension entre les personnages de part leur statut de maton / taulards ; des armes majoritairement à munitions limitées ; les PJs morts qui deviennent des zombies...
 L'ensemble fonctionne vraiment bien !
