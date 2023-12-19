@@ -73,13 +73,15 @@ A Cyberfeminist Manifesto for the 21st Century - 1991:
 
 [@chepertomz (Thomas Collet) work](https://www.instagram.com/chepertomz/) as a glitch artist :
 <div class="uk-grid">
-    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="https://scontent-cdt1-1.cdninstagram.com/vp/a3f8d2ca8c9bb26acc126fde257071fd/5C8A7F41/t51.2885-15/sh0.08/e35/s750x750/43244793_333430717466016_4412308873428336640_n.jpg">
-    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="https://scontent-cdt1-1.cdninstagram.com/vp/083c09be9408efe40d0413bbbcf1a488/5C4FF4B0/t51.2885-15/sh0.08/e35/p640x640/42575553_533011387164190_7227537190085984256_n.jpg">
-    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="https://scontent-cdt1-1.cdninstagram.com/vp/e4feef576d21648cdc7769ccb86bfe9a/5C70C9EA/t51.2885-15/sh0.08/e35/p640x640/41540514_340232409882224_153726624804634624_n.jpg">
-    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="https://scontent-cdt1-1.cdninstagram.com/vp/2c337ba356a2d10a020d7de2fea923b7/5C8440ED/t51.2885-15/sh0.08/e35/p640x640/39763840_1899231357040367_7703174173526327296_n.jpg">
-    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="https://scontent-cdt1-1.cdninstagram.com/vp/7da5bc5b9cabee6329b01b7ac42716d5/5C6B0AB0/t51.2885-15/sh0.08/e35/s750x750/36085316_547701895625765_1199994195847151616_n.jpg">
-    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="https://scontent-cdt1-1.cdninstagram.com/vp/1153357636f66a250db893bd70529eed/5C4CFDA2/t51.2885-15/sh0.08/e35/p640x640/29717106_1489509311170853_7584831061264171008_n.jpg">
-    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="https://scontent-cdt1-1.cdninstagram.com/vp/72d01fc58eb89ede79b9a6a1c08213df/5C8622F6/t51.2885-15/sh0.08/e35/s750x750/29717270_188707095103131_3864677127026638848_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/43244793_333430717466016_4412308873428336640_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/42575553_533011387164190_7227537190085984256_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/41540514_340232409882224_153726624804634624_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/39763840_1899231357040367_7703174173526327296_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/36085316_547701895625765_1199994195847151616_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/29717106_1489509311170853_7584831061264171008_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/29717270_188707095103131_3864677127026638848_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/118516725_3092162267548148_6142506523685129481_n.jpg">
+    <img class="uk-width-1-1 uk-width-small-1-2" alt="" src="images/net-art/chepertomz/89744556_657929504965384_8810498435509429466_n.jpg">
 </div>
 
 
