@@ -26,7 +26,8 @@ Cette AdJ sera aussi disponible sur la vénérable et merveilleuse [Scénarioth�
 [![Logo de la Scénariothèque](images/2022/12/scenariotheque-logo.png)](https://www.scenariotheque.org)
 
 <!-- Com'
-* [x] https://www.scenariotheque.org
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10736
+      -> référence : https://chezsoi.org/lucas/blog/images/lle12l/La-Lune-et-Douze-Lotus-AdJ.pdf
 * [x] Discord Chibi
 * [ ] https://www.casusno.fr
 -->

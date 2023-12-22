@@ -46,7 +46,9 @@ Cette AdJ est d'ores et déjà également disponible sur la [Scénariothèque](h
 </style>
 
 <!-- Com'
-* [x] https://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=424
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10740
+      -> référence : https://chezsoi.org/lucas/jdr/PsiRun-LeManoir.pdf
+                   & https://chezsoi.org/lucas/jdr/PsiRun-LeManoir-PrinterFriendly.pdf
 * [x] https://lucas-c.itch.io/psirun-le-manoir
 * [x] https://electric-goat.net/forums/2
 * [x] https://discord.com/channels/805515399260405770/805515651493920778/1057093087471620167

@@ -1,6 +1,6 @@
 Title: Sombre : Lab Escape
 Date: 2023-12-18 16:00
-Tags: lang:fr, jdr, sombre, one-shot, horror, scenario, personal-project, johan-scipion, creative-commons, gratuit, jeux
+Tags: lang:fr, jdr, sombre, one-shot, horror, scenario, one-shot, personal-project, johan-scipion, creative-commons, gratuit, jeux
 ---
 > **Sombre** - la peur comme au cinéma - est un jeu de rôle d’horreur. Il met en scène des antihéros qui essaient
 > de survivre dans un monde particulièrement violent et hostile.
@@ -50,6 +50,7 @@ Si jamais vous vous aventurez à tester ce scénario, je serais ravi d'avoir vos
 <!-- Com'
 * [x] https://lucas-c.itch.io/sombre-lab-escape
 * [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10996
+      -> référence : https://lucas-c.github.io/jdr/Sombre/scenario/Sombre-LabEscape.pdf
 * [x] https://www.terresetranges.net/forums/viewtopic.php?pid=21404#p21404
 * [x] https://www.casusno.fr/viewtopic.php?p=2199301#p2199301
 * [x] https://opale-roliste.com/forum/ressources/vos-creations/sombre?page=8#comment-10971

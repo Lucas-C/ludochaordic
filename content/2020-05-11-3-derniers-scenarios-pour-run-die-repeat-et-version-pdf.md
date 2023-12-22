@@ -6,6 +6,9 @@ Image: images/2020/05/banner-small.jpg
 ---
 <!--
 Com' : https://www.aubergevirtuelle.fr/t/sorties-et-nouveautes/3278/5
+       https://www.scenariotheque.org/Document/info_doc.php?id_doc=9986
+       -> référence : https://lucas-c.github.io/jdr/RunDieRepeat/RunDieRepeat-scenarios-FR.html
+                    & https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-scenarios-FR-v1.1.pdf
 -->
 
 Dans la continuité des [trois](1ere-fournee-de-scenarios-pour-run-die-repeat.html) [articles](2e-serie-de-scenarios-pour-run-die-repeat.html) [précédents](scenarios-hitman-et-la-chute-du-colosse-pour-run-die-repeat.html),

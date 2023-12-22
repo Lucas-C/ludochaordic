@@ -22,7 +22,8 @@ Au programme :
 Tous les articles de ce blog à propos de _Run Die Repeat_ : [tag run-die-repeat](tag/run-die-repeat.html).
 
 <!-- Com'
-* [x] https://www.scenariotheque.org
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10619
+      -> référence : https://lucas-c.github.io/jdr/RunDieRepeat/RunDieRepeat-scenarios2-FR.pdf
 * [x] https://www.casusno.fr/viewtopic.php?p=2103886
 * [x] Discord TLPL
 -->

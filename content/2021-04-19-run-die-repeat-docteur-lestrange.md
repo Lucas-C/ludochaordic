@@ -5,6 +5,7 @@ Slug: run-die-repeat-docteur-lestrange
 ---
 <!-- Com'
 * [x] http://troplongpaslu.fr/jeux-de-role-court/docteur-lestrange-un-scenario-pour-run-die-repeat/
+      -> référence : https://chezsoi.org/lucas/jdr/DocteurLestrange-v1.0.pdf
 * [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10295
 -->
 

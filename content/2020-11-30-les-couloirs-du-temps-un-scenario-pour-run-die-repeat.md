@@ -28,3 +28,9 @@ Liens utiles :
 
 - traduction de _Run. Die. Repeat._ en français : [PDF (37 Ko)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
 - tous les articles de ce blog à propos de _Run Die Repeat_ : [tag run-die-repeat](tag/run-die-repeat.html)
+
+<!-- Com'
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10125
+      -> référence : https://chezsoi.org/lucas/blog/images/jdr/RDR-LesCouloirsDuTemps-v1.0.pdf
+-->
+

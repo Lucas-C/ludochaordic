@@ -13,6 +13,7 @@ Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-
 * [x] https://forum.cwowd.com/t/gratuit-traduction-la-brigade-du-chaos/25072
 * [x] https://opale-roliste.com/forum/ressources/vos-creations/gratuit-traduction-brigade-du-chaos
 * [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10418
+      -> référence : https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions
 * [x] Discord Auberge des rêveurs
 * [x] https://www.trictrac.net/forum/sujet/traduction-gratuit-la-brigade-du-chaos
 * [x] https://rpggeek.com/thread/2728434/article/38492614#38492614

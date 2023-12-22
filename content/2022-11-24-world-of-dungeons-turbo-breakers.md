@@ -93,7 +93,7 @@ ainsi que cette musique de poursuite : [Escape | RPG Chase Theme | Fantasy Music
 </figure>
 
 <!-- Com'
-* [x] itch.io
+* [x] https://lucas-c.itch.io/world-of-dungeons-turbo-breakers-fr
 * [x] https://johnharper.itch.io/breakers (comment)
 * [x] http://troplongpaslu.fr
 * [x] https://www.casusno.fr/viewtopic.php?t=41349

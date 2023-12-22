@@ -47,6 +47,13 @@ Bon jeu, et ça me ferait plaisir d'avoir vos retours si vous y jouez ! 😉
 Au passage, un des joueurs, testant le jeu pour la 1ère fois, a mentionné que la mécanique de ce JdR lui rappelait les jeux vidéos de type _tower defense_
 comme [Orcs_Must_Die!](https://en.wikipedia.org/wiki/Orcs_Must_Die!) & [Dungeon of the Endless](https://en.wikipedia.org/wiki/Dungeon_of_the_Endless).
 
+<!-- Com'
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=9902
+      -> réference : https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/
+                   & https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf
+-->
+
+
 <style>
 hr { margin: 5rem; }
 </style>

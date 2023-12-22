@@ -53,6 +53,12 @@ comme [_Smugglers Harbor_](https://www.artstation.com/artwork/L6Yrl) ou sa séri
 
 Enfin, j'ai profité de cette occasion pour créer une page sur ce blog dédiée à mes créations de JdR : [pages/jeux-de-role.html](pages/jeux-de-role.html).
 
+<!-- Com'
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=9919
+      -> référence : https://lucas-c.github.io/jdr/scavengers/
+                   & https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf
+-->
+
 <style>
 article img { max-height: 20rem; }
 </style>
