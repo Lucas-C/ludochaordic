@@ -23,12 +23,22 @@ Le jeu est téléchargable en PDF ici : [lucas-c.itch.io/cyberpunk](https://luca
 
 Il s'agit d'une traduction d'un jeu de David Brunell-Brutman, lui-même adapté de _Lasers & Feelings_ de John Harper : [dbb-8.itch.io/cyberpunk](https://dbb-8.itch.io/cyberpunk)
 
+
+**[EDIT 2023/12/26]** : en musique d'ambiance, en plus de la [playlist Spotify](https://open.spotify.com/playlist/6NmO67xVB5m1E7mptNp1eO) suggérée, je vous recommande : [Dystopian playlist @ itch.io](https://timbeek.itch.io/dystopian), _a free collection of Dark Retro Synth tracks composed and Produced by Tim Beek_.
+
+Voici également quelques autres contenus sur [itch.io](https://itch.io/), an anglais, qui se combinent bien avec ce jeu :
+
+* [Augmented Reality](https://p-d-gallagher.itch.io/augmented-reality): _over 50 tables designed to assist gamesmasters who need to improvise futuristic city details_
+* [In Play Issue #1: Cyberpunk](https://inplay.itch.io/1): _resources for Cyberpunk RPGs, including: Art, ideas, and inspiration, Locations, Random tables, Scenarios_
+* [Beside Peripheral Bodies](https://emmv.itch.io/bpb): _a scenario for cyberpunk games. It includes missions, a facility to explore and infiltrate, NPCs and mercenaries that will hunt you down_
+
+
 <!-- Com'
 * [x] https://lucas-c.itch.io/cyberpunk
 * [x] https://dbb-8.itch.io/cyberpunk (comment)
-* [ ] http://troplongpaslu.fr
-* [ ] post sur le fil Ludochaordic du Discord CestPadDuJdr
-* [ ] https://www.casusno.fr
+* [x] http://troplongpaslu.fr (à date pas encore validé)
+* [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
+* [x] https://www.casusno.fr/viewtopic.php?p=2200100#p2200100
 -->
 
 <style>

@@ -43,5 +43,5 @@ J'ai pour cela réalisé quelques ajustements thématiques :
 * [x] https://lucas-c.itch.io/la-tour-ciel-aveugle
 * [x] email to Michael Prescott
 * [x] comments on http://blog.trilemma.com/2016/04/the-sky-blind-spire.html & http://blog.trilemma.com/p/aventures-en-francais.html
-* [ ] http://troplongpaslu.fr/proposer-un-jeu-de-role-court/
+* [x] http://troplongpaslu.fr (à date pas encore validé)
 -->
