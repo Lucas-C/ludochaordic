@@ -1,6 +1,6 @@
 Title: CYBER//PUNK
 Date: 2023-12-22 23:55
-Tags: lang:fr, jdr, monopage, gratuit, traduction, creative-commons, zero-prep, one-shot, cyberpunk, david-brunell-brutman, john-harper, jeux
+Tags: lang:fr, jdr, monopage, gratuit, traduction, creative-commons, zero-prep, one-shot, cyberpunk, david-brunell-brutman, john-harper, fernando-correa, jeux
 ---
 
 ![CyberPunk](images/2023/12/CyberPunk.jpg)
@@ -32,6 +32,10 @@ Voici également quelques autres contenus sur [itch.io](https://itch.io/), an an
 * [In Play Issue #1: Cyberpunk](https://inplay.itch.io/1): _resources for Cyberpunk RPGs, including: Art, ideas, and inspiration, Locations, Random tables, Scenarios_
 * [Beside Peripheral Bodies](https://emmv.itch.io/bpb): _a scenario for cyberpunk games. It includes missions, a facility to explore and infiltrate, NPCs and mercenaries that will hunt you down_
 
+<iframe width="640" height="480" title="Cyberpunk bike by daCruz" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/efcf679a115c487face1adc2ce7e8b8c/embed"></iframe>
+
+Ce modèle 3D est basé sur [une illustration](https://www.artstation.com/artwork/8lWYdE) de **Fernando Correa**, un artiste argentin qui a réalisé plein de magnifiques _artworks_ [CC-BY](https://creativecommons.org/licenses/by/4.0/) cyberpunk : [Valentino](https://www.artstation.com/artwork/G8PDbN), [RONIN](https://www.deviantart.com/fernand0fc/art/RONIN-812890318), [Corporate level bodyguard](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124), [Biker from "Streets of 2043"](https://www.deviantart.com/fernand0fc/art/Biker-from-Streets-of-2043-722567116), [Future Sick IV](https://www.artstation.com/artwork/WK5YKQ), [The Den](https://www.artstation.com/artwork/qQ4wez), [City of endless night](https://www.artstation.com/artwork/5XNlWJ), [Centrate en la recompensa](https://www.deviantart.com/fernand0fc/art/Centrate-en-la-recompensa-818245957).
+
 
 <!-- Com'
 * [x] https://lucas-c.itch.io/cyberpunk
@@ -44,4 +48,5 @@ Voici également quelques autres contenus sur [itch.io](https://itch.io/), an an
 <style>
 body { background: black; color: white; }
 article img { max-height: 20rem; }
+article iframe { display: block; margin: 1rem auto; }
 </style>

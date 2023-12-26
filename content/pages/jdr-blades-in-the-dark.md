@@ -1548,6 +1548,7 @@ Ressources to CRAFT:
 
 Ressources TO MENTION:
 
++ https://www.reddit.com/r/bladesinthedark/comments/188ky48/here_is_my_version_from_the_doskvol_district/
 + [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
 + [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
