@@ -612,6 +612,10 @@ which does not share the same ambition as the _Creative Commons_, but still allo
     * [cat ninja oni demon](https://pixabay.com/fr/photos/zombi-cat-femme-ninja-fille-6194997/)
     * [zombie melting eye projector](https://pixabay.com/fr/illustrations/zombi-fusion-femme-fille-peu-s%c3%bbr-6203296/)
     * [VR steampunk](https://pixabay.com/fr/illustrations/bo%c3%aete-de-vr-steampunk-femme-fille-6203301/)
+- [Lwcy @Pixabay](https://pixabay.com/users/lwcy-19110/), from Argentina:
+    * [Girl Paper Texture](https://pixabay.com/illustrations/girl-paper-texture-design-colorful-3659267/)
+    * [Roof Home House](https://pixabay.com/illustrations/roof-home-house-outdoors-clouds-3615715/)
+    * [Church Paint Nature](https://pixabay.com/illustrations/church-paint-religion-architecture-3659275/)
 
 ## From last century
 - [John Bauer @ WikiArt](https://www.wikiart.org/en/john-bauer) : public domain - classic gothic / nordic tales, art nouveau

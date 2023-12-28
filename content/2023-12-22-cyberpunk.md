@@ -1,6 +1,6 @@
 Title: CYBER//PUNK
 Date: 2023-12-22 23:55
-Tags: lang:fr, jdr, monopage, gratuit, traduction, creative-commons, zero-prep, one-shot, cyberpunk, david-brunell-brutman, john-harper, fernando-correa, jeux
+Tags: lang:fr, jdr, monopage, gratuit, traduction, creative-commons, zero-prep, one-shot, cyberpunk, david-brunell-brutman, john-harper, fernando-correa, jeux, @Anna, @Nicolas, @Matt, @Michael
 ---
 
 ![CyberPunk](images/2023/12/CyberPunk.jpg)
@@ -23,6 +23,7 @@ Le jeu est téléchargable en PDF ici : [lucas-c.itch.io/cyberpunk](https://luca
 
 Il s'agit d'une traduction d'un jeu de David Brunell-Brutman, lui-même adapté de _Lasers & Feelings_ de John Harper : [dbb-8.itch.io/cyberpunk](https://dbb-8.itch.io/cyberpunk)
 
+---
 
 **[EDIT 2023/12/26]** : Voici quelques contenus gratuits qui se combinent bien avec ce jeu :
 
@@ -36,6 +37,21 @@ Il s'agit d'une traduction d'un jeu de David Brunell-Brutman, lui-même adapté 
 
 Ce modèle 3D est basé sur [une illustration](https://www.artstation.com/artwork/8lWYdE) de **Fernando Correa**, un artiste argentin qui a réalisé plein de magnifiques _artworks_ [CC-BY](https://creativecommons.org/licenses/by/4.0/) cyberpunk : [Valentino](https://www.artstation.com/artwork/G8PDbN), [RONIN](https://www.deviantart.com/fernand0fc/art/RONIN-812890318), [Corporate level bodyguard](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124), [Biker from "Streets of 2043"](https://www.deviantart.com/fernand0fc/art/Biker-from-Streets-of-2043-722567116), [Future Sick IV](https://www.artstation.com/artwork/WK5YKQ), [The Den](https://www.artstation.com/artwork/qQ4wez), [City of endless night](https://www.artstation.com/artwork/5XNlWJ), [Centrate en la recompensa](https://www.deviantart.com/fernand0fc/art/Centrate-en-la-recompensa-818245957).
 
+---
+
+**[EDIT 2023/12/28]** : J'ai eu l'occasion de faire une partie test de `CYBER//PUNK`, en m'inspirant pas mal du scénario _Beside Peripheral Bodies_, et c'était très amusant !
+
+Les `MERCS4US` étaient composés de ces 4 _Runners_ :
+
+* **Krashlink** (4), ancien employé corpo dérangé devenu hacker
+* **Bergonax** (3), ancienne membre de gang dérangée devenue pilote
+* **Ahn Zipper** (5), ancien soldat grisonnant devenu Gun-Fu Master
+* **Doc Psy Duck** (3), ancien soldat grisonnant devenu médecin des rues
+
+<figure role="group">
+  <img alt="" src="https://cdna.artstation.com/p/assets/images/images/052/207/990/large/baptiste-cottel-asset.jpg?1659219306">
+  <figcaption>Le véhicule des PJs - Illustration de <a href="https://www.artstation.com/artwork/YKv2Pd">Baptiste Cottel</a></figcaption>
+</figure>
 
 <!-- Com'
 * [x] https://lucas-c.itch.io/cyberpunk
@@ -49,4 +65,5 @@ Ce modèle 3D est basé sur [une illustration](https://www.artstation.com/artwor
 body { background: black; color: white; }
 article img { max-height: 20rem; }
 article iframe { display: block; margin: 1rem auto; }
+article hr { margin: 5rem 10rem; }
 </style>
