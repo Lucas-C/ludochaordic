@@ -6,10 +6,12 @@ Tags: lang:fr
 Ce blog est édité par Lucas Cimon
 
 ### Raison Sociale de l’Hébergeur
-Ce blog est hébergé par [Online.net](https://www.online.net/fr/document-legal/mentions-legales) :
+Ce blog est hébergé par [Scaleway](https://www.scaleway.com/fr/mentions-legales/) :
 
-- ONLINE SAS BP 438 75366 PARIS CEDEX 08
-- filiale du groupe Iliad, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro RCS PARIS B 433 115 904, numéro de TVA FR 35 433115904
+* SCALEWAY SAS BP 438 75366 PARIS CEDEX 08 FRANCE
+* SIREN : 433 115 904 RCS Paris
+* N° de TVA intracommunautaire : FR 35 433115904
+* Siège social : 8 rue de la Ville l’Evêque, 75008 Paris
 
 ### Propriété intellectuelle
 La structure générale ainsi que les logiciels, textes, images animées ou non, son savoir-faire et tous les autres éléments composant le site sont la propriété exclusive de Lucas Cimon.
