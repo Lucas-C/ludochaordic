@@ -41,6 +41,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2024-01-07', 'img_url': 'images/readings/Sombre12.jpg', 'description': "Sombre n°12 - Johan Scipion (JdR)"},
     {'date': u'2023-11-13', 'img_url': 'images/readings/LesContesDuGivre.jpg', 'description': "Les Contes du Givre - Josselin Billard (BD)"},
     {'date': u'2023-10-21', 'img_url': 'images/readings/pepin-et-olivia-t1.jpg', 'description': "Pépin et Olivia - Camille Jourdy (BD)"},
     {'date': u'2023-10-15', 'img_url': 'images/readings/Lau-dela_JasonShiga.jpg', 'description': "L'au-delà - Jason Shiga (BD)"},
