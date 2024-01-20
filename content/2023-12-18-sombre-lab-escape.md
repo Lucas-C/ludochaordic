@@ -55,6 +55,7 @@ Si jamais vous vous aventurez à tester ce scénario, je serais ravi d'avoir vos
 * [x] https://www.casusno.fr/viewtopic.php?p=2199301#p2199301
 * [x] https://opale-roliste.com/forum/ressources/vos-creations/sombre?page=8#comment-10971
 * [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
+* [ ] https://www.reddit.com/r/jdr
 * [ ] Discord PTGPTB ?
 -->
 

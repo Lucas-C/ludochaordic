@@ -59,6 +59,8 @@ Les `MERCS4US` étaient composés de ces 4 _Runners_ :
 * [x] http://troplongpaslu.fr (à date pas encore validé)
 * [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
 * [x] https://www.casusno.fr/viewtopic.php?p=2200100#p2200100
+* [ ] https://www.reddit.com/r/jdr
+* [ ] https://www.reddit.com/r/onepagerpgs/
 -->
 
 <style>

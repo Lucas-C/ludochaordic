@@ -1481,6 +1481,8 @@ Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job
 
 <!--
 
+![](images/bitd/MaskAndTrain.webp)
+
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/Marlane-by-Cryptocartographer.webp" alt="Marlane">
   <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/">Marlane @ Reddit</a></figcaption>
