@@ -92,7 +92,12 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Intro : pendant ce temps à Coalridge...](pages/jdr-blades-in-the-dark.html#intro-pendant-ce-temps-coalridge-)
     * [Session de jeu](pages/jdr-blades-in-the-dark.html#session-de-jeu-3)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-10)
-- Session 14 - à venir
+- [Session 14 - 17-18 février 2024](pages/jdr-blades-in-the-dark.html#session-14-17-18-f-vrier-2024)
+    * [Charrette en feu !](pages/jdr-blades-in-the-dark.html#charrette-en-feu-)
+    * [The Torment](pages/jdr-blades-in-the-dark.html#the-torment)
+    * [Downtime](pages/jdr-blades-in-the-dark.html#downtime)
+    * [Assaut de la Tour de l'Observatoire](pages/jdr-blades-in-the-dark.html#assaut-de-la-tour-de-l-observatoire)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-11)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -315,7 +320,7 @@ A ses trousses, Ethnos dans le corps de Lodius lui cours après en lui criant de
 
 <figure role="group">
   <img loading="lazy" alt="Ethnos" src="images/bitd/PCs/Ethnos.jpg">
-  <figcaption>Le personnage d'Ethnos par Elliot Jolivet aka Tenseï</figcaption>
+  <figcaption>Le personnage d'Ethnos par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
 - la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec Aldo, Justinia et Melvir,
@@ -543,7 +548,7 @@ La jeune femme étant muette, Ethnos lui donne une plume et une feuille de papie
 et procède à un interrogatoire inquisiteur.
 La monte-en-l'air accepte de parler s'ils promettent de lui laisser la vie sauve.
 Elle révèle s'appeler **Sylvia Derengathi** et avoir tenté de voler le _logbook_
-pour impressionner les membres de la société secrète du Cercle de Feu, et ainsi être intronisée en leur sein.
+pour impressionner les membres de la société secrète du Cercle de la Flamme, et ainsi être intronisée en leur sein.
 Elle retranscrit tout ce qu'elle sait sur les informations fournies à l'ordre,
 par exemple par les Chasseurs de Léviathans.
 En définitive, Ethnos-Lodius lui tranche la main pour la punir avant de l'abandonner dans une ruelle en ville.
@@ -652,7 +657,7 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 <div class="side-by-side" role="group">
   <figure role="group">
     <img loading="lazy" alt="I Will Find You And I Will Kill You" src="images/bitd/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
-    <figcaption><a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
+    <figcaption>Argaz - <a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
   </figure>
   <figure role="group">
     <img loading="lazy" alt="Baszos Baz" src="images/bitd/NPCs/BaszosBaz.jpg">
@@ -1258,7 +1263,7 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
 - illustrations:
     + [@pythosart illustrations @Tumblr](https://pythosart.tumblr.com/tagged/blades%20in%20the%20dark)
     + [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): 128 CC-BY AI-generated illustrations
-    + [AI generated NPC portraits @Reddit](https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/) & [Some character art for my crew, made with Midjourney](https://www.reddit.com/r/bladesinthedark/comments/13wkngm/some_character_art_for_my_crew_made_with/)
+    + [AI generated NPC portraits by Phil_Tucker @Reddit](https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/) & [Some character art for my crew, made with Midjourney](https://www.reddit.com/r/bladesinthedark/comments/13wkngm/some_character_art_for_my_crew_made_with/)
     + [Doskvol city album by Midjourney @Reddit](https://www.reddit.com/r/bladesinthedark/comments/1456qv4/doskvol_city_album_by_midjourney/)
     + [Large thematic gang hideout background by @thepunintendad @ Reddit](https://www.reddit.com/r/bladesinthedark/comments/12xrgs9/made_some_thematic_scenespages_in_foundry_for_the/)
     + [Spirit Warden portraits with AI by @LoneRubberDucky](https://imgur.com/a/vae0Lrd)
@@ -1284,6 +1289,8 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
 </figure>
 
 ## Session 13 - 16-17 septembre 2023
+
+![Mask & train](images/bitd/MaskAndTrain.webp)
 
 ### Intro : pendant ce temps à Coalridge...
 _Tout d'abord, quelques éléments du passé d'Elaria ont été définis, via une série de questions et de suggestions de l'ensemble des joueurs._
@@ -1354,7 +1361,7 @@ Le démon réclame en échange 3 perles d'eau, des pierres précieuses rares.Un
 
 Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour de l'Horloge, préoccupé par le spectre de Bell qui le hante, et par le _logbook_ qui a disparu de la planque où il l'avait personnellement caché...
 
-À Coalridge, tous les ponts reliant le quartier sont contrôlés par les _Bluecoats_, et l'armée impériale se prépare même à intervenir... Le gang s'y rend donc à la nage, et débarque en plein milieu d'une charge de miliciens en armure sur l'usine barricadée. Tandis qu'Elaria, Joseph et Mist se faufilent à l'intérieur de l'enceinte, Eric tire sur les forces de l'ordre, et se retrouve rapidement tabassé et laissé pour mort. Mais sa grande résistance lui permet d'encaisser les coups puis de maîtriser deux _Bluecoats_, et de leur subtiliser leurs canons mortiers. Il s'en sert pour mettre les forces de l'ordre en déroute à grand coups d'explosions.
+À Coalridge, tous les ponts reliant le quartier sont contrôlés par les _Bluecoats_, et l'armée impériale se prépare même à intervenir... Le gang s'y rend donc à la nage, et débarque en plein milieu d'une charge de miliciens en armure sur l'usine barricadée. Tandis qu'Elaria, Josef et Mist se faufilent à l'intérieur de l'enceinte, Eric tire sur les forces de l'ordre, et se retrouve rapidement tabassé et laissé pour mort. Mais sa grande résistance lui permet d'encaisser les coups puis de maîtriser deux _Bluecoats_, et de leur subtiliser leurs canons mortiers. Il s'en sert pour mettre les forces de l'ordre en déroute à grand coups d'explosions.
 
 <figure class="side-by-side" role="group">
   <img loading="lazy" alt="Sand demon" src="images/bitd/NPCs/SandDemon.png">
@@ -1370,7 +1377,7 @@ Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour 
 
 De son côté, Elaria s'introduit dans la fabrique et retrouve dans un bureau à l'étage Quill, Mal, les représentants syndicaux ainsi que les boss de deux gangs locaux : **Ulf Ironborn** le _leader_ Skovland, et le chef des _BillHooks_. Ce dernier, en apprenant l'intervention imminente de l'armée impériale, décide de mettre les voiles. Ulf lui n'est pas venu seul : dans la fabrique en contrebas ses hommes, des vétérans de la guerre de l'unité, sont en train de s'équiper tandis qu'un autre Skolander trace des signes cabalistiques au sol...
 
-Pendant ce temps, Joseph et Mist décident de travailler de concert à ouvrir le _Ghost Veil_
+Pendant ce temps, Josef et Mist décident de travailler de concert à ouvrir le _Ghost Veil_
 pour entrer en contact avec les esprits des travailleurs qui ont laissé leur vie aujourd'hui pour l'insurrection.
 Leur rituel fonctionne, et une cohorte d'esprits furieux se rue à travers Coalridge en direction des positions de l'armée impériale.
 
@@ -1387,11 +1394,11 @@ De son côté, Elaria va s'étendre quelques heures au Dragon d'Iruvia, sur le t
 
 Un peu plus tard, le Harpon sera informé de la disparition d'Elaria par un émissaire de l'Écharpe Rouge. Mist décide alors de se rendre à la fumerie d'opium pour investiguer. Là-bas, le lieutenant de l'Écharpe Rouge en charge de l'établissement finit par le recevoir et lui expliquer ce qu'il sait, c'est à dire bien peu de chose. Mist met tout de même la main sur un morceau de charbon d'opium à l'odeur suspecte, qu'une analyse au QG révélera ensuite être une odeur de soporifique.
 
-Une fois avisé, Joseph décide alors d'accomplir un rituel afin de percevoir la trace récente qu'a pu laisser Elaria dans le _Ghost Veil_. Son rituel permet alors au gang de remonter la piste d'Elaria jusqu'au club _The Seven Sins_, à Silkshore. D'après les informations recueillies par Mist, le lieu est un repaire du Cercle de la Flamme.
+Une fois avisé, Josef décide alors d'accomplir un rituel afin de percevoir la trace récente qu'a pu laisser Elaria dans le _Ghost Veil_. Son rituel permet alors au gang de remonter la piste d'Elaria jusqu'au club _The Seven Sins_, à Silkshore. D'après les informations recueillies par Mist, le lieu est un repaire du Cercle de la Flamme.
 
-De son côté, Elaria se réveille enchaînée et suspendue la tête à l'envers à une poutre, dans une pièce sans ouverture et avec très peu de meubles. Tandis qu'elle parvient à progressivement et e manière surnaturelle à se libérer, Raffello entre dans la pièce, accompagné de son démon invisible. Elaria profite d'un poignard lancé dans sa direction pour finir de s'extraire de ses chaînes et de se rétablir au sol. Un bref affrontement s'ensuit, où Elaria prend le dessus sur ses deux adversaires mais le paye par une grave blessure et un trauma.
+De son côté, Elaria se réveille enchaînée et suspendue la tête à l'envers à une poutre, dans une pièce sans ouverture et avec très peu de meubles. Tandis qu'elle parvient à progressivement et de manière surnaturelle à se libérer, Raffello entre dans la pièce, accompagné de son démon invisible. Elaria profite d'un poignard lancé dans sa direction pour finir de s'extraire de ses chaînes et de se rétablir au sol. Un bref affrontement s'ensuit, où Elaria prend le dessus sur ses deux adversaires mais le paye par une grave blessure et un trauma.
 
-Le reste du gang choisit alors de lancer une opération « coup de poing » et de s'introduire à l'intérieur du club via une porte de service. Mist assure les arrières en tenant en respect deux démons-gargouilles descendus du toit, tandis qu'Eric et Joseph s'introduisent dans une succession de couloirs de pierre qui se révèle être un labyrinthe... Après plusieurs démolitions de murs par Eric, Joseph exploite le _Ghost Veil_ pour ignorer l'illusion et diriger le groupe vers la pièce où Elaria est prisonnière. Là, Joseph vide sont pistolet sur Raffello déjà gravement blessé, et Eric vient en soutien à Elaria face au démon.
+Le reste du gang choisit alors de lancer une opération « coup de poing » et de s'introduire à l'intérieur du club via une porte de service. Mist assure les arrières en tenant en respect deux démons-gargouilles descendus du toit, tandis qu'Eric et Josef s'introduisent dans une succession de couloirs de pierre qui se révèle être un labyrinthe... Après plusieurs démolitions de murs par Eric, Josef exploite le _Ghost Veil_ pour ignorer l'illusion et diriger le groupe vers la pièce où Elaria est prisonnière. Là, Josef vide sont pistolet sur Raffello déjà gravement blessé, et Eric vient en soutien à Elaria face au démon.
 
 Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque, sous un feu nourri de carreaux d'arbalète.
 
@@ -1409,7 +1416,7 @@ Cette opération de sauvetage se conclut finalement par une fuite du gang hors d
 De son côté, à la tour de l'horloge, Lodius a découvert une pièce secrète avec une petite bibliothèque, où il retrouve le _logbook_, des livres archivant l'histoire des _Crows_ et une paire de gants de Bell.Le fantôme qui le hante devient de plus en plus présent, menaçant même de lui faire sauter la cervelle.
 Un rituel d'exorcisme est donc organisé par le gang pour libérer Lodius du spectre de Bell.
 
-Le rituel est mené par Joseph accompagné de Mist, à la tour de l'horloge,
+Le rituel est mené par Josef accompagné de Mist, à la tour de l'horloge,
 sous l’œil attentif d'une meute de corbeaux qui se massent sur les poutres de l'édifice...
 Malgré une tentative du spectre pour que Lodius abatte l'un de ses camarades,
 le rituel est un succès et le fantôme est enfermé dans une bouteille.
@@ -1455,7 +1462,7 @@ Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job
 </a>
 
 ### Ressources
-- illustrations:
+- illustrations :
     + [Crow’s Foot Art Assets](https://www.olddog.games/Blades-in-the-Dark-Crow-s-Foot-Art-Assets)
 - ambiance musicale :
     + [Peaky Blinders music mix @ YouTube](https://www.youtube.com/watch?v=hnRXp2_3c-g)
@@ -1477,35 +1484,176 @@ Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job
     + [Advice for Blades in the Dark GM by Osiride Luca Cascioli](https://blastgames-official.itch.io/my-advice-for-blades-in-the-dark-gm)
 
 
-## Session 14 - ?
+## Session 14 - 17-18 février 2024
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/BitD-Artworks-01-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <img loading="lazy" src="images/bitd/BitD-Artworks-02-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <img loading="lazy" src="images/bitd/BitD-Artworks-03-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <figcaption>Croquis par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+</figure>
+
+### Charrette en feu !
+
+Tandis que les chefs du Harpon tiennent conseil dans leur planque chez Gruber & Fils,
+des cris retentissent, car une charrette de l'entreprise se dirige, en feu, vers l'entrepôt !
+Sur la charrette, un homme du Harpon se bat avec un assaillant, et quelques cavaliers les poursuivent. En un éclair, Lodius tend une fiole à Elaria, qui la lance devant les roues du véhicule : un liquide se répand qui immobilise la charrette, mais qui enflamme toute une portion de la rue par la même occasion.
+
+Tandis qu'Eric, Mist et Lodius se chargent d'éteindre l'incendie, en faisant léviter une cuve d'eau, Josef & Elaria réussissent à capturer deux des assaillants, alors que l'un d'eux traçait un emblème d'**Œil Blanc** sur un mur.
+
+Une missive est alors envoyée à l'Echarpe Rouge pour les prévenir du retour de ce gang,
+puis les deux prisonniers sont interrogés de manière musclée dans les sous-sols de l’entrepôt.
+L'emploi d'une drogue permet finalement au Harpon d'apprendre qu'il s'agit de **Cendreux**, obéissant à **Henner**, un ancien lieutenant de l'Œil Blanc, et que leur QG est une tour.
+
+Le gang rencontre alors Valeris à la Goule Fendue, qui leur livre les informations qu'ils lui avaient demandé sur Boden : il habite au-dessus du poste des Bluecoats à Charhollow; il a un frère dans l'armée; il déjeune un jour sur trois à l'Encre et la Plume. Valeris révèle également au Harpon que la planque des Cendreux pourrait correspondre à une légende urbaine de tour au Nord de Charhollow, qui semble apparaître parfois comme par magie. Le Harpon lui demande alors de se renseigner sur les Cendreux, et comment contourner le charme qui camoufle cette fameuse tour.
+
+Eric, Lodius & Mist se rendent à l'auberge des **Parfums d'Iruvia** pour rencontrer les Silver Nails, mais ils découvrent qu'un important incendie vient d'avoir lieu. La rue comporte plusieurs cadavres recouverts de draps blancs, et Mist perçoit les échos dans le _Ghost Field_ d'une fusillade récente à l'étage qui a pris feu. Alors qu'ils demandent au réceptionniste à rencontrer Jenny Holt, ils manquent de se faire coincer par les _Bluecoats_ et décampent en vitesse.
+
+De retour à Gruber & Fils, le Harpon découvre, placardé sur la grille, un avis officiel administratif de mise en demeure et cessation d'activité pour l'entreprise, dû aux trop nombreux impayés de la société.
+
+### The Torment
+
+Le Harpon se concentre ensuite sur le job qui leur a été confié par Lord Scurlock :
+retrouver **The Torment**, un navire Skolander disparu depuis quelques jours,
+et sa précieuse cargaison : un coffre contenant des jarres de pierre.
+Le gang se renseigne alors sur les docks à ce propos, et apprend que le gang des **Grinders**
+pourrait très probablement être responsable de cette disparition.
+
+_Flash-forward_ quelques heures plus tard, alors que le gang du Harpon est ligoté à des tonneaux
+dans une grotte donnant sur la _Void Sea_, à l'extérieur de Doskvol.
+Face à eux : _The Torment_. Autour d'eux : les Grinders les tiennent en joue, et leur chef **Hutton** vient d'ordonner à son second **Sercy** de tous les abattre.
+La situation semble désespérée.
+
+Eric, Mist et quelques-uns de leurs hommes sont suspendus par des chaînes dans une cascade d'eau trouble provenant des égouts. Avec l'aide de son démon familier, Mist réussit à les libérer progressivement de leurs entraves, mais sa tête se retrouve sous l'eau et il perd connaissance. Eric réussit à le sortir hors de l'eau, puis fait plonger le garde à proximité et se balançant vers lui, et bondit au sol pour récupérer leur équipement.
+
+De son côté, Elaria réussit subrepticement à se libérer de ses liens, et commence à délivrer ses hommes et à éliminer discrètement les gardes à proximité. Lodius lui s’attelle à contrôler des rats à proximité pour ronger ses liens, mais il est mis en joue par Sercy : il a alors le réflexe de déclencher une _smoke bomb_, ce qui lui sauve la vie. Tandis qu'il courre rejoindre Elaria, il est percuté par un Grinder avec une corne de rhino, et sombre lui aussi dans l'inconscience. Ses rats se chargeront néanmoins de le ramener en sécurité dans les égouts.
+
+À l'autre bout de la grotte, Josef _attune to the Ghost Field_ pour attirer à lui les créatures qu'il perçoit en surface, au dessus de la grotte. Cela entraînera quelques instants plus tard l'arrivée de spectres et d'immenses démons, semblant avoir creusé comme un tunnel jusqu'à cet espace souterrain. Josef se coordonne ensuite avec l'homme de main attaché au même tonneau que lui pour faire chuter un Grinder dans l'eau, puis se placer sous une stalactite afin de se libérer de leurs entraves.
+
+Alors que _The Torment_ commence à quitter la grotte, propulsé par un système de poids-poulie, avec Hutton & Sercy à bord, Eric s'élance pour sauter à bord, et se raccroche in extremis à un canon. Josef lui lance une corde, et de son côté Elaria saute à l'eau pour passer à l'abordage, ignorant un de ses hommes qui se noie derrière elle.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/TheTormentEscaping.jpg" alt="Le navire The Torment quittant la grotte où il était dissimulé">
+  <figcaption>Le navire The Torment quittant la grotte où il était dissimulé</figcaption>
+</figure>
+
+Tandis que des barriques de poudre explosent dans la grotte, et qu'un de leurs hommes se fait dévorer par un démon, Eric monte sur le pont du bateau et affronte tour à tour Sercy, qu'il fait prisonnier, et un colosse tatoué cracheur d'encre. De son côté Elaria élimine Hutton, qui tombe à la mer le bras tranché. Dans les égouts, Lodius & Mist se replient et condamnent le passage souterrain pour éviter aux créatures libérées dans la grotte d'envahir Doskvol.
+
+La Harpon ramène le navire sur les Docks, et transporte discrètement sa précieuse cargaison chez Gruber & Fils par charrette.
+
+### Downtime
+
+Josef et Lodius décident de retourner aux Parfums d'Iruvia pour enquêter sur l'incendie et la potentielle disparition des Silver Nails.
+Sur place ils croisent un mystérieux individu fouillant les décombre, équipé de matériel alchimiste, et d'un masque. Malheureusement, il réussit à leur leur filer entre les pattes et à les semer. Ils observent également à cet étage une étrange trace laissée dans le _Ghost Field_, en forme de main.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/NPCs/Wraith_KoboldCove_Midjourney_13wkngm.jpg" alt="Un mystérieux individu">
+  <figcaption>Un mystérieux individu - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @ Reddit</a></figcaption>
+</figure>
+
+Elaria, de son côté, se rend à Coalridge, où elle est sollicité par ses contacts sur place pour rester pendant la visite de l'**évêque de l'Extase de la Chair**, le midi même. Celui-ci intervient avec l’intention officielle de calmer les tensions et amener une résolution à la situation, mais plusieurs insurgés doutent de la confiance qu'ils peuvent lui accorder. S'ensuit un _meeting_ public avec tous les ouvriers révoltés, où Ulf, Quill, Mal, les représentants syndicaux, et **Olivia**, fille adoptive de Lucretius, prennent parole pour défendre leurs idées.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/NPCs/OliviaDream.png" alt="Olivia Dream, fille adoptive de Lucretius">
+  <figcaption>Olivia Dream, fille adoptive de Lucretius - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @ Reddit</a></figcaption>
+</figure>
+
+Finalement, l'évêque arrive à Coalridge, accompagné d'une quinzaine de clercs.
+La plupart des habitants de Coalridge, très pieux, se prosternent devant lui.
+Il s'entretient ensuite en privé avec les _leaders_ de l'insurrection ouvrière,
+et tient un discours de « retour à la raison » et d’apaisement, qui réussit à convaincre les ouvriers mais rendent furieux Mal, puis Ulf, qui quittent la table.
+Elaria, qui a assisté à l'échange en secret, s'en retourne ensuite à Crow's Foot.
+
+Dans la matinée, la **loi martiale est déclarée à Crow's Foot** : le Harpon est accusé du quadruple meurtre de Rafello, Conway, Darmot, et Fridrik Nash, et devient la cible des forces _Bluecoats_ réunies de plusieurs quartiers avoisinants, qui convergent à Crow's Foot pour passer au crible le secteur à la recherche du gang.
+
+Le Harpon décide alors, par prudence, de déménager leur planque chez Gruber & Fils vers leur autre cache dans les égouts.
+
+Avant de quitter l'entrepôt, Mist invoque **Vassock** dans les sous-sols : il demande au démon invisible d'assassiner Boden. Celui-ci réclame en échange deux âmes humaines, <u>consentantes</u>. Mist s'atèle alors à torturer l'un des deux prisonniers afin qu'ils craquent et acceptent de donner leur âme au démon, mais les autres membres du Harpon débarquent et découvrent cette scène d'horreur, sanglante. Une altercation verbale s'ensuit alors entre les membres du gang. M. Gruber père débarque sur ces entrefaits, et le gang en profite pour le terroriser et lui intimer l'ordre de ne pas dire un mot sur eux aux _Bluecoats_.
+
+### Assaut de la Tour de l'Observatoire
+
+Grâce aux talents de Josef, le gang du Harpon réussit à déterminer comment révéler l'illusion qui maintient la tour invisible. Un plan d'assaut est alors organisé, où le Harpon s'introduira par les égouts, et Josef modifiera l'enchantement pour empêcher quiconque d'en sortir.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/maps/TourDeLObservatoire.jpg" alt="La tour de l'observatoire, QG des Cendreux">
+  <figcaption>La tour de l'observatoire, QG des Cendreux - Source : <a href="https://www.flickr.com/photos/denee/42129314700/in/photostream/">Tim Denee @ flickr.com</a></figcaption>
+</figure>
+
+Le gang traverse d'abord des catacombes dans les sous-terrains, où des spectres tentent de les posséder. Ensuite, guidés par Elaria, ils réussissent à s’infiltrer comme des ombres, sans se faire repérer, au rez-de-chaussée de la tour, et à maîtriser plusieurs gardes et ouvriers.
+
+Malheureusement, alors qu'ils tentent de percer discrètement le mur qui obstrue l'escalier donnant accès aux étages, ils provoquent une secousse qui ébranle tout le bâtiment. L'alerte est donnée !
+
+Tandis que Mist, Elaria et Josef se précipitent dans le hangar au rez-de-chaussée, où ils affrontent deux _Tallboys_ et plusieurs Cendreux, Eric & Lodius finissent de percer la cloison de l'escalier, et se glissent jusqu'à l'étage. Ils affrontent alors des Cendreux en cape d'ombre, et d'autres surgissant du _Ghost Field_ pour les attaquer, avec marteau, sabre, pistolets et jet d'huile incendiaire.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/Dishonored-Concept_art_tallboys.webp" alt="Tallboy">
+  <figcaption>Tallboy - Source : <a href="https://dishonored.fandom.com/wiki/Tallboys?file=Concept_art_tallboys.jpg">Dishonored wiki</a></figcaption>
+</figure>
+
+Une fois le hangar sous leur contrôle, Elaria et Josef vont prêter main forte à leurs camarades via l'escalier, tandis que Mist emprunte la passerelle métallique extérieure pour monter le long de la tour, où il subit les tirs d'un sniper plus haut ainsi que des attaques surprises de Cendreux surgissant du _Ghost Field_. À l'étage, après avoir démonté l'arbalète électroplasmique à répétition du Tallboy et l'avoir mis dans les main d'Aldo, le gang réussit à prendre le dessus sur leurs adversaires.
+
+Le gang progresse petit à petit jusqu'en haut de la tour, employant parfois des raccourcis avec une Ghost Key, jusqu'à faire fasse à Henner, qui provoque Elaria en duel.
+Celle-ci en finit promptement avec son adversaire, et le Harpon devient maître de la tour.
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/NPCs/Henner-ThirdEye.jpg" alt="Henner">
+  <figcaption>Henner - Source : <a href="https://degenesis.com/world/icons/pregnoctics/enigma">Enigma, Degenesis artwork</a></figcaption>
+</figure>
+
+> Mais combien de fois va-t-il falloir qu'on tue l'Œil Blanc pour qu'ils restent morts !?
+
+Alors que l'opération se révèle un succès, le gang apprent qu'un inspecteur aurait été assassiné le jour même dans un restaurant à Brightstone...
+
+### Ressources
+- ambiance musicale :
+    + [Victorian Ambience: LONDON'S MYSTERY - The Dark Alley @ YouTube](https://www.youtube.com/watch?v=Hz7ihQJ2zvo)
+    + [1 hour Viking Music @ YouTube](https://www.youtube.com/watch?v=9WXsdApQIY4)
+- aides de jeu :
+    + [Dice pool probabilities - Blades in the Dark](https://www.reddit.com/r/bladesinthedark/comments/v2e0wo/dice_pool_probabilities_blades_in_the_dark/)
+    + [Position board by Elliot Jolivet aka Tenseï](images/bitd/PositionBoard-by-Tensei.jpg)
+    + [Animated one-page-dungeon : Escape of the Torment](../animated-one-page-dungeon-escape-of-the-torment.html)
+    + [Gang personality quizz](https://lucas-c.github.io/blades-in-the-dark-what-kind-of-gang-are-you/) - Les réponses du Harpon :
+        * **À quoi ressemble votre gang, paré à l'action ?** Choix 2
+        * **Quelle distraction avez-vous dû interdire, et pourquoi ?** Le lancer de couteaux
+        * **Comment vous débarrassez-vous des cadavres ?** Bien lestés, ils s'entassent au fond du Dosk
+        * **Laquelle de ces brutes envisageriez-vous de recruter ?** Marlane (recrutée via Josef)
+        * **Comment obtenez-vous vos renseignements ?** Grâce aux commerçants sous votre « protection »
+        * **Quelle est cette étrange boutique sur votre territoire ?** Un kiosque de vendeur de journaux
+        * **Comment gérez-vous les témoins gênants ?** Intimidation : ils vous craignent plus que les Bluecoats
+        * **Mauvais recrutement : qui était-ce et que s'est-il passé ?** Silas, ancien barman de la tentacule bleu, qui a souhaité raccrocher en découvrant les méthodes du Harpon
+        * **À quoi ressemble le pub sous votre protection, et quelles surprises recèle-t-il ?** Choix 3
 
 <!--
+## Session 15 - à venir
 
 ![](images/bitd/MaskAndTrain.webp)
+
+<figure role="group">
+  <img loading="lazy" src="images/bitd/NPCs/DivaMariaCoseren.jpg" alt="La diva Maria Coseren">
+  <figcaption>La diva Maria Coseren - Source: <a href="https://ztkuko.tumblr.com/post/84486403582/maariamph-i-saw-a-hot-lady-at-a-grocery-store">hot lady by ztkuko</a></figcaption>
+</figure>
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/Marlane-by-Cryptocartographer.webp" alt="Marlane">
   <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/">Marlane @ Reddit</a></figcaption>
 </figure>
 
-DOWNTIME fait, sauf pour Elaria (ni son XP)
-+ au début du Score, demander aux PJ leur LOADOUT : Light / Normal / Heavy / Encumbered
+Downtime: pas encore fait pour les PJs, sauf pour Lodius (déjà fait)
 
-Demain: médiation évêque de la church of the Ectasy of the Flesh @Coalridge
--> insurgés suspicieux, demandent de l'aide à Elaria
--> anticiper que les Spirit Wardens ont forcément dû intervenir à Coalridge
+Prochaine session :
+* faire le point sur pouvoirs de Lodius : + il utilise ses pouvoirs, plus le risque de "décorporation" spontané augmente ?
+* anticiper réaction des gangs de Charhollow lorsqu'ils apprendront la présence du Harpon
+* intervention militaire "tactique" (~SWAT) à Coalridge grâce aux arcanes disposées par les clercs de l'évêque
+* Mal & Quill organisent attentat à Brightstone -> il se fait arrêter, et va rapidement se faire condamner & exécuter
 
 Anticiper / définir :
-* intentions de Scurlock à propos de Mist / Setarra / la croix
 * si le Harpon et l'Echarpe Rouge sont en guerre -> effets mécaniques ?
-* règle concernant démons décédés -> comment peuvent-ils être ré-invoqués ?
-* donner un bonus à Joseph pour avoir étudié le masque aux 1000 visages
-* travailler sur : "ce que veulent les démons"
+* donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
 
-Joseph :
+Josef :
 + ajouter "Anguille Rouge", cabaret de Silkshore
-+ PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Joseph
-+ la famille Daava en veut probablement à Joseph...
++ PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Josef
++ la famille Daava en veut probablement à Josef...
 
 Joueurs partants pour renouveler le fait de faire des sessions pour développer le passé des PJs,
 à base de questions à choix multiples et interprétation de PNJs
@@ -1573,7 +1721,7 @@ Ressources TO MENTION:
     * angers-ma-03-duotone-bw-contrast-0.4-brightness-0.1-fotosketcher-painting5-watercolor.jpg
     * angers-ma-04-duotone-bw-contrast-0.38-brightness-0.1-fotosketcher-painting5-watercolor.jpg
 
-Sources d'inspis visuelles (jeux vidéo) : Dishonored, Thief, A Plague Tale, Steelrising, Vampyr, The Order 1886, Amnesya
+Sources d'inspis visuelles (jeux vidéo) : Dishonored, Thief, A Plague Tale, Steelrising, Vampyr, The Order 1886, Amnesya, Assassin's Creed Syndicate
 
 Demons & creatures in the Ghost Field:
 
@@ -1655,7 +1803,6 @@ Online rpg-dice boards:
 
 Notes / joueurs:
 
-* Elliot s'éclate à crafter
 * Simon aimerait bien jouer un autre archétype (Slide ?)
 
 <!---->

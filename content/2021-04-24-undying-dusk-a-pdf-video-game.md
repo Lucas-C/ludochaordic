@@ -93,6 +93,7 @@ Info reprise sans mon intervention :
 * Cri du Lapin (newsletter Canard PC) - 18 mai 2021
 > **Pages comme une image**. Oui je sais, ce n'est pas vraiment un article, mais vu que je vous avais parlé l'autre fois d'un jeu vidéo entièrement codé dans une police de caractères, je me suis dit que cela valait le coup de mentionner Undying Dusk, un jeu fourni sous forme d'un PDF de 200 000 pages.
 * https://www.superlevel.de/interview-lucas-cimon-undying-dusk-pdf/
+* ThioJoe : The 78,000 Page PDF - https://www.youtube.com/watch?v=ZvVNRRQjDh8
 
 + https://f5bot.com/dash
 

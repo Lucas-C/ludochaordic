@@ -46,6 +46,11 @@ Merci aux contributeurs du forum [TerresEtranges.net](https://www.terresetranges
 Je serais ravi de savoir ce que vous en pensez !
 Vous pouvez laisser un message en commentaire ici, ou sur [TerresEtranges.net](https://www.terresetranges.net/forums/viewtopic.php?pid=21427#p21427).
 
+<!-- Com'
+* [ ] Scénariothèque : PDF
+* [ ] itch.io ?
+-->
+
 <style>
 .side-by-side > * {
   margin: 1rem auto;
