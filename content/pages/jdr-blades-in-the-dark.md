@@ -1505,7 +1505,7 @@ Une missive est alors envoyée à l'Echarpe Rouge pour les prévenir du retour d
 puis les deux prisonniers sont interrogés de manière musclée dans les sous-sols de l’entrepôt.
 L'emploi d'une drogue permet finalement au Harpon d'apprendre qu'il s'agit de **Cendreux**, obéissant à **Henner**, un ancien lieutenant de l'Œil Blanc, et que leur QG est une tour.
 
-Le gang rencontre alors Valeris à la Goule Fendue, qui leur livre les informations qu'ils lui avaient demandé sur Boden : il habite au-dessus du poste des Bluecoats à Charhollow; il a un frère dans l'armée; il déjeune un jour sur trois à l'Encre et la Plume. Valeris révèle également au Harpon que la planque des Cendreux pourrait correspondre à une légende urbaine de tour au Nord de Charhollow, qui semble apparaître parfois comme par magie. Le Harpon lui demande alors de se renseigner sur les Cendreux, et comment contourner le charme qui camoufle cette fameuse tour.
+Le gang rencontre alors Valeris à la Goule Fendue, qui leur livre les informations qu'ils lui avaient demandé sur Boden : il habite au-dessus du poste des Bluecoats à Charhollow; il a un frère dans l'armée impériale; il déjeune un jour sur trois à l'**Encre et la Plume**. Valeris révèle également au Harpon que la planque des Cendreux pourrait correspondre à une légende urbaine de tour au Nord de Charhollow, qui semble apparaître parfois comme par magie. Le Harpon lui demande alors de se renseigner sur les Cendreux, et comment contourner le charme qui camoufle cette fameuse tour.
 
 Eric, Lodius & Mist se rendent à l'auberge des **Parfums d'Iruvia** pour rencontrer les Silver Nails, mais ils découvrent qu'un important incendie vient d'avoir lieu. La rue comporte plusieurs cadavres recouverts de draps blancs, et Mist perçoit les échos dans le _Ghost Field_ d'une fusillade récente à l'étage qui a pris feu. Alors qu'ils demandent au réceptionniste à rencontrer Jenny Holt, ils manquent de se faire coincer par les _Bluecoats_ et décampent en vitesse.
 
@@ -1592,17 +1592,17 @@ Tandis que Mist, Elaria et Josef se précipitent dans le hangar au rez-de-chauss
 
 Une fois le hangar sous leur contrôle, Elaria et Josef vont prêter main forte à leurs camarades via l'escalier, tandis que Mist emprunte la passerelle métallique extérieure pour monter le long de la tour, où il subit les tirs d'un sniper plus haut ainsi que des attaques surprises de Cendreux surgissant du _Ghost Field_. À l'étage, après avoir démonté l'arbalète électroplasmique à répétition du Tallboy et l'avoir mis dans les main d'Aldo, le gang réussit à prendre le dessus sur leurs adversaires.
 
-Le gang progresse petit à petit jusqu'en haut de la tour, employant parfois des raccourcis avec une Ghost Key, jusqu'à faire fasse à Henner, qui provoque Elaria en duel.
+Le gang progresse petit à petit jusqu'en haut de la tour, employant parfois des raccourcis avec une _Ghost Key_, jusqu'à faire face à Henner, qui provoque Elaria en duel.
 Celle-ci en finit promptement avec son adversaire, et le Harpon devient maître de la tour.
+
+> Mais combien de fois va-t-il falloir qu'on tue l'Œil Blanc pour qu'ils restent morts !?
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/Henner-ThirdEye.jpg" alt="Henner">
   <figcaption>Henner - Source : <a href="https://degenesis.com/world/icons/pregnoctics/enigma">Enigma, Degenesis artwork</a></figcaption>
 </figure>
 
-> Mais combien de fois va-t-il falloir qu'on tue l'Œil Blanc pour qu'ils restent morts !?
-
-Alors que l'opération se révèle un succès, le gang apprent qu'un inspecteur aurait été assassiné le jour même dans un restaurant à Brightstone...
+Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur aurait été assassiné le jour même dans un restaurant à Brightstone, à l'Encre et la Plume...
 
 ### Ressources
 - ambiance musicale :
