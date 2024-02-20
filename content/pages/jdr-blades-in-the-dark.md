@@ -1524,7 +1524,7 @@ dans une grotte donnant sur la _Void Sea_, à l'extérieur de Doskvol.
 Face à eux : _The Torment_. Autour d'eux : les Grinders les tiennent en joue, et leur chef **Hutton** vient d'ordonner à son second **Sercy** de tous les abattre.
 La situation semble désespérée.
 
-Eric, Mist et quelques-uns de leurs hommes sont suspendus par des chaînes dans une cascade d'eau trouble provenant des égouts. Avec l'aide de son démon familier, Mist réussit à les libérer progressivement de leurs entraves, mais sa tête se retrouve sous l'eau et il perd connaissance. Eric réussit à le sortir hors de l'eau, puis fait plonger le garde à proximité et se balançant vers lui, et bondit au sol pour récupérer leur équipement.
+Eric, Mist et quelques-uns de leurs hommes sont suspendus par des chaînes dans une cascade d'eau trouble provenant des égouts. Avec l'aide de son démon familier **Nuv'Khet**, Mist réussit à les libérer progressivement de leurs entraves, mais sa tête se retrouve sous l'eau et il perd connaissance. Eric réussit à le sortir hors de l'eau, puis fait plonger le garde à proximité et se balançant vers lui, et bondit au sol pour récupérer leur équipement.
 
 De son côté, Elaria réussit subrepticement à se libérer de ses liens, et commence à délivrer ses hommes et à éliminer discrètement les gardes à proximité. Lodius lui s’attelle à contrôler des rats à proximité pour ronger ses liens, mais il est mis en joue par Sercy : il a alors le réflexe de déclencher une _smoke bomb_, ce qui lui sauve la vie. Tandis qu'il courre rejoindre Elaria, il est percuté par un Grinder avec une corne de rhino, et sombre lui aussi dans l'inconscience. Ses rats se chargeront néanmoins de le ramener en sécurité dans les égouts.
 
@@ -1544,7 +1544,7 @@ La Harpon ramène le navire sur les Docks, et transporte discrètement sa préci
 ### Downtime
 
 Josef et Lodius décident de retourner aux Parfums d'Iruvia pour enquêter sur l'incendie et la potentielle disparition des Silver Nails.
-Sur place ils croisent un mystérieux individu fouillant les décombre, équipé de matériel alchimiste, et d'un masque. Malheureusement, il réussit à leur leur filer entre les pattes et à les semer. Ils observent également à cet étage une étrange trace laissée dans le _Ghost Field_, en forme de main.
+Sur place ils croisent un mystérieux individu fouillant les décombre, équipé de matériel alchimiste, et d'un masque. Malheureusement, il réussit à leur leur filer entre les pattes et à les semer, mais Lodius lui arrache son masque, signé "W". Ils observent également à cet étage une étrange trace laissée dans le _Ghost Field_, en forme de main.
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/Wraith_KoboldCove_Midjourney_13wkngm.jpg" alt="Un mystérieux individu">
