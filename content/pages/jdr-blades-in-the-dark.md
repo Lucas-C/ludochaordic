@@ -1507,7 +1507,7 @@ L'emploi d'une drogue permet finalement au Harpon d'apprendre qu'il s'agit de **
 
 Le gang rencontre alors Valeris à la Goule Fendue, qui leur livre les informations qu'ils lui avaient demandé sur Boden : il habite au-dessus du poste des Bluecoats à Charhollow; il a un frère dans l'armée impériale; il déjeune un jour sur trois à l'**Encre et la Plume**. Valeris révèle également au Harpon que la planque des Cendreux pourrait correspondre à une légende urbaine de tour au Nord de Charhollow, qui semble apparaître parfois comme par magie. Le Harpon lui demande alors de se renseigner sur les Cendreux, et comment contourner le charme qui camoufle cette fameuse tour.
 
-Eric, Lodius & Mist se rendent à l'auberge des **Parfums d'Iruvia** pour rencontrer les Silver Nails, mais ils découvrent qu'un important incendie vient d'avoir lieu. La rue comporte plusieurs cadavres recouverts de draps blancs, et Mist perçoit les échos dans le _Ghost Field_ d'une fusillade récente à l'étage qui a pris feu. Alors qu'ils demandent au réceptionniste à rencontrer Jenny Holt, ils manquent de se faire coincer par les _Bluecoats_ et décampent en vitesse.
+Eric, Lodius & Mist se rendent à l'auberge des **Parfums d'Iruvia** pour rencontrer les Silver Nails, mais ils découvrent qu'un important incendie vient d'avoir lieu. La rue comporte plusieurs cadavres recouverts de draps blancs, et Lodius perçoit les échos dans le _Ghost Field_ d'une fusillade récente à l'étage qui a pris feu. Alors qu'ils demandent au réceptionniste à rencontrer Jenny Holt, ils manquent de se faire coincer par les _Bluecoats_ et décampent en vitesse.
 
 De retour à Gruber & Fils, le Harpon découvre, placardé sur la grille, un avis officiel administratif de mise en demeure et cessation d'activité pour l'entreprise, dû aux trop nombreux impayés de la société.
 
@@ -1596,6 +1596,7 @@ Le gang progresse petit à petit jusqu'en haut de la tour, employant parfois des
 Celle-ci en finit promptement avec son adversaire, et le Harpon devient maître de la tour.
 
 > Mais combien de fois va-t-il falloir qu'on tue l'Œil Blanc pour qu'ils restent morts !?
+> - Elaria
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/Henner-ThirdEye.jpg" alt="Henner">

@@ -138,7 +138,7 @@ AVATARS = [
 ]
 
 # Blogroll
-LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
+LINKS = (("Justin Mason's Weblog", 'https://jmason.ie/'),
          ('Neal Krawetz Hacker Factor Blog', 'http://www.hackerfactor.com/blog/'),
          ('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
          ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
@@ -152,7 +152,7 @@ LINKS = (("Justin Mason's Weblog", 'http://taint.org'),
          ('The Indie RPG Pipeline', 'https://therpgpipeline.blogspot.com'),
          ('Derrière le paravent de Greg Pogorzelski', 'http://awarestudios.blogspot.fr'),
          ('Oglaf', 'https://www.oglaf.com'),
-         ('Blog BD de Boulet', 'http://www.bouletcorp.com'),
+         ('Blog BD de Boulet', 'http://bouletcorp.com'),
          ('Warpdoor', 'http://warpdoor.com'),
          ('AlphaBetaGamer', 'https://www.alphabetagamer.com'),
          ('Free Game Planet', 'https://www.freegameplanet.com'),
