@@ -1490,7 +1490,7 @@ Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job
   <img loading="lazy" src="images/bitd/BitD-Artworks-01-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
   <img loading="lazy" src="images/bitd/BitD-Artworks-02-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
   <img loading="lazy" src="images/bitd/BitD-Artworks-03-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
-  <figcaption>Croquis par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  <figcaption>Les croquis de Lodius, par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
 ### Charrette en feu !
@@ -1624,10 +1624,26 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
         * **Mauvais recrutement : qui était-ce et que s'est-il passé ?** Silas, ancien barman de la tentacule bleu, qui a souhaité raccrocher en découvrant les méthodes du Harpon
         * **À quoi ressemble le pub sous votre protection, et quelles surprises recèle-t-il ?** Choix 3
 
-<!--
+![La table de jeu](images/bitd/20240217_180118.jpg)
+
 ## Session 15 - à venir
 
-![](images/bitd/MaskAndTrain.webp)
+<figure role="group">
+  <img loading="lazy" src="images/bitd/BitD-Artworks-04-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <img loading="lazy" src="images/bitd/BitD-Artworks-05-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <img loading="lazy" src="images/bitd/BitD-Artworks-HauntedGhostHarem-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <img loading="lazy" src="images/bitd/BitD-Artworks-PubGreyHashes-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <figcaption>Les croquis de Lodius, par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+</figure>
+
+<a href="images/bitd/ChroniquesDuCrepuscule2.pdf">
+  <figure>
+    <img alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule2-pdf-thumbnail.jpg">
+    <figcaption>Chroniques du Crépuscules n°2 - par Aurélien</figcaption>
+  </figure>
+</a>
+
+<!--
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/DivaMariaCoseren.jpg" alt="La diva Maria Coseren">
@@ -1642,6 +1658,8 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
 Downtime: pas encore fait pour les PJs, sauf pour Lodius (déjà fait)
 
 Prochaine session :
+* préparer des fiches de démons
+* les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...
 * faire le point sur pouvoirs de Lodius : + il utilise ses pouvoirs, plus le risque de "décorporation" spontané augmente ?
 * anticiper réaction des gangs de Charhollow lorsqu'ils apprendront la présence du Harpon
 * intervention militaire "tactique" (~SWAT) à Coalridge grâce aux arcanes disposées par les clercs de l'évêque
@@ -1792,7 +1810,7 @@ Tools:
 
 * Pinterest images downloader: ./pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/
 * Reddit images downloader: bdfr download . --folder-scheme '' --link $POST_URL
-* Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk
+* Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk -> visit /gallery.html
 
 Online rpg-dice boards:
 
