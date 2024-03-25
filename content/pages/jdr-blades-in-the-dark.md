@@ -98,6 +98,7 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Downtime](pages/jdr-blades-in-the-dark.html#downtime)
     * [Assaut de la Tour de l'Observatoire](pages/jdr-blades-in-the-dark.html#assaut-de-la-tour-de-l-observatoire)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-11)
+- [Session 15 - à venir](pages/jdr-blades-in-the-dark.html#session-15-venir)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -1654,6 +1655,13 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
   <img loading="lazy" src="images/bitd/NPCs/Marlane-by-Cryptocartographer.webp" alt="Marlane">
   <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/wxir7z/npc_art_for_doskvol_marlane_and_pux_bolin/">Marlane @ Reddit</a></figcaption>
 </figure>
+
+### Ressources
+- ambiance musicale :
+    + [Legio Symphonica - Echoes of the Past @ YouTube](https://www.youtube.com/watch?v=f35rFulcemk)
+- aides de jeu :
+    + [OlinKirkland scenarios (15+)](https://olinkirk.land/scribbles/)
+
 
 Downtime: pas encore fait pour les PJs, sauf pour Lodius (déjà fait)
 
