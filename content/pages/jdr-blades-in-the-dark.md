@@ -1625,7 +1625,7 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
         * **Mauvais recrutement : qui était-ce et que s'est-il passé ?** Silas, ancien barman de la tentacule bleu, qui a souhaité raccrocher en découvrant les méthodes du Harpon
         * **À quoi ressemble le pub sous votre protection, et quelles surprises recèle-t-il ?** Choix 3
 
-![La table de jeu](images/bitd/20240217_180118.jpg)
+<img loading="lazy" alt="La table de jeu" src="images/bitd/20240217_180118.jpg">
 
 ## Session 15 - à venir
 
@@ -1658,11 +1658,14 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
 
 ### Ressources
 - ambiance musicale :
-    + [Legio Symphonica - Echoes of the Past @ YouTube](https://www.youtube.com/watch?v=f35rFulcemk)
+    + [Legio Symphonica - Echoes of the Past - Warhammer 40K @ YouTube](https://www.youtube.com/watch?v=f35rFulcemk)
 - aides de jeu :
     + [OlinKirkland scenarios (15+)](https://olinkirk.land/scribbles/)
+    + [Scoundrel Action Cards @ itch.io](https://greyorm.itch.io/scoundrel-action-cards)
+    + [Calling cards of Doskvol @ itch.io](https://redriderx.itch.io/calling-cards-of-doskval)
 
 
+PRINT: calling-cards-of-doskval/bitd-cards.pdf
 Downtime: pas encore fait pour les PJs, sauf pour Lodius (déjà fait)
 
 Prochaine session :
