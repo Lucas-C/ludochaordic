@@ -41,6 +41,9 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': u'2024-04-02', 'img_url': 'images/readings/MadMaxiJack.jpg', 'description': " Mad Maxi Jack - Étienne Beck (BD)"},
+    {'date': u'2024-03-13', 'img_url': 'images/readings/TheLastRonin.jpg', 'description': "TMNT: The Last Ronin  Kevin Eastman & Peter Laird & Tom Waltz (comics)"},
+    {'date': u'2024-02-27', 'img_url': 'images/readings/PrettyDeadly3.jpg', 'description': "Pretty Deadly Volume 3 The Rat - Kelly Sue DeConnick & Emma Rios (comics)"},
     {'date': u'2024-01-07', 'img_url': 'images/readings/Sombre12.jpg', 'description': "Sombre n°12 - Johan Scipion (JdR)"},
     {'date': u'2023-11-13', 'img_url': 'images/readings/LesContesDuGivre.jpg', 'description': "Les Contes du Givre - Josselin Billard (BD)"},
     {'date': u'2023-10-21', 'img_url': 'images/readings/pepin-et-olivia-t1.jpg', 'description': "Pépin et Olivia - Camille Jourdy (BD)"},
