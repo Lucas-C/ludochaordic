@@ -1,6 +1,6 @@
 Title: Setting up linters in Gitlab CI for C++ and Groovy / Jenkins code
 Date: 2024-04-15 16:30
-Tags: lang:en, gitlab, gitlab-ci, pipeline, c++, groovy, jenkins, llvm, linter, static-code-analysis, continuous-integration, configuration, prog
+Tags: lang:en, gitlab, gitlab-ci, pipeline, c++, groovy, gradle, jenkins, llvm, linter, static-code-analysis, continuous-integration, configuration, prog
 ---
 
 A very short blog post to share some minimal code snippets on how to quickly and easily setup Gitlab CI pipelines to run static code analysis tools on C++ code and Jenkins pipelines (or any Groovy code).
@@ -49,6 +49,8 @@ Check the [clang-tidy documentation](https://clang.llvm.org/extra/clang-tidy/) f
 > [CodeNarc](https://codenarc.org/) analyzes Groovy code for defects, bad practices, inconsistencies, style issues and more.
 
 It can be used to perform static code analysis on [Jenkins pipelines](https://www.jenkins.io/doc/book/pipeline/).
+
+Because [executing CodeNarc from the command-line](https://codenarc.org/codenarc-command-line.html#executing-codenarc-from-the-command-line) is not so simple, I find easier to use [Gradle](https://gradle.org/) and its dedicated plugin to execute CodeNarc:
 
 ```yaml
 groovy-linter:
@@ -104,8 +106,10 @@ compileGroovy.enabled = false
 ```
 
 And finally you can initialize a configuration file for the linter, named `codenarc_rules.groovy`:
-```groovy
-ruleset {
+
+<details>
+  <summary>codenarc_rules.groovy</summary>
+  <pre><code>ruleset {
 
     ruleset('rulesets/basic.xml')
 
@@ -181,5 +185,7 @@ ruleset {
 
     ruleset('rulesets/unused.xml')
 
-}
-```
+}</code></pre>
+</details>
+
+<br>
