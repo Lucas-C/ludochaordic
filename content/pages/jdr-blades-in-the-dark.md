@@ -1751,7 +1751,8 @@ Ressources TO MENTION:
     * angers-ma-03-duotone-bw-contrast-0.4-brightness-0.1-fotosketcher-painting5-watercolor.jpg
     * angers-ma-04-duotone-bw-contrast-0.38-brightness-0.1-fotosketcher-painting5-watercolor.jpg
 
-Sources d'inspis visuelles (jeux vidéo) : Dishonored, Thief, A Plague Tale, Steelrising, Vampyr, The Order 1886, Amnesya, Assassin's Creed Syndicate
+Sources d'inspis visuelles (jeux vidéo) : Dishonored, Thief, A Plague Tale, Steelrising, Vampyr, The Order 1886, Amnesya, Assassin's Creed Syndicate, Bloodborne
+Sources d'inspis visuelles (autres) : Peaky Blinders, Into The Odd
 
 Demons & creatures in the Ghost Field:
 
