@@ -50,7 +50,7 @@ Check the [clang-tidy documentation](https://clang.llvm.org/extra/clang-tidy/) f
 
 It can be used to perform static code analysis on [Jenkins pipelines](https://www.jenkins.io/doc/book/pipeline/).
 
-Because [executing CodeNarc from the command-line](https://codenarc.org/codenarc-command-line.html#executing-codenarc-from-the-command-line) is not so simple, I find easier to use [Gradle](https://gradle.org/) and its dedicated plugin to execute CodeNarc:
+Because [executing CodeNarc from the command-line](https://codenarc.org/codenarc-command-line.html#executing-codenarc-from-the-command-line) is not so simple, I find it easier to use [Gradle](https://gradle.org/) and its dedicated plugin to execute CodeNarc:
 
 ```yaml
 groovy-linter:
@@ -70,7 +70,7 @@ groovy-linter:
         - "**/*.groovy"
 ```
 
-You will also need a `build.gradle` file in the =directory where the `gradle` command is executed:
+You will also need a `build.gradle` file in the directory where the `gradle` command is executed:
 ```groovy
 repositories {
     jcenter()
@@ -93,6 +93,7 @@ codenarc {
     reportFormat = 'text'
 }
 // The two following blocks allow to display the CodeNarc report in the console:
+// ( this recipe comes from this SO answer: https://stackoverflow.com/a/36899862/636849 )
 task codenarcConsoleReport {
     doLast {
         println file("${codenarc.reportsDir}/main.txt").text

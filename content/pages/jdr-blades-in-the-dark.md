@@ -1634,6 +1634,7 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
   <img loading="lazy" src="images/bitd/BitD-Artworks-05-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
   <img loading="lazy" src="images/bitd/BitD-Artworks-HauntedGhostHarem-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
   <img loading="lazy" src="images/bitd/BitD-Artworks-PubGreyHashes-by-Tensei.jpg" alt="Croquis de Elliot Jolivet aka Tenseï">
+  <img loading="lazy" src="images/bitd/BitD-Suspension-by-Tensei.jpg" alt="Suspension par Elliot Jolivet aka Tenseï">
   <figcaption>Les croquis de Lodius, par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
