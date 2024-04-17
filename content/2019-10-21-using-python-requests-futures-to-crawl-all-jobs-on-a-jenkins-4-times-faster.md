@@ -1,6 +1,6 @@
 Title: Using python requests-futures to crawl all jobs on a Jenkins 4 times faster
 Date: 2019-10-21 23:45
-Tags: lang:en, python, open-source, oui.sncf, jenkins, algorithms, prog
+Tags: lang:en, python, open-source, oui.sncf, jenkins, algorithms, async, prog
 Slug: using-python-requests-futures-to-crawl-all-jobs-on-a-jenkins-4-times-faster
 ---
 

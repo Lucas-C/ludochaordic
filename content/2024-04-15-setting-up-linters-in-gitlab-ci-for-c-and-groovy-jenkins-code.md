@@ -43,6 +43,11 @@ This default file is a strict starting point: it enables all rules, except the o
 You can then add `-${ruleName}` to the `Checks` entry in this file to disable some checks.
 Check the [clang-tidy documentation](https://clang.llvm.org/extra/clang-tidy/) for more details about rules and suppressing errors & warnings using code comments.
 
+You can also generate an exhaustive `.clang-tidy` configuration file, with an extra `CheckOptions` field listing all default values for rules parameters, by running this command:
+```
+clang-tidy -checks='*,-llvmlibc-*' -warnings-as-errors='*' -dump-config > .clang-tidy
+```
+
 
 ## Linting Groovy / Jenkins code with CodeNarc
 
@@ -109,7 +114,7 @@ compileGroovy.enabled = false
 And finally you can initialize a configuration file for the linter, named `codenarc_rules.groovy`:
 
 <details>
-  <summary>codenarc_rules.groovy</summary>
+  <summary><em>codenarc_rules.groovy</em></summary>
   <pre><code>ruleset {
 
     ruleset('rulesets/basic.xml')
@@ -189,4 +194,12 @@ And finally you can initialize a configuration file for the linter, named `coden
 }</code></pre>
 </details>
 
+The details for all rules can be found there: [codenarc.org/codenarc-rule-index.html](https://codenarc.org/codenarc-rule-index.html)
+
 <br>
+
+<!-- Com' :
+* [ ] https://news.ycombinator.com/
+* [ ] https://dev.to/lucasc/
+* [ ] https://medium.com/@Lucas_C/
+-->
