@@ -77,13 +77,23 @@ groovy-linter:
 
 You will also need a `build.gradle` file in the directory where the `gradle` command is executed:
 ```groovy
+plugins {
+    id 'groovy'
+    id 'codenarc'
+}
 repositories {
     jcenter()
+    // Required if you have Jenkins dependencies:
+    maven {
+        url('https://repo.jenkins-ci.org/public/')
+    }
 }
-
-apply plugin: 'groovy'
-apply plugin: 'codenarc'
-
+def codeNarcVersion = '3.4.0'
+dependencies {
+    // CodeNarc must added there, or you will get a ClassNotFoundException:
+    codenarc group: 'org.codenarc', name: 'CodeNarc', version: codeNarcVersion
+    codenarc group: 'org.jenkins-ci.plugins', name: 'plugin', version: '4.79'
+}
 sourceSets {
     main {
         groovy {
@@ -94,7 +104,7 @@ sourceSets {
 }
 codenarc {
     configFile = file('./codenarc_rules.groovy')
-    toolVersion = '3.4.0'
+    toolVersion = codeNarcVersion
     reportFormat = 'text'
 }
 // The two following blocks allow to display the CodeNarc report in the console:
@@ -106,8 +116,9 @@ task codenarcConsoleReport {
 }
 codenarcMain {
     finalizedBy codenarcConsoleReport
+    compilationClasspath = sourceSets.main.compileClasspath + sourceSets.main.output //+ files('../relative/path/to/shared/lib/dir')
 }
-// You can optionnally disable the Groovy compilation step:
+// You can optionnally disable the Groovy compilation step, to execute faster:
 compileGroovy.enabled = false
 ```
 
