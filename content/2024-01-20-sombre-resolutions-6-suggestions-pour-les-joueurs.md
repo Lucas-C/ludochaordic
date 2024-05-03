@@ -47,7 +47,7 @@ Je serais ravi de savoir ce que vous en pensez !
 Vous pouvez laisser un message en commentaire ici, ou sur [TerresEtranges.net](https://www.terresetranges.net/forums/viewtopic.php?pid=21427#p21427).
 
 <!-- Com'
-* [ ] Scénariothèque : PDF
+* [x] Scénariothèque : https://www.scenariotheque.org/Document/info_doc.php?id_doc=11067
 * [ ] itch.io ?
 -->
 

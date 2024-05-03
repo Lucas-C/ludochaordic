@@ -331,7 +331,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Dexter: Futuristic Debra](https://www.deviantart.com/tarakanovich/art/Dexter-Futuristic-Debra-481485290)
     * [Handsome Jakie](https://www.deviantart.com/tarakanovich/art/Handsome-Jakie-588655246) - CC BY-SA
     * [Troll's portrait study](https://www.deviantart.com/tarakanovich/art/Troll-s-portrait-study-483372635)
-- [Philipp Höhnel _aka_ moooncube](https://www.deviantart.com/moooncube/gallery) : CC BY-SA - B&W (N&B) sci-fi spaceships
+- [Philipp Höhnel _aka_ mooncube](https://www.deviantart.com/moooncube/gallery) : CC BY-SA - B&W (N&B) sci-fi spaceships
 > Concept artist, designer, 3D modeller and illustrator from München, Germany. Linux and open source enthusiast
 > ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) - [official website](https://www.mooncube.space)
     * [Inktober28](https://www.deviantart.com/moooncube/art/Inktober-28-770230895)

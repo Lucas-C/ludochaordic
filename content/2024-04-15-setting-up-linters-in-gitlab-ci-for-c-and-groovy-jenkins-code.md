@@ -90,7 +90,7 @@ repositories {
 }
 def codeNarcVersion = '3.4.0'
 dependencies {
-    // CodeNarc must added there, or you will get a ClassNotFoundException:
+    // CodeNarc must be added there, or you will get a ClassNotFoundException:
     codenarc group: 'org.codenarc', name: 'CodeNarc', version: codeNarcVersion
     codenarc group: 'org.jenkins-ci.plugins', name: 'plugin', version: '4.79'
 }
@@ -210,7 +210,7 @@ The details for all rules can be found there: [codenarc.org/codenarc-rule-index.
 <br>
 
 <!-- Com' :
-* [ ] https://news.ycombinator.com/
-* [ ] https://dev.to/lucasc/
-* [ ] https://medium.com/@Lucas_C/
+* [x] https://news.ycombinator.com/item?id=40209922
+* [x] https://dev.to/lucasc/setting-up-linters-in-gitlab-ci-for-c-and-groovy-jenkins-code-3m4l
+* [x] https://medium.com/@Lucas_C/setting-up-linters-in-gitlab-ci-for-c-and-groovy-jenkins-code-7a1eb502fdb6
 -->

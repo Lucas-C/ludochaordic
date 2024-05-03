@@ -114,7 +114,7 @@ async function waitForPromises<T>(promises: Iterable<PromiseLike<T>>) {
     throw rejectedResults[0].reason;
   }
   if (rejectedResults.length > 1) {
-    throw new Error(`${rejectedResults.length} promises failed: ${rejectedResults.map((result) => result.reason.toString()).join(", ")}`);
+    throw new AggregateError(rejectedResults.map((result) => result.reason), `${rejectedResults.length} promises failed`);
   }
   const successfullResults: PromiseFulfilledResult<Awaited<T>>[] = results.filter(
     (result): result is PromiseFulfilledResult<Awaited<T>> => result.status === "fulfilled"
@@ -132,16 +132,17 @@ This is in fact [TypeScript with Generics](https://www.typescriptlang.org/docs/h
     throw rejectedResults[0].reason;
   }
   if (rejectedResults.length > 1) {
-    throw new Error(`${rejectedResults.length} promises failed: ${rejectedResults.map((result) => result.reason.toString()).join(", ")}`);
+    throw new AggregateError(rejectedResults.map((result) => result.reason), `${rejectedResults.length} promises failed`);
   }
-  const successfullResults = results.filter(result => result.status === "fulfilled");
-  return successfullResults.map((result) => result.value);
+  return results.map((result) => result.value);
 }</code></pre>
 </details>
 
 You can test this function by replacing `Promise.all` by `waitForPromises` in the initial code snippet of this article.
 
 Although sometimes the "short-circuit" behaviour of `Promise.all` can be handy, I think that `waitForPromises` is a better, safer alternative in most situations, and should be the go-to default option to `await` the completion ofseveral asynchonous functions.
+
+(thanks to [Reddit user @senocular](https://www.reddit.com/user/senocular/) for the very relevant feedbacks)
 
 ## Further readings
 
@@ -150,10 +151,9 @@ Although sometimes the "short-circuit" behaviour of `Promise.all` can be handy, 
 * [Beware of short-circuiting Promise combinators in JavaScript @ medium.com](https://medium.com/@volodymyrfrolov/beware-of-short-circuiting-promise-combinators-in-javascript-bbb5b7a9e70f) : an older article from 2019 already raising a similar warning
 
 <!-- Com' :
-* [ ] https://news.ycombinator.com/
-* [ ] https://www.reddit.com/r/javascript
-* [ ] https://news.humancoders.com/t/javascript
-* [ ] https://javascriptweekly.com/
+* [x] https://news.ycombinator.com/item?id=40246656
+* [x] https://www.reddit.com/r/javascript/comments/1cj6vd6/a_tricky_pitfall_of_promiseall_and_a_solution/
+* [x] https://news.humancoders.com/t/javascript - lucas.cimon+humancoders
 * [ ] https://dev.to/lucasc/
 * [ ] https://medium.com/@Lucas_C/
 -->

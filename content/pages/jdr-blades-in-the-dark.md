@@ -1666,16 +1666,20 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
     + [Calling cards of Doskvol @ itch.io](https://redriderx.itch.io/calling-cards-of-doskval)
 
 
-PRINT: calling-cards-of-doskval/bitd-cards.pdf
+PRINTED: calling-cards-of-doskval/bitd-cards.pdf
 Downtime: pas encore fait pour les PJs, sauf pour Lodius (déjà fait)
 
 Prochaine session :
+* INTRO : PJs plongés dans un lieu étrange, sans souvenir de comment ils y sont arrivés...
+* employer des éléments issus de leurs inventaires comme ressorts de l'histoire
+* Idée issue de Radio Roliste : temporiser l'adversité pour permettre à des tensions entre PJs d'apparaître
 * préparer des fiches de démons
 * les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...
 * faire le point sur pouvoirs de Lodius : + il utilise ses pouvoirs, plus le risque de "décorporation" spontané augmente ?
 * anticiper réaction des gangs de Charhollow lorsqu'ils apprendront la présence du Harpon
 * intervention militaire "tactique" (~SWAT) à Coalridge grâce aux arcanes disposées par les clercs de l'évêque
 * Mal & Quill organisent attentat à Brightstone -> il se fait arrêter, et va rapidement se faire condamner & exécuter
+* une faction adverse va antagoniser Le Harpon en le dépeignant comme un culte diabolique
 
 Anticiper / définir :
 * si le Harpon et l'Echarpe Rouge sont en guerre -> effets mécaniques ?
@@ -1821,9 +1825,9 @@ Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site d
 
 Tools:
 
-* Pinterest images downloader: ./pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/
+* Pinterest images downloader: ./pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/ ( limkokhole/pinterest-downloader )
 * Reddit images downloader: bdfr download . --folder-scheme '' --link $POST_URL
-* Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk -> visit /gallery.html
+* Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk -> visit /gallery.html - Alt: sigal
 
 Online rpg-dice boards:
 
