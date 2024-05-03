@@ -37,3 +37,6 @@ Tags: lang:fr
 
 [![La Quadrature du Net](images/LaQuadratureDuNet.png)](https://www.laquadrature.net/)
 > **La Quadrature du Net** promeut et défend les libertés fondamentales dans l’environnement numérique. L’association lutte contre la censure et la surveillance, que celles-ci viennent des États ou des entreprises privées. Elle questionne la façon dont le numérique et la société s’influencent mutuellement. Elle œuvre pour un Internet libre, décentralisé et émancipateur.
+
+[![Enercoop](images/Logo_Enercoop.png)](https://www.enercoop.fr/notre-projet)
+> Créé en 2005, **Enercoop** est pionnier de la fourniture d'électricité renouvelable, et suit un modèle coopératif favorisant l'emploi local, la démocratie et la transparence.

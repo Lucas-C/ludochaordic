@@ -41,6 +41,8 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2024-04-25', 'img_url': 'images/readings/ParadisPerdu.jpg', 'description': 'ParadisPerdu - Anthony "Yno" Combrexelle (JdR)'},
     {'date': '2024-05-03', 'img_url': 'images/readings/LaFilleMauditeDuCapitainePirate.png', 'description': "La Fille Maudite Du Capitaine Pirate - Jeremy Bastian (BD)"},
     {'date': '2024-04-08', 'img_url': 'images/readings/bleu-a-la-lumiere-du-jour.jpg', 'description': "Bleu à la lumière du jour - Borja Gonzalez (BD)"},
     {'date': '2024-04-02', 'img_url': 'images/readings/MadMaxiJack.jpg', 'description': "Mad Maxi Jack - Étienne Beck (BD)"},
@@ -209,6 +211,7 @@ SUPPORTS = (('La Topette', 'https://latopette.fr/', 'images/LaTopette.png', 'Abo
             ('Fakir', 'https://www.fakirpresse.info/', 'images/fakir.jpg', 'Abonnez-vous à Fakir'),
             ('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/LaQuadratureDuNet.png', 'Faites un don à la Quadrature'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/framasoft.jpg', 'Soutenez Framasoft'),
+            ('Enercoop', 'https://www.enercoop.fr/', 'images/Logo_Enercoop.png', 'Soutenez Enercoop'),
             ('andro switch', 'https://www.contraceptionmasculine.fr/andro-switch/', 'images/logo-andro-switch.png', 'La contraception masculine, renseignez-vous'),
             ('attac', 'https://france.attac.org/', 'images/attac.png', 'Soutenez attac'),
             ('Microformats', 'http://microformats.org/', 'images/microformats.png', 'Ce site adhère au standard microformats'),
