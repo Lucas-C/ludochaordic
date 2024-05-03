@@ -142,7 +142,7 @@ You can test this function by replacing `Promise.all` by `waitForPromises` in th
 
 Although sometimes the "short-circuit" behaviour of `Promise.all` can be handy, I think that `waitForPromises` is a better, safer alternative in most situations, and should be the go-to default option to `await` the completion ofseveral asynchonous functions.
 
-(thanks to [Reddit user @senocular](https://www.reddit.com/user/senocular/) for the very relevant feedbacks)
+_(thanks to [Reddit user @senocular](https://www.reddit.com/user/senocular/) for the very relevant feedbacks on this blog post)_
 
 ## Further readings
 
