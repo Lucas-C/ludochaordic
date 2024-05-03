@@ -41,6 +41,7 @@ EXTRA_PAGE_LINKS = (
 
 # Readings, from most recent to oldest
 READINGS = (
+    {'date': '2024-05-03', 'img_url': 'images/readings/LaFilleMauditeDuCapitainePirate.png', 'description': "La Fille Maudite Du Capitaine Pirate - Jeremy Bastian (BD)"},
     {'date': '2024-04-08', 'img_url': 'images/readings/bleu-a-la-lumiere-du-jour.jpg', 'description': "Bleu à la lumière du jour - Borja Gonzalez (BD)"},
     {'date': '2024-04-02', 'img_url': 'images/readings/MadMaxiJack.jpg', 'description': "Mad Maxi Jack - Étienne Beck (BD)"},
     {'date': '2024-03-13', 'img_url': 'images/readings/TheLastRonin.jpg', 'description': "TMNT: The Last Ronin  Kevin Eastman & Peter Laird & Tom Waltz (comics)"},
