@@ -11,11 +11,19 @@ Status: draft
 
 Criterias : activity (commits / year, overview of last issues...), features (auto-fix, #number of rules...), usability (user-friendliness, ease of installation & configuration...) testing 3-4 example pages (Boostrap 4.1 Starter template, Foundation, Pure CSS, Semantic UI, UI kit, https://www.w3schools.com/html/html_examples.asp, HTML5UP)
 
-- Tidy HTML:
-  * ` -modify` autoformat
-  * latest version allow to mute some warnings, but [the exit code will still be non-zero](https://github.com/htacg/tidy-html5/issues/933),
-    making its usage in CI pipelines difficult
-  * [latest binaries are from 4 years ago](https://github.com/htacg/tidy-html5/issues/939)
+## W3C v.Nu HTML linter
+[v.Nu, the Nu HTML Checker](https://validator.github.io/validator/) from the W3C
+
+* https://chezsoi.org/shaarli/shaare/AIzoYw
+* [html5validator (Python package)](https://pypi.org/project/html5validator/)
+* [vnu-jar (npm package)](https://www.npmjs.com/package/vnu-jar)
+* [validator/validator (Docker image)[https://hub.docker.com/r/validator/validator/]
+
+## Tidy HTML
+* ` -modify` autoformat
+* latest version allow to mute some warnings, but [the exit code will still be non-zero](https://github.com/htacg/tidy-html5/issues/933),
+  making its usage in CI pipelines difficult
+* [latest binaries are from 4 years ago](https://github.com/htacg/tidy-html5/issues/939)
 
 Usage in [GitHub Actions](https://github.com/features/actions) / [Gitlab CI](https://docs.gitlab.com/ee/ci/) / [Travis CI](https://www.travis-ci.com):
 
@@ -42,12 +50,10 @@ mute-id: yes
 ```
 <!-- /opt/tidy-html5/build/cmake/tidy --version # 5.7.45 -->
 
-- [v.Nu, the Nu HTML Checker](https://validator.github.io/validator/) from the W3C
-  * [html5validator (Python package)](https://pypi.org/project/html5validator/)
-  * [vnu-jar (npm package)](https://www.npmjs.com/package/vnu-jar)
-  * [validator/validator (Docker image)[https://hub.docker.com/r/validator/validator/]
+Note: on Lucas-C/jdr I ended up switching to the Nu HTML checker instead, because of the annoying `fix-style-tags` rule, using the latest release, and the general lack of maintenance / answers on issues / new releases on the project
 
-- [htmlhint](https://htmlhint.com)
+## htmlhint
+[htmlhint](https://htmlhint.com)
 
 Usage in [GitHub Actions](https://github.com/features/actions) / [Gitlab CI](https://docs.gitlab.com/ee/ci/) / [Travis CI](https://www.travis-ci.com):
 
@@ -92,6 +98,8 @@ Example of `.htmllintrc`:
     "spec-char-escape": false
 }
 ```
+
+## html-validate
 
 - [html-validate](https://gitlab.com/html-validate/html-validate)
 

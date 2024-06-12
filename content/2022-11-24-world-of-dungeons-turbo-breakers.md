@@ -98,4 +98,6 @@ ainsi que cette musique de poursuite : [Escape | RPG Chase Theme | Fantasy Music
 * [x] http://troplongpaslu.fr
 * [x] https://www.casusno.fr/viewtopic.php?t=41349
 * [ ] https://www.donjondudragon.fr
+* [ ] https://www.reddit.com/r/jdr/
+* [ ] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
 -->

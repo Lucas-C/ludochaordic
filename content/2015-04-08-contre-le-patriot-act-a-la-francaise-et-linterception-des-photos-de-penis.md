@@ -1,6 +1,6 @@
 Title: Contre le Patriot Act à la française et l'interception des photos de pénis
 Date: 2015-04-08 20:04
-Tags: lang:fr, untagged
+Tags: lang:fr, amnesty-international, droits-de-l-homme
 Slug: contre-le-patriot-act-a-la-francaise-et-linterception-des-photos-de-penis
 ---
 Il reste 7 jours pour se mobiliser :

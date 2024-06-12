@@ -175,6 +175,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Dia de paseo](https://www.deviantart.com/dumaker/art/Dia-de-paseo-990336618)
     * [Misterioso sketch](https://www.deviantart.com/dumaker/art/Misterioso-sketch-979342027)
     * [Medium](https://www.deviantart.com/dumaker/art/Medium-955311634)
+    * [Rat Dog](https://www.deviantart.com/dumaker/art/Rat-Dog-833308670)
+    * [Santa Compana](https://www.deviantart.com/dumaker/art/Santa-Compana-768584064)
+    * [Dumaker Inktober 2017 #3](https://www.deviantart.com/dumaker/art/Dumaker-Inktober-2017-3-712073899)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -334,16 +337,12 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
 - [Philipp Höhnel _aka_ mooncube](https://www.deviantart.com/moooncube/gallery) : CC BY-SA - B&W (N&B) sci-fi spaceships
 > Concept artist, designer, 3D modeller and illustrator from München, Germany. Linux and open source enthusiast
 > ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) - [official website](https://www.mooncube.space)
-    * [Inktober28](https://www.deviantart.com/moooncube/art/Inktober-28-770230895)
-    * [Inktober27](https://www.deviantart.com/moooncube/art/Inktober-27-770063156)
-    * [Inktober26](https://www.deviantart.com/moooncube/art/Inktober-26-769926568)
-    * [Inktober24](https://www.deviantart.com/moooncube/art/Inktober24-769680911)
+    * [Inktober #27](https://www.deviantart.com/moooncube/art/Inktober-27-770063156)
+    * [Inktober #26](https://www.deviantart.com/moooncube/art/Inktober-26-769926568)
+    * [Inktober #24](https://www.deviantart.com/moooncube/art/Inktober24-769680911)
     * [The Machinist](https://www.deviantart.com/moooncube/art/The-Machinist-704053565)
-    * [Corridor Green](https://www.mooncube.space/images/Philipp_H%C3%B6hnel_www.mooncube.space_31.jpg)
-    * [Costume Lineup](https://www.mooncube.space/images/Philipp_Höhnel_www.mooncube.space_23.jpg)
-    * [Silhouettes](https://www.mooncube.space/images/Philipp_Höhnel_www.mooncube.space_22.jpg)
-    * [Pilot design](https://www.mooncube.space/images/Philipp_Höhnel_www.mooncube.space_07.jpg)
-    * [When We Share, Everyone Wins](https://www.mooncube.space/cc.html)
+    * [Character Design Thumbnails](https://www.deviantart.com/moooncube/art/Character-Design-Thumbnails-704897614)
+    * [Photostudy Helicopter](https://www.deviantart.com/moooncube/art/Photostudy-Helicopter-767759822)
 - [Ret Samys](https://www.deviantart.com/retsamys/gallery/39951222/free-stuff) : many CC BY mouse characters
 > German hobbyist who makes animations, creates vector graphics, write German poems, draws from time to time and is trying out some typography. Oh, and also code some CSS when bored.
     * [Mousetober 8 - Fragile Words, Read Carefully](https://www.deviantart.com/retsamys/art/Mousetober-8-Fragile-Words-Read-Carefully-816153767)
@@ -512,14 +511,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Chinese creature - Dragon eat The Sun](https://www.deviantart.com/vachalenxeon/art/Chinese-creature-Dragon-eat-The-Sun-894746114)
     * [Chinese Chinese Deity - Chang'e](https://www.deviantart.com/vachalenxeon/art/Chinese-Deity-Chang-e-894150273)
     * [The Specimen cultivating](https://www.deviantart.com/vachalenxeon/art/The-Specimen-cultivating-860589925)
-- [Meg James](https://www.google.com/search?tbm=isch&q=site%3Ameg-james.com+BY-NC-ND) - mostly CC BY-NC-SA - fantasy & furries
-> a queer agender digital artist in southeast Washington State, mostly doing art and comics
-    * [Dead man in a dead land](http://meg-james.com/art/dead-man-in-a-dead-land/)
-    * [She came from the bog](http://meg-james.com/art/she-came-from-the-bog/)
-    * [Compliments to the chef](http://meg-james.com/art/compliments-to-the-chef/)
-    * [Summer Witch](http://meg-james.com/art/summer-witch/)
-    * [Trapper team](http://meg-james.com/art/trapper-team/)
-    * [Flash in the pan](http://meg-james.com/art/flash-in-the-pan/)
 - [Gray-Skull](https://www.deviantart.com/gray-skull/gallery) - CC BY-NC-SA - Warhammer 40K B&W (N&B)
 > Digital artist from Russia - [Patreon](https://www.patreon.com/GraySkull_Art)
     * [Flayed One](https://www.deviantart.com/gray-skull/art/Flayed-One-858677213)
@@ -581,6 +572,19 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
 - [Stéphane Wootha Richard](https://express.adobe.com/page/ucLFuLOEKK9Uo/) public domain:
     * [Mordor](https://www.e-tribart.fr/blog/wp-content/uploads/2016/08/wootha7.jpg)
     * [Doctor Strange](https://express.adobe.com/page/ucLFuLOEKK9Uo/images/dc03da9f-60f8-489d-b686-d05b5bd54d22.jpg)
+- [Godstime Ojinmah _aka_ akol3850](https://www.google.com/search?q=site%3Awww.deviantart.com%2Fakol3850+%22Creative+Commons%22+-%22No+Derivative%22&tbm=isch) : several CC BY-NC
+> 26 yr character designer and illustrator always looking to improve - USA
+    * Sci-fi [helmet concepts](https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128)
+    * [Anime powers](https://www.deviantart.com/akol3850/art/Anime-powers-772648830)
+    * [Black Girl Pose](https://www.deviantart.com/akol3850/art/Black-Girl-Pose-780132830)
+    * [Android 18](https://www.deviantart.com/akol3850/art/Android-18-724205541)
+- [pazuah](https://www.deviantart.com/pazuah) : CC illustrations, some of them allow derivatives
+> US digital artist using AI
+    * [Forest Scenery](https://www.deviantart.com/pazuah/art/Forest-Scenery-1017344688) pixel art made with midjourney
+    * [Castle on the Hilltop](https://www.deviantart.com/pazuah/art/Castle-on-the-Hilltop-16-9-Ratio-931833757)
+    * [Catacombs](https://www.deviantart.com/pazuah/art/Catacombs-16-9-Ratio-932072103)
+    * [Cyberpunk Bar Overview](https://www.deviantart.com/pazuah/art/Cyberpunk-Bar-Overview-16-9-Ratio-931237796)
+    * [Vaporwave office #1](https://www.deviantart.com/pazuah/art/Vaporwave-office-1-946405436) made with midjourney
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -680,6 +684,7 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 - [Zombie Run Logo](https://commons.wikimedia.org/wiki/File:Zombie_Run_Logo_(15166442908).jpg) : CC BY
 - [samurai silhouette](https://pixahive.com/photo/colorful-illustration-5/) & [flying girl](https://pixahive.com/photo/dream-illustration/) - CC0
 - [Reymas by DarwinThePedestrian](https://www.deviantart.com/darwinthepedestrian/art/Reymas-634086895) : CC BY-NC-SA
+- [Science Fiction Illustration Girl Robot by Gary Freeman](https://en.wikipedia.org/wiki/File:Gary_Freeman_Science_Fiction_Illustration_Girl_Robot.jpg) - Free
 
 ## Projects & game assets
 - [Symbiosis CC Artbook by Steven Sanders](https://gumroad.com/l/oRzNi) : amazing collection of dozens of illustrations under CC BY-NC-SA
@@ -707,8 +712,8 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 - [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) by [Jeff Preston](http://team-preston.com/about/): CC BY -
 Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll, Zombie ![Thumbnail](https://d1vzi28wh99zvq.cloudfront.net/images/2902/91360.png)
 > IT / Game Industry Professional. Illustration, Game writing, design. From Lebanon (Oregon)
-- [Eclipse Phase](http://www.eclipsephase.com/cclicense)
-> Eclipse Phase releases (including print books, digital PDFs/ebooks, text, artwork, audio files, and this website) by Posthuman Studios are licensed under a Creative Commons Attribution-Noncommercial-Share Alike 4.0 License
+- [Eclipse Phase](http://www.eclipsephase.com)
+> Eclipse Phase releases (including print books, digital PDFs/ebooks, text, artwork, audio files, and this website) by Posthuman Studios are licensed under a Creative Commons Attribution-Noncommercial-Share Alike 4.0 License - [EclipsePhase CC Cicense](https://eclipsephase.com/cclicense/)
     * [all websites images from Google search](https://www.google.com/search?q=site%3Awww.eclipsephase.com&tbm=isch)
     * [Unwinding](https://www.artstation.com/artwork/rKbBO) - Mitchell Malloy CC BY-NC-SA
     * [Ongoing Titan Activity](https://www.infectedbyart.com/contestpiece.asp?piece=7916) - Mitchell Malloy CC BY-NC-SA
@@ -834,12 +839,23 @@ Dedicated to games:
 - [craftpix freebies](https://craftpix.net/freebies/) : free 2D game assets
 - [OpenGameArt](https://opengameart.org)
     * [WTactics](https://opengameart.org/content/wtactics) / [@GitHub](https://github.com/wtactics/art/tree/master) - [preview board](https://arcmage.org/artwork/) - CC BY-SA
+    * [Cyberpunk Portraits](https://opengameart.org/content/cyberpunk-portraits) - CC0
     * [Justin Nichol](https://opengameart.org/users/justin-nichol) - CC BY-SA:
+        + [FLARE Portrait Pack (Number Four)](https://opengameart.org/content/flare-portrait-pack-number-four)
+        + [FLARE Portrait Pack (Female Edition)](https://opengameart.org/content/flare-portrait-pack-female-edition)
         + [Post Apocalyptic Woman 1](https://opengameart.org/content/post-apocalyptic-woman-1)
         + [Ogre](https://opengameart.org/content/ogre-2)
-        + [Starship pilot](Justin Nichol)
+        + [Psion](https://opengameart.org/content/psion)
+        + [Starship pilot](https://opengameart.org/content/starship-pilot)
         + [Science officer](https://opengameart.org/content/science-officer)
         + [Zombie brute](https://opengameart.org/content/zombie-brute-concept)
+    * [Hyptosis](https://opengameart.org/users/hyptosis) portraits:
+        + [Cyberpunk Portraits](https://opengameart.org/content/cyberpunk-portraits)
+        + [200 Free Lorestrome Portraits](https://opengameart.org/content/200-free-lorestrome-portraits)
+    * [Gaspard](https://kaspartamsalu.tumblr.com/) portraits:
+        + [6 Post-Apocalyptical Snow Portraits](https://opengameart.org/content/6-post-apocalyptical-snow-portraits)
+        + [Character Concepts for PARPG](https://opengameart.org/content/character-concepts-for-parpg)
+        + [Four Post-Apocalyptic Portraits](https://opengameart.org/content/four-post-apocalyptic-portraits)
 - [Open source board game box art icons](https://sinisterdesign.net/open-source-board-game-box-art-icons/)
 
 Mostly photos:

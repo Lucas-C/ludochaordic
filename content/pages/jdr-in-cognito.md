@@ -6,6 +6,8 @@ Status: hidden
 
 <!--
 Quand READY: ajouter un lien dans jeux-de-role.md
+
+https://chezsoi.org/lucas/jdr/wiki/doku.php?id=in-cognito:campagnes:markisis:start
 -->
 
 <p class="intro">

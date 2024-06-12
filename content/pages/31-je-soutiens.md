@@ -40,3 +40,7 @@ Tags: lang:fr
 
 [![Enercoop](images/Logo_Enercoop.png)](https://www.enercoop.fr/notre-projet)
 > Créé en 2005, **Enercoop** est pionnier de la fourniture d'électricité renouvelable, et suit un modèle coopératif favorisant l'emploi local, la démocratie et la transparence.
+
+<style>
+article img { max-width: max-width: 25rem; }
+</style>
