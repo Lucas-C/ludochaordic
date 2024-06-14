@@ -42,6 +42,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2024-06-14', 'img_url': 'images/readings/PetitManuelDAutoDefenseEnInterrogatoire.webp', 'description': "Petit manuel d'autodéfense en interrogatoire - Éditions du commun (essai)"},
     {'date': '2024-05-03', 'img_url': 'images/readings/LaFilleMauditeDuCapitainePirate.png', 'description': "La Fille Maudite Du Capitaine Pirate - Jeremy Bastian (BD)"},
     {'date': '2024-04-25', 'img_url': 'images/readings/ParadisPerdu.jpg', 'description': "ParadisPerdu - Anthony 'Yno' Combrexelle (JdR)"},
     {'date': '2024-04-08', 'img_url': 'images/readings/bleu-a-la-lumiere-du-jour.jpg', 'description': "Bleu à la lumière du jour - Borja Gonzalez (BD)"},
