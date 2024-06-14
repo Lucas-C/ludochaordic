@@ -1,9 +1,9 @@
 Title: T-shirts en soutien au Nouveau Front Populaire
 Date: 2024-06-14 10:00
-Tags: lang:fr,
+Tags: lang:fr, france, election, politique, NouveauFrontPopulaire
 ---
 
-Hier soir, jeudi 13 juin 2024, les socialistes, les insoumis, les communistes et les écologistes ont publié une déclaration commune confirmant avoir trouvé un terrain d’entente pour aborder les législatives sous la même bannière : le **Nouveau Front Populaire**
+Hier soir, jeudi 13 juin 2024, les socialistes, les insoumis, les communistes et les écologistes ont publié une déclaration commune confirmant avoir trouvé un terrain d’entente pour aborder les législatives sous la même bannière : le **Nouveau Front Populaire**.
 
 * [annonce sur lafranceinsoumise.fr](https://lafranceinsoumise.fr/2024/06/13/communique-de-la-france-insoumise-5/)
 * [annonce sur parti-socialiste.fr](https://www.parti-socialiste.fr/une_page_de_l_histoire_de_france_s_ecrit_avec_le_nouveau_front_populaire)
@@ -26,7 +26,7 @@ j'ai décidé de porter fièrement un t-shirt avec ce logo :
 Ceux-ci ont été conçus en 20min avec [printful.com](https://www.printful.com),
 avec qui je ne suis en rien affilié,
 et il existe de nombreux autres alternatives similaires :
-[mistertee.fr](https://mistertee.fr), [www.crafters.fr](https://www.crafters.fr),
+[mistertee.fr](https://mistertee.fr), [crafters.fr](https://www.crafters.fr),
 [customink.com](https://www.customink.com), [rushordertees.com](https://www.rushordertees.com).
 
 J'espère que cela pourra vous encourager à faire de même,
