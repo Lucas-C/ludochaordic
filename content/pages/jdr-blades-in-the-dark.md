@@ -100,7 +100,10 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-11)
 - [Session 15 - 27-28 juillet 2024](pages/jdr-blades-in-the-dark.html#session-15-27-28-juillet-2024)
     * [Les croquis de Lodius](pages/jdr-blades-in-the-dark.html#les-croquis-de-lodius)
-    * [Prisonniers du _Ghost Field_](pages/jdr-blades-in-the-dark.html#prisonniers-du-ghost-field)
+    * [Intro - Prisonniers du _Ghost Field_](pages/jdr-blades-in-the-dark.html#intro-prisonniers-du-ghost-field)
+    * [Le passé d'Ethnos](pages/jdr-blades-in-the-dark.html#le-pass-d-ethnos)
+    * [Exploration de la tour de l'horloge](pages/jdr-blades-in-the-dark.html#exploration-de-la-tour-de-l-horloge)
+    * [Le retour de la diva](pages/jdr-blades-in-the-dark.html#le-retour-de-la-diva)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -1188,7 +1191,7 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
     <figcaption>Dans les catacombes sous l'Académie des Études Immortelles...</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" alt="Rituel occulte souterrain" src="images/bitd/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg">
+    <img loading="lazy" alt="Rituel occulte souterrain" src="images/bitd/places/catacombs/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg">
     <figcaption>...se trament d'inquiétants rituels</figcaption>
   </figure>
 </div>
@@ -1387,7 +1390,7 @@ Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour 
 
 De son côté, Elaria s'introduit dans la fabrique et retrouve dans un bureau à l'étage Quill, Mal, les représentants syndicaux ainsi que les boss de deux gangs locaux : **Ulf Ironborn** le _leader_ Skovland, et le chef des _BillHooks_. Ce dernier, en apprenant l'intervention imminente de l'armée impériale, décide de mettre les voiles. Ulf lui n'est pas venu seul : dans la fabrique en contrebas ses hommes, des vétérans de la guerre de l'unité, sont en train de s'équiper tandis qu'un autre Skolander trace des signes cabalistiques au sol...
 
-Pendant ce temps, Josef et Mist décident de travailler de concert à ouvrir le _Ghost Veil_
+Pendant ce temps, Josef et Mist décident de travailler de concert à ouvrir le _Ghost Field_
 pour entrer en contact avec les esprits des travailleurs qui ont laissé leur vie aujourd'hui pour l'insurrection.
 Leur rituel fonctionne, et une cohorte d'esprits furieux se rue à travers Coalridge en direction des positions de l'armée impériale.
 
@@ -1404,11 +1407,11 @@ De son côté, Elaria va s'étendre quelques heures au Dragon d'Iruvia, sur le t
 
 Un peu plus tard, le Harpon sera informé de la disparition d'Elaria par un émissaire de l'Écharpe Rouge. Mist décide alors de se rendre à la fumerie d'opium pour investiguer. Là-bas, le lieutenant de l'Écharpe Rouge en charge de l'établissement finit par le recevoir et lui expliquer ce qu'il sait, c'est à dire bien peu de chose. Mist met tout de même la main sur un morceau de charbon d'opium à l'odeur suspecte, qu'une analyse au QG révélera ensuite être une odeur de soporifique.
 
-Une fois avisé, Josef décide alors d'accomplir un rituel afin de percevoir la trace récente qu'a pu laisser Elaria dans le _Ghost Veil_. Son rituel permet alors au gang de remonter la piste d'Elaria jusqu'au club _The Seven Sins_, à Silkshore. D'après les informations recueillies par Mist, le lieu est un repaire du Cercle de la Flamme.
+Une fois avisé, Josef décide alors d'accomplir un rituel afin de percevoir la trace récente qu'a pu laisser Elaria dans le _Ghost Field_. Son rituel permet alors au gang de remonter la piste d'Elaria jusqu'au club _The Seven Sins_, à Silkshore. D'après les informations recueillies par Mist, le lieu est un repaire du Cercle de la Flamme.
 
 De son côté, Elaria se réveille enchaînée et suspendue la tête à l'envers à une poutre, dans une pièce sans ouverture et avec très peu de meubles. Tandis qu'elle parvient à progressivement et de manière surnaturelle à se libérer, Raffello entre dans la pièce, accompagné de son démon invisible. Elaria profite d'un poignard lancé dans sa direction pour finir de s'extraire de ses chaînes et de se rétablir au sol. Un bref affrontement s'ensuit, où Elaria prend le dessus sur ses deux adversaires mais le paye par une grave blessure et un trauma.
 
-Le reste du gang choisit alors de lancer une opération « coup de poing » et de s'introduire à l'intérieur du club via une porte de service. Mist assure les arrières en tenant en respect deux démons-gargouilles descendus du toit, tandis qu'Eric et Josef s'introduisent dans une succession de couloirs de pierre qui se révèle être un labyrinthe... Après plusieurs démolitions de murs par Eric, Josef exploite le _Ghost Veil_ pour ignorer l'illusion et diriger le groupe vers la pièce où Elaria est prisonnière. Là, Josef vide sont pistolet sur Raffello déjà gravement blessé, et Eric vient en soutien à Elaria face au démon.
+Le reste du gang choisit alors de lancer une opération « coup de poing » et de s'introduire à l'intérieur du club via une porte de service. Mist assure les arrières en tenant en respect deux démons-gargouilles descendus du toit, tandis qu'Eric et Josef s'introduisent dans une succession de couloirs de pierre qui se révèle être un labyrinthe... Après plusieurs démolitions de murs par Eric, Josef exploite le _Ghost Field_ pour ignorer l'illusion et diriger le groupe vers la pièce où Elaria est prisonnière. Là, Josef vide sont pistolet sur Raffello déjà gravement blessé, et Eric vient en soutien à Elaria face au démon.
 
 Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque, sous un feu nourri de carreaux d'arbalète.
 
@@ -1706,18 +1709,37 @@ Alors que désormais trois corbeaux font des cercles concentriques au-dessus du 
   <figcaption>Spirit Warden - Source : Dishonored Overseer concept art by <a href="https://www.artstation.com/cedricpeyravernay">Cédric Peyravernay</a></figcaption>
 </figure>
 
-### Le passé de Ethnos
+### Le passé d'Ethnos
 
-Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos sont définis collectivement :
+Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos ont été définis collectivement :
 
 <dl>
   <dt>Tu es originaire des Dagger Isles, où tu étais d'extraction noble. Mais quelles sont tes origines plus précisément ?</dt>
-    <dd>Écarté du pouvoir par sa soeur, Ethel, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde</dd>
+    <dd>Écarté du pouvoir par sa soeur, Ethel, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde.</dd>
+  <dt>Comment font-ils pour se passer de barrières électroplasmiques dans les Dagger Isles, et comment Ethnos y a été confronté ?</dt>
+    <dd>Là-bas les habitants boivent rituellement du sang de Léviathan, cotoient régulièrement des démons dans la jungle, et hérigent de grands totems protecteurs. Ethnos a été initié à toutes ces croyances et connaissances, et la consommation passée de sang de Léviathan de Lodius a probablement joué lors du rituel qui l'a amené à quitter son corps indemne...</dd>
+  <dt>En arrivant à Doskvol, Ethnos était très pieu et repentant. Qu'est-ce qui l'a amené dans cette direction ?</dt>
+    <dd>Il a été initié à l'Église de l'Exstase de la Chair par un missionnaire, dans le but d'expier ses fautes, et notamment la mort d'un <em>With Doctor</em> qui la rendu très impopulaire là-bas...</dd>
+  <dt>Qu'est-ce qui a mené Thnos à Doskvol, et à rejoindre le gang du Harpon ?</dt>
+    <dd>Lodius l'a connu à bord d'un navire, et à fait appel à lui ensuite lorsqu'il a monté son gang. Et Ethnos voulait partir loin de son passé.</dd>
+  <dt>Qu'est-ce qu'Ethnos à conservé avec lui des Dagger Isles ?</dt>
+    <dd>Sa chevalière, comportant son blason familial, qu'il porte à une chaîne autour du cou.</dd>
 </dl>
+
+### Exploration de la tour de l'horloge
+
+Une fois de retour à leur planque, le gang prend le temps d'explorer plus en détails la tour qu'ils occupent désormais.
+Notamment, ils explorent le _Sanctum_, découvrent une bibliothèque cachée dans l'ancienne chambre d'Henner, comprennent le fonctionnement de l'Œil du Corbeau, découvrent l'accès secondaire via le toit de la maison attenante, également affecté par l'enchantement d'illusion, et détectent la présence de spectres de pendus dans les échaffaudages à l'extérieur.
+
+Parmis les autres informations qu'ils récoltent à leur retour, il y a également une rumeur de comète, l'Écharpe Rouge qui invite Eric à participer à un tournoi martial, et un pli de Lord Scurlock mentionnant qu'il attend de leurs nouvelles suite à la mission qu'il a confié au gang...
 
 ### Le retour de la diva
 
-En cours de rédaction...
+On prévient le gang qu'il y a du grabuge à la Goule Fendue, et qu'une femme déterminée réclamme à parler à un responsable du gang.
+
+Mist & Josef s'y rendent, et comprennent qu'ils s'agit de la diva **Maria Coseren**, qui est venue leur réclamer son masque. Elle est très énervée, bien plus forte qu'il n'y paraît, et tente d'intimider physiquement Josef, qui réussit à la projeter temporairement dans le _Ghost Field_ pour calmer la situation.
+
+Après de brefs échanges tendus, elle annonce qu'elle reviendra le lendemain soir pour avoir ses réponses.
 
 <div class="side-by-side" role="group">
   <figure role="group">
@@ -1736,30 +1758,63 @@ En cours de rédaction...
 
 ### Arrestation de Lodius
 
-En cours de rédaction...
+En parallèle, Eric & Lodius vont rencontrer **Phil**, qui a fait savoir à Lodius qu'il avait des informations pour lui.
+Néanmoins, à l'heure et au lieu du rendez-vous, à Saltridge dans Crow's Foot, Lodius voit Phil passer sans s'arrêter.
+Il comprend bien vite qu'il est pris en filature par deux _Bluecoats_ en civil, et Eric s'occupe de les faire disparaître.
+
+Alors que Phil, panniqué, s'enfuit jusqu'à un bateau dans un canal proche, Lodius décide de l'intercepter en sautant sur son bateau depuis un pont avec une _smoke bomb_.
+Malheureusement cela s'avère être un piège, et une douzaine de _Bluecoats_ lui saute dessus avec un filet, et un Inspecteur à la manœuvre. Lodius fait preuve de réflexe et applique sur lui de la _Drift Oil_ pour s'élever dans les airs, puis prend possession de l'Inspecteur afin de canarder les _Bluecoats_ et de faire se trancher la gorge à sa victime.
+
+Alors qu'il s'élève vers des toits attenants, il évite une navette volante impériale en dissipant l'effet de la potion de lévitation, mais malheureusement s'assome lors de sa chute, et est capturé.
+Eric se lance dans une ultime tentative d'aide à son camarade, n'hésitant pas à tirer à la mitrailleuse sur _Bluecoats_ et facades de maison, mais c'est malheureusement trop tard...
 
 ### Interrogatoire de Lodius
 
-En cours de rédaction...
+Tandis que le reste du gang missione Valeris pour déterminer où Lodius a été emmené par les forces de l'ordre,
+celui-ci se réveille dans une cellule sur Whitecrown.
 
-### Expédition dans les catacombes
+S'ensuit un interrogatoire (_joué en une longue belle session de roleplay)_ où l'Inspecteur **Holdan** et son second **Smithson** cuisine longuement Lodius, le questionnant sur les meurtres de Fridrik Nash, Rafello, Darmot & Conway, mais aussi sur l'attaque du bordel La Tentacule Bleue où des témoins l'on vu, hache à la main, la main tranchée de Sylvia Derengathi, le témoignage du prêtre Herman, la destruction d'un Échassier lors de l'évasion d'Orue ou encore l'attaque de l'électro-train...
 
-En cours de rédaction...
+Les inspecteurs finissent par confronter Ethnos-Lodius, via un buste _Hull_ permettant d'acceuillir un fantôme, au spectre accusateur de Bell, puis à celui de... Lodius !
+Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résiste, et ne balance rien !
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img loading="lazy" src="images/bitd/NPCs/BrynnTalonsky.jpg" alt="Barmaid du Hooded Fox">
+    <img loading="lazy" src="images/bitd/Tensei/BitD-Artworks-Portrait-by-Tensei.jpg" alt="Inspecteur Holdan" style="width: 20rem">
+    <figcaption>Inspecteur Holdan - Illustration d'Elliot Jolivet aka Tenseï</figcaption>
+  </figure>
+  <img loading="lazy" src="images/bitd/NPCs/Hull-BusteDInterrogatoire.jpg" alt="Hull - Buste d'interrogatoire" style="width: 12rem">
+</div>
+
+### L'intel des Wraiths
+
+Josef se rend sur Silkshore pendant la nuit, et réussit petit à petit à contacter les _Wraiths_,
+en passant d'abord par le bar _The Hooded Fox_ puis en retrouvant l'un d'eux au bar _Le Crépusculaire_,
+où ils achètent de préciseuses informations :
+
+* l'attaque des _Silver Nails_ a été commandité pour récupérer **La main de Kotar** en leur possession
+* Jenny Holt serait la seule rescapé, capturée par le Cercle de la Flamme, et ils prévoient de l'employer bientôt pour un sacrifice
+
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/NPCs/BrynnTalonsky.jpg" alt="Barmaid du Hooded Fox" style="width: 18rem">
     <figcaption>Barmaid du Hooded Fox</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" src="images/bitd/NPCs/Kang.png" alt="Barman du Crépusculaire">
+    <img loading="lazy" src="images/bitd/NPCs/Kang.png" alt="Barman du Crépusculaire" style="width: 18rem">
     <figcaption>Barman du Crépusculaire - Kang - Contact / membre des Wraiths</figcaption>
   </figure>
-  <figure role="group">
-    <img loading="lazy" src="images/bitd/DanielGovar-NecronomiconPage.jpg" alt="Page de grimmoire">
-    <figcaption>Page de grimmoire - Source : <a href="https://www.deviantart.com/danielgovar/art/Necronomicon-Page-491200968">Necronomicon Page by Daniel Glovar</a></figcaption>
-  </figure>
 </div>
+
+### Expédition dans les catacombes
+
+Une fois en possession de ces informations, Mist fait le lien avec les informations qu'il avait précédément obtenu, et le gang décide de se rendre dans les catacombes sous l'université.
+
+Ils affrontent d'abord deux spectres, mais Josef réussit à prendre le contrôle de l'un d'eux, et ils détruisent l'autre à coups de balles électroplasmiques.
+
+Ils arrivent ensuite à au lac souterrain, et tandis qu'ils explorent les lieux, un démon est invoqué face à eux, massif et bardé de lames. Ils en viennent finalement à bout avec l'aide Vassock et du spectre que Josef contrôle.
+Ils découvrent une page de grimmoire occulte et des traces récentes les menant à la surface, jusqu'à une belle demeure de Whitecrown.
+Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et décident de stopper leur exploration face au dédale de souterrain que constitue le reste des catacombes.
 
 <div class="side-by-side" role="group">
   <figure role="group">
@@ -1776,6 +1831,14 @@ En cours de rédaction...
   <img loading="lazy" src="images/bitd/Vlad-Marica-Demon-39_Regular.jpg" alt="Démon">
 </div>
 
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/DanielGovar-NecronomiconPage.jpg" alt="Page de grimmoire" style="width: 15rem">
+    <figcaption>Page de grimmoire - Source : <a href="https://www.deviantart.com/danielgovar/art/Necronomicon-Page-491200968">Necronomicon Page by Daniel Glovar</a></figcaption>
+  </figure>
+  <img loading="lazy" src="images/bitd/NPCs/Hull00.jpg" alt="Hull" style="width: 18rem">
+</div>
+
 ### Ressources
 
 <figure>
@@ -1789,7 +1852,8 @@ En cours de rédaction...
     + [The Dark City @ YouTube](https://www.youtube.com/watch?v=AaiIOV7jYc4)
     + [Ambient Music for Urban Fantasy @ playlist YouTube](https://www.youtube.com/playlist?list=PLk0snynVn5aPwUXqcMpXBd9TaiGOnqe9T)
     + [𝐇𝐚𝐮𝐧𝐭𝐞𝐝 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐚𝐧 𝐋𝐨𝐧𝐝𝐨𝐧 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 𝐃𝐚𝐫𝐤 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐚 @ YouTube](https://www.youtube.com/watch?v=9xs10c1zTEg)
-    + [All of Legio Symphonica @ playlist YouTube](https://www.youtube.com/playlist?list=PLAYmiuM_LLD06ayUuIib6nHVOjaQSvdAo) - Le morceau [Sol Invictus | Warhammer 40K Music](https://www.youtube.com/watch?v=DWJzuC2IMNs) est particulièrement épique
+    + [All of Legio Symphonica @ playlist YouTube](https://www.youtube.com/playlist?list=PLAYmiuM_LLD06ayUuIib6nHVOjaQSvdAo) - Le morceau [Sol Invictus Music](https://www.youtube.com/watch?v=DWJzuC2IMNs) est particulièrement épique, et [Iron Without](https://www.youtube.com/watch?v=9zHhsEXjqkM) est également parfait comme musique de combat
+    + [THE DAY WE CHOOSE TO DIE | Epic Dramatic Strings - Powerful Atmospheric Orchestral Music Mix @ YouTube](https://www.youtube.com/watch?v=RwJscjiB0Sc)
     + [Medieval Fantasy Tavern @ YouTube](https://www.youtube.com/watch?v=vyg5jJrZ42s)
 - aides de jeu :
     + [OlinKirkland scenarios (15+)](https://olinkirk.land/scribbles/)
@@ -1811,6 +1875,11 @@ Questions en suspens :
 + loi martiale & risque pour usine Gruber & Fils
 
 Downtime pas encore fait pour Elaria
+
+Prépa :
+* anticiper raison absence Elaria
+* prévoir quelques questions pour détailler le passé d'Eric
+* remercier Tim Denee pour son plan, et consulter ses autres sur flickr
 
 Prochaine session :
 * INTRO : PJs plongés dans un lieu étrange, sans souvenir de comment ils y sont arrivés...
@@ -2013,6 +2082,7 @@ article table { border-spacing: 0; border-collapse: collapse; page-break-inside:
 article td, article th { font-weight: normal; padding: 5px 10px; text-align: left; }
 article td { border-top: 1px solid #ddd; }
 article tr > td:first-child, article tr > th:first-child { font-weight: bold; text-align: right; }
+article dt { display: list-item; list-style-type: disc; padding-top: .5rem; }
 </style>
 <script>
 const ANCHOR_ID_CHAR_RANGE_TO_IGNORE = '[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+';
