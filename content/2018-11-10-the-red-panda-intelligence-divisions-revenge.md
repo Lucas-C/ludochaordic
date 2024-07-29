@@ -60,7 +60,7 @@ Au passage, cette partie a été l'occasion de découvrir [The Guild of Ambience
 un "sound designer" australien qui propose sur Youtube de super ambiances musicales pour parties de JdR.
 Merci Elliot pour la découverte ;)
 
-**EDIT[2018/11/15]:** une alternative (merci Matthieu !) : https://rpg.ambient-mixer.com
+**EDIT[2018/11/15]:** une alternative (merci Matthieu !) : <https://rpg.ambient-mixer.com>
 
 Création de pandas comprise, la partie de RPIDR a duré un peu moins de 2 heures.
 Nous avons fini la journée à playtester un prototype de JdR de ma conception,

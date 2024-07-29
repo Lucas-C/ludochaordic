@@ -46,7 +46,7 @@ afin d'y dérober un très vieux et précieux journal de bord, détaillant les r
     <figcaption>Concept art de <a href="http://conceptartworld.com/news/thief-concept-art-by-mathieu-latour-duhaime/">Mathieu Latour-Duhaime</a></figcaption>
 </figure>
 
-Ethnos & Elvira abordent discrètement le navire en barque, de nuit, tandis qu'Eric se charge de créer une diversion sur le ponton des docks,
+Ethnos & Elaria abordent discrètement le navire en barque, de nuit, tandis qu'Eric se charge de créer une diversion sur le ponton des docks,
 déguisé en homme de la milice de Duskwall.
 De son côté, Ludius a trouvé un prétexte pour être à bord : via ses anciens contacts marins, il a demandé à rencontrer le capitaine,
 **Drav Walund**, en prétendant vouloir être recruté.
@@ -58,7 +58,7 @@ De son côté, Ludius a trouvé un prétexte pour être à bord : via ses ancien
 
 > Alors comme ça, tu veux rejoindre notre équipage comme officier ?
 
-Ethnos & Elvira escaladent le gaillard arrière du galion, et éliminent discrètement une sentinelle,
+Ethnos & Elaria escaladent le gaillard arrière du galion, et éliminent discrètement une sentinelle,
 quand tout d'un coup des éclats de voix se font entendre sur le pont principal, où l'équipage est rassemble autour de Ludius & Drav.
 
 > Croyais-tu vraiment que je te reconnaîtrais pas ? Traître ! Tu vas payer !
@@ -72,7 +72,7 @@ Comprennant que le plan tourne au vinaigre, Eric monte sur le galion par la pass
 après avoir habilement bluffé les deux gardes en faction. Il tente de s'interposer pour faire cesser cette scène de torture,
 mais le jeune quartier-maître du bateau, **Branon Grime**, s'interpose.
 
-Un peu plus loin dans le navire, Elvira décide d'accomplir tout de même la mission et s'introduit dans la cabine du capitaine.
+Un peu plus loin dans le navire, Elaria décide d'accomplir tout de même la mission et s'introduit dans la cabine du capitaine.
 Elle finit par découvrir un coffre en fonte caché derrière un tableau, malheureusement impossible à ouvrir.
 
 Sur le pont, on pousse Ludius, gravement électrocuté par le filet, pour subir le traditionnel supplice de la planche.
@@ -81,7 +81,7 @@ Drav écourte cependant la chose, voyant la milice arriver (Eric déguisé), et 
 Ethnos, qui avait anticipé la situation, est déjà dans l'eau sous la planche.
 Il réceptionne Ludius, à demi-mort, et le ramène à la barque.
 
-L'instant suivant, c'est Elvira qui fait basculer le coffre en fonte depuis la cabine du capitaine dans la barque.
+L'instant suivant, c'est Elaria qui fait basculer le coffre en fonte depuis la cabine du capitaine dans la barque.
 Elle les rejoint ensuite d'un saut, en décochant dans sa chute un couteau fatal à un homme d'équipage qui se jettait sur elle.
 
 Ils sont finalement rejoint par Eric, qui après être sorti de son rôle en attaquant violement Drav Walund,
@@ -93,7 +93,7 @@ les tonneaux de poudre que la gang avait prévu de faire exploser pour couvrir l
 Les PJs retrouvent Melvir à la planque, où il devient très vite évident que Ludius risque d'y passer.
 
 Ils montent rapidement un plan pour kidnapper un médecin de la caste des nobles.
-Elvira contacte son amie noble **Roselyn Koellis**, qui accepte de lui donner les renseignements nécessaire:
+Elaria contacte son amie noble **Roselyn Koellis**, qui accepte de lui donner les renseignements nécessaire:
 tous les matins à la même heure, **Stravul Comber**, un chirurgien renommé, prend un téléphérique électrostatique de son domicile
 à l'hôpital où il travaille.
 
@@ -119,7 +119,7 @@ les PJs rejoignent le gang des Crows dans un hangar des docks pour le deal prév
 
 Les PJs semblent les premiers au RDV. Après une demi-heure, toujours pas de trace des Crows, lorsque surgit un de leurs hommes de main. Il les prévient de déguerpir car la milice est en train de faire une raffle dans le quartier.
 
-Le groupe se scinde alors : Melvir et Eric fuient en direction du quartier d'habitation le plus proche, tandis qu'Elvira et Ethnos échappent de peu
+Le groupe se scinde alors : Melvir et Eric fuient en direction du quartier d'habitation le plus proche, tandis qu'Elaria et Ethnos échappent de peu
 à une pluie de balles d'un char de la milice sur les docks, et trouvent leur salut en plongeant dans l'eau.
 De leur côté, Eric et Melvir manquent de peu de tomber sur la milice, et Eric se planque finalement dans les quartiers des domestiques d'une résidence pour la nuit.
 
@@ -130,15 +130,15 @@ Enfin... partiellement.
 
 Laudius, horrifié de ce qu'il est devenu, quite la planque en rage.
 
-Toute aussi désemparée, Elvira, furieuse, élimine brutalement Stravul. C'est à ce moment que Melvir débarque, affolé : il y a une rixe générale à l'auberge de la **Goule Fendue**, sur le territoire du gang du Harpon.
+Toute aussi désemparée, Elaria, furieuse, élimine brutalement Stravul. C'est à ce moment que Melvir débarque, affolé : il y a une rixe générale à l'auberge de la **Goule Fendue**, sur le territoire du gang du Harpon.
 On accuse le combat de lutte d'être truqué, et des membres du gang de l'**Oeil Blanc** seraient en train de saccager l'endroit !
 
-Tandis qu'Elvira part à la poursuite de Ludius, Eric se rend à l'auberge, avec Ethnos qui, très mal en point, se poste avec un fusil sur un toit proche.
+Tandis qu'Elaria part à la poursuite de Ludius, Eric se rend à l'auberge, avec Ethnos qui, très mal en point, se poste avec un fusil sur un toit proche.
 En quelques minutes Eric règle leur compte aux quelques agitateurs. Il affronte également **Marlene**, son ennemi personnel, et un incendie se déclare.
 Ethnos se charge d'abattre les quelques membres du gang de l'Oeil Blanc qui tentent de s'enfuir, en laissant un vivant pour porter son message :
 ici c'est **leur territoire**.
 
-De son côté, Elvira découvre que Ludius s'est réfugié chez **Grell Jayan**, un prêtre vaudou qui pourrait l'aider à maîtriser sa nouvelle nature.
+De son côté, Elaria découvre que Ludius s'est réfugié chez **Grell Jayan**, un prêtre vaudou qui pourrait l'aider à maîtriser sa nouvelle nature.
 
 
 ## Retour d'expérience

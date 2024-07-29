@@ -64,8 +64,22 @@ Les `MERCS4US` étaient composés de ces 4 _Runners_ :
 -->
 
 <style>
-body { background: black; color: white; }
 article img { max-height: 20rem; }
 article iframe { display: block; margin: 1rem auto; }
 article hr { margin: 5rem 10rem; }
+
+/* I hope this won't trigger photosensitive epilepsy... */
+@keyframes bg {
+  0% { background: #091833; }
+  20% { background: #711c91; }
+  40% { background: #ea00d9; }
+  60% { background: #39b39d; } /* blog header color */
+  80% { background: #133e7c; }
+  100% { background: #091833; }
+}
+body {
+  background: #091833;
+  animation: bg 5s linear infinite;
+  color: white;
+}
 </style>

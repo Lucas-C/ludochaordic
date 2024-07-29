@@ -3,7 +3,7 @@ Date: 2023-04-03 17:00
 Tags: lang:en, libre-software, open-source, python, library, release, pdf, fpdf2, prog
 ---
 I wrote my latest [post on `fpdf2`](tag/fpdf2.html) almost a year ago.
-As we just released a new version, [v2.7](https://github.com/PyFPDF/fpdf2/blob/master/CHANGELOG.md),
+As we just released a new version, [v2.7.3](https://github.com/PyFPDF/fpdf2/blob/master/CHANGELOG.md),
 this is the time to mention some recent additions to this library! 😊
 
 This article will present some of the major features introduced between **v2.5.3** & **v2.7.3** of `fpdf2`:
