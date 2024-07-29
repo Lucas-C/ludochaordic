@@ -104,6 +104,11 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Le passé d'Ethnos](pages/jdr-blades-in-the-dark.html#le-pass-d-ethnos)
     * [Exploration de la tour de l'horloge](pages/jdr-blades-in-the-dark.html#exploration-de-la-tour-de-l-horloge)
     * [Le retour de la diva](pages/jdr-blades-in-the-dark.html#le-retour-de-la-diva)
+    * [Arrestation de Lodius](pages/jdr-blades-in-the-dark.html#arrestation-de-lodius)
+    * [Interrogatoire de Lodius](pages/jdr-blades-in-the-dark.html#interrogatoire-de-lodius)
+    * [L'intel des Wraiths](pages/jdr-blades-in-the-dark.html#l-intel-des-wraiths)
+    * [Expédition dans les catacombes](pages/jdr-blades-in-the-dark.html#exp-dition-dans-les-catacombes)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-12)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -1731,6 +1736,8 @@ Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos 
 Une fois de retour à leur planque, le gang prend le temps d'explorer plus en détails la tour qu'ils occupent désormais.
 Notamment, ils explorent le _Sanctum_, découvrent une bibliothèque cachée dans l'ancienne chambre d'Henner, comprennent le fonctionnement de l'Œil du Corbeau, découvrent l'accès secondaire via le toit de la maison attenante, également affecté par l'enchantement d'illusion, et détectent la présence de spectres de pendus dans les échaffaudages à l'extérieur.
 
+L'exploration cause aussi la chute de poutrelles métaliques, qui s'écrase sur des maisons à côté de la tour, en-dehors de l'illusion.
+
 Parmis les autres informations qu'ils récoltent à leur retour, il y a également une rumeur de comète, l'Écharpe Rouge qui invite Eric à participer à un tournoi martial, et un pli de Lord Scurlock mentionnant qu'il attend de leurs nouvelles suite à la mission qu'il a confié au gang...
 
 ### Le retour de la diva
@@ -1842,7 +1849,7 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
 ### Ressources
 
 <figure>
-  <img alt="Duskvol Map" src="images/bitd/reddit-bladesinthedark-16q62sj-duskvol_map.webp">
+  <img alt="Duskvol Map" src="images/bitd/maps/reddit-bladesinthedark-16q62sj-duskvol_map.webp">
   <figcaption>Duskvol Map by <a href="https://www.reddit.com/r/bladesinthedark/comments/16q62sj/duskvol_map/">FamiliarSomeone on r/bladesinthedark</a></figcaption>
 </figure>
 
