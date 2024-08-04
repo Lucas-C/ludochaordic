@@ -102,7 +102,7 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Les croquis de Lodius](pages/jdr-blades-in-the-dark.html#les-croquis-de-lodius)
     * [Intro - Prisonniers du _Ghost Field_](pages/jdr-blades-in-the-dark.html#intro-prisonniers-du-ghost-field)
     * [Le passé d'Ethnos](pages/jdr-blades-in-the-dark.html#le-pass-d-ethnos)
-    * [Exploration de la tour de l'horloge](pages/jdr-blades-in-the-dark.html#exploration-de-la-tour-de-l-horloge)
+    * [Exploration de la tour de l'observatoire](pages/jdr-blades-in-the-dark.html#exploration-de-la-tour-de-l-observatoire)
     * [Le retour de la diva](pages/jdr-blades-in-the-dark.html#le-retour-de-la-diva)
     * [Arrestation de Lodius](pages/jdr-blades-in-the-dark.html#arrestation-de-lodius)
     * [Interrogatoire de Lodius](pages/jdr-blades-in-the-dark.html#interrogatoire-de-lodius)
@@ -150,7 +150,7 @@ _→ **3/3** ok_
 mais Elaria refuse tout en bloc : pas question de remplacer leur _leader_, il faut le sauver !
 - le gang s'organise pour se venger du gang de l'Œil Blanc : ils décident tout d'abord de balancer aux _Bluecoats_,
 via leur contact **Conway**, leur bordel installé dans un poste de garde de la milice
-- Eleria rend visite à **Grell Jayan**, où elle peut enfin avoir une entrevue avec Lodius, en piteux état
+- Elaria rend visite à **Grell Jayan**, où elle peut enfin avoir une entrevue avec Lodius, en piteux état
 - le gang des PJs organise une descente dans un point de revente de drogue de l'Œil Blanc, au sous-sol d'un hôtel.
 Tout se passe très bien et ils éliminent un des lieutenants de leur gang: **Pickett**
 - nouvelle visite à Jayan, où les PJs établissent un deal : contre l'autorisation de faire une copie du _logbook_,
@@ -320,7 +320,7 @@ tandis qu'au niveau le plus bas de sa demeure, accessible en bateau, Eric décou
 Elle élimine le tatoueur qui tentait de s'enfuir, et alors que son corps tombe à l'eau avec le tonnelet de sang de Léviathan ouvert,
 **le fantôme de Roric** surgit de l'eau bouillonnante en hurlant "Vengeance !"
 - repoussé par une amulette de Lyssa, il s'élève à l'étage, où Grell tente de le contrôler.
-Ethnos lui tire finalement dessus avec ses munitions ectoplasmiques.
+Ethnos lui tire finalement dessus avec ses munitions électroplasmiques.
 Blessé, en partie exorcisé, le fantôme se jette sur Ethnos et Lodius tout proche, dans lesquels il disparaît.
 - Ethnos ne peut plus ouvrir ses mains, agrippées à Lodius, alors que le tatouage semble migrer en rampant sur leur peau de l'un à l'autre.
 Puis tout bascule, et leur conscience change de corps !
@@ -342,7 +342,7 @@ mais aussi Grell Jayan blessé au ventre et le corps inanimé d'Ethnos
 et est pris à partie par Elaria, sous les yeux éberlués d'Aldo, pour qu'il lui explique ce qu'il se passe.
 Elle finit par sortir, furieuse, en claquant la porte.
 
-- pendant la nuit, Eric s'entraine et place des alarmes autour de leur repaire ;
+- pendant la nuit, Eric s’entraîne et place des alarmes autour de leur repaire ;
 Ethnos étudie des grimoires dans le bureau--bibliothèque de Lodius pour trouver un moyen de retrouver son corps ;
 Elaria dépouille **Toni les deux saucisses**, un boucher de Beef Market, de sa recette hebdomadaire, avec l'aide d'une mendiante qui l'a mise sur le coup
 
@@ -373,7 +373,7 @@ le lendemain, mais elle pose déjà comme condition que Bell donne son accord.
   <figcaption>Le dojo de l'Écharpe Rouge</figcaption>
 </figure>
 
-- de son côté Eric observe d'abord le lupanar depuis le bar d'en face, puis retrouve une prostituée qu'il connait
+- de son côté Eric observe d'abord le lupanar depuis le bar d'en face, puis retrouve une prostituée qu'il connaît
 et décide de s'adonner à son vice en allant y passer du bon temps avec elle...
 pour finalement se faire chasser par les videurs car il gêne les autres clients en faisant trop de bruit !
 
@@ -384,7 +384,7 @@ Il finit par s'énerver quand les PJs évoquent l'idée de partager le territoir
 ![La tour de l'horloge des Crows](images/bitd/places/clocktower/Thief-GarettHideout-NicolasFerrand-on-ArtStation-oxWO.jpg)
 
 - pour finir la journée, les PJs décident de profiter des repérages d'Eric et d'organiser une opération le soir même sur le lupanar de Lyssa.
-Eric profite de la complicité de la fille de joie qu'il connait pour y introduire Elaria cachée dans un tonneau.
+Eric profite de la complicité de la fille de joie qu'il connaît pour y introduire Elaria cachée dans un tonneau.
 Il provoque ensuite les gardes et les attire dans une ruelle où il les élimine rapidement avec l'aide d'Aldo et Melvir.
 L'opération est une réussite totale, avec plus d'une dizaines d'hommes de Lyssa éliminés, et Ethnos-Lodius faisant une entrée fracassante
 au milieu du bordel avec ses deux hachettes.
@@ -421,7 +421,7 @@ mené par **Darmot** a débarqué devant leur planque !
 Eric & Ethnos-Lodius vont à sa rencontre pour parlementer, tandis qu'Elaria ronge son frein,
 trépignant de trancher la gorge à Darmot... Celui-ci révèle avoir des témoins pouvant incriminer les PJs
 pour leur opération « coup de poing » de la veille, et souhaite visiblement se faire graisser la patte pour
-les laisser tranquille... Les PJs acceptent à contre-coeur, et enveront plus tard Melvir lui remettre un « cadeau ».
+les laisser tranquille... Les PJs acceptent à contre-cœur, et enverront plus tard Melvir lui remettre un « cadeau ».
 
 - les PJs décident d'organiser une nouvelle expédition punitive contre l'Œil Blanc,
 et se répartissent pour collecter des informations. Ils identifient une cible potentielle :
@@ -430,7 +430,7 @@ Tandis qu'Eric s'infiltre sur les plate-bandes de l'Œil Blanc, il est repéré 
 et doit faire preuve d'un peu de violence et d'intimidation pour s'éclipser.
 
 - ayant eu vent du climat tendu qui s'installe sur l'ancien territoire de Lyssa,
-et connaissant les véléités des trois clans adjacents,
+et connaissant les velléités des trois clans adjacents,
 les PJs décident d'organiser **une rencontre entre leur gang, celui des Crows et celui de l'Écharpe Rouge**.
 Ils envoient un messager à ce dernier, fixant un RDV **à minuit le soir même au casino _Golden Feather_**,
 puis décident d'aller en discuter en personne avec Bell.
@@ -440,7 +440,7 @@ au milieu de l'ancien terrain de chasse de Lyssa, visiblement en train d'organis
 tactiques pour assurer le maintien de l'emprise des Crows sur les lieux.
 Une petite négociation s'ensuit, où **Bell refuse catégoriquement de céder du territoire Crows**,
 et est visiblement prêt à se battre pour le défendre, mais annonce être prêt à former une alliance contre le gang de l'Œil Blanc.
-<!-- Note: Bell a même dit accépter de laisser sa part du territoire Œil Blanc au Harpon -->
+<!-- Note: Bell a même dit accepter de laisser sa part du territoire Œil Blanc au Harpon -->
 
 - l'information leur étant parvenu qu'on cherchait à recruter leurs services à la Goule Fendue,
 les PJs s'y rendent pour rencontrer un petit groupe de **Silver Nails**, un gang d'anciens légionnaires chasseurs de démons,
@@ -462,12 +462,12 @@ Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une op
   </figure>
 </div>
 
-- les PJs enchainent avec la rencontre au sommet au _Golden Feather_.
+- les PJs enchaînent avec la rencontre au sommet au _Golden Feather_.
 En bref, tout se déroule sans encombre. **Une alliance est conclue contre le gang de l'Œil Blanc, pour l'éradiquer**.
 **Mylera** annonce qu'elle négociera avec les Gondoliers pour organiser un blocus d'approvisionnement de drogue ;
 Bell compte leur mettre la pression en sollicitant les Bluecoats et en organisant des frappes tactiques ;
-le gang du Harpon quand à lui annonce qu'il passera à l'action cette nuit même, puis qu'il organisera une campagne de décridibilisation.
-Les PJs recoivent même un cadeau de la part du gang de l'Écharpe Rouge : un coffret garni d'épices, d'étoffes précieuses,
+le gang du Harpon quand à lui annonce qu'il passera à l'action cette nuit même, puis qu'il organisera une campagne de décrédibilisation.
+Les PJs reçoivent même un cadeau de la part du gang de l'Écharpe Rouge : un coffret garni d'épices, d'étoffes précieuses,
 de parfum et de pierres précieuses.
 
 <div class="side-by-side" role="group">
@@ -725,16 +725,16 @@ La partie débute par le rapport de l'espion **Valeris**, qui apprend au gang du
 
 - le penchant pour **Baszos Baz pour le culte d'anciens dieux** et ses arrangements avec **l'ordre du Cercle de la Flamme**;
 - le matériel dont ils disposent : bombes incendiaires, fourgonnette, armes à arc électrique...
-- leurs troupes : une trentaine de _thugs_, dont une grande part de mercennaires, une escouade d'experts en infiltration,
+- leurs troupes : une trentaine de _thugs_, dont une grande part de mercenaires, une escouade d'experts en infiltration,
   **Les Cendreux**, et 2 lieutenants versés dans les arcanes
 - l'état de leurs opérations : _business_ en berne depuis les offensives du Harpon, distillerie de drogue dans leur QG
-  et bordels en cours de réapprovisonnement via le réseau de prostitution iruvien
+  et bordels en cours de réapprovisionnement via le réseau de prostitution iruvien
 
 Le Harpon paye son dû à l'espion, qui leur est reconnaissant et leur glisse en partant :
 
 > Si vous voulez mon humble avis, en ayant choisi de placer leur QG dans cet entrepôt de charbon, ils ont pris un sérieux risque d'incendie... 😉
 
-Ellipse et transition directe au coeur de l'action, alors que **le gang au complet se dresse au milieu des flammes de l'incendie
+Ellipse et transition directe au cœur de l'action, alors que **le gang au complet se dresse au milieu des flammes de l'incendie
 qui ravage l'entrepôt de charbon servant de QG à l'Œil Blanc**...
 
 Un assaut rondement mené se déroule alors : Eric pulvérise un première poche de résistance qui s'était formée
@@ -763,7 +763,7 @@ et du territoire de l'Œil Blanc.
 
 Cette annihilation de l'Œil Blanc vaut au gang du Harpon une telle hausse de leur réputation qu'**ils entrent véritablement dans
 « la cour des grands »**, devenant un gang majeur de Doskvol !
-Ils deviennent également une préoccupation plus sérieuse pour la milice, qui les a de plus en plus dans le colimateur...
+Ils deviennent également une préoccupation plus sérieuse pour la milice, qui les a de plus en plus dans le collimateur...
 
 Le lendemain matin, le gang entreprend donc d'essayer de rassurer la populace en faisant circuler quelques rumeurs en leur faveur,
 puis de recruter des hommes : **Josef Tucker** tout d'abord, un _whisper_ versé dans les illusions,
@@ -774,13 +774,13 @@ de l'Écharpe Rouge, mais Justinia manque au rendez-vous... Sur place, ils retro
 Les négociations se déroulent sans accroc :
 l'Écharpe Rouge récupère le territoire sud, les artefacts magiques que possédait Baszos et le _business_ de la prostitution;
 les Crows conservent leur territoire et récupèrent la moitié du magot et tous les hommes restant de l'Œil Blanc qu'ils souhaitent;
-le Harpon récupère les territoires Ouest (Limmerfield, Miser's Row, Saltridge) et l'autre moitié du magot.
+le Harpon récupère les territoires Ouest (Limmerfield, Misery's Row, Saltridge) et l'autre moitié du magot.
 Quand au _business_ de la drogue, il est décidé que l'Écharpe Rouge en reprendrait la production et les Crows la distribution
 dans les les lieux qui étaient tenus par l'Œil Blanc, avec des profits qui seraient partagés pendant un an entre les 3 gangs.
 
 Juste après cette rencontre, le gang apprend que **Justinia a été arrêtée par les BlueCoats**.
 En se renseignant un peu, ils découvrent que **Conway** l'a balancé à la milice en révélant ses liens avec le Harpon
-et ses suspicions que le gang auquelle elle appartient serait responsable de l'incendie de la nuit précédente.
+et ses suspicions que le gang auquel elle appartient serait responsable de l'incendie de la nuit précédente.
 Elaria envoie une des nouvelles recrues tagger la porte des WCs de Conway d'un message d'avertissement menaçant,
 et tout le gang s'en va pavaner dans les territoires nouvellement acquis pour marquer leur présence.
 
@@ -805,9 +805,9 @@ d'acquérir des artefacts entrés en possession du gang à un prix des plus all�
 - comme cette partie s'est déroulé via _Discord_, les fiches des personnages et du gang ont migré sur [rpg-bonhomme](https://chezsoi.org/lucas/jdr/rpg-bonhomme/)
 - en début de partie, j'ai demandé au joueurs d'inventer chacun un objet magique, sans préciser son apparence.
 L'idée étant que j'allais ensuite déterminer celle-ci secrètement, et introduire ces objets durant la partie,
-sans qu'ils ne sachent à quoi ils resemblent ! Voici ce que les joueurs ont choisi :
+sans qu'ils ne sachent à quoi ils ressemblent ! Voici ce que les joueurs ont choisi :
     * un objet permettant à un groupe de personnes de "s'occulter" temporairement et devenir invisible aux yeux de tous
-    * un objet émettant une lueur fantômatique, qui permet de localiser les fissures du voile fantôme et la nature de ce qui en transpire
+    * un objet émettant une lueur fantomatique, qui permet de localiser les fissures du voile fantôme et la nature de ce qui en transpire
     * un objet permettant, telle une baguette de sourcier macabre, de trouver où sont les morts à proximité
 
 
@@ -851,29 +851,29 @@ Eric fait alors s'écrouler un échafaudage proche.
 Après s'être débarrassé du _Bluecoat_ fermant la marche du convoi en le poussant dans les égouts,
 Elaria, Ethnos-Lodius & Justinia s'apprêtent à s'y glisser à leur tour pour fuir les lieux,
 quand un homme surgit de la foule, s'exclame être l'**inspecteur Boden** et descend un des hommes du Harpon !
-Un tir réflexe d'Ethnos-Lodius de flèchette hypodermique l'immobilise heureusement, et le gang s'enfuit.
+Un tir réflexe d'Ethnos-Lodius de fléchette hypodermique l'immobilise heureusement, et le gang s'enfuit.
 
 Dans l'après-midi, Ethnos-Lodius se rend au **manoir Scurlock**, suite à l'invitation qu'il a reçu.
-L'échange est bref et courtois. Ethnos-Lodius y glanne quelques informations et la promesse d'une embauche
+L'échange est bref et courtois. Ethnos-Lodius y glane quelques informations et la promesse d'une embauche
 des services du gang dans un futur proche.
 
-Dans la journée, le gang s'attèle à faire descendre la tension qui monte,
+Dans la journée, le gang s’attelle à faire descendre la tension qui monte,
 et la dangereuse attention qu'on leur porte suite à leurs derniers exploits...
 Le mot circule que les territoires nouvellement acquis par le Harpon sont "bien plus sûrs qu'avant",
-des truands indépendants mineurs sont arrêtés et remis aux athorités...
+des truands indépendants mineurs sont arrêtés et remis aux autorités...
 et une descente est faite dans un poste de Bluecoats, pour l'attribuer ensuite à l'ordre du Cercle de la Flamme !
 
 Une partie du gang se renseigne également sur l'inspecteur Boden :
 Valeris est embauché pour découvrir où il habite, et Elaria se rend à la rencontre d'**Ulf Ironborn**,
 un réfugié Skov et nouveau truand se faisant petit à petit une place sur les Docks.
 L'inspecteur Boden, d'origine severosi, a en effet exercé à Lockport en Skovlan avant d'être muté à Doskvol.
-Incorruptible et tenace, de nombreux Slov le haïssent pour avoir mis sous les verous un grand nombre d'indépendantistes.
+Incorruptible et tenace, de nombreux Slov le haïssent pour avoir mis sous les verrous un grand nombre d'indépendantistes.
 
 Le gang prend également le temps de régler son compte au traître **Conway** :
 il est piégé par Justinia dans une ruelle, puis questionné et torturé dans les caves de la Goule Fendue.
 Le gang au complet consacre alors la soirée à célébrer les récents succès à l'auberge.
 
-Eric s'attele à explorer les égoûts afin de trouver le lieu idéal pour établir une planque secondaire pour le gang.
+Eric s’attelle à explorer les égouts afin de trouver le lieu idéal pour établir une planque secondaire pour le gang.
 Il jette son dévolu sur une citerne vide située juste sous un poste de _Bluecoats_, et commence à creuser la paroi pour y créer une ouverture.
 
 Au lever du jour, **Mylera Klev** de l'Écharpe rouge vient en personne au galion solliciter l'aide des PJs :
@@ -882,11 +882,11 @@ et une mesure de justice expéditive est en cours pour l'envoyer à **IronHook**
 Il faut faire taire le témoin, un journaliste du nom de **Fridrik Nash**,
 et faire disparaître les preuves, à savoir le sabre d'Oru tâché de sang.
 
-Eric décide de prendre en charge la question du témoin génant, et se rench à Charhollow
+Eric décide de prendre en charge la question du témoin gênant, et se rend à Charhollow
 dans les bureaux du _Weekly Raven_ dont Nash à le principal _reporter_ et éditeur en chef.
 Sur place, il tente sans succès d'isoler Nash et finit pour lui donner une poignée de main "électrique" pour le mettre KO.
 Malheureusement, l'empressement de ses camarades à lui porter secours empêche Eric de l'évacuer hors du bâtiment,
-et il se rédoud à **lui briser la nuque devant plusieurs témoins** !
+et il se résout à **lui briser la nuque devant plusieurs témoins** !
 La situation dégénère et une foule en furie s'en prend à Eric, qui réussit _in-extermis_ à accéder à la rue
 et à s'enfuir par une bouche d'égouts où un homme l'attendait, avant que la bande des _The Lost_ ne lui tombe dessus.
 
@@ -899,7 +899,7 @@ Elaria se fait poursuivre par des _Bluecoats_ jusqu'au tribunal, où elle échap
 puis se fait poursuivre à travers tout le quartier avant d'échapper par les toits.
 Ethnos-Lodius prend alors le relai, et se rend au bureau de la juge où il prend la place du commis pour la livraison,
 et met KO son garde du corps grâce à la potion qu'il a confectionné.
-Néanmoins les choses tournent mal lorsqu'il savère que la demeure est protégée par un démon
+Néanmoins les choses tournent mal lorsqu'il s'avère que la demeure est protégée par un démon
 et qu'Elstera Avrathi est une membre du Cercle de la Flamme !
 La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arraché et jeté au loin le collier porté par la magistrate.
 
@@ -930,20 +930,20 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
 _Cette intro s'est révélée être un flash forward, durant laquelle j'ai distribué aux joueurs au fur et à mesure
 quelques messages indiquant ce que devaient dire ou faire leurs personnages, correspondant aux citations ci-dessous._
 
-Elaria, Eric et Lodius sont emprisonnés à IronHook, enchaînés deux par deux avec un 4<sup>e</sup> laron, **Mist**,
+Elaria, Eric et Lodius sont emprisonnés à IronHook, enchaînés deux par deux avec un 4<sup>e</sup> larron, **Mist**,
 qu'ils savent être membre du gang (même si les joueurs ne l'ont jamais encore côtoyé).
 Ils sont réveillés par des tirs de canon. Dans le ciel, il ne reste qu'UN FRAGMENT DE SOLEIL !
-À l'extérieur, ils peuvent appercevoir la falaise, et au loin une terrible bataille navale n'incluant pas que des bateaux...
+À l'extérieur, ils peuvent apercevoir la falaise, et au loin une terrible bataille navale n'incluant pas que des bateaux...
 
 > (Eric) « L'armée de l'Empereur affronte la flotte de Rosces et ses léviathans... »
 
-Un garde rentre dans la cellule, et il s'avère qu'il s'agit de **Josef** grimmé avec une illusion, venu les délivrer.
+Un garde rentre dans la cellule, et il s'avère qu'il s'agit de **Josef** grimé avec une illusion, venu les délivrer.
 Des tirs de boulets de canon commencent à démolir le bâtiment.
 ([bande son @YouTube](https://www.youtube.com/watch?v=987shv-gJrc))
 
 Dans la prison, une foule frénétique monte les étages dans leur direction.
 Ils sauvent in extremis **Aldo** qui leur ramène leur matériel.
-Josef leur apprend que Justinia les attend avec une barque en bas de la falaise, au niveau d'une entrée d'égoût.
+Josef leur apprend que Justinia les attend avec une barque en bas de la falaise, au niveau d'une entrée d’égout.
 Mais comment la rejoindre avec cette horde possédée qui remonte vers eux ?!
 
 > (Mist) « PLUS LE CHOIX, IL FAUT Y ALLER ! »
@@ -969,7 +969,7 @@ Puis il se dirige en courant vers la Goule Fendue, en flammes, suivi par le gang
 > (Elaria) « Ils en ont après TOI Ethnos ! »
 
 Les _booby-traps_ autour du galion ralentissent la horde de mort-vivants,
-mais Aldo est néanmoins dévorrés vivant sous leurs yeux.
+mais Aldo est néanmoins dévoré vivant sous leurs yeux.
 
 > (Eric) « Écartez-vous, je vais les retenir ! »
 
@@ -977,20 +977,20 @@ Il s'injecte alors un sérum de physicker dans le bras, et se transforme partiel
 
 ![](images/bitd/NPCs/KingShark.jpg)
 
-Armé de son marteau qu'il fait tournoyer, il fait un ravage parmis les mort-vivants.
-Malheusement, Justinia meurt dans l'effondrement d'un bâtiment en flammes.
+Armé de son marteau qu'il fait tournoyer, il fait un ravage parmi les mort-vivants.
+Malheureusement, Justinia meurt dans l'effondrement d'un bâtiment en flammes.
 ([bande son @YouTube](https://www.youtube.com/watch?v=3FrXSJ5AS8I))
 
 ![](images/bitd/Doskvol-in-flames.jpg)
 
 Le gang traverse l'incendie, alors que le quartier est en feu : [clip issu de Thief 4](https://youtu.be/cHF-jZfe1G0?t=3536).
 
-**Valeris** aparaît alors pour leur porter secours, et les conduit à travers plusieurs courte-portes.
+**Valeris** apparaît alors pour leur porter secours, et les conduit à travers plusieurs courte-portes.
 En passant sur une terrasse dans les hauts quartiers,
-ils voient une énorme brêche dans le Ghost Field, le mur electrostatique qui entoure la ville !
+ils voient une énorme brèche dans le Ghost Field, le mur électrostatique qui entoure la ville !
 Alors qu'ils s'apprêtent à rejoindre Bell, Oru & Milos sur une terrasse,
 Des templiers en toge blanche avec l'insigne du Cercle de la Flamme saisissent Ethnos au passage de la dernière porte, l'isolant ainsi.
-Eric réagit en premier, et détruit d'un coup de marteau la porte, empêchant malheureusement le gang de porter assitance à son chef.
+Eric réagit en premier, et détruit d'un coup de marteau la porte, empêchant malheureusement le gang de porter assistance à son chef.
 Ils l'aperçoivent sur un toit, au loin dans la ville, se battre contre ses assaillants et invoquer une horde de rats.
 
 > (Ethnos) « Jamais le Harpon ne se rendra ! »
@@ -1001,17 +1001,17 @@ Le gang s'introduit par les toits dans la toiture de l'église, où ils observen
 Lodius est attaché à un autel pour participer à un rituel du Cercle de la Flamme. Le logbook trône sur un pupitre.
 ([bande son @YouTube](https://www.youtube.com/watch?v=QdIYVXCfrQM))
 
-Lodius reconnait Lord Scurlock parmi les cultistes. Soudain, le démon **Argaz** apparaît !
+Lodius reconnaît Lord Scurlock parmi les cultistes. Soudain, le démon **Argaz** apparaît !
 Mist, Eric & Elaria arrivent à le vaincre, en lui plongeant sa propre dague dans le dos,
 mais ils ne peuvent empêcher le rituel d'avoir lieu
-et le mur du fond de l'Eglise explose, révêlant se qui ressemble à l'enfer...
+et le mur du fond de l’église explose, révélant se qui ressemble à l'enfer...
 
 > (Elaria) « C'est la fin Mist, active la croix, sauves-toi, empêches ceci de se produire ! »
 
 ### Session de jeu
 
 Mist est propulsé en arrière dans le temps jusqu'à MAINTENANT,
-et atterit dans le galion au milieu du gang en réunion.
+et atterrit dans le galion au milieu du gang en réunion.
 Il leur explique d'où il vient, et ils finissent par accepter de le croire pour le moment.
 
 Mist explique également qu'ils doivent rapidement éliminer un étudiant de l'académie
@@ -1025,7 +1025,7 @@ tandis qu'Elaria & Lodius rendent visite à Mylera pour lui expliquer qu'ils n'o
 et que le Harpon se propose de l'exfiltrer durant son trajet à IronHook le lendemain.
 
 Le gang passe la nuit à peaufiner un plan... Pour finalement improviser sur place le moment venu !
-Ils suivent le convoi transportant Oru au départ de la caserne, constitué d'un **Échassier**, d'une fourgonette blindée
+Ils suivent le convoi transportant Oru au départ de la caserne, constitué d'un **Échassier**, d'une fourgonnette blindée
 et d'une vingtaine d'hommes, mené par **Darmot**.
 
 Juste avant d'arriver au pont, Eric tend un filin qu'il a camouflé là pour faire chuter l'Échassier,
@@ -1208,8 +1208,8 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
   <figcaption>Source: <a href="https://openart.ai/discovery/sd-1005905399179903167">openart.ai</a></figcaption>
 </figure>
 
-Une fois la nuit tombée, de concert chacun de son côté, les membres du gang interrompent leurs activités pour se diriger vers le quartier de Barrowcleft. Ils sont tous au complet avant d'avoir atteint le _Barrow bridge_, après la traversée duquel le groupe longe la falaise côtière vers la silhouette élancée d'un château d'eau. Au pied de ce bâtiment et de la côte, ils atteignent un large promontoire où l'on peut distinguer une ouverture dans la paroi du château d'eau, révélant un gigantesque puit, sans fond visible...
-Sur place, plusieurs dizaines de membres du _Path of Echoes_ les attendent, en tenue de cérémonie. **Lodius** est convié à y participer en s'allongeant sur un autel de bois. Durant le rituel, des dizaines de spectres apparaissent du puit, et des meutes de rats traversent la foule pour faire cercle autour de l'autel de Lodius. **Josef** est lui attiré par le _Spirit Well_, comme hypnotisé, et manque d'y tomber.
+Une fois la nuit tombée, de concert chacun de son côté, les membres du gang interrompent leurs activités pour se diriger vers le quartier de Barrowcleft. Ils sont tous au complet avant d'avoir atteint le _Barrow bridge_, après la traversée duquel le groupe longe la falaise côtière vers la silhouette élancée d'un château d'eau. Au pied de ce bâtiment et de la côte, ils atteignent un large promontoire où l'on peut distinguer une ouverture dans la paroi du château d'eau, révélant un gigantesque puits, sans fond visible...
+Sur place, plusieurs dizaines de membres du _Path of Echoes_ les attendent, en tenue de cérémonie. **Lodius** est convié à y participer en s'allongeant sur un autel de bois. Durant le rituel, des dizaines de spectres apparaissent du puits, et des meutes de rats traversent la foule pour faire cercle autour de l'autel de Lodius. **Josef** est lui attiré par le _Spirit Well_, comme hypnotisé, et manque d'y tomber.
 Finalement, le rituel touche à sa fin, ces phénomènes s'estompent, et tout le monde se disperse.
 
 Tandis qu'**Elaria** s'en va faire un tour à Coalridge, le gang se retrouve chez Gruber et Fils pour faire le point. Leur planque dans les égouts est temporairement envahie de fumée suite à un incident lors de la confection de fumigènes. **Mist** est lui occupé à mener des recherches dans les archives de l'Université des Études Éternelles.
@@ -1260,7 +1260,8 @@ Lodius, à sa suite, emploie son grappin pour également rejoindre l'autre secti
 Tandis que Bell rejoint la locomotive arrière qui commence à freiner dans une pluie d'étincelles, les deux hommes du Harpon remontent le train wagon après wagon, réglant leur compte aux Crows qui s'opposent à eux, et faisant en chemin la tragique découverte de membres de leur gang traîtreusement assassinés... D'autres créatures volantes en profitent pour se saisir et emmener des cadavres.
 Ils finissent par atteindre la loco, et font face à Bell dans un affrontement final où Eric broie métal, chairs & os. Empoisonné par la lame de Lodius, Bell finit par mettre fin à ses jours.
 
-Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se rendre, finissent de prendre le contrôle du train, et grâce à Josef qui manœuvre habilement la locomotive de tête, ils réussissent à attacher de nouveau l'ensemble des wagons.Après une courte hésitation où ils envisagent d'abandonner tous les passages dans les _deathlands_, le gang décide de diriger le train vers Doskvol. Ils sont suivis dans les airs par une gigantesque nuée de silhouettes rapaces...
+Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se rendre, finissent de prendre le contrôle du train, et grâce à Josef qui manœuvre habilement la locomotive de tête, ils réussissent à attacher de nouveau l'ensemble des wagons.
+Après une courte hésitation où ils envisagent d'abandonner tous les passagers dans les _deathlands_, le gang décide de diriger le train vers Doskvol. Ils sont suivis dans les airs par une gigantesque nuée de silhouettes rapaces...
 Une fois la barrière électroplasmique de la ville franchie, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
 
 <figure role="group">
@@ -1328,7 +1329,7 @@ et **Mal**, un ami militant syndical et partisan de l'action insurrectionnelle.
 À la surprise d'Elaria, le corps de Sten n'a pas été brûlé, et git à l'étage sur une table,
 le visage visible et le reste du corps sous un drap, la silhouette terriblement déformée par les machines de l'usine... L'accident mortel a eu lieu dans une fabrique surnommée le _Piège à Loup_ par les ouvriers.
 
-Tandis que Primm lance des coûteaux sur une cible dans le jardin,
+Tandis que Primm lance des couteaux sur une cible dans le jardin,
 et que Mal sème les graines de la révolte dans l'assemblée,
 Quill fait reproche à Elaria d'être partie et de les avoir abandonné...
 
@@ -1353,8 +1354,8 @@ Elaria décide de mettre son réseau criminel à contribution pour organiser des
 Dans la foule, elle croit un instant distinguer son père, décédé il y a des années dans lors d'une manifestation ouvrière...
 
 Quelques heures plus tard, à l'aube, Elaria revient à Coalridge, et à nouveau tous les personnages
-convergent en un même lieu : l'usine du _Piège à Loup_. Lawler, attaché sur une charette,
-vient d'être transporté à travers le quartier jusqu'ici, sous les crachets et les jets de pierre de la foule.
+convergent en un même lieu : l'usine du _Piège à Loup_. Lawler, attaché sur une charrette,
+vient d'être transporté à travers le quartier jusqu'ici, sous les crachats et les jets de pierre de la foule.
 Il est amené devant l'endroit où Sten a perdu la vie : une ouverture donnant accès aux rouages et pistons du cœur mécanique de la fabrique, brûlant, grondant et tournant à toute vitesse...
 Face à la foule, Quinn prononce quelques mots pour condamner Lawler, puis Elaria le précipite dans la machine,
 où il est broyé de la plus atroce manière.
@@ -1372,10 +1373,11 @@ Déterminée à trouver un moyen de les aider dans leur action, Elaria s'en reto
 Chez Gruber & Fils, Elaria expose à ses camarades du Harpon ce qu'il se passe à Coalridge.
 Le gang décide d'intervenir collectivement, par soutien pour Elaria et car cela pourrait être une occasion pour eux de développer leur activité dans un nouveau quartier...
 
-Sans prévenir, Mist décide alors d'invoquer un démon de sable,
+Sans prévenir, Mist décide alors d'invoquer un démon de sable, Ermgast,
 à qui il confie la mission d'aller capturer **Lucretius Dream**,
 le riche patron de l'usine du _Piège à Loup_, et de l'amener là-bas.
-Le démon réclame en échange 3 perles d'eau, des pierres précieuses rares.Une fois le contrat établit, il disparaît en un filet de sable à travers le plancher.
+Le démon réclame en échange 3 perles d'eau, des pierres précieuses rares.
+Une fois le contrat établit, il disparaît en un filet de sable à travers le plancher.
 
 Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour de l'Horloge, préoccupé par le spectre de Bell qui le hante, et par le _logbook_ qui a disparu de la planque où il l'avait personnellement caché...
 
@@ -1384,7 +1386,7 @@ Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour 
 <figure class="side-by-side" role="group">
   <img loading="lazy" alt="Sand demon" src="images/bitd/NPCs/SandDemon.png">
   <img loading="lazy" alt="Bluecoat CRS" src="images/bitd/NPCs/Bluecoats-CRS.jpg">
-  <figcaption>Emgast, démon de sable &amp; CRS Bluecoat - Source : <a href="https://www.artstation.com/artwork/qAQaqN" target="_blank">costume illustration for Robin Hood Origins by Andrei Riabovitchev</a></figcaption>
+  <figcaption>Ermgast, démon de sable &amp; CRS Bluecoat - Source : <a href="https://www.artstation.com/artwork/qAQaqN" target="_blank">costume illustration for Robin Hood Origins by Andrei Riabovitchev</a></figcaption>
 </figure>
 
 <figure class="side-by-side" role="group">
@@ -1431,7 +1433,8 @@ Cette opération de sauvetage se conclut finalement par une fuite du gang hors d
 > On pourrait en faire le Cercle des Cinq.<br>
 > - Elaria à propos d'Elstera Avrathi
 
-De son côté, à la tour de l'horloge, Lodius a découvert une pièce secrète avec une petite bibliothèque, où il retrouve le _logbook_, des livres archivant l'histoire des _Crows_ et une paire de gants de Bell.Le fantôme qui le hante devient de plus en plus présent, menaçant même de lui faire sauter la cervelle.
+De son côté, à la tour de l'horloge, Lodius a découvert une pièce secrète avec une petite bibliothèque, où il retrouve le _logbook_, des livres archivant l'histoire des _Crows_ et une paire de gants de Bell.
+Le fantôme qui le hante devient de plus en plus présent, menaçant même de lui faire sauter la cervelle.
 Un rituel d'exorcisme est donc organisé par le gang pour libérer Lodius du spectre de Bell.
 
 Le rituel est mené par Josef accompagné de Mist, à la tour de l'horloge,
@@ -1519,7 +1522,7 @@ Sur la charrette, un homme du Harpon se bat avec un assaillant, et quelques cava
 
 Tandis qu'Eric, Mist et Lodius se chargent d'éteindre l'incendie, en faisant léviter une cuve d'eau, Josef & Elaria réussissent à capturer deux des assaillants, alors que l'un d'eux traçait un emblème d'**Œil Blanc** sur un mur.
 
-Une missive est alors envoyée à l'Echarpe Rouge pour les prévenir du retour de ce gang,
+Une missive est alors envoyée à l’Écharpe Rouge pour les prévenir du retour de ce gang,
 puis les deux prisonniers sont interrogés de manière musclée dans les sous-sols de l’entrepôt.
 L'emploi d'une drogue permet finalement au Harpon d'apprendre qu'il s'agit de **Cendreux**, obéissant à **Henner**, un ancien lieutenant de l'Œil Blanc, et que leur QG est une tour.
 
@@ -1532,7 +1535,7 @@ De retour à Gruber & Fils, le Harpon découvre, placardé sur la grille, un avi
 ### The Torment
 
 Le Harpon se concentre ensuite sur le job qui leur a été confié par Lord Scurlock :
-retrouver **The Torment**, un navire Skolander disparu depuis quelques jours,
+retrouver **The Torment**, un navire Skovlander disparu depuis quelques jours,
 et sa précieuse cargaison : un coffre contenant des jarres de pierre.
 Le gang se renseigne alors sur les docks à ce propos, et apprend que le gang des **Grinders**
 pourrait très probablement être responsable de cette disparition.
@@ -1586,7 +1589,7 @@ Dans la matinée, la **loi martiale est déclarée à Crow's Foot** : le Harpon 
 
 Le Harpon décide alors, par prudence, de déménager leur planque chez Gruber & Fils vers leur autre cache dans les égouts.
 
-Avant de quitter l'entrepôt, Mist invoque **Vassock** dans les sous-sols : il demande au démon invisible d'assassiner Boden. Celui-ci réclame en échange deux âmes humaines, <u>consentantes</u>. Mist s'atèle alors à torturer l'un des deux prisonniers afin qu'ils craquent et acceptent de donner leur âme au démon, mais les autres membres du Harpon débarquent et découvrent cette scène d'horreur, sanglante. Une altercation verbale s'ensuit alors entre les membres du gang. M. Gruber père débarque sur ces entrefaits, et le gang en profite pour le terroriser et lui intimer l'ordre de ne pas dire un mot sur eux aux _Bluecoats_.
+Avant de quitter l'entrepôt, Mist invoque **Vassock** dans les sous-sols : il demande au démon invisible d'assassiner Boden. Celui-ci réclame en échange deux âmes humaines, <u>consentantes</u>. Mist s'atèle alors à torturer l'un des deux prisonniers afin qu'ils craquent et acceptent de donner leur âme au démon, mais les autres membres du Harpon débarquent et découvrent cette scène d'horreur, sanglante. Une altercation verbale s'ensuit alors entre les membres du gang. M. Gruber père débarque alors, et le gang en profite pour le terroriser et lui intimer l'ordre de ne pas dire un mot sur eux aux _Bluecoats_.
 
 ### Assaut de la Tour de l'Observatoire
 
@@ -1682,7 +1685,7 @@ Illustrations réalisés par <a href="https://illutensei.com" target="_blank">El
 Eric, Lodius, Josef & Mist reprennent leurs esprits dans un épais brouillard,
 dans un lieu qui ressemble à des tunnels d'égouts, sans aucun souvenir de ce qui les a mené ici...
 
-Des créatures fantomatiques rôdent, un croassement de corbeau résonne, de l'eau ruisselle à l'envers et la lumière d'un phare lointain balait les lieux à intervalle régulier.
+Des créatures fantomatiques rôdent, un croassement de corbeau résonne, de l'eau ruisselle à l'envers et la lumière d'un phare lointain balaie les lieux à intervalle régulier.
 Pour Josef, cela ressemble au _Ghost Field_, mais ils en sont comme prisonniers.
 
 <div class="side-by-side" role="group">
@@ -1697,17 +1700,17 @@ Pour Josef, cela ressemble au _Ghost Field_, mais ils en sont comme prisonniers.
   <img loading="lazy" src="images/bitd/AI-generated/dark-sewers-in-a-warp-dimension-in-a-fantasy-style02.jpg" alt="dark sewers in a warp dimension in a fantasy style">
 </div>
 
-<figcaption>Images générées avec <a href="https://www.reddit.com/r/bladesinthedark/comments/16q62sj/duskvol_map/">BING Images Creator</a></figcaption>
+<figcaption>Images générées avec <a href="https://www.bing.com/images/create/">BING Images Creator</a></figcaption>
 
-Les membres du Harpon explorent prûdement les lieux, fuyant ou contenant par la force de l'esprit les spectres noirs & vengeurs qui émergent de cadavres autour d'eux...
+Les membres du Harpon explorent prudemment les lieux, fuyant ou contenant par la force de l'esprit les spectres noirs & vengeurs qui émergent de cadavres autour d'eux...
 Dans ce dédale, ils découvrent une intersection de tunnels où reposent de nombreux cadavres, ainsi que quatre silhouettes humaines blanches allongées.
 Ils réussissent à éviter ou retenir les spectres noirs et à identifier qu'à chacune des silhouettes blanches correspond l'un d'entre eux, à partir des bruits qui en émanent.
 
-En touchant leur enveloppe, ils réussisent chacun à réintégrer le monde physique, où des souvenirs leur reviennent :
-suite à leur installation dans la tour de l'observatoire, alors qu'ils transportaient une partie de leur équipement par les égoûts depuis leur planque souterraine, le gang s'est fait intercepter par une patrouille de _Bluecoats_ lourdement armée, guidée là par le fils Gruber !
+En touchant leur enveloppe, ils réussissent chacun à réintégrer le monde physique, où des souvenirs leur reviennent :
+suite à leur installation dans la tour de l'observatoire, alors qu'ils transportaient une partie de leur équipement par les égouts depuis leur planque souterraine, le gang s'est fait intercepter par une patrouille de _Bluecoats_ lourdement armée, guidée là par le fils Gruber !
 Dans l'affrontement, une passe arcanique tentée par Josef ne se déroule pas comme prévu et les plonge tous dans le _Ghost Field_, où ils ont erré quelque temps.
 
-Alors que désormais trois corbeaux font des cercles concentriques au-dessus du charnier souterrain, Lodius décide d'installer des explosifs, et alors qu'ils aperçoivent un _Sprit Warden_ arriver par un tunnel, ils s'enfuient prestemment enfaisant exploser les tunnels... et une petite place de Doskvol qui les surplombait au-dessus.
+Alors que désormais trois corbeaux font des cercles concentriques au-dessus du charnier souterrain, Lodius décide d'installer des explosifs, et alors qu'ils aperçoivent un _Sprit Warden_ arriver par un tunnel, ils s'enfuient prestement en faisant exploser les tunnels... et une petite place de Doskvol qui les surplombait au-dessus.
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/SpiritWarden.jpg" alt="Spirit Warden">
@@ -1720,29 +1723,31 @@ Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos 
 
 <dl>
   <dt>Tu es originaire des Dagger Isles, où tu étais d'extraction noble. Mais quelles sont tes origines plus précisément ?</dt>
-    <dd>Écarté du pouvoir par sa soeur, Ethel, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde.</dd>
+    <dd>Écarté du pouvoir par sa sœur, Ethel, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde.</dd>
   <dt>Comment font-ils pour se passer de barrières électroplasmiques dans les Dagger Isles, et comment Ethnos y a été confronté ?</dt>
-    <dd>Là-bas les habitants boivent rituellement du sang de Léviathan, cotoient régulièrement des démons dans la jungle, et hérigent de grands totems protecteurs. Ethnos a été initié à toutes ces croyances et connaissances, et la consommation passée de sang de Léviathan de Lodius a probablement joué lors du rituel qui l'a amené à quitter son corps indemne...</dd>
+    <dd>Là-bas les habitants boivent rituellement du sang de Léviathan, côtoient régulièrement des démons dans la jungle, et érigent de grands totems protecteurs. Ethnos a été initié à toutes ces croyances et connaissances, et la consommation passée de sang de Léviathan de Lodius a probablement joué lors du rituel qui l'a amené à quitter son corps indemne...</dd>
   <dt>En arrivant à Doskvol, Ethnos était très pieu et repentant. Qu'est-ce qui l'a amené dans cette direction ?</dt>
-    <dd>Il a été initié à l'Église de l'Exstase de la Chair par un missionnaire, dans le but d'expier ses fautes, et notamment la mort d'un <em>With Doctor</em> qui la rendu très impopulaire là-bas...</dd>
-  <dt>Qu'est-ce qui a mené Thnos à Doskvol, et à rejoindre le gang du Harpon ?</dt>
+    <dd>Il a été initié à l'Église de l’Extase de la Chair par un missionnaire, dans le but d'expier ses fautes, et notamment la mort d'un <em>Witch Doctor</em> qui la rendu très impopulaire là-bas...</dd>
+  <dt>Qu'est-ce qui a mené Ethnos à Doskvol, et à rejoindre le gang du Harpon ?</dt>
     <dd>Lodius l'a connu à bord d'un navire, et à fait appel à lui ensuite lorsqu'il a monté son gang. Et Ethnos voulait partir loin de son passé.</dd>
   <dt>Qu'est-ce qu'Ethnos à conservé avec lui des Dagger Isles ?</dt>
     <dd>Sa chevalière, comportant son blason familial, qu'il porte à une chaîne autour du cou.</dd>
 </dl>
 
-### Exploration de la tour de l'horloge
+### Exploration de la tour de l'observatoire
 
 Une fois de retour à leur planque, le gang prend le temps d'explorer plus en détails la tour qu'ils occupent désormais.
-Notamment, ils explorent le _Sanctum_, découvrent une bibliothèque cachée dans l'ancienne chambre d'Henner, comprennent le fonctionnement de l'Œil du Corbeau, découvrent l'accès secondaire via le toit de la maison attenante, également affecté par l'enchantement d'illusion, et détectent la présence de spectres de pendus dans les échaffaudages à l'extérieur.
+Notamment, ils explorent le _Sanctum_, découvrent une bibliothèque cachée dans l'ancienne chambre d'Henner, comprennent le fonctionnement de l'Œil du Corbeau, découvrent l'accès secondaire via le toit de la maison attenante, également affecté par l'enchantement d'illusion, et détectent la présence de spectres de pendus dans les échafaudages à l'extérieur.
 
-L'exploration cause aussi la chute de poutrelles métaliques, qui s'écrase sur des maisons à côté de la tour, en-dehors de l'illusion.
+L'exploration cause aussi la chute de poutrelles métalliques, qui s'écrase sur des maisons à côté de la tour, en-dehors de l'illusion.
 
-Parmis les autres informations qu'ils récoltent à leur retour, il y a également une rumeur de comète, l'Écharpe Rouge qui invite Eric à participer à un tournoi martial, et un pli de Lord Scurlock mentionnant qu'il attend de leurs nouvelles suite à la mission qu'il a confié au gang...
+Parmi les autres informations qu'ils récoltent à leur retour, il y a également une rumeur de comète, l'Écharpe Rouge qui invite Eric à participer à un tournoi martial, et un pli de Lord Scurlock mentionnant qu'il attend de leurs nouvelles suite à la mission qu'il a confié au gang...
+
+Un peu plus tard, pour satisfaire à son vice, Mist se rendra également à la Table d'Ojak, une respectueuse maison où les invités s'adonnent à des rituels occultes, à base d'ingurgitation de sang de démon.
 
 ### Le retour de la diva
 
-On prévient le gang qu'il y a du grabuge à la Goule Fendue, et qu'une femme déterminée réclamme à parler à un responsable du gang.
+On prévient le gang qu'il y a du grabuge à la Goule Fendue, et qu'une femme déterminée réclame à parler à un responsable du gang.
 
 Mist & Josef s'y rendent, et comprennent qu'ils s'agit de la diva **Maria Coseren**, qui est venue leur réclamer son masque. Elle est très énervée, bien plus forte qu'il n'y paraît, et tente d'intimider physiquement Josef, qui réussit à la projeter temporairement dans le _Ghost Field_ pour calmer la situation.
 
@@ -1769,20 +1774,20 @@ En parallèle, Eric & Lodius vont rencontrer **Phil**, qui a fait savoir à Lodi
 Néanmoins, à l'heure et au lieu du rendez-vous, à Saltridge dans Crow's Foot, Lodius voit Phil passer sans s'arrêter.
 Il comprend bien vite qu'il est pris en filature par deux _Bluecoats_ en civil, et Eric s'occupe de les faire disparaître.
 
-Alors que Phil, panniqué, s'enfuit jusqu'à un bateau dans un canal proche, Lodius décide de l'intercepter en sautant sur son bateau depuis un pont avec une _smoke bomb_.
+Alors que Phil, paniqué, s'enfuit jusqu'à un bateau dans un canal proche, Lodius décide de l'intercepter en sautant sur son bateau depuis un pont avec une _smoke bomb_.
 Malheureusement cela s'avère être un piège, et une douzaine de _Bluecoats_ lui saute dessus avec un filet, et un Inspecteur à la manœuvre. Lodius fait preuve de réflexe et applique sur lui de la _Drift Oil_ pour s'élever dans les airs, puis prend possession de l'Inspecteur afin de canarder les _Bluecoats_ et de faire se trancher la gorge à sa victime.
 
-Alors qu'il s'élève vers des toits attenants, il évite une navette volante impériale en dissipant l'effet de la potion de lévitation, mais malheureusement s'assome lors de sa chute, et est capturé.
+Alors qu'il s'élève vers des toits attenants, il évite une navette volante impériale en dissipant l'effet de la potion de lévitation, mais malheureusement s’assomme lors de sa chute, et est capturé.
 Eric se lance dans une ultime tentative d'aide à son camarade, n'hésitant pas à tirer à la mitrailleuse sur _Bluecoats_ et facades de maison, mais c'est malheureusement trop tard...
 
 ### Interrogatoire de Lodius
 
-Tandis que le reste du gang missione Valeris pour déterminer où Lodius a été emmené par les forces de l'ordre,
+Tandis que le reste du gang missionne Valeris pour déterminer où Lodius a été emmené par les forces de l'ordre,
 celui-ci se réveille dans une cellule sur Whitecrown.
 
-S'ensuit un interrogatoire (_joué en une longue belle session de roleplay)_ où l'Inspecteur **Holdan** et son second **Smithson** cuisine longuement Lodius, le questionnant sur les meurtres de Fridrik Nash, Rafello, Darmot & Conway, mais aussi sur l'attaque du bordel La Tentacule Bleue où des témoins l'on vu, hache à la main, la main tranchée de Sylvia Derengathi, le témoignage du prêtre Herman, la destruction d'un Échassier lors de l'évasion d'Orue ou encore l'attaque de l'électro-train...
+S'ensuit un interrogatoire (_joué en une longue belle session de roleplay)_ où l'Inspecteur **Holdan** et son second **Smithson** cuisine longuement Lodius, le questionnant sur les meurtres de Fridrik Nash, Rafello, Darmot & Conway, mais aussi sur l'attaque du bordel La Tentacule Bleue où des témoins l'on vu, hache à la main, la main tranchée de Sylvia Derengathi, le témoignage du prêtre Herman, la destruction d'un Échassier lors de l'évasion d'Oru ou encore l'attaque de l'électro-train...
 
-Les inspecteurs finissent par confronter Ethnos-Lodius, via un buste _Hull_ permettant d'acceuillir un fantôme, au spectre accusateur de Bell, puis à celui de... Lodius !
+Les inspecteurs finissent par confronter Ethnos-Lodius, via un buste _Hull_ permettant d’accueillir un fantôme, au spectre accusateur de Bell, puis à celui de... Lodius !
 Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résiste, et ne balance rien !
 
 <div class="side-by-side" role="group">
@@ -1797,10 +1802,10 @@ Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résist
 
 Josef se rend sur Silkshore pendant la nuit, et réussit petit à petit à contacter les _Wraiths_,
 en passant d'abord par le bar _The Hooded Fox_ puis en retrouvant l'un d'eux au bar _Le Crépusculaire_,
-où ils achètent de préciseuses informations :
+où ils achètent de précieuses informations :
 
 * l'attaque des _Silver Nails_ a été commandité pour récupérer **La main de Kotar** en leur possession
-* Jenny Holt serait la seule rescapé, capturée par le Cercle de la Flamme, et ils prévoient de l'employer bientôt pour un sacrifice
+* **Jenny Holt** serait la seule rescapé, capturée par le Cercle de la Flamme, et ils prévoient de l'employer bientôt pour un sacrifice
 
 <div class="side-by-side" role="group">
   <figure role="group">
@@ -1815,12 +1820,12 @@ où ils achètent de préciseuses informations :
 
 ### Expédition dans les catacombes
 
-Une fois en possession de ces informations, Mist fait le lien avec les informations qu'il avait précédément obtenu, et le gang décide de se rendre dans les catacombes sous l'université.
+Une fois en possession de ces informations, Mist fait le lien avec les informations qu'il avait précédemment obtenu, et le gang décide de se rendre dans les catacombes sous l'université.
 
 Ils affrontent d'abord deux spectres, mais Josef réussit à prendre le contrôle de l'un d'eux, et ils détruisent l'autre à coups de balles électroplasmiques.
 
-Ils arrivent ensuite à au lac souterrain, et tandis qu'ils explorent les lieux, un démon est invoqué face à eux, massif et bardé de lames. Ils en viennent finalement à bout avec l'aide Vassock et du spectre que Josef contrôle.
-Ils découvrent une page de grimmoire occulte et des traces récentes les menant à la surface, jusqu'à une belle demeure de Whitecrown.
+Ils arrivent ensuite à au lac souterrain, et tandis qu'ils explorent les lieux, un démon est invoqué face à eux, massif et bardé de lames. Ils en viennent finalement à bout avec l'aide d'Ermgast et du spectre que Josef contrôle.
+Ils découvrent une page de grimoire occulte et des traces récentes les menant à la surface, jusqu'à une belle demeure de Whitecrown.
 Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et décident de stopper leur exploration face au dédale de souterrain que constitue le reste des catacombes.
 
 <div class="side-by-side" role="group">
@@ -1882,11 +1887,27 @@ Questions en suspens :
 + loi martiale & risque pour usine Gruber & Fils
 
 Downtime pas encore fait pour Elaria
+Josef Tucker n'a pas de contacts +/- ?
 
 Prépa :
 * anticiper raison absence Elaria
 * prévoir quelques questions pour détailler le passé d'Eric
+* anticiper listing du matériel Silver Nails qui circule en vente...
+    + anneaux de clous d'argent, protégeant de la possession
+    + lances arcaniques
+    + chaînes d'argent enchantées, permettant d'immobiliser démons & spectres
+    + etc.
+    + qu'est devenu le sergent Echols ?
+* prévoir quelques clocks
+    + Setarra piège Mist à la Table d'Ojak : comment ?
+    + Justinia ?
+    + Perte massive de COINS si pas rétablissement de leur activité économique de trafic de drogue
 * remercier Tim Denee pour son plan, et consulter ses autres sur flickr
+
+Petites annonces des Chroniques du Crépuscule :
++ Mécène : Lord Scurlock qui veut faire voler la croix de Mist
++ Revendeur du matériel Silver Nails : The Hive
++ "Vide maison" Lady Drake commandite le Score du manoir hanté de Lord Lomon
 
 Prochaine session :
 * INTRO : PJs plongés dans un lieu étrange, sans souvenir de comment ils y sont arrivés...
@@ -1903,7 +1924,7 @@ CLOCKS:
 * demande humble d'aide de la part d'un habitant du territoire Harpon
 
 Anticiper / définir :
-* si le Harpon et l'Echarpe Rouge sont en guerre -> effets mécaniques ?
+* si le Harpon et l’Écharpe Rouge sont en guerre -> effets mécaniques ?
 * donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
 
 Josef :
