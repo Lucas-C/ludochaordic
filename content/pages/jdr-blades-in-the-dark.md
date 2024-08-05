@@ -119,7 +119,7 @@ Cette fois, j'ai le vrai manuel de jeu trouvé à Amsterdam ! C'est l'occasion d
 Présentation également de la [feuille de perso sur rpg-bonhomme](https://chezsoi.org/lucas/jdr/rpg-bonhomme/?layout=BladesInTheDark).
 
 ### Questionnaire aux joueurs pour se synchroniser sur les attentes / envies de tout le monde
-- êtes-vous OK si votre perso meurt ?
+- êtes-vous OK si votre personnage meurt en cours de partie ?
 _→ **3/3** oui, si ça fait sens et qu'il est possible d'en rejouer un autre_
 - aimez-vous les secrets et coups bas autour de la table (en opposition à un groupe toujours soudé) ?
 _→ **3/3** plutôt non_
@@ -205,7 +205,7 @@ Cela rend l'iruvien furieux. Sabre à la main, il se met en position de duel pou
 désarmé, décide de s'enfuir dans le dédale de rues pour regagner la place du marché
 
 <figure>
-  <img alt="Iruvian sword fighter" src="images/bitd/NPCs/iruvian_sword_fighter.jpg">
+  <img alt="Combatant iruvien" src="images/bitd/NPCs/iruvian_sword_fighter.jpg">
   <figcaption>Milos</figcaption>
 </figure>
 
@@ -396,7 +396,6 @@ dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 ## Session 6 - 8 février 2020
 
 <figure role="group">
-  <!--img alt="Lodius Dalmore" src="images/bitd/PCs/Lodius Bimages/bitd/Lodius B&W.jpgW.jpg"-->
   <img loading="lazy" alt="Lodius Dalmore" src="images/bitd/PCs/Lodius.jpg">
   <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
@@ -566,7 +565,7 @@ par exemple par les Chasseurs de Léviathans.
 En définitive, Ethnos-Lodius lui tranche la main pour la punir avant de l'abandonner dans une ruelle en ville.
 
 Suite à ces événements, Elaria & Ethnos-Lodius ressentent tous deux le besoin de faire retomber la pression.
-Elaria se brouille définitivement avec Damian, le patron du __Dragon d'Iruvia__,
+Elaria se brouille définitivement avec Damian, le patron du __Dragon d'Iruvie__,
 la fumerie d'opium où elle a l'habitude de se rendre.
 Jetée à la porte, refusant de se rendre à une fumerie tenue par l'Œil Blanc,
 elle finit par allez se fournir à Coalridge puis perd pied pendant 24 heures suite à une overdose...
@@ -699,7 +698,7 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 
 ## Session 8 - 17 avril 2021
 
-<img loading="lazy" class="small-img" alt="Harpoon + Crow + Red Sash + White Eye" src="images/bitd/crow-harpoon-red-scard.jpg">
+<img loading="lazy" class="small-img" alt="Harpoon + Crow + Red Sash + White Eye" src="images/bitd/crow-harpoon-red-scarf.jpg">
 
 <figure role="group">
   <img loading="lazy" alt="Let's do this! - Ronamis" src="images/bitd/places/Ronamis-LetsDoThis.jpg">
@@ -865,9 +864,9 @@ et une descente est faite dans un poste de Bluecoats, pour l'attribuer ensuite �
 
 Une partie du gang se renseigne également sur l'inspecteur Boden :
 Valeris est embauché pour découvrir où il habite, et Elaria se rend à la rencontre d'**Ulf Ironborn**,
-un réfugié Skov et nouveau truand se faisant petit à petit une place sur les Docks.
+un réfugié skov et nouveau truand se faisant petit à petit une place sur les Docks.
 L'inspecteur Boden, d'origine severosi, a en effet exercé à Lockport en Skovlan avant d'être muté à Doskvol.
-Incorruptible et tenace, de nombreux Slov le haïssent pour avoir mis sous les verrous un grand nombre d'indépendantistes.
+Incorruptible et tenace, de nombreux skovs le haïssent pour avoir mis sous les verrous un grand nombre d'indépendantistes.
 
 Le gang prend également le temps de régler son compte au traître **Conway** :
 il est piégé par Justinia dans une ruelle, puis questionné et torturé dans les caves de la Goule Fendue.
@@ -887,7 +886,7 @@ dans les bureaux du _Weekly Raven_ dont Nash à le principal _reporter_ et édit
 Sur place, il tente sans succès d'isoler Nash et finit pour lui donner une poignée de main "électrique" pour le mettre KO.
 Malheureusement, l'empressement de ses camarades à lui porter secours empêche Eric de l'évacuer hors du bâtiment,
 et il se résout à **lui briser la nuque devant plusieurs témoins** !
-La situation dégénère et une foule en furie s'en prend à Eric, qui réussit _in-extermis_ à accéder à la rue
+La situation dégénère et une foule en furie s'en prend à Eric, qui réussit _in-extremis_ à accéder à la rue
 et à s'enfuir par une bouche d'égouts où un homme l'attendait, avant que la bande des _The Lost_ ne lui tombe dessus.
 
 Tandis qu'Ethnos-Lodius confectionne une potion de transe et des explosifs,
@@ -1029,7 +1028,7 @@ Ils suivent le convoi transportant Oru au départ de la caserne, constitué d'un
 et d'une vingtaine d'hommes, mené par **Darmot**.
 
 Juste avant d'arriver au pont, Eric tend un filin qu'il a camouflé là pour faire chuter l'Échassier,
-puis Lodius le fait exploser, tandis que Mist lâche un esprit sur les _Bluecoats_ et qu'Eleria
+puis Lodius le fait exploser, tandis que Mist lâche un esprit sur les _Bluecoats_ et qu'Elaria
 s'introduit telle une ombre dans le fourgon qu'elle _car-jacke_ !
 Elle s'enfuit avec dans les ruelles, puis le fait disparaître dans le fleuve après avoir libéré Oru et 3 autres prisonniers,
 dont un ancien collecteur de taxes.
@@ -1130,7 +1129,7 @@ et se retrouve interrogé par l'artiste-occultiste, avec un couteau invisible so
     + [Embers and Spirits - 3:23 @YouTube](https://www.youtube.com/watch?v=aXePNAotteQ)
     + [The River Dusk - 1:13 @YouTube](https://www.youtube.com/watch?v=C4XXWuVaCyg) & [Rooftop Chase - 2:30 @YouTube](https://www.youtube.com/watch?v=3YP1pGDFqAA) - Ted Bushman
     + [Tense Negotiations | D&D/TTRPG Music | 1 Hour @YouTube](https://www.youtube.com/watch?v=RPkHu8M_U4c)
-    + playlist : [.Blades in The Dark - Main Soundtrack @YouTube](https://www.youtube.com/playlist?list=PL-DPRgj_AsnOK9l3PgmOfho2aWuTT9IS2) - FrozenCovein
+    + playlist : [Blades in The Dark - Main Soundtrack @YouTube](https://www.youtube.com/playlist?list=PL-DPRgj_AsnOK9l3PgmOfho2aWuTT9IS2)
 * clips vidéos :
     + [Blades in the Dark Title Animation @YouTube](https://www.youtube.com/watch?v=eoxIyivFJQI)
     + [Blades in the Dark: atmosphere @YouTube](https://www.youtube.com/watch?v=nxXsWB1q7BE)
@@ -1153,8 +1152,8 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
     <figcaption>Atelier d'alchimie reconverti</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" src="images/bitd/places/GruberEtFils/BureauDeMrGrubert.jpg">
-    <figcaption>Bureau de Mr. Grubert</figcaption>
+    <img loading="lazy" src="images/bitd/places/GruberEtFils/BureauDeMrGruber.jpg">
+    <figcaption>Bureau de Mr. Gruber</figcaption>
   </figure>
   <figure role="group">
     <img loading="lazy" src="images/bitd/places/GruberEtFils/Lobby.jpg">
@@ -1192,7 +1191,7 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
     <figcaption>L'œil du masque de Mist semble avoir une expression différente à chaque fois qu'on l'observe...</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" alt="In the catacombs ofthe College of Immortal Studies" src="images/bitd/places/in-the-catacombs.png">
+    <img loading="lazy" alt="In the catacombs of the College of Immortal Studies" src="images/bitd/places/in-the-catacombs.png">
     <figcaption>Dans les catacombes sous l'Académie des Études Immortelles...</figcaption>
   </figure>
   <figure role="group">
@@ -1276,7 +1275,7 @@ Une rencontre / négociation s'ensuit avec Mylera, où il est décidé de partag
 Après avoir transmis à Mylera leurs découvertes concernant les manigances de Boden,
 les PJs commencent à avoir des suspicions sur ce qui a pu motiver Bell à agir comme il l'a fait... Et il découvrent alors que des hommes du Harpon avaient été vus par les Crows, sur leur territoire, en train de procéder à du racket, ce qui avait grandement irrité Bell.
 
-Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l'occasion de ce dévoilement, dilapide l'argent de l'entreprise. M. Guber père, furieux, décide alors de virer Garett de son poste de comptable, et de lui couper les vivres.
+Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l'occasion de ce dévoilement, dilapide l'argent de l'entreprise. M. Gruber père, furieux, décide alors de virer Garett de son poste de comptable, et de lui couper les vivres.
 
 ### Ressources
 - illustrations:
@@ -1395,7 +1394,7 @@ Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour 
   <figcaption>Lucretius Dream &amp; Ulf Ironborn</figcaption>
 </figure>
 
-De son côté, Elaria s'introduit dans la fabrique et retrouve dans un bureau à l'étage Quill, Mal, les représentants syndicaux ainsi que les boss de deux gangs locaux : **Ulf Ironborn** le _leader_ Skovland, et le chef des _BillHooks_. Ce dernier, en apprenant l'intervention imminente de l'armée impériale, décide de mettre les voiles. Ulf lui n'est pas venu seul : dans la fabrique en contrebas ses hommes, des vétérans de la guerre de l'unité, sont en train de s'équiper tandis qu'un autre Skolander trace des signes cabalistiques au sol...
+De son côté, Elaria s'introduit dans la fabrique et retrouve dans un bureau à l'étage Quill, Mal, les représentants syndicaux ainsi que les boss de deux gangs locaux : **Ulf Ironborn** le _leader_ skovlander, et le chef des _BillHooks_. Ce dernier, en apprenant l'intervention imminente de l'armée impériale, décide de mettre les voiles. Ulf lui n'est pas venu seul : dans la fabrique en contrebas ses hommes, des vétérans de la guerre de l'unité, sont en train de s'équiper tandis qu'un autre skovlander trace des signes cabalistiques au sol...
 
 Pendant ce temps, Josef et Mist décident de travailler de concert à ouvrir le _Ghost Field_
 pour entrer en contact avec les esprits des travailleurs qui ont laissé leur vie aujourd'hui pour l'insurrection.
@@ -1405,11 +1404,11 @@ Une fois réunis, les membres du gang assistent à l'apparition du démon missio
 
 La situation semblant sous contrôle, voir à l'avantage des ouvriers rebelles, le gang décide alors de retourner à Crow's Foot. Les membres du Harpon prenne alors tous un temps de repos, l'occasion notamment de s'adonner à leurs vices...
 
-De son côté, Elaria va s'étendre quelques heures au Dragon d'Iruvia, sur le territoire de l'Écharpe Rouge, pour fumer de l'opium. Mais alors qu'elle est ainsi à demi-consciente et très vulnérable, elle réalise que l'opium l'endort de manière anormale... Elle a juste le temps d'apercevoir **Raffello** dissimulé derrière une teinture puis elle perd conscience.
+De son côté, Elaria va s'étendre quelques heures au Dragon d'Iruvie, sur le territoire de l'Écharpe Rouge, pour fumer de l'opium. Mais alors qu'elle est ainsi à demi-consciente et très vulnérable, elle réalise que l'opium l'endort de manière anormale... Elle a juste le temps d'apercevoir **Raffello** dissimulé derrière une teinture puis elle perd conscience.
 
 <figure role="group">
-  <img loading="lazy" src="images/bitd/places/SteampunkTendencies-byVladimirManyukhin.jpg" alt="Le Dragon d'Iruvia">
-  <figcaption>Le Dragon d'Iruvia</figcaption>
+  <img loading="lazy" src="images/bitd/places/SteampunkTendencies-byVladimirManyukhin.jpg" alt="Le Dragon d'Iruvie">
+  <figcaption>Le Dragon d'Iruvie</figcaption>
 </figure>
 
 Un peu plus tard, le Harpon sera informé de la disparition d'Elaria par un émissaire de l'Écharpe Rouge. Mist décide alors de se rendre à la fumerie d'opium pour investiguer. Là-bas, le lieutenant de l'Écharpe Rouge en charge de l'établissement finit par le recevoir et lui expliquer ce qu'il sait, c'est à dire bien peu de chose. Mist met tout de même la main sur un morceau de charbon d'opium à l'odeur suspecte, qu'une analyse au QG révélera ensuite être une odeur de soporifique.
@@ -1424,8 +1423,8 @@ Cette opération de sauvetage se conclut finalement par une fuite du gang hors d
 
 <figure class="side-by-side" role="group">
   <img loading="lazy" src="images/bitd/demon.png" alt="Démon invisible">
-  <img loading="lazy" src="images/bitd/NPCs/Raffelo.jpg" alt="Raffelo">
-  <figcaption>Vassock, démon invisible &amp; Raffelo</figcaption>
+  <img loading="lazy" src="images/bitd/NPCs/Raffello.jpg" alt="Raffello">
+  <figcaption>Vassock, démon invisible &amp; Raffello</figcaption>
 </figure>
 
 > On a fait du Cercle des Sept le Cercle des Six.<br>
@@ -1528,14 +1527,14 @@ L'emploi d'une drogue permet finalement au Harpon d'apprendre qu'il s'agit de **
 
 Le gang rencontre alors Valeris à la Goule Fendue, qui leur livre les informations qu'ils lui avaient demandé sur Boden : il habite au-dessus du poste des Bluecoats à Charhollow; il a un frère dans l'armée impériale; il déjeune un jour sur trois à l'**Encre et la Plume**. Valeris révèle également au Harpon que la planque des Cendreux pourrait correspondre à une légende urbaine de tour au Nord de Charhollow, qui semble apparaître parfois comme par magie. Le Harpon lui demande alors de se renseigner sur les Cendreux, et comment contourner le charme qui camoufle cette fameuse tour.
 
-Eric, Lodius & Mist se rendent à l'auberge des **Parfums d'Iruvia** pour rencontrer les Silver Nails, mais ils découvrent qu'un important incendie vient d'avoir lieu. La rue comporte plusieurs cadavres recouverts de draps blancs, et Lodius perçoit les échos dans le _Ghost Field_ d'une fusillade récente à l'étage qui a pris feu. Alors qu'ils demandent au réceptionniste à rencontrer Jenny Holt, ils manquent de se faire coincer par les _Bluecoats_ et décampent en vitesse.
+Eric, Lodius & Mist se rendent à l'auberge des **Parfums d'Iruvie** pour rencontrer les Silver Nails, mais ils découvrent qu'un important incendie vient d'avoir lieu. La rue comporte plusieurs cadavres recouverts de draps blancs, et Lodius perçoit les échos dans le _Ghost Field_ d'une fusillade récente à l'étage qui a pris feu. Alors qu'ils demandent au réceptionniste à rencontrer Jenny Holt, ils manquent de se faire coincer par les _Bluecoats_ et décampent en vitesse.
 
 De retour à Gruber & Fils, le Harpon découvre, placardé sur la grille, un avis officiel administratif de mise en demeure et cessation d'activité pour l'entreprise, dû aux trop nombreux impayés de la société.
 
 ### The Torment
 
 Le Harpon se concentre ensuite sur le job qui leur a été confié par Lord Scurlock :
-retrouver **The Torment**, un navire Skovlander disparu depuis quelques jours,
+retrouver **The Torment**, un navire skovlander disparu depuis quelques jours,
 et sa précieuse cargaison : un coffre contenant des jarres de pierre.
 Le gang se renseigne alors sur les docks à ce propos, et apprend que le gang des **Grinders**
 pourrait très probablement être responsable de cette disparition.
@@ -1564,7 +1563,7 @@ La Harpon ramène le navire sur les Docks, et transporte discrètement sa préci
 
 ### Downtime
 
-Josef et Lodius décident de retourner aux Parfums d'Iruvia pour enquêter sur l'incendie et la potentielle disparition des Silver Nails.
+Josef et Lodius décident de retourner aux Parfums d'Iruvie pour enquêter sur l'incendie et la potentielle disparition des Silver Nails.
 Sur place ils croisent un mystérieux individu fouillant les décombre, équipé de matériel alchimiste, et d'un masque. Malheureusement, il réussit à leur leur filer entre les pattes et à les semer, mais Lodius lui arrache son masque, signé "W". Ils observent également à cet étage une étrange trace laissée dans le _Ghost Field_, en forme de main.
 
 <figure role="group">
@@ -1585,7 +1584,7 @@ Il s'entretient ensuite en privé avec les _leaders_ de l'insurrection ouvrière
 et tient un discours de « retour à la raison » et d’apaisement, qui réussit à convaincre les ouvriers mais rendent furieux Mal, puis Ulf, qui quittent la table.
 Elaria, qui a assisté à l'échange en secret, s'en retourne ensuite à Crow's Foot.
 
-Dans la matinée, la **loi martiale est déclarée à Crow's Foot** : le Harpon est accusé du quadruple meurtre de Rafello, Conway, Darmot, et Fridrik Nash, et devient la cible des forces _Bluecoats_ réunies de plusieurs quartiers avoisinants, qui convergent à Crow's Foot pour passer au crible le secteur à la recherche du gang.
+Dans la matinée, la **loi martiale est déclarée à Crow's Foot** : le Harpon est accusé du quadruple meurtre de Raffello, Conway, Darmot, et Fridrik Nash, et devient la cible des forces _Bluecoats_ réunies de plusieurs quartiers avoisinants, qui convergent à Crow's Foot pour passer au crible le secteur à la recherche du gang.
 
 Le Harpon décide alors, par prudence, de déménager leur planque chez Gruber & Fils vers leur autre cache dans les égouts.
 
@@ -1634,7 +1633,7 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
     + [Dice pool probabilities - Blades in the Dark](https://www.reddit.com/r/bladesinthedark/comments/v2e0wo/dice_pool_probabilities_blades_in_the_dark/)
     + [Position board by Elliot Jolivet aka Tenseï](images/bitd/Tensei/PositionBoard-by-Tensei.jpg)
     + [Animated one-page-dungeon : Escape of the Torment](../animated-one-page-dungeon-escape-of-the-torment.html)
-    + [Gang personality quizz](https://lucas-c.github.io/blades-in-the-dark-what-kind-of-gang-are-you/) - Les réponses du Harpon :
+    + [Gang personality quiz](https://lucas-c.github.io/blades-in-the-dark-what-kind-of-gang-are-you/) - Les réponses du Harpon :
         * **À quoi ressemble votre gang, paré à l'action ?** Choix 2
         * **Quelle distraction avez-vous dû interdire, et pourquoi ?** Le lancer de couteaux
         * **Comment vous débarrassez-vous des cadavres ?** Bien lestés, ils s'entassent au fond du Dosk
@@ -1785,7 +1784,7 @@ Eric se lance dans une ultime tentative d'aide à son camarade, n'hésitant pas 
 Tandis que le reste du gang missionne Valeris pour déterminer où Lodius a été emmené par les forces de l'ordre,
 celui-ci se réveille dans une cellule sur Whitecrown.
 
-S'ensuit un interrogatoire (_joué en une longue belle session de roleplay)_ où l'Inspecteur **Holdan** et son second **Smithson** cuisine longuement Lodius, le questionnant sur les meurtres de Fridrik Nash, Rafello, Darmot & Conway, mais aussi sur l'attaque du bordel La Tentacule Bleue où des témoins l'on vu, hache à la main, la main tranchée de Sylvia Derengathi, le témoignage du prêtre Herman, la destruction d'un Échassier lors de l'évasion d'Oru ou encore l'attaque de l'électro-train...
+S'ensuit un interrogatoire (_joué en une longue belle session de roleplay)_ où l'Inspecteur **Holdan** et son second **Smithson** cuisine longuement Lodius, le questionnant sur les meurtres de Fridrik Nash, Raffello, Darmot & Conway, mais aussi sur l'attaque du bordel La Tentacule Bleue où des témoins l'on vu, hache à la main, la main tranchée de Sylvia Derengathi, le témoignage du prêtre Herman, la destruction d'un Échassier lors de l'évasion d'Oru ou encore l'attaque de l'électro-train...
 
 Les inspecteurs finissent par confronter Ethnos-Lodius, via un buste _Hull_ permettant d’accueillir un fantôme, au spectre accusateur de Bell, puis à celui de... Lodius !
 Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résiste, et ne balance rien !
@@ -1839,14 +1838,14 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
 
 <div class="side-by-side" role="group">
   <img loading="lazy" src="images/bitd/adam-duff-cleric.jpg" alt="Spectre">
-  <img loading="lazy" src="images/bitd/aleksandr-eykert-1.jpg" alt="Spectre">
+  <img loading="lazy" src="images/bitd/Aleksander-eykert-1.jpg" alt="Spectre">
   <img loading="lazy" src="images/bitd/Vlad-Marica-Demon-39_Regular.jpg" alt="Démon">
 </div>
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img loading="lazy" src="images/bitd/DanielGovar-NecronomiconPage.jpg" alt="Page de grimmoire" style="width: 15rem">
-    <figcaption>Page de grimmoire - Source : <a href="https://www.deviantart.com/danielgovar/art/Necronomicon-Page-491200968">Necronomicon Page by Daniel Glovar</a></figcaption>
+    <img loading="lazy" src="images/bitd/DanielGovar-NecronomiconPage.jpg" alt="Page de grimoire" style="width: 15rem">
+    <figcaption>Page de grimoire - Source : <a href="https://www.deviantart.com/danielgovar/art/Necronomicon-Page-491200968">Necronomicon Page by Daniel Govar</a></figcaption>
   </figure>
   <img loading="lazy" src="images/bitd/NPCs/Hull00.jpg" alt="Hull" style="width: 18rem">
 </div>
@@ -1864,7 +1863,7 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
     + [The Dark City @ YouTube](https://www.youtube.com/watch?v=AaiIOV7jYc4)
     + [Ambient Music for Urban Fantasy @ playlist YouTube](https://www.youtube.com/playlist?list=PLk0snynVn5aPwUXqcMpXBd9TaiGOnqe9T)
     + [𝐇𝐚𝐮𝐧𝐭𝐞𝐝 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐚𝐧 𝐋𝐨𝐧𝐝𝐨𝐧 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 𝐃𝐚𝐫𝐤 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐚 @ YouTube](https://www.youtube.com/watch?v=9xs10c1zTEg)
-    + [All of Legio Symphonica @ playlist YouTube](https://www.youtube.com/playlist?list=PLAYmiuM_LLD06ayUuIib6nHVOjaQSvdAo) - Le morceau [Sol Invictus Music](https://www.youtube.com/watch?v=DWJzuC2IMNs) est particulièrement épique, et [Iron Without](https://www.youtube.com/watch?v=9zHhsEXjqkM) est également parfait comme musique de combat
+    + [All of Legio Symphonica @ playlist YouTube](https://www.youtube.com/playlist?list=PLAYmiuM_LLD06ayUuIib6nHVOjaQSvdAo) - Le morceau [Sol Indicts Music](https://www.youtube.com/watch?v=DWJzuC2IMNs) est particulièrement épique, et [Iron Without](https://www.youtube.com/watch?v=9zHhsEXjqkM) est également parfait comme musique de combat
     + [THE DAY WE CHOOSE TO DIE | Epic Dramatic Strings - Powerful Atmospheric Orchestral Music Mix @ YouTube](https://www.youtube.com/watch?v=RwJscjiB0Sc)
     + [Medieval Fantasy Tavern @ YouTube](https://www.youtube.com/watch?v=vyg5jJrZ42s)
 - aides de jeu :
@@ -1879,15 +1878,17 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
 - aides de jeu :
     + [Flooded district map by UnknownZ14Z @ reddit.com/r/bladesinthedark](https://old.reddit.com/r/bladesinthedark/comments/1e1savi/how_does_my_flooded_zone_look_on_the_map/)
 
+Downtime pas encore fait pour Elaria
+Josef Tucker n'a pas de contacts +/- ?
+Reprendre la partie avec le message envoyé par Ethnos au gang
+-> les PJs trouveront-ils le projet d'Ethnos en cours de se créer un Hull ?
+
 Questions en suspens :
 
 * _Boden est-il vraiment mort ?_
 * _Quid des jarres de pierre et de Lord Scurlock ?_
 * _Comment va évoluer la situation à Coalridge ?_
 + loi martiale & risque pour usine Gruber & Fils
-
-Downtime pas encore fait pour Elaria
-Josef Tucker n'a pas de contacts +/- ?
 
 Prépa :
 * anticiper raison absence Elaria
@@ -1902,6 +1903,7 @@ Prépa :
     + Setarra piège Mist à la Table d'Ojak : comment ?
     + Justinia ?
     + Perte massive de COINS si pas rétablissement de leur activité économique de trafic de drogue
+* read some PDFs / OlinKirkland scenarios (15+)
 * remercier Tim Denee pour son plan, et consulter ses autres sur flickr
 
 Petites annonces des Chroniques du Crépuscule :
@@ -1947,9 +1949,9 @@ Campagne:
 * introduire un événement à gros impact sur la ville : plus de soleil ? épidémie zombie ?
   idéalement lié aux actions des PJs / au logbook / à Lord Scurlock / Cercle de la Flamme
 * dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
--> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omnisicents !
+-> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
 * rédiger une feuille par gang majeur
-* sélectionner illustrations pour les PNJs ppaux
+* sélectionner illustrations pour les PNJs principaux
     + gimmick pour PNJs: renifle tout, les gens, les lieux
 
 Music:
@@ -2023,34 +2025,34 @@ Maps:
    3We uO+ 3P 3u1e+1be> 37 51O5
    -> à l'envers + 133T SPEAK:
    SOIS LE CAPITAINE DE TON AME
-   DE TON DOIGT UN ANIMAL TU POSSEDES
+   DE TON DOIGT UN ANIMAL TU POSSÈDES
    (permet de contrôler un animal après l'avoir touché)
 2. [x] Écrit dans un vieux patois de marin Severosi :
-   GH CRHK BHIEVE YRF LRHK
+   GH CRHK BHIEVE YRF CRHK
    GBA PBECF G'NCCNEGVRAG
    -> Cesar Cypher +13
    TU PEUX OUVRIR LES YEUX
    TON CORPS T'APPARTIENT
    (permet de contrôle le PJ + animaux en même temps)
-3. [ ] Écrit en ancien Tycherosi, dit "Babylonien" :
+3. [ ] Écrit en ancien tycherosi, dit "Babylonien" :
    char(76)char(69)char(83)char(72)char(85)char(77)char(65)char(73)char(78)char(83)char(83)char(79)char(78)char(84)char(65)char(84)char(65)char(80)char(79)char(82)char(84)char(69)char(69)
    char(84)char(79)char(85)char(67)char(72)char(69)char(76)char(69)char(85)char(82)char(67)char(79)char(69)char(85)char(82)
    -> Code des templiers (attention au sens haut/bas) via dcode.fr:
    LESHUMAINSSONTATAPORTEE
    TOUCHELEURCOEUR
-   (permet de contrôler des humains en touchant leur coeur)
-4. [ ] Écrit en cunéiforme démonique, mais déguisé en Skovic :
+   (permet de contrôler des humains en touchant leur cœur)
+4. [ ] Écrit en cunéiforme démonique, mais déguisé en skovic :
    char(57)char(49)char(41)char(53)char(61)char(62)char(33)char(41)char(62)
    char(62)char(69)char(61)char(33)char(46)char(47)char(39)char(69)char(46)char(35)char(49)char(46)char(53)char(42)char(61)
    -> braille (attention au sens haut/bas) via dcode.fr:
    DECONTACT
    TUNASPLUSBESOIN
-LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécue de transfert de corps
+LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécu de transfert de corps
       peuvent octroyer des capacités démoniaques... Pour les maîtriser il faut déchiffrer leur sens !
 Pour chaque "strate" du tatouage, le principe est le même :
   * identifier de quelle langue il s'agit, par enquête ou grâce à un érudit : occultiste / linguiste / ancien...
   * décoder le message. Convaincre un érudit d'aider permet d'éviter d'effectuer le décodage soi-même
-  * s'entrainer (roue x4) ou tester par soi-même pour maîtriser le nouveau pouvoir
+  * s’entraîner (roue x4) ou tester par soi-même pour maîtriser le nouveau pouvoir
 Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site dcode.fr (sans lui indiquer la page)
 
 Tools:
@@ -2095,7 +2097,7 @@ article img, article video, article iframe {
   margin: 0 auto;
 }
 article figcaption { text-align: center; }
-.small-img { max-height: 15rem; max-witdh: 15rem; }
+.small-img { max-height: 15rem; max-width: 15rem; }
 .side-by-side {
   display: flex;
   justify-content: center;
@@ -2159,7 +2161,7 @@ function buildId(s) {
         title.onmouseout = function () { this.getElementsByTagName('svg')[0].style.visibility = 'hidden'; };
     });
 });
-// Make all article images clickables / openable in a new tab:
+// Make all article images clickable / openable in a new tab:
 document.querySelectorAll("article img").forEach((img) => {
     if (img.parentElement.tagName !== "A") {
         var a = document.createElement('a');
