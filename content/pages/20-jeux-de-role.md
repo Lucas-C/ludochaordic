@@ -19,6 +19,26 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Blades in the Dark - Interrogatoires</h2>
+    <img class="uk-align-center" src="images/2024/08/BitD-Interrogatoires.png" alt="Couverture de l'aide jeu Interrogatoires pour le jeu Blades in the Dark">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Aide de jeu pour le jeu Blades in the Dark</dd>
+        <dt>Pour</dt><dd>1 MJ + 1 à 5 joueurs</dd>
+        <dt>Durée</dt><dd>1h à 2h</dd>
+      </dl>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/blades-in-the-dark-interrogatoires">Blades in the Dark - Interrogatoires (sur itch.io)</a></li>
+        <li><a href="blades-in-the-dark-interrogatoires.html">Article de présentation</a></li>
+      </ul>
+      <blockquote>
+        Une aide de jeu pour introduire des scènes d'interrogatoires dans vos parties de jeux de rôles.
+        <br>
+        Elle a été conçue pour <em>Blades in the Dark</em> mais peut s'employer dans d'autres univers de jeu.
+      </blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Sombre : Lab Escape</h2>
     <img class="uk-align-center" src="images/jdr/Sombre-LabEscape.jpg" alt="Couverture du scénario Lab Escape pour le jeu Sombre">
     <div class="uk-thumbnail-caption">
@@ -34,7 +54,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <blockquote>
         Un scénario dans un laboratoire envahi de zombies, avec une part d'exploration, les lieux étant progressivement révélés aux joueurs.
         <hr>
-        Ce scénario nécessite d'imprimer 8 pages couleur, sur papier standard, et un peu de découpage / pliage préalable. 
+        Ce scénario nécessite d'imprimer 8 pages couleur, sur papier standard, et un peu de découpage / pliage préalable.
       </blockquote>
     </div>
   </section>

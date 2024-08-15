@@ -1,6 +1,6 @@
 Title: Blades in the Dark - Interrogatoires
-Date: 2024-08-14 15:00
-Tags: lang:fr, lang:en, jdr, aide-de-jeu, gratuit, blades-in-the-dark, john-harper, personal-project, creative-commons, repression-policiere, @Elliot, @ThomasG, @Aurelien, @Matt, @Simon, jeux
+Date: 2024-08-15 14:30
+Tags: lang:fr, lang:en, jdr, aide-de-jeu, prix-libre, blades-in-the-dark, john-harper, personal-project, creative-commons, repression-policiere, @Elliot, @ThomasG, @Aurelien, @Matt, @Simon, jeux
 ---
 _<center>The English version of this game module can be found there: [BitD - Interrogation @ itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogation).</center>_
 

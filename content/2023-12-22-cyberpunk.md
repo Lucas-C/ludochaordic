@@ -1,6 +1,6 @@
 Title: CYBER//PUNK
 Date: 2023-12-22 23:55
-Tags: lang:fr, jdr, monopage, gratuit, traduction, creative-commons, zero-prep, one-shot, cyberpunk, david-brunell-brutman, john-harper, fernando-correa, jeux, @Anna, @Nicolas, @Matt, @Michael
+Tags: lang:fr, jdr, monopage, prix-libre, traduction, creative-commons, zero-prep, one-shot, cyberpunk, david-brunell-brutman, john-harper, fernando-correa, jeux, @Anna, @Nicolas, @Matt, @Michael
 ---
 
 ![CyberPunk](images/2023/12/CyberPunk.jpg)

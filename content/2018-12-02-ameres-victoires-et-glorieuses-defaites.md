@@ -1,6 +1,6 @@
 Title: Amères Victoires et Glorieuses Défaites
 Date: 2018-12-02 12:00
-Tags: lang:fr, jdr, personal-project, mise-en-page, creative-commons, gamedesign, gratuit, zero-prep, @Simon, @Cedric, @Matt, @Henri, @Loïc, @ThomasG, jeux
+Tags: lang:fr, jdr, personal-project, mise-en-page, creative-commons, gamedesign, prix-libre, zero-prep, @Simon, @Cedric, @Matt, @Henri, @Loïc, @ThomasG, jeux
 Slug: ameres-victoires-et-glorieuses-defaites
 ---
 

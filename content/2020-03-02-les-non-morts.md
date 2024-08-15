@@ -1,6 +1,6 @@
 Title: Les Non-Morts
 Date: 2020-03-02 12:00
-Tags: lang:fr, jdr, jeu-de-societe, personal-project, creative-commons, gamedesign, gratuit, playtest, one-shot, zombies, zero-prep, one-shot, jeux
+Tags: lang:fr, jdr, jeu-de-societe, personal-project, creative-commons, gamedesign, prix-libre, playtest, one-shot, zombies, zero-prep, one-shot, jeux
 Slug: les-non-morts
 ---
 

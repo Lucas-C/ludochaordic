@@ -1,6 +1,6 @@
 Title: Sombre : Lab Escape
 Date: 2023-12-18 16:00
-Tags: lang:fr, jdr, sombre, one-shot, horror, scenario, one-shot, personal-project, johan-scipion, creative-commons, gratuit, jeux
+Tags: lang:fr, jdr, sombre, one-shot, horror, scenario, one-shot, personal-project, johan-scipion, creative-commons, prix-libre, jeux
 ---
 > **Sombre** - la peur comme au cinéma - est un jeu de rôle d’horreur. Il met en scène des antihéros qui essaient
 > de survivre dans un monde particulièrement violent et hostile.
