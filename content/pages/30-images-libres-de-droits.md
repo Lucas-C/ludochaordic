@@ -585,6 +585,18 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Catacombs](https://www.deviantart.com/pazuah/art/Catacombs-16-9-Ratio-932072103)
     * [Cyberpunk Bar Overview](https://www.deviantart.com/pazuah/art/Cyberpunk-Bar-Overview-16-9-Ratio-931237796)
     * [Vaporwave office #1](https://www.deviantart.com/pazuah/art/Vaporwave-office-1-946405436) made with midjourney
+- [Will Esbern aka willinvadesearth](https://www.deviantart.com/willinvadesearth) : CC-BY illustrations generated using AI
+    * [Pink Goggles](https://www.deviantart.com/willinvadesearth/art/Pink-Goggles-1064787750)
+    * [Can You Hear Me Now?](https://www.deviantart.com/willinvadesearth/art/Can-You-Hear-Me-Now-1065117531)
+    * [A Lie in the Night](https://www.deviantart.com/willinvadesearth/art/A-Lie-in-the-Night-1062064087)
+    * [0059f7f829314001bee6439939fce18f](https://www.deviantart.com/willinvadesearth/art/0059f7f829314001bee6439939fce18f-1064787735)
+    * [Leaden Hair](https://www.deviantart.com/willinvadesearth/art/Leaden-Hair-1062234914)
+    * [Red Eyed Reader](https://www.deviantart.com/willinvadesearth/art/Red-Eyed-Reader-1062238872)
+    * [Dbee6255ca2b4d7c907efb059b158096](https://www.deviantart.com/willinvadesearth/art/Dbee6255ca2b4d7c907efb059b158096-1062091435)
+    * [1955f72fb4dc47e78c432468a9937d25](https://www.deviantart.com/willinvadesearth/art/1955f72fb4dc47e78c432468a9937d25-1064787811)
+    * [82e75e36537d4b86b4b06a48bb458069](https://www.deviantart.com/willinvadesearth/art/82e75e36537d4b86b4b06a48bb458069-1061467489)
+    * [6b147ce111484b4ebfe686ded5d683fd](https://www.deviantart.com/willinvadesearth/art/6b147ce111484b4ebfe686ded5d683fd-1061460947)
+    * [Secret Tryst](https://www.deviantart.com/willinvadesearth/art/Secret-Tryst-1082373945)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
