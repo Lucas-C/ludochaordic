@@ -572,6 +572,13 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
 - [Stéphane Wootha Richard](https://express.adobe.com/page/ucLFuLOEKK9Uo/) public domain:
     * [Mordor](https://www.e-tribart.fr/blog/wp-content/uploads/2016/08/wootha7.jpg)
     * [Doctor Strange](https://express.adobe.com/page/ucLFuLOEKK9Uo/images/dc03da9f-60f8-489d-b686-d05b5bd54d22.jpg)
+- [Arben Krasniqi _aka_ SilentEmotionn](https://www.deviantart.com/silentemotionn/gallery): CC BY
+    * [Mad Max](https://www.deviantart.com/silentemotionn/art/Mad-Max-979054284)
+    * [Mobile Suit Gundam SEED Pilot #2](https://www.deviantart.com/silentemotionn/art/Mobile-Suit-Gundam-SEED-Pilot-2-978882245)
+    * [Retrowave Beach](https://www.deviantart.com/silentemotionn/art/Retrowave-Beach-977650505)
+    * [Waiting 4 U](https://www.deviantart.com/silentemotionn/art/Waiting-4-U-977640198)
+    * [Walk Alone](https://www.deviantart.com/silentemotionn/art/Walk-Alone-977296273)
+    * [Skylands](https://www.deviantart.com/silentemotionn/art/Skylands-976697408)
 - [Godstime Ojinmah _aka_ akol3850](https://www.google.com/search?q=site%3Awww.deviantart.com%2Fakol3850+%22Creative+Commons%22+-%22No+Derivative%22&tbm=isch) : several CC BY-NC
 > 26 yr character designer and illustrator always looking to improve - USA
     * Sci-fi [helmet concepts](https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128)
@@ -655,13 +662,6 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 > Polish painter, photographer and sculptor specializing in the field of dystopian surrealism.
     * [AA78, year 1978](https://commons.wikimedia.org/wiki/File:AA78_by_Zdzislaw_Beksinski_1978.jpg)
     * [Untitled, 1984](https://commons.wikimedia.org/wiki/File:Untitled_painting_by_Zdzislaw_Beksinski_1984.jpg)
-- [Arben Krasniqi _aka_ SilentEmotionn](https://www.deviantart.com/silentemotionn/gallery): CC BY
-    * [Mad Max](https://www.deviantart.com/silentemotionn/art/Mad-Max-979054284)
-    * [Mobile Suit Gundam SEED Pilot #2](https://www.deviantart.com/silentemotionn/art/Mobile-Suit-Gundam-SEED-Pilot-2-978882245)
-    * [Retrowave Beach](https://www.deviantart.com/silentemotionn/art/Retrowave-Beach-977650505)
-    * [Waiting 4 U](https://www.deviantart.com/silentemotionn/art/Waiting-4-U-977640198)
-    * [Walk Alone](https://www.deviantart.com/silentemotionn/art/Walk-Alone-977296273)
-    * [Skylands](https://www.deviantart.com/silentemotionn/art/Skylands-976697408)
 
 ## Single artworks
 - FJF Toledo CC BY-NC-ND artworks (⚠️: Non-Derivative):
