@@ -1,6 +1,6 @@
 Title: New Creative Commons artists
 Date: 2022-03-20 12:30
-Tags: lang:en, creative-commons, illustration, deviantart, pixabay, gratuit
+Tags: lang:en, creative-commons, illustration, deviantart, art, pixabay, gratuit
 Image-preview-thumbnailer: article ul ul,h2:nth-of-type(3) + ul
 Image-preview-thumbnailer-except-urls: deviantart.com/.+/gallery
 Image: thumbnails/summer-witch.png

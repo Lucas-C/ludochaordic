@@ -22,7 +22,7 @@ This article will present some of the major features introduced since **v2.7.3**
 
 * improvement regarding the HTML rendered: CSS page breaks properties; support for `start` & `type` attributes of `<ol>` tags, and `type` attribute of `<ul>` tags; `tag_styles` to control the font, color & size of most HTML elements; `tag_indents` to control the indent of many elements; `li_prefix_color`
 
-* improvement regarding tables: links, padding & vertical alignment in cells with `v_align`; `gutter_height`, `gutter_width` and `wrapmode`; outer border width; multiple heading rows; `repeat_headings`; custom `cell_fill_mode` logic; cells that span multiple rows via the `rowspan` attribute, which can be combined with `colspan`; 
+* improvement regarding tables: links, padding & vertical alignment in cells with `v_align`; `gutter_height`, `gutter_width` and `wrapmode`; outer border width; multiple heading rows; `repeat_headings`; custom `cell_fill_mode` logic; cells that span multiple rows via the `rowspan` attribute, which can be combined with `colspan`;
 
 * improvement regarding support for vector images (SVG) : support for `<image>` elements; support for `<defs>` and `<clipPath>` tags anywhere in the document, and for `<path>` children of `<clipPath>`;
 
@@ -49,6 +49,8 @@ This article will present some of the major features introduced since **v2.7.3**
     + an obscure and undocumented [feature](https://github.com/py-pdf/fpdf2/issues/1198) of [`FPDF.write_html()`](https://py-pdf.github.io/fpdf2/fpdf/fpdf.html#fpdf.fpdf.FPDF.write_html), which used to magically pass local variables as arguments.
 
 Mention PyConFr
+
++ https://github.com/py-pdf/fpdf2/discussions/1232 -> 1000 stars!
 
 Employer une grid: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
 .container {

@@ -584,6 +584,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * Sci-fi [helmet concepts](https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128)
     * [Anime powers](https://www.deviantart.com/akol3850/art/Anime-powers-772648830)
     * [Black Girl Pose](https://www.deviantart.com/akol3850/art/Black-Girl-Pose-780132830)
+    * [Zendaya](https://www.deviantart.com/akol3850/art/Zendaya-747444380)
+    * [The Floss is still cool in this Universe right?](https://www.deviantart.com/akol3850/art/The-Floss-is-still-cool-in-this-Universe-right-776892139)
     * [Android 18](https://www.deviantart.com/akol3850/art/Android-18-724205541)
 - [pazuah](https://www.deviantart.com/pazuah) : CC illustrations, some of them allow derivatives
 > US digital artist using AI
@@ -982,7 +984,7 @@ Generators that produces character illustrations that have not been placed under
 # Maps
 - Un excellent générateur de plan de donjon: [one-page-dungeon by watabou](https://watabou.itch.io/one-page-dungeon).
   Les cartes générées sont de plus éditables avec [RpgMap de Sébastien Benard](https://deepnight.net/tools/rpg-map/).
-- Watabou a également réalisé un [générateur de ville médiévale](https://watabou.itch.io/medieval-fantasy-city-generator), un [générateur de village](https://watabou.itch.io/village-generator) et un [générateur d'îles](https://watabou.itch.io/perilous-shores)
+- Watabou a également réalisé un [générateur de ville médiévale](https://watabou.itch.io/medieval-fantasy-city-generator), un [générateur de village](https://watabou.itch.io/village-generator), un [générateur d'îles](https://watabou.itch.io/perilous-shores) et un [générateur de plan de maison](https://watabou.itch.io/dwellings)
 - [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
 - [Planet / World Generator @ donjon.bin.sh](https://donjon.bin.sh/world/)
 - [Alien RPG System Generator](https://donjon.bin.sh/alien/system/)
@@ -998,7 +1000,7 @@ Generators that produces character illustrations that have not been placed under
 - [funny.pho.to charcoal filter](https://funny.pho.to/fr/charcoal/)
 
 ## GIFs
-- [Animizer](https://icons8.com/animizer/en/animate-static-image)
+- [Animizer](https://animizer.net/)
 - [EZGIF](https://ezgif.com/effects)
 - [webestools.com Animated Images Effects Generator](http://www.webestools.com/animated-images-effect-generator-effects-gif-images-picture-blog-gif-fx-images-animated-effect.html)
 - [PhotoMosh](https://photomosh.com)

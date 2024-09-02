@@ -1,6 +1,6 @@
 Title: Retour d'expérience sur un voyage a vélo jusqu'en Croatie
 Date: 2018-12-02 13:00
-Tags: lang:fr, hanabi, opinion, angers, europe, phone, recycling, street-art, velo, voyage
+Tags: lang:fr, hanabi, opinion, angers, europe, phone, recycling, street-art, art, velo, voyage
 Status: draft
 Slug: retour-d-experience-sur-un-voyage-a-velo-jusqu-en-croatie
 ---

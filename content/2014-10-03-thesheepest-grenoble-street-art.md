@@ -1,6 +1,6 @@
 Title: TheSheepest - Grenoble street-art
 Date: 2014-10-03 23:10
-Tags: lang:fr, street-art, grenoble, sheep, poesie
+Tags: lang:fr, street-art, art, grenoble, sheep, poesie
 Slug: thesheepest-grenoble-street-art
 ---
 <img src="images/2014/Oct/thesheepest_windowhead.jpg" alt="Un mouton à la fenêtre" width="200" style="display:block;">

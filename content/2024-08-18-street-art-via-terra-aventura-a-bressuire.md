@@ -1,6 +1,6 @@
 Title: Street art via Terra Aventura à Bressuire
 Date: 2024-08-18 22:00
-Tags: lang:fr, street-art, terra-aventura, bressuire, gratuit, smartphone, balade, jeff-aerosol, creative-commons
+Tags: lang:fr, street-art, art, terra-aventura, bressuire, gratuit, smartphone, balade, jeff-aerosol, creative-commons
 ---
 
 J'ai eu l'occasion de découvrir [Terra Aventura](https://www.terra-aventura.fr/),

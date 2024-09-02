@@ -36,7 +36,7 @@ Cette version a été entièrement réalisé avec [Adobe Snap.svg](http://snapsv
 
 Pour les devs, je recommande vivement le procédé, qui permet du "templating" de cartes très puissant, de la gestion de versions et du partage sur le web très simplement.
 
-Bien mieux que me précédent bricolages de cartes sour Word...
+Bien mieux que mes précédents bricolages de cartes sour Word...
 
 <img alt="Sa place est dans un musée !" src="images/wwcb/SaPlaceEstDansUnMusée.gif">
 
