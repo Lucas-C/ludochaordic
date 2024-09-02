@@ -26,7 +26,7 @@ Le MJ était au top durant la partie, et il avait réalisé un gros travail de p
 Le scénario est bien conçu, j'ai adoré l'ambiance « redneck forestier » & légendes <del>urbaines</del> rurales,
 tout comme la dimension enquête / _escape game_ de l'épisode.
 
-Seul petit bémol : la fin / solution du scénario, que j'ai trouvé très (trop) décoréllée du reste,
+Seul petit bémol : la fin / solution du scénario, que j'ai trouvé très (trop) décorrélée du reste,
 avec aucun indice matériel ou oral pour nous mettre sur la piste de cette solution...
 
 La partie a duré environ 5h30, et nous avons un peu perdu en immersion durant la seconde moitié,
@@ -36,7 +36,7 @@ où les PJs étaient tantôt délirants tantôt désabusés.
 La première moitié du scénario par contre nous a captivé,
 et nous avons pris grand plaisir à incarner ce groupe de collègues un peu blasés par leur boulot,
 qui réalise petit à petit l'horreur dans laquelle ils sont plongés,
-puis qui détricottent le fil des événements ayant eu lieu autour de cette station-service...
+puis qui détricotent le fil des événements ayant eu lieu autour de cette station-service...
 
 ## Sombre 8 - Not Another Slasher Movie
 > **A man after midnight** est un slasher old school inspiré de Vendredi 13.
@@ -53,7 +53,7 @@ puis qui détricottent le fil des événements ayant eu lieu autour de cette sta
 > Mais le Mal rôde encore dans les bois...
 
 ### Bande son
-Pour AMAM, j'ai opté pour une bande son minimaliste, [disponible sur YouTube](https://www.youtube.com/playlist?list=PLLgE-ga3W_kZZTFXFedoDWLTK4jeTg4f3), qui alternernait en boucle :
+Pour AMAM, j'ai opté pour une bande son minimaliste, [disponible sur YouTube](https://www.youtube.com/playlist?list=PLLgE-ga3W_kZZTFXFedoDWLTK4jeTg4f3), qui alternait en boucle :
 
 * Gimme! Gimme! Gimme! - ABBA
 * _ambient raining noise_
@@ -62,20 +62,20 @@ Pour AMAM, j'ai opté pour une bande son minimaliste, [disponible sur YouTube](h
 * Jolene - Dolly Parton
 * _ambient thunderstorm_
 
-Le décalage entre ùusique disco / pop et meutres gore à la chaîne était parfait !
+Le décalage entre musique disco / pop et meurtres gore à la chaîne était parfait !
 
 Pour MOLH, j'ai opté pour [Sophia - Deconstruction Of the World](https://www.youtube.com/playlist?list=PLYTvKGPmwAoJ5ctNIDAGL9FwlHbLCPGWt),
 du _dark ambiant_ / indus symphonique recommandé par Thomas Munier
 dans son livre [Musiques sombres pour jeux de rôles sombres (disponible gratuitement en PDF sur itch.io)](https://thomas-munier.itch.io/musiques-sombres-pour-jeux-de-rles-sombres).
 
 En dehors d'un ou deux passages musicaux que j'ai sauté car peu « raccords » avec l'ambiance,
-cela a vraiment bien fonctionné, et a permi de créer un contraste d'ambiance
+cela a vraiment bien fonctionné, et a permis de créer un contraste d'ambiance
 très net et bienvenu entre AMAM & MOLH.
 
 ### MOLH - PJs & carte relationnelle
 Les joueurs ont créé ces personnages :
 
-* **Sasha** : petit-soeur espiègle zozotante
+* **Sasha** : petit-sœur espiègle zozotante
 * **Matthew** : goth fan de _truecrime_
 * **Anoki** : skater amérindien
 * **Mike** : rocker punk
@@ -85,7 +85,7 @@ j'ai opté pour **remplacer les questions mélo** par un autre système pour cr�
 à partir d'une carte relationnelle initiale minimale indiquant uniquement Rick & Sasha et leur lien de parenté,
 les autres PJs devaient **se greffer un à un en inventant un lien avec l'un des personnages déjà présent**.
 
-![](images/2024/09/2024-09-01-Sombre8-PNJs.gif)
+![Carte relationnelle des liens entre PJs](images/2024/09/2024-09-01-Sombre8-PNJs.gif)
 
 <!-- Created with: convert -delay 50 2024-09-01-Sombre8-PNJs-* -duplicate 4 2024-09-01-Sombre8-PNJs.gif -->
 

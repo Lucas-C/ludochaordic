@@ -12,7 +12,7 @@ l'application gratuite de geocaching en Nouvelle-Aquitaine :
 
 En particulier, je recommande vivement son parcours _Un musée à ciel ouvert_,
 qui invite à une belle balade à Bressuire,
-et permet de découvrir et admirer plusieurs oeuvres de _**street art**_ :
+et permet de découvrir et admirer plusieurs oeuvres de [_**street art**_](tag/street-art.html) :
 
 <img alt="Parcours Terra Aventura - Un musée à ciel ouvert"
      src="images/2024/08/terra-aventura-un-musee-a-ciel-ouvert.jpg"
