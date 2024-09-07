@@ -26,6 +26,8 @@ Le MJ était au top durant la partie, et il avait réalisé un gros travail de p
 Le scénario est bien conçu, j'ai adoré l'ambiance « redneck forestier » & légendes <del>urbaines</del> rurales,
 tout comme la dimension enquête / _escape game_ de l'épisode.
 
+Notre équipe était constituée de Shawn, notre caméraman joué par Elliot, Sunny, technicienne son jouée par Laure, Peter, roadie musclé et bricoleur joué par Noah, et Elsa, historienne charismatique jouée par moi-même.
+
 Seul petit bémol : la fin / solution du scénario, que j'ai trouvé très (trop) décorrélée du reste,
 avec aucun indice matériel ou oral pour nous mettre sur la piste de cette solution...
 
@@ -75,7 +77,7 @@ très net et bienvenu entre AMAM & MOLH.
 ### MOLH - PJs & carte relationnelle
 Les joueurs ont créé ces personnages :
 
-* **Sasha** : petit-sœur espiègle zozotante
+* **Sasha** : petite-sœur espiègle zozotante
 * **Matthew** : goth fan de _truecrime_
 * **Anoki** : skater amérindien
 * **Mike** : rocker punk
@@ -102,7 +104,7 @@ Voici le bilan des victimes durant cette nuit tragique
 * **Helen**, comptable psychorigide jouée par Laure, décapité dans les sanitaires par Cyclope
 * **Gary**, maître-nageur dragueur joué par Noah, trucidé par Ursula
 * **Wade**, gardien alcoolique joué par Laure, étranglé contre un arbre par Cyclope
-* **John**, vagabond vétéran du Nam joué par Laure, découpé au hachoir par Ursula près de Sad Hill Tower
+* **John**, vagabond vétéran du Nam joué par Laure, découpé au hachoir par Ursula près de _Sad Hill Tower_
 * **Ursula**, cuisinière obèse jouée par Elliot, abattue par le fusil de chasse de Truman devant le chalet 20c
 * **Truman**, directeur magouilleur joué par Noah, transpercé par Cyclope devant le chalet 20c
 * **Lana**, prof d'escalade énervée jouée par Noah, finalement embrochée par Cyclope après avoir réussi à le plaquer au sol dans une allée
@@ -119,7 +121,7 @@ J'avais hâte de jouer cette partie depuis plusieurs mois, et je n'ai pas été 
 
 Les joueurs & moi même nous sommes beaucoup amusés, pendant environ 3h30 de session de jeu.
 
-On ne s'ennuie pas un instant, l'action et trépidante, et le scénario contient plein d'idées géniales :
+On ne s'ennuie pas un instant, l'action est trépidante, et le scénario contient plein d'idées géniales :
 
 * l'enchaînement jouissif des PJs d'AMAM, permettant aux joueurs de varier les plaisirs et les Traits
 * la dynamique en deux temps, _play to lose_ / _play to win_, fonctionne très bien
@@ -143,3 +145,11 @@ et de faire jouer la séquence dans les lieux même où nous étions.
   padding: .5rem;
 }
 </style>
+
+<!-- Com'
+* [x] email aux joueurs
+* [x] https://www.terresetranges.net/forums/viewtopic.php?id=1048&p=3
+* [x] https://www.misterfrankenstein.com/wordpress/?p=4281 (en cours de validation j'imagine)
+
+Autres joueurs initialement invités : Olivier & Simon, puis Matt & Pierre
+-->

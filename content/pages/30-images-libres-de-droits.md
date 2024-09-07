@@ -878,6 +878,7 @@ Mostly photos:
     * [homme-guerrier-portrait-soldat](https://pixabay.com/fr/illustrations/homme-guerrier-portrait-soldat-5996080/)
     * [décès-morte-gens-zombi-monstre](https://pixabay.com/fr/vectors/d%c3%a9c%c3%a8s-morte-gens-zombi-monstre-161695/)
     * [fantasy-warrior-demon-undead-evil](https://pixabay.com/illustrations/fantasy-warrior-demon-undead-evil-8082370/)
+    * [cyberpunk-futuriste-urbain](https://pixabay.com/fr/illustrations/cyberpunk-futuriste-urbain-7488618/)
 - [pxfuel](https://www.pxfuel.com)
     * [analog, watch, illustration lot, time, clock, watches, time of, business, appointment, past](https://www.pxfuel.com/en/free-photo-ooqqp)
 - [Open Image Collections](https://blogs.ntu.edu.sg/openimagecollections/)
