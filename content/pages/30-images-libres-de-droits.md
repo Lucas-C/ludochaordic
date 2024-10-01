@@ -985,13 +985,15 @@ Generators that produces character illustrations that have not been placed under
 # Maps
 - Un excellent générateur de plan de donjon: [one-page-dungeon by watabou](https://watabou.itch.io/one-page-dungeon).
   Les cartes générées sont de plus éditables avec [RpgMap de Sébastien Benard](https://deepnight.net/tools/rpg-map/).
-- Watabou a également réalisé un [générateur de ville médiévale](https://watabou.itch.io/medieval-fantasy-city-generator), un [générateur de village](https://watabou.itch.io/village-generator), un [générateur d'îles](https://watabou.itch.io/perilous-shores) et un [générateur de plan de maison](https://watabou.itch.io/dwellings)
+- Watabou a également réalisé un [générateur de ville médiévale](https://watabou.itch.io/medieval-fantasy-city-generator), un [générateur de village](https://watabou.itch.io/village-generator), un [générateur d'îles](https://watabou.itch.io/perilous-shores), un [générateur de quartier résidentiel](https://watabou.itch.io/neighbourhood) et un [générateur de plan de maison](https://watabou.itch.io/dwellings)
+- [2-Minute Tabletop free maps](https://2minutetabletop.com/product-category/free/) - CC BY-NC 4.0
+- `draw.io` peut être employé pour concevoir simplement des [plans de maisons](https://www.drawio.com/blog/floorplans)
 - [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
+  [> It can be used offline <](https://github.com/Azgaar/Fantasy-Map-Generator/wiki/Q&A#can-i-use-the-generator-offline)
 - [Planet / World Generator @ donjon.bin.sh](https://donjon.bin.sh/world/)
 - [Alien RPG System Generator](https://donjon.bin.sh/alien/system/)
 - [Polygon map generator from Red Blob Games](https://www.redblobgames.com/maps/mapgen2/)
 - [Scallywag!](https://rawgit.com/wlievens/scallywag/master/index.html) : générateur de cartes au trésor
-- [2-Minute Tabletop free maps](https://2minutetabletop.com/product-category/free/) - CC BY-NC 4.0
 
 
 # Online image tools

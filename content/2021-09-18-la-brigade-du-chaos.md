@@ -2,27 +2,6 @@ Title: La Brigade du Chaos
 Date: 2021-09-18 17:00
 Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-blackbird, john-harper, zero-prep, one-shot, jdr4kids, jeux, @Aurelien, @Henri, @ThomasG
 ---
-<!-- Com'
-* [x] blog post & page jeux-de-role
-* [x] https://discord.com/invite/uFn5zJZrt2
-* [x] https://www.deviantart.com/drmaxkurt/journal/Excellent-JdR-gratuit-la-Brigade-du-Chaos-892253402
-* [x] https://www.cestpasdujdr.fr/lettrpg/
-* [x] email aux playtesteurs
-* [x] https://forums.ffjdr.org/t/la-brigade-du-chaos/634
-* [x] https://www.casusno.fr/viewtopic.php?f=8&t=39634
-* [x] https://forum.cwowd.com/t/gratuit-traduction-la-brigade-du-chaos/25072
-* [x] https://opale-roliste.com/forum/ressources/vos-creations/gratuit-traduction-brigade-du-chaos
-* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10418
-      -> référence : https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions
-* [x] Discord Auberge des rêveurs
-* [x] https://www.trictrac.net/forum/sujet/traduction-gratuit-la-brigade-du-chaos
-* [x] https://rpggeek.com/thread/2728434/article/38492614#38492614
-* [x] https://forum.canardpc.com/threads/12905-JDR-Jeux-de-R%C3%B4le-Topic-G%C3%A9n%C3%A9ral?p=13548708&viewfull=1#post13548708
-* [x] https://www.reddit.com/r/jdr/comments/pt2p93/gratuit_oneshot_traduction_la_brigade_du_chaos/
-* [x] http://www.legrog.org/jeux-amateurs/la-brigade-du-chaos
-* [wip] https://www.annuairejdr.fr
--->
-
 > Incarnez la Brigade du Chaos, une escouade d'orcs chahuteurs en mission pour « infiltrer » une ville humaine afin de kidnapper l'ignoble prince Holstein.
 
 <em>[![Couverture du jeu Havoc Brigade](images/2021/09/Havoc-Brigade-cover.jpg)](https://lucas-c.itch.io/la-brigade-du-chaos)
@@ -75,3 +54,25 @@ Merci à Aurélien, Henri, Loic & Thomas pour les parties de test !
 article img { width: 30rem; }
 img.comic-strip { max-height: none; max-width: 100%; }
 </style>
+
+<!-- Com'
+* [x] blog post & page jeux-de-role
+* [x] https://discord.com/invite/uFn5zJZrt2
+* [x] https://www.deviantart.com/drmaxkurt/journal/Excellent-JdR-gratuit-la-Brigade-du-Chaos-892253402
+* [x] https://www.cestpasdujdr.fr/lettrpg/
+* [x] email aux playtesteurs
+* [x] https://forums.ffjdr.org/t/la-brigade-du-chaos/634
+* [x] https://www.casusno.fr/viewtopic.php?f=8&t=39634
+* [x] https://forum.cwowd.com/t/gratuit-traduction-la-brigade-du-chaos/25072
+* [x] https://opale-roliste.com/forum/ressources/vos-creations/gratuit-traduction-brigade-du-chaos
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=10418
+      -> référence : https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions
+* [x] Discord Auberge des rêveurs
+* [x] https://www.trictrac.net/forum/sujet/traduction-gratuit-la-brigade-du-chaos
+* [x] https://rpggeek.com/thread/2728434/article/38492614#38492614
+* [x] https://forum.canardpc.com/threads/12905-JDR-Jeux-de-R%C3%B4le-Topic-G%C3%A9n%C3%A9ral?p=13548708&viewfull=1#post13548708
+* [x] https://www.reddit.com/r/jdr/comments/pt2p93/gratuit_oneshot_traduction_la_brigade_du_chaos/
+* [x] http://www.legrog.org/jeux-amateurs/la-brigade-du-chaos
+* [wip] https://www.annuairejdr.fr
+-->
+

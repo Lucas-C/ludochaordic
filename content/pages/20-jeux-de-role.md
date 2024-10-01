@@ -19,6 +19,32 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Paradis Perdu - Modules de secours</h2>
+    <img class="uk-align-center" src="images/2024/09/ModulesDeSecours-covers.jpg" alt="Couverture de l'aide jeu Modules de secours pour le jeu Paradis Perdu">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Aide de jeu pour le jeu <a href="https://www.misterfrankenstein.com/wordpress/?p=5388">Paradis Perdu d'Yno</a></dd>
+        <dt>Pour</dt><dd>1 MJ + 3 à 5 joueurs</dd>
+        <dt>Durée</dt><dd>quelques heures</dd>
+      </dl>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/modules-de-secours">Paradis Perdu - Modules de secours (sur itch.io)</a></li>
+        <li><a href="modules-de-secours.html">Article de présentation</a></li>
+      </ul>
+      <p><u><b>Contenu :</b></u></p>
+      <ul>
+        <li>34 pages de modules optionnels</li>
+        <li>🗺️ un <b>plan</b> des 10 niveaux de la station <b>Terra Nova</b></li>
+        <li>💻 un <b>terminal web interactif</b>, explorable par les joueurs durant la partie</li>
+        <li>🤖 une description détaillée des <b>PNJs</b> et de leurs comportements durant le scénario</li>
+        <li>🔗 des propositions pour vous aider à préparer la partie, et créer du <b>lien entre les PJs</b></li>
+        <li>🎬 plusieurs <b>scènes</b> de rebondissements à insérer dans les actes 2 & 3</li>
+        <li>🎶 des suggestions de morceaux pour étoffer la <b>bande son</b></li>
+        <li>🖼️ une galerie Pinterest d'<b>illustrations</b> et quelques clips <b>vidéos</b></li>
+      </ul>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Blades in the Dark - Interrogatoires</h2>
     <img class="uk-align-center" src="images/2024/08/BitD-Interrogatoires.png" alt="Couverture de l'aide jeu Interrogatoires pour le jeu Blades in the Dark">
     <div class="uk-thumbnail-caption">
