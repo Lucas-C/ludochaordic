@@ -60,6 +60,7 @@ Les `MERCS4US` étaient composés de ces 4 _Runners_ :
 * [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
 * [x] https://www.casusno.fr/viewtopic.php?p=2200100#p2200100
 * [x] https://www.reddit.com/r/jdr/comments/1cja5ww/cyberpunk_jdr_en_2_pages/
+* [ ] https://forums.ffjdr.org/c/jdr/jdr-gratuit/30
 * [ ] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
 -->
 

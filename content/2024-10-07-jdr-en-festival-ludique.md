@@ -22,7 +22,7 @@ Durant ces événements, concernant le choix des jeux proposés, je privilégie 
 * un **plan des lieux** posé au milieu de la table, permettant aux joueur·euses de se projeter plus facilement dans l'environnement de la partie
 * une **vraie fin**, une résolution à l'histoire
 
-Parmi les jeux qui répondent à ces critères, j'ai choisi 3 scénarios pour le jeu [**Sombre** de Johan Scipion](https://www.terresetranges.net/sombre.html), ainsi que [**La Brigade du Chaos** de Grant Howitt](la-brigade-du-chaos.html).
+Parmi les jeux qui répondent à ces critères, j'ai choisi 3 scénarios pour le jeu [**Sombre** de Johan Scipion](tag/sombre.html), ainsi que [**La Brigade du Chaos** de Grant Howitt](la-brigade-du-chaos.html).
 Plein d'autres jeux peuvent bien sûr également convenir !
 
 Concernant l'affiche, comme le jeu de rôle peu parfois intimider, je voulais que les joueur·euses aient un maximum d'information pour pouvoir s'inscrire à une partie en sachant dans quoi ils s'embarquaient 😊 J'ai donc souhaité :
