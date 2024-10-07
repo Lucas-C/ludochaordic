@@ -1906,10 +1906,14 @@ Prépa :
 * read some PDFs / OlinKirkland scenarios (15+)
 * remercier Tim Denee pour son plan, et consulter ses autres sur flickr
 
-Petites annonces des Chroniques du Crépuscule :
+Petites annonces diffusées dans ne n°83 des Chroniques du Crépuscule :
 + Mécène : Lord Scurlock qui veut faire voler la croix de Mist
 + Revendeur du matériel Silver Nails : The Hive
 + "Vide maison" Lady Drake commandite le Score du manoir hanté de Lord Lomon
+Autres mentions issues des Chroniques du Crépuscule à exploiter :
++ n°83 - Appel au retour au calme d'Olivia Dream
++ n°83 - Grande messe de l’Extase de la Chair
++ n°83 - Commercant de Nightmarcket tué avec grafiti "Il voit tout"
 
 Prochaine session :
 * INTRO : PJs plongés dans un lieu étrange, sans souvenir de comment ils y sont arrivés...
