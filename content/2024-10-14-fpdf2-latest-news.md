@@ -189,11 +189,17 @@ dialog {
   border-radius: 1rem;
 }
 dialog li { margin: .5rem 0; }
-dialog img { max-height: 20rem; max-width: 25rem; }
+dialog img { max-height: 20rem; }
+@media (min-width:768px) {
+  dialog img { max-width: 25rem; }
+}
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
+}
+@media (min-width:768px) {
+  .grid { grid-template-columns: repeat(3, 1fr); }
 }
 .grid > * {
   background: #33cc66;
