@@ -42,20 +42,21 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2024-10-14', 'img_url': 'images/readings/SaisonBrune.jpg', 'description': 'Saison Brune - Philippe Squarzoni (BD)'},
     {'date': '2024-09-27', 'img_url': 'images/readings/CeNestPasToiQueJattendais.jpg', 'description': "Ce n'est pas toi que j'attendais - Fabien Toulmé (BD)"},
-    {'date': '2024-09-08', 'img_url': 'images/readings/Bourdieu-UneEnqueteAlgerienne.jpg', 'description': "Bourdieu : une enquête algérienne - Pascal Génot & Olivier Thomas (BD)"},
-    {'date': '2024-09-07', 'img_url': 'images/readings/BouleDeFeu.jpg', 'description': "Boule de feu - Anouk Ricard & Etienne Chaize (BD)"},
-    {'date': '2024-08-06', 'img_url': 'images/readings/Birdking.jpg', 'description': "Birdking - Daniel Freedman & CROM (BD)"},
+    {'date': '2024-09-08', 'img_url': 'images/readings/Bourdieu-UneEnqueteAlgerienne.jpg', 'description': 'Bourdieu : une enquête algérienne - Pascal Génot & Olivier Thomas (BD)'},
+    {'date': '2024-09-07', 'img_url': 'images/readings/BouleDeFeu.jpg', 'description': 'Boule de feu - Anouk Ricard & Etienne Chaize (BD)'},
+    {'date': '2024-08-06', 'img_url': 'images/readings/Birdking.jpg', 'description': 'Birdking - Daniel Freedman & CROM (BD)'},
     {'date': '2024-06-14', 'img_url': 'images/readings/PetitManuelDAutoDefenseEnInterrogatoire.webp', 'description': "Petit manuel d'autodéfense en interrogatoire - Éditions du commun (essai)"},
-    {'date': '2024-05-03', 'img_url': 'images/readings/LaFilleMauditeDuCapitainePirate.png', 'description': "La Fille Maudite Du Capitaine Pirate - Jeremy Bastian (BD)"},
+    {'date': '2024-05-03', 'img_url': 'images/readings/LaFilleMauditeDuCapitainePirate.png', 'description': 'La Fille Maudite Du Capitaine Pirate - Jeremy Bastian (BD)'},
     {'date': '2024-04-25', 'img_url': 'images/readings/ParadisPerdu.jpg', 'description': "ParadisPerdu - Anthony 'Yno' Combrexelle (JdR)"},
-    {'date': '2024-04-08', 'img_url': 'images/readings/bleu-a-la-lumiere-du-jour.jpg', 'description': "Bleu à la lumière du jour - Borja Gonzalez (BD)"},
-    {'date': '2024-04-02', 'img_url': 'images/readings/MadMaxiJack.jpg', 'description': "Mad Maxi Jack - Étienne Beck (BD)"},
-    {'date': '2024-03-13', 'img_url': 'images/readings/TheLastRonin.jpg', 'description': "TMNT: The Last Ronin  Kevin Eastman & Peter Laird & Tom Waltz (comics)"},
-    {'date': '2024-02-27', 'img_url': 'images/readings/PrettyDeadly3.jpg', 'description': "Pretty Deadly Volume 3 The Rat - Kelly Sue DeConnick & Emma Rios (comics)"},
-    {'date': '2024-01-07', 'img_url': 'images/readings/Sombre12.jpg', 'description': "Sombre n°12 - Johan Scipion (JdR)"},
-    {'date': '2023-11-13', 'img_url': 'images/readings/LesContesDuGivre.jpg', 'description': "Les Contes du Givre - Josselin Billard (BD)"},
-    {'date': '2023-10-21', 'img_url': 'images/readings/pepin-et-olivia-t1.jpg', 'description': "Pépin et Olivia - Camille Jourdy (BD)"},
+    {'date': '2024-04-08', 'img_url': 'images/readings/bleu-a-la-lumiere-du-jour.jpg', 'description': 'Bleu à la lumière du jour - Borja Gonzalez (BD)'},
+    {'date': '2024-04-02', 'img_url': 'images/readings/MadMaxiJack.jpg', 'description': 'Mad Maxi Jack - Étienne Beck (BD)'},
+    {'date': '2024-03-13', 'img_url': 'images/readings/TheLastRonin.jpg', 'description': 'TMNT: The Last Ronin - Kevin Eastman & Peter Laird & Tom Waltz (comics)'},
+    {'date': '2024-02-27', 'img_url': 'images/readings/PrettyDeadly3.jpg', 'description': 'Pretty Deadly Volume 3 The Rat - Kelly Sue DeConnick & Emma Rios (comics)'},
+    {'date': '2024-01-07', 'img_url': 'images/readings/Sombre12.jpg', 'description': 'Sombre n°12 - Johan Scipion (JdR)'},
+    {'date': '2023-11-13', 'img_url': 'images/readings/LesContesDuGivre.jpg', 'description': 'Les Contes du Givre - Josselin Billard (BD)'},
+    {'date': '2023-10-21', 'img_url': 'images/readings/pepin-et-olivia-t1.jpg', 'description': 'Pépin et Olivia - Camille Jourdy (BD)'},
     {'date': '2023-10-15', 'img_url': 'images/readings/Lau-dela_JasonShiga.jpg', 'description': "L'au-delà - Jason Shiga (BD)"},
     {'date': '2023-09-30', 'img_url': 'images/readings/le-mythe-de-l-rsquo-ossuaire-des-milliers-de-plumes-noires.jpg', 'description': "Des milliers de plumes noires - Jeff Lemire & Andrea Sorrentino (BD)"},
     {'date': '2023-08-21', 'img_url': 'images/readings/pour-quelques-degres-de-plus.jpg', 'description': "Pour quelques degrés de plus - Ulysse Gry (BD)"},
@@ -278,7 +279,7 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'deadlinks', 'image_preview_thumbnailer', 'pelican.plugins.sitemap', 'representative_image', 'tag_cloud') #, 'w3c_validate')
+PLUGINS = ('ctags_generator', 'deadlinks', 'image_preview_thumbnailer', 'representative_image') #, 'w3c_validate')
 
 # Configuring image lazyloading for the image_preview_thumbnailer plugin:
 IMAGE_PREVIEW_THUMBNAILER_INSERTED_HTML = '<a href="{link}" target="_blank"s><img loading="lazy" src="{thumb}" class="preview-thumbnail"></a>'
@@ -316,6 +317,7 @@ ARCHIVE_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 
 CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 EXTRA_ATOM_FEED = {

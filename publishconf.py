@@ -17,6 +17,6 @@ RELATIVE_URLS = False
 TAG_SAVE_AS = 'tag/{slug}.html'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
-PLUGINS += ('shaarli_poster', 'linkbacks')
+PLUGINS += ('linkbacks', 'pelican.plugins.sitemap', 'shaarli_poster', 'tag_cloud')
 
 DEADLINK_VALIDATION = False
