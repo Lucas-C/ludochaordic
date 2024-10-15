@@ -143,18 +143,18 @@ New tutorials :
 </dialog>
 
 <div class="grid">
-  <button onclick="document.getElementById('org-changes').show()">Organizational changes</button>
-  <button onclick="document.getElementById('text-shaping').show()">Text shaping with Harfbuzz</button>
-  <button onclick="document.getElementById('bezier-curves').show()">Bezier curves</button>
-  <button onclick="document.getElementById('free-text-annotations').show()">Free Text annotations</button>
-  <button onclick="document.getElementById('other-additions').show()">Other additions</button>
-  <button onclick="document.getElementById('combining-with-other-libs').show()">Combining with other libs</button>
-  <button onclick="document.getElementById('tables').show()">Tables improvements</button>
-  <button onclick="document.getElementById('html').show()">HTML</button>
-  <button onclick="document.getElementById('performance-improvements').show()">Performance improvements</button>
-  <button onclick="document.getElementById('uniformisation').show()">Uniformisation</button>
-  <button onclick="document.getElementById('pypi-trusted-publisher').show()">Pypi Trusted Publisher</button>
-  <button onclick="document.getElementById('new-tutorials').show()">New tutorials</button>
+  <button aria-label="Open modal with details" aria-controls="org-changes">Organizational changes</button>
+  <button aria-label="Open modal with details" aria-controls="text-shaping">Text shaping with Harfbuzz</button>
+  <button aria-label="Open modal with details" aria-controls="bezier-curves">Bezier curves</button>
+  <button aria-label="Open modal with details" aria-controls="free-text-annotations">Free Text annotations</button>
+  <button aria-label="Open modal with details" aria-controls="other-additions">Other additions</button>
+  <button aria-label="Open modal with details" aria-controls="combining-with-other-libs">Combining with other libs</button>
+  <button aria-label="Open modal with details" aria-controls="tables">Tables improvements</button>
+  <button aria-label="Open modal with details" aria-controls="html">HTML</button>
+  <button aria-label="Open modal with details" aria-controls="performance-improvements">Performance improvements</button>
+  <button aria-label="Open modal with details" aria-controls="uniformisation">Uniformisation</button>
+  <button aria-label="Open modal with details" aria-controls="pypi-trusted-publisher">Pypi Trusted Publisher</button>
+  <button aria-label="Open modal with details" aria-controls="new-tutorials">New tutorials</button>
 </div>
 
 <br>
@@ -179,14 +179,18 @@ Finally, [Hacktoberfest](https://hacktoberfest.com/) is currently running, and w
 
 <style>
 dialog {
-  z-index: 1;
-  position: absolute;
-  margin: 0;
-  padding: 1rem 4rem;
-  width: calc(100% - 8rem);
-  max-width: 100%;
+  margin: 8rem 1rem;
+  padding: 1rem 2rem;
   border: 2px solid black;
   border-radius: 1rem;
+}
+@media (min-width:960px) {
+  dialog {
+    width: 60rem;
+    margin-left: -30rem;
+    margin-right: 0;
+    left: 45%;
+  }
 }
 dialog li { margin: .5rem 0; }
 dialog img { max-height: 20rem; }
@@ -201,7 +205,7 @@ dialog img { max-height: 20rem; }
 @media (min-width:768px) {
   .grid { grid-template-columns: repeat(3, 1fr); }
 }
-.grid > * {
+.grid button {
   background: #33cc66;
   padding: 1.5rem;
   border: 2px solid black;
@@ -210,6 +214,16 @@ dialog img { max-height: 20rem; }
 </style>
 
 <script>
-// Allows to relatively position <dialog> elements:
-document.getElementsByClassName("uk-article-content")[0].style.position = "relative";
+document.querySelectorAll(".grid button").forEach(btn => {
+  btn.onclick = () => document.getElementById(btn.getAttribute("aria-controls")).showModal();
+});
 </script>
+
+<!--
+Com':
+* [x] https://dev.to/lucasc/fpdf2-latest-news-7pc
+* [x] https://news.ycombinator.com/item?id=41838642
+* [x] https://www.reddit.com/r/hacktoberfest/comments/1g3j2v1/
+* [x] https://news.humancoders.com/ (submitted: published?)
+* [ ] https://www.reddit.com/r/pythonnews/ (now requires access)
+-->
