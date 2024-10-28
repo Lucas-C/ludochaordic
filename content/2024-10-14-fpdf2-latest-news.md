@@ -210,6 +210,7 @@ dialog img { max-height: 20rem; }
   padding: 1.5rem;
   border: 2px solid black;
   border-radius: 2rem;
+  cursor: pointer;
 }
 </style>
 
