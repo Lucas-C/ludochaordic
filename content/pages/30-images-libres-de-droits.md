@@ -610,6 +610,22 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [82e75e36537d4b86b4b06a48bb458069](https://www.deviantart.com/willinvadesearth/art/82e75e36537d4b86b4b06a48bb458069-1061467489)
     * [6b147ce111484b4ebfe686ded5d683fd](https://www.deviantart.com/willinvadesearth/art/6b147ce111484b4ebfe686ded5d683fd-1061460947)
     * [Secret Tryst](https://www.deviantart.com/willinvadesearth/art/Secret-Tryst-1082373945)
+- [Trent Anthony Francis](https://www.deviantart.com/trentanthonyfrancis/gallery/all): Melbourne-based artist - CC BY - Horror
+    * [Online gallery](https://www.trentanthonyfrancis.com/visual)
+    * [Google Drive](https://drive.google.com/drive/folders/1yYH0wOTc6fSYHKN9gGhlRVzuulelgNEJ)
+    * [Lake Witch](https://www.deviantart.com/trentanthonyfrancis/art/Lake-Witch-1111827146)
+    * [Dream Eater II](https://www.deviantart.com/trentanthonyfrancis/art/Dream-Eater-II-1090907475)
+    * [Furious Angels](https://www.deviantart.com/trentanthonyfrancis/art/Furious-Angels-1117266415)
+    * [Nagrindarkona](https://www.deviantart.com/trentanthonyfrancis/art/Nagrindarkona-1112706209)
+    * [The Bone Lady](https://www.deviantart.com/trentanthonyfrancis/art/The-Bone-Lady-1103268376)
+- [TenPenBen](https://www.deviantart.com/tenpenben) - CC BY-SA
+    * [CrossbowKnight](https://www.deviantart.com/tenpenben/art/TenPenBenCrossbowKnightDeviantArt-1045801738)
+    * [NatureKnight](https://www.deviantart.com/tenpenben/art/NatureKnight-1049902081)
+    * [Spear-Robot-Sketch](https://www.deviantart.com/tenpenben/art/Spear-Robot-Sketch-1075104152)
+- [Wison Hendrik aka Cicakkia](https://www.google.com/search?q=site%3Awww.deviantart.com%2Fcicakkia+%22Creative+Commons%22+-%22No+Derivative%22&tbm=isch) - Indonesian digital artist - Some CC BY-SA - anthropomorphic animals
+    * [Navigator](https://www.deviantart.com/cicakkia/art/Navigator-1115715346)
+    * [Backpack](https://www.deviantart.com/cicakkia/art/Backpack-1104930253)
+    * [Violin](https://www.deviantart.com/cicakkia/art/Violin-1116085375)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -719,13 +735,17 @@ which does not share the same ambition as the _Creative Commons_, but still allo
     * [Wesnoth Figures](https://wiki.wesnoth.org/WesnothFigures)
     * [List of supporting characters from the Rise of Wesnoth](https://www.wesnoth.org/forum/viewtopic.php?t=32775)
     * [Sceptre of Fire Campaign](https://wiki.wesnoth.org/List_of_supporting_characters_from_The_Rise_of_Wesnoth)
-    * [brown lich](images/bitd/cc-licensed/wesnoth-brown-lich-cc-by-sa.webp)
-    * [ogre](images/bitd/cc-licensed/wesnoth-ogre-cc-by-sa.webp)
-    * [slayer](images/bitd/cc-licensed/wesnoth-slayer-cc-by-sa.webp)
-    * [marko](images/bitd/cc-licensed/wesnoth-ANO_art-marko.png)
     * GitHub repos: [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - [wesnoth/resources](https://github.com/wesnoth/resources) - [cooljeanius/ANO_art](https://github.com/cooljeanius/ANO_art)
+    * ![brown lich](images/bitd/cc-licensed/wesnoth-brown-lich-cc-by-sa.webp)
+    * ![ogre](images/bitd/cc-licensed/wesnoth-ogre-cc-by-sa.webp)
+    * ![slayer](images/bitd/cc-licensed/wesnoth-slayer-cc-by-sa.webp)
+    * ![marko](images/bitd/cc-licensed/wesnoth-ANO_art-marko.png)
     * [WTactics](https://wtactics.org/) - [OpenGameArt gallery](https://opengameart.org/content/wtactics) (Wesnoth CCG) / [GitHub repo wtactics/art](https://github.com/wtactics/art/tree/master) - [preview board/search @arcmage.org](https://arcmage.org/artwork/) - CC BY-SA
-```
+    * ![Books](images/bitd/cc-licensed/wtactics-Books-cc-by-sa.png)
+    * ![Lobotomized Library](images/bitd/cc-licensed/wtactics-LobotomizedLibrary-cc-by-sa.png)
+    * ![Nun](images/bitd/cc-licensed/wtactics-Nun-cc-by-sa.png)
+    * ![Vulture Assassin](images/bitd/cc-licensed/wtactics-VultureAssassin-cc-by-sa.png)
+```shell
 git clone --depth 1 git@github.com:wesnoth/wesnoth.git
 cd wesnoth
 mkdir illustrations
@@ -822,7 +842,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 # Websites
 ## Search engines
 - [Google images](https://www.google.fr/search?site=imghp&tbm=isch&tbs=sur:f&gws_rd=cr&dcr=0&ei=57lCWp-8LsalUdaugOAI) -
-Useful syntax: `(artwork|clipart|"concept art"|illustration|drawing|painting|comics) -"No Derivative" -site:intergalacticrobot.blogspot.com` -
+Useful syntax: `(artwork|clipart|"concept art"|illustration|drawing|painting|comics) -"No Derivative" -"AI tools" -"OpenAI" -site:intergalacticrobot.blogspot.com` -
 And possibly: `after:2020-01-01` / `before:2020-01-01`
 - [DeviantArt Creative Commons via Google](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-%22No+Derivative+Works%22+-mandala-"User Profile")
 - [OpenVerse](https://wordpress.org/openverse/search/)
