@@ -42,6 +42,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2024-11-02', 'img_url': 'images/readings/Paranormal.jpg', 'description': 'Paranormal - Dan Christensen - tomes 1/2/3 (BD)'},
     {'date': '2024-10-28', 'img_url': 'images/readings/Bookhunter.jpg', 'description': 'Bookhunter - Jason Shiga (BD)'},
     {'date': '2024-10-14', 'img_url': 'images/readings/SaisonBrune.jpg', 'description': 'Saison Brune - Philippe Squarzoni (BD)'},
     {'date': '2024-09-27', 'img_url': 'images/readings/CeNestPasToiQueJattendais.jpg', 'description': "Ce n'est pas toi que j'attendais - Fabien Toulmé (BD)"},

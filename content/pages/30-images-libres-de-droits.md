@@ -461,6 +461,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Kenku](https://www.deviantart.com/ubergank/art/Kenku-814005528)
     * [Ronin](https://www.deviantart.com/ubergank/art/Ronin-812555564)
     * [WoW female dwarf](https://www.deviantart.com/ubergank/art/World-of-Warcraft-Dwarf-790169780)
+    * [Sea Witch](https://www.deviantart.com/ubergank/art/Sea-Witch-650619110)
+    * [Sand Sea Privateer](https://www.deviantart.com/ubergank/art/Sand-Sea-Privateer-830984196)
+    * [Brown Eyed Girl](https://www.deviantart.com/ubergank/art/Brown-Eyed-Girl-815538568)
 - [Eggboy122](https://www.deviantart.com/eggboy122/gallery) : CC / CC BY-NC
 > Student,nerd and artist from China.
     * [Dragon in the cloud](https://www.deviantart.com/eggboy122/art/Dragon-in-the-cloud-729190895)
@@ -468,6 +471,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Devil butler/godfather](https://www.deviantart.com/eggboy122/art/66-724983974)
     * [Knight in a fire](https://www.deviantart.com/eggboy122/art/Knight-695507596)
     * [Angel maybe](https://www.deviantart.com/eggboy122/art/Angel-maybe-697980132)
+    * [Tiefling warlock](https://www.deviantart.com/eggboy122/art/Tiefling-warlock-708100062)
 - [Stephen Greenhouse _aka_ Bubblypies](https://www.deviantart.com/bubblypies/gallery/) : CC BY-NC-SA
 > Artist, artisan leather crafter and illustrator - [patreon](https://www.patreon.com/user/creators?u=5356623)
     * [Steam-Pug](https://www.deviantart.com/bubblypies/art/Steam-Pug-Pugs-of-war-377856586)
@@ -569,7 +573,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Silent Hill 4 Fan Art - Wounded Eileen Galvin](https://www.deviantart.com/demento-liszt/art/Silent-Hill-4-Fan-Art-Wounded-Eileen-Galvin-763349883)
     * [Hellsing Ultimate Fanart - Integra Hellsing](https://www.deviantart.com/demento-liszt/art/Hellsing-Ultimate-Fanart-Integra-Hellsing-789516159)
     * [Get Backers Fan Art - Dr. Jackal](https://www.deviantart.com/demento-liszt/art/Get-Backers-Fan-Art-Dr-Jackal-762869273)
-- [Stéphane Wootha Richard](https://express.adobe.com/page/ucLFuLOEKK9Uo/) public domain:
+- [Stéphane Wootha Richard](https://express.adobe.com/page/ucLFuLOEKK9Uo/) public domain (90GB):
     * [Mordor](https://www.e-tribart.fr/blog/wp-content/uploads/2016/08/wootha7.jpg)
     * [Doctor Strange](https://express.adobe.com/page/ucLFuLOEKK9Uo/images/dc03da9f-60f8-489d-b686-d05b5bd54d22.jpg)
 - [Arben Krasniqi _aka_ SilentEmotionn](https://www.deviantart.com/silentemotionn/gallery): CC BY
@@ -627,20 +631,26 @@ which does not share the same ambition as the _Creative Commons_, but still allo
     * [book read novel light painting](https://pixabay.com/fr/illustrations/livre-lis-roman-l%c3%a9ger-la-peinture-5946219/)
     * [fairy tales elephants smoke myths](https://pixabay.com/fr/illustrations/les-contes-de-f%c3%a9es-%c3%a9l%c3%a9phants-fum%c3%a9e-4057425/)
     * [cartoon painting universe hood stars](https://pixabay.com/fr/illustrations/dessin-anim%c3%a9-la-peinture-univers-5124000/)
+    * [apples man water loneliness hat](https://pixabay.com/illustrations/apples-man-water-loneliness-hat-6298707/)
+    * [prisoner brain captivity thinking](https://pixabay.com/illustrations/prisoner-brain-captivity-thinking-6253261/)
+    * [candles melting light burning](https://pixabay.com/illustrations/candles-melting-light-burning-6253259/)
 - [kirillslov @Pixabay](https://pixabay.com/fr/users/kirillslov-8058952/?tab=popular)
     * [château fleurs pont-levis](https://pixabay.com/fr/vectors/ch%c3%a2teau-fleurs-pont-pont-levis-6968619/)
     * [dinosaure préhistorique planète](https://pixabay.com/fr/vectors/dinosaure-pr%c3%a9historique-plan%c3%a8te-6968712/)
     * [château forteresse immeuble](https://pixabay.com/fr/vectors/ch%c3%a2teau-forteresse-imeuble-6477872/)
     * [bateau volant](https://pixabay.com/fr/vectors/fond-d-%c3%a9cran-haute-d%c3%a9finition-5514965/)
+    * [ship shrimp space fantasy sky](https://pixabay.com/vectors/ship-shrimp-space-fantasy-sky-7035375/)
 - Ady Setiawan aka [Asketch @Pixabay](https://pixabay.com/fr/users/asketch-21255728/?tab=popular), from Indonesia
     * [ninja japon warrior yakuza](https://pixabay.com/fr/illustrations/ninja-japon-style-guerrier-homme-6246685/)
     * [cat ninja oni demon](https://pixabay.com/fr/photos/zombi-cat-femme-ninja-fille-6194997/)
     * [zombie melting eye projector](https://pixabay.com/fr/illustrations/zombi-fusion-femme-fille-peu-s%c3%bbr-6203296/)
     * [VR steampunk](https://pixabay.com/fr/illustrations/bo%c3%aete-de-vr-steampunk-femme-fille-6203301/)
-- [Lwcy @Pixabay](https://pixabay.com/users/lwcy-19110/), from Argentina:
+    * [zombie girl demon in green dead](https://pixabay.com/illustrations/zombie-girl-demon-in-green-dead-6210101/)
+- [Lwcy aka Lemonboots @Pixabay](https://pixabay.com/users/lwcy-19110/), from Argentina:
     * [Girl Paper Texture](https://pixabay.com/illustrations/girl-paper-texture-design-colorful-3659267/)
     * [Roof Home House](https://pixabay.com/illustrations/roof-home-house-outdoors-clouds-3615715/)
     * [Church Paint Nature](https://pixabay.com/illustrations/church-paint-religion-architecture-3659275/)
+    * [Pages Leaves Paper Texture](https://pixabay.com/illustrations/pages-leaves-paper-texture-8794179/)
 
 ## From last century
 - [John Bauer @ WikiArt](https://www.wikiart.org/en/john-bauer) : public domain - classic gothic / nordic tales, art nouveau
@@ -709,7 +719,26 @@ which does not share the same ambition as the _Creative Commons_, but still allo
     * [Wesnoth Figures](https://wiki.wesnoth.org/WesnothFigures)
     * [List of supporting characters from the Rise of Wesnoth](https://www.wesnoth.org/forum/viewtopic.php?t=32775)
     * [Sceptre of Fire Campaign](https://wiki.wesnoth.org/List_of_supporting_characters_from_The_Rise_of_Wesnoth)
-- [Glitch](https://www.glitchthegame.com/public-domain-game-art/) - public domain : ![thumbnail](https://www.glitchthegame.com/img/locations_ix.v1520324238.jpg) - ![thumbnail](https://www.glitchthegame.com/img/locations_firebog.v1520324238.jpg)
+    * [brown lich](images/bitd/cc-licensed/wesnoth-brown-lich-cc-by-sa.webp)
+    * [ogre](images/bitd/cc-licensed/wesnoth-ogre-cc-by-sa.webp)
+    * [slayer](images/bitd/cc-licensed/wesnoth-slayer-cc-by-sa.webp)
+    * [marko](images/bitd/cc-licensed/wesnoth-ANO_art-marko.png)
+    * GitHub repos: [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - [wesnoth/resources](https://github.com/wesnoth/resources) - [cooljeanius/ANO_art](https://github.com/cooljeanius/ANO_art)
+    * [WTactics](https://wtactics.org/) - [OpenGameArt gallery](https://opengameart.org/content/wtactics) (Wesnoth CCG) / [GitHub repo wtactics/art](https://github.com/wtactics/art/tree/master) - [preview board/search @arcmage.org](https://arcmage.org/artwork/) - CC BY-SA
+```
+git clone --depth 1 git@github.com:wesnoth/wesnoth.git
+cd wesnoth
+mkdir illustrations
+mv data/core/images/portraits/*/* illustrations/
+mv ./data/campaigns/*/images/portraits/* illustrations/
+mv ./data/campaigns/*/images/story/* illustrations/
+
+git clone --depth 1 git@github.com:wtactics/art.git wtactics-art
+```
+- [Glitch by Tiny Speck](https://en.wikipedia.org/wiki/Glitch_%28video_game%29) - cc0 / public domain
+    * [GitHub repo tinyspeck/glitch-items](https://github.com/tinyspeck/glitch-items)
+    * [OpenGameArt assets collection](https://opengameart.org/content/glitch-sprite-assets-huge-collection)
+    * [Assets on RawPixel](https://www.rawpixel.com/search?page=1&path=3.sub_topic-4489&sort=curated)
     * [Glitch tag on freesvg.org](https://freesvg.org/tag/glitch)
 - Prismatic Art Collection: [OpenGameArt collection](https://opengameart.org/content/prismatic-art-collection) / [GitHub repo](https://github.com/hurleyit/prismatic_art) : heroes of all backgrounds: pirates, wizards, fighters... - CC BY-SA
 > In geek culture, there are plenty of Lukes, but not enough Landos or Leias. We want to change that. [2013 Kickstarter campaign](https://www.kickstarter.com/projects/sarahdarkmagic/prismatic-art-collection)
@@ -852,7 +881,6 @@ Dedicated to games:
 - [Kenney assets](https://kenney.nl/assets/)
 - [craftpix freebies](https://craftpix.net/freebies/) : free 2D game assets
 - [OpenGameArt](https://opengameart.org)
-    * [WTactics](https://opengameart.org/content/wtactics) / [@GitHub](https://github.com/wtactics/art/tree/master) - [preview board](https://arcmage.org/artwork/) - CC BY-SA
     * [Cyberpunk Portraits](https://opengameart.org/content/cyberpunk-portraits) - CC0
     * [Justin Nichol](https://opengameart.org/users/justin-nichol) - CC BY-SA:
         + [FLARE Portrait Pack (Number Four)](https://opengameart.org/content/flare-portrait-pack-number-four)
