@@ -26,7 +26,7 @@ pour révéler les cartes ! Vous pouvez laisser un commentaire ci-dessous 😉.
 
 Liens utiles :
 
-- traduction de _Run. Die. Repeat._ en français : [PDF (37 Ko)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
+- traduction de _Run. Die. Repeat._ en français : [PDF (37 Ko)](https://chezsoi.org/s/RDRfrdirectPDFdownload)
 - tous les articles de ce blog à propos de _Run Die Repeat_ : [tag run-die-repeat](tag/run-die-repeat.html)
 
 <!-- Com'

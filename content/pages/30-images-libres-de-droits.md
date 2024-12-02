@@ -212,6 +212,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Alliance Priestess](https://www.deviantart.com/alexzebol/art/WIP-Alliance-Priestess-776556324)
     * [Bunny! Carrot! EXPLOSION!](https://www.deviantart.com/alexzebol/art/Bunny-Carrot-EXPLOSION-793331652)
     * [Killer](https://www.deviantart.com/alexzebol/art/Killer-647461299)
+    * [Anya & Artyom](https://www.deviantart.com/alexzebol/art/Sketch-Anya-and-Artyom-786074180)
 - [Mike Winkelmann alias Beeple](https://fr.wikipedia.org/wiki/Mike_Winkelmann) : all the artworks from his _Everydays_ project up to november 2016 are CC-BY
 > American digital artist, graphic designer, and animator.
 > He is known for using various mediums in creating comical, phantasmagoric works that makes political, social commentary while using pop culture figures as references.
@@ -229,7 +230,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Sailor Neptune](https://www.flickr.com/photos/tofuverde/30891622075/)
     * [Baphomet's bike hipster](https://www.flickr.com/photos/tofuverde/30689300576/in/photostream/)
     * [Capybara man hipster/samurai](https://www.flickr.com/photos/tofuverde/30195082262/)
-- [Aldo Rodrigo González Casillas _aka_ aldorodrigogoca](https://www.deviantart.com/aldorodrigogoca/gallery) : CC BY-NC-SA - N&B, psychedelic
+- [Aldo Rodrigo González Casillas _aka_ aldorodrigogoca](https://www.google.com/search?tbm=isch&q=site%3Awww.deviantart.com%2Frodrigokatrakas%2F+%22creative%2Bcommons%22+-Derivatives) : CC BY-NC-SA - N&B, psychedelic
 > Scifi writer, illustrator & 3d modeler from Guadalajara, Mexico
     * [XL](https://www.deviantart.com/aldorodrigogoca/art/XL-830097105)
     * [XXXVI](https://www.deviantart.com/aldorodrigogoca/art/XXXVI-830096986)
@@ -322,7 +323,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Axel Stone - Streets of Rage 4](https://www.deviantart.com/leomon32/art/Axel-Stone-Streets-of-Rage-4-840431815)
     * [Greek god](https://www.deviantart.com/leomon32/art/Hamblor-the-god-of-hamburgers-480880559)
     * [Giant Jigen - Lupin the Third](https://www.deviantart.com/leomon32/art/Giant-Jigen-Lupin-the-Third-910420082)
-- [Tarakanovich](https://www.deviantart.com/tarakanovich/gallery/) : **some** CC BY
+- [Tarakanovich](https://www.google.com/search?q=site%3Awww.deviantart.com%2Ftarakanovich+%22Creative+Commons%22+-%22No+Derivative%22&tbm=isch) : **some** CC BY
 > Russian digital artist (includes NSFW) - [patreon](https://www.patreon.com/tarakanovich)
     * [Dark Souls 2 Caitha's concept art](https://www.deviantart.com/tarakanovich/art/Dark-Souls-2-Caitha-s-concept-art-475169114)
     * [Alien officer concept](https://www.deviantart.com/tarakanovich/art/Alien-officer-concept-440464782)
@@ -531,11 +532,13 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Star Wars - Concept - Ig-88](https://www.deviantart.com/rodrigokatrakas/art/Star-Wars-Concept-Ig-88-857367196)
     * [Kio - Wookie Concept](https://www.deviantart.com/rodrigokatrakas/art/Kio-Wookie-Concept-842376246)
     * [Guts](https://www.deviantart.com/rodrigokatrakas/art/Guts-839600288)
+    * [Guts - Berseker](https://www.deviantart.com/rodrigokatrakas/art/Guts-Berserker-883821146)
     * [Pirate - Rafe - Concept](https://www.deviantart.com/rodrigokatrakas/art/Pirate-Rafe-Concept-855364621)
     * [Kale - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Kale-DD-Concept-866064695)
     * [Klaus - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Klaus-DD-Concept-859428803)
     * [Siobhan - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Siobhan-DD-Concept-861655408)
     * [Obi-Wan Kenobi](https://www.deviantart.com/rodrigokatrakas/art/Obi-Wan-Kenobi-920381457)
+    * [King Kong](https://www.deviantart.com/rodrigokatrakas/art/King-Kong-753378237)
 - [sphelon8565](https://www.deviantart.com/sphelon8565/gallery) - CC BY-SA - manga characters
 > Artist who draws a variety of animation, concepts and illustrations - [Buy him a ko-fi](https://ko-fi.com/amazingsphelon)
     * [The Squirrel Knight](https://www.deviantart.com/sphelon8565/art/OC-The-Squirrel-Knight-004-Pose-3-910655541)
@@ -626,6 +629,19 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Navigator](https://www.deviantart.com/cicakkia/art/Navigator-1115715346)
     * [Backpack](https://www.deviantart.com/cicakkia/art/Backpack-1104930253)
     * [Violin](https://www.deviantart.com/cicakkia/art/Violin-1116085375)
+- [arw10](https://www.deviantart.com/arw10/gallery): Canadian hobbyist, Ben10 characters - CC BY
+    * [Splicer](https://www.deviantart.com/arw10/art/Splicer-by-illuminate01-837547572)
+    * [Vibration](https://www.deviantart.com/arw10/art/Vibration-By-Jeshway-871066071)
+    * [Plasmoid](https://www.deviantart.com/arw10/art/Plasmoid-By-Cicerondibuja-973387623)
+    * [Arano](https://www.deviantart.com/arw10/art/Arano-By-sonic20999-904138365)
+    * [Rocks](https://www.deviantart.com/arw10/art/Rocks-By-RPMalphawolf-987161873)
+    * [Mainman](https://www.deviantart.com/arw10/art/Mainman-By-Spyro2108-853324486)
+    * [Dustopia](https://www.deviantart.com/arw10/art/Dustopia-By-Fatdooman-898757850)
+    * [Statter](https://www.deviantart.com/arw10/art/Statter-By-Kurotheartist-973584254)
+    * [Stealth Strike + Night Razor](https://www.deviantart.com/arw10/art/Stealth-Strike-Night-Razor-By-EnderKnight1-859643250)
+    * [Blacklight](https://www.deviantart.com/arw10/art/Blacklight-By-Sefy99-Elmike9-862089697)
+    * [Cash](https://www.deviantart.com/arw10/art/Cash-By-VampireRichard69-858721862)
+    * [ProboTonne](https://www.deviantart.com/arw10/art/ProboTonne-by-VictorJVM031701-987919447)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -842,9 +858,9 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 # Websites
 ## Search engines
 - [Google images](https://www.google.fr/search?site=imghp&tbm=isch&tbs=sur:f&gws_rd=cr&dcr=0&ei=57lCWp-8LsalUdaugOAI) -
-Useful syntax: `(artwork|clipart|"concept art"|illustration|drawing|painting|comics) -"No Derivative" -"AI tools" -"OpenAI" -site:intergalacticrobot.blogspot.com` -
+Useful syntax: `(artwork|"concept art"|illustration) -"No Derivative" -Derivatives -"AI tools" -"OpenAI" -site:intergalacticrobot.blogspot.com` -
 And possibly: `after:2020-01-01` / `before:2020-01-01`
-- [DeviantArt Creative Commons via Google](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-%22No+Derivative+Works%22+-mandala-"User Profile")
+- [DeviantArt Creative Commons via Google](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-mandala-"User Profile")
 - [OpenVerse](https://wordpress.org/openverse/search/)
 - [Flickr CC search](https://www.flickr.com/search/?l=cc)
     * example: [British Library castles](https://www.flickr.com/search/?w=12403504%40N02&q=castle)

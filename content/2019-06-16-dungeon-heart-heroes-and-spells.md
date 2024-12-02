@@ -7,9 +7,9 @@ Slug: dungeon-heart-heroes-and-spells
 
 En bref, voici les fichiers qui pourraient vous intéresser :
 
-- la traduction en français de _Dungeon Heart_ : [PDF](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeart_BW_v1.6_fr.pdf)
-- l'extension _Dungeon Heart - Heroes & Spells_ en français : [web](https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/) - [PDF](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf)
-- the expansion _Dungeon Heart - Heroes & Spells_ in English : [web](https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - [PDF](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-en.pdf)
+- la traduction en français de _Dungeon Heart_ : [PDF](https://chezsoi.org/s/DungeonHeartBW16DirectPDFdownload)
+- l'extension _Dungeon Heart - Heroes & Spells_ en français : [web](https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/) - [PDF](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload)
+- the expansion _Dungeon Heart - Heroes & Spells_ in English : [web](https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - [PDF](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16ENDirectPDFdownload)
 
 Présenté dans l'[article précédent](dungeon-heart.html), _Dungeon Heart_ est un jeu de rôle [coopératif](/lucas/blog/tag/coop.html) sans meneur
 où l'on incarne les gardiens d'un donjon devant faire face à des hordes d'aventuriers.

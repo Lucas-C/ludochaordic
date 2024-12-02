@@ -41,7 +41,7 @@ Deux cartes récapitulatives des règles et plusieurs pictogrammes représentant
 Si vous êtes curieux de voir à quoi ressemble le jeu, jetez un œil aux liens ci-dessous !
 
 <div class="side-by-side">
-  <a href="https://github.com/Lucas-C/jdr/releases/download/LesNonMorts-v1.0/LesNonMorts-v1.0.pdf">
+  <a href="https://chezsoi.org/s/LesNonMortsv10directPDFdownload">
     <figure>
       <img alt="" src="images/2020/03/LesNonMorts-pdf.jpg">
       <figcaption><em>Les Non-morts</em><br>(PDF 12 pages 1,3 Mo)</figcaption>

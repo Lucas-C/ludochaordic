@@ -59,9 +59,9 @@ Slug: 2200-le-jugement-des-dieux
 Ces textes racontent quelques unes des histoires que nous avons écrit collectivement
 lors des _playtests_ du dernier jeu de rôle que j'ai écrit : **2200 : Le Jugement Des Dieux**.
 
-- PDF en français : <https://chezsoi.org/lucas/blog/images/jdr/2200-le-jugement-des-dieux-v1.1.pdf>
+- PDF en français : [2200-le-jugement-des-dieux-v1.1.pdf](https://chezsoi.org/s/2200LJDD11DirectPDFDownload)
 - version web en français : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/>
-- PDF in English : <https://chezsoi.org/lucas/blog/images/jdr/2200-the-gods-judgement-v1.1.pdf>
+- PDF in English : [2200-the-gods-judgement-v1.1.pdf](https://chezsoi.org/s/2200TGJ11DirectPDFDownload)
 - web version in English : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/2200_the_gods_judgement.html>
 
 Il s'agit d'un jeu de rôle [narratif](/lucas/blog/tag/narration-collective.html) pour 3 ou 4 joueurs, sans préparation nécessaire,

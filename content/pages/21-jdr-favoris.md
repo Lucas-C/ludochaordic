@@ -12,6 +12,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary" id="psi-run">Psi*Run</h2>
     <img class="uk-align-center" src="images/jdr/PsiRun.jpg" alt="">
+    <img class="uk-align-center" src="images/jdr/PsiRun2.jpg" alt="">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Course-poursuite &amp; pouvoirs psis</dd>
@@ -30,7 +31,7 @@ et exclue [mes propres créations](pages/jeux-de-role.html) 😉
         Vous vous êtes enfui.
         Ils veulent vous récupérer.
         FUYEZ !
-        <hr>
+        <img class="uk-align-center" src="images/jdr/PsiRun-couvertureFR.png" alt="">
         Incarnez des personnages dotés de pouvoirs psychiques, amnésiques, et poursuivis.
       </blockquote>
       <h3>Pourquoi j'aime y rejouer</h3>

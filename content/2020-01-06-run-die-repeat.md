@@ -11,7 +11,7 @@ Je souhaite vous présenter le dernier auquel nous avons joué, à minuit passé
 J'ai tellement apprécié le jeu, que j'en ai fait une traduction en français.
 
 Vous pouvez y accéder en cliquant sur l'aperçu ci-dessous (PDF, 37 Ko) :
-[![Run Die Repeat](images/2020/01/RunDieRepeat.jpg)](images/jdr/RunDieRepeat-FR.pdf)
+[![Run Die Repeat](images/2020/01/RunDieRepeat.jpg)](https://chezsoi.org/s/RDRfrdirectPDFdownload")
 
 Le jeu se classe dans la catégorie des mini jeux de rôle monopage, ne nécessitant aucune préparation,
 conçus pour de courtes sessions effrénées, improvisées n’importe où, n’importe quand.

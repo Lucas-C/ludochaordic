@@ -21,7 +21,7 @@ et que c'est déjà la troisième, je vais vous les présenter rapidement ici.
 
 - [Version originale sur Rowan, Rook & Deckard](https://rowanrookanddecard.com/game-system/genius-loci/)
 - [Version web en français](https://lucas-c.github.io/jdr/genius-loci/)
-- [PDF en français](images/jdr/genius-loci.pdf)
+- [PDF en français](https://chezsoi.org/s/GeniusLociDirectPDFDownload)
 
 > **Plus de place en enfer** est un JdR de survie et d'horreur.
 > Dans ce jeu vous serez à la fois un joueur ET un meneur de jeu (MJ).
@@ -29,14 +29,14 @@ et que c'est déjà la troisième, je vais vous les présenter rapidement ici.
 
 - [Version originale _No More Room For Hell_ sur itch.io](https://gshowitt.itch.io/no-more-room-in-hell)
 - [Version web en français](https://lucas-c.github.io/jdr/plus-de-place-en-enfer/)
-- [PDF en français](images/jdr/plus-de-place-en-enfer.pdf)
+- [PDF en français](https://chezsoi.org/s/PdPeEDirectPDFDownload)
 
 > Dans **Ce n'est pas une place d'honneur**, incarnez des pèlerins dévoués à la recherche des reliques d'anciens dieux
 > ET les humains terrifiés qui deviendront ces divinités alors qu'ils s'écrasent à bord d'un vaisseau-colonie sur une planète inconnue.
 
 - [Version originale _This Is Not A Place Of Honour_ sur itch.io](https://gshowitt.itch.io/this-is-not-a-place-of-honour)
 - [Version web en français](https://lucas-c.github.io/jdr/ce-nest-pas-une-place-dhonneur/)
-- [PDF en français](https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.3/ce-nest-pas-une-place-dhonneur-v1.3.pdf)
+- [PDF en français](https://chezsoi.org/s/CNPUPDHDirectPDFDownload)
 
 ---
 

@@ -98,7 +98,7 @@ Voici les prochaines points que je prévoie d'améliorer :
 D'ici là, si vous êtes curieux de voir à quoi ressemble le jeu, jetez un œil aux liens ci-dessous !
 
 <div class="side-by-side">
-  <a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.2/gdav-v1.2.pdf">
+  <a href="https://chezsoi.org/s/GDAVPDFDownload">
     <figure>
       <img alt="" src="images/2020/02/avgd-pdf.png">
       <figcaption><em>Amères Victoires & Glorieuses Défaites</em><br>(PDF 14 pages 6,4 Mo)</figcaption>

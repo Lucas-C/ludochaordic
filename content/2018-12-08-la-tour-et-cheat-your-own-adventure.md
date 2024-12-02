@@ -21,7 +21,7 @@ et les retours étaient très positifs 😄
 Après plusieurs modifications suites aux retours très bien vus des mes playtesteurs, le voici :
 
 - [en ligne ici](https://lucas-c.github.io/jdr/latour/)
-- [en PDF là](https://github.com/Lucas-C/jdr/releases/download/latour-v2.0.0/latour-v2.0.0.pdf)
+- [en PDF là](https://chezsoi.org/s/LaTourPDFDownload)
 
 Petit conseil si vous tentez l'expérience comme MJ : comment souvent avec ce type de court jeu d'action intense,
 il m'a semblé nécessaire d'intercaler des scènes où la tension retombe un peu, pour ménager le rythme de la partie.

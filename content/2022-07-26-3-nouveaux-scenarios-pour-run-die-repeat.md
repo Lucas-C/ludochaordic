@@ -3,7 +3,7 @@ Date: 2022-07-26 9:00
 Tags: lang:fr, jdr, gratuit, monopage, personal-project, creative-commons, scenario, run-die-repeat, zero-prep, cyberconv, jeux
 ---
 
-Voici 3 nouveaux scénarios pour [_Run. Die. Repeat._](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf),
+Voici 3 nouveaux scénarios pour [_Run. Die. Repeat._](./run-die-repeat.html),
 le jeu de rôle monopage de **Labrys Games** où l'on décède à la chaîne :
 
 <a href="https://lucas-c.github.io/jdr/RunDieRepeat/RunDieRepeat-scenarios2-FR.pdf">

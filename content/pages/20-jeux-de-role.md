@@ -118,7 +118,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <dt>Durée</dt><dd>2h à 4h environ</dd>
       </dl>
       <ul>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/LesNonMorts-v1.0/LesNonMorts-v1.0.pdf">Les Non-morts (PDF, 1,3 Mo)</a></li>
+        <li><a href="https://chezsoi.org/s/LesNonMortsv10directPDFdownload">Les Non-morts (PDF, 1,3 Mo)</a></li>
         <li><a href="les-non-morts.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.itch.io/les-non-morts">Les Non-Morts sur itch.io</a></li>
       </ul>
@@ -143,7 +143,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <dt>Durée</dt><dd>20min à 45min</dd>
       </dl>
       <ul>
-        <li><a href="images/jdr/RunDieRepeat-FR.pdf">Traduction en français des règles du jeu (PDF, 37 Ko)</a></li>
+        <li><a href="https://chezsoi.org/s/RDRfrdirectPDFdownload">Traduction en français des règles du jeu (PDF, 37 Ko)</a></li>
         <li>un scénario : <a href="https://lucas-c.itch.io/docteur-lestrange">Docteur Lestrange</li>
         <li>un autre scénario se jouant à distance&nbsp: <a href="https://lucas-c.itch.io/les-couloirs-du-temps">Les Couloirs du Temps</li>
         <li><a href="https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat">10 autres scénarios</li>
@@ -168,9 +168,9 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <dt>Durée</dt><dd>2h-4h environ</dd>
       </dl>
       <ul>
-        <li><a href="images/jdr/DungeonHeart_BW_v1.6_fr.pdf">Traduction française du jeu (PDF)</a></li>
-        <li>L'extension <em>Heroes &amp; Spells</em> en français : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/">web</a> - <a href="images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf">PDF</a></li>
-        <li>The expansion <em>Heroes &amp; Spells</em> in English : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html">web</a> - <a href="images/jdr/DungeonHeartHeroesAndSpells-v1.6-en.pdf">PDF</a></li>
+        <li><a href="https://chezsoi.org/s/DungeonHeartBW16DirectPDFdownload">Traduction française du jeu (PDF)</a></li>
+        <li>L'extension <em>Heroes &amp; Spells</em> en français : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload">PDF</a></li>
+        <li>The expansion <em>Heroes &amp; Spells</em> in English : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16ENDirectPDFdownload">PDF</a></li>
         <li><a href="dungeon-heart-heroes-and-spells.html">Article de présentation</a></li>
       </ul>
       <blockquote>Incarnez les gardiens d’un donjon défendant leur demeure contre de méchants aventuriers.</blockquote>
@@ -187,9 +187,9 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       </dl>
       <ul>
         <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/">Version web en français</a></li>
-        <li><a href="images/jdr/2200-le-jugement-des-dieux-v1.1.pdf">PDF en français</a></li>
+        <li><a href="https://chezsoi.org/s/2200LJDD11DirectPDFDownload">PDF en français</a></li>
         <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/2200_the_gods_judgement.html">Web version in English</a></li>
-        <li><a href="images/jdr/2200-the-gods-judgement-v1.1.pdf">PDF in English</a></li>
+        <li><a href="https://chezsoi.org/s/2200TGJ11DirectPDFDownload">PDF in English</a></li>
       </ul>
       <blockquote>Dans ce jeu vous aller incarner un dieu, ancien ou moderne,
       ayant la charge de statuer du sort des mortels décédés en cette année 2200.
@@ -211,10 +211,10 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <ul>
         <li><a href="genie-domestique.html">Article de présentation de Genius Loci</a></li>
         <li><a href="https://lucas-c.github.io/jdr/">Versions web de chaque jeu</a></li>
-        <li><a href="images/jdr/genius-loci.pdf">Genius Loci (PDF) en français</a></li>
-        <li><a href="images/jdr/plus-de-place-en-enfer.pdf">Plus de place en enfer (PDF)</a></li>
+        <li><a href="https://chezsoi.org/s/GeniusLociDirectPDFDownload">Genius Loci (PDF) en français</a></li>
+        <li><a href="https://chezsoi.org/s/PdPeEDirectPDFDownload">Plus de place en enfer (PDF)</a></li>
         <li><a href="ce-nest-pas-une-place-dhonneur.html">Article de présentation de Ce n'est pas une place d'honneur</a></li>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.2/ce-nest-pas-une-place-dhonneur-v1.2.pdf">Ce n'est pas une place d'honneur (PDF)</a></li>
+        <li><a href="https://chezsoi.org/s/CNPUPDHDirectPDFDownload">Ce n'est pas une place d'honneur (PDF)</a></li>
       </ul>
       <blockquote>Dans <strong>Genius Loci</strong>, vous êtes un dieu mineur, un genius loci, dans un petit village calme du sud de l'Angleterre dans les années 60.</blockquote>
       <hr>
@@ -239,8 +239,8 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de présentation de CYOA</a></li>
         <li><a href="ldcslg-et-l-ile-mysterieuse.html">Article de présentation du Dernier café sur la gauche</a></li>
         <li><a href="https://lucas-c.github.io/jdr/">Versions web</a></li>
-        <li><a href="images/jdr/CheatYourOwnAdventure.pdf">Cheat Your Own Adventure (PDF)</a></li>
-        <li><a href="images/jdr/LeDernierCaféSurLaGauche.pdf">Le dernier café sur la gauche (PDF)</a></li>
+        <li><a href="https://chezsoi.org/s/CYOAPDFDownload">Cheat Your Own Adventure (PDF)</a></li>
+        <li><a href="https://chezsoi.org/s/LDCSLGPDFDownload">Le dernier café sur la gauche (PDF)</a></li>
       </ul>
       <blockquote>Dans <strong>Cheat Your Own Adventure</strong>, vous incarnez tour à tour le Lecteur d'un livre-dont-vous-êtes-le-héros
       et le Narrateur qui offre des choix de pages où se rendrent ensuite. Réussirez-vous à aller au bout de l'aventure sans revenir en arrière ?</blockquote>
@@ -261,7 +261,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <ul>
         <li><a href="avgd-nouvelle-mouture.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/gdav/">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/gdav-v1.2/gdav-v1.2.pdf">Version PDF</a></li>
+        <li><a href="https://chezsoi.org/s/GDAVPDFDownload">Version PDF</a></li>
         <li><a href="https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites">Amères Victoires et Glorieuses Défaites sur itch.io</a></li>
       </ul>
       <blockquote>Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
@@ -281,7 +281,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <ul>
         <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/latour/">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/latour-v2.0.0/latour-v2.0.0.pdf">Version PDF</a></li>
+        <li><a href="https://chezsoi.org/s/LaTourPDFDownload">Version PDF</a></li>
       </ul>
       <blockquote>Vous venez d'arriver au sommet de La Tour, l'immeuble le plus dangereux du pays, sous l'emprise du gang Takoyashi.
       Vous formez une équipe d'opérations spéciales aguerrie, équipée pour l'assaut et experte en arts martiaux.
@@ -299,7 +299,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
       <ul>
         <li><a href="scavengers-anomalies-nauchoresques.html">Article de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/scavengers/">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf">Version PDF</a></li>
+        <li><a href="https://chezsoi.org/s/ScavengersPDFDOwnload">Version PDF</a></li>
       </ul>
       <blockquote>Dans <strong>Scavengers</strong> vous jouez un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
         et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.</blockquote>
