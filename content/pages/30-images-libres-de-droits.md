@@ -196,7 +196,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Medusa](https://commons.wikimedia.org/wiki/File:DnD_Medusa.png)
     * [Unicorn](https://upload.wikimedia.org/wikipedia/commons/0/05/DnD_Unicorn.png)
     * [Donkey](https://commons.wikimedia.org/wiki/File:Donkey_closeup_03.svg)
-- [weremagnus](https://www.deviantart.com/weremagnus/gallery) : **some** CC BY-NC artworks - WoW orks / japanase monsters
+- [weremagnus](https://www.google.com/search?tbm=isch&q=site%3Awww.deviantart.com%2Fweremagnus%2F+%22creative%2Bcommons%22) : **some** CC BY-NC artworks - WoW orks / japanase monsters
 > Professional illustrator working in the video games industry as senior and lead artist.
 > Currently working freelance and part-time with independant game studios.
     * [Bat Assassin](https://www.deviantart.com/weremagnus/art/Bat-Assassin-63323743)
@@ -371,7 +371,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Flame Princess Old Dress](https://www.deviantart.com/sircollection/art/Flame-Princess-Old-Dress-318053951)
     * [Billy and Fight King Fusion](https://www.deviantart.com/sircollection/art/Billy-and-Fight-King-Fusion-253306086)
     * [Finn Chaotic Evil](https://www.deviantart.com/sircollection/art/Finn-Chaotic-Evil-299829001)
-- [Aleks Komitov _aka_ assumzaek](https://www.deviantart.com/assumzaek/gallery/all) : CC BY-NC-SA - Fantasy monsters
+- [Aleks Komitov _aka_ assumzaek](https://www.deviantart.com/assumzaek/gallery/all) : CC BY-NC-SA - Fantasy monsters, some anthropomorphic animals
 > Visual Development artist & illustrator from Denmark - [official website](https://www.alekskomitov.com)
     * [Pixel Dungeon: Wraith](https://www.deviantart.com/assumzaek/art/Pixel-Dungeon-Wraith-619466262)
     * [Pixel Dungeon: Goo](https://www.deviantart.com/assumzaek/art/Pixel-Dungeon-Goo-489511475)
@@ -384,6 +384,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Treasure Hunter](https://www.deviantart.com/assumzaek/art/Treasure-Hunter-657779630)
     * [Bug Bros](https://www.deviantart.com/assumzaek/art/Bug-Bros-656759860)
     * [Bill The Friendly Tesco Employee](https://www.deviantart.com/assumzaek/art/Bill-The-Friendly-Tesco-Employee-458186767)
+    * [Mind Temple 2/3](https://www.deviantart.com/assumzaek/art/Mind-Temple-2-3-831960494)
+    * [120615](https://www.deviantart.com/assumzaek/art/120615-539156403)
 - [David Hueso](https://www.deviantart.com/davidhueso/gallery) : mostly (not all) CC BY-NC - fantasy
 > Professional digital illustrator, concept artist and animator from Spain, working freelance for pen and paper RPG and videogames since 2009.
     * [Medieval City](https://www.deviantart.com/davidhueso/art/Medieval-city-concept-372052489)
@@ -420,7 +422,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Fishy Alien creature](https://www.deviantart.com/raphtor/art/Fishy-Alien-creature-315217052)
     * [Vaas Montenegro](https://www.deviantart.com/raphtor/art/Vaas-Montenegro-349529523)
     * [Bolo yeung as Yujiro Hanma](https://www.deviantart.com/raphtor/art/Bolo-yeung-as-Yujiro-Hanma-980469644)
-- [HIJODELOPIO](https://www.deviantart.com/hijodelopio/gallery) : CC BY - cartoon zoomorphe culturists / fighters
+- [HIJODELOPIO](https://www.google.com/search?q=site%3Awww.deviantart.com%2Fhijodelopio+%22Creative+Commons%22&tbm=isch) : work up to February 2023 (not all) CC BY - cartoon zoomorphe culturists / fighters
 > Hobbyist digital artist from Santiago, Chile
     * [Daddy Gorilla](https://www.deviantart.com/hijodelopio/art/Daddy-Gorilla-3-788725994)
     * [Venom](https://www.deviantart.com/hijodelopio/art/Venom-764336723)
@@ -431,7 +433,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Tiberius Rourke](https://www.deviantart.com/hijodelopio/art/Tiberius-Rourke-905836595)
     * [Lion Swordsman](https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803)
     * [Pirate](https://www.deviantart.com/hijodelopio/art/Pirate-921122086)
-    * [Goblin Samurai](https://www.deviantart.com/hijodelopio/art/Goblin-Samurai-988113458)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
 > Artist, game developper & composer from Paris, France.
     * [dame blanche](https://www.deviantart.com/joke-biloumaster/art/2014-04-22-Crob-1-493705401)
@@ -456,7 +457,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [sir maggot](https://www.deviantart.com/tis1451/art/sir-maggot-909603822)
     * [gray skin](https://www.deviantart.com/tis1451/art/gray-skin-944829410)
     * [shadow goverment](https://www.deviantart.com/tis1451/art/shadow-goverment-991848187)
-- [Linus Pettersson](https://www.deviantart.com/ubergank/gallery) : **some** CC BY-SA - fantasy, color
+- [Linus Pettersson](https://www.deviantart.com/ubergank/gallery) : **old work** CC BY-SA - fantasy, color
 > Professional digital artist and aspiring Industrial Designer from Linköping, Sweden
     * [Dark knight](https://www.deviantart.com/ubergank/art/The-Penitent-One-815448320)
     * [Kenku](https://www.deviantart.com/ubergank/art/Kenku-814005528)
@@ -539,7 +540,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Siobhan - DD - Concept](https://www.deviantart.com/rodrigokatrakas/art/Siobhan-DD-Concept-861655408)
     * [Obi-Wan Kenobi](https://www.deviantart.com/rodrigokatrakas/art/Obi-Wan-Kenobi-920381457)
     * [King Kong](https://www.deviantart.com/rodrigokatrakas/art/King-Kong-753378237)
-- [sphelon8565](https://www.deviantart.com/sphelon8565/gallery) - CC BY-SA - manga characters
+- [sphelon8565](https://www.deviantart.com/sphelon8565/gallery) - CC BY-SA - manga characters, some anthropomorphic animals
 > Artist who draws a variety of animation, concepts and illustrations - [Buy him a ko-fi](https://ko-fi.com/amazingsphelon)
     * [The Squirrel Knight](https://www.deviantart.com/sphelon8565/art/OC-The-Squirrel-Knight-004-Pose-3-910655541)
     * [Battle Rehime | Jah Rakal The Troll Warlord](https://www.deviantart.com/sphelon8565/art/Battle-Rehime-Jah-Rakal-The-Troll-Warlord-904512933)
@@ -551,12 +552,15 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Ride with Strangers - The Detective](https://www.deviantart.com/sphelon8565/art/Commission-Ride-with-Strangers-The-Detective-941604058)
     * [Battle Rehime | Monkey D. Luffy](https://www.deviantart.com/sphelon8565/art/Battle-Rehime-Monkey-D-Luffy-979252194)
     * [Charlenne](https://www.deviantart.com/sphelon8565/art/Commission-Charlenne-978385892)
-- [rosytoonz](https://www.deviantart.com/rosytoonz/gallery) - CC BY - lots of Sonic characters & Gijinkas
+- [rosytoonz](https://www.deviantart.com/rosytoonz/gallery/all) - some older work CC BY - lots of Sonic characters & Gijinkas
 > UK animation student from Georgia, ambivert lowkey punk.
     * [Big the Cat Gijinka](https://www.deviantart.com/svanetianrose/art/Big-the-Cat-Gijinka-688218969)
     * [Storm the Albatross Gijinka](https://www.deviantart.com/svanetianrose/art/Storm-the-Albatross-Gijinka-694492179)
     * [Knuckles the Echidna Gijinka](https://www.deviantart.com/svanetianrose/art/Knuckles-the-Echidna-Gijinka-687258989)
     * [Wave the Swallow Gijinka](https://www.deviantart.com/svanetianrose/art/Wave-the-Swallow-Gijinka-693952531)
+    * [Jet the Hawk Gijinka](https://www.deviantart.com/rosytoonz/art/Jet-the-Hawk-Gijinka-693952051)
+    * [Mephiles the Dark Gijinka](https://www.deviantart.com/rosytoonz/art/Mephiles-the-Dark-Gijinka-694174823)
+    * [Espio the Chameleon Gijinka](https://www.deviantart.com/rosytoonz/art/Espio-the-Chameleon-Gijinka-688458872)
 - [Metzae](https://www.deviantart.com/metzae/gallery) - Many CC BY-NC-SA with watermark
 > Multimedia artist in Dallas, Texas
     * [Nightmare Fuel](https://www.deviantart.com/metzae/art/Nightmare-Fuel-925185852)
@@ -571,7 +575,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [MacCready](https://www.deviantart.com/erstwhilesky/art/MacCready-611535372) : CC BY-NC
     * [Piper](https://www.deviantart.com/erstwhilesky/art/Piper-611423589) : CC BY-NC
     * [The Puppet Master](https://www.deviantart.com/erstwhilesky/art/The-Puppet-Master-582340319)
-- [Luis Alzate _aka_ Demento-Liszt](https://www.deviantart.com/demento-liszt/gallery) : A few CC BY-NC-SA B&W artworks
+- [Luis Alzate _aka_ Demento-Liszt](https://www.deviantart.com/demento-liszt/gallery) : A few CC BY-NC-SA B&W artworks, including Resident Evil & Silent Hill fanarts
 > Columbian freelance, traditional and digital illustrator, with a tendency towards horror games and the study of the Tarot.
     * [Silent Hill 4 Fan Art - Wounded Eileen Galvin](https://www.deviantart.com/demento-liszt/art/Silent-Hill-4-Fan-Art-Wounded-Eileen-Galvin-763349883)
     * [Hellsing Ultimate Fanart - Integra Hellsing](https://www.deviantart.com/demento-liszt/art/Hellsing-Ultimate-Fanart-Integra-Hellsing-789516159)
@@ -642,6 +646,16 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Blacklight](https://www.deviantart.com/arw10/art/Blacklight-By-Sefy99-Elmike9-862089697)
     * [Cash](https://www.deviantart.com/arw10/art/Cash-By-VampireRichard69-858721862)
     * [ProboTonne](https://www.deviantart.com/arw10/art/ProboTonne-by-VictorJVM031701-987919447)
+- [BananaScholar](https://www.deviantart.com/bananascholar/gallery) - CC BY-NC
+> A fan of worldbuilding, real and speculative biology, weird fiction, creature design, fringe philosophical ideas and everything weird
+    * [The new avatar, allegedly](https://www.deviantart.com/bananascholar/art/The-new-avatar-allegedly-1130707849)
+    * [Niles Maxwell](https://www.deviantart.com/bananascholar/art/ArtFight-2024-2-Niles-Maxwell-1069024390)
+    * [Congratulations, our boy has grown up!](https://www.deviantart.com/bananascholar/art/Congratulations-our-boy-has-grown-up-1100648356)
+    * [Connection established](https://www.deviantart.com/bananascholar/art/Connection-established-1077408116)
+    * [Primordial flesh](https://www.deviantart.com/bananascholar/art/Primordial-flesh-1073504160)
+    * [About ZR-detectors](https://www.deviantart.com/bananascholar/art/About-ZR-detectors-1082833324)
+    * [Catarion's cadaver](https://www.deviantart.com/bananascholar/art/Catarion-s-cadaver-946797787)
+    * [Dustbox](https://www.deviantart.com/bananascholar/art/ArtFight-2024-5-Dustbox-1070634361)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -683,6 +697,9 @@ which does not share the same ambition as the _Creative Commons_, but still allo
     * [Roof Home House](https://pixabay.com/illustrations/roof-home-house-outdoors-clouds-3615715/)
     * [Church Paint Nature](https://pixabay.com/illustrations/church-paint-religion-architecture-3659275/)
     * [Pages Leaves Paper Texture](https://pixabay.com/illustrations/pages-leaves-paper-texture-8794179/)
+- [andsproject @Pixabay](https://pixabay.com/fr/users/andsproject-26081561/)
+    * [fille embrasser l'eau anime calmer](https://pixabay.com/fr/vectors/fille-embrasser-leau-anime-calmer-9015201/)
+    * [fille kimono lune anime nuit](https://pixabay.com/fr/vectors/fille-kimono-lune-anime-nuit-8900955/)
 
 ## From last century
 - [John Bauer @ WikiArt](https://www.wikiart.org/en/john-bauer) : public domain - classic gothic / nordic tales, art nouveau
