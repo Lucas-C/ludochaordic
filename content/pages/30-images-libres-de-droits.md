@@ -472,7 +472,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Elven prince](https://www.deviantart.com/eggboy122/art/Elven-prince-741886560)
     * [Devil butler/godfather](https://www.deviantart.com/eggboy122/art/66-724983974)
     * [Knight in a fire](https://www.deviantart.com/eggboy122/art/Knight-695507596)
-    * [Angel maybe](https://www.deviantart.com/eggboy122/art/Angel-maybe-697980132)
     * [Tiefling warlock](https://www.deviantart.com/eggboy122/art/Tiefling-warlock-708100062)
 - [Stephen Greenhouse _aka_ Bubblypies](https://www.deviantart.com/bubblypies/gallery/) : CC BY-NC-SA
 > Artist, artisan leather crafter and illustrator - [patreon](https://www.patreon.com/user/creators?u=5356623)
@@ -504,9 +503,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [SCP-6666](https://www.deviantart.com/amamidori/art/SCP-6666-885190107)
 - [abelov2014](https://www.deviantart.com/abelov2014/gallery) - CC BY - Dinosaurs everywhere!
     * [A Carocaraptor on the hunt(king kong)](https://www.deviantart.com/abelov2014/art/A-Carocaraptor-on-the-hunt-king-kong-902367142)
-    * [Ferrucutus cerastes(king_kong)](https://www.deviantart.com/abelov2014/art/Ferrucutus-cerastes-king-kong-814293335)
-    * [Venatosaurus Hunter (king_kong)](https://www.deviantart.com/abelov2014/art/Venatosaurus-Hunter-king-kong-834629146)
-    * [Gigant Island(king Kong)](https://www.deviantart.com/abelov2014/art/Gigant-Island-king-Kong-844825909)
     * [The mysteries of the Martian Sphinx](https://www.deviantart.com/abelov2014/art/The-mysteries-of-the-Martian-Sphinx-886210745)
 - [VachalenXEON](https://www.deviantart.com/vachalenxeon/gallery) - CC BY-NC-SA - anime hindu art
 > Thai freelance artist, MMO game introducer, compact photographer, fireman and electro-robotics technician
@@ -618,11 +614,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [6b147ce111484b4ebfe686ded5d683fd](https://www.deviantart.com/willinvadesearth/art/6b147ce111484b4ebfe686ded5d683fd-1061460947)
     * [Secret Tryst](https://www.deviantart.com/willinvadesearth/art/Secret-Tryst-1082373945)
 - [Trent Anthony Francis](https://www.deviantart.com/trentanthonyfrancis/gallery/all): Melbourne-based artist - CC BY - Horror
-    * [Online gallery](https://www.trentanthonyfrancis.com/visual)
     * [Google Drive](https://drive.google.com/drive/folders/1yYH0wOTc6fSYHKN9gGhlRVzuulelgNEJ)
+    * [Online gallery](https://www.trentanthonyfrancis.com/visual)
     * [Lake Witch](https://www.deviantart.com/trentanthonyfrancis/art/Lake-Witch-1111827146)
-    * [Dream Eater II](https://www.deviantart.com/trentanthonyfrancis/art/Dream-Eater-II-1090907475)
-    * [Furious Angels](https://www.deviantart.com/trentanthonyfrancis/art/Furious-Angels-1117266415)
     * [Nagrindarkona](https://www.deviantart.com/trentanthonyfrancis/art/Nagrindarkona-1112706209)
     * [The Bone Lady](https://www.deviantart.com/trentanthonyfrancis/art/The-Bone-Lady-1103268376)
 - [TenPenBen](https://www.deviantart.com/tenpenben) - CC BY-SA
