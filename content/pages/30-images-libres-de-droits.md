@@ -2,7 +2,7 @@ Title: Images sous licences libres
 Slug: images-libres-de-droits
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, gratuit
 Image-preview-thumbnailer: article ul ul, h2:nth-of-type(3) + ul, h2:nth-of-type(4) + ul
-Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,pxfuel.com,deviantart.com/.+/gallery,artstation.com/[^/]+$
+Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,pxfuel.com,deviantart.com/.+/gallery,artstation.com/[^/]+,opengameart.org/users$
 ---
 Cette page recense des site web, des illustrateurs, des icônes et des polices de caractères libres de droits.
 
@@ -554,9 +554,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Storm the Albatross Gijinka](https://www.deviantart.com/svanetianrose/art/Storm-the-Albatross-Gijinka-694492179)
     * [Knuckles the Echidna Gijinka](https://www.deviantart.com/svanetianrose/art/Knuckles-the-Echidna-Gijinka-687258989)
     * [Wave the Swallow Gijinka](https://www.deviantart.com/svanetianrose/art/Wave-the-Swallow-Gijinka-693952531)
-    * [Jet the Hawk Gijinka](https://www.deviantart.com/rosytoonz/art/Jet-the-Hawk-Gijinka-693952051)
-    * [Mephiles the Dark Gijinka](https://www.deviantart.com/rosytoonz/art/Mephiles-the-Dark-Gijinka-694174823)
-    * [Espio the Chameleon Gijinka](https://www.deviantart.com/rosytoonz/art/Espio-the-Chameleon-Gijinka-688458872)
 - [Metzae](https://www.deviantart.com/metzae/gallery) - Many CC BY-NC-SA with watermark
 > Multimedia artist in Dallas, Texas
     * [Nightmare Fuel](https://www.deviantart.com/metzae/art/Nightmare-Fuel-925185852)
@@ -650,6 +647,17 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [About ZR-detectors](https://www.deviantart.com/bananascholar/art/About-ZR-detectors-1082833324)
     * [Catarion's cadaver](https://www.deviantart.com/bananascholar/art/Catarion-s-cadaver-946797787)
     * [Dustbox](https://www.deviantart.com/bananascholar/art/ArtFight-2024-5-Dustbox-1070634361)
+- [Kent-Ove Lindstrom](https://www.deviantart.com/kentovelindstrom/gallery) - CC BY-NC
+> freelance illustrator and art director - Current Residence: Stockholm, Sweden
+    * [Assassin](https://www.deviantart.com/kentovelindstrom/art/Assassin-938038291)
+    * [The Outlaw](https://www.deviantart.com/kentovelindstrom/art/The-Outlaw-934562628)
+    * [Northman Chieftain](https://www.deviantart.com/kentovelindstrom/art/Northman-Chieftain-934482695)
+    * [A Spriggan](https://www.deviantart.com/kentovelindstrom/art/A-Spriggan-936085738)
+    * [A lucky stab](https://www.deviantart.com/kentovelindstrom/art/A-lucky-stab-176600125)
+- [Kindya-Island](https://www.deviantart.com/kindya-island/gallery) - CC BY-NC
+    * [SHOP - Magic Bag](https://www.deviantart.com/kindya-island/art/SHOP-Magic-Bag-823795432)
+    * [EXPLORING - Spellbook](https://www.deviantart.com/kindya-island/art/EXPLORING-Spellbook-820604983)
+    * [HUNTING - Familiar Wolf](https://www.deviantart.com/kindya-island/art/HUNTING-Familiar-Wolf-982938883)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -928,7 +936,6 @@ Dedicated to games:
 - [Kenney assets](https://kenney.nl/assets/)
 - [craftpix freebies](https://craftpix.net/freebies/) : free 2D game assets
 - [OpenGameArt](https://opengameart.org)
-    * [Cyberpunk Portraits](https://opengameart.org/content/cyberpunk-portraits) - CC0
     * [Justin Nichol](https://opengameart.org/users/justin-nichol) - CC BY-SA:
         + [FLARE Portrait Pack (Number Four)](https://opengameart.org/content/flare-portrait-pack-number-four)
         + [FLARE Portrait Pack (Female Edition)](https://opengameart.org/content/flare-portrait-pack-female-edition)
