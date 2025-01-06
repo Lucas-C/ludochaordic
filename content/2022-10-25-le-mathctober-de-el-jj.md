@@ -1,6 +1,6 @@
 Title: Le Mathctober de El Jj
 Date: 2022-10-25 20:00
-Tags: lang:fr, youtube, maths
+Tags: lang:fr, youtube, maths, vulgarisation
 Image: images/2022/10/eljj.png
 ---
 

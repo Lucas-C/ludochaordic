@@ -1,7 +1,7 @@
 Title: Projets en cours
 Date: 2025-01-06 17:00
 Tags: lang:fr, jdr, jeux, gamedesign, personal-project, la-tour, mush-radio, undying-dusk, ori-mushi, wake3-frag-escape, rivages
-Image: images/2025/OriMushi.png
+Image: images/2025/01/OriMushi.png
 ---
 
 En ce début d'année, j'ai envie d'évoquer **mes futurs projets créatifs**.
