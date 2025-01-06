@@ -1,6 +1,6 @@
 Title: P'tites sorcières
 Date: 2022-03-07 20:00
-Tags: lang:fr, jdr, jdr4kids, gratuit, aide-de-jeu, opinion, sorcieres, creative-commons, illustration, ori-mushi, antoine-bauza, david-revoy, @Aurelien, @Elliot, @Pyrene, jeux
+Tags: lang:fr, jdr, jdr4kids, faire-decouvrir-le-jdr, gratuit, aide-de-jeu, opinion, sorcieres, creative-commons, illustration, ori-mushi, antoine-bauza, david-revoy, @Aurelien, @Elliot, @Pyrene, jeux
 Slug: ptites-sorcieres
 ---
 

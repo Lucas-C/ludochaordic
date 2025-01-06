@@ -1,6 +1,6 @@
 Title: Jeu de rôle en festival ludique
 Date: 2024-10-07 9:30
-Tags: lang:fr, jdr, festival, gratuit, one-shot, sombre, graphic-design, opinion, chanzeaux, maine-et-loire, wej, ribouldingue, jeux
+Tags: lang:fr, jdr, faire-decouvrir-le-jdr, festival, gratuit, one-shot, sombre, graphic-design, opinion, chanzeaux, maine-et-loire, wej, ribouldingue, jeux
 ---
 Depuis quelques années, j'aime bien proposer des parties de jeu de rôle à l'occasion de festivals ludiques. C'est parfois l'occasion de faire découvrir ce beau loisir à de nouvelles personnes.
 

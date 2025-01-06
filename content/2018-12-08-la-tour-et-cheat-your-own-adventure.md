@@ -1,6 +1,6 @@
 Title: La Tour & Cheat Your Own Adventure
 Date: 2018-12-08 16:00
-Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, one-shot, personal-project, storytelling, mise-en-page, zero-prep, variante, livre-dont-vous-etes-le-heros, creative-commons, gamedesign, gratuit, shane-mclean, @Henri, @Matt, jeux
+Tags: lang:fr, compte-rendu, partie-jdr-hebdo, playtest, opinion, jdr, monopage, one-shot, personal-project, storytelling, la-tour, mise-en-page, zero-prep, variante, livre-dont-vous-etes-le-heros, creative-commons, gamedesign, gratuit, shane-mclean, @Henri, @Matt, jeux
 Slug: la-tour-et-cheat-your-own-adventure
 ---
 
@@ -13,7 +13,7 @@ Hier soir a été l'occasion de _playtester_ un très court jeu de rôle que j'a
 ![Photo d'un immeuble délabré](images/2018/12/Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata.png)
 
 Ce jeu de rôle [monopage](/lucas/blog/tag/monopage.html) vous propose de jouer une courte partie
-dans la veine des films d'arts martiaux indonésiens comme [The](https://www.imdb.com/title/tt1899353/) [Raid](https://www.imdb.com/title/tt2265171/).
+dans la veine des films d'arts martiaux indonésiens comme [The Raid](https://en.wikipedia.org/wiki/The_Raid_%282011_film%29).
 
 Nous étions 3 autour de la table, la session a duré environ 2h30,
 et les retours étaient très positifs 😄

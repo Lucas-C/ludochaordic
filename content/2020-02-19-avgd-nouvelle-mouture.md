@@ -1,6 +1,6 @@
 Title: AVGD, nouvelle mouture !
 Date: 2020-02-19 9:00
-Tags: lang:fr, jdr, personal-project, creative-commons, gamedesign, prix-libre, playtest, one-shot, dark-souls, heritiers-de-dumnacus, jeux
+Tags: lang:fr, jdr, personal-project, creative-commons, gamedesign, prix-libre, playtest, one-shot, dark-souls, heritiers-de-dumnacus, ameres-victoires-glorieuses-defaites, jeux
 Slug: avgd-nouvelle-mouture
 ---
 

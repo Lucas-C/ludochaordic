@@ -5,15 +5,14 @@ Slug: jeux-de-role
 
 > Quelques jeux, traductions et aides de jeu que j'ai écrit
 
-![Photo de plusieurs dés noirs polyhédriques](images/jdr/tabletop-rpg-dices.jpg)
+<img alt="Photo de plusieurs dés noirs polyhédriques" src="images/jdr/tabletop-rpg-dices.jpg" style="max-width: 30rem; margin-bottom: 4rem">
 
-Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) sont consultables [en cliquant sur le tag "jdr"](tag/jdr.html).
-De même, toutes mes créations, dont majoritairement des jeux de rôle, sont accessibles [via le tag "personnal-project"](tag/jdr.html).
+Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>.
 
-Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>
+J'ai mis en place une _newsletter_ d'actualités sur mes créations :
+vous pouvez vous y abonner ici → [framagroupes.org/ludochaordic](https://framagroupes.org/sympa/info/ludochaordic).
 
-Si je vous cherchez un jeu pour votre 1ère partie de JdR,
-je vous recommande la lecture de cet article : [Quelques suggestions pour débuter en jeu de rôle, gratuites et en français](quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais.html).
+Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) possèdent un _tag_ `jdr`, et sont consultables [>en cliquant ici<](tag/jdr.html).
 
 Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr-favoris.html).
 

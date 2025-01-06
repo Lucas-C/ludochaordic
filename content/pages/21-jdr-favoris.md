@@ -3,10 +3,13 @@ Tags: lang:fr, jdr
 Slug: jdr-favoris
 ---
 
-Cette page recense mes 9 jeux de rôle préférés,
+Cette page recense mes jeux de rôle préférés,
 ceux que je prend grand plaisir à rejouer lorsque l'occasion se présente !
 Cette liste date de 2020, ne respecte aucun ordre particulier
 et exclue [mes propres créations](pages/jeux-de-role.html) 😉
+
+Si je vous cherchez un jeu pour votre 1ère partie de JdR,
+je vous recommande la lecture de cet article : [Quelques suggestions pour débuter en jeu de rôle, gratuites et en français](quelques-suggestions-pour-debuter-en-jdr-gratuites-et-en-francais.html).
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">

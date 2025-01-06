@@ -141,9 +141,7 @@ et de faire jouer la séquence dans les lieux même où nous étions.
   align-items: center;
   flex-flow: wrap;
 }
-.side-by-side > * {
-  padding: .5rem;
-}
+.side-by-side > * { padding: .5rem; }
 </style>
 
 <!-- Com'

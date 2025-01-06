@@ -2,7 +2,7 @@ Title: Images sous licences libres
 Slug: images-libres-de-droits
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, gratuit
 Image-preview-thumbnailer: article ul ul, h2:nth-of-type(3) + ul, h2:nth-of-type(4) + ul
-Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,pxfuel.com,deviantart.com/.+/gallery,artstation.com/[^/]+,opengameart.org/users$
+Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,pxfuel.com,deviantart.com/.+/gallery,artstation.com/[^/]+$,opengameart.org/users
 ---
 Cette page recense des site web, des illustrateurs, des icônes et des polices de caractères libres de droits.
 
@@ -493,7 +493,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Goblin's Pike - Swamp Goblins](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Swamp-Goblins-888473663)
     * [Goblin's Pike - Tree Statue](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-Tree-Statue-881074015)
     * [Sleepy Cave Dragon](https://www.deviantart.com/alexander-werner-jr/art/Sleepy-Cave-Dragon-888474721)
-- [amamidori](https://www.deviantart.com/amamidori/gallery) - CC BY-SA - many SCP-inspired illustrations
+- [amamidori](https://www.deviantart.com/amamidori/gallery) - CC BY-SA - some SCP-inspired illustrations
 > A hobbyist illustrator from Japan
     * [Gods](https://www.deviantart.com/amamidori/art/Gods-871254672)
     * [SCP-049 - Next patient please](https://www.deviantart.com/amamidori/art/Next-patient-please-706481380)
@@ -544,39 +544,42 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Original Characters: Streets on Hazard](https://www.deviantart.com/sphelon8565/art/OCAS-Original-Characters-Streets-on-Hazard-900918422)
     * [TerrorBlade](https://www.deviantart.com/sphelon8565/art/TerrorBlade-874274293)
     * [Ceres Fauna](https://www.deviantart.com/sphelon8565/art/Ceres-Fauna-892932513)
-    * [Portrait: THAAL SINESTRO](https://www.deviantart.com/sphelon8565/art/BR-Portrait-THAAL-SINESTRO-926338743)
     * [Ride with Strangers - The Detective](https://www.deviantart.com/sphelon8565/art/Commission-Ride-with-Strangers-The-Detective-941604058)
     * [Battle Rehime | Monkey D. Luffy](https://www.deviantart.com/sphelon8565/art/Battle-Rehime-Monkey-D-Luffy-979252194)
     * [Charlenne](https://www.deviantart.com/sphelon8565/art/Commission-Charlenne-978385892)
 - [rosytoonz](https://www.deviantart.com/rosytoonz/gallery/all) - some older work CC BY - lots of Sonic characters & Gijinkas
-> UK animation student from Georgia, ambivert lowkey punk.
+> UK animation student from Georgia, ambivert lowkey punk. - [linktr.ee/rosytoonz](https://linktr.ee/rosytoonz)
     * [Big the Cat Gijinka](https://www.deviantart.com/svanetianrose/art/Big-the-Cat-Gijinka-688218969)
     * [Storm the Albatross Gijinka](https://www.deviantart.com/svanetianrose/art/Storm-the-Albatross-Gijinka-694492179)
     * [Knuckles the Echidna Gijinka](https://www.deviantart.com/svanetianrose/art/Knuckles-the-Echidna-Gijinka-687258989)
     * [Wave the Swallow Gijinka](https://www.deviantart.com/svanetianrose/art/Wave-the-Swallow-Gijinka-693952531)
-- [Metzae](https://www.deviantart.com/metzae/gallery) - Many CC BY-NC-SA with watermark
-> Multimedia artist in Dallas, Texas
-    * [Nightmare Fuel](https://www.deviantart.com/metzae/art/Nightmare-Fuel-925185852)
-    * [Aeronaut](https://www.deviantart.com/metzae/art/Aeronaut-927610938)
-    * [The Kingdom's Greatest Defender](https://www.deviantart.com/metzae/art/The-Kingdom-s-Greatest-Defender-927773212)
-    * [Gorlok the Soul Crusher](https://www.deviantart.com/metzae/art/Gorlok-the-Soul-Crusher-929125994)
 - [ErstwhileSky](https://www.deviantart.com/erstwhilesky/gallery) : Some CC BY-NC-SA pieces
-> Hobbyist digital artist from the USA
+> Hobbyist digital artist from the USA.
+> <br>
+> “I’ll be leaving my art up for people to enjoy.
+> ANYONE CAN USE MY ART for whatever you want.” - Source: [erstwhilesky.tumblr.com](https://erstwhilesky.tumblr.com/post/702105322862657536/im-probably-not-coming-back-to-this-blog-as-my)
     * [Samuel Gordon](https://www.deviantart.com/erstwhilesky/art/Samuel-Gordon-683140507) : CC BY-NC
     * [The Gentleman Scientist](https://www.deviantart.com/erstwhilesky/art/The-Gentleman-Scientist-582338401)
     * [Aaron Hotchner](https://www.deviantart.com/erstwhilesky/art/Aaron-Hotchner-369252263)
     * [MacCready](https://www.deviantart.com/erstwhilesky/art/MacCready-611535372) : CC BY-NC
     * [Piper](https://www.deviantart.com/erstwhilesky/art/Piper-611423589) : CC BY-NC
     * [The Puppet Master](https://www.deviantart.com/erstwhilesky/art/The-Puppet-Master-582340319)
+    * [Judy Alvarez - Cyberpunk 2077 fanart](https://erstwhilesky.tumblr.com/post/644599988556562432)
+    * [Saints Row](https://erstwhilesky.tumblr.com/post/627098781721280512/city-made-of-thin-glass-smoldering-in-pitch-black)
+    * [Shaundi](https://erstwhilesky.tumblr.com/post/627055211315412992/shaundi-i-wasnt-dreaming-when-they-told-me)
 - [Luis Alzate _aka_ Demento-Liszt](https://www.deviantart.com/demento-liszt/gallery) : A few CC BY-NC-SA B&W artworks, including Resident Evil & Silent Hill fanarts
 > Columbian freelance, traditional and digital illustrator, with a tendency towards horror games and the study of the Tarot.
     * [Silent Hill 4 Fan Art - Wounded Eileen Galvin](https://www.deviantart.com/demento-liszt/art/Silent-Hill-4-Fan-Art-Wounded-Eileen-Galvin-763349883)
     * [Hellsing Ultimate Fanart - Integra Hellsing](https://www.deviantart.com/demento-liszt/art/Hellsing-Ultimate-Fanart-Integra-Hellsing-789516159)
     * [Get Backers Fan Art - Dr. Jackal](https://www.deviantart.com/demento-liszt/art/Get-Backers-Fan-Art-Dr-Jackal-762869273)
-- [Stéphane Wootha Richard](https://express.adobe.com/page/ucLFuLOEKK9Uo/) public domain (90GB):
+- [Stéphane Wootha Richard](https://express.adobe.com/page/ucLFuLOEKK9Uo/) is a concept artist who [released 90GB of artworks into the public domain](https://www.reddit.com/r/publicdomain/comments/l3ui7n/artist_st%C3%A9phane_richard_aka_wootha_releases_90gb/?show=original) :
+> I did this because this world is sick and it needs us to disobey. Urgently.
+> [...] I believe this change can only come about through **creative destruction**.
     * [Mordor](https://www.e-tribart.fr/blog/wp-content/uploads/2016/08/wootha7.jpg)
     * [Doctor Strange](https://express.adobe.com/page/ucLFuLOEKK9Uo/images/dc03da9f-60f8-489d-b686-d05b5bd54d22.jpg)
 - [Arben Krasniqi _aka_ SilentEmotionn](https://www.deviantart.com/silentemotionn/gallery): CC BY
+> A passionate digital artist exploring the limitless possibilities of blending art and technology.
+> With a love for both traditional and digital mediums
     * [Mad Max](https://www.deviantart.com/silentemotionn/art/Mad-Max-979054284)
     * [Mobile Suit Gundam SEED Pilot #2](https://www.deviantart.com/silentemotionn/art/Mobile-Suit-Gundam-SEED-Pilot-2-978882245)
     * [Retrowave Beach](https://www.deviantart.com/silentemotionn/art/Retrowave-Beach-977650505)
@@ -591,7 +594,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Zendaya](https://www.deviantart.com/akol3850/art/Zendaya-747444380)
     * [The Floss is still cool in this Universe right?](https://www.deviantart.com/akol3850/art/The-Floss-is-still-cool-in-this-Universe-right-776892139)
     * [Android 18](https://www.deviantart.com/akol3850/art/Android-18-724205541)
-- [pazuah](https://www.deviantart.com/pazuah) : CC illustrations, some of them allow derivatives
+- [pazuah](https://www.deviantart.com/pazuah) : Several CC BY. Not all illustrations allow derivatives. Some are made using Midjourney.
 > US digital artist using AI
     * [Forest Scenery](https://www.deviantart.com/pazuah/art/Forest-Scenery-1017344688) pixel art made with midjourney
     * [Castle on the Hilltop](https://www.deviantart.com/pazuah/art/Castle-on-the-Hilltop-16-9-Ratio-931833757)
@@ -599,6 +602,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Cyberpunk Bar Overview](https://www.deviantart.com/pazuah/art/Cyberpunk-Bar-Overview-16-9-Ratio-931237796)
     * [Vaporwave office #1](https://www.deviantart.com/pazuah/art/Vaporwave-office-1-946405436) made with midjourney
 - [Will Esbern aka willinvadesearth](https://www.deviantart.com/willinvadesearth) : CC-BY illustrations generated using AI
+> This is my breakout into self-publishing by combining creative non-fiction, poetry, and science fantasy into ethical copyright-free artificially intelligent image creation.
     * [Pink Goggles](https://www.deviantart.com/willinvadesearth/art/Pink-Goggles-1064787750)
     * [Can You Hear Me Now?](https://www.deviantart.com/willinvadesearth/art/Can-You-Hear-Me-Now-1065117531)
     * [A Lie in the Night](https://www.deviantart.com/willinvadesearth/art/A-Lie-in-the-Night-1062064087)
@@ -611,6 +615,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [6b147ce111484b4ebfe686ded5d683fd](https://www.deviantart.com/willinvadesearth/art/6b147ce111484b4ebfe686ded5d683fd-1061460947)
     * [Secret Tryst](https://www.deviantart.com/willinvadesearth/art/Secret-Tryst-1082373945)
 - [Trent Anthony Francis](https://www.deviantart.com/trentanthonyfrancis/gallery/all): Melbourne-based artist - CC BY - Horror
+> Melbourne-based artist, produces provocative art, video and electronic music that explores themes such as horror, sexuality and religion. - [linktr.ee/trentanthonyfrancis](http://linktr.ee/trentanthonyfrancis)
     * [Google Drive](https://drive.google.com/drive/folders/1yYH0wOTc6fSYHKN9gGhlRVzuulelgNEJ)
     * [Online gallery](https://www.trentanthonyfrancis.com/visual)
     * [Lake Witch](https://www.deviantart.com/trentanthonyfrancis/art/Lake-Witch-1111827146)
@@ -620,6 +625,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [CrossbowKnight](https://www.deviantart.com/tenpenben/art/TenPenBenCrossbowKnightDeviantArt-1045801738)
     * [NatureKnight](https://www.deviantart.com/tenpenben/art/NatureKnight-1049902081)
     * [Spear-Robot-Sketch](https://www.deviantart.com/tenpenben/art/Spear-Robot-Sketch-1075104152)
+    * [PenguinKnight](https://www.deviantart.com/tenpenben/art/PenguinKnight-1139256770)
+    * [AbyssRaiders](https://www.deviantart.com/tenpenben/art/AbyssRaiders-1135721293)
+    * [HunterTroll](https://www.deviantart.com/tenpenben/art/HunterTroll-1128312548)
 - [Wison Hendrik aka Cicakkia](https://www.google.com/search?q=site%3Awww.deviantart.com%2Fcicakkia+%22Creative+Commons%22+-%22No+Derivative%22&tbm=isch) - Indonesian digital artist - Some CC BY-SA - anthropomorphic animals
     * [Navigator](https://www.deviantart.com/cicakkia/art/Navigator-1115715346)
     * [Backpack](https://www.deviantart.com/cicakkia/art/Backpack-1104930253)
@@ -637,7 +645,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Blacklight](https://www.deviantart.com/arw10/art/Blacklight-By-Sefy99-Elmike9-862089697)
     * [Cash](https://www.deviantart.com/arw10/art/Cash-By-VampireRichard69-858721862)
     * [ProboTonne](https://www.deviantart.com/arw10/art/ProboTonne-by-VictorJVM031701-987919447)
-- [BananaScholar](https://www.deviantart.com/bananascholar/gallery) - CC BY-NC
+- [BananaScholar](https://www.deviantart.com/bananascholar/gallery) - CC BY-NC - From Ukraine
 > A fan of worldbuilding, real and speculative biology, weird fiction, creature design, fringe philosophical ideas and everything weird
     * [The new avatar, allegedly](https://www.deviantart.com/bananascholar/art/The-new-avatar-allegedly-1130707849)
     * [Niles Maxwell](https://www.deviantart.com/bananascholar/art/ArtFight-2024-2-Niles-Maxwell-1069024390)
@@ -658,6 +666,17 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [SHOP - Magic Bag](https://www.deviantart.com/kindya-island/art/SHOP-Magic-Bag-823795432)
     * [EXPLORING - Spellbook](https://www.deviantart.com/kindya-island/art/EXPLORING-Spellbook-820604983)
     * [HUNTING - Familiar Wolf](https://www.deviantart.com/kindya-island/art/HUNTING-Familiar-Wolf-982938883)
+- [MHoltsmeier](https://www.deviantart.com/mholtsmeier/gallery) - many AI-generated CC BY - Estonia
+    * [Abandoned orbital elevator](https://www.deviantart.com/mholtsmeier/art/Abandoned-orbital-elevator-1039708973)
+    * [Cyberpunk Vigilante Overlooking Neon Cityscape](https://www.deviantart.com/mholtsmeier/art/Cyberpunk-Vigilante-Overlooking-Neon-Cityscape-1116801903)
+    * [Digital Sci-Fi Landscapes 62](https://www.deviantart.com/mholtsmeier/art/Digital-Sci-Fi-Landscapes-62-964221334)
+    * [Digital Sci-Fi Landscapes 63](https://www.deviantart.com/mholtsmeier/art/Digital-Sci-Fi-Landscapes-63-964221339)
+    * [Sunset Amidst the Ruins of a Futuristic City](https://www.deviantart.com/mholtsmeier/art/Sunset-Amidst-the-Ruins-of-a-Futuristic-City-1107116522)
+    * [A person sitting at a desk](https://www.deviantart.com/mholtsmeier/art/A-person-sitting-at-a-desk-953289518)
+- [DomeGiant](https://www.deviantart.com/domegiant/gallery) - Serbian pro artist - Many CC BY artworks
+    * [A Breach of Trust](https://www.deviantart.com/domegiant/art/A-Breach-of-Trust-644373629)
+    * [Vasa](https://www.deviantart.com/domegiant/art/Vasa-629032827)
+    * [Max Baris](https://www.deviantart.com/domegiant/art/Max-Baris-596412180)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
