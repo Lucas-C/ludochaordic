@@ -1,8 +1,8 @@
 Title: Projets en cours
-Tags: lang:fr, jdr, jeux, personal-project
+Tags: lang:fr, jdr, jeux, personal-project, framasoft, ori-mushi, wake3-frag-escape, rivages
 ---
 
-<!-- TODO : logo Studio Ludochaordic -->
+<!-- TODO : logo Studio Ludochaordic + add it to https://lucas-c.itch.io/ -->
 
 En ce moment, je travaille sur ces projets ludiques :
 <br><br>
@@ -15,6 +15,7 @@ En ce moment, je travaille sur ces projets ludiques :
       <dl class="uk-description-list-list">
         <dt>Genre :</dt><dd>Jeu de rôle</dd>
         <dt>Statut :</dt><dd>En développement actif</dd>
+        <dt>Articles de blog :</dt><dd><a href="tag/ori-mushi.html">tag ori-mushi</a></dd>
         <dt>Inspirations :</dt><dd>Princesse Mononoke, Le Voyage de Chihiro, Avatar le maître de l'air, Naruto, Zelda, Shadow of the Colossus, Mushishi</dd>
       </dl>
       <h3>C'est quoi ?</h3>
@@ -35,6 +36,7 @@ En ce moment, je travaille sur ces projets ludiques :
       <dl class="uk-description-list-list">
         <dt>Genre :</dt><dd>Jeu vidéo en PDF</dd>
         <dt>Statut :</dt><dd>Démo jouable : 75% - Développement en pause</dd>
+        <!--dt>Articles de blog :</dt><dd><a href="tag/rivages.html">tag rivages</a></dd-->
       </dl>
       <h3>C'est quoi ?</h3>
         <p>
@@ -55,6 +57,7 @@ En ce moment, je travaille sur ces projets ludiques :
       <dl class="uk-description-list-list">
         <dt>Genre :</dt><dd>Jeu de rôle</dd>
         <dt>Statut :</dt><dd>50% - Développement en pause</dd>
+        <!--dt>Articles de blog :</dt><dd><a href="tag/undying-dusk.html">tag undying-dusk</a></dd-->
       </dl>
       <h3>C'est quoi ?</h3>
         <p>

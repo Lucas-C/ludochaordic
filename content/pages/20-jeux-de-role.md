@@ -9,12 +9,12 @@ Slug: jeux-de-role
 
 Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>.
 
-J'ai mis en place une _newsletter_ d'actualités sur mes créations :
-vous pouvez vous y abonner ici → [framagroupes.org/ludochaordic](https://framagroupes.org/sympa/info/ludochaordic).
+Cette page détaille mes projets en développement, avec possibilité de s'abonner à une _newsletter_ :
+[> Projets en cours< ](pages/projets-en-cours.html).
 
-Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) possèdent un _tag_ `jdr`, et sont consultables [>en cliquant ici<](tag/jdr.html).
+Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) possèdent un _tag_ "**jdr**", et sont consultables [> en cliquant ici <](tag/jdr.html).
 
-Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr-favoris.html).
+Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages/jdr-favoris.html).
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
@@ -73,7 +73,7 @@ Enfin, je détaille sur cette autre page : [mes jeux de rôle favoris](pages/jdr
         <dt>Durée</dt><dd>1h max</dd>
       </dl>
       <ul>
-        <li><a href="https://lucas-c.itch.io/sombre-lab-escape">Sombre : Lab Escape (scénario sur itch.io)</a></li>
+        <li><a href="https://lucas-c.itch.io/sombre-lab-escape">Sombre : Lab Escape (sur itch.io)</a></li>
         <li><a href="sombre-lab-escape.html">Article de présentation</a></li>
       </ul>
       <blockquote>

@@ -89,8 +89,12 @@ img.miniature.thin { width: 10rem }
 </style>
 
 <!-- Com'
-* [ ] https://lucas-c.itch.io/
+* [x] https://lucas-c.itch.io/
+* [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
+* [x] Links in https://github.com/Lucas-C/jdr README.md & index.md
 * [ ] mon Discord
+* [ ] post sur le fil Ludochaordic du Discord CestPadDuJdr
 * [ ] email aux amis
 * [ ] Signal famille Cesbron
+* [ ] https://opale-roliste.com/forum/ressources/vos-creations/
 -->

@@ -27,6 +27,8 @@ Vous trouverez également ici <a href="pages/jeux-de-role.html">mes créations d
 les <a href="pages/slides.html">slides</a> de présentations que j'ai donné,
 et <a href="past_readings.html">mes lectures passés</a>.
 <br>
+<b>NOUVEAU</b> : une <em>newsletter</em> permet désormais de suivre l'actu de mes créations ludiques → <a href="pages/projets-en-cours.html">Projets en cours</a>.
+<br>
 Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.org/shaarli/">Shaarli</a>.
 <br>
 <small><em>(you can selectively display English articles by clicking <a href="?lang=en">the LANG button above</a>)</em></small>
