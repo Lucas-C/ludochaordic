@@ -3,10 +3,7 @@ Tags: lang:fr
 Summary: Bienvenue sur ce blog :) Je me présente en quelques mots
 ---
 
-<figure role="group" class="column-img">
-    <img src="images/Tom_Brown_Mathematics_CC-by-2-0_cropped.jpg">
-    <figcaption>"Mathematics" par Tom Brown : <a href="https://www.flickr.com/photos/t_e_brown/8677750589">flickr</a></figcaption>
-</figure>
+<img class="column-img" alt="Une photo de moi" src="images/photo.jpg">
 
 ## Bonjour !
 
@@ -37,6 +34,11 @@ Il emploie également des technologies favorables à un [web décentralisé](htt
 commentaires [isso](https://posativ.org/isso/), instance [Shaarli](https://chezsoi.org/shaarli/) pour partager des notes & liens,
 support des pingbacks & [webmentions](https://www.w3.org/TR/webmention/)...
 
+
+<figure role="group" class="column-img right">
+    <img src="images/Tom_Brown_Mathematics_CC-by-2-0_cropped.jpg">
+    <figcaption>"Mathematics" par Tom Brown : <a href="https://www.flickr.com/photos/t_e_brown/8677750589">flickr</a></figcaption>
+</figure>
 
 ## Articles à lire
 
@@ -72,18 +74,19 @@ Si vous me connaissez, n'hésitez pas à me proposer d'attaquer ensemble un prob
 
 
 <style>
+.column-img {
+    max-width: 60%;
+    margin: 0 auto;
+    display: block;
+}
 @media screen and (min-width: 40rem) {
     .column-img {
         max-width: 40%;
         float: left;
         padding: 2rem;
     }
-}
-@media screen and (max-width: 40rem) {
-    .column-img {
-        max-width: 60%;
-        margin: 0 auto;
-        display: block;
+    .column-img.right {
+        float: right;
     }
 }
 .clear-floats {
