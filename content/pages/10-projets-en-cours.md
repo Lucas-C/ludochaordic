@@ -91,7 +91,7 @@ dont un café associatif, [le Kawasso](https://kawasso.odoo.com/).
 
 Je suis aussi mainteneur de projets libres et open-sources, dont notamment [fpdf2](https://py-pdf.github.io/fpdf2/).
 
-Vous trouverez d'autres infos sur moi sur la page [Bienvenue](bienvenue.html).
+Vous trouverez d'autres infos sur moi sur la page [Bienvenue](pages/bienvenue.html).
 
 ## Commentaires
 Si vous voulez me soutenir, déposez un message ci-dessous !
