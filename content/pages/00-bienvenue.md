@@ -18,10 +18,12 @@ Je suis un créateur de jeux,
 et un ingénieur en développement logiciel.
 
 Je vis dans la commune de Champtocé-sur-Loire
-et je travaille dans la région entre Angers et Nantes, actuellement pour [oui.sncf](https://www.oui.sncf).
+et je travaille dans la région entre Angers et Nantes, actuellement pour [SNCF Connect](https://www.sncf-connect.com/).
 
 J'ai mis en place ce blog pour partager des découvertes en tout genre,
 des réflexions, des émotions, et certaines de mes créations.
+
+Vous pouvez retrouver mes projets créatif en développement ici : [Projets en cours](./projets-en-cours.html).
 
 Comme l'atteste le [_tag cloud_](pages/bienvenue.html#tagcloud) ci-dessous,
 mes sujets de prédilection sont la programmation, et en particulier le langage Python,
