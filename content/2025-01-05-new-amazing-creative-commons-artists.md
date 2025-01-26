@@ -6,7 +6,7 @@ Image-preview-thumbnailer-except-urls: deviantart.com/.+/gallery
 Image: thumbnails/HunterTroll-1128312548.jpg
 ---
 Since my [last update 3 years ago](new-creative-commons-artists.html),
-I discovered several new amazing artists that share the work under [Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/).
+I discovered several new amazing artists that share their work under [Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/).
 
 I'm always on the hunt for those kind of generous artists,
 as they really inspire me when I create games.

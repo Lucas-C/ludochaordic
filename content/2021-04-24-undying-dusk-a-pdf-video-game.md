@@ -94,6 +94,7 @@ Info reprise sans mon intervention :
 > **Pages comme une image**. Oui je sais, ce n'est pas vraiment un article, mais vu que je vous avais parlé l'autre fois d'un jeu vidéo entièrement codé dans une police de caractères, je me suis dit que cela valait le coup de mentionner Undying Dusk, un jeu fourni sous forme d'un PDF de 200 000 pages.
 * https://www.superlevel.de/interview-lucas-cimon-undying-dusk-pdf/
 * ThioJoe : The 78,000 Page PDF - https://www.youtube.com/watch?v=ZvVNRRQjDh8
+* https://www.reddit.com/r/notebooklm/comments/1i06ie2/notebooklm_played_undying_dusk/
 
 + https://f5bot.com/dash
 

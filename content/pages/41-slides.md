@@ -19,7 +19,7 @@ Tags: lang:en, slides
         </a>
     </div>
     <div class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-        <a class="uk-thumbnail" href="https://voyages-sncf-technologies.github.io/conf-open-source-en-entreprise/">
+        <a class="uk-thumbnail" href="https://sncf-connect-tech.github.io/conf-open-source-en-entreprise/">
             <img class="uk-align-center" src="images/open-source.png" alt="Image illustrant l'open source">
             <div class="uk-thumbnail-caption">
                 <div class="uk-text-bold uk-text-primary">L'open source en entreprise</div>

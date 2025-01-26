@@ -90,6 +90,7 @@ img.miniature.thin { width: 10rem }
 
 <!-- Com'
 * [x] https://lucas-c.itch.io/
+* [x] https://chezsoi.org/lucas/blog/pages/bienvenue.html
 * [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
 * [x] Links in https://github.com/Lucas-C/jdr README.md & index.md
 * [ ] mon Discord

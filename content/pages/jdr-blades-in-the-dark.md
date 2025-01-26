@@ -109,6 +109,7 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [L'intel des Wraiths](pages/jdr-blades-in-the-dark.html#l-intel-des-wraiths)
     * [Expédition dans les catacombes](pages/jdr-blades-in-the-dark.html#exp-dition-dans-les-catacombes)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-12)
+- [Session 16 - 1er février 2025](pages/jdr-blades-in-the-dark.html#session-16-1er-f-vrier-2025)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -1709,7 +1710,7 @@ En touchant leur enveloppe, ils réussissent chacun à réintégrer le monde phy
 suite à leur installation dans la tour de l'observatoire, alors qu'ils transportaient une partie de leur équipement par les égouts depuis leur planque souterraine, le gang s'est fait intercepter par une patrouille de _Bluecoats_ lourdement armée, guidée là par le fils Gruber !
 Dans l'affrontement, une passe arcanique tentée par Josef ne se déroule pas comme prévu et les plonge tous dans le _Ghost Field_, où ils ont erré quelque temps.
 
-Alors que désormais trois corbeaux font des cercles concentriques au-dessus du charnier souterrain, Lodius décide d'installer des explosifs, et alors qu'ils aperçoivent un _Sprit Warden_ arriver par un tunnel, ils s'enfuient prestement en faisant exploser les tunnels... et une petite place de Doskvol qui les surplombait au-dessus.
+Alors que désormais trois corbeaux font des cercles concentriques au-dessus du charnier souterrain, Lodius décide d'installer des explosifs, et alors qu'ils aperçoivent un _Sprit Warden_ arriver par un tunnel, ils s'enfuient prestement en faisant exploser les tunnels... et une petite place de Doskvol qui les surplombait à la surface.
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/SpiritWarden.jpg" alt="Spirit Warden">
@@ -1722,7 +1723,7 @@ Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos 
 
 <dl>
   <dt>Tu es originaire des Dagger Isles, où tu étais d'extraction noble. Mais quelles sont tes origines plus précisément ?</dt>
-    <dd>Écarté du pouvoir par sa sœur, Ethel, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde.</dd>
+    <dd>Écarté du pouvoir par sa sœur, <b>Ethel</b>, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde.</dd>
   <dt>Comment font-ils pour se passer de barrières électroplasmiques dans les Dagger Isles, et comment Ethnos y a été confronté ?</dt>
     <dd>Là-bas les habitants boivent rituellement du sang de Léviathan, côtoient régulièrement des démons dans la jungle, et érigent de grands totems protecteurs. Ethnos a été initié à toutes ces croyances et connaissances, et la consommation passée de sang de Léviathan de Lodius a probablement joué lors du rituel qui l'a amené à quitter son corps indemne...</dd>
   <dt>En arrivant à Doskvol, Ethnos était très pieu et repentant. Qu'est-ce qui l'a amené dans cette direction ?</dt>
@@ -1730,7 +1731,7 @@ Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos 
   <dt>Qu'est-ce qui a mené Ethnos à Doskvol, et à rejoindre le gang du Harpon ?</dt>
     <dd>Lodius l'a connu à bord d'un navire, et à fait appel à lui ensuite lorsqu'il a monté son gang. Et Ethnos voulait partir loin de son passé.</dd>
   <dt>Qu'est-ce qu'Ethnos à conservé avec lui des Dagger Isles ?</dt>
-    <dd>Sa chevalière, comportant son blason familial, qu'il porte à une chaîne autour du cou.</dd>
+    <dd>Sa <b>chevalière</b>, comportant son blason familial, qu'il porte à une chaîne autour du cou.</dd>
 </dl>
 
 ### Exploration de la tour de l'observatoire
@@ -1738,7 +1739,7 @@ Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos 
 Une fois de retour à leur planque, le gang prend le temps d'explorer plus en détails la tour qu'ils occupent désormais.
 Notamment, ils explorent le _Sanctum_, découvrent une bibliothèque cachée dans l'ancienne chambre d'Henner, comprennent le fonctionnement de l'Œil du Corbeau, découvrent l'accès secondaire via le toit de la maison attenante, également affecté par l'enchantement d'illusion, et détectent la présence de spectres de pendus dans les échafaudages à l'extérieur.
 
-L'exploration cause aussi la chute de poutrelles métalliques, qui s'écrase sur des maisons à côté de la tour, en-dehors de l'illusion.
+L'exploration cause aussi la chute de poutrelles métalliques, qui s'écrasent sur des maisons à côté de la tour, en-dehors de l'illusion.
 
 Parmi les autres informations qu'ils récoltent à leur retour, il y a également une rumeur de comète, l'Écharpe Rouge qui invite Eric à participer à un tournoi martial, et un pli de Lord Scurlock mentionnant qu'il attend de leurs nouvelles suite à la mission qu'il a confié au gang...
 
@@ -1774,7 +1775,18 @@ Néanmoins, à l'heure et au lieu du rendez-vous, à Saltridge dans Crow's Foot,
 Il comprend bien vite qu'il est pris en filature par deux _Bluecoats_ en civil, et Eric s'occupe de les faire disparaître.
 
 Alors que Phil, paniqué, s'enfuit jusqu'à un bateau dans un canal proche, Lodius décide de l'intercepter en sautant sur son bateau depuis un pont avec une _smoke bomb_.
-Malheureusement cela s'avère être un piège, et une douzaine de _Bluecoats_ lui saute dessus avec un filet, et un Inspecteur à la manœuvre. Lodius fait preuve de réflexe et applique sur lui de la _Drift Oil_ pour s'élever dans les airs, puis prend possession de l'Inspecteur afin de canarder les _Bluecoats_ et de faire se trancher la gorge à sa victime.
+Malheureusement cela s'avère être un piège, et une douzaine de _Bluecoats_ lui sautent dessus avec un filet, et un Inspecteur à la manœuvre. Lodius fait preuve de réflexe et applique sur lui de la _Drift Oil_ pour s'élever dans les airs, puis prend possession de l'Inspecteur afin de canarder les _Bluecoats_ et de faire se trancher la gorge à sa victime.
+
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/places/BitD-DeepCuts-01-small.png" alt="Deep Cuts illustration">
+    <figcaption><a href="https://johnharper.itch.io/deep-cuts">Illustration officielle de l'extension <em>Deep Cuts</em></a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/places/BitD-DeepCuts-02-small.png" alt="Deep Cuts illustration">
+    <figcaption><a href="https://johnharper.itch.io/deep-cuts">Illustration officielle de l'extension <em>Deep Cuts</em></a></figcaption>
+  </figure>
+</div>
 
 Alors qu'il s'élève vers des toits attenants, il évite une navette volante impériale en dissipant l'effet de la potion de lévitation, mais malheureusement s’assomme lors de sa chute, et est capturé.
 Eric se lance dans une ultime tentative d'aide à son camarade, n'hésitant pas à tirer à la mitrailleuse sur _Bluecoats_ et facades de maison, mais c'est malheureusement trop tard...
@@ -1784,10 +1796,10 @@ Eric se lance dans une ultime tentative d'aide à son camarade, n'hésitant pas 
 Tandis que le reste du gang missionne Valeris pour déterminer où Lodius a été emmené par les forces de l'ordre,
 celui-ci se réveille dans une cellule sur Whitecrown.
 
-S'ensuit un interrogatoire (_joué en une longue belle session de roleplay)_ où l'Inspecteur **Holdan** et son second **Smithson** cuisine longuement Lodius, le questionnant sur les meurtres de Fridrik Nash, Raffello, Darmot & Conway, mais aussi sur l'attaque du bordel La Tentacule Bleue où des témoins l'on vu, hache à la main, la main tranchée de Sylvia Derengathi, le témoignage du prêtre Herman, la destruction d'un Échassier lors de l'évasion d'Oru ou encore l'attaque de l'électro-train...
+S'ensuit un interrogatoire (_joué en une longue belle session de roleplay)_ où l'Inspecteur **Holdan** et son second **Smithson** cuisinent longuement Lodius, le questionnant sur les meurtres de Fridrik Nash, Raffello, Darmot & Conway, mais aussi sur l'attaque du bordel La Tentacule Bleue, où des témoins l'ont vu armé d'une hache, la main tranchée de Sylvia Derengathi, le témoignage du prêtre Herman, la destruction d'un Échassier lors de l'évasion d'Oru ou encore l'attaque de l'électro-train...
 
 Les inspecteurs finissent par confronter Ethnos-Lodius, via un buste _Hull_ permettant d’accueillir un fantôme, au spectre accusateur de Bell, puis à celui de... Lodius !
-Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résiste, et ne balance rien !
+Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résiste, et il ne lâche rien.
 
 <div class="side-by-side" role="group">
   <figure role="group">
@@ -1804,7 +1816,7 @@ en passant d'abord par le bar _The Hooded Fox_ puis en retrouvant l'un d'eux au 
 où ils achètent de précieuses informations :
 
 * l'attaque des _Silver Nails_ a été commandité pour récupérer **La main de Kotar** en leur possession
-* **Jenny Holt** serait la seule rescapé, capturée par le Cercle de la Flamme, et ils prévoient de l'employer bientôt pour un sacrifice
+* **Jenny Holt** serait la seule rescapée, capturée par le Cercle de la Flamme, et ils prévoient de l'employer bientôt pour un sacrifice
 
 <div class="side-by-side" role="group">
   <figure role="group">
@@ -1825,7 +1837,7 @@ Ils affrontent d'abord deux spectres, mais Josef réussit à prendre le contrôl
 
 Ils arrivent ensuite à au lac souterrain, et tandis qu'ils explorent les lieux, un démon est invoqué face à eux, massif et bardé de lames. Ils en viennent finalement à bout avec l'aide d'Ermgast et du spectre que Josef contrôle.
 Ils découvrent une page de grimoire occulte et des traces récentes les menant à la surface, jusqu'à une belle demeure de Whitecrown.
-Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et décident de stopper leur exploration face au dédale de souterrain que constitue le reste des catacombes.
+Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et décident de stopper leur exploration face au dédale de souterrains que constitue le reste des catacombes.
 
 <div class="side-by-side" role="group">
   <figure role="group">
@@ -1871,14 +1883,22 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
     + [Scoundrel Action Cards @ itch.io](https://greyorm.itch.io/scoundrel-action-cards)
     + [Calling cards of Doskvol @ itch.io](https://redriderx.itch.io/calling-cards-of-doskval)
 
+## Session 16 - 1er février 2025
+
 <!--
-## Session 16 - septembre 2024 ?
+<figure role="group">
+  <img loading="lazy" src="images/bitd/grzegorz-rutkowski-guillotine.jpg" alt="Exécution de Lodius">
+  <figcaption>Exécution de Lodius - Source : <a href="https://www.artstation.com/artwork/106X">Guillotine by Greg Rutkowski<a></figcaption>
+</figure>
 
 ### Ressources
 - aides de jeu :
     + [Flooded district map by UnknownZ14Z @ reddit.com/r/bladesinthedark](https://old.reddit.com/r/bladesinthedark/comments/1e1savi/how_does_my_flooded_zone_look_on_the_map/)
+    + [10 tips after a year of GMing (2 seasons) BitD campaign](https://reddit.com/r/bladesinthedark/comments/1g78xtn/10_tips_after_a_year_of_gming_2_seasons_blades_in/)
+    + [symbols for Underworld factions, inspired by various alchemy symbols and hobo codes](https://www.reddit.com/r/bladesinthedark/comments/1c10mz3/simple_symbols_for_underworld_factions_im_using/)
+    + [Devils generator](https://perchance.org/bladesdevils)
+    + [Underground Maps & Passkeys by Mythworks](https://mythworks.itch.io/bitdcharityzine): _a collection of windows into other goings on in scenic Duskwall_. De super idées de Scores dont s'inspirer : des courses secrètes de hors-bords sous Doskvol; le bal concluant une exposition scientifique; un restaurant réputé et sa chef prête à tout pour conserver sa réputation; le théâtre impérial, et le Le Rideau, l'ancienne salle d'opéra hantée...
 
-Downtime pas encore fait pour Elaria
 Josef Tucker n'a pas de contacts +/- ?
 Reprendre la partie avec le message envoyé par Ethnos au gang
 -> les PJs trouveront-ils le projet d'Ethnos en cours de se créer un Hull ?
@@ -1891,19 +1911,16 @@ Questions en suspens :
 + loi martiale & risque pour usine Gruber & Fils
 
 Prépa :
-* anticiper raison absence Elaria
-* prévoir quelques questions pour détailler le passé d'Eric
 * anticiper listing du matériel Silver Nails qui circule en vente...
     + anneaux de clous d'argent, protégeant de la possession
     + lances arcaniques
     + chaînes d'argent enchantées, permettant d'immobiliser démons & spectres
-    + etc.
+    + cf. VestigesDeGuerre-Equipement.png
     + qu'est devenu le sergent Echols ?
 * prévoir quelques clocks
     + Setarra piège Mist à la Table d'Ojak : comment ?
     + Justinia ?
     + Perte massive de COINS si pas rétablissement de leur activité économique de trafic de drogue
-* read some PDFs / OlinKirkland scenarios (15+)
 * remercier Tim Denee pour son plan, et consulter ses autres sur flickr
 
 Petites annonces diffusées dans ne n°83 des Chroniques du Crépuscule :
@@ -1913,15 +1930,15 @@ Petites annonces diffusées dans ne n°83 des Chroniques du Crépuscule :
 Autres mentions issues des Chroniques du Crépuscule à exploiter :
 + n°83 - Appel au retour au calme d'Olivia Dream
 + n°83 - Grande messe de l’Extase de la Chair
-+ n°83 - Commercant de Nightmarcket tué avec grafiti "Il voit tout"
++ n°83 - Commerçant de Nightmarket tué avec graffiti "Il voit tout"
 
 Prochaine session :
-* INTRO : PJs plongés dans un lieu étrange, sans souvenir de comment ils y sont arrivés...
 * introduire magie des ombres, dirigeables...
 * employer des éléments issus de leurs inventaires comme ressorts de l'histoire
 * Idée issue de Radio Roliste : temporiser l'adversité pour permettre à des tensions entre PJs d'apparaître
 * les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...
 * faire le point sur pouvoirs de Lodius : plus il utilise ses pouvoirs, plus le risque de "décorporation" spontané augmente ?
+
 CLOCKS:
 * anticiper réaction des gangs de Charhollow lorsqu'ils apprendront la présence du Harpon
 * intervention militaire "tactique" (~SWAT) à Coalridge grâce aux arcanes disposées par les clercs de l'évêque
@@ -1934,9 +1951,12 @@ Anticiper / définir :
 * donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
 
 Josef :
-+ ajouter "Anguille Rouge", cabaret de Silkshore
 + PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Josef
 + la famille Daava en veut probablement à Josef...
+
+Elaria :
+* anticiper raison de son absence
+* Downtime pas encore fait
 
 Joueurs partants pour renouveler le fait de faire des sessions pour développer le passé des PJs,
 à base de questions à choix multiples et interprétation de PNJs
@@ -2051,13 +2071,7 @@ Maps:
    -> braille (attention au sens haut/bas) via dcode.fr:
    DECONTACT
    TUNASPLUSBESOIN
-LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécu de transfert de corps
-      peuvent octroyer des capacités démoniaques... Pour les maîtriser il faut déchiffrer leur sens !
-Pour chaque "strate" du tatouage, le principe est le même :
-  * identifier de quelle langue il s'agit, par enquête ou grâce à un érudit : occultiste / linguiste / ancien...
-  * décoder le message. Convaincre un érudit d'aider permet d'éviter d'effectuer le décodage soi-même
-  * s’entraîner (roue x4) ou tester par soi-même pour maîtriser le nouveau pouvoir
-Si le PJ se rend à un bibliothèque, lui dire que la réponse est sur le site dcode.fr (sans lui indiquer la page)
+LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécu de transfert de corps peuvent octroyer des capacités démoniaques... Pour les maîtriser il faut déchiffrer leur sens !
 
 Tools:
 
