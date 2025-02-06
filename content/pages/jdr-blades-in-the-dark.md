@@ -11,6 +11,10 @@ Status: hidden
   <figcaption>Source: <a href="https://www.reddit.com/r/bladesinthedark/comments/eo7dkx/wanted_an_animated_wallpaper_made_an_animated/">emperor_of_steelcity animated wallpaper @ Reddit</a></figcaption>
 </figure>
 
+Cette page contient un compte-rendu de notre campagne,
+ainsi que des sections _Ressources_,
+listant de nombreuses aide de jeux, bande sons, cartes, etc.
+
 ### Le _pitch_
 [Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) est un jeu de rôle de John Harper
 où vous incarnez un groupe de scélérats audacieux qui établit son entreprise criminelle dans les rues hantées
@@ -110,6 +114,14 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Expédition dans les catacombes](pages/jdr-blades-in-the-dark.html#exp-dition-dans-les-catacombes)
     * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-12)
 - [Session 16 - 1er février 2025](pages/jdr-blades-in-the-dark.html#session-16-1er-f-vrier-2025)
+    * [Intro - The Goons](pages/jdr-blades-in-the-dark.html#intro-the-goons)
+    * [Le passé d'Eric Stamp](pages/jdr-blades-in-the-dark.html#le-pass-d-eric-stamp)
+    * [Le passé de Mist](pages/jdr-blades-in-the-dark.html#le-pass-de-quess-jeduin)
+    * [A demon on the loose](pages/jdr-blades-in-the-dark.html#a-demon-on-the-loose)
+    * [L'évasion de Lodius](pages/jdr-blades-in-the-dark.html#l-vasion-de-lodius)
+    * [Vassock réclame son dû](pages/jdr-blades-in-the-dark.html#vassock-r-clame-son-d-)
+    * [L'exécution publique](pages/jdr-blades-in-the-dark.html#l-ex-cution-publique)
+    * [Un prisonnier gênant](pages/jdr-blades-in-the-dark.html#un-prisonnier-g-nant)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -206,7 +218,7 @@ Cela rend l'iruvien furieux. Sabre à la main, il se met en position de duel pou
 désarmé, décide de s'enfuir dans le dédale de rues pour regagner la place du marché
 
 <figure>
-  <img alt="Combatant iruvien" src="images/bitd/NPCs/iruvian_sword_fighter.jpg">
+  <img loading="lazy" alt="Combatant iruvien" src="images/bitd/NPCs/iruvian_sword_fighter.jpg">
   <figcaption>Milos</figcaption>
 </figure>
 
@@ -382,7 +394,7 @@ pour finalement se faire chasser par les videurs car il gêne les autres clients
 Bell leur fait comprendre qu'il n'apprécie pas qu'ils aient débauché Aldo, et que les conflits internes au gang Crows ne regardent personne d'extérieur.
 Il finit par s'énerver quand les PJs évoquent l'idée de partager le territoire de Lyssa, et la rencontre se termine précipitamment.
 
-![La tour de l'horloge des Crows](images/bitd/places/clocktower/Thief-GarettHideout-NicolasFerrand-on-ArtStation-oxWO.jpg)
+<img loading="lazy" alt="La tour de l'horloge des Crows" src="images/bitd/places/clocktower/Thief-GarettHideout-NicolasFerrand-on-ArtStation-oxWO.jpg">
 
 - pour finir la journée, les PJs décident de profiter des repérages d'Eric et d'organiser une opération le soir même sur le lupanar de Lyssa.
 Eric profite de la complicité de la fille de joie qu'il connaît pour y introduire Elaria cachée dans un tonneau.
@@ -712,7 +724,7 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
     <figcaption>Justinia (<a href="https://www.deviantart.com/banished-shadow/art/Talyn-569327626">Talyn by Banished-shadow</a>)</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" alt="Early Morning Lights - Joseph Feely" src="images/bitd/places/JosephFeely-EarlyMorningLights.jpg">
+    <img loading="lazy" alt="Early Morning Lights - Joseph Feely" src="images/bitd/places/facades_and_streets/JosephFeely-EarlyMorningLights.jpg">
     <figcaption><a href="https://www.artstation.com/artwork/3ddmVE">Early Morning Lights - Joseph Feely</a></figcaption>
   </figure>
   <figure role="group">
@@ -918,9 +930,9 @@ La rixe tourne court et Ethnos-Lodius s'enfuit avec ses hommes après avoir arra
     + [Charterhall near the law court](https://www.reddit.com/r/battlemaps/comments/jjmp7c/city_streets_and_alleys_25x45/)
     + [cloître de Lucatore](https://chezsoi.org/lucas/blog/images/bitd/degenesis-in-thy-blood-cloister-en-3264x2320.webp) (source : [JdR Degenesis](https://degenesis.com/downloads/maps))
 - radar plot of a survey I made to figure what my players like most in the game:
-[![](images/bitd/AppetencesJoueurs.png)](https://www.reddit.com/r/bladesinthedark/comments/qail84/at_the_beginning_of_last_session_i_asked_my/)
+[<img loading="lazy" src="images/bitd/AppetencesJoueurs.png">](https://www.reddit.com/r/bladesinthedark/comments/qail84/at_the_beginning_of_last_session_i_asked_my/)
 - simple "position" board I made, to make PC positions explicit to players:
-[![](images/bitd/photos/bitd-position-board.jpg)](https://www.reddit.com/r/bladesinthedark/comments/qaiork/tool_i_find_this_simple_board_useful_to_make_pc/)
+[<img loading="lazy" src="images/bitd/photos/bitd-position-board.jpg">](https://www.reddit.com/r/bladesinthedark/comments/qaiork/tool_i_find_this_simple_board_useful_to_make_pc/)
 
 
 ## Session 10 - 28 mai 2022
@@ -956,7 +968,7 @@ Malheureusement le corps de Josef flotte dans l'eau, canardé par les gardes.
 Le gang atteint l'épave du galion par les égouts. Sur place, la mer est remplie de cadavres flottant,
 et ils découvrent Phil, Jenny Holt & ses Silver Nails, ainsi que de nombreux hommes du Harpon pendus aux mâts...
 
-![](images/bitd/HangingMen.jpg)
+<img loading="lazy" alt="Pendus" src="images/bitd/HangingMen.jpg">
 
 Soudain, des morts-vivant sortent du galion et se mettent à se diriger vers le gang,
 et les cadavres de la mer se mettent en mouvement...
@@ -975,13 +987,13 @@ mais Aldo est néanmoins dévoré vivant sous leurs yeux.
 
 Il s'injecte alors un sérum de physicker dans le bras, et se transforme partiellement...
 
-![](images/bitd/NPCs/KingShark.jpg)
+<img loading="lazy" alt="Eric transformé" src="images/bitd/NPCs/KingShark.jpg">
 
 Armé de son marteau qu'il fait tournoyer, il fait un ravage parmi les mort-vivants.
 Malheureusement, Justinia meurt dans l'effondrement d'un bâtiment en flammes.
 ([bande son @YouTube](https://www.youtube.com/watch?v=3FrXSJ5AS8I))
 
-![](images/bitd/Doskvol-in-flames.jpg)
+<img loading="lazy" alt="Doskvol en feu" src="images/bitd/Doskvol-in-flames.jpg">
 
 Le gang traverse l'incendie, alors que le quartier est en feu : [clip issu de Thief 4](https://youtu.be/cHF-jZfe1G0?t=3536).
 
@@ -1192,7 +1204,7 @@ Une sélection d'illustrations gracieusement fournie par Elliot :
     <figcaption>L'œil du masque de Mist semble avoir une expression différente à chaque fois qu'on l'observe...</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" alt="In the catacombs of the College of Immortal Studies" src="images/bitd/places/in-the-catacombs.png">
+    <img loading="lazy" alt="In the catacombs of the College of Immortal Studies" src="images/bitd/places/catacombs/in-the-catacombs.png">
     <figcaption>Dans les catacombes sous l'Académie des Études Immortelles...</figcaption>
   </figure>
   <figure role="group">
@@ -1265,7 +1277,7 @@ Après une courte hésitation où ils envisagent d'abandonner tous les passagers
 Une fois la barrière électroplasmique de la ville franchie, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
 
 <figure role="group">
-  <img loading="lazy" alt="Les abords du fleuve Dosk à l'aube" src="images/bitd/places/river.webp">
+  <img loading="lazy" alt="Les abords du fleuve Dosk à l'aube" src="images/bitd/places/Bridge-river.webp">
   <figcaption>Les abords du fleuve Dosk à l'aube</figcaption>
 </figure>
 
@@ -1309,7 +1321,7 @@ Enfin, les PJs révèlent à M. Gruber père que son fils, Garett, présent à l
 
 ## Session 13 - 16-17 septembre 2023
 
-![Mask & train](images/bitd/MaskAndTrain.webp)
+<img loading="lazy" alt="Mask & train" src="images/bitd/MaskAndTrain.webp">
 
 ### Intro : pendant ce temps à Coalridge...
 _Tout d'abord, quelques éléments du passé d'Elaria ont été définis, via une série de questions et de suggestions de l'ensemble des joueurs._
@@ -1443,7 +1455,7 @@ Malgré une tentative du spectre pour que Lodius abatte l'un de ses camarades,
 le rituel est un succès et le fantôme est enfermé dans une bouteille.
 
 <figure role="group">
-  <img loading="lazy" src="images/bitd/places/ThiefCity.jpg" alt="Vue de Doskvol et de la tour de l'horloge">
+  <img loading="lazy" src="images/bitd/places/facades_and_streets/ThiefCity.jpg" alt="Vue de Doskvol et de la tour de l'horloge">
   <figcaption>Vue de Doskvol et de la tour de l'horloge</figcaption>
 </figure>
 
@@ -1477,7 +1489,7 @@ Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job
 
 <a href="images/bitd/ChroniquesDuCrepuscule-MadeByAurelien.pdf">
   <figure>
-    <img alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule-pdf-thumbnail.jpg">
+    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule-pdf-thumbnail.jpg">
     <figcaption>Chroniques du Crépuscules - par Aurélien</figcaption>
   </figure>
 </a>
@@ -1645,11 +1657,11 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
         * **Mauvais recrutement : qui était-ce et que s'est-il passé ?** Silas, ancien barman de La Tentacule Bleue, qui a souhaité raccrocher en découvrant les méthodes du Harpon
         * **À quoi ressemble le pub sous votre protection, et quelles surprises recèle-t-il ?** Choix 3
 
-<img loading="lazy" alt="La table de jeu" src="images/bitd/20240217_180118.jpg">
+<img loading="lazy" alt="La table de jeu" src="images/bitd/photos/20240217_180118.jpg">
 
 <a href="images/bitd/ChroniquesDuCrepuscule2.pdf">
   <figure>
-    <img alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule2-pdf-thumbnail.jpg">
+    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule2-pdf-thumbnail.jpg">
     <figcaption>Chroniques du Crépuscules n°2 - par Aurélien</figcaption>
   </figure>
 </a>
@@ -1721,18 +1733,20 @@ Alors que désormais trois corbeaux font des cercles concentriques au-dessus du 
 
 Comme lors de la session 13 avec Elaria, quelques éléments du passé d'Ethnos ont été définis collectivement :
 
-<dl>
-  <dt>Tu es originaire des Dagger Isles, où tu étais d'extraction noble. Mais quelles sont tes origines plus précisément ?</dt>
-    <dd>Écarté du pouvoir par sa sœur, <b>Ethel</b>, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde.</dd>
-  <dt>Comment font-ils pour se passer de barrières électroplasmiques dans les Dagger Isles, et comment Ethnos y a été confronté ?</dt>
-    <dd>Là-bas les habitants boivent rituellement du sang de Léviathan, côtoient régulièrement des démons dans la jungle, et érigent de grands totems protecteurs. Ethnos a été initié à toutes ces croyances et connaissances, et la consommation passée de sang de Léviathan de Lodius a probablement joué lors du rituel qui l'a amené à quitter son corps indemne...</dd>
-  <dt>En arrivant à Doskvol, Ethnos était très pieu et repentant. Qu'est-ce qui l'a amené dans cette direction ?</dt>
-    <dd>Il a été initié à l'Église de l’Extase de la Chair par un missionnaire, dans le but d'expier ses fautes, et notamment la mort d'un <em>Witch Doctor</em> qui la rendu très impopulaire là-bas...</dd>
-  <dt>Qu'est-ce qui a mené Ethnos à Doskvol, et à rejoindre le gang du Harpon ?</dt>
-    <dd>Lodius l'a connu à bord d'un navire, et à fait appel à lui ensuite lorsqu'il a monté son gang. Et Ethnos voulait partir loin de son passé.</dd>
-  <dt>Qu'est-ce qu'Ethnos à conservé avec lui des Dagger Isles ?</dt>
-    <dd>Sa <b>chevalière</b>, comportant son blason familial, qu'il porte à une chaîne autour du cou.</dd>
-</dl>
+Tu es originaire des Dagger Isles, où tu étais d'extraction noble. Mais quelles sont tes origines plus précisément ?
+: Écarté du pouvoir par sa sœur, **Ethel**, il a souhaité partir se faire un nom par lui-même ailleurs dans le monde.
+
+Comment font-ils pour se passer de barrières électroplasmiques dans les Dagger Isles, et comment Ethnos y a été confronté ?
+: Là-bas les habitants boivent rituellement du sang de Léviathan, côtoient régulièrement des démons dans la jungle, et érigent de grands totems protecteurs. Ethnos a été initié à toutes ces croyances et connaissances, et la consommation passée de sang de Léviathan de Lodius a probablement joué lors du rituel qui l'a amené à quitter son corps indemne...
+
+En arrivant à Doskvol, Ethnos était très pieu et repentant. Qu'est-ce qui l'a amené dans cette direction ?
+: Il a été initié à l'Église de l’Extase de la Chair par un missionnaire, dans le but d'expier ses fautes, et notamment la mort d'un <em>Witch Doctor</em> qui la rendu très impopulaire là-bas...
+
+Qu'est-ce qui a mené Ethnos à Doskvol, et à rejoindre le gang du Harpon ?
+: Lodius l'a connu à bord d'un navire, et à fait appel à lui ensuite lorsqu'il a monté son gang. Et Ethnos voulait partir loin de son passé.
+
+Qu'est-ce qu'Ethnos à conservé avec lui des Dagger Isles ?
+: Sa **chevalière**, comportant son blason familial, qu'il porte à une chaîne autour du cou.
 
 ### Exploration de la tour de l'observatoire
 
@@ -1865,7 +1879,7 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
 ### Ressources
 
 <figure>
-  <img alt="Duskvol Map" src="images/bitd/maps/reddit-bladesinthedark-16q62sj-duskvol_map.webp">
+  <img loading="lazy" alt="Duskvol Map" src="images/bitd/maps/reddit-bladesinthedark-16q62sj-duskvol_map.webp">
   <figcaption>Duskvol Map by <a href="https://www.reddit.com/r/bladesinthedark/comments/16q62sj/duskvol_map/">FamiliarSomeone on r/bladesinthedark</a></figcaption>
 </figure>
 
@@ -1875,129 +1889,322 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
     + [The Dark City @ YouTube](https://www.youtube.com/watch?v=AaiIOV7jYc4)
     + [Ambient Music for Urban Fantasy @ playlist YouTube](https://www.youtube.com/playlist?list=PLk0snynVn5aPwUXqcMpXBd9TaiGOnqe9T)
     + [𝐇𝐚𝐮𝐧𝐭𝐞𝐝 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐚𝐧 𝐋𝐨𝐧𝐝𝐨𝐧 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 𝐃𝐚𝐫𝐤 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐚 @ YouTube](https://www.youtube.com/watch?v=9xs10c1zTEg)
-    + [All of Legio Symphonica @ playlist YouTube](https://www.youtube.com/playlist?list=PLAYmiuM_LLD06ayUuIib6nHVOjaQSvdAo) - Le morceau [Sol Indicts Music](https://www.youtube.com/watch?v=DWJzuC2IMNs) est particulièrement épique, et [Iron Without](https://www.youtube.com/watch?v=9zHhsEXjqkM) est également parfait comme musique de combat
+    + [All of Legio Symphonica @ playlist YouTube](https://www.youtube.com/playlist?list=PLAYmiuM_LLD06ayUuIib6nHVOjaQSvdAo) - Le morceau [Sol Invictus Music](https://www.youtube.com/watch?v=DWJzuC2IMNs) est particulièrement épique, et [Iron Without](https://www.youtube.com/watch?v=9zHhsEXjqkM) est également parfait comme musique de combat
     + [THE DAY WE CHOOSE TO DIE | Epic Dramatic Strings - Powerful Atmospheric Orchestral Music Mix @ YouTube](https://www.youtube.com/watch?v=RwJscjiB0Sc)
     + [Medieval Fantasy Tavern @ YouTube](https://www.youtube.com/watch?v=vyg5jJrZ42s)
 - aides de jeu :
+    + [Interrogatoires @ itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) : permet de développer les scènes d'interrogatoire, pour en faire des moments cruciaux et axés sur le _roleplay_
     + [OlinKirkland scenarios (15+)](https://olinkirk.land/scribbles/)
     + [Scoundrel Action Cards @ itch.io](https://greyorm.itch.io/scoundrel-action-cards)
     + [Calling cards of Doskvol @ itch.io](https://redriderx.itch.io/calling-cards-of-doskval)
 
 ## Session 16 - 1er février 2025
 
-<!--
 <figure role="group">
-  <img loading="lazy" src="images/bitd/grzegorz-rutkowski-guillotine.jpg" alt="Exécution de Lodius">
-  <figcaption>Exécution de Lodius - Source : <a href="https://www.artstation.com/artwork/106X">Guillotine by Greg Rutkowski<a></figcaption>
+  <img loading="lazy" src="images/bitd/places/Dunwall-roofs-landscape-by-OlegSeleznev.jpg" alt="Dunwall roofs landscape">
+  <figcaption>Source : <a href="https://www.reddit.com/r/dishonored/comments/1gka5rl/little_landscape_of_dunwall_roofs_by_me/">Little landscape of Dunwall roofs by Oleg Seleznev</a></figcaption>
 </figure>
 
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" alt="Binocular" src="images/bitd/Tensei/BitD-Artworks-Binocular-by-Tensei.jpg">
+    <figcaption>Illustration de <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" alt="Discovery" src="images/bitd/Tensei/BitD-Artworks-Discovery-by-Tensei.jpg">
+    <figcaption>Illustration de <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  </figure>
+</div>
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" alt="Horizon" src="images/bitd/Tensei/BitD-Artworks-Horizon-by-Tensei.jpg">
+    <figcaption>Illustration de <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" alt="Journal" src="images/bitd/Tensei/BitD-Artworks-Journal-by-Tensei.jpg">
+    <figcaption>Illustration de <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  </figure>
+</div>
+
+### Intro - The Goons
+
+<figure role="group">
+  <img loading="lazy" alt="Gang goons" src="images/bitd/GangGoons.jpg">
+  <figcaption>Gang goons - Source : <a href="https://fr.pinterest.com/pin/568298046747858666/" target="_blank">AI-generated, posted on Pinterest</a></figcaption>
+</figure>
+
+Drav « Tik Tok » <!-- Elliot -->
+: Skovlander, vêtements épais crades, claudique avec une canne-épée, alcoolique, recruteur pour le gang & contact avec les gavroches dans les bas-fonds.
+
+Robert « Hal » Halibut <!-- Matt -->
+: Patibulaire, mauvaise hygiène corporelle, il a les clefs de toutes les infrastructures de la ville, et en fournit l'accès au gang.
+
+Raoul Clermont <!-- Thomas -->
+: Espion / éclaireur, chétif & blafard, grand manteau à capuche, très indépendant, rare sont ceux qui connaissent son visage.
+
+Pietro « Fork » Bucker <!-- Aurélien -->
+: Crâne rasé, physique de « taulard », gère le trafic & l'intimidation des récalcitrants, addict aux drogues, psychopath imprévisible.
+
+Après un long labeur d'aménagement de la Tour de l'Observatoire, nouveau QG du gang,
+ces malfrats échangent quelques mots autour d'un verre de pinard.
+
+Ils s'aventurent à explorer les lieux, et croisent **Noah**, jeune recrue issue des Grinders.
+Celui-ci leur parle de l'Eyrie au sommet d'une tour, et ils s'y rendent tous.
+Alors qu'ils s'approchent, Hal & Clermont entendent alors une voix dans leur tête qui leur parle en murmurant...
+
+Ils découvrent, caché dans le socle d'un petit telescope, l'une des jarres de pierre récupérées sur le _Torment_.
+Tandis que la tension monte et que Drav & Pietro en viennent au mains,
+Hal, incité par la voix dans sa tête, s'enfuit avec la jarre, et est poursuivit par Clermont.
+
+Finalement Aldo s'interpose pour intercepter Hal, et la jarre de pierre s'écrase au sol...
+
+### Le passé d'Eric Stamp
+Comme lors des sessions précédents, quelques éléments de son passé ont été définis collectivement :
+
+_**Tycheros** est un endroit mythique, et très rares sont les gens à Doskvol qui ont des informations fiables sur cette contrée.
+Ses habitants seraient des demi-démons... Est-ce vrai ? Sont-ils les enfants d'un démon ?
+Leurs ancêtres ont-ils passé un pacte avec un Prince Démon pour échapper au Cataclysme ?
+Ou bien s'agit-il réellement d'un mythe, forgé par l'Empereur Immortel pour dissimuler l'origine
+des expérimentations qu'il a commandité, et qui ont provoqué les transformations des Tycherosi ?_
+
+<figure role="group">
+  <img loading="lazy" alt="Eric Stamp" src="images/bitd/PCs/EricStamp2.jpg">
+  <figcaption>Illustration d'Eric Stamp par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+</figure>
+
+Que sait Eric sur ses origines ?
+: Eric adhère à la thèse du « Darwinisme avec du cul » : les Tycherosi seraient les rejetons bâtards d'une lignée de croisements entre humains et démons.
+
+Qui lui a appris l'art du déguisement et de la comédie, et pourquoi ?
+: Alors qu'il était vigile pour une troupe de théâtre, il a eu l'opportunité d'être figurant,
+puis ayant pris goût au jeu sur les planches, de devenir acteur.
+
+Eric n'était pas prédisposé ni voué à une vie criminelle à l'origine. Est-ce que ses actes de violence, ou sa passion pour les plaisirs charnels en sont à l'origine, ou quelque chose d'autre dans son histoire ?
+: Alors que le cabaret-théâtre où il était acteur était menacé par les usuriers et le racket,
+Eric a dû bander les poings pour le défendre.
+
+Il existe quelqu'un à Doskvol lié au passé d'Eric, que ce dernier évite soigneusement de côtoyer : qui-est-ce et pourquoi ce comportement ?
+: Eric a un amour secret, mais il a honte de son physique...
+
+### Le passé de Quess Jeduin
+Comme lors des sessions précédents, quelques éléments de son passé ont été définis collectivement :
+
+_Mist est originaire d'**U'Duasha**, une ville au milieu du désert iruvien, bâtie autour d'un gigantesque puits aux âmes. Quess Jeduin est rattaché de naissance à la maison Ankhayat, et a été formé à l'université de Vaasu, qui forme le futur de l'élite militaire et des capitaines de vaisseaux chasseurs de Léviathan._
+
+<figure role="group">
+  <img loading="lazy" alt="Mist" src="images/bitd/PCs/Mist.jpg">
+  <figcaption>Illustration de Mist par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+</figure>
+
+Qu'est-ce qui l'a ensuite poussé à étudier à l'Université des Études Immortelles, à Doskvol ?
+: Officiellement, pour approfondir ses études. En secret, il y a été envoyé comme espion par la maison Ankhayat.
+
+Dans cette autre temporalité d'où provient Mist, il a eu de sérieux soucis avec un démon, et a rejoint le Harpon pour bénéficier de sa protection. Dans quelles circonstances Elaria lui a confié cette croix ?
+: C'était en réalité un démon se faisant passer pour Elaria qui lui a confié la croix, avec son propre agenda... Depuis Mist l'a compris, et se doute de qui est derrière ça...
+
+D'où provient le surnom « Mist » ? Est-ce qu'il date de son passé iruvien ?
+: C'était un surnom attribué par les _goons_ du gang, mais à leur insu c'est aussi un mot prononcé par le premier démon qu'a évoqué Quess.
+
+La dernière fois que Mist a traversé la mer, il y a eu « un incident ». Que s'est-il passé ?
+: Un léviathan a percuté le navire ! 🤔
+
+### _A demon on the loose_
+De retour de leur expédition dans les Catacombes, les PJs découvrent que c'est les panique dans leur QG secret :
+du sang et des cadavres sont répondus.
+Aldo et Clermont, qui agonise prostré au pied d'un mur, leur expliquent la situation :
+la jarre brisée à libérer un terrifiant démon tentaculaire, qui s'est réfugié dans l'Eyrie.
+
+<figure role="group">
+  <img loading="lazy" alt="Eyrie" src="images/bitd/Session16/Observatory.jpg">
+  <figcaption>Eyrie - Source : <a href="https://polycount.com/discussion/153896/skywind-dwemer-observatory" target="_blank">Dwemer observatory from Morrowind by Roman Dubina</a></figcaption>
+</figure>
+
+Les PJs décident de le déloger, et grimpent jusqu'à la trappe donnant accès à l'observatoire,
+où une jambe arrachée repose sur une marche.
+Josef détecte une fissure dans le _Ghost Field_ au-dessus de l'Eyrie : provoquée par le démon ?
+Risque-t-elle de briser l'illusion entourant la tour ?
+Ils entrouvrent la trappe.
+Tandis que la gueule du démon se jette sur Josef resté dans l'escalier, Eric et Mist se glissent à l'intérieur.
+
+Mist tente de sauver Hal, plaqué contre le grand télescope, mais celui-ci décède de ses blessures, broyé par une tentacule.
+Eric découpe frénétiquement tentacule après tentacule, dans une boucherie spectaculaire.
+Alors que la tête du démon plonge sur Mist, celui-ci ouvre un portail vers le plan démoniaque et le monstre s'y engouffre.
+
+Malgré des pertes humaines, le gang a repris le contrôle de la situation.
+Josef entreprend de « recoudre » la fissure dans le _Ghost Field_.
+Tout le monde s'octroie un court repos mérité, et Mist va s'adonner à ses plaisirs secrets à la table d'Ojak,
+où il se fait posséder par un fantôme, Lord Daaya... qui prend l'ascendant
+et s'éclipse des lieux en conservant le contrôle du corps de Mist !
+
+### L'évasion de Lodius
+
+De son côté, Ethnos-Lodius est « à l'ombre », enfermé dans une cellule de la forteresse du Lord Gouverneur :
+
+<figure role="group">
+  <img loading="lazy" alt="Forteresse du Lord Gouverneur" src="images/bitd/Session16/Whitecrown-degenesis-hamza-palace.png">
+  <figcaption>Forteresse du Lord Gouverneur - Source : <a href="https://degenesis.com/downloads/maps" target="_blank">Hamza's Palace from Degenesis</a></figcaption>
+</figure>
+
+Ayant du temps « à tuer », il exerce sa capacité à projeter son esprit dans d'autres corps :
+une mouette d'abord, qui lui permet de situer sa cellule, puis il réussit à prendre le contrôle d'un soldat impérial en faction.
+
+En s'éloignant sur le chemin de ronde de la forteresse, il croisent d'autres gardes, et se fait porter malade.
+Il finit par changer de corps, dans celui d'un autre soldat, puis à ouvrir la porte de sa cellule
+à se libérer de ses entraves arcaniques, et à reprendre possession de son propre corps.
+Poursuivi par les gardes, il aperçoit l'inspecteur Smithson qui rapplique, et se retrouve acculé sur les remparts.
+Après une courte mais intense réflexion, il décide de s'élancer dans le vide, au dessus des récifs et de la mer vingt mètres plus bas...
+
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" alt="Soldat impérial" src="images/bitd/Session16/ImperialGuard-01.jpg">
+    <figcaption>Soldat impérial - Source : <a href="https://ryanharroldart.wordpress.com/" target="_blank">Ryan Harrold</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" alt="Soldat impérial" src="images/bitd/Session16/ImperialGuard-02.jpg">
+    <figcaption>Soldat impérial - Source : inconnue / Pinterest</figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" alt="Inspecteur Smithson" src="images/bitd/Session16/Inspecteur.jpg">
+    <figcaption>Inspecteur Smithson - Source : <a href="https://www.artstation.com/artwork/6aPNQ6">Character concept by 5518 Studios</a></figcaption>
+  </figure>
+</div>
+
+À l'insu de tous les témoins de la scène, il réussit en même temps à projeter son esprit dans le corps d'un autre soldat,
+et à s'enfuir discrètement de la forteresse.
+
+Troquant ses vêtements pour des habits plus discrets il rejoint à pieds La Goule Fendue.
+Sur place, il retrouve Mist, possédé par Lord Daaya, qui ne le reconnaît pas.
+
+### Vassock réclame son dû
+
+### L'exécution publique
+
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" alt="Dirigeable impérial" src="images/bitd/Session16/DirigeableImperial.jpg">
+    <figcaption>Dirigeable impérial - Source : <a href="https://www.artstation.com/artwork/klAkwl" target="_blank">Concept art from Haohai Lin</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" alt="Échafaud, bourreau & guillotine" src="images/bitd/Session16/grzegorz-rutkowski-guillotine.jpg">
+    <figcaption>Échafaud, bourreau & guillotine - Source : <a href="https://www.artstation.com/artwork/106X" target="_blank">Greg Rutkowski</a></figcaption>
+  </figure>
+</div>
+
+<figure role="group">
+  <img loading="lazy" alt="Lord Gouverneur" src="images/bitd/Session16/LordGovernor.jpg">
+  <figcaption>Lord Gouverneur - Source : <a href="https://www.artstation.com/artwork/nE2KJo" target="_blank">Concept art from Birch</a></figcaption>
+</figure>
+
+### Un prisonnier gênant
+
 ### Ressources
+- illustrations : [an impressive collection of AI-generated BitD illustrations on Pinterest](https://fr.pinterest.com/Moodboards_and_settings/)
 - aides de jeu :
-    + [Flooded district map by UnknownZ14Z @ reddit.com/r/bladesinthedark](https://old.reddit.com/r/bladesinthedark/comments/1e1savi/how_does_my_flooded_zone_look_on_the_map/)
-    + [10 tips after a year of GMing (2 seasons) BitD campaign](https://reddit.com/r/bladesinthedark/comments/1g78xtn/10_tips_after_a_year_of_gming_2_seasons_blades_in/)
-    + [symbols for Underworld factions, inspired by various alchemy symbols and hobo codes](https://www.reddit.com/r/bladesinthedark/comments/1c10mz3/simple_symbols_for_underworld_factions_im_using/)
+    + [Flooded district map by UnknownZ14Z @ Reddit/bladesinthedark](https://old.reddit.com/r/bladesinthedark/comments/1e1savi/how_does_my_flooded_zone_look_on_the_map/)
+    + [10 tips after a year of GMing (2 seasons) BitD campaign @ Reddit/bladesinthedark](https://reddit.com/r/bladesinthedark/comments/1g78xtn/10_tips_after_a_year_of_gming_2_seasons_blades_in/)
+    + [Symbols for Underworld factions, inspired by alchemy symbols and hobo codes @ Reddit/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/1c10mz3/simple_symbols_for_underworld_factions_im_using/)
+    + [Far Tycheros - 15 Pages of Lore @ Reddit/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
+    + [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
     + [Devils generator](https://perchance.org/bladesdevils)
     + [Underground Maps & Passkeys by Mythworks](https://mythworks.itch.io/bitdcharityzine): _a collection of windows into other goings on in scenic Duskwall_. De super idées de Scores dont s'inspirer : des courses secrètes de hors-bords sous Doskvol; le bal concluant une exposition scientifique; un restaurant réputé et sa chef prête à tout pour conserver sa réputation; le théâtre impérial, et le Le Rideau, l'ancienne salle d'opéra hantée...
+- ambiance musicale :
+    + Sydney Fasel music crafted for each district: [Crow's Foot](https://www.youtube.com/watch?v=7Hl0kKDuXTQ), [Silkshore](https://www.youtube.com/watch?v=fAx-oe1jFgI), [The Docks](https://www.youtube.com/watch?v=Uht6QGsIO-w), [Six Towers](https://www.youtube.com/watch?v=HYdBuNoyPOk), [Coalridge](https://www.youtube.com/watch?v=MDZ-G-tOPCs)
+    + [Better Call Saul - Season 6 OST @ YouTube](https://www.youtube.com/watch?v=giNwXgZvMVI&list=PLU2BDtr0x8iv-LQS0MdFk97O8JcCKzURh&index=26)
+    + [Furi original soundtrack @ YouTube](https://www.youtube.com/playlist?list=PLtzah_dj5hUXk--M73cM1oq8twaKW_Axe)
+    + [A Plague Tale: Innocence - Original Soundtrack @ YouTube](https://www.youtube.com/playlist?list=PLJhYe4hsVJReM-XtkuIj4ZVnk-XES1B7c)
+    + [JOURNEY OF THE DRAGON - Orchestral Epic Chinese Music Mix @ YouTube](https://www.youtube.com/watch?v=El4BiGHVQ3U)
+    + [Bohren & der Club of Gore - Gore Motel @ YouTube](https://www.youtube.com/playlist?list=PL0ATL6phRm7SZmN_nFAi-FWACnEGVd-gs) : lent, lugubre, pesant...
+    + [music to roleplay vampires in new york - dark, instrumental, suspense, guitar, thriller @ YouTube](https://www.youtube.com/watch?v=LeLRJEb1ins)
+    + [Paris Rooftops - Sly 2 Band of Thieves Extended Music @ YouTube](https://www.youtube.com/watch?v=qxBz13WbRoU)
 
-Josef Tucker n'a pas de contacts +/- ?
-Reprendre la partie avec le message envoyé par Ethnos au gang
--> les PJs trouveront-ils le projet d'Ethnos en cours de se créer un Hull ?
+<!--
+Travailler le personnage de Quill : que va-t-elle faire ?
 
-Questions en suspens :
+Partie orientée "RP" :
+* beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
+* donner beaucoup de descriptions d'ambiance
+* exposer des scènes sans tension (contemplatives, intimistes...), plus propices à du roleplay
 
-* _Boden est-il vraiment mort ?_
-* _Quid des jarres de pierre et de Lord Scurlock ?_
-* _Comment va évoluer la situation à Coalridge ?_
-+ loi martiale & risque pour usine Gruber & Fils
+Questions auxquelles répondre :
+* sans leader(s) officiel(s), que va devenir le gang ?
+* quelles seront les répercussions de la révolte avortée des ouvriers de Coalridge ?
+* comment réagira le Lord Gouverneur face à l'affront qui lui a été fait ?
+* qu'est devenue Elaria ?
 
-Prépa :
-* anticiper listing du matériel Silver Nails qui circule en vente...
-    + anneaux de clous d'argent, protégeant de la possession
-    + lances arcaniques
-    + chaînes d'argent enchantées, permettant d'immobiliser démons & spectres
-    + cf. VestigesDeGuerre-Equipement.png
-    + qu'est devenu le sergent Echols ?
-* prévoir quelques clocks
-    + Setarra piège Mist à la Table d'Ojak : comment ?
-    + Justinia ?
-    + Perte massive de COINS si pas rétablissement de leur activité économique de trafic de drogue
-* remercier Tim Denee pour son plan, et consulter ses autres sur flickr
+Lire Score "Spirit Warden Escape" + Flame Without Shadow
 
-Petites annonces diffusées dans ne n°83 des Chroniques du Crépuscule :
-+ Mécène : Lord Scurlock qui veut faire voler la croix de Mist
-+ Revendeur du matériel Silver Nails : The Hive
+Petites annonces diffusées dans le n°83 des Chroniques du Crépuscule :
++ Mécène : Lord Scurlock (via Svekes) qui veut faire voler la croix de Mist
+  -> The Hive répondra à l'offre
 + "Vide maison" Lady Drake commandite le Score du manoir hanté de Lord Lomon
++ Revendeur du matériel Silver Nails : The Hive - Listing de ce qui est en vente :
+  * anneaux de clous d'argent, protégeant de la possession
+  * lances arcaniques
+  * chaînes d'argent enchantées, permettant d'immobiliser démons & spectres
+  * cf. VestigesDeGuerre-Equipement.png
 Autres mentions issues des Chroniques du Crépuscule à exploiter :
 + n°83 - Appel au retour au calme d'Olivia Dream
 + n°83 - Grande messe de l’Extase de la Chair
 + n°83 - Commerçant de Nightmarket tué avec graffiti "Il voit tout"
 
-Prochaine session :
+Questions de la session précédente :
+* _Boden est-il vraiment mort ?_ OUI
+* _Quid des jarres de pierre et de Lord Scurlock ?_ IL ATTEND SON HEURE...
+* _Comment va évoluer la situation à Coalridge ?_ MAL -> insurgés matés
+
+Campagne / prochaines sessions :
+* donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
+* qu'est devenu le sergent Echols ?
+* Justinia ?
+* idée issue de Radio Roliste : temporiser l'adversité pour permettre à des tensions entre PJs d'apparaître
+* (anticiper) si le Harpon et l’Écharpe Rouge sont en guerre -> effets mécaniques ?
 * introduire magie des ombres, dirigeables...
 * employer des éléments issus de leurs inventaires comme ressorts de l'histoire
-* Idée issue de Radio Roliste : temporiser l'adversité pour permettre à des tensions entre PJs d'apparaître
 * les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...
-* faire le point sur pouvoirs de Lodius : plus il utilise ses pouvoirs, plus le risque de "décorporation" spontané augmente ?
+* introduire DeepCuts-SecretDoc-EasternExpansion.pdf
+* introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
+* heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
+* qu'est-ce qui peut revenir "hanter" les PJs dans leur background ?
+* huis clos ?
+* logbook = game changer, va modifier équilibre des forces de la ville...
+  -> peut permettre la libération des enfants de Setarra
+* sélectionner illustrations pour les PNJs principaux
+    + gimmick pour PNJs: renifle tout, les gens, les lieux
+* prendre inspis de Dirty MJ
+* dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
+-> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
 
 CLOCKS:
-* anticiper réaction des gangs de Charhollow lorsqu'ils apprendront la présence du Harpon
-* intervention militaire "tactique" (~SWAT) à Coalridge grâce aux arcanes disposées par les clercs de l'évêque
-* Mal & Quill organisent attentat à Brightstone -> il se fait arrêter, et va rapidement se faire condamner & exécuter
 * une faction adverse va antagoniser Le Harpon en le dépeignant comme un culte diabolique
 * demande humble d'aide de la part d'un habitant du territoire Harpon
 
-Anticiper / définir :
-* si le Harpon et l’Écharpe Rouge sont en guerre -> effets mécaniques ?
-* donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
+Lodius :
++ plus il utilise ses pouvoirs, plus le risque de "décorporation" spontanée augmente
+  -> selon le résultat du jet d'Attune, il peut se retrouver projeté dans un autre corps par accident,
+     ou à errer dans la Ghost Field, peut-être attiré par quelque chose...
++ chaque changement de corps lui fait perdre un point d'attribut
 
 Josef :
 + PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Josef
 + la famille Daava en veut probablement à Josef...
 
+Mist :
++ Setarra veut se venger de lui, car il a annulé un pacte qu'ils avaient noué en remontant dans le temps
++ rattaché à la maison Ankhayat à U'Duasha, formé à l'Université de Vaasu, qui forme le futur de l'élite militaire et des capitaines de vaisseau chasseur de Léviathan
+
 Elaria :
 * anticiper raison de son absence
 * Downtime pas encore fait
-
-Joueurs partants pour renouveler le fait de faire des sessions pour développer le passé des PJs,
-à base de questions à choix multiples et interprétation de PNJs
-
-* ToRead/ -> many ideas for scores
-* introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
-* qu'est-ce qui peut revenir "hanter" les PJs dans leur background ?
-* huis clos ?
-* prendre inspis de Dirty MJ
-
-Campagne:
-* logbook = game changer, va modifier équilibre des forces de la ville...
-  -> peut permettre la libération des enfants de Setarra et/ou le retour de Kotar (Cercle de la Flamme)
-* introduire un événement à gros impact sur la ville : plus de soleil ? épidémie zombie ?
-  idéalement lié aux actions des PJs / au logbook / à Lord Scurlock / Cercle de la Flamme
-* dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
--> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
-* rédiger une feuille par gang majeur
-* sélectionner illustrations pour les PNJs principaux
-    + gimmick pour PNJs: renifle tout, les gens, les lieux
-
-Music:
-* [Bloodborne-based Doskvol Action Youtube playlist](https://www.youtube.com/playlist?list=PLzUXbrG_iz1FhRL4_YEncEy4z90u92YAU)
-
-Moments/videos:
-
-* heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
-
-ToPrint: Extra entanglements: https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view ?
+* Simon aimerait bien jouer un autre archétype (Slide ?)
 
 Ressources to CRAFT:
-
 * make a diagram of DOWNTIME steps ?
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 * a SCORE (using one of angers-ma-0*.jpg as illustration)
 
 Ressources TO MENTION:
-
++ remercier Tim Denee pour son plan, et consulter ses autres sur flickr
 + https://www.reddit.com/r/bladesinthedark/comments/188ky48/here_is_my_version_from_the_doskvol_district/
-+ [The Great Undercity of Doskvol](https://cdoghusk.itch.io/the-great-undercity-of-doskvol)
-+ [Far Tycheros - 15 Pages of Lore (Map Included), 3 New Playbooks, and a New Crew Type!](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
   & newspaper template: https://jaderavens.itch.io/north-hook-lantern
 + [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
@@ -2080,16 +2287,11 @@ Tools:
 * Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk -> visit /gallery.html - Alt: sigal
 
 Online rpg-dice boards:
-
 * https://chezsoi.org/lucas/jdr/rpg-dice/Elaria?bitd=1
 * https://chezsoi.org/lucas/jdr/rpg-dice/Eric?bitd=1
 * https://chezsoi.org/lucas/jdr/rpg-dice/Josef?bitd=1
 * https://chezsoi.org/lucas/jdr/rpg-dice/Lodius?bitd=1
 * https://chezsoi.org/lucas/jdr/rpg-dice/Mist?bitd=1
-
-Notes / joueurs:
-
-* Simon aimerait bien jouer un autre archétype (Slide ?)
 
 ### AI-generated illustrations
 
@@ -2189,6 +2391,9 @@ document.querySelectorAll("article img").forEach((img) => {
         img.parentElement.insertBefore(a, img);
         a.appendChild(img); // reparent <img>
         if (img.alt) img.title= img.alt;
+    }
+    if (img.loading !== "lazy") {
+      alert(`${img.alt} - ${img.src} : <img> is not loaded lazily`)
     }
 });
 // Detect broken image links:

@@ -1034,6 +1034,7 @@ Old public domain illustrations & photos:
       -> spider, death herself, scroll, witch, werewolf, castle, knight, king, fairy, sword, ork, spell book
     * [game play](https://www.iconfinder.com/iconsets/game-play) : straight lines
     * [Sketchy icons](https://www.iconfinder.com/iconsets/Sketchy_icons_by_ma) : down arrow, feather, cloud, glasses, diamond, fox... (free for personal use only)
+    * [Rabbits icon pack](https://www.iconfinder.com/iconsets/rabbits_icons)
 
 
 # Avatars
