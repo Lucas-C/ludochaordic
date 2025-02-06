@@ -1,6 +1,7 @@
 Title: Campagne de JdR Blades In The Dark
 Tags: lang:fr, jdr, blades-in-the-dark, playtest, compte-rendu, jeux, @Simon, @Elliot, @ThomasG, @Matt, @Aurelien
 Slug: jdr-blades-in-the-dark
+Image: images/bitd/PCs/Gang3-Mist-Lodius-Eric.jpg
 Status: hidden
 ---
 
@@ -1868,14 +1869,26 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
     <img loading="lazy" src="images/bitd/places/catacombs/in-the-catacombs.png" alt="Catacombes sous l'Université Immortelle">
     <figcaption>Catacombes sous l'Université Immortelle</figcaption>
   </figure>
-  <img loading="lazy" src="images/bitd/places/catacombs/ACU_DK_Concept_Art_Cavern_1420564826.png" alt="Catacombes sous l'Université Immortelle">
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/places/catacombs/ACU_DK_Concept_Art_Cavern_1420564826.png" alt="Catacombes sous l'Université Immortelle">
+    <figcaption>Caverne sous l'Université Immortelle - Source : artwork pour Assassin's Creed Unity - Dead Kings</figcaption>
+  </figure>
   <img loading="lazy" src="images/bitd/places/catacombs/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg" alt="Catacombes sous l'Université Immortelle">
 </div>
 
 <div class="side-by-side" role="group">
-  <img loading="lazy" src="images/bitd/adam-duff-cleric.jpg" alt="Spectre">
-  <img loading="lazy" src="images/bitd/aleksandr-eykert-1.jpg" alt="Spectre">
-  <img loading="lazy" src="images/bitd/Vlad-Marica-Demon-39_Regular.jpg" alt="Démon">
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/adam-duff-cleric.jpg" alt="Spectre">
+    <figcaption>Spectre - Source : <a href="https://www.artstation.com/artwork/KaLzPy">Cleric by Adam Duff</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/aleksandr-eykert-1.jpg" alt="Spectre">
+    <figcaption>Spectre - Source : <a href="https://www.artstation.com/artwork/mqQ69y">Shadow by Aleksandr Eykert</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/Vlad-Marica-Demon-39_Regular.jpg" alt="Démon">
+    <figcaption>Démon - Source : <a href="http://vladmrk.blogspot.com/2014/01/asmodian-swordsman.html">Artwork by Vlad Marica</a></figcaption>
+  </figure>
 </div>
 
 <div class="side-by-side" role="group">
@@ -1883,7 +1896,10 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
     <img loading="lazy" src="images/bitd/DanielGovar-NecronomiconPage.jpg" alt="Page de grimoire" style="width: 15rem">
     <figcaption>Page de grimoire - Source : <a href="https://www.deviantart.com/danielgovar/art/Necronomicon-Page-491200968">Necronomicon Page by Daniel Govar</a></figcaption>
   </figure>
-  <img loading="lazy" src="images/bitd/NPCs/Hull00.jpg" alt="Hull" style="width: 18rem">
+  <figure role="group">
+    <img loading="lazy" src="images/bitd/NPCs/Hull00.jpg" alt="Hull" style="width: 18rem">
+    <figcaption>Hull - Source : <a href="https://www.deviantart.com/halycon450/art/Furnace-Golem-948119345">Furnace Golem by Halycon450</a></figcaption>
+  </figure>
 </div>
 
 ### Ressources
@@ -2180,7 +2196,9 @@ Un chien dans la cour repère leur présence et bondit sur eux, suivit de son ma
 mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la plaque derrière eux avant de fuir par les égouts.
 
 ### Ressources
-- illustrations : [an impressive collection of AI-generated BitD illustrations on Pinterest](https://fr.pinterest.com/Moodboards_and_settings/)
+- illustrations :
+    + [an impressive collection of AI-generated BitD illustrations on Pinterest](https://fr.pinterest.com/Moodboards_and_settings/)
+    + [collection of underground artworks](https://fotoblik.ru/kanalizatsiya-art)
 - aides de jeu :
     + [Flooded district map by UnknownZ14Z @ Reddit/bladesinthedark](https://old.reddit.com/r/bladesinthedark/comments/1e1savi/how_does_my_flooded_zone_look_on_the_map/)
     + [10 tips after a year of GMing (2 seasons) BitD campaign @ Reddit/bladesinthedark](https://reddit.com/r/bladesinthedark/comments/1g78xtn/10_tips_after_a_year_of_gming_2_seasons_blades_in/)
