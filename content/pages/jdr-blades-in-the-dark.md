@@ -428,7 +428,7 @@ dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 les PJs s'assurent que les plaies de Bell soient pansées puis, une fois qu'il a un peu récupéré,
 le laissent retourner dans son gang, en sous-entendant au passage qu'ils comptent sur sa reconnaissance
 
-- le lendemain, le nouveau système d'alarme de leur planque se déclenche : un groupe de Bluecoats
+- le lendemain, le nouveau système d'alarme de leur planque se déclenche : un groupe de _Bluecoats_
 mené par **Darmot** a débarqué devant leur planque !
 Eric & Ethnos-Lodius vont à sa rencontre pour parlementer, tandis qu'Elaria ronge son frein,
 trépignant de trancher la gorge à Darmot... Celui-ci révèle avoir des témoins pouvant incriminer les PJs
@@ -477,7 +477,7 @@ Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une op
 - les PJs enchaînent avec la rencontre au sommet au _Golden Feather_.
 En bref, tout se déroule sans encombre. **Une alliance est conclue contre le gang de l'Œil Blanc, pour l'éradiquer**.
 **Mylera** annonce qu'elle négociera avec les Gondoliers pour organiser un blocus d'approvisionnement de drogue ;
-Bell compte leur mettre la pression en sollicitant les Bluecoats et en organisant des frappes tactiques ;
+Bell compte leur mettre la pression en sollicitant les _Bluecoats_ et en organisant des frappes tactiques ;
 le gang du Harpon quand à lui annonce qu'il passera à l'action cette nuit même, puis qu'il organisera une campagne de décrédibilisation.
 Les PJs reçoivent même un cadeau de la part du gang de l'Écharpe Rouge : un coffret garni d'épices, d'étoffes précieuses,
 de parfum et de pierres précieuses.
@@ -790,7 +790,7 @@ le Harpon récupère les territoires Ouest (Limmerfield, Misery's Row, Saltridge
 Quand au _business_ de la drogue, il est décidé que l'Écharpe Rouge en reprendrait la production et les Crows la distribution
 dans les les lieux qui étaient tenus par l'Œil Blanc, avec des profits qui seraient partagés pendant un an entre les 3 gangs.
 
-Juste après cette rencontre, le gang apprend que **Justinia a été arrêtée par les BlueCoats**.
+Juste après cette rencontre, le gang apprend que **Justinia a été arrêtée par les _Bluecoats_**.
 En se renseignant un peu, ils découvrent que **Conway** l'a balancé à la milice en révélant ses liens avec le Harpon
 et ses suspicions que le gang auquel elle appartient serait responsable de l'incendie de la nuit précédente.
 Elaria envoie une des nouvelles recrues tagger la porte des WCs de Conway d'un message d'avertissement menaçant,
@@ -873,7 +873,7 @@ Dans la journée, le gang s’attelle à faire descendre la tension qui monte,
 et la dangereuse attention qu'on leur porte suite à leurs derniers exploits...
 Le mot circule que les territoires nouvellement acquis par le Harpon sont "bien plus sûrs qu'avant",
 des truands indépendants mineurs sont arrêtés et remis aux autorités...
-et une descente est faite dans un poste de Bluecoats, pour l'attribuer ensuite à l'ordre du Cercle de la Flamme !
+et une descente est faite dans un poste de _Bluecoats_, pour l'attribuer ensuite à l'ordre du Cercle de la Flamme !
 
 Une partie du gang se renseigne également sur l'inspecteur Boden :
 Valeris est embauché pour découvrir où il habite, et Elaria se rend à la rencontre d'**Ulf Ironborn**,
@@ -1345,7 +1345,7 @@ Tandis que Primm lance des couteaux sur une cible dans le jardin,
 et que Mal sème les graines de la révolte dans l'assemblée,
 Quill fait reproche à Elaria d'être partie et de les avoir abandonné...
 
-<figure class="side-by-side" role="group">
+<figure class="side-by-side" role="group" id="quill">
   <img loading="lazy" src="images/bitd/NPCs/Quill.jpg" alt="Quill">
   <img loading="lazy" src="images/bitd/NPCs/Sera-Coalridge.png" alt="Sera">
   <figcaption>Quill &amp; Sera</figcaption>
@@ -1434,7 +1434,7 @@ Le reste du gang choisit alors de lancer une opération « coup de poing » et d
 
 Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque, sous un feu nourri de carreaux d'arbalète.
 
-<figure class="side-by-side" role="group">
+<figure class="side-by-side" role="group" id="vassock">
   <img loading="lazy" src="images/bitd/demon.png" alt="Démon invisible">
   <img loading="lazy" src="images/bitd/NPCs/Raffello.jpg" alt="Raffello">
   <figcaption>Vassock, démon invisible &amp; Raffello</figcaption>
@@ -1538,7 +1538,7 @@ Une missive est alors envoyée à l’Écharpe Rouge pour les prévenir du retou
 puis les deux prisonniers sont interrogés de manière musclée dans les sous-sols de l’entrepôt.
 L'emploi d'une drogue permet finalement au Harpon d'apprendre qu'il s'agit de **Cendreux**, obéissant à **Henner**, un ancien lieutenant de l'Œil Blanc, et que leur QG est une tour.
 
-Le gang rencontre alors Valeris à la Goule Fendue, qui leur livre les informations qu'ils lui avaient demandé sur Boden : il habite au-dessus du poste des Bluecoats à Charhollow; il a un frère dans l'armée impériale; il déjeune un jour sur trois à l'**Encre et la Plume**. Valeris révèle également au Harpon que la planque des Cendreux pourrait correspondre à une légende urbaine de tour au Nord de Charhollow, qui semble apparaître parfois comme par magie. Le Harpon lui demande alors de se renseigner sur les Cendreux, et comment contourner le charme qui camoufle cette fameuse tour.
+Le gang rencontre alors Valeris à la Goule Fendue, qui leur livre les informations qu'ils lui avaient demandé sur Boden : il habite au-dessus du poste des _Bluecoats_ à Charhollow; il a un frère dans l'armée impériale; il déjeune un jour sur trois à l'**Encre et la Plume**. Valeris révèle également au Harpon que la planque des Cendreux pourrait correspondre à une légende urbaine de tour au Nord de Charhollow, qui semble apparaître parfois comme par magie. Le Harpon lui demande alors de se renseigner sur les Cendreux, et comment contourner le charme qui camoufle cette fameuse tour.
 
 Eric, Lodius & Mist se rendent à l'auberge des **Parfums d'Iruvie** pour rencontrer les Silver Nails, mais ils découvrent qu'un important incendie vient d'avoir lieu. La rue comporte plusieurs cadavres recouverts de draps blancs, et Lodius perçoit les échos dans le _Ghost Field_ d'une fusillade récente à l'étage qui a pris feu. Alors qu'ils demandent au réceptionniste à rencontrer Jenny Holt, ils manquent de se faire coincer par les _Bluecoats_ et décampent en vitesse.
 
@@ -1584,7 +1584,12 @@ Sur place ils croisent un mystérieux individu fouillant les décombre, équipé
   <figcaption>Un mystérieux individu - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @ Reddit</a></figcaption>
 </figure>
 
-Elaria, de son côté, se rend à Coalridge, où elle est sollicité par ses contacts sur place pour rester pendant la visite de l'**évêque de l'Extase de la Chair**, le midi même. Celui-ci intervient avec l’intention officielle de calmer les tensions et amener une résolution à la situation, mais plusieurs insurgés doutent de la confiance qu'ils peuvent lui accorder. S'ensuit un _meeting_ public avec tous les ouvriers révoltés, où Ulf, Quill, Mal, les représentants syndicaux, et **Olivia**, fille adoptive de Lucretius, prennent parole pour défendre leurs idées.
+Elaria, de son côté, se rend à Coalridge, où elle est sollicité par ses contacts sur place
+pour rester pendant la visite de l'**évêque de l'Extase de la Chair**, le midi même.
+Celui-ci intervient avec l’intention officielle de calmer les tensions et amener une résolution à la situation, 
+mais plusieurs insurgés doutent de la confiance qu'ils peuvent lui accorder.
+S'ensuit un _meeting_ public avec tous les ouvriers révoltés, où Ulf, Quill, Mal, les représentants syndicaux,
+et **Olivia**, fille adoptive de Lucretius, prennent parole pour défendre leurs idées.
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/NPCs/OliviaDream.png" alt="Olivia Dream, fille adoptive de Lucretius">
@@ -1653,7 +1658,7 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
         * **Laquelle de ces brutes envisageriez-vous de recruter ?** Marlane (recrutée via Josef)
         * **Comment obtenez-vous vos renseignements ?** Grâce aux commerçants sous votre « protection »
         * **Quelle est cette étrange boutique sur votre territoire ?** Un kiosque de vendeur de journaux
-        * **Comment gérez-vous les témoins gênants ?** Intimidation : ils vous craignent plus que les Bluecoats
+        * **Comment gérez-vous les témoins gênants ?** Intimidation : ils vous craignent plus que les _Bluecoats_
         * **Mauvais recrutement : qui était-ce et que s'est-il passé ?** Silas, ancien barman de La Tentacule Bleue, qui a souhaité raccrocher en découvrant les méthodes du Harpon
         * **À quoi ressemble le pub sous votre protection, et quelles surprises recèle-t-il ?** Choix 3
 
@@ -1667,6 +1672,11 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
 </a>
 
 ## Session 15 - 27-28 juillet 2024
+
+> * Boden est-il vraiment mort ?
+> * Quels sont les secrets de la Tour de l'Observatoire ?
+> * Quid des jarres de pierre et de Lord Scurlock ?
+> * Comment va évoluer la situation à Coalridge ?
 
 ### Les croquis de Lodius
 
@@ -1864,7 +1874,7 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
 
 <div class="side-by-side" role="group">
   <img loading="lazy" src="images/bitd/adam-duff-cleric.jpg" alt="Spectre">
-  <img loading="lazy" src="images/bitd/Aleksander-eykert-1.jpg" alt="Spectre">
+  <img loading="lazy" src="images/bitd/aleksandr-eykert-1.jpg" alt="Spectre">
   <img loading="lazy" src="images/bitd/Vlad-Marica-Demon-39_Regular.jpg" alt="Démon">
 </div>
 
@@ -1899,6 +1909,11 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
     + [Calling cards of Doskvol @ itch.io](https://redriderx.itch.io/calling-cards-of-doskval)
 
 ## Session 16 - 1er février 2025
+
+> * Ethnos-Lodius serait-il exécuté ? Quel en sera l'impact sur le gang du Harpon ?
+> * Comment va évoluer la situation des insurgés de Charhollow ?
+> * Qui remportera le Grand Tournoi de l’Écharpe Rouge ?
+> * Le Cercle de la Flamme accomplira-t-il ses sombres desseins ?
 
 <figure role="group">
   <img loading="lazy" src="images/bitd/places/Dunwall-roofs-landscape-by-OlegSeleznev.jpg" alt="Dunwall roofs landscape">
@@ -2074,10 +2089,36 @@ et à s'enfuir discrètement de la forteresse.
 
 Troquant ses vêtements pour des habits plus discrets il rejoint à pieds La Goule Fendue.
 Sur place, il retrouve Mist, possédé par Lord Daaya, qui ne le reconnaît pas.
+La situation est étrange : Ethnos, dans le corps d'une soldat impérial, souhaite que Mist le reconnaisse, mais ce dernier n'est plus lui-même !
+
+Eric & Josef arrivent également à la Goule Fendue, et Ethnos tente de leur prouver qui il est.
+Mais soudain Mist se jette sur Josef, hurlant à la vengeance !
+En effet, ce dernier et Lord Daaya partagent une sombre histoire, ayant entraîné la mort du fantôme.
+
+Eric finit par maîtriser Mist possédé, tout le monde rejoint la Tour de l'Observatoire,
+et la possession de Lord Daaya cesse.
 
 ### Vassock réclame son dû
 
+Mist décide de régler ses comptes avec [Vassock](pages/jdr-blades-in-the-dark.html#vassock), le démon qu'il avait engagé pour assassiner Boden. Avec Eric ils ont un plan : ils vont convaincre l'esprit de Shane, enfermé dans une bouteille de la collection d'Eric, de se livrer au démon volontairement, afin que Mist puisse régler son dû.
+
+Néanmoins le démon s'avère dur en affaires, et au vu du retard de paiement, réclame une troisième âme volontaire, sous quinze jours.
+Mist accepte, mais au moment où le démon s'apprête à retourner dans son plan, Eric lui ordonne de lui laisser son crâne en bouteille, et de n'emmener avec lui que l'esprit de Shane, mais le démon l'ignore.
+
+Eric s'en agace, et s'attaque au démon !
+Après une courte lutte, Eric déploie sa mâchoire inhumainement pour déchiqueter Vassock, et finit par l'achever en plantant son épée démoniaque à travers le corps.
+
 ### L'exécution publique
+
+Le gang apprend qu'une exécution publique aura lieu dans l'après-midi,
+durant laquelle Lodius devait être guillotinée en même temps que des terroristes de Coalridge,
+dont la tentative d'attentat avait été déjouée la veille.
+
+Le gang décide de se rendre sur place pour observer la situation.
+Les forces de l'ordre ont déployé un dispositif impressionnant :
+soldats impériaux, navette amenant les condamnés depuis Whitecrown, dirigeable en surveillance,
+cordon de _Bluecoats_ autour de la place de l'Unité, quatre Spirit Warden, un échafaud installé devant la cathédrale Sanctuaire...
+et même une cérémonie de l'église de l'Extase de la Chair pour l'occasion.
 
 <div class="side-by-side" role="group">
   <figure role="group">
@@ -2090,12 +2131,53 @@ Sur place, il retrouve Mist, possédé par Lord Daaya, qui ne le reconnaît pas.
   </figure>
 </div>
 
+Il s'avère que Mal, [Quill](pages/jdr-blades-in-the-dark.html#quill) et deux _leaders_ syndicalistes sont condamnés à l'exécution.
+Le Lord Gouverneur déroule un discours paternaliste expliquant la nécessite de « mater dans l'œuf » ce type d'action terroriste,
+pour le bien de tous, auquel succède Lucretius Dream,
+soulagé et reconnaissant d'avoir été libéré de ces « ouvriers indignes » qui l'avaient enlevé à Coalridge.
+
+L'un après l'autre, les condamnés sont poussés vers la guillotine,
+installés par le bourreau sous la glissière, et la terrible lame tombe.
+Tandis que les _leaders_ syndicalistes sont ainsi exécutés, Mal se lance dans un diatribe à l'intention du public,
+défendant la justesse morale de leur révolte ouvrière, clamant que jamais la lutte ne mourrait,
+et incitant la population à se lever face aux autorités.
+
+Répartis au sein de la foule, le gang tente de l'encourager à se soulever.
+Après de premières tentatives infructueuses, la foule finit par s'indigner
+et à lancer des projectiles improvisés sur l'échafaud, tandis que Mal est à son tour décapité.
+
+Une _smoke bomb_ est lancée, et Josef se précipite pour sauver Quill de l'exécution :
+il se propulse à travers le _Ghost Field_, la saisit et tente de s'enfuir avec elle de l'estrade,
+mais un Spirit Warden s'interpose.
+Il réussit à l'esquiver, mais au moment de sauter sur le sol de la place avec Quill,
+une main la retient en derrière : le Lord Gouverneur l'a sorti du _Ghost Field_ avec son gant !
+
 <figure role="group">
   <img loading="lazy" alt="Lord Gouverneur" src="images/bitd/Session16/LordGovernor.jpg">
   <figcaption>Lord Gouverneur - Source : <a href="https://www.artstation.com/artwork/nE2KJo" target="_blank">Concept art from Birch</a></figcaption>
 </figure>
 
+À distance, Eric tente de tirer sur le Lord, mais la balle ricoche.
+À proximité, Mist jette son familier démon, Nuv'Khet, sur le gouverneur :
+celui-ci s'en saisit au vol, lâchant Quill, et le broie avec son gant.
+Tandis que Josef et sa protégée s'enfuient, le Lord Gouverneur pointe son épée dans leur direction,
+et un rayon électrique manque de peu de les foudroyer.
+
+Finalement, tout le gang réussit à profiter de la foule pour s'enfuir et retourner à la Tour de l'Observatoire,
+à l'exception d'un homme de main qui se fait coffrer par les _Bluecoats_.
+
 ### Un prisonnier gênant
+
+Le gang craint que leur homme parle, et révèle l'emplacement de la Tour de l'Observatoire.
+Une opération au poste des _Bluecoats_ de Brightstone est donc organisée.
+
+Les PJs se faufilent par les égouts jusqu'à une plaque débouchant dans la cour de la caserne.
+Lodius emploie l'une de ses potions pour faire fondre le verrou,
+et ils projettent une _smoke bomb_ remplie de sérum faisant perdre la mémoire à travers la lucarne
+de la cellule où se trouve leur homme.
+
+Un chien dans la cour repère leur présence et bondit sur eux, suivit de son maître _Bluecoat_ armé d'un fusil,
+mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la plaque derrière eux avant de fuir par les égouts.
 
 ### Ressources
 - illustrations : [an impressive collection of AI-generated BitD illustrations on Pinterest](https://fr.pinterest.com/Moodboards_and_settings/)
@@ -2117,6 +2199,14 @@ Sur place, il retrouve Mist, possédé par Lord Daaya, qui ne le reconnaît pas.
     + [music to roleplay vampires in new york - dark, instrumental, suspense, guitar, thriller @ YouTube](https://www.youtube.com/watch?v=LeLRJEb1ins)
     + [Paris Rooftops - Sly 2 Band of Thieves Extended Music @ YouTube](https://www.youtube.com/watch?v=qxBz13WbRoU)
 
+## Session 17
+
+> * Sans leader(s) officiel(s), que va devenir le gang ?
+> * Quelles seront les répercussions de la révolte avortée des ouvriers de Coalridge ?
+> * Comment réagira le Lord Gouverneur face à l'affront qui lui a été fait ?
+> * Comment se déroulera le Grand Tournoi martial organisé par l'Écharpe Rouge, auquel Eric va participer sous un faux nom ?
+> * Qu'est devenue Elaria ? Et le spectre de Lord Daaya ?
+
 <!--
 Travailler le personnage de Quill : que va-t-elle faire ?
 
@@ -2124,12 +2214,6 @@ Partie orientée "RP" :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
 * donner beaucoup de descriptions d'ambiance
 * exposer des scènes sans tension (contemplatives, intimistes...), plus propices à du roleplay
-
-Questions auxquelles répondre :
-* sans leader(s) officiel(s), que va devenir le gang ?
-* quelles seront les répercussions de la révolte avortée des ouvriers de Coalridge ?
-* comment réagira le Lord Gouverneur face à l'affront qui lui a été fait ?
-* qu'est devenue Elaria ?
 
 Lire Score "Spirit Warden Escape" + Flame Without Shadow
 
@@ -2147,7 +2231,7 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 + n°83 - Grande messe de l’Extase de la Chair
 + n°83 - Commerçant de Nightmarket tué avec graffiti "Il voit tout"
 
-Questions de la session précédente :
+Questions de la session 15 :
 * _Boden est-il vraiment mort ?_ OUI
 * _Quid des jarres de pierre et de Lord Scurlock ?_ IL ATTEND SON HEURE...
 * _Comment va évoluer la situation à Coalridge ?_ MAL -> insurgés matés
