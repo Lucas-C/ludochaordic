@@ -119,6 +119,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
 > Concept artist from Russia
     * [winter flight](https://www.deviantart.com/jimhatama/art/winter-flight-281153021) : spaceship above  city, snowing
     * [sea monster](https://www.deviantart.com/jimhatama/art/sea-monster-174612892)
+    * [Soldier concept](https://www.deviantart.com/jimhatama/art/soldier-concept-296565536)
 - [Karbik](https://www.deviantart.com/karbik/gallery/) **some** CC BY-NC-SA dragons, furries & sci-fi
 > Karbik creates THINGS such as paintings of sci-fi creatures over grand landscapes, feline shenanigans and fuzzy augmented lynxes with a hint of whimsy!
 > Can be NSFW
@@ -677,6 +678,29 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [A Breach of Trust](https://www.deviantart.com/domegiant/art/A-Breach-of-Trust-644373629)
     * [Vasa](https://www.deviantart.com/domegiant/art/Vasa-629032827)
     * [Max Baris](https://www.deviantart.com/domegiant/art/Max-Baris-596412180)
+- [nobody00000000 aka Isaac Chan](https://www.deviantart.com/nobody00000000/gallery) - Hong Kong student and a hobbyist concept artist - Many CC BY artworks
+    * [sci fi old school revolver Design](https://www.deviantart.com/nobody00000000/art/sci-fi-old-school-revolver-Design-408165889)
+    * [HAND CANNON DESIGN / CONCEPT ART](https://www.deviantart.com/nobody00000000/art/HAND-CANNON-DESIGN-CONCEPT-ART-520769244)
+    * [FLEA the jumping mech](https://www.deviantart.com/nobody00000000/art/FLEA-the-jumping-mech-black-400391965)
+- [MarikBentusi](https://www.deviantart.com/marikbentusi/gallery) - Many CC BY-NC artworks
+    * [Gun Knight Warrior Poet](https://www.deviantart.com/marikbentusi/art/Gun-Knight-Warrior-Poet-1033817628)
+    * [Gun Knight Warrior Poet: Extras](https://www.deviantart.com/marikbentusi/art/Gun-Knight-Warrior-Poet-Extras-1033818079)
+    * [Gwenpool-style Iaijutsu (concept art)](https://www.deviantart.com/marikbentusi/art/Gwenpool-style-Iaijutsu-concept-art-910514462)
+    * [Gold Demon](https://www.deviantart.com/marikbentusi/art/Gold-Demon-896486809)
+    * [Dress 'n' Coat 2](https://www.deviantart.com/marikbentusi/art/Dress-n-Coat-2-standalone-919838010)
+    * [Black'n'Gold Stuff](https://www.deviantart.com/marikbentusi/art/Black-n-Gold-Stuff-1010838055)
+    * [Black'n'Gold pistol](https://www.deviantart.com/marikbentusi/art/Black-n-Gold-pistol-1008445624)
+    * [weapon sketches](https://www.deviantart.com/marikbentusi/art/weapon-sketches-1024080539)
+- [kenichir0](https://www.deviantart.com/kenichir0/gallery) - Some CC BY-NC-SA
+    * [Rita Wheeler - Cyberpunk 2077](https://www.deviantart.com/kenichir0/art/Rita-Wheeler-Cyberpunk-2077-914769525)
+    * [Ivy (Fall theme)](https://www.deviantart.com/kiro0821/art/Ivy-Fall-theme-983044256)
+    * [Treasure Hunter Pig](https://www.deviantart.com/kiro0821/art/Treasure-Hunter-Pig-985872155)
+    * [Assassins Creed Valhalla Character Design](https://www.deviantart.com/kenichir0/art/Assassins-Creed-Valhalla-Character-Design-845793730)
+    * [Shiva](https://www.deviantart.com/kiro0821/art/Shiva-986661069)
+    * [Link](https://www.deviantart.com/kiro0821/art/Arttrober-Day-5-2023-Link-993509748)
+    * [Ronin Panda](https://www.deviantart.com/kiro0821/art/OC-Ronin-Panda-960667479)
+    * [February 22, 2022](https://www.deviantart.com/kiro0821/art/February-22-2022-907819859)
+    * [November 26, 2021](https://www.deviantart.com/kiro0821/art/November-26-2021-899064906)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -776,9 +800,10 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 - [B&W skull on book and candlestick](https://www.deviantart.com/darius-c/art/Skull-on-book-1-862596105) : CC BY
 - [Ruins on top of moutain by ConfirmedBurger](https://www.deviantart.com/confirmedburger/art/Ruins-757941256) : CC BY-NC-SA
 - [Zombie Run Logo](https://commons.wikimedia.org/wiki/File:Zombie_Run_Logo_(15166442908).jpg) : CC BY
-- [samurai silhouette](https://pixahive.com/photo/colorful-illustration-5/) & [flying girl](https://pixahive.com/photo/dream-illustration/) - CC0
+- [samurai silhouette](https://pixahive.com/photo/colorful-illustration-5/) & [flying girl](https://pixahive.com/photo/dream-illustration/) : CC0
 - [Reymas by DarwinThePedestrian](https://www.deviantart.com/darwinthepedestrian/art/Reymas-634086895) : CC BY-NC-SA
-- [Science Fiction Illustration Girl Robot by Gary Freeman](https://en.wikipedia.org/wiki/File:Gary_Freeman_Science_Fiction_Illustration_Girl_Robot.jpg) - Free
+- [Science Fiction Illustration Girl Robot by Gary Freeman](https://en.wikipedia.org/wiki/File:Gary_Freeman_Science_Fiction_Illustration_Girl_Robot.jpg) : Free
+- [Nadia character design by Gabyen](https://www.deviantart.com/gabyen/art/Nadia-character-design-941329202) : CC BY-SA
 
 ## Projects & game assets
 - [Symbiosis CC Artbook by Steven Sanders](https://gumroad.com/l/oRzNi) : amazing collection of dozens of illustrations under CC BY-NC-SA
@@ -898,7 +923,9 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - [Google images](https://www.google.fr/search?site=imghp&tbm=isch&tbs=sur:f&gws_rd=cr&dcr=0&ei=57lCWp-8LsalUdaugOAI) -
 Useful syntax: `(artwork|"concept art"|illustration) -"No Derivative" -Derivatives -"AI tools" -"OpenAI" -site:intergalacticrobot.blogspot.com` -
 And possibly: `after:2020-01-01` / `before:2020-01-01`
-- [DeviantArt Creative Commons via Google](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-mandala-"User Profile")
+- DeviantArt Creative Commons via Google:
+    * [site:deviantart.com "creative commons" -Derivatives -NoDerivatives -"User Profile" -Explore -mandala](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-mandala)
+    * [site:deviantart.com -Derivatives -NoDerivatives -"User profile" -Explore -"AI tools" (artwork|"concept art"|illustration|character)](https://www.google.com/search?tbm=isch&tbs=sur:cl&q=site%3Adeviantart.com+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-%22AI+tools%22+%28artwork%7C%22concept+art%22%7Cillustration%7Ccharacter%29) avec filtre sur les Licences Creative Commons (`tbs=sur:cl`)
 - [OpenVerse](https://wordpress.org/openverse/search/)
 - [Flickr CC search](https://www.flickr.com/search/?l=cc)
     * example: [British Library castles](https://www.flickr.com/search/?w=12403504%40N02&q=castle)

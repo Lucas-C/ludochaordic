@@ -17,6 +17,8 @@ RELATIVE_URLS = False
 TAG_SAVE_AS = 'tag/{slug}.html'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
+# This plugin is called manually:
+PLUGINS = tuple(p for p in PLUGINS if p != 'image_preview_thumbnailer')
 PLUGINS += ('linkbacks', 'pelican.plugins.sitemap', 'shaarli_poster', 'tag_cloud')
 
 DEADLINK_VALIDATION = False
