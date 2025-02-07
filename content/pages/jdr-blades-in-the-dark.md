@@ -1674,9 +1674,9 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
 
 ## Session 15 - 27-28 juillet 2024
 
-> * Boden est-il vraiment mort ?
+> * Boden est-il vraiment mort ? <!-- OUI -->
 > * Quels sont les secrets de la Tour de l'Observatoire ?
-> * Quid des jarres de pierre et de Lord Scurlock ?
+> * Quid des jarres de pierre et de Lord Scurlock ? <!-- IL ATTEND SON HEURE... -->
 > * Comment va évoluer la situation à Coalridge ?
 
 ### Les croquis de Lodius
@@ -2015,7 +2015,7 @@ Eric n'était pas prédisposé ni voué à une vie criminelle à l'origine. Est-
 Eric a dû bander les poings pour le défendre.
 
 Il existe quelqu'un à Doskvol lié au passé d'Eric, que ce dernier évite soigneusement de côtoyer : qui-est-ce et pourquoi ce comportement ?
-: Eric a un amour secret, mais il a honte de son physique...
+: Eric a un amour secret, mais il a honte de son propre physique...
 
 ### Le passé de Quess Jeduin
 Comme lors des sessions précédents, quelques éléments de son passé ont été définis collectivement :
@@ -2041,9 +2041,9 @@ La dernière fois que Mist a traversé la mer, il y a eu « un incident ». Que 
 
 ### _A demon on the loose_
 De retour de leur expédition dans les Catacombes, les PJs découvrent que c'est les panique dans leur QG secret :
-du sang et des cadavres sont répondus.
+du sang et des cadavres sont répandus.
 Aldo et Clermont, qui agonise prostré au pied d'un mur, leur expliquent la situation :
-la jarre brisée à libérer un terrifiant démon tentaculaire, qui s'est réfugié dans l'Eyrie.
+la jarre brisée à libéré un terrifiant démon tentaculaire, qui s'est réfugié dans l'Eyrie.
 
 <figure role="group">
   <img loading="lazy" alt="Eyrie" src="images/bitd/Session16/Observatory.jpg">
@@ -2105,7 +2105,7 @@ et à s'enfuir discrètement de la forteresse.
 
 Troquant ses vêtements pour des habits plus discrets il rejoint à pieds La Goule Fendue.
 Sur place, il retrouve Mist, possédé par Lord Daaya, qui ne le reconnaît pas.
-La situation est étrange : Ethnos, dans le corps d'une soldat impérial, souhaite que Mist le reconnaisse, mais ce dernier n'est plus lui-même !
+La situation est étrange : Ethnos, dans le corps d'un soldat impérial, souhaite que Mist le reconnaisse, mais ce dernier n'est plus lui-même !
 
 Eric & Josef arrivent également à la Goule Fendue, et Ethnos tente de leur prouver qui il est.
 Mais soudain Mist se jette sur Josef, hurlant à la vengeance !
@@ -2123,6 +2123,10 @@ Mist accepte, mais au moment où le démon s'apprête à retourner dans son plan
 
 Eric s'en agace, et s'attaque au démon !
 Après une courte lutte, Eric déploie sa mâchoire inhumainement pour déchiqueter Vassock, et finit par l'achever en plantant son épée démoniaque à travers le corps.
+
+Le démon aurait dû réintégrer son plan d'origine,
+mais Mist décide de procéder à un bannissement complet du démon,
+signifiant sa mort définitive.
 
 ### L'exécution publique
 
@@ -2231,7 +2235,7 @@ Travailler le personnage de Quill : que va-t-elle faire ?
 Partie orientée "RP" :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
 * donner beaucoup de descriptions d'ambiance
-* exposer des scènes sans tension (contemplatives, intimistes...), plus propices à du roleplay
+* exposer  scènes sans tension (contemplatives, intimistes...), plus propices à du roleplay
 
 Lire Score "Spirit Warden Escape" + Flame Without Shadow
 
@@ -2248,11 +2252,6 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 + n°83 - Appel au retour au calme d'Olivia Dream
 + n°83 - Grande messe de l’Extase de la Chair
 + n°83 - Commerçant de Nightmarket tué avec graffiti "Il voit tout"
-
-Questions de la session 15 :
-* _Boden est-il vraiment mort ?_ OUI
-* _Quid des jarres de pierre et de Lord Scurlock ?_ IL ATTEND SON HEURE...
-* _Comment va évoluer la situation à Coalridge ?_ MAL -> insurgés matés
 
 Campagne / prochaines sessions :
 * donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
