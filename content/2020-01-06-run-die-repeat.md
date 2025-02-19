@@ -6,12 +6,12 @@ Slug: run-die-repeat
 
 Vendredi dernier, j'ai eu l'occasion de tester pas moins de 3 nouveaux jeux de rôle avec des amis.
 Je souhaite vous présenter le dernier auquel nous avons joué, à minuit passé :
-[Run Die Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games !
+[Run. Die. Repeat.](https://labrysgames.itch.io/run-die-repeat) de Labrys Games !
 
 J'ai tellement apprécié le jeu, que j'en ai fait une traduction en français.
 
-Vous pouvez y accéder en cliquant sur l'aperçu ci-dessous (PDF, 37 Ko) :
-[![Run Die Repeat](images/2020/01/RunDieRepeat.jpg)](https://chezsoi.org/s/RDRfrdirectPDFdownload")
+Vous pouvez y accéder en cliquant sur l'aperçu ci-dessous (PDF, 1 page, 37 Ko) :
+[![Run Die Repeat](images/2020/01/RunDieRepeat.jpg)](https://chezsoi.org/s/RDRfrdirectPDFdownload)
 
 Le jeu se classe dans la catégorie des mini jeux de rôle monopage, ne nécessitant aucune préparation,
 conçus pour de courtes sessions effrénées, improvisées n’importe où, n’importe quand.
@@ -66,9 +66,7 @@ pour atterrir dans la cour intérieure !
 
 Le thème de la course poursuite me rappelle un peu [Psi*Run](/lucas/blog/tag/psirun.html) de Meguey Baker,
 mais la mécanique du jeu m'a surtout évoqué un film d'action injustement méconnu avec Nicolas Cage, _Next_,
-où le héro est capable de prédire l'avenir immédiat :
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OwIFRm7sy8E" allowfullscreen></iframe>
+où le héro est capable de prédire l'avenir immédiat : [bande annonce sur YouTube](https://www.youtube.com/watch?v=OwIFRm7sy8E).
 
 Je trouve l'idée géniale, et très fun à employer en jeu de rôle !
 J'avais déjà octroyé la capacité de prévoir le futur immédiat à un PJ de ma plus grosse campagne,
