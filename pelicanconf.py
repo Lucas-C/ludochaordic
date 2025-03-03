@@ -44,6 +44,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2025-03-03', 'img_url': 'images/readings/LeRoyaumeAuxMilleReformes.jpg', 'description': 'Le Royaume aux Mille Réformes - Emile Bertier & Yann Girard (BD dont vous êtes le héro)'},
     {'date': '2025-01-01', 'img_url': 'images/readings/CassandraDrake.jpg', 'description': 'Cassandra Drake - Posy Simmonds (BD)'},
     {'date': '2024-12-02', 'img_url': 'images/readings/Samourai-vs-ninja.jpg', 'description': 'Samouraï vs Ninja - Jason Shiga (BD)'},
     {'date': '2024-11-23', 'img_url': 'images/readings/LesBataillesDuRail.jpg', 'description': 'Les batailles du rail - Le Monde diplomatique (Revue)'},
@@ -191,6 +192,8 @@ LINKS = (("Justin Mason's Weblog", 'https://jmason.ie/'),
          ("Galerie d'Elodie Olivier", 'https://elodie-olivier.com'),
          ("Les bocaux-mondes de Laure Coignard", 'https://www.instagram.com/b.o.k.a_l/'),
          ("Renard'eau", 'https://renardeau.chezsoi.org/'),
+         ("L'instant Présent", 'https://linstantpresent.chezsoi.org/'),
+         ("Atelier COALA", 'https://atelier-coala.chezsoi.org/'),
          # ('Steam Hidden Gems', 'https://www.canardpc.com/cat%C3%A9gorie/jeu-video/cabinet-de-curiosites/'),
          # ('Le Cabinet de Curiosités de CanardPC', 'https://steam250.com/hidden_gems'),
          # ('Fenêtre sur cour', 'https://www.arteradio.com/emission/fenetre_sur_cour'),
