@@ -51,7 +51,7 @@ Voici le résultat, conçu exclusivement avec des illustrations _Creative Common
 ## Ori Mushi
 
 - [version web](https://lucas-c.github.io/jdr/OriMushi/)
-- feuille de personnage : [OriMushi-FeuillePersonnage.pdf](https://lucas-c.github.io/jdr/OriMushi/OriMushi-FeuillePersonnage.pdf)
+- feuille de personnage : [OriMushi-FeuillePersonnageExpress.pdf](https://lucas-c.github.io/jdr/OriMushi/character-sheets/OriMushi-FeuillePersonnageExpress.pdf)
 - version PDF des règles, incluant quelques illustrations: [ori-mushi-v0.2.zip _(10 pages, 5,5 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.zip)
 
 [![Photo de la table de jeu à la Fête du jeu, côté MJ](images/2020/03/FeteDuJeu_OriMushi_vueMJ.jpg)](images/2020/03/FeteDuJeu_OriMushi_vueMJ.jpg)

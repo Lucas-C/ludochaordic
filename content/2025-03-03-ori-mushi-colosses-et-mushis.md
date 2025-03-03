@@ -76,6 +76,9 @@ qui ont accepté de m'accompagner cette année dans une campagne de test de ce j
 
 Et rendez-vous le mois prochain pour avoir des nouvelles d'**Ori Mushi** 👋.
 
+_Tous les articles de ce blog concernant ce jeu : [tag `ori-mushi`](tag/ori-mushi.html)_
+
+
 <style>
 .float-clear { clear: both; }
 @media (min-width:815px) {

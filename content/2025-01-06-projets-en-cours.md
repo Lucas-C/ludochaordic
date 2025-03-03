@@ -8,13 +8,13 @@ En ce début d'année, j'ai envie d'évoquer **mes futurs projets créatifs**.
 
 J'ai débuté ce blog en 2014, **il y a plus de 10 ans**.
 J'y ai d'abord évoqué des sujets techniques, en lien avec mon travail salarié de développeur,
-ainsi que de projets libres et open-source, de jeux vidéos et de jeux de société.
+ainsi que des projets libres et open-source, de jeux vidéos et de jeux de société.
 
 En 2018 j'ai partagé mes premières **créations de jeu de rôle** :
 [Amères Victoires et Glorieuses Défaites](ameres-victoires-et-glorieuses-defaites.html),
 un jeu narratif d'une dizaine de pages,
 et [La Tour](la-tour-et-cheat-your-own-adventure.html), un jeu sur une page inspiré du film d'arts martiaux indonésien _[The Raid](https://en.wikipedia.org/wiki/The_Raid_%282011_film%29)_.
-Avec le recul, je porte un regard assez critique sur l'esthétique et l'accessibilité d'_Amères Victoires et Glorieuses Défaites_ : il y a une quantité de choses à améliorer, et j'aimerais prendre le temps un jour pour revenir dessus. En même temps, je reste très **fier** d'avoir « franchi le pas », et d'avoir commencé à publier mes modestes créations sur Internet cette année là.
+Avec le recul, je porte un regard assez critique sur l'esthétique et l'accessibilité d'_Amères Victoires et Glorieuses Défaites_ : il y aurait beaucoup de choses à améliorer, et j'aimerais prendre le temps un jour de revenir dessus. En même temps, je reste très **fier** d'avoir « franchi le pas », et commencé à publier mes modestes créations sur Internet cette année là.
 
 <div class="side-by-side">
   <img class="miniature" alt="Amères Victoires et Glorieuses Défaites" src="images/2025/01/gdav-miniature.png">
