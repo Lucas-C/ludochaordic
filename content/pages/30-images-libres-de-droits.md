@@ -701,6 +701,15 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Ronin Panda](https://www.deviantart.com/kiro0821/art/OC-Ronin-Panda-960667479)
     * [February 22, 2022](https://www.deviantart.com/kiro0821/art/February-22-2022-907819859)
     * [November 26, 2021](https://www.deviantart.com/kiro0821/art/November-26-2021-899064906)
+- [mariofernandes](https://www.deviantart.com/mariofernandes/gallery) - CC BY-NC-SA
+> artist and landscape architect [from Portugal, creating] fantasy illustration/concept art as well as architecture visualisation.
+    * [1 AS FJ Peasant](https://www.deviantart.com/mariofernandes/art/1-AS-FJ-Peasant-768737441)
+    * [2 AS FJ Sarugami](https://www.deviantart.com/mariofernandes/art/2-AS-FJ-Sarugami-768737450)
+    * [3 AS FJ Geisha](https://www.deviantart.com/mariofernandes/art/3-AS-FJ-Geisha-768737983)
+    * [4 AS FJ Samurai](https://www.deviantart.com/mariofernandes/art/4-AS-FJ-samurai-768738143)
+    * [5 AS FJ Shinobi](https://www.deviantart.com/mariofernandes/art/5-AS-FJ-Shinobi-768738234)
+    * [Zargosredesign Spiders](https://www.deviantart.com/mariofernandes/art/Zargosredesign-Spiders-804006898)
+    * [Zargosredesign Winged](https://www.deviantart.com/mariofernandes/art/Zargosredesign-Winged-804006912)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -924,8 +933,8 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 Useful syntax: `(artwork|"concept art"|illustration) -"No Derivative" -Derivatives -"AI tools" -"OpenAI" -site:intergalacticrobot.blogspot.com` -
 And possibly: `after:2020-01-01` / `before:2020-01-01`
 - DeviantArt Creative Commons via Google:
-    * [site:deviantart.com "creative commons" -Derivatives -NoDerivatives -"User Profile" -Explore -mandala](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-mandala)
-    * [site:deviantart.com -Derivatives -NoDerivatives -"User profile" -Explore -"AI tools" (artwork|"concept art"|illustration|character)](https://www.google.com/search?tbm=isch&tbs=sur:cl&q=site%3Adeviantart.com+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-%22AI+tools%22+%28artwork%7C%22concept+art%22%7Cillustration%7Ccharacter%29) avec filtre sur les Licences Creative Commons (`tbs=sur:cl`)
+    * [site:deviantart.com "creative commons" -Derivatives -NoDerivatives -"User Profile" -Explore -mandala](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-mandala&tbs=qdr:m) avec filtre "il y a moins d'un mois"
+    * [site:deviantart.com -Derivatives -NoDerivatives -"User profile" -Explore -"AI tools" (artwork|"concept art"|illustration|character)](https://www.google.com/search?tbm=isch&tbs=sur:cl&q=site%3Adeviantart.com+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-%22AI+tools%22+%28artwork%7C%22concept+art%22%7Cillustration%7Ccharacter%29&tbs=qdr:m) avec filtre sur les Licences Creative Commons (`tbs=sur:cl`)
 - [OpenVerse](https://wordpress.org/openverse/search/)
 - [Flickr CC search](https://www.flickr.com/search/?l=cc)
     * example: [British Library castles](https://www.flickr.com/search/?w=12403504%40N02&q=castle)
