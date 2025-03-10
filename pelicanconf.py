@@ -160,32 +160,32 @@ AVATARS = [
 
 # Blogroll
 LINKS = (("Justin Mason's Weblog", 'https://jmason.ie/'),
-         ('Neal Krawetz Hacker Factor Blog', 'http://www.hackerfactor.com/blog/'),
-         ('Shaarli de sebsauvage', 'http://sebsauvage.net/links'),
-         ('Hugin & Munin', 'http://hu-mu.blogspot.fr'),
+         ('Neal Krawetz Hacker Factor Blog', 'https://www.hackerfactor.com/blog/'),
+         ('Shaarli de sebsauvage', 'https://sebsauvage.net/links'),
+         ('Hugin & Munin', 'https://hu-mu.blogspot.fr'),
          ('Radio Rôliste', 'https://www.radio-roliste.net'),
          ("C'est pas du jeu de rôle", 'https://www.cestpasdujdr.fr'),
-         ('Trop Long ; Pas Lu !', 'http://troplongpaslu.fr'),
+         ('Trop Long ; Pas Lu !', 'https://troplongpaslu.fr'),
          ('Le blog de Gulix', 'https://www.gulix.fr'),
          ('Le blog de JeePee', 'http://www.jeepeeonline.be'),
-         ('Le Fix di6dent', 'http://lefix.di6dent.fr/'),
+         ('Le Fix di6dent', 'https://lefix.di6dent.fr/'),
          ('ptgptb', 'https://ptgptb.fr/'),
          ('The Indie RPG Pipeline', 'https://therpgpipeline.blogspot.com'),
-         ('Derrière le paravent de Greg Pogorzelski', 'http://awarestudios.blogspot.fr'),
+         ('Derrière le paravent de Greg Pogorzelski', 'https://awarestudios.blogspot.fr'),
          ('Oglaf', 'https://www.oglaf.com'),
-         ('Blog BD de Boulet', 'http://bouletcorp.com'),
-         ('Warpdoor', 'http://warpdoor.com'),
+         ('Blog BD de Boulet', 'https://bouletcorp.com'),
+         ('Warpdoor', 'https://warpdoor.com'),
          ('AlphaBetaGamer', 'https://www.alphabetagamer.com'),
          ('Free Game Planet', 'https://www.freegameplanet.com'),
-         ('OuJeViPo', 'http://oujevipo.fr'),
+         ('OuJeViPo', 'https://oujevipo.fr'),
          ('Du papier et des jeux', 'https://pnpfrance.wordpress.com'),
          ('Blog de David Larlet', 'https://larlet.fr/david/'),
          ('No Limit Secu', 'https://www.nolimitsecu.fr'),
          ('LinuxFR', 'https://linuxfr.org/'),
          ('Framablog', 'https://framablog.org/'),
          ('Reflets.info', 'https://reflets.info'),
-         ('Tristan Nitot', 'http://standblog.org/blog/'),
-         ('Blog de Victor Stinner', 'http://vstinner.github.io'),
+         ('Tristan Nitot', 'https://standblog.org/blog/'),
+         ('Blog de Victor Stinner', 'https://vstinner.github.io'),
          ('Rhizome.org', 'https://anthology.rhizome.org'),
          ("Du Monde Dans l'Objectif", 'https://www.dumondedanslobjectif.com'),
          ("Galerie d'Elliot Jolivet aka Tenseï", 'https://illutensei.com'),
@@ -230,7 +230,7 @@ SUPPORTS = (('La Topette', 'https://latopette.fr/', 'images/LaTopette.png', 'Abo
             ('Enercoop', 'https://www.enercoop.fr/', 'images/Logo_Enercoop.png', 'Soutenez Enercoop'),
             ('andro switch', 'https://www.contraceptionmasculine.fr/andro-switch/', 'images/logo-andro-switch.png', 'La contraception masculine, renseignez-vous'),
             ('attac', 'https://france.attac.org/', 'images/attac.png', 'Soutenez attac'),
-            ('Microformats', 'http://microformats.org/', 'images/microformats.png', 'Ce site adhère au standard microformats'),
+            ('Microformats', 'https://microformats.org/', 'images/microformats.png', 'Ce site adhère au standard microformats'),
             ('Webmention', 'https://indieweb.org/Webmention', 'images/webmention-button.svg', 'Ce site adhère au standard Webmention'),
             ('Low-tech', 'https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html', 'images/low-tech.svg', 'Ce site adhère à la philosophie low-tech'))
 
@@ -319,6 +319,16 @@ MG_NO_EXCERPT = True
 MG_DISABLE_SUMMARY = True
 MG_FILTER_TAGS = ('jeux', 'maths', 'prog')
 MG_LANG_FILTER_TAGS = ['fr', 'en']  # 'lang:'-prefixed tags
+
+# Do not include {lang} in page URLs:
+ARTICLE_LANG_SAVE_AS       = '{slug}.html'
+ARTICLE_LANG_URL           = '{slug}.html'
+DRAFT_LANG_SAVE_AS         = 'drafts/{slug}.html'
+DRAFT_LANG_URL             = 'drafts/{slug}.html'
+PAGE_LANG_SAVE_AS          = 'pages/{slug}.html'
+PAGE_LANG_URL              = 'pages/{slug}.html'
+DRAFT_PAGE_LANG_SAVE_AS    = 'drafts/pages/{slug}.html'
+DRAFT_PAGE_LANG_URL        = 'drafts/pages/{slug}.html'
 
 CATEGORY_SAVE_AS = ''
 ARCHIVE_SAVE_AS = ''

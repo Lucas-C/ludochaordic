@@ -1,0 +1,55 @@
+<!-- Empty `link` tag in body -->
+<link>
+
+<!-- Multiple <main> blocks -->
+<main>First <code>main</code> block</main>
+<main>Second <code>main</code> block</main>
+
+<!-- Unknown HTML tag -->
+<dummy></dummy>
+
+<!-- Tag in UPPERCASE -->
+<SPAN>Tag in UPPERCASE</SPAN>
+
+<!-- Stray end tag -->
+</section>
+
+<!-- Empty ID attribute -->
+<div id=""><code>div</code> with empty ID</div>
+
+<!-- Duplicate IDs -->
+<div id="MyID"><code>div</code> with ID <code>MyId</code></div>
+<div id="MyID"><code>div</code> with ID <code>MyId</code></div>
+
+<!-- Duplicate attribute -->
+<p foo="bar" foo="baz">This paragraph has a duplicate unknown attribute</p>
+
+<p bgcolor="red">This paragraph uses the deprecated <code>bgcolor</code> attribute</p>
+
+<!-- Empty `figure` tag in body -->
+<figure></figure>
+
+<figcaption>
+  This <code>figcaption</code> lacks a <code>figure</code> parent.
+</figcaption>
+
+<ul>
+  <p>
+    Invalid item within list.
+  </p>
+  <li>Unclosed <code>li</code> item
+</ul>
+
+<p>
+  <div>
+    Improperly nested <code>div</code>, inside <code>p</code>.
+  </div>
+</p>
+
+<dt>
+  <code>dt</code> without correct parent.
+</dt>
+
+<dd>
+  <code>dd</code> without correct parent.
+</dd>

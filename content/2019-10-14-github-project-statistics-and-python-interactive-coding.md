@@ -395,7 +395,7 @@ article hr {
 </style>
 
 <script>
-['h3', 'h3'].forEach(function (selector) {
+['h2', 'h3'].forEach(function (selector) {
     document.querySelectorAll(selector).forEach(function (header) {
         if (!header.classList.length) {
             header.id = header.textContent

@@ -19,7 +19,7 @@ for financing the accommodation & transport!
 
 The following are some frugal notes on the talks I've seen there.
 
-<!-- markdown-toc -i content/2020-02-04-minutes-of-the-fosdem-2020-conference.md -->
+<!-- markdown-toc -i content/2020-02-06-minutes-of-the-fosdem-2020-conference.md -->
 
 <!-- toc -->
 

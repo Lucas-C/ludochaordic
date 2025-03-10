@@ -12,16 +12,16 @@ et vouloir créer rapidement des sites facilement maintenables.
 
 ## Sites statiques
 <div class="side-by-side">
-    <a href="https://linstantpresent.chezsoi.org/">
-        <figure>
-            <img alt="Capture d'écran du site web" src="images/2025/03/linstantpresent.chezsoi.org.png">
-            <figcaption>linstantpresent.chezsoi.org</figcaption>
-        </figure>
-    </a>
     <a href="https://renardeau.chezsoi.org/">
         <figure>
             <img alt="Capture d'écran du site web" src="images/2025/03/renardeau.chezsoi.org.png">
             <figcaption>renardeau.chezsoi.org</figcaption>
+        </figure>
+    </a>
+    <a href="https://linstantpresent.chezsoi.org/">
+        <figure>
+            <img alt="Capture d'écran du site web" src="images/2025/03/linstantpresent.chezsoi.org.png">
+            <figcaption>linstantpresent.chezsoi.org</figcaption>
         </figure>
     </a>
 </div>
@@ -42,7 +42,7 @@ et vouloir créer rapidement des sites facilement maintenables.
 </div>
 
 Les sites statiques sont les sites web les plus **simples** techniquement :
-pas de base de donnée, pas de code applicatif executé côté serveur,
+pas de base de donnée, pas de code applicatif exécuté côté serveur,
 pas même de framework Javascript _frontend_...
 
 Cela offre plusieurs avantages :
@@ -113,7 +113,7 @@ permettant de concevoir des sites web statiques
 où la modification du contenu peut être réalisée par un utilisateur non technique,
 via une interface dédiée.
 
-Dans le jargon des devs web, on parle de _headless CMS_, _git-based CMS_ et parfois de modèle Jamstack.
+Dans le jargon des développeurs web, on parle de _headless CMS_, _git-based CMS_ et parfois de modèle Jamstack.
 Je songe en particulier à tester ces outils :
 
 * [FrontAid](https://frontaid.io/): free, password-less login, GitHub-based, Swiss - BUT: closed source, no preview system
@@ -121,7 +121,7 @@ Je songe en particulier à tester ces outils :
 
 
 <style>
-figcaption { margin-top: .5rem; }
+article figcaption { margin-top: .5rem; }
 .side-by-side {
   display: flex;
   justify-content: center;

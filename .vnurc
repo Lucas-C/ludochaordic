@@ -1,0 +1,8 @@
+# Due to <div class="uk-panel"> inside <ul class="uk-nav">:
+Element “div” not allowed as child of element “ul” in this context.*
+
+# Due to the frequent use of HTML comments:
+The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment.*
+
+# I often inserts <style> tags in articles:
+Element “style” not allowed as child of element “section” in this context.*
