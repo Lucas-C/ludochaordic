@@ -1,5 +1,6 @@
 Title: __del__ magic method dangers in Python 2 and infinite loops
 Date: 2018-07-04 9:00
+Lang: en
 Tags: lang:en, python, gotcha, recursion, infinite-loop, oui.sncf, garbage-collection, prog
 Slug: del-magic-method-dangers-in-python-2-and-infinite-loops
 ---

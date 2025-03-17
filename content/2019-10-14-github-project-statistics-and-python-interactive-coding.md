@@ -1,5 +1,6 @@
 Title: GitHub project statistics and Python interactive coding
 Date: 2019-10-14 8:00
+Lang: en
 Tags: lang:en, git, github, python, statistics, javascript, oui.sncf, open-source, charts, pelican, hesperides, tutorial, practical-exercise, visualization, prog
 Slug: github-project-statistics-and-python-interactive-coding
 Image: images/2019/10/GitHub_issues_over_time.png

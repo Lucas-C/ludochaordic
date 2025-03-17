@@ -1,5 +1,6 @@
 Title: Images sous licences libres
 Slug: images-libres-de-droits
+Lang: en
 Tags: lang:en, lang:fr, creative-commons, icons, font, illustration, gratuit
 Image-preview-thumbnailer: article ul ul, h2:nth-of-type(3) + ul, h2:nth-of-type(4) + ul
 Image-preview-thumbnailer-except-urls: artvee.com,comicbookplus.com,pxfuel.com,deviantart.com/.+/gallery,artstation.com/[^/]+$,opengameart.org/users

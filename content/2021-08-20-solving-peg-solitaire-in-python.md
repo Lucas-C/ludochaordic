@@ -1,5 +1,6 @@
 Title: Solving peg solitaire in Python
 Date: 2021-08-20 17:00
+Lang: en
 Tags: lang:en, problem-solving, algorithm, maths, python, gif, moviepy, prog, jeux
 Slug: solving-peg-solitaire-in-python
 ---

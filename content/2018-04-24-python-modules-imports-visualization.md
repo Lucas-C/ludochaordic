@@ -1,5 +1,6 @@
 Title: Python module imports visualization
 Date: 2018-04-24 18:30
+Lang: en
 Tags: lang:en, python, javascript, d3-js, documentation, literate-programming, graph, open-source, charts, dependencies, tree, visualization, technical-debt, git, gitlab, maths, color, oui.sncf, prog
 Slug: python-modules-imports-visualization
 Image: images/2018/04/flask-modules--visualization.png

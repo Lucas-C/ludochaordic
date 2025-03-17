@@ -1,5 +1,6 @@
 Title: Retrieving a file version (git commit & tag) based on its hash
 Date: 2016-06-27 19:06
+Lang: en
 Tags: lang:en, shell, hash, git, sha, version, tag-tag, prog
 Slug: retrieving-a-file-version-git-commit-tag-based-on-its-hash
 ---

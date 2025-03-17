@@ -1,5 +1,6 @@
 Title: Replicating PHPSESSID and srctoken session authentication with mitmproxy
 Date: 2014-12-11 09:12
+Lang: en
 Tags: lang:en, python, proxy, php, session, mitmproxy, srctoken, php, network, traffic, auth, prog
 Slug: replicating-phpsessid-and-srctoken-session-authentication-with-mitmproxy
 ---

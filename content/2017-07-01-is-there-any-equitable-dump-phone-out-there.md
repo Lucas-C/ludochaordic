@@ -1,5 +1,6 @@
 Title: Is there any equitable dumbphone or laptop out there ??
 Date: 2017-07-01 08:07
+Lang: en
 Tags: lang:en, latpop, phone, equitable, repairability, oss, fairphone, nantes
 Slug: is-there-any-equitable-dump-phone-out-there
 ---

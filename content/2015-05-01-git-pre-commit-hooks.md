@@ -1,5 +1,6 @@
 Title: Git pre-commit hooks
 Date: 2015-05-01 13:05
+Lang: en
 Tags: lang:en, python, git, hooks, yaml, pre-commit, sha, contribution, pip, open-source, prog
 Slug: git-pre-commit-hooks
 ---

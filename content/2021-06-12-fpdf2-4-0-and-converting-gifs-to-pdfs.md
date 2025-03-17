@@ -1,5 +1,6 @@
 Title: fpdf2.4.0 and converting GIFs to PDFs
 Date: 2021-06-12 10:40
+Lang: en
 Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, fpdf2, gif, markdown, jpeg, accessibility, prog
 Slug: fpdf2-4-0-and-converting-gifs-to-pdfs
 Image: images/2021/06/exploding-cat.gif

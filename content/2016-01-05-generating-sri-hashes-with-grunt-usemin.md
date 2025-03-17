@@ -1,5 +1,6 @@
 Title: Generating SRI hashes with grunt-usemin
 Date: 2016-01-05 12:01
+Lang: en
 Tags: lang:en, javascript, node-js, grunt, sri, integrity, cors, yeoman, usemin, execsync, nominjs, css, uglify, prog
 Slug: generating-sri-hashes-with-grunt-usemin
 ---

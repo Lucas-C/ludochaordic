@@ -1,5 +1,6 @@
 Title: Fun with Javascript string obfuscation
 Date: 2014-11-14 01:11
+Lang: en
 Tags: lang:en, javascript, obfuscation, string, brainfuck, fail, js1k, node-js, console, trick, prog
 Slug: fun-with-javascript-string-obfuscation
 ---

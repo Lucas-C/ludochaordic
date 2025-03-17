@@ -1,5 +1,6 @@
 Title: Adding content to existing PDFs with fpdf2
 Date: 2021-01-15 12:30
+Lang: en
 Tags: lang:en, python, source-code, pdf, fpdf2, pdfrw, prog
 Slug: adding-content-to-existing-pdfs-with-fpdf2
 ---

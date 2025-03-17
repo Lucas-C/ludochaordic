@@ -1,5 +1,6 @@
 Title: New release for genealogic-d3
 Date: 2016-02-03 13:02
+Lang: en
 Tags: lang:en, personal-project, javascript, d3-js, tree, library, release, visualization, genealogy, family, charts, birthday, open-source, prog
 Slug: new-release-for-genealogic-d3
 ---

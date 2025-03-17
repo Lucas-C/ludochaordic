@@ -1,5 +1,6 @@
 Title: Crafting nonograms that reveal QR codes
 Date: 2022-05-01 21:30
+Lang: en
 Tags: lang:en, libre-software, open-source, javascript, nonogram, logic-puzzle, enigme, print-play, gratuit, jeux, prog
 ---
 

@@ -1,5 +1,6 @@
 Title: Extracting images/photos from a diaporama video
 Date: 2014-09-14 13:09
+Lang: en
 Tags: lang:en, ffmpeg, avconv, video, frames, extraction, duplicate, phash, grandma, prog
 Slug: extracting-imagesphotos-from-a-diaporama-video
 ---

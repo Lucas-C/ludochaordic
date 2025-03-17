@@ -1,5 +1,6 @@
 Title: Keep a changelog from git commits
 Date: 2019-04-23 12:00
+Lang: en
 Tags: lang:en, changelog, git, markdown, python, hesperides, open-source, oui.sncf, prog
 Slug: keep-a-changelog-from-git-commits
 ---

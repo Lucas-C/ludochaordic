@@ -1,5 +1,6 @@
 Title: svg PITA bug of the day
 Date: 2017-01-04 14:01
+Lang: en
 Tags: lang:en, bug, html, svg, href, codepen, angry, angularjs, prog
 Slug: svg-pita-bug-of-the-day
 ---

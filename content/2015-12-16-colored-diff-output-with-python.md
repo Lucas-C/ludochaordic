@@ -1,5 +1,6 @@
 Title: Colored diff output with Python
 Date: 2015-12-16 12:12
+Lang: en
 Tags: lang:en, python, color, colorama, diff, prog
 Slug: colored-diff-output-with-python
 ---

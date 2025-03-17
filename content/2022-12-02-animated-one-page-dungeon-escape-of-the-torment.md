@@ -1,5 +1,6 @@
 Title: Animated one-page-dungeon : Escape of the Torment
 Date: 2022-12-02 12:50
+Lang: en
 Tags: lang:en, jdr, gratuit, aide-de-jeu, one-page-dungeon, blades-in-the-dark, jeux, python, source-code, libre-software, open-source, pdf, libre-office, prog
 ---
 

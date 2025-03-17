@@ -1,5 +1,6 @@
 Title: Pylint strict base configuration
 Date: 2023-05-03 13:15
+Lang: en
 Tags: lang:en, python, pylint, configuration, linter, static-code-analysis, fpdf2, github-actions, prog
 ---
 ![Pylint logo](images/2023/05/pylint-strict.webp)

@@ -1,5 +1,6 @@
 Title: Server-less reveal.js slides
 Date: 2016-10-12 11:10
+Lang: en
 Tags: lang:en, reveal-js, bash, http, local-server, open-source, slides, prog
 Slug: server-less-reveal-js-slides
 ---

@@ -1,5 +1,6 @@
 Title: Equivalent for Linux of Windows Python launcher 'py'
 Date: 2015-01-12 19:01
+Lang: en
 Tags: lang:en, bash, python, pep, windows, launcher, shorthand, mailing-list, prog
 Slug: equivalent-for-linux-of-windows-python-launcher-py
 ---

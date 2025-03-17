@@ -1,5 +1,6 @@
 Title: Live demo for Hesperides!
 Date: 2021-06-13 14:30
+Lang: en
 Tags: lang:en, libre-software, open-source, oui.sncf, hesperides, heroku, java, angularjs, configuration-management, hexagonal-architecture, cqrs, event-sourcing, ddd, ladr, github-actions, jenkins, python, prog
 Slug: live-demo-for-hesperides
 ---

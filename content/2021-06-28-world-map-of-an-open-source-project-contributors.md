@@ -1,5 +1,6 @@
 Title: World map of an open-source project contributors
 Date: 2021-06-28 12:00
+Lang: en
 Tags: lang:en, libre-software, open-source, fpdf2, geocoding, maps, cartography, leafletjs, github, github-actions, python, prog
 Slug: world-map-of-an-open-source-project-contributors
 ---

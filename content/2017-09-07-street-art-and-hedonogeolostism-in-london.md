@@ -1,5 +1,6 @@
 Title: Street art and hedonogeolostism in London
 Date: 2017-09-07 09:00
+Lang: en
 Tags: lang:en, street-art, art, london, neologism, david-larlet
 Slug: street-art-and-hedonogeolostism-in-london
 Image: images/2017/09/p1050971.jpg

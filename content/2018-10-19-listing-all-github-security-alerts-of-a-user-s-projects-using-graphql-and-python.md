@@ -1,5 +1,6 @@
 Title: Listing all GitHub security alerts of a user's projects using GraphQL and Python
 Date: 2018-10-19 19:00
+Lang: en
 Tags: lang:en, github, python, graphql, security, dependencies, prog
 Slug: listing-all-github-security-alerts-of-a-user-s-projects-using-graphql-and-python
 ---

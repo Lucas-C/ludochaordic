@@ -1,5 +1,6 @@
 Title: Another animated dungeon: The Sky-Blind Spire
 Date: 2022-12-12 21:30
+Lang: en
 Tags: lang:en, jdr, gratuit, aide-de-jeu, one-page-dungeon, opinion, jeux, python, source-code, libre-software, open-source, creative-commons, labyrinthe, dungeon-crawler, pdf, fpdf2, prog
 ---
 

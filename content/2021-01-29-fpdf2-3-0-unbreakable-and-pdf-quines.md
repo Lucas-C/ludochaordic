@@ -1,5 +1,6 @@
 Title: fpdf2.3.0 Unbreakable! and PDF quines
 Date: 2021-01-29 12:30
+Lang: en
 Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, fpdf2, quine, NightShyamalan, prog
 Slug: fpdf2-3-0-unbreakable-and-pdf-quines
 ---

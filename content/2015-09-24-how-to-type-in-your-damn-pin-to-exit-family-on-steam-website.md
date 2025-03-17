@@ -1,5 +1,6 @@
 Title: How to type in your damn PIN to exit Family View on Steam website
 Date: 2015-09-24 23:09
+Lang: en
 Tags: lang:en, javascript, console, hack, steam, browser, pin, password, form, input
 Slug: how-to-type-in-your-damn-pin-to-exit-family-on-steam-website
 ---

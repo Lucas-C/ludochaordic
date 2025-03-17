@@ -1,5 +1,6 @@
 Title: Pytest AST-modification : getting the tests final code
 Date: 2015-02-15 08:02
+Lang: en
 Tags: lang:en, python, unit-testing, ecovoit, pytest, ast, assert, assembly, parallelize, prog
 Slug: pytest-ast-modification-getting-the-tests-final-code
 ---

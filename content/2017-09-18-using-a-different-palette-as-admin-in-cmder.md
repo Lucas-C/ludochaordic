@@ -1,5 +1,6 @@
 Title: Using a different palette as admin in cmder
 Date: 2017-09-18 12:00
+Lang: en
 Tags: lang:en, windows, shell, cmder, theme, palette, solarized, prog
 Slug: using-a-different-palette-as-admin-in-cmder
 ---

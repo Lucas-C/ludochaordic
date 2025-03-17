@@ -1,5 +1,6 @@
 Title: Solarized mindmaps with Python and graphviz
 Date: 2017-02-22 12:02
+Lang: en
 Tags: lang:en, solarized, mindmap, python, graphviz, personal-project, open-source, prog
 Slug: solarized-mindmaps-with-python-and-graphviz
 ---

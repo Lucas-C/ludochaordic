@@ -1,5 +1,6 @@
 Title: TIL zip files can contain comments
 Date: 2016-01-08 12:01
+Lang: en
 Tags: lang:en, python, jq, zip, pythonchallenge, prog
 Slug: til-zip-files-can-contain-comments
 ---

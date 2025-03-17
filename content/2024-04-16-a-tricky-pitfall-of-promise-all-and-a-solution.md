@@ -1,5 +1,6 @@
 Title: A tricky pitfall of Promise.all() and a solution
 Date: 2024-04-16 12:00
+Lang: en
 Tags: lang:en, javascript, typescript, jest, async, promise, algorithms, prog
 ---
 

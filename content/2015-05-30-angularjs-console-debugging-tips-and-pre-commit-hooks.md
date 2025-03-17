@@ -1,5 +1,6 @@
 Title: AngularJS console debugging tips + pre-commit hooks
 Date: 2015-05-30 14:05
+Lang: en
 Tags: lang:en, debug, console, angularjs, directive, service, scope, controller, selector, prog
 Slug: angularjs-console-debugging-tips-and-pre-commit-hooks
 ---

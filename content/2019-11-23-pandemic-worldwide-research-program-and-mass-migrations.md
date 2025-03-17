@@ -1,5 +1,6 @@
 Title: Pandemic: Worldwide Research Program & Mass Migrations
 Date: 2019-11-23 15:00
+Lang: en
 Tags: lang:en, lang:fr, personal-project, jeu-de-societe, libre-office, board-game, boardgamegeek, gamedesign, traduction, variante, gratuit, jeux
 Slug: pandemic-worldwide-research-program-and-mass-migrations
 ---

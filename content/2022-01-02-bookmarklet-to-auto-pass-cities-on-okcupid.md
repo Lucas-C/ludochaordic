@@ -1,5 +1,6 @@
 Title: Bookmarklet to auto-pass cities on OkCupid
 Date: 2022-01-02 18:30
+Lang: en
 Tags: lang:en, html, okcupid, bookmarklet, javascript, open-source, prog
 ---
 <!-- Com'

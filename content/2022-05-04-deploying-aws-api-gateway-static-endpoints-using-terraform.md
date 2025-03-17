@@ -1,5 +1,6 @@
 Title: Deploying AWS API Gateway static endpoints using Terraform
 Date: 2022-05-04 20:00
+Lang: en
 Tags: lang:en, oui.sncf, http, aws, api, api-gateway, openapi, swagger, terraform, kiss-principle, auth, iac, prog
 ---
 Recently at work, at [SNCF Connect & Tech](https://jobs.connect-tech.sncf),

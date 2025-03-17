@@ -1,5 +1,6 @@
 Title: fpdf2.5.2 : SVG support and borb
 Date: 2022-04-24 13:00
+Lang: en
 Tags: lang:en, libre-software, open-source, python, library, release, source-code, pdf, benchmark, documentation, xml, security, django, flask, streamlit, aws, lambda, matplotlib, fpdf2, borb, prog
 Slug: fpdf2-5-2-svg-support-and-borb
 Image: images/2022/04/Ghostscript_Tiger.png

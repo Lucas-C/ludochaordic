@@ -1,5 +1,6 @@
 Title: Mothership Hive Mind
 Date: 2018-12-18 1:00
+Lang: en
 Tags: lang:en, jdr, storytelling, aide-de-jeu, random-table, space, horror, alien, mothership-rpg, chartopia, @Matt, jeux
 Slug: mothership-hive-mind
 ---

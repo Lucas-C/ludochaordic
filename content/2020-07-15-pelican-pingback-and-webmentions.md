@@ -1,5 +1,6 @@
 Title: Pelican, Pingback and Webmentions
 Date: 2020-07-15 14:00
+Lang: en
 Tags: lang:en, libre-software, open-source, pelican, python, blog, plugin, http, html, library, release, source-code, decentralized-web, web-standards, semantic-web, linkbacks, low-tech, static-site-generator, wordpress, security, code-quality, reddit, prog, @Matt
 Slug: pelican-pingback-and-webmentions
 ---

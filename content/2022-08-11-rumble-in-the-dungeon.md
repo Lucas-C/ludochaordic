@@ -1,5 +1,6 @@
 Title: Rumble in the Dungeon
 Date: 2022-08-11 12:00
+Lang: en
 Tags: lang:fr, lang:en, jeu-de-societe, board-game, fantasy, boardgamegeek, variante, gratuit, jeux
 ---
 ![Logo du jeu](images/2022/08/rumble-in-the-dungeon-fan-cover.jpg)

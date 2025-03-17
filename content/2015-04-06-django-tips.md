@@ -1,5 +1,6 @@
 Title: Django tips & tricks
 Date: 2015-04-06 20:04
+Lang: en
 Tags: lang:en, python, html, color, debug, django, template, heroku, pythonrc, database_url, constants, dry, graph, prog
 Slug: django-tips
 ---

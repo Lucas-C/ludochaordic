@@ -1,5 +1,6 @@
 Title: Generative art
 Date: 2022-02-12 18:30
+Lang: en
 Tags: lang:en, generative-art, reddit, image-processing, javascript, lazy-loading, p5js, prog, art
 ---
 I recently discovered some really beautiful pieces of [generative art](https://en.wikipedia.org/wiki/Generative_art)

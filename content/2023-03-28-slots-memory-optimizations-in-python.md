@@ -1,5 +1,6 @@
 Title: __slots__ memory optimization in Python
 Date: 2023-03-28 9:00
+Lang: en
 Tags: lang:en, python, benchmark, memory, optimization, prog
 Slug: slots-memory-optimizations-in-python
 ---

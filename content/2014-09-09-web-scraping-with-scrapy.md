@@ -1,5 +1,6 @@
 Title: Web scraping with Scrapy
 Date: 2014-09-09 11:09
+Lang: en
 Tags: lang:en, grep, scrapy, python, web-scraping, rpg, image-processing, goblin, dict, wget, prog
 Slug: web-scraping-with-scrapy
 ---

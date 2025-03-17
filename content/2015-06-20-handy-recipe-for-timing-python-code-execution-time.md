@@ -1,5 +1,6 @@
 Title: Handy recipe for timing Python code execution time
 Date: 2015-06-20 15:06
+Lang: en
 Tags: lang:en, python, recipe, trace, decorator, context-manager, time, prog
 Slug: handy-recipe-for-timing-python-code-execution-time
 ---

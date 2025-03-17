@@ -1,5 +1,6 @@
 Title: Quick stats on a stream of values in the console
 Date: 2014-09-09 15:09
+Lang: en
 Tags: lang:en, bash, unix, shell, statistics, awk, grep, stream, flow, variance, algorithms, prog
 Slug: quick-stats-on-a-stream-of-values-in-the-console
 ---

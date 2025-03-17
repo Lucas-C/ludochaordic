@@ -1,5 +1,6 @@
 Title: gdb Python macros
 Date: 2014-11-07 11:11
+Lang: en
 Tags: lang:en, python, gdb, configuration, rc, prompt, color, history, ptrace, symbol, macro, pgrep, debug, prog
 Slug: gdb-python-macros
 ---

@@ -1,5 +1,6 @@
 Title: Python gevent terrible failure mode under Windows
 Date: 2017-05-18 14:05
+Lang: en
 Tags: lang:en, python, gevent, greenlet, windows, failure-mode, terrible, prog
 Slug: python-gevent-terrible-failure-mode
 ---

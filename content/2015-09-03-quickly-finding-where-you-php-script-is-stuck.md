@@ -1,5 +1,6 @@
 Title: Quickly finding where you PHP script is stuck
 Date: 2015-09-03 10:09
+Lang: en
 Tags: lang:en, gdb, php, stacktrace, stuck, wait, stdin, drush, unicode, prog
 Slug: quickly-finding-where-you-php-script-is-stuck
 ---

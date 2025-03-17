@@ -1,5 +1,6 @@
 Title: 5 Minute Dungeon : variante CIBLE
 Date: 2021-12-28 13:30
+Lang: en
 Tags: lang:fr, lang:en, jeu-de-societe, board-game, coop, fantasy, dungeon-crawler, boardgamegeek, traduction, variante, gratuit, web-app, @Juliette, @PE, jeux
 ---
 <!-- Com'

@@ -1,5 +1,6 @@
 Title: Shrink down a GIF by reducing its frames count
 Date: 2014-10-10 03:10
+Lang: en
 Tags: lang:en, bash, image-processing, frames, gif, imagemagick, convert, fps, size, delay, prog
 Slug: shrinking-down-a-gif-by-reducing-its-frames-count
 ---

@@ -1,5 +1,6 @@
 Title: Setting up linters in Gitlab CI for C++ and Groovy / Jenkins code
 Date: 2024-04-15 16:30
+Lang: en
 Tags: lang:en, gitlab, gitlab-ci, pipeline, c++, groovy, gradle, jenkins, llvm, linter, static-code-analysis, continuous-integration, configuration, prog
 ---
 

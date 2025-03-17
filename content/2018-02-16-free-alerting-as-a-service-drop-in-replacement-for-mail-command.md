@@ -1,5 +1,6 @@
 Title: Free alerting-as-a-service drop-in replacement for mail command
 Date: 2018-02-16 22:30
+Lang: en
 Tags: lang:en, alerting, service-monitoring, email, open-source, rollbar, sentry, gratuit, python, prog
 Slug: free-alerting-as-a-service-drop-in-replacement-for-mail-command
 ---

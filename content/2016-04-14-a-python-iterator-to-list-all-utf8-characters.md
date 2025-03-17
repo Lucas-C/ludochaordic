@@ -1,5 +1,6 @@
 Title: A Python iterator to list all UTF8 characters
 Date: 2016-04-14 12:04
+Lang: en
 Tags: lang:en, python, iteration, utf8, character, newline, line-feed, ascii, code-point, prog
 Slug: a-python-iterator-to-list-all-utf8-characters
 ---

@@ -1,5 +1,6 @@
 Title: A folded paper puzzle
 Date: 2019-09-21 12:00
+Lang: en
 Tags: lang:en, gratuit, html, svg, trigonometry, logic-puzzle, print-play, personal-project, maths, jeux, prog, folding, @Matt
 Slug: a-folded-paper-puzzle
 ---

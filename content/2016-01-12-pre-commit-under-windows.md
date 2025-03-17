@@ -1,5 +1,6 @@
 Title: pre-commit under Windows
 Date: 2016-01-12 19:01
+Lang: en
 Tags: lang:en, bash, python, wget, windows, git, hooks, pre-commit, pip, cygwin, apt-cyg, lynx, pacman, msys2, prog
 Slug: pre-commit-under-windows
 ---

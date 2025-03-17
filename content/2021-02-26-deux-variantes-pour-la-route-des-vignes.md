@@ -1,5 +1,6 @@
 Title: Deux variantes pour La Route Des Vignes
 Date: 2021-02-26 18:15
+Lang: en
 Tags: lang:en, lang:fr, personal-project, jeu-de-societe, board-game, paris-est-ludique, matagot, jedijeux, 2-players, boardgamegeek, gamedesign, traduction, variante, gratuit, jeux
 Slug: deux-variantes-pour-la-route-des-vignes
 ---

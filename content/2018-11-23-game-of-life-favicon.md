@@ -1,5 +1,6 @@
 Title: Game of life favicon
 Date: 2018-11-23 22:00
+Lang: en
 Tags: lang:en, image-processing, python, favicon, gif, maths, recreative-programming, prog
 Slug: game-of-life-favicon
 ---

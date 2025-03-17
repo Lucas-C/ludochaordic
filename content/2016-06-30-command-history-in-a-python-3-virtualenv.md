@@ -1,5 +1,6 @@
 Title: Command history in a Python 3 virtualenv
 Date: 2016-06-30 11:06
+Lang: en
 Tags: lang:en, bash, python, history, virtualenv, bug, pew, prog
 Slug: command-history-in-a-python-3-virtualenv
 ---

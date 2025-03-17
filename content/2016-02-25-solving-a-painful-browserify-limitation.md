@@ -1,5 +1,6 @@
 Title: Solving a painful browserify limitation : portable source files selection with a wildcard pattern
 Date: 2016-02-25 15:02
+Lang: en
 Tags: lang:en, node-js, browserify, bundle, windows, npm, glob, portability, prog
 Slug: solving-a-painful-browserify-limitation
 ---

@@ -1,5 +1,6 @@
 Title: HTML validation and converting a shell script to Python
 Date: 2015-03-25 21:03
+Lang: en
 Tags: lang:en, bash, shell, grep, stream, python, wget, sed, html, vnu, sh-py, jar, prog
 Slug: html-validation-and-converting-a-bash-script-to-python
 ---

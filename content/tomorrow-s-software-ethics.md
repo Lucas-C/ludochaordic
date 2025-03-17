@@ -1,5 +1,6 @@
 Title: Tomorrow's software ethics
 Date: 2020-08-DD HH:MM
+Lang: en
 Tags: lang:en, lang:fr, libre-software, open-source, prog
 Slug: tomorrow-s-software-ethics
 Status: draft

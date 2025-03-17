@@ -1,5 +1,6 @@
 Title: Displaying chained exceptions stacktraces in Python 2
 Date: 2018-06-12 14:00
+Lang: en
 Tags: lang:en, python, backward-compatibility, exception, stacktrace, mysql, oui.sncf, prog
 Slug: displaying-chained-exceptions-stacktraces-in-python-2
 ---

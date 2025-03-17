@@ -1,5 +1,6 @@
 Title: Hacktoberfest on fpdf2 & v2.4.6
 Date: 2021-11-19 14:00
+Lang: en
 Tags: lang:en, libre-software, open-source, fpdf2, hacktoberfest, python, pdf, traduction, compte-rendu, pypi, github, prog, @kleph, @minitux
 Slug: hacktoberfest-on-fpdf2
 ---
