@@ -28,6 +28,11 @@ $ markdown-toc --indent '    ' -i content/2025-03-17-a-review-of-html-linters.md
 
 <!-- tocstop -->
 
+<figure>
+  <img src="images/2025/03/HTML-Doctype.png" alt="">
+  <figcaption>HTML Doctype - Author: Seobility - License: <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a></figcaption>
+</figure>
+
 ## Overview
 
 HTML linters: | [W3C v.Nu checker](https://validator.github.io/validator/) | [html-tidy](https://www.html-tidy.org/) | [htmlhint](https://htmlhint.com/) | [html-validate](https://html-validate.org/) | [LintHTML](https://linthtml.vercel.app/) | [html-eslint](https://html-eslint.org/)
@@ -37,7 +42,7 @@ Actively maintained? | [✅](https://github.com/validator/validator/commits/main
 Reported issues | 1361<br><small>(79% closed)</small> | 816<br><small>(77%&nbsp;closed)</small> | 299<br><small>(85%&nbsp;closed)</small> | 297<br><small>(82% closed)</small> | 69<br><small>(73% closed)</small> | 104<br><small>(84% closed)</small>
 Number of rules | [>❔<](https://github.com/validator/validator/issues/1804) <small>(hundreds)</small> | [337](https://github.com/htacg/tidy-html5/blob/5.9.14-next/include/tidyenum.h#L108) | [37](https://github.com/htmlhint/HTMLHint/tree/master/src/core/rules) | [104](https://gitlab.com/html-validate/html-validate/-/tree/master/src/rules?ref_type=heads) | [65](https://github.com/linthtml/linthtml/tree/develop/packages/core/src/rules) | [50](https://github.com/yeonjuan/html-eslint/tree/main/packages/eslint-plugin/lib/rules)
 Written in | Java | C | Typescript | Typescript | Typescript | Javascript
-Version tested | 24.5.11 | 5.9.14 | 1.1.4 | 9.5.0 | 0.10.1 | 0.36.0 
+Version tested | 24.5.11 | 5.9.14 | 1.1.4 | 9.5.0 | 0.10.1 | 0.36.0
 Fast? | ❌ | ✅ | ✅ | ✅ | ✅ | ❌
 Auto-fix? | ❌ | ✅ | ❌ | ❌ | ❌ | only 2 rules
 Allow custom rules / plugins | ❌ | ❌ | ✅ | ✅ | ✅ | ❔
@@ -237,7 +242,7 @@ HTML linters: | [W3C v.Nu checker](https://validator.github.io/validator/) | [ht
 [google.com](https://www.google.com/) | 6 | 12 | 1 <!-- attr-value-double-quotes --> | 9 | 6 | 6
 [youtube.com](https://www.youtube.com) | 6 | 4 | 2 | 3 | 9 | 5
 [MDN Learning Area](https://github.com/mdn/learning-area) | 3 | 1 | ✅ | 2 | ✅ | 2
-[Boostrap album example](https://getbootstrap.com/docs/5.0/examples/album/) | ✅ | 2 | ✅ | 2 | 8 | 3
+[Bootstrap album example](https://getbootstrap.com/docs/5.0/examples/album/) | ✅ | 2 | ✅ | 2 | 8 | 3
 [Foundation web framework](https://get.foundation) | 3 | 2 | ✅ | 4 | 4 | 5
 
 Analysis details:
@@ -759,7 +764,7 @@ $ eslint mdn-learning-area/html/forms/datetime-local-picker-fallback/index.html
 </details>
 
 <details>
-  <summary>Boostrap album example</summary>
+  <summary>Bootstrap album example</summary>
   <pre><code>$ tidy -errors bootstrap-5.0.2-examples/album/index.html
 line 64 column 9 - Warning: trimming empty &lt;span&gt;
 line 63 column 7 - Warning: trimming empty &lt;button&gt;
@@ -816,109 +821,109 @@ $ htmlhint foundation-sites-templates/index.html
 107:30  error  Prefer to use the native &lt;nav&gt; element                                  prefer-native-element
 
 $ linthtml foundation-sites-templates/index.html
-  2:13  error    The value "no-js" of attribute "class" does not respect the format: underscore                                                  id-class-style 
-  3:3   error    Incorrect indentation for `head` beginning at L3:C3. Expected `&lt;head&gt;` to be at an indentation of 4 but was found at 2.         indent-style   
-  4:5   error    Incorrect indentation for `meta` beginning at L4:C5. Expected `&lt;meta&gt;` to be at an indentation of 8 but was found at 4.         indent-style   
-  5:5   error    Incorrect indentation for `meta` beginning at L5:C5. Expected `&lt;meta&gt;` to be at an indentation of 8 but was found at 4.         indent-style   
-  6:5   error    Incorrect indentation for `title` beginning at L6:C5. Expected `&lt;title&gt;` to be at an indentation of 8 but was found at 4.       indent-style   
-  7:5   error    Incorrect indentation for `link` beginning at L7:C5. Expected `&lt;link&gt;` to be at an indentation of 8 but was found at 4.         indent-style   
-  9:3   error    Incorrect indentation for `body` beginning at L9:C3. Expected `&lt;body&gt;` to be at an indentation of 4 but was found at 2.         indent-style   
- 11:5   error    Incorrect indentation for `Comment` beginning at L11:C5. Expected `&lt;Comment&gt;` to be at an indentation of 8 but was found at 4.  indent-style   
- 12:5   error    Incorrect indentation for `div` beginning at L12:C5. Expected `&lt;div&gt;` to be at an indentation of 8 but was found at 4.          indent-style   
- 12:16  error    The value "top-bar" of attribute "class" does not respect the format: underscore                                                id-class-style 
- 13:7   error    Incorrect indentation for `div` beginning at L13:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style   
- 13:18  error    The value "top-bar-left" of attribute "class" does not respect the format: underscore                                           id-class-style 
- 14:9   error    Incorrect indentation for `ul` beginning at L14:C9. Expected `&lt;ul&gt;` to be at an indentation of 16 but was found at 8.           indent-style   
- 15:11  error    Incorrect indentation for `li` beginning at L15:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 15:21  error    The value "menu-text" of attribute "class" does not respect the format: underscore                                              id-class-style 
- 18:7   error    Incorrect indentation for `div` beginning at L18:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style   
- 18:18  error    The value "top-bar-right" of attribute "class" does not respect the format: underscore                                          id-class-style 
- 19:9   error    Incorrect indentation for `ul` beginning at L19:C9. Expected `&lt;ul&gt;` to be at an indentation of 16 but was found at 8.           indent-style   
- 20:11  error    Incorrect indentation for `li` beginning at L20:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 21:11  error    Incorrect indentation for `li` beginning at L21:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 22:11  error    Incorrect indentation for `li` beginning at L22:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 23:11  error    Incorrect indentation for `li` beginning at L23:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 27:5   error    Incorrect indentation for `Comment` beginning at L27:C5. Expected `&lt;Comment&gt;` to be at an indentation of 8 but was found at 4.  indent-style   
- 29:5   error    Incorrect indentation for `div` beginning at L29:C5. Expected `&lt;div&gt;` to be at an indentation of 8 but was found at 4.          indent-style   
- 30:7   error    Incorrect indentation for `div` beginning at L30:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style   
- 30:18  error    The value "text-center" of attribute "class" does not respect the format: underscore                                            id-class-style 
- 31:9   error    Incorrect indentation for `h1` beginning at L31:C9. Expected `&lt;h1&gt;` to be at an indentation of 16 but was found at 8.           indent-style   
- 35:5   error    Incorrect indentation for `div` beginning at L35:C5. Expected `&lt;div&gt;` to be at an indentation of 8 but was found at 4.          indent-style   
- 36:7   error    Incorrect indentation for `div` beginning at L36:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style   
- 36:18  error    The value "medium-8" of attribute "class" does not respect the format: underscore                                               id-class-style 
- 37:9   error    Incorrect indentation for `div` beginning at L37:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style   
- 37:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style 
- 38:11  error    Incorrect indentation for `h3` beginning at L38:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 39:11  error    Incorrect indentation for `img` beginning at L39:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 39:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt    
- 40:11  error    Incorrect indentation for `p` beginning at L40:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style   
- 41:11  error    Incorrect indentation for `div` beginning at L41:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 42:13  error    Incorrect indentation for `ul` beginning at L42:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 43:15  error    Incorrect indentation for `li` beginning at L43:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 44:15  error    Incorrect indentation for `li` beginning at L44:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 49:9   error    Incorrect indentation for `div` beginning at L49:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style   
- 49:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style 
- 50:11  error    Incorrect indentation for `h3` beginning at L50:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 51:11  error    Incorrect indentation for `img` beginning at L51:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 51:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt    
- 52:11  error    Incorrect indentation for `p` beginning at L52:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style   
- 53:11  error    Incorrect indentation for `div` beginning at L53:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 54:13  error    Incorrect indentation for `ul` beginning at L54:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 55:15  error    Incorrect indentation for `li` beginning at L55:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 56:15  error    Incorrect indentation for `li` beginning at L56:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 61:9   error    Incorrect indentation for `div` beginning at L61:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style   
- 61:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style 
- 62:11  error    Incorrect indentation for `h3` beginning at L62:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 63:11  error    Incorrect indentation for `img` beginning at L63:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 63:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt    
- 64:11  error    Incorrect indentation for `p` beginning at L64:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style   
- 65:11  error    Incorrect indentation for `div` beginning at L65:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 66:13  error    Incorrect indentation for `ul` beginning at L66:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 67:15  error    Incorrect indentation for `li` beginning at L67:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 68:15  error    Incorrect indentation for `li` beginning at L68:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 73:9   error    Incorrect indentation for `div` beginning at L73:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style   
- 73:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style 
- 74:11  error    Incorrect indentation for `h3` beginning at L74:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 75:11  error    Incorrect indentation for `img` beginning at L75:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 75:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt    
- 76:11  error    Incorrect indentation for `p` beginning at L76:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style   
- 77:11  error    Incorrect indentation for `div` beginning at L77:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style   
- 78:13  error    Incorrect indentation for `ul` beginning at L78:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 79:15  error    Incorrect indentation for `li` beginning at L79:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 80:15  error    Incorrect indentation for `li` beginning at L80:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style   
- 85:7   error    Incorrect indentation for `div` beginning at L85:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style   
- 85:37  error    The attribute "data-sticky-container" requires a value                                                                          attr-req-value 
- 85:18  error    The value "medium-3" of attribute "class" does not respect the format: underscore                                               id-class-style 
- 86:9   error    Incorrect indentation for `div` beginning at L86:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style   
- 86:29  error    The attribute "data-sticky" requires a value                                                                                    attr-req-value 
- 87:11  error    Incorrect indentation for `h4` beginning at L87:C11. Expected `&lt;h4&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 88:11  error    Incorrect indentation for `ul` beginning at L88:C11. Expected `&lt;ul&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 89:13  error    Incorrect indentation for `li` beginning at L89:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 90:13  error    Incorrect indentation for `li` beginning at L90:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 91:13  error    Incorrect indentation for `li` beginning at L91:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 92:13  error    Incorrect indentation for `li` beginning at L92:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 95:11  error    Incorrect indentation for `h4` beginning at L95:C11. Expected `&lt;h4&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 96:11  error    Incorrect indentation for `ul` beginning at L96:C11. Expected `&lt;ul&gt;` to be at an indentation of 20 but was found at 10.         indent-style   
- 97:13  error    Incorrect indentation for `li` beginning at L97:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 98:13  error    Incorrect indentation for `li` beginning at L98:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
- 99:13  error    Incorrect indentation for `li` beginning at L99:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style   
-100:13  error    Incorrect indentation for `li` beginning at L100:C13. Expected `&lt;li&gt;` to be at an indentation of 24but was found at 12.        indent-style   
-106:5   error    Incorrect indentation for `div` beginning at L106:C5. Expected `&lt;div&gt;` to be at an indentation of 8but was found at 4.         indent-style   
-107:7   error    Incorrect indentation for `ul` beginning at L107:C7. Expected `&lt;ul&gt;` to be at an indentation of 12but was found at 6.          indent-style   
-108:9   error    Incorrect indentation for `li` beginning at L108:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-109:9   error    Incorrect indentation for `li` beginning at L109:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-109:41  error    The value "show-for-sr" of attribute "class" does not respect the format:underscore                                            id-class-style 
-110:9   error    Incorrect indentation for `li` beginning at L110:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-111:9   error    Incorrect indentation for `li` beginning at L111:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-112:9   error    Incorrect indentation for `li` beginning at L112:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-113:9   error    Incorrect indentation for `li` beginning at L113:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-114:9   error    Incorrect indentation for `li` beginning at L114:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-115:9   error    Incorrect indentation for `li` beginning at L115:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-116:9   error    Incorrect indentation for `li` beginning at L116:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style   
-120:5   error    Incorrect indentation for `script` beginning at L120:C5. Expected `&lt;script&gt;` to be at anindentation of 8 but was found at 4.   indent-style   
-121:5   error    Incorrect indentation for `script` beginning at L121:C5. Expected `&lt;script&gt;` to be at anindentation of 8 but was found at 4.   indent-style   
+  2:13  error    The value "no-js" of attribute "class" does not respect the format: underscore                                                  id-class-style
+  3:3   error    Incorrect indentation for `head` beginning at L3:C3. Expected `&lt;head&gt;` to be at an indentation of 4 but was found at 2.         indent-style
+  4:5   error    Incorrect indentation for `meta` beginning at L4:C5. Expected `&lt;meta&gt;` to be at an indentation of 8 but was found at 4.         indent-style
+  5:5   error    Incorrect indentation for `meta` beginning at L5:C5. Expected `&lt;meta&gt;` to be at an indentation of 8 but was found at 4.         indent-style
+  6:5   error    Incorrect indentation for `title` beginning at L6:C5. Expected `&lt;title&gt;` to be at an indentation of 8 but was found at 4.       indent-style
+  7:5   error    Incorrect indentation for `link` beginning at L7:C5. Expected `&lt;link&gt;` to be at an indentation of 8 but was found at 4.         indent-style
+  9:3   error    Incorrect indentation for `body` beginning at L9:C3. Expected `&lt;body&gt;` to be at an indentation of 4 but was found at 2.         indent-style
+ 11:5   error    Incorrect indentation for `Comment` beginning at L11:C5. Expected `&lt;Comment&gt;` to be at an indentation of 8 but was found at 4.  indent-style
+ 12:5   error    Incorrect indentation for `div` beginning at L12:C5. Expected `&lt;div&gt;` to be at an indentation of 8 but was found at 4.          indent-style
+ 12:16  error    The value "top-bar" of attribute "class" does not respect the format: underscore                                                id-class-style
+ 13:7   error    Incorrect indentation for `div` beginning at L13:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style
+ 13:18  error    The value "top-bar-left" of attribute "class" does not respect the format: underscore                                           id-class-style
+ 14:9   error    Incorrect indentation for `ul` beginning at L14:C9. Expected `&lt;ul&gt;` to be at an indentation of 16 but was found at 8.           indent-style
+ 15:11  error    Incorrect indentation for `li` beginning at L15:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 15:21  error    The value "menu-text" of attribute "class" does not respect the format: underscore                                              id-class-style
+ 18:7   error    Incorrect indentation for `div` beginning at L18:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style
+ 18:18  error    The value "top-bar-right" of attribute "class" does not respect the format: underscore                                          id-class-style
+ 19:9   error    Incorrect indentation for `ul` beginning at L19:C9. Expected `&lt;ul&gt;` to be at an indentation of 16 but was found at 8.           indent-style
+ 20:11  error    Incorrect indentation for `li` beginning at L20:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 21:11  error    Incorrect indentation for `li` beginning at L21:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 22:11  error    Incorrect indentation for `li` beginning at L22:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 23:11  error    Incorrect indentation for `li` beginning at L23:C11. Expected `&lt;li&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 27:5   error    Incorrect indentation for `Comment` beginning at L27:C5. Expected `&lt;Comment&gt;` to be at an indentation of 8 but was found at 4.  indent-style
+ 29:5   error    Incorrect indentation for `div` beginning at L29:C5. Expected `&lt;div&gt;` to be at an indentation of 8 but was found at 4.          indent-style
+ 30:7   error    Incorrect indentation for `div` beginning at L30:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style
+ 30:18  error    The value "text-center" of attribute "class" does not respect the format: underscore                                            id-class-style
+ 31:9   error    Incorrect indentation for `h1` beginning at L31:C9. Expected `&lt;h1&gt;` to be at an indentation of 16 but was found at 8.           indent-style
+ 35:5   error    Incorrect indentation for `div` beginning at L35:C5. Expected `&lt;div&gt;` to be at an indentation of 8 but was found at 4.          indent-style
+ 36:7   error    Incorrect indentation for `div` beginning at L36:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style
+ 36:18  error    The value "medium-8" of attribute "class" does not respect the format: underscore                                               id-class-style
+ 37:9   error    Incorrect indentation for `div` beginning at L37:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style
+ 37:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style
+ 38:11  error    Incorrect indentation for `h3` beginning at L38:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 39:11  error    Incorrect indentation for `img` beginning at L39:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 39:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt
+ 40:11  error    Incorrect indentation for `p` beginning at L40:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style
+ 41:11  error    Incorrect indentation for `div` beginning at L41:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 42:13  error    Incorrect indentation for `ul` beginning at L42:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 43:15  error    Incorrect indentation for `li` beginning at L43:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 44:15  error    Incorrect indentation for `li` beginning at L44:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 49:9   error    Incorrect indentation for `div` beginning at L49:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style
+ 49:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style
+ 50:11  error    Incorrect indentation for `h3` beginning at L50:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 51:11  error    Incorrect indentation for `img` beginning at L51:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 51:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt
+ 52:11  error    Incorrect indentation for `p` beginning at L52:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style
+ 53:11  error    Incorrect indentation for `div` beginning at L53:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 54:13  error    Incorrect indentation for `ul` beginning at L54:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 55:15  error    Incorrect indentation for `li` beginning at L55:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 56:15  error    Incorrect indentation for `li` beginning at L56:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 61:9   error    Incorrect indentation for `div` beginning at L61:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style
+ 61:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style
+ 62:11  error    Incorrect indentation for `h3` beginning at L62:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 63:11  error    Incorrect indentation for `img` beginning at L63:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 63:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt
+ 64:11  error    Incorrect indentation for `p` beginning at L64:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style
+ 65:11  error    Incorrect indentation for `div` beginning at L65:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 66:13  error    Incorrect indentation for `ul` beginning at L66:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 67:15  error    Incorrect indentation for `li` beginning at L67:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 68:15  error    Incorrect indentation for `li` beginning at L68:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 73:9   error    Incorrect indentation for `div` beginning at L73:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style
+ 73:20  error    The value "blog-post" of attribute "class" does not respect the format: underscore                                              id-class-style
+ 74:11  error    Incorrect indentation for `h3` beginning at L74:C11. Expected `&lt;h3&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 75:11  error    Incorrect indentation for `img` beginning at L75:C11. Expected `&lt;img&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 75:11  error    The "alt" attribute must be set for &lt;img&gt; tag                                                                                   img-req-alt
+ 76:11  error    Incorrect indentation for `p` beginning at L76:C11. Expected `&lt;p&gt;` to be at an indentation of 20 but was found at 10.           indent-style
+ 77:11  error    Incorrect indentation for `div` beginning at L77:C11. Expected `&lt;div&gt;` to be at an indentation of 20 but was found at 10.       indent-style
+ 78:13  error    Incorrect indentation for `ul` beginning at L78:C13. Expected `&lt;ul&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 79:15  error    Incorrect indentation for `li` beginning at L79:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 80:15  error    Incorrect indentation for `li` beginning at L80:C15. Expected `&lt;li&gt;` to be at an indentation of 28 but was found at 14.         indent-style
+ 85:7   error    Incorrect indentation for `div` beginning at L85:C7. Expected `&lt;div&gt;` to be at an indentation of 12 but was found at 6.         indent-style
+ 85:37  error    The attribute "data-sticky-container" requires a value                                                                          attr-req-value
+ 85:18  error    The value "medium-3" of attribute "class" does not respect the format: underscore                                               id-class-style
+ 86:9   error    Incorrect indentation for `div` beginning at L86:C9. Expected `&lt;div&gt;` to be at an indentation of 16 but was found at 8.         indent-style
+ 86:29  error    The attribute "data-sticky" requires a value                                                                                    attr-req-value
+ 87:11  error    Incorrect indentation for `h4` beginning at L87:C11. Expected `&lt;h4&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 88:11  error    Incorrect indentation for `ul` beginning at L88:C11. Expected `&lt;ul&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 89:13  error    Incorrect indentation for `li` beginning at L89:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 90:13  error    Incorrect indentation for `li` beginning at L90:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 91:13  error    Incorrect indentation for `li` beginning at L91:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 92:13  error    Incorrect indentation for `li` beginning at L92:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 95:11  error    Incorrect indentation for `h4` beginning at L95:C11. Expected `&lt;h4&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 96:11  error    Incorrect indentation for `ul` beginning at L96:C11. Expected `&lt;ul&gt;` to be at an indentation of 20 but was found at 10.         indent-style
+ 97:13  error    Incorrect indentation for `li` beginning at L97:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 98:13  error    Incorrect indentation for `li` beginning at L98:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+ 99:13  error    Incorrect indentation for `li` beginning at L99:C13. Expected `&lt;li&gt;` to be at an indentation of 24 but was found at 12.         indent-style
+100:13  error    Incorrect indentation for `li` beginning at L100:C13. Expected `&lt;li&gt;` to be at an indentation of 24but was found at 12.        indent-style
+106:5   error    Incorrect indentation for `div` beginning at L106:C5. Expected `&lt;div&gt;` to be at an indentation of 8but was found at 4.         indent-style
+107:7   error    Incorrect indentation for `ul` beginning at L107:C7. Expected `&lt;ul&gt;` to be at an indentation of 12but was found at 6.          indent-style
+108:9   error    Incorrect indentation for `li` beginning at L108:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+109:9   error    Incorrect indentation for `li` beginning at L109:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+109:41  error    The value "show-for-sr" of attribute "class" does not respect the format:underscore                                            id-class-style
+110:9   error    Incorrect indentation for `li` beginning at L110:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+111:9   error    Incorrect indentation for `li` beginning at L111:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+112:9   error    Incorrect indentation for `li` beginning at L112:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+113:9   error    Incorrect indentation for `li` beginning at L113:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+114:9   error    Incorrect indentation for `li` beginning at L114:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+115:9   error    Incorrect indentation for `li` beginning at L115:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+116:9   error    Incorrect indentation for `li` beginning at L116:C9. Expected `&lt;li&gt;` to be at an indentation of 16but was found at 8.          indent-style
+120:5   error    Incorrect indentation for `script` beginning at L120:C5. Expected `&lt;script&gt;` to be at an indentation of 8 but was found at 4.   indent-style
+121:5   error    Incorrect indentation for `script` beginning at L121:C5. Expected `&lt;script&gt;` to be at an indentation of 8 but was found at 4.   indent-style
 122:5   error    Incorrect indentation for `script` beginning at L122:C5. Expected `&lt;script&gt;` to be at an indentation of 8 but was found at 4.   indent-style
- 
+
 $ eslint foundation-sites-templates/index.html
 ...redacted for brevity...</code></pre>
 </details>
@@ -926,7 +931,7 @@ $ eslint foundation-sites-templates/index.html
 Second, I fed the HTML linters some common & "problematic" HTML mistakes,
 to see if they were able to detect them.
 
-The HTML file tested can be found there: [horribly-broken-page.html](https://github.com/Lucas-C/ludochaordic/blob/master/content/test-html-linters/horribly-broken-page.html).
+The HTML file tested can be found there: [horribly-broken-page.html](https://github.com/Lucas-C/ludochaordic/blob/master/content/test-html-linters/horribly-broken-page.html). It is served over HTTP there: [horribly-broken-page.html](https://chezsoi.org/lucas/blog/test-html-linters/horribly-broken-page.html).
 
 The table below lists, for each issue of this HTML test file, if each linter is able to detect it:
 
@@ -1021,22 +1026,22 @@ $ html-validate content/test-html-linters/horribly-broken-page.html
 53:2   error  &lt;dd&gt; element requires a "dl &gt; dd" or "dl &gt; div &gt; dd" ancestor                               element-required-ancestor
 
 $ linthtml content/test-html-linters/horribly-broken-page.html
-12:1  error    Invalid case for tag &lt;span&gt;, tag names must be written inlowercase                                                       tag-name-lowercase 
-18:6  error    The attribute "id" requires avalue                                                                                       attr-req-value     
-21:6  error    The value "MyID" of attribute "id" does not respect the format:underscore                                                id-class-style     
-22:9  error    The id "MyID" is already used atL21:c9                                                                                   id-no-dup          
-22:6  error    The value "MyID" of attribute "id" does not respect the format:underscore                                                id-class-style     
-25:4  error    The attribute foo isduplicated                                                                                           attr-no-dup        
-27:4  error    The attribute "bgcolor" attribute is cannot be used as it'sbanned                                                        attr-bans          
-37:3  error    Incorrect indentation for `p` beginning at L37:C3. Expected `&lt;p&gt;` to be at an indentation of 4 butwas found at 2.        indent-style       
-40:3  error    Incorrect indentation for `li` beginning at L40:C3. Expected `&lt;li&gt;` to be at an indentation of 4 butwas found at 2.      indent-style       
-40:3  error    Tag is notclosed                                                                                                        tag-close          
-44:3  error    Incorrect indentation for `p` beginning at L44:C3. Expected `&lt;\p&gt;` to be at an indentation of 0 butwas found at 2.       indent-style       
-43:1  error    Tag is notclosed                                                                                                        tag-close          
-47:1  error    Tag close does not match opened tag atC47:L1                                                                             tag-name-match     
-50:3  error    Incorrect indentation for `code` beginning at L50:C3. Expected `&lt;code&gt;` to be at an indentation of 4but was found at 2.  indent-style       
+12:1  error    Invalid case for tag &lt;span&gt;, tag names must be written in lowercase                                                       tag-name-lowercase
+18:6  error    The attribute "id" requires a value                                                                                       attr-req-value
+21:6  error    The value "MyID" of attribute "id" does not respect the format:underscore                                                id-class-style
+22:9  error    The id "MyID" is already used atL21:c9                                                                                   id-no-dup
+22:6  error    The value "MyID" of attribute "id" does not respect the format:underscore                                                id-class-style
+25:4  error    The attribute foo is duplicated                                                                                           attr-no-dup
+27:4  error    The attribute "bgcolor" attribute is cannot be used as it's banned                                                        attr-bans
+37:3  error    Incorrect indentation for `p` beginning at L37:C3. Expected `&lt;p&gt;` to be at an indentation of 4 but was found at 2.        indent-style
+40:3  error    Incorrect indentation for `li` beginning at L40:C3. Expected `&lt;li&gt;` to be at an indentation of 4 but was found at 2.      indent-style
+40:3  error    Tag is not closed                                                                                                        tag-close
+44:3  error    Incorrect indentation for `p` beginning at L44:C3. Expected `&lt;\p&gt;` to be at an indentation of 0 but was found at 2.       indent-style
+43:1  error    Tag is not closed                                                                                                        tag-close
+47:1  error    Tag close does not match opened tag atC47:L1                                                                             tag-name-match
+50:3  error    Incorrect indentation for `code` beginning at L50:C3. Expected `&lt;code&gt;` to be at an indentation of 4but was found at 2.  indent-style
 54:3  error    Incorrect indentation for `code` beginning at L54:C3. Expected `&lt;code&gt;` to be at an indentation of 4 but was found at 2.  indent-style
- 
+
 $ eslint content/test-html-linters/horribly-broken-page.html
 21:10  error  The id 'MyID' is duplicated                          @html-eslint/no-duplicate-id
 22:10  error  The id 'MyID' is duplicated                          @html-eslint/no-duplicate-id
@@ -1103,6 +1108,7 @@ maybe the best approach should be to have "specialized" HTML linters that only a
 </script>
 
 <style>
+article img { max-height: 20em; }
 article table, article th, article td {
   border: 2px solid black;
   border-collapse: collapse;
@@ -1112,10 +1118,10 @@ article table { border-style: hidden; margin: 0 auto; }
 </style>
 
 <!-- Com'
+* [x] https://news.ycombinator.com/item?id=43393994
+* [x] https://news.humancoders.com/users/15727-lucas-c
+* [x] https://www.reddit.com/r/programming/comments/1jdrgrh/a_review_of_html_linters/
+      https://www.reddit.com/r/webdev/comments/1bkskf7/comment/micngv4/
 * [ ] https://dev.to/lucasc/
-* [ ] https://news.ycombinator.com
 * [ ] https://medium.com/@Lucas_C/
-* [ ] https://www.reddit.com/r/programming ? other subreddit?
-* [ ] https://news.humancoders.com/
-* [ ] ?
 -->

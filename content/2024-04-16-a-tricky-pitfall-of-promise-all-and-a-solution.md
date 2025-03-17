@@ -35,7 +35,7 @@ the promise produced by `Promise.all()` will **reject** if any of the input prom
 And in that case, it means that `await Promise.all(...)` will throw an exception.
 
 But **when `Promise.all()` rejects, some of the input promises can still be executing!**
-And this situation is often not considered by developpers.
+And this situation is often not considered by developers.
 
 The following diagram and code snippet demonstrates this problem:
 
@@ -77,7 +77,7 @@ async function sleepAndTrackStatus(durationMs) {
 
 The problem is that, when an input promise fails, `Promise.all()` will **reject early**, without waiting for the other promises, that can still be processing asynchronously.
 
-This can lead to many problematic situations, where code executed by those other promises perform operations that can conflict with the code executed following the call to `Promise.all()`. For exemple, issues with database connexions or I/O with files can be expected.
+This can lead to many problematic situations, where code executed by those other promises perform operations that can conflict with the code executed following the call to `Promise.all()`. For example, issues with database connexions or I/O with files can be expected.
 
 In my case, I identified this underlying problem in a situation of cascading failures with a [Jest](https://jestjs.io/fr/) test suite: the code in some asynchronous `afterEach()` methods wasn't properly waiting for shared resources to be cleaned up, when some unit tests were failing, due to a call to `await Promise.all()`.
 
@@ -117,10 +117,10 @@ async function waitForPromises<T>(promises: Iterable<PromiseLike<T>>) {
   if (rejectedResults.length > 1) {
     throw new AggregateError(rejectedResults.map((result) => result.reason), `${rejectedResults.length} promises failed`);
   }
-  const successfullResults: PromiseFulfilledResult<Awaited<T>>[] = results.filter(
+  const successfulResults: PromiseFulfilledResult<Awaited<T>>[] = results.filter(
     (result): result is PromiseFulfilledResult<Awaited<T>> => result.status === "fulfilled"
   );
-  return successfullResults.map((result) => result.value);
+  return successfulResults.map((result) => result.value);
 }
 ```
 This is in fact [TypeScript with Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html#generic-types), but you can just remove the `: types` and `<T>` to get valid Javascript code:
@@ -141,14 +141,14 @@ This is in fact [TypeScript with Generics](https://www.typescriptlang.org/docs/h
 
 You can test this function by replacing `Promise.all` by `waitForPromises` in the initial code snippet of this article.
 
-Although sometimes the "short-circuit" behaviour of `Promise.all` can be handy, I think that `waitForPromises` is a better, safer alternative in most situations, and should be the go-to default option to `await` the completion ofseveral asynchonous functions.
+Although sometimes the "short-circuit" behaviour of `Promise.all` can be handy, I think that `waitForPromises` is a better, safer alternative in most situations, and should be the go-to default option to `await` the completion ofseveral asynchronous functions.
 
 _(thanks to [Reddit user @senocular](https://www.reddit.com/user/senocular/) for the very relevant feedbacks on this blog post)_
 
 ## Further readings
 
 * [GIF Cheatsheets for Javascript Promise API methods @ dev.to](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o#promiseallsettled)
-* [Avoid the Promise.all pitfall! Rate limit async function calls by Mike Talbot @ dev.to](https://dev.to/miketalbot/avoid-the-promiseall-pitfall-38ik) and also, on the same suject, [ Beware of Promise.all @ dev.to](https://dev.to/jdorn/beware-of-promiseall-3pph)
+* [Avoid the Promise.all pitfall! Rate limit async function calls by Mike Talbot @ dev.to](https://dev.to/miketalbot/avoid-the-promiseall-pitfall-38ik) and also, on the same subject, [ Beware of Promise.all @ dev.to](https://dev.to/jdorn/beware-of-promiseall-3pph)
 * [Beware of short-circuiting Promise combinators in JavaScript @ medium.com](https://medium.com/@volodymyrfrolov/beware-of-short-circuiting-promise-combinators-in-javascript-bbb5b7a9e70f) : an older article from 2019 already raising a similar warning
 
 <!-- Com' :

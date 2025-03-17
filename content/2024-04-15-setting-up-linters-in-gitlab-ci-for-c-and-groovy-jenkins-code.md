@@ -119,7 +119,7 @@ codenarcMain {
     finalizedBy codenarcConsoleReport
     compilationClasspath = sourceSets.main.compileClasspath + sourceSets.main.output //+ files('../relative/path/to/shared/lib/dir')
 }
-// You can optionnally disable the Groovy compilation step, to execute faster:
+// You can optionally disable the Groovy compilation step, to execute faster:
 compileGroovy.enabled = false
 ```
 
