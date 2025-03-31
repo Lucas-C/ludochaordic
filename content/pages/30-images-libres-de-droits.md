@@ -819,7 +819,6 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 - [Symbiosis CC Artbook by Steven Sanders](https://gumroad.com/l/oRzNi) : amazing collection of dozens of illustrations under CC BY-NC-SA
   ![thumbnail](https://public-files.gumroad.com/variants/ws5q77hxpf6ccqokzkqlfkhaqgvx/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb)
 - [The Battle for Wesnoth](https://www.google.com/search?q=site%3Awiki.wesnoth.org&tbm=isch) - [GNU GPL v2 or CC BY-SA](https://wiki.wesnoth.org/Wesnoth:Copyrights#The_Battle_for_Wesnoth_-_Visual_and_Audio_Contributions)
-  ![thumbnail](https://raw.githubusercontent.com/wesnoth/wesnoth/master/data/campaigns/The_Rise_Of_Wesnoth/images/story/trow_intro_09.jpg)
     * [Mainline Campaigns](https://wiki.wesnoth.org/Mainline_Campaigns)
     * [Wesnoth Figures](https://wiki.wesnoth.org/WesnothFigures)
     * [List of supporting characters from the Rise of Wesnoth](https://www.wesnoth.org/forum/viewtopic.php?t=32775)
@@ -925,7 +924,6 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 
 ## Textures
 - [JurgaSan](https://www.deviantart.com/jurgasan/gallery/51630892/TEXTURE) - CC BY
-- [Geometric Background Pattern Hexagon](https://www.maxpixel.net/Geometric-Wallpaper-Background-Pattern-Hexagon-6954131)
 
 
 # Websites
@@ -1004,7 +1002,7 @@ Dedicated to games:
     * [Hyptosis](https://opengameart.org/users/hyptosis) portraits:
         + [Cyberpunk Portraits](https://opengameart.org/content/cyberpunk-portraits)
         + [200 Free Lorestrome Portraits](https://opengameart.org/content/200-free-lorestrome-portraits)
-    * [Gaspard](https://kaspartamsalu.tumblr.com/) portraits:
+    * [Kaspar Tamsalu](https://www.artstation.com/kaspartamsalu) portraits:
         + [6 Post-Apocalyptical Snow Portraits](https://opengameart.org/content/6-post-apocalyptical-snow-portraits)
         + [Character Concepts for PARPG](https://opengameart.org/content/character-concepts-for-parpg)
         + [Four Post-Apocalyptic Portraits](https://opengameart.org/content/four-post-apocalyptic-portraits)
@@ -1021,7 +1019,6 @@ Mostly photos:
     * [analog, watch, illustration lot, time, clock, watches, time of, business, appointment, past](https://www.pxfuel.com/en/free-photo-ooqqp)
 - [Open Image Collections](https://blogs.ntu.edu.sg/openimagecollections/)
 - [rawpixel Public Domain images](https://www.rawpixel.com/category/53/public-domain) : Vintage Design Resources with a CC0 License
-    * [Public Domain Gems](https://www.rawpixel.com/board/325102/public-domain-gems-famous-paintings-free-vintage-illustrations)
     * [Artists Collections](https://www.rawpixel.com/category/191/artist-collections)
 - [Public Domain Files](http://www.publicdomainfiles.com)
     * [The Child of the Cavern](http://www.publicdomainfiles.com/show_file.php?id=13932096626406)
@@ -1192,7 +1189,6 @@ Generators that produces character illustrations that have not been placed under
     * [Marker Scratch](https://www.fontspace.com/marker-scratch-font-f32739) : free
     * [Lavender Rainstorm](https://fr.ffonts.net/Lavender-Rainstorm.font) : small raining clouds over all characters, public domain
     * [Kill The Noise](https://www.dafont.com/kill-the-noise.font), free for all use
-    * [Anachronaut](https://www.fontspace.com/anachronaut-font-f30584) : minimalist / pixe-art / maze, public domain
     * [Outrun Future](https://www.dafont.com/outrun-future.font) : $40 for a commercial license
     * [Ninjos](https://www.dafont.com/ninjos.font)
     * [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756)

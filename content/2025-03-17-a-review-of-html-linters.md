@@ -6,17 +6,10 @@ Tags: lang:en, html, linter, python, source-code, vnu, w3c, continuous-integrati
 
 ... and how to use them in CI pipelines.
 
-<!-- ToC auto-generation:
-$ npm i -g https://github.com/jonschlinkert/markdown-toc  # includes "--indent" which is not released on npmjs.com
-$ markdown-toc --indent '    ' -i content/2025-03-17-a-review-of-html-linters.md
--->
-
-<!-- toc -->
-
 - [Overview](a-review-of-html-linters.html#overview)
 - [Introduction / motivation](a-review-of-html-linters.html#introduction--motivation)
 - [HTML linters and their usage](a-review-of-html-linters.html#html-linters-and-their-usage)
-    * [W3C v.Nu HTML checker](a-review-of-html-linters.html#w3c-vnu-html-checker)
+    * [W3C v.Nu HTML checker](a-review-of-html-linters.html#w3c-v.nu-html-checker)
     * [html-tidy](a-review-of-html-linters.html#html-tidy)
     * [htmlhint](a-review-of-html-linters.html#htmlhint)
     * [html-validate](a-review-of-html-linters.html#html-validate)
@@ -25,8 +18,6 @@ $ markdown-toc --indent '    ' -i content/2025-03-17-a-review-of-html-linters.md
 - [Evaluating HTML linters on reference pages](a-review-of-html-linters.html#evaluating-html-linters-on-reference-pages)
 - [Conclusion](a-review-of-html-linters.html#conclusion)
     * [Related tools & readings](a-review-of-html-linters.html#related-tools--readings)
-
-<!-- tocstop -->
 
 <figure>
   <img src="images/2025/03/HTML-Doctype.png" alt="">
