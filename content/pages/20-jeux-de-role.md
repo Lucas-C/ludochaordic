@@ -7,7 +7,7 @@ Slug: jeux-de-role
 
 <img alt="Photo de plusieurs dés noirs polyhédriques" src="images/jdr/tabletop-rpg-dices.jpg" style="max-width: 30rem; margin-bottom: 4rem">
 
-Certains de mes jeux sont également sur **itch.io** : <https://lucas-c.itch.io>.
+Certains de mes jeux sont également sur **itch.io** : [lucas-c.itch.io](https://lucas-c.itch.io).
 
 Cette page détaille mes projets en développement, avec possibilité de s'abonner à une _newsletter_ :
 [> Projets en cours< ](pages/projets-en-cours.html).

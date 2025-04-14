@@ -44,6 +44,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2025-04-14', 'img_url': 'images/readings/bea-wolf.png', 'description': 'Béa Wolf - Boulet (BD)'},
     {'date': '2025-03-03', 'img_url': 'images/readings/LeRoyaumeAuxMilleReformes.jpg', 'description': 'Le Royaume aux Mille Réformes - Emile Bertier & Yann Girard (BD dont vous êtes le héro)'},
     {'date': '2025-01-01', 'img_url': 'images/readings/CassandraDrake.jpg', 'description': 'Cassandra Drake - Posy Simmonds (BD)'},
     {'date': '2024-12-02', 'img_url': 'images/readings/Samourai-vs-ninja.jpg', 'description': 'Samouraï vs Ninja - Jason Shiga (BD)'},

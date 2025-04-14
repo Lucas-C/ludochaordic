@@ -1079,6 +1079,9 @@ maybe the best approach should be to have "specialized" HTML linters that only a
 ### Related tools & readings
 * There are also linters for HTML sub-languages & templates (_e.g._ [pug-lint](https://github.com/pugjs/pug-lint), [djlint](https://www.djlint.com/fr/), [jinjalint](https://github.com/motet-a/jinjalint), [ejs-lint](https://www.npmjs.com/package/ejs-lint), [ember-template-lint](https://github.com/ember-template-lint/ember-template-lint)...) or even web frameworks (_e.g._ [bootlint](https://github.com/twbs/bootlint), [`ng lint`](https://angular.dev/cli/lint), [eslint-plugin-vuejs](https://eslint.vuejs.org/), [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) for `.jsx` & `.tsx` files...)
 * it is very easy to add a `git` `pre-commit` hook that invokes the [W3C v.Nu checker](https://validator.github.io/validator/) using [the `pre-commit` CLI](https://pre-commit.com/): [example `.pre-commit-config.yaml`](https://framagit.org/atelier-coala/atelier-coala/-/blob/main/.pre-commit-config.yaml?ref_type=heads#L15)
+* other interesting web page analysis tools:
+    + [webhint](https://webhint.io): improve your site's accessibility, speed, cross-browser compatibility, and more
+    + [lychee](https://github.com/lycheeverse/lychee): Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more
 * a collection of bad practices in HTML, copied from real websites: [htmhell.dev](https://htmhell.dev)
 * a bookmarklet to help making semantic HTML: [Construct.css](https://t7.github.io/construct.css/)
 * [Automated Accessibility Part 1: Linting @dev.to](https://dev.to/steady5063/automated-accessibility-part-1-linting-5378)

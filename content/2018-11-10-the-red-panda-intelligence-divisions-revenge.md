@@ -40,7 +40,7 @@ L'autre petit point d'insatisfaction : les tables de génération du scénario.
 Bien qu'assez délirantes et drôles, je n'ai pas été inspiré par certaines options
 (comment introduire des "mamans football" comme grands méchants de l'histoire ???)
 et surtout la plupart n'ouvrent pas de portes narratives.
-Concrètement, là où je trouve bien trouvés "a machine that need repairing" ou "they have an hostage"
+Concrètement, là où je trouve bien trouvé _"a machine that need repairing"_ ou _"they have an hostage"_
 car ces propositions donnent des pistes implicites pour faire rebondir l'histoire,
 de manière générale ces tables ne donnent pas beaucoup de matière pour élaborer une intrigue ou des péripéties.
 
@@ -60,7 +60,7 @@ Au passage, cette partie a été l'occasion de découvrir [The Guild of Ambience
 un "sound designer" australien qui propose sur Youtube de super ambiances musicales pour parties de JdR.
 Merci Elliot pour la découverte ;)
 
-**EDIT[2018/11/15]:** une alternative (merci Matthieu !) : <https://rpg.ambient-mixer.com>
+**EDIT[2018/11/15]:** une alternative (merci Matthieu !) : [rpg.ambient-mixer.com](https://rpg.ambient-mixer.com)
 
 Création de pandas comprise, la partie de RPIDR a duré un peu moins de 2 heures.
 Nous avons fini la journée à playtester un prototype de JdR de ma conception,
