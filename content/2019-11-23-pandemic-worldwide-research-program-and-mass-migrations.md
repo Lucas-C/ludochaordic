@@ -99,13 +99,13 @@ that I recently created:
 > to cities that the population believes spared…
 
 <div class="imgs">
-  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.1.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.0.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_MassMigrations.jpg">
       <figcaption><em>Mass Migrations</em> (PDF 1 page 1,4 MB)</figcaption>
     </figure>
   </a>
-  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.1%20printerfriendly.pdf">
+  <a href="images/jeux/Pandemic%20Scenario%20Mass%20Migrations%20EN%20v1.0%20printerfriendly.pdf">
     <figure>
       <img alt="Aperçu miniature" src="images/2019/11/thumbnail_lightweigth_MassMigrations.jpg">
       <figcaption>(printer-friendly PDF 1 page 0,9 MB)</figcaption>

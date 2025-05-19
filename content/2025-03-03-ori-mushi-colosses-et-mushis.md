@@ -86,11 +86,3 @@ _Tous les articles de ce blog concernant ce jeu : [tag `ori-mushi`](tag/ori-mush
   .float-right-on-large-devices { float: right; }
 }
 </style>
-
-<!-- Com'
-* [ ] https://lucas-c.itch.io/
-* [ ] mon Discord
-* [ ] post sur le fil Ludochaordic du Discord CestPadDuJdr
-* [ ] email aux amis
-* [ ] https://opale-roliste.com/forum/ressources/vos-creations/
--->

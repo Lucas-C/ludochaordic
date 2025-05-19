@@ -100,6 +100,18 @@ Je serai aussi ravi de répondre à vos questions 😊
 
 ---
 
+<script>
+document.querySelectorAll('article h2').forEach(h2 => {
+  h2.id = h2.textContent.toLowerCase()
+            .replace(/[()?!:,'&@]/g, '')
+            .replace(/[à]/g, 'a')
+            .replace(/[ç]/g, 'c')
+            .replace(/[éêè]/g, 'e')
+            .replace(/[ï]/g, 'i')
+            .replace(/ /g, '-')
+})
+</script>
+
 <style>
 article .uk-grid h2 { text-align: center; }
 article .uk-grid dt { margin-top: .5rem; }
