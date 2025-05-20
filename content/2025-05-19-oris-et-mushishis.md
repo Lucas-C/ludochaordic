@@ -20,10 +20,11 @@ Grâce à [PTGPTB](https://ptgptb.fr/), j'ai découvert [le genre _hopepunk_](ht
 et je pense qu'il s'applique très bien à Ori Mushi.
 
 ## Ambitions de _game design_
-J'ai pris le temps de poser explicitement mes objectifs pour ce projet.Voici donc ce que j'ambitionne de créer :
+J'ai pris le temps de poser explicitement mes objectifs pour ce projet.
+Voici donc ce que j'ambitionne de créer :
 
 * un jeu de rôle où les combats sont rares, et **jamais nécessaires**
-* un format de courte campagne (une dizaine de parties) où les personnages et l'univers **évolueront significativement**, avec plusieurs **mystères rêvélés**
+* un format de courte campagne (une dizaine de parties) où les personnages et l'univers **évolueront significativement**, avec plusieurs **mystères révélés**
 * des feuilles des personnages intégrant des **mécaniques incitant à évoluer narrativement**, avec des éléments **uniques pour chaque archétype jouable**
 * un jeu **_light_ en terme de contenu textuel** décrivant l'univers, mais intégrant à la place des phases de **narrativistes** : l'idée est d'inclure le minimum de _lore_ possible, mais que les joueurs puissent contribuer à définir des pans de l'univers durant certaines phases de jeu
 
@@ -78,9 +79,10 @@ La feuille de personnage a globalement peu évolué, mais a vu l'introduction de
   </figure>
 </a>
 
-Les feuilles de Voie des personnages (archétype) sont en plein développement, et pas encore abouties du tout.Je commence à me "fixer" sur certaines mécaniques qui me plaisent, mais d'autres sont encore en plein expérimentation.
+Les feuilles de Voie des personnages (archétype) sont en plein développement, et pas encore abouties du tout.
+Je commence à me "fixer" sur certaines mécaniques qui me plaisent, mais d'autres sont encore en plein expérimentation.
 
-Elliot en a d'ailleurs un peu fait les frais, car la Voie de l'Artiste Conteur était assez sous-développé et peu intéressante à jouer lors des phases d'adction de notre dernière partie... Pour la prochaine je vais introduire une nouvelle capacité de **Lien Synésthésique**, qui sera mise à l'épreuve pour évaluer son intérêt.
+Elliot en a d'ailleurs un peu fait les frais, car la Voie de l'Artiste Conteur était assez sous-développé et peu intéressante à jouer lors des phases d’action de notre dernière partie... Pour la prochaine je vais introduire une nouvelle capacité de **Lien Synesthésique**, qui sera mise à l'épreuve pour évaluer son intérêt.
 
 L'ambition pour la prochaine partie est de trouver un moyen astucieux de combiner la feuille de base et la feuille de Voie. J'avais une première idée mais un ami & _playtesteur_, Olivier, m'en a soufflé une autre également très ingénieuse... Affaire à suivre 😄
 
@@ -89,7 +91,8 @@ L'ambition pour la prochaine partie est de trouver un moyen astucieux de combine
     <figcaption>Prototype de Codex des mushis</figcaption>
 </figure>
 
-La grande nouveauté a été l'introduction du **Codex des Mushis**, comme aide de jeu compagnon de la Voie du Mushishi.
+La grande nouveauté a été l'introduction du **Codex des Mushis**, comme aide de jeu compagnon de la Voie du Mushishi,
+l'archétype du personnage spécialiste en mushis.
 La joueuse qui l'a employé m'a fait d'excellents retours là-dessus.
 Je pense que découvrir progressivement des espèces de mushis, et exploiter leur propriétés,
 procure le même type de sensation que de remplir un [Pokédex](https://fr.wikipedia.org/wiki/Pok%C3%A9dex) dans les jeux vidéos Pokémon, et ça semble pour l'instant très bien s'intégrer au jeu.
