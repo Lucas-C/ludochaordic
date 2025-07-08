@@ -36,7 +36,7 @@ Je serais sincèrement ravis de vos retours, que vous l'ayez lu ou carrément te
 
 <hr>
 
-## Cheat Your Own Adventure
+<h2 id="cheat-your-own-adventure">Cheat Your Own Adventure</h2>
 
 Durant l'autre partie de soirée nous avons testé [ce petit jeu an anglais](http://cheatyourownadventure.co.uk/)
 de Shane McLean datant de 2012.

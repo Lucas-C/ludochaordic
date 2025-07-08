@@ -11,11 +11,11 @@ Bienvenue sur mon site 😉
 
 Je m'appelle Lucas Cimon.
 
-Je suis un créateur de jeux,
-et un ingénieur en développement logiciel.
+Je suis créateur de jeux,
+et ingénieur en développement logiciel.
 
 Je vis dans la commune de Champtocé-sur-Loire
-et je travaille dans la région entre Angers et Nantes, actuellement pour [SNCF Connect](https://www.sncf-connect.com/).
+et travaille dans la région entre Angers et Nantes, actuellement pour [SNCF Connect](https://www.sncf-connect.com/).
 
 J'ai mis en place ce blog pour partager des découvertes en tout genre,
 des réflexions, des émotions, et certaines de mes créations.

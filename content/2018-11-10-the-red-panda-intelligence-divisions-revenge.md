@@ -6,7 +6,7 @@ Slug: the-red-panda-intelligence-divisions-revenge
 
 Cette après-midi j'ai eu l'occasion de tester avec trois amis ce micro-JdR d'une page de Manuel Bedouet.
 
-Publié il y a un peu plus d'un an sur [le site du studio GOBZ'INK](http://www.shamzam.net/blog/2017/09/format-court-des-jeux-pour-jouer-tout-de-suite/),
+Publié il y a un peu plus d'un an sur [le site du studio GOBZ'INK](http://www.shamzam.net/blog/2017/09/format-court-des-jeux-pour-jouer-tout-de-suite/) (et encore disponible aujourd'hui [sur troplongpaslu.fr](https://troplongpaslu.fr/jeux-de-role-court/the-red-panda-intelligence-divisions-revenge/)),
 ce jeu vous met dans la peau de... **Pandas Roux Ninjas de l'Espace**.
 Capturés sur Terre, vous vous réveillez dans un sous-sol à Las Vegas,
 avec l'intention de retrouver et faire payer les responsables.
