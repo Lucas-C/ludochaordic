@@ -1155,7 +1155,7 @@ Generators that produces character illustrations that have not been placed under
 - [Font Library](https://fontlibrary.org)
 - [Urban Fonts](https://www.urbanfonts.com)
 - [DaFonts](https://www.dafont.com) : with filters "Public domain / GPL / OFL" + "100% Free"
-- [Use & Modify](https://usemodify.com/) :
+- [Use & Modify](https://usemodify.com/) - Keywords: [code](https://usemodify.com/keywords/code/), [pixel](https://usemodify.com/keywords/pixel/), [script](https://usemodify.com/keywords/script/), etc.
 > selection of beautiful, classy, punk, professional, incomplete, weird typefaces.
 > Open source licenses make them free to use and modify.
 - Specific ones:
@@ -1194,10 +1194,18 @@ Generators that produces character illustrations that have not been placed under
     * [Lavender Rainstorm](https://fr.ffonts.net/Lavender-Rainstorm.font) : small raining clouds over all characters, public domain
     * [Kill The Noise](https://www.dafont.com/kill-the-noise.font), free for all use
     * [Outrun Future](https://www.dafont.com/outrun-future.font) : $40 for a commercial license
-    * [Ninjos](https://www.dafont.com/ninjos.font)
-    * [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756)
-    * [Treasure Map Deadhand](https://www.fontspace.com/treasure-map-deadhand-font-f4241)
-    * [Buffied](https://www.fontspace.com/buffied-font-f4051)
+    * [Ninjos](https://www.dafont.com/ninjos.font) : free for personal and commercial use
+    * [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756) : for personal and commercial use
+    * [Treasure Map Deadhand](https://www.fontspace.com/treasure-map-deadhand-font-f4241) : freeware
+    * [Buffied](https://www.fontspace.com/buffied-font-f4051) : freeware
+    * [Sketch Gothic School](https://www.dafont.com/sketch-gothic-school.font)
+    * [BlackFlag](https://www.dafont.com/blackflag.font) : free only for personal use
+    * [The Centurion](https://www.dafont.com/the-centurion.font) : free only for personal use
+    * [Ithornët](https://www.dafont.com/ithornet.font) : free only for personal use
+    * [Belion Radego](https://www.fontspace.com/belion-radego-font-f130432) : free only for personal use
+    * [Secrilka](https://www.fontspace.com/secrilka-font-f130492) : free only for personal use
+    * [Woodgod](https://www.fontspace.com/woodgod-font-f100077) : free only for personal use
+    * [Feather](https://www.fontspace.com/feather-font-f142436) : free only for personal use
 - <https://github.com/ianhan/BitmapFonts> & <http://robhagemans.github.io/monobit/>
 
 <!-- Music & sound
