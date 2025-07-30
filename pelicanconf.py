@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import logging, os
+from datetime import datetime
+from pytz import timezone
 from os.path import dirname, join
 
 logging.root.setLevel(logging.INFO)
@@ -44,6 +46,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2025-07-24', 'img_url': 'images/readings/Koko-n-aime-pas-le-capitalisme.jpg', 'description': "Koko n'aime pas le capitalisme à la plage - Tienstiens (BD)"},
     {'date': '2025-04-14', 'img_url': 'images/readings/bea-wolf.png', 'description': 'Béa Wolf - Boulet (BD)'},
     {'date': '2025-03-03', 'img_url': 'images/readings/LeRoyaumeAuxMilleReformes.jpg', 'description': 'Le Royaume aux Mille Réformes - Emile Bertier & Yann Girard (BD dont vous êtes le héro)'},
     {'date': '2025-01-01', 'img_url': 'images/readings/CassandraDrake.jpg', 'description': 'Cassandra Drake - Posy Simmonds (BD)'},
@@ -236,6 +239,99 @@ SUPPORTS = (('La Topette', 'https://latopette.fr/', 'images/LaTopette.png', 'Abo
             ('Webmention', 'https://indieweb.org/Webmention', 'images/webmention-button.svg', 'Ce site adhère au standard Webmention'),
             ('Low-tech', 'https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html', 'images/low-tech.svg', 'Ce site adhère à la philosophie low-tech'))
 
+TIMEZONE = 'Europe/Paris'
+DEFAULT_LANG = 'fr'
+# LOCALE = 'fr_FR.utf8'  # impacts date format; must be installed with sudo dpkg-reconfigure locales
+
+PATH = './content'
+OUTPUT_PATH = './output'
+
+# Do not include {lang} in page URLs:
+ARTICLE_LANG_SAVE_AS       = '{slug}.html'
+ARTICLE_LANG_URL           = '{slug}.html'
+DRAFT_LANG_SAVE_AS         = 'drafts/{slug}.html'
+DRAFT_LANG_URL             = 'drafts/{slug}.html'
+PAGE_LANG_SAVE_AS          = 'pages/{slug}.html'
+PAGE_LANG_URL              = 'pages/{slug}.html'
+DRAFT_PAGE_LANG_SAVE_AS    = 'drafts/pages/{slug}.html'
+DRAFT_PAGE_LANG_URL        = 'drafts/pages/{slug}.html'
+
+CATEGORY_SAVE_AS = ''
+ARCHIVE_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+
+CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+
+IGNORE_FILES = ['github-project-statistics-and-python-interactive-coding', 'github-stats.html']
+
+MARKDOWN = {
+    'extensions': ['mdx_include'],
+    'extension_configs': {
+        'mdx_include': {
+            'base_path': 'content/'
+        },
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.tables': {},
+    },
+    'output_format': 'html5',
+}
+
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ('ctags_generator', 'deadlinks', 'representative_image', 'image_preview_thumbnailer') #, 'w3c_validate')
+
+# Settings specific to the plugins:
+DEADLINK_VALIDATION = False  # à activer de temps en temps via "invoke build" inclus quelques faux positifs
+DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings
+
+# logging.getLogger('pelican.plugins.image_process.image_process').setLevel(logging.DEBUG)
+IMAGE_PROCESS = {
+    'thumb': ['scale_out 300 300 False'],
+}
+
+LINKBACKS_CACHEPATH = os.environ.get('LINKBACKS_CACHEPATH')
+
+THEME = '../pelican-mg'
+DIRECT_TEMPLATES = ('index', 'tagcloud', 'past_readings')
+DEFAULT_PAGINATION = False
+
+# Settings specific to the theme:
+ISSO_BASE_URL = '/lucas/isso'
+ISSO_REQUIRE_AUTHOR = True
+ENABLE_COMMENTS_ON_PAGES = True
+
+SITEMAP_URL = './sitemap.xml'
+PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
+WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
+WEBMENTION_IO_API_KEY = '_nitaHZFJP92imjlL6OlGQ'
+
+# microformats info for h-card:
+COUNTRY = 'France'
+LOCALITY = 'Saint-Mathurin-sur-Loire'
+SHORT_BIO = 'Software engineer. Tabletop RPG writer. Love libre software, and especially Python 🐍. Currently working for oui.sncf @Nantes'
+
+# "Open Graph tags do not acknowledge <base>, and should always have full absolute URLs" - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+META_IMAGE = 'https://chezsoi.org/lucas/blog/images/Tom_Brown_Mathematics_CC-by-2-0_800x534.jpg'
+EXTRA_ATOM_FEED = {
+    'name': 'Shaarli',
+    'url': 'https://chezsoi.org/shaarli/?do=atom'
+}
+
+TAG_CLOUD_STEPS = 6
+TAG_CLOUD_SORTING = 'alphabetically'
+TAG_CLOUD_BADGE = True
+
+MG_NO_EXCERPT = True
+MG_DISABLE_SUMMARY = True
+MG_FILTER_TAGS = ('jeux', 'maths', 'prog')
+MG_LANG_FILTER_TAGS = ['fr', 'en']  # 'lang:'-prefixed tags
+MG_WEBSITE_AGE = 'Ce blog a %d ans.'
+JINJA_GLOBALS = { 'now': datetime.now(tz=timezone(TIMEZONE)) }
+
 MG_JOKES = (
     ("Pourquoi les canards sont toujours à l'heure ?", "Parce qu’ils sont dans l’étang."),
     ("Que fait une fraise sur un cheval ?", "Tagada Tagada."),
@@ -256,96 +352,6 @@ MG_JOKES = (
     ("Pourquoi dit-on que les Bretons sont tous frères et sœurs ?", "Parce qu’ils ont Quimper"),
     ("Pourquoi est-ce que les livres ont-ils toujours chaud ?", "Parce qu’ils ont une couverture"),
 )
-
-TIMEZONE = 'Europe/Paris'
-DEFAULT_LANG = 'fr'
-# LOCALE = 'fr_FR.utf8'  # impacts date format; must be installed with sudo dpkg-reconfigure locales
-
-SITEMAP_URL = './sitemap.xml'
-PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
-WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
-
-# "Open Graph tags do not acknowledge <base>, and should always have full absolute URLs" - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-META_IMAGE = 'https://chezsoi.org/lucas/blog/images/Tom_Brown_Mathematics_CC-by-2-0_800x534.jpg'
-
-# microformats info for h-card:
-COUNTRY = 'France'
-LOCALITY = 'Saint-Mathurin-sur-Loire'
-SHORT_BIO = 'Software engineer. Tabletop RPG writer. Love libre software, and especially Python 🐍. Currently working for oui.sncf @Nantes'
-
-PATH = './content'
-OUTPUT_PATH = './output'
-
-MARKDOWN = {
-    'extensions': ['mdx_include'],
-    'extension_configs': {
-        'mdx_include': {
-            'base_path': 'content/'
-        },
-        'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
-        'markdown.extensions.tables': {},
-    },
-    'output_format': 'html5',
-}
-
-PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'deadlinks', 'representative_image', 'image_preview_thumbnailer') #, 'w3c_validate')
-
-
-DEADLINK_VALIDATION = False  # à activer de temps en temps via "invoke build" inclus quelques faux positifs
-DEADLINK_OPTS = {}           # cf. https://github.com/silentlamb/pelican-deadlinks#settings
-
-# logging.getLogger('pelican.plugins.image_process.image_process').setLevel(logging.DEBUG)
-IMAGE_PROCESS = {
-    'thumb': ['scale_out 300 300 False'],
-}
-
-LINKBACKS_CACHEPATH = os.environ.get('LINKBACKS_CACHEPATH')
-
-THEME = '../pelican-mg'
-DIRECT_TEMPLATES = ('index', 'tagcloud', 'past_readings')
-DEFAULT_PAGINATION = False
-
-ISSO_BASE_URL = '/lucas/isso'
-ISSO_REQUIRE_AUTHOR = True
-ENABLE_COMMENTS_ON_PAGES = True
-WEBMENTION_IO_API_KEY = '_nitaHZFJP92imjlL6OlGQ'
-
-TAG_CLOUD_STEPS = 6
-TAG_CLOUD_SORTING = 'alphabetically'
-TAG_CLOUD_BADGE = True
-
-MG_NO_EXCERPT = True
-MG_DISABLE_SUMMARY = True
-MG_FILTER_TAGS = ('jeux', 'maths', 'prog')
-MG_LANG_FILTER_TAGS = ['fr', 'en']  # 'lang:'-prefixed tags
-
-# Do not include {lang} in page URLs:
-ARTICLE_LANG_SAVE_AS       = '{slug}.html'
-ARTICLE_LANG_URL           = '{slug}.html'
-DRAFT_LANG_SAVE_AS         = 'drafts/{slug}.html'
-DRAFT_LANG_URL             = 'drafts/{slug}.html'
-PAGE_LANG_SAVE_AS          = 'pages/{slug}.html'
-PAGE_LANG_URL              = 'pages/{slug}.html'
-DRAFT_PAGE_LANG_SAVE_AS    = 'drafts/pages/{slug}.html'
-DRAFT_PAGE_LANG_URL        = 'drafts/pages/{slug}.html'
-
-CATEGORY_SAVE_AS = ''
-ARCHIVE_SAVE_AS = ''
-AUTHOR_SAVE_AS = ''
-
-CATEGORY_FEED_ATOM = None
-CATEGORY_FEED_RSS = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-EXTRA_ATOM_FEED = {
-    'name': 'Shaarli',
-    'url': 'https://chezsoi.org/shaarli/?do=atom'
-}
-
-IGNORE_FILES = ['github-project-statistics-and-python-interactive-coding', 'github-stats.html']
 
 
 #######################################
