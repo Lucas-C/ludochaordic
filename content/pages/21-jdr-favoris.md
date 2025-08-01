@@ -25,9 +25,9 @@ je vous recommande la lecture de cet article : [Quelques suggestions pour début
         <dt>Prix</dt><dd>15€</dd>
       </dl>
       <ul>
-        <li><a href="https://chezsoi.org/lucas/jdr/psirun/CR_2016-12-18.html">Résumé de partie &amp; avis</a></li>
+        <li><a href="https://chezsoi.org/lucas/blog/tag/psirun.html">Tous les articles de ce blog sur ce jeu</a></li>
         <li><a href="https://electric-goat.net/products/1">Site de l'éditeur français</a></li>
-        <li><a href="http://nightskygames.com/welcome/game/PsiRun">Site officiel, anglais</a></li>
+        <li><a href="https://lumpley.itch.io/psirun">Page itch.io officielle du jeu en anglais</a></li>
       </ul>
       <blockquote>
         Ils ont pris votre vie.

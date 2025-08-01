@@ -20,3 +20,5 @@ Et très axé narration collective. Parfait pour improviser un [One-Shot](/lucas
 Chapeau à son auteur, [Meguey Baker](http://nightskygames.com/welcome/game/PsiRun), et merci à Alexis Lamiable pour [la VF](https://electric-goat.net/products/1).
 
 Et pour un autre avis sur ce jeu, je vous conseille l'[article de Grégory Pogorzelski](http://awarestudios.blogspot.com/2014/12/psi-run.html).
+
+[> tous les articles de ce blog à propos de Psi*Run <](/lucas/blog/tag/psirun.html)

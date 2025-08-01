@@ -46,6 +46,8 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    # {'date': '2025-07-31', 'img_url': 'images/readings/DePereEnFIV.jpg', 'description': "De père en FIV -  William Roy (BD)"},
+    {'date': '2025-07-30', 'img_url': 'images/readings/DansLesAmesEtDansLesUrnes.webp', 'description': "Dans les âmes et les urnes - Vincent Jarousseau (essai)"},
     {'date': '2025-07-24', 'img_url': 'images/readings/Koko-n-aime-pas-le-capitalisme.jpg', 'description': "Koko n'aime pas le capitalisme à la plage - Tienstiens (BD)"},
     {'date': '2025-04-14', 'img_url': 'images/readings/bea-wolf.png', 'description': 'Béa Wolf - Boulet (BD)'},
     {'date': '2025-03-03', 'img_url': 'images/readings/LeRoyaumeAuxMilleReformes.jpg', 'description': 'Le Royaume aux Mille Réformes - Emile Bertier & Yann Girard (BD dont vous êtes le héro)'},
