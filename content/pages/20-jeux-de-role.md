@@ -20,6 +20,30 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Psi*Run - Scénarios & règles additionnelles</h2>
+    <img class="uk-align-center" src="images/jdr/PsiRun-Implacables-page-2.png" alt="Page 3 du scénario Implacables pour Psi*Run">
+    <div class="uk-thumbnail-caption">
+      <p><u><b>Scénario Implacables :</b></u></p>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/psirun-implacables">Implacables - en français (sur itch.io)</a></li>
+        <li><a href="https://lucas-c.itch.io/psirun-the-restless">The Restless - in English (on itch.io)</a></li>
+        <li><a href="psirun-implacables-regles-additionnelles.html">Article de blog de présentation</a></li>
+      </ul>
+      <p><u><b>Scénario Le Manoir :</b></u></p>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/psirun-le-manoir">Le Manoir - en français (sur itch.io)</a></li>
+        <li><a href="https://lucas-c.itch.io/psirun-the-manor">The Manor - in English (on itch.io)</a></li>
+        <li><a href="psirun-le-manoir.html">Article de blog de présentation</a></li>
+      </ul>
+      <p><u><b>Règles additionnelles :</b></u></p>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/psirun-regles-additionnelles">En français (sur itch.io)</a></li>
+        <li><a href="https://lucas-c.itch.io/psirun-extra-rules">In English (on itch.io)</a></li>
+        <li><a href="psirun-implacables-regles-additionnelles.html">Article de blog de présentation</a></li>
+      </ul>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Paradis Perdu - Modules de secours</h2>
     <img class="uk-align-center" src="images/2024/09/ModulesDeSecours-covers.jpg" alt="Couverture de l'aide jeu Modules de secours pour le jeu Paradis Perdu">
     <div class="uk-thumbnail-caption">
@@ -30,7 +54,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
       </dl>
       <ul>
         <li><a href="https://lucas-c.itch.io/modules-de-secours">Paradis Perdu - Modules de secours (sur itch.io)</a></li>
-        <li><a href="modules-de-secours.html">Article de présentation</a></li>
+        <li><a href="modules-de-secours.html">Article de blog de présentation</a></li>
       </ul>
       <p><u><b>Contenu :</b></u></p>
       <ul>
@@ -56,7 +80,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
       </dl>
       <ul>
         <li><a href="https://lucas-c.itch.io/blades-in-the-dark-interrogatoires">Blades in the Dark - Interrogatoires (sur itch.io)</a></li>
-        <li><a href="blades-in-the-dark-interrogatoires.html">Article de présentation</a></li>
+        <li><a href="blades-in-the-dark-interrogatoires.html">Article de blog de présentation</a></li>
       </ul>
       <blockquote>
         Une aide de jeu pour introduire des scènes d'interrogatoires dans vos parties de jeux de rôles.
@@ -76,7 +100,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
       </dl>
       <ul>
         <li><a href="https://lucas-c.itch.io/sombre-lab-escape">Sombre : Lab Escape (sur itch.io)</a></li>
-        <li><a href="sombre-lab-escape.html">Article de présentation</a></li>
+        <li><a href="sombre-lab-escape.html">Article de blog de présentation</a></li>
       </ul>
       <blockquote>
         Un scénario dans un laboratoire envahi de zombies, avec une part d'exploration, les lieux étant progressivement révélés aux joueurs.
@@ -120,7 +144,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
       </dl>
       <ul>
         <li><a href="https://chezsoi.org/s/LesNonMortsv10directPDFdownload">Les Non-morts (PDF, 1,3 Mo)</a></li>
-        <li><a href="les-non-morts.html">Article de présentation</a></li>
+        <li><a href="les-non-morts.html">Article de blog de présentation</a></li>
         <li><a href="https://lucas-c.itch.io/les-non-morts">Les Non-Morts sur itch.io</a></li>
       </ul>
       <blockquote>
@@ -172,7 +196,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
         <li><a href="https://chezsoi.org/s/DungeonHeartBW16DirectPDFdownload">Traduction française du jeu (PDF)</a></li>
         <li>L'extension <em>Heroes &amp; Spells</em> en français : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload">PDF</a></li>
         <li>The expansion <em>Heroes &amp; Spells</em> in English : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16ENDirectPDFdownload">PDF</a></li>
-        <li><a href="dungeon-heart-heroes-and-spells.html">Article de présentation</a></li>
+        <li><a href="dungeon-heart-heroes-and-spells.html">Article de blog de présentation</a></li>
       </ul>
       <blockquote>Incarnez les gardiens d’un donjon défendant leur demeure contre de méchants aventuriers.</blockquote>
     </div>
@@ -260,7 +284,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
         <dt>Durée</dt><dd>4h à 6h</dd>
       </dl>
       <ul>
-        <li><a href="avgd-nouvelle-mouture.html">Article de présentation</a></li>
+        <li><a href="avgd-nouvelle-mouture.html">Article de blog de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/gdav/">Version web</a></li>
         <li><a href="https://chezsoi.org/s/GDAVPDFDownload">Version PDF</a></li>
         <li><a href="https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites">Amères Victoires et Glorieuses Défaites sur itch.io</a></li>
@@ -280,7 +304,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
         <dt>Durée</dt><dd>environ 2 heures</dd>
       </dl>
       <ul>
-        <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de présentation</a></li>
+        <li><a href="la-tour-et-cheat-your-own-adventure.html">Article de blog de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/latour/">Version web</a></li>
         <li><a href="https://chezsoi.org/s/LaTourPDFDownload">Version PDF</a></li>
       </ul>
@@ -298,7 +322,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
         <dt>Pour</dt><dd>1 MJ + 2 à 4 joueurs</dd>
       </dl>
       <ul>
-        <li><a href="scavengers-anomalies-nauchoresques.html">Article de présentation</a></li>
+        <li><a href="scavengers-anomalies-nauchoresques.html">Article de blog de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/scavengers/">Version web</a></li>
         <li><a href="https://chezsoi.org/s/ScavengersPDFDOwnload">Version PDF</a></li>
       </ul>

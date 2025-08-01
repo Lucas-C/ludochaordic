@@ -14,7 +14,7 @@ Le jeu a été traduit & édité en français par [ElectricGoat](https://electri
 
 À l'automne dernier j'ai été inspiré pour créer une amorce de scénario pour Psi\*Run,
 comme je l'avais déjà fait [il y a 3 ans avec _Le Manoir_](https://chezsoi.org/lucas/blog/psirun-le-manoir.html).
-Mais cette fois, je me suis inspiré de la série _The Boys_.
+Mais cette fois, je me suis inspiré de la série _The Boys_, et j'ai eu l'occasion de le faire jouer tout récemment.
 
 _The Boys_ est un comics de Garth Ennis, adapté en série TV sur 5 saisons :
 
@@ -62,6 +62,8 @@ Vous pouvez retrouver ce scénario sur `itch.io` :
   </a>
 </div>
 
+Un grand merci à Olivier & Matthieu pour leurs précieux retours de _playtest_.
+
 ⚠️ Bien sûr, je ne saurais trop vous encourager à **prendre vos précautions** :
 
 * pour de nombreux joueur·euses, incarner des personnages ayant commis des atrocités par le passé **n'est pas OK du tout**. Comme une part de l'intérêt du scénario repose sur la surprise de cette découverte, **redoublez de prévoyance**.
@@ -102,6 +104,12 @@ laissez-moi un commentaire ci-dessous pour me faire votre retour !
 
 Bon jeu 😊
 
+**EDIT** : je viens de découvrir quelques autres ressources sympas pour Psi*Run :
+
++ [Summer*Run](https://ragondux.itch.io/summer-run), un hack où l'on joue des enfants pendant les grandes vacances
++ le générateur de Fugitif de l'éditeur français du jeu, ElectricGoat : [Personnage aléatoire](https://electric-goat.net/toolbox/psirun/character)
++ [le tag itch.io #psirun](https://itch.io/physical-games/tag-psirun), qui liste plein d'aides de jeu
+
 <style>
 .side-by-side {
   display: flex;
@@ -109,22 +117,22 @@ Bon jeu 😊
   align-items: center;
   flex-flow: wrap;
 }
+.side-by-side > * { margin: 1rem; }
 @media (min-width:768px) {
   .side-by-side > * {
     display: block;
-    margin: 1rem;
     max-width: 45%;
   }
 }
 </style>
 
 <!-- Com'
-* [x] https://lucas-c.itch.io
-* [ ] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
-* [ ] Email Matt & Olivier & Francis
-* [ ] https://electric-goat.net
-* [ ] Discord Electric Goat
-* [ ] https://www.scenariotheque.org
-* [ ] https://lumpley.itch.io/psirun
-* [ ] https://www.casusno.fr
+* [x] https://lucas-c.itch.io : page dédiée + liens depuis autres pages Psi*Run
+* [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
+* [x] Email Matt & Olivier & Aurélien & Francis
+* [x] Discord Electric Goat
+* [x] comment on https://lumpley.itch.io/psirun
+* [x] https://www.scenariotheque.org
+* [x] https://www.casusno.fr/viewtopic.php?p=2281279#p2281279
+* [x] https://rpggeek.com/thread/3551731/article/46409338
 -->

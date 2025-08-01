@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import logging, os
-from datetime import datetime
-from pytz import timezone
 from os.path import dirname, join
 
 logging.root.setLevel(logging.INFO)
@@ -36,6 +34,8 @@ Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.
 <small><em>(you can selectively display English articles by clicking <a href="?lang=en">the LANG button above</a>)</em></small>
 <br>
 <small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les ! </em>😉<em>)</em></small>
+<br>
+Ce blog a %(years)d ans et contient %(articles_count)d articles.
 '''
 
 EXTRA_PAGE_LINKS = (
@@ -46,7 +46,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
-    # {'date': '2025-07-31', 'img_url': 'images/readings/DePereEnFIV.jpg', 'description': "De père en FIV -  William Roy (BD)"},
+    {'date': '2025-08-01', 'img_url': 'images/readings/DePereEnFIV.jpg', 'description': "De père en FIV -  William Roy (BD)"},
     {'date': '2025-07-30', 'img_url': 'images/readings/DansLesAmesEtDansLesUrnes.webp', 'description': "Dans les âmes et les urnes - Vincent Jarousseau (essai)"},
     {'date': '2025-07-24', 'img_url': 'images/readings/Koko-n-aime-pas-le-capitalisme.jpg', 'description': "Koko n'aime pas le capitalisme à la plage - Tienstiens (BD)"},
     {'date': '2025-04-14', 'img_url': 'images/readings/bea-wolf.png', 'description': 'Béa Wolf - Boulet (BD)'},
@@ -331,8 +331,6 @@ MG_NO_EXCERPT = True
 MG_DISABLE_SUMMARY = True
 MG_FILTER_TAGS = ('jeux', 'maths', 'prog')
 MG_LANG_FILTER_TAGS = ['fr', 'en']  # 'lang:'-prefixed tags
-MG_WEBSITE_AGE = 'Ce blog a %d ans.'
-JINJA_GLOBALS = { 'now': datetime.now(tz=timezone(TIMEZONE)) }
 
 MG_JOKES = (
     ("Pourquoi les canards sont toujours à l'heure ?", "Parce qu’ils sont dans l’étang."),
