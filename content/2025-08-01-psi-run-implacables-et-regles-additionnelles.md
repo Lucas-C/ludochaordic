@@ -1,7 +1,7 @@
 Title: Psi*Run - Implacables & règles additionnelles
 Date: 2025-08-01 11:15
 Lang: fr
-Tags: lang:fr, lang:en, jdr, psirun, meguey-baker, one-shot, personal-project, creative-commons, prix-libre, mise-en-page, the-boys, securite-emotionnelle, jeux
+Tags: lang:fr, lang:en, jdr, psirun, meguey-baker, one-shot, personal-project, creative-commons, prix-libre, mise-en-page, the-boys, securite-emotionnelle, PTGPTB, jeux
 ---
 ![](images/2025/08/PsiRun-cover.jpg)
 
