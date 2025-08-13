@@ -69,6 +69,9 @@ Si vous me connaissez, n'hésitez pas à me proposer d'attaquer ensemble un prob
 
 <h2 id="tagcloud">Tag cloud</h2>
 
+J'emploi des _tags_ pour classifier mes articles.
+Je fais de même avec les liens que je partage sur mon instance Shaarli, vous pouvez les retrouver ici : [_tag cloud_ Shaarli](https://chezsoi.org/shaarli/tags/cloud).
+
 <!-- tagcloud -->
 
 
