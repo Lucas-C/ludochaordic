@@ -23,7 +23,7 @@ ou encore [Into The Dark](http://livresdelours.blogspot.com/search/label/Into%20
 Elle est :
 
 - [disponible en ligne ici](https://lucas-c.github.io/jdr/scavengers/)
-- [ainsi qu'en PDF là](https://chezsoi.org/s/ScavengersPDFDOwnload)
+- [ainsi qu'en PDF là](https://chezsoi.org/s/ScavengersPDFDownload)
 
 Cette aide de jeu contient:
 

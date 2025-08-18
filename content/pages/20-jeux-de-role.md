@@ -324,7 +324,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
       <ul>
         <li><a href="scavengers-anomalies-nauchoresques.html">Article de blog de présentation</a></li>
         <li><a href="https://lucas-c.github.io/jdr/scavengers/">Version web</a></li>
-        <li><a href="https://chezsoi.org/s/ScavengersPDFDOwnload">Version PDF</a></li>
+        <li><a href="https://chezsoi.org/s/ScavengersPDFDownload">Version PDF</a></li>
       </ul>
       <blockquote>Dans <strong>Scavengers</strong> vous jouez un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
         et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.</blockquote>

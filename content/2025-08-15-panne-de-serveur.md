@@ -1,7 +1,7 @@
 Title: Panne de serveur
 Date: 2025-08-15 16:00
 Lang: fr
-Tags: lang:fr, backup, caddy, nginx, ansible, infomaniak, lxc, scaleway, ubuntu, prog
+Tags: lang:fr, backup, caddy, nginx, ansible, infomaniak, lxc, scaleway, ubuntu, SelfHosted, prog
 ---
 
 Avant-hier matin, mercredi 13 août, suite à une mise à jour vers Ubuntu 22 de mon serveur, j'ai eu la mauvaise surprise de ne pas le voir redémarrer...

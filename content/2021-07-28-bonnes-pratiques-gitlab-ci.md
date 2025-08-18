@@ -1,6 +1,6 @@
 Title: Bonnes pratiques Gitlab CI
 Date: 2021-07-28 22:00
-Tags: lang:fr, oui.sncf, usine-logicielle, gitlab-ci, git, continuous-integration, best-practices, performances, security, dependency-confusion, cache, secrets, dependencies, renovate, sonar, java, maven, python, pip, pip-compile, nodejs, npm, docker, prog
+Tags: lang:fr, oui.sncf, usine-logicielle, gitlab-ci, git, continuous-integration, best-practices, performances, security, dependency-confusion, cache, secrets, dependencies, renovate, sonar, java, maven, python, pip, pip-compile, nodejs, npm, docker, SelfHosted, prog
 Slug: bonnes-pratiques-gitlab-ci
 ---
 
