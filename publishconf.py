@@ -19,6 +19,6 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
 # This plugin is called manually:
 PLUGINS = tuple(p for p in PLUGINS if p != 'image_preview_thumbnailer')
-PLUGINS += ('linkbacks', 'pelican.plugins.sitemap', 'tag_cloud')  # 'shaarli_poster' - Disabled for now
+PLUGINS += ('linkbacks', 'pelican.plugins.sitemap', 'tag_cloud', 'shaarli_poster')
 
 DEADLINK_VALIDATION = False

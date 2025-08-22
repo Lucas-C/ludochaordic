@@ -1,7 +1,7 @@
 Title: The Old Electronic Eldorado
 Date: 2025-08-22 16:30
 Lang: fr
-Tags: lang:fr, musique, electro, synthpop, science-fiction, blade-runner, tron, neo-noir
+Tags: lang:fr, music, electro, synthpop, fip, science-fiction, neo-noir, tron, blade-runner, Angers
 ---
 Je parle rarement de musique sur ce blog,
 mais cette fois j'avais envie de vous parler de mon dernier coup de cœur ❤️
@@ -17,7 +17,7 @@ Le trailer vidéo posait déjà une ambiance assez mystérieuse, qui m'avait bie
 
 Il y a un grain, une pâte, qui m'a évoqué les années 70, les univers post-apo, et même le film Zardoz (je ne sais pas trop pourquoi).
 
-J'ai découvert l'artiste, **eyeto8**, tout récemment, à l'occasion d'une réunion de famille.
+J'ai découvert cet artiste angevin, **eyeto8**, tout récemment, à l'occasion d'une réunion de famille.
 Un article assez élogieux lui a déjà été consacré dans le magazine _Beware!_ :
 [Eyeto8, le prodige de la synthpop](https://www.bewaremag.com/eyeto8/).
 
