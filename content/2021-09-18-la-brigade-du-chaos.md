@@ -50,6 +50,12 @@ Voici donc **Freiberg, nid d'espions**:
 
 Merci à Aurélien, Henri, Loic & Thomas pour les parties de test !
 
+---
+
+**EDIT [24 août 2025]** : vous aimez incarner des gobelins ?
+Peut-être aimeriez jouer des gobelins **pilotant un robot géant** ?
+Jetez alors un œil à [**Gobs Death Robot**](gobs-death-robot.html) !
+
 <style>
 article img { width: 30rem; }
 img.comic-strip { max-height: none; max-width: 100%; }
