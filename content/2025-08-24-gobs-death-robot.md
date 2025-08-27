@@ -1,5 +1,5 @@
 Title: Gobs Death Robot
-Date: 2025-08-24 10:00
+Date: 2025-08-24 10:50
 Tags: lang:fr, jdr, gratuit, compte-rendu, pbta, creative-commons, gamedesign, playtest, opinion, ptgptb, mecaniques-de-jeu, mise-en-page, one-shot, zero-prep, tolkraft, defi-3ff, les-arts-ludiques, jeux, @Olivier
 ---
 Hier, j'ai eu l'occasion de tester le jeu [Gobs Death Robot](https://dendrobat.fr/gobs-death-robot-3ff9-2024),

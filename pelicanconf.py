@@ -46,6 +46,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2025-08-26', 'img_url': 'images/readings/basketful-of-heads.jpg', 'description': 'Basketful of Heads - Joe Hill - Leomacs (comics)'},
     {'date': '2025-08-05', 'img_url': 'images/readings/hyperion.jpg', 'description': 'Hyperion - Dan Simmons (roman)'},
     {'date': '2025-08-01', 'img_url': 'images/readings/DePereEnFIV.jpg', 'description': 'De père en FIV - William Roy (BD)'},
     {'date': '2025-07-30', 'img_url': 'images/readings/DansLesAmesEtDansLesUrnes.webp', 'description': 'Dans les âmes et les urnes - Vincent Jarousseau (essai)'},
