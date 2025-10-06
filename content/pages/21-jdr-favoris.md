@@ -308,13 +308,12 @@ je vous recommande la lecture de cet article : [Quelques suggestions pour début
 </div>
 
 Je souhaitais faire une courte sélection ici, mais j'aurais pu en citer bien d'autres ! :
+Sur la Route (_For the Story_) de Nicolas Le Vif,
+[Alice is missing](https://chezsoi.org/lucas/blog/alice-is-missing.html),
 [La Brigade du Chaos](https://chezsoi.org/lucas/blog/la-brigade-du-chaos.html),
 [Run Die Repeat](https://chezsoi.org/lucas/blog/run-die-repeat.html),
-[Tel Ulysse](https://chezsoi.org/lucas/blog/tel-ulysse.html),
 [Dungeon Hearts](https://chezsoi.org/lucas/blog/dungeon-heart-heroes-and-spells.html),
-[Genius Loci](https://chezsoi.org/lucas/blog/genie-domestique.html),
-[L'île mystérieuse](https://chezsoi.org/lucas/blog/ldcslg-et-l-ile-mysterieuse.html),
-[Cheat Your Own Adventure](https://chezsoi.org/lucas/blog/la-tour-et-cheat-your-own-adventure.html)...
+...
 
 ---
 

@@ -10,7 +10,7 @@ J'en propose une traduction en français dans [la section _jeux de rôle_ de ce 
 
 [![Tableau Nighthawks de Edward Hopper](images/2019/04/Nighthawks_by_Edward_Hopper_1942.jpg)](https://en.wikipedia.org/wiki/Nighthawks)
 
-Ce jeu très court - la partie a duré a peine plus d'une demi-heure - a pour particularité
+Ce jeu très court - la partie a duré à peine plus d'une demi-heure - a pour particularité
 d'être prévu pour joué au fur et à mesure qu'il est lu.
 L'auteur recommande expressément de ne pas le lire en entier au préalable,
 mais de le découvrir au fur et mesure des 5 étapes qui le compose.

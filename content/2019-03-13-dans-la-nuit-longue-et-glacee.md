@@ -69,9 +69,10 @@ lorsqu'il prend trop son temps, les autres joueurs peuvent poser devant lui un s
 faim, froid, déprime ou blessure.
 S'il n'arrive pas à améliorer cette condition avant qu'il soit écoulé, un jeton est déplacé dessus.
 
-![Hourglass](images/2019/03/hourglass.png)
+<img class="hourglass" alt="Hourglass" src="images/2019/03/hourglass.png">
 
 <style>
 img { width: 40rem; }
 p > img { max-height: 10rem; }
+.hourglass { width: 5rem; }
 </style>
