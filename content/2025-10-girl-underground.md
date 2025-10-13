@@ -20,6 +20,12 @@ Je l'ai découvert via le blog _C'est pas du Jeu de Rôle_ de Matthieu B : [Une 
 
 J'étais très enthousiaste pour tester ce jeu, et je me suis donc motivé à traduire les livrets des personnages en français :
 
++ avis
+    * même sentiment que pour [Gobs Death Robot](https://chezsoi.org/lucas/blog/gobs-death-robot.html) testé récemment : lorsqu'on a pas un seul personnage à incarner, c'est difficile... Durant la partie les joueurs se sont moins impliqués dans l'interprêtation de la Jeune Fille que dans celle leur propre Compagnon.
+    * comme la Jeune Fille a assez peu de manœuvres à sa disposition, les bonus conférés par ses Compagnons sont finalement assez peu utiles
+
++ meme "Pêche-Prune indépendante" avec poing serré
+
 <div class="side-by-side">
   <figure>
     <img class="miniature" alt="Dessin de Juliette - Ogre Kruk" src="images/2025/10/GirlUnderground-2025-10-04-DessinJuliette-OgreKruk.jpg">

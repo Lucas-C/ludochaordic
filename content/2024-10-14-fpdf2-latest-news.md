@@ -1,7 +1,7 @@
 Title: fpdf2 latest news
 Date: 2024-10-14 12:30
 Lang: en
-Tags: lang:en, libre-software, open-source, python, library, release, pdf, fpdf2, FastAPI, gunicorn, pygal, harfbuzz, mistletoe, livereload, bezier, hacktoberfest, pypi, retrospective, tutorial, markdown, html, prog
+Tags: lang:en, libre-software, open-source, python, library, release, pdf, fpdf2, FastAPI, gunicorn, pygal, harfbuzz, mistletoe, livereload, bezier, hacktoberfest, pdfly, pypi, retrospective, tutorial, markdown, html, prog
 Image: images/2024/10/MyGodItsFullOfStars.jpg
 ---
 I wrote [my last post on `fpdf2`](tag/fpdf2.html) 18 months ago.
