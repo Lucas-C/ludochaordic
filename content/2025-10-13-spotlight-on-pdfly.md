@@ -2,7 +2,7 @@ Title: Spotlight on pdfly, the Swiss Army knife for PDF files
 Slug: spotlight-on-pdfly
 Date: 2025-10-13 10:30
 Lang: en
-Tags: lang:en, libre-software, open-source, python, library, release, pdf, pdfly, hacktoberfest, pypi, prog
+Tags: lang:en, libre-software, open-source, python, library, release, pdf, pdfly, fpdf2, pypdf, hacktoberfest, pypi, prog
 ---
 ![pdfly logo](images/2025/10/pdfly-logo.png)
 
@@ -47,7 +47,6 @@ $ pdfly meta minimal-document.pdf
 │          Page Mode │                                                          │
 │             PDF ID │ ID1=b'q\x96\xc3\xe3U\xc1|\x9fS\xba\x9a\r\xcap\xcd\xd0'   │
 │                    │ ID2=b'q\x96\xc3\xe3U\xc1|\x9fS\xba\x9a\r\xcap\xcd\xd0'   │
-│ Fonts (embedded) │                                                          │
 │   Fonts (embedded) │ /KNEUFH+CMR10                                            │
 │        Attachments │ []                                                       │
 │             Images │ 0 images (0 bytes)                                       │
@@ -78,9 +77,17 @@ Personally, I think the `pdfly sign` & `check-sign` could become handy to many e
 
 We would also be happy to get your feedbacks, bug reports & feature suggestions! 🙂
 
+**EDIT [2025/10/15]** Wow! This post received quite a lot attention, thank you!
+
+* <https://news.ycombinator.com/item?id=45566139>
+* [![Star History Chart](https://api.star-history.com/svg?repos=py-pdf/pdfly&type=date&legend=top-left)](https://www.star-history.com/#py-pdf/pdfly&type=date&legend=top-left)
+
 <!--
 Com':
+* [x] https://news.ycombinator.com/item?id=45566139
+* [x] https://www.reddit.com/r/hacktoberfest/comments/1o5ei34/thanks_to_hacktoberfest_contributions_we_released/
+* [x] https://python.libhunt.com/u/Lucas-C
+* [x] https://news.humancoders.com/users/15727-lucas-c
 * [ ] https://dev.to/lucasc/
-* [ ] https://news.ycombinator.com/
-* [ ] https://www.reddit.com/r/hacktoberfest/
+* [ ] https://medium.com/@Lucas_C/
 -->

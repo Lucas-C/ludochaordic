@@ -46,3 +46,9 @@ J'étais très enthousiaste pour tester ce jeu, et je me suis donc motivé à tr
 }
 .side-by-side > * { margin: 1rem; }
 </style>
+
+<!--
+
+Lauren McManamon: https://web.archive.org/web/20220310215108/https://www.thestraykiwi.com/
+
+-->
