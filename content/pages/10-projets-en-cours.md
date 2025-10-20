@@ -4,7 +4,7 @@ Tags: lang:fr, jdr, jeux, personal-project, framasoft, ori-mushi, wake3-frag-esc
 
 <!-- TODO : logo Studio Ludochaordic + add it to https://lucas-c.itch.io/ -->
 
-En ce moment, je travaille sur ces projets ludiques :
+En ce moment, fin 2025, je travaille sur ces projets ludiques :
 <br><br>
 
 <div class="uk-grid">
