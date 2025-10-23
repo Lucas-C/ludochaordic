@@ -1,5 +1,5 @@
 Title: Critical Fondation
-Date: 2025-10-20 23:30
+Date: 2025-10-20 23:55
 Tags: lang:fr, jdr, aide-de-jeu, jeux, opinion, enquete, thriller, personal-project, creative-commons, @Noah, @Matthias, @Karine, @Barbara
 ---
 Ce mois-ci, on m'a prêté le jeu de rôle [Critical - Fondation](https://www.gigamic-adds.com/game/critical/foundation), auquel j'ai eu l'occasion de jouer avec quatre copains.
@@ -31,21 +31,21 @@ et tout le monde était ravi !
 
 Voici quelques aides de jeu que j'ai produit durant ma préparation pour faire jouer ce jeu :
 
-<a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-DiagrammeDeLaSaison1.pdf">
+<a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf">
   <figure>
     <img class="thumbnail" alt="PDF preview" src="images/2025/10/DiagrammeDeLaSaison1-Etendu-pdf-thumbnail.jpg">
     <figcaption>Un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts (5 pages - 546 Ko)</figcaption>
   </figure>
 </a>
 
-<a href="https://lucas-c.github.io/jdr/CriticalFondation/Cartes.pdf">
+<a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf">
   <figure>
     <img class="thumbnail" alt="PDF preview" src="images/2025/10/Cartes-pdf-thumbnail.jpg">
     <figcaption>Quelques cartes de jeu supplémentaires (2 pages - 2,3 Mo)</figcaption>
   </figure>
 </a>
 
-<a href="https://lucas-c.github.io/jdr/CriticalFondation/Saison1-Notes.pdf">
+<a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf">
   <figure>
     <img class="thumbnail" alt="PDF preview" src="images/2025/10/Saison1-Notes-pdf-thumbnail.jpg">
     <figcaption>Quelques notes de préparation comme MJ, épisode par épisode (7 pages - 463 Ko)</figcaption>
@@ -69,3 +69,9 @@ article table { border-collapse: collapse; margin: 2rem auto; border-style: hidd
 article table td { width: 50%; }
 article td, article th { border: 2px solid #444; padding: .5rem; }
 </style>
+
+
+<!-- Com'
+* [x] https://www.casusno.fr/viewtopic.php?t=40929&sid=562977418b92d440b4e4e02354d30f1d&start=180
+* [x] Scénariothèque
+-->

@@ -1,7 +1,7 @@
 Title: Dungeon Heart
 Date: 2019-05-27 23:00
 Lang: en
-Tags: lang:fr, lang:en, jdr, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, one-shot, variante, playtest, zero-prep, opinion, gratuit, dungeon-keeper, willy-favre, @Matt, @ThomasG, @Henri, jeux
+Tags: lang:fr, lang:en, jdr, dungeon-heart, monopage, partie-jdr-hebdo, compte-rendu, gamedesign, mecaniques-de-jeu, one-shot, variante, playtest, zero-prep, opinion, gratuit, dungeon-keeper, willy-favre, @Matt, @ThomasG, @Henri, jeux
 Slug: dungeon-heart
 ---
 [![Couverture du jeu](images/2019/05/dungeon-heart.png)](images/2019/05/dungeon-heart.png)
