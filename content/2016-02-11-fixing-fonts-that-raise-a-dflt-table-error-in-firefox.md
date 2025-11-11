@@ -45,4 +45,4 @@ You can now test the output file with `ot-sanitise` : the check should pass !
 
 Now the explanation on what this `sed` voodoo does: it deletes any `<LangSysRecord>` tag under `ttFont > GSUB > ScriptList > ScriptRecord[ScriptTag="DFLT"] > Script` in the `.ttx` file, in order to conform to the spec.
 
-It would be waaay cleaner to this with `xml2` / [`xmlstarlet`](http://xmlstar.sourceforge.net/docs.php) / [any other CLI tool that manipulate XML](//stackoverflow.com/a/91801), but `sed` is very portable and can be found on any Unix system.
+It would be waaay cleaner to do this with `xml2` / [`xmlstarlet`](http://xmlstar.sourceforge.net/docs.php) / [any other CLI tool that manipulate XML](//stackoverflow.com/a/91801), but `sed` is very portable and can be found on any Unix system.

@@ -61,6 +61,7 @@ Cette aide de jeu est diffusée gratuitement.
 Je serais ravi d'avoir vos retours si vous l'employez :
 racontez-moi comment s'est passée votre partie via un commentaire ! 🙂
 
+**EDIT** : il existe une discussion très riche autour de ce jeu sur le forum CasusNO dédié aux jeux de rôle : [CRITICAL FONDATION - Gigamic rimera-t-il avec réussite critique ?](https://www.casusno.fr/viewtopic.php?t=40929)
 
 <style>
 article img.thumbnail { max-height: 20rem; max-width: 20rem; }

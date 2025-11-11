@@ -844,7 +844,7 @@ mv ./data/campaigns/*/images/story/* illustrations/
 git clone --depth 1 git@github.com:wtactics/art.git wtactics-art
 ```
 - [Glitch by Tiny Speck](https://en.wikipedia.org/wiki/Glitch_%28video_game%29) - cc0 / public domain
-    * [GitHub repo tinyspeck/glitch-items](https://github.com/tinyspeck/glitch-items)
+    * [GitHub repo ThirdPartyNinjas/GlitchAssets](https://github.com/ThirdPartyNinjas/GlitchAssets)
     * [OpenGameArt assets collection](https://opengameart.org/content/glitch-sprite-assets-huge-collection)
     * [Assets on RawPixel](https://www.rawpixel.com/search?page=1&path=3.sub_topic-4489&sort=curated)
     * [Glitch tag on freesvg.org](https://freesvg.org/tag/glitch)
@@ -1195,7 +1195,7 @@ Generators that produces character illustrations that have not been placed under
     * [Kill The Noise](https://www.dafont.com/kill-the-noise.font), free for all use
     * [Outrun Future](https://www.dafont.com/outrun-future.font) : $40 for a commercial license
     * [Ninjos](https://www.dafont.com/ninjos.font) : free for personal and commercial use
-    * [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756) : for personal and commercial use
+    * [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756) : free for personal and commercial use
     * [Treasure Map Deadhand](https://www.fontspace.com/treasure-map-deadhand-font-f4241) : freeware
     * [Buffied](https://www.fontspace.com/buffied-font-f4051) : freeware
     * [Sketch Gothic School](https://www.dafont.com/sketch-gothic-school.font)
@@ -1206,6 +1206,7 @@ Generators that produces character illustrations that have not been placed under
     * [Secrilka](https://www.fontspace.com/secrilka-font-f130492) : free only for personal use
     * [Woodgod](https://www.fontspace.com/woodgod-font-f100077) : free only for personal use
     * [Feather](https://www.fontspace.com/feather-font-f142436) : free only for personal use
+    : [Sophieeeee's fonts](https://www.1001fonts.com/users/sophieeeee/) : free for commercial use; excellent for children books & comics
 - <https://github.com/ianhan/BitmapFonts> & <http://robhagemans.github.io/monobit/>
 
 <!-- Music & sound

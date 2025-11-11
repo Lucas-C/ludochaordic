@@ -1,6 +1,6 @@
 Title: Traduction de jeux de rôle monopage de Grant Howitt
 Date: 2019-07-20 16:30
-Tags: lang:fr, jdr, gratuit, traduction, monopage, grant-howitt, jeux
+Tags: lang:fr, jdr, gratuit, traduction, monopage, narration-collective, grant-howitt, jeux
 Slug: traduction-de-jdr-monopage-de-grant-howitt
 ---
 
