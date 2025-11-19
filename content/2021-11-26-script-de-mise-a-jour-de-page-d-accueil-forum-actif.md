@@ -1,6 +1,6 @@
 Title: Script de mise à jour de page d'accueil ForumActif
 Date: 2021-11-26 10:30
-Tags: lang:fr, bash, curl, html, php, phpbb, forum-actif, framasoft, gitlab, gitlab-ci, gitlab-pages, auberge-des-reveurs, prog
+Tags: lang:fr, bash, curl, html, php, phpbb, forum-actif, framasoft, gitlab, gitlab-ci, gitlab-pages, auberge-des-reveurs, association, prog
 ---
 Un court article pour partager une méthode bien pratique pour mettre à jour la page d'acceuil d'un forum [ForumActif](https://fr.wikipedia.org/wiki/Forumactif) :
 

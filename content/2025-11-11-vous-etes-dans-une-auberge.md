@@ -51,6 +51,8 @@ Les éléments de quête suivants ont été introduits :
 
 Notre quête n'a pas été pleinement couronnée de succès, avec deux personnages amochés, et une Reine Fourmi-Lion qui s'est avérée débitée en morceaux au final !
 
+**EDIT** : Mr. Ludomancien, l'auteur du jeu, m'a dit qu'il travaillait sur une 2ème édition « améliorée » : 🙌 🤩 Vous pouvez le suivre ici : [christianamauger.itch.io](https://christianamauger.itch.io/)
+
 <!-- Com'
 * [x] email à l'auteur
 -->
