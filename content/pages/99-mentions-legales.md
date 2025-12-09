@@ -6,12 +6,11 @@ Tags: lang:fr
 Ce blog est édité par Lucas Cimon
 
 ### Raison Sociale de l’Hébergeur
-Ce blog est hébergé par [Scaleway](https://www.scaleway.com/fr/mentions-legales/) :
+Ce blog est hébergé par l'entreprise [Infomaniak](https://www.infomaniak.com/fr/cgv/mentions-legales) :
 
-* SCALEWAY SAS BP 438 75366 PARIS CEDEX 08 FRANCE
-* SIREN : 433 115 904 RCS Paris
-* N° de TVA intracommunautaire : FR 35 433115904
-* Siège social : 8 rue de la Ville l’Evêque, 75008 Paris
+* Infomaniak Network SA, rue Eugène Marziano 25, 1227 Les Acacias (GE)
+* Numéro IDE/TVA : CHE-103.167.648
+* Siège social : Les Acacias, Genève, Suisse
 
 ### Propriété intellectuelle
 La structure générale ainsi que les logiciels, textes, images animées ou non, son savoir-faire et tous les autres éléments composant le site sont la propriété exclusive de Lucas Cimon.

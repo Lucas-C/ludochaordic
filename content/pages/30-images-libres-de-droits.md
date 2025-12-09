@@ -778,6 +778,9 @@ which does not share the same ambition as the _Creative Commons_, but still allo
 > Polish painter, photographer and sculptor specializing in the field of dystopian surrealism.
     * [AA78, year 1978](https://commons.wikimedia.org/wiki/File:AA78_by_Zdzislaw_Beksinski_1978.jpg)
     * [Untitled, 1984](https://commons.wikimedia.org/wiki/File:Untitled_painting_by_Zdzislaw_Beksinski_1984.jpg)
+* **Remedios Varo**, découverte grâce à ALT 236 : [STENDHAL COMPLEX ： LE MUSEE INFINI - Expédition I](https://youtube.com/watch?v=P2rbWUX9vX0)
+    + [@ awarewomenartists.com](https://awarewomenartists.com/artiste/remedios-varo/)
+    + [@ femmespeintres.be](https://www.femmespeintres.be/peintres/mod/varo.htm)
 
 ## Single artworks
 - FJF Toledo CC BY-NC-ND artworks (⚠️: Non-Derivative):
@@ -1206,7 +1209,8 @@ Generators that produces character illustrations that have not been placed under
     * [Secrilka](https://www.fontspace.com/secrilka-font-f130492) : free only for personal use
     * [Woodgod](https://www.fontspace.com/woodgod-font-f100077) : free only for personal use
     * [Feather](https://www.fontspace.com/feather-font-f142436) : free only for personal use
-    : [Sophieeeee's fonts](https://www.1001fonts.com/users/sophieeeee/) : free for commercial use; excellent for children books & comics
+    * [Sophieeeee's fonts](https://www.1001fonts.com/users/sophieeeee/) : free for commercial use; excellent for children books & comics; does not support French accents
+    * [Nabana / MyOlivin](https://www.fontspace.com/nabana-font-f56603) : handwriting font, playful hand drawn, support French accents; with bold variant; not for commercial usages
 - <https://github.com/ianhan/BitmapFonts> & <http://robhagemans.github.io/monobit/>
 
 <!-- Music & sound
