@@ -28,6 +28,8 @@ Vous pouvez retrouver toutes mes autres variantes de jeux ici : [tag **variante*
 
 J'espère que ces variantes vous plairont ! N'hésitez pas à me faire vos retours en commentaire.
 
+**EDIT** : en décembre 2025 j'ai partagé une nouvelle variante dans cet autre article : [Nouvelle variante en équipes pour Rumble in the House](nouvelle-variante-en-equipes-pour-rumble-in-the-house.html).
+
 <style>
 article img { max-height: 20rem; }
 </style>
