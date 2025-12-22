@@ -109,6 +109,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Mouse Adventurer](https://www.deviantart.com/halycon450/art/Mouse-Adventurer-638754578)
     * [Mouse Wizard](https://www.deviantart.com/halycon450/art/Mouse-Wizard-499559508)
     * [The luring Ascent](https://www.deviantart.com/halycon450/art/The-luring-Ascent-661560994)
+    * [Masked Warlock](https://www.deviantart.com/halycon450/art/Masked-Warlock-635327322)
+    * [Pious Augustus, the Lich](https://www.deviantart.com/halycon450/art/Pious-Augustus-the-Lich-358306750)
 - [Benjamin Weu _aka_ free4fireyoutube](https://www.deviantart.com/free4fireyoutube/gallery/) CC BY-NC-SA - fantasy & sci-fi characters + nightmare creatures - only colour - check subfolders
 > Professional digital artist and freelance illustrator from Germany
     * [DOOM Baron of Hell](https://www.deviantart.com/free4fireyoutube/art/DOOM-Baron-of-Hell-fanart-613247946)
@@ -435,6 +437,9 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Tiberius Rourke](https://www.deviantart.com/hijodelopio/art/Tiberius-Rourke-905836595)
     * [Lion Swordsman](https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803)
     * [Pirate](https://www.deviantart.com/hijodelopio/art/Pirate-921122086)
+    * [Ogre](https://www.deviantart.com/hijodelopio/art/Ogre-1231697041)
+    * [Gator Gladiator](https://www.deviantart.com/hijodelopio/art/Gator-Gladiator-1197545555)
+    * [Orcon](https://www.deviantart.com/hijodelopio/art/Orcon-1190818626#image-1)
 - [Joke-BilouMaster](https://www.deviantart.com/joke-biloumaster/gallery) : CC BY-NC-SA - slightly horrific B&W
 > Artist, game developper & composer from Paris, France.
     * [dame blanche](https://www.deviantart.com/joke-biloumaster/art/2014-04-22-Crob-1-493705401)
@@ -630,6 +635,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [PenguinKnight](https://www.deviantart.com/tenpenben/art/PenguinKnight-1139256770)
     * [AbyssRaiders](https://www.deviantart.com/tenpenben/art/AbyssRaiders-1135721293)
     * [HunterTroll](https://www.deviantart.com/tenpenben/art/HunterTroll-1128312548)
+    * [Undercover Smugglers](https://www.deviantart.com/tenpenben/art/Undercover-Smugglers-1190506990)
 - [Wison Hendrik aka Cicakkia](https://www.google.com/search?q=site%3Awww.deviantart.com%2Fcicakkia+%22Creative+Commons%22+-%22No+Derivative%22&tbm=isch) - Indonesian digital artist - Some CC BY-SA - anthropomorphic animals
     * [Navigator](https://www.deviantart.com/cicakkia/art/Navigator-1115715346)
     * [Backpack](https://www.deviantart.com/cicakkia/art/Backpack-1104930253)
@@ -647,17 +653,22 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Blacklight](https://www.deviantart.com/arw10/art/Blacklight-By-Sefy99-Elmike9-862089697)
     * [Cash](https://www.deviantart.com/arw10/art/Cash-By-VampireRichard69-858721862)
     * [ProboTonne](https://www.deviantart.com/arw10/art/ProboTonne-by-VictorJVM031701-987919447)
-- [BananaScholar](https://www.deviantart.com/bananascholar/gallery) - CC BY-NC - From Ukraine
+- [Maxsaeli](https://www.deviantart.com/maxsaeli/gallery) - CC BY-NC - From Ukraine
 > A fan of worldbuilding, real and speculative biology, weird fiction, creature design, fringe philosophical ideas and everything weird
-    * [The new avatar, allegedly](https://www.deviantart.com/bananascholar/art/The-new-avatar-allegedly-1130707849)
-    * [Niles Maxwell](https://www.deviantart.com/bananascholar/art/ArtFight-2024-2-Niles-Maxwell-1069024390)
-    * [Congratulations, our boy has grown up!](https://www.deviantart.com/bananascholar/art/Congratulations-our-boy-has-grown-up-1100648356)
-    * [Connection established](https://www.deviantart.com/bananascholar/art/Connection-established-1077408116)
-    * [Primordial flesh](https://www.deviantart.com/bananascholar/art/Primordial-flesh-1073504160)
-    * [About ZR-detectors](https://www.deviantart.com/bananascholar/art/About-ZR-detectors-1082833324)
-    * [Catarion's cadaver](https://www.deviantart.com/bananascholar/art/Catarion-s-cadaver-946797787)
-    * [Dustbox](https://www.deviantart.com/bananascholar/art/ArtFight-2024-5-Dustbox-1070634361)
-- [Kent-Ove Lindstrom](https://www.deviantart.com/kentovelindstrom/gallery) - CC BY-NC
+    * [The new avatar, allegedly](https://www.deviantart.com/maxsaeli/art/The-new-avatar-allegedly-1130707849)
+    * [Niles Maxwell](https://www.deviantart.com/maxsaeli/art/ArtFight-2024-2-Niles-Maxwell-1069024390)
+    * [Congratulations, our boy has grown up!](https://www.deviantart.com/maxsaeli/art/Congratulations-our-boy-has-grown-up-1100648356)
+    * [Connection established](https://www.deviantart.com/maxsaeli/art/Connection-established-1077408116)
+    * [Primordial flesh](https://www.deviantart.com/maxsaeli/art/Primordial-flesh-1073504160)
+    * [About ZR-detectors](https://www.deviantart.com/maxsaeli/art/About-ZR-detectors-1082833324)
+    * [Catarion's cadaver](https://www.deviantart.com/maxsaeli/art/Catarion-s-cadaver-946797787)
+    * [Dustbox](https://www.deviantart.com/maxsaeli/art/ArtFight-2024-5-Dustbox-1070634361)
+    * [Lingering Divinity](https://www.deviantart.com/maxsaeli/art/Lingering-Divinity-1231527678)
+    * ArtFight 2025: [#2: Jeff](https://www.deviantart.com/maxsaeli/art/ArtFight-2025-2-Jeff-1213315189), [#4: Wohfow8j92](https://www.deviantart.com/maxsaeli/art/ArtFight-2025-4-Wohfow8j92-1213626777), [#8: A8-B3k](https://www.deviantart.com/maxsaeli/art/ArtFight-2025-8-A8-B3k-1214560111)
+    * [Atop a lonely peak](https://www.deviantart.com/maxsaeli/art/Atop-a-lonely-peak-1203906371)
+    * [Disquietude](https://www.deviantart.com/maxsaeli/art/Disquietude-1230189885) & [Even more disquieted](https://www.deviantart.com/maxsaeli/art/Even-more-disquieted-1252979464)
+    * [Cenotaph](https://www.deviantart.com/maxsaeli/art/Cenotaph-1242215610)
+- [Kent-Ove Lindstrom](https://www.deviantart.com/kentovelindstrom/gallery) - CC BY-NC, some CC BY-NC-ND
 > freelance illustrator and art director - Current Residence: Stockholm, Sweden
     * [Assassin](https://www.deviantart.com/kentovelindstrom/art/Assassin-938038291)
     * [The Outlaw](https://www.deviantart.com/kentovelindstrom/art/The-Outlaw-934562628)
@@ -679,7 +690,8 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [A Breach of Trust](https://www.deviantart.com/domegiant/art/A-Breach-of-Trust-644373629)
     * [Vasa](https://www.deviantart.com/domegiant/art/Vasa-629032827)
     * [Max Baris](https://www.deviantart.com/domegiant/art/Max-Baris-596412180)
-- [nobody00000000 aka Isaac Chan](https://www.deviantart.com/nobody00000000/gallery) - Hong Kong student and a hobbyist concept artist - Many CC BY artworks
+- [nobody00000000 aka Isaac Chan](https://www.deviantart.com/nobody00000000/gallery) - Many CC BY artworks
+> Hong Kong student and a hobbyist concept artist, aiming to become a professional concept artist, open for commission
     * [sci fi old school revolver Design](https://www.deviantart.com/nobody00000000/art/sci-fi-old-school-revolver-Design-408165889)
     * [HAND CANNON DESIGN / CONCEPT ART](https://www.deviantart.com/nobody00000000/art/HAND-CANNON-DESIGN-CONCEPT-ART-520769244)
     * [FLEA the jumping mech](https://www.deviantart.com/nobody00000000/art/FLEA-the-jumping-mech-black-400391965)
@@ -692,16 +704,21 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Black'n'Gold Stuff](https://www.deviantart.com/marikbentusi/art/Black-n-Gold-Stuff-1010838055)
     * [Black'n'Gold pistol](https://www.deviantart.com/marikbentusi/art/Black-n-Gold-pistol-1008445624)
     * [weapon sketches](https://www.deviantart.com/marikbentusi/art/weapon-sketches-1024080539)
+    * [Gold Skull Mook](https://www.deviantart.com/marikbentusi/art/Gold-Skull-Mook-1241624579)
 - [kenichir0](https://www.deviantart.com/kenichir0/gallery) - Some CC BY-NC-SA
+> Indonesian artist
     * [Rita Wheeler - Cyberpunk 2077](https://www.deviantart.com/kenichir0/art/Rita-Wheeler-Cyberpunk-2077-914769525)
+    * [Assassins Creed Valhalla Character Design](https://www.deviantart.com/kenichir0/art/Assassins-Creed-Valhalla-Character-Design-845793730)
+- [The Art of Kiro](https://linktr.ee/theartofkiro) - Some of her older work is CC BY-NC-SA
+> Freelance, self taught concept artist from Bacoor, Philippines
     * [Ivy (Fall theme)](https://www.deviantart.com/kiro0821/art/Ivy-Fall-theme-983044256)
     * [Treasure Hunter Pig](https://www.deviantart.com/kiro0821/art/Treasure-Hunter-Pig-985872155)
-    * [Assassins Creed Valhalla Character Design](https://www.deviantart.com/kenichir0/art/Assassins-Creed-Valhalla-Character-Design-845793730)
     * [Shiva](https://www.deviantart.com/kiro0821/art/Shiva-986661069)
     * [Link](https://www.deviantart.com/kiro0821/art/Arttrober-Day-5-2023-Link-993509748)
     * [Ronin Panda](https://www.deviantart.com/kiro0821/art/OC-Ronin-Panda-960667479)
     * [February 22, 2022](https://www.deviantart.com/kiro0821/art/February-22-2022-907819859)
     * [November 26, 2021](https://www.deviantart.com/kiro0821/art/November-26-2021-899064906)
+    * [Fantasy half elf character](https://www.deviantart.com/kiro0821/art/Fantasy-half-elf-character-1046810602)
 - [mariofernandes](https://www.deviantart.com/mariofernandes/gallery) - CC BY-NC-SA
 > artist and landscape architect [from Portugal, creating] fantasy illustration/concept art as well as architecture visualisation.
     * [1 AS FJ Peasant](https://www.deviantart.com/mariofernandes/art/1-AS-FJ-Peasant-768737441)
@@ -711,6 +728,13 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [5 AS FJ Shinobi](https://www.deviantart.com/mariofernandes/art/5-AS-FJ-Shinobi-768738234)
     * [Zargosredesign Spiders](https://www.deviantart.com/mariofernandes/art/Zargosredesign-Spiders-804006898)
     * [Zargosredesign Winged](https://www.deviantart.com/mariofernandes/art/Zargosredesign-Winged-804006912)
+- [Syreni-Desu](https://www.deviantart.com/syreni-desu/gallery) CC BY-SA
+    * [Blue Sea Witch](https://www.deviantart.com/syreni-desu/art/Blue-Sea-Witch-831694927)
+    * [Wadanohara](https://www.deviantart.com/syreni-desu/art/Wadanohara-832028307)
+    * [Miku](https://www.deviantart.com/syreni-desu/art/Miku-694297053)
+    * [Witch](https://www.deviantart.com/syreni-desu/art/Witch-512543486)
+    * [Enemy team : Leader](https://www.deviantart.com/syreni-desu/art/Original-Project-Enemy-team-Leader-557980687)
+    * [Enemy team : number 9](https://www.deviantart.com/syreni-desu/art/Original-Project-Enemy-team-number-9-555595070)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 

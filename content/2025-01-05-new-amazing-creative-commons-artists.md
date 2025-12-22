@@ -1,7 +1,7 @@
 Title: New amazing Creative Commons artists
 Date: 2025-01-01 23:00
 Lang: en
-Tags: lang:en, creative-commons, illustration, deviantart, tumblr, art, pixabay, gratuit
+Tags: lang:en, creative-commons, illustration, deviantart, tumblr, art, gratuit
 Image-preview-thumbnailer: article ul ul,h2:nth-of-type(3) + ul
 Image-preview-thumbnailer-except-urls: deviantart.com/.+/gallery
 Image: thumbnails/HunterTroll-1128312548.jpg
