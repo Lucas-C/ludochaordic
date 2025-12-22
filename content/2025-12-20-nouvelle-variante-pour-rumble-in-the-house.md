@@ -1,11 +1,11 @@
 Title: Nouvelle variante en équipes pour Rumble in the House
 Date: 2025-12-20 23:55
-Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, gratuit, jeux
+Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, gratuit, jeux, rumble-in-the
 ---
 ![Logo du jeu](images/2025/12/RumbleInTheHouse-TeamCards.png)
 
 Il y a presque 3 ans j'avais partagé sur ce blog une variante pour un jeu de société :
-[_Rumble in the House_](rumble-in-the-house.html)
+[_Rumble in the House_ (lien vers l'article)](rumble-in-the-house.html).
 
 ![Logo du jeu](images/2023/03/RumbleinTheHouse.jpg)
 
@@ -29,6 +29,6 @@ article img { max-height: 20rem; max-width: 30rem; }
 </style>
 
 <!-- Com'
-* [ ] https://www.trictrac.net/jeu-de-societe/rumble-in-the-house/ressources
-* [ ] https://boardgamegeek.com/boardgame/99437/rumble-in-the-house
+* [x] https://boardgamegeek.com/boardgame/99437/rumble-in-the-house/files
+* [ ] https://boardgamegeek.com/boardgame/99437/rumble-in-the-house/forums/69 = forum: Variants
 -->

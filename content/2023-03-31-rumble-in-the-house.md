@@ -1,6 +1,6 @@
 Title: Rumble in the House
 Date: 2023-03-31 12:00
-Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, gratuit, emmaus, kawasso, jeux
+Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, gratuit, emmaus, kawasso, jeux, rumble-in-the
 ---
 ![Logo du jeu](images/2023/03/RumbleinTheHouse.jpg)
 
@@ -12,7 +12,7 @@ aini que l'absence de coffre.
 
 Comme j'ai eu l'occasion de trouver cette version à [Emmaüs](https://emmaus-france.org/acheter/) pour **2€**, j'ai décidé de tester cette autre version...
 
-...et bien sûr je n'ai pas résister à concocter de nouvelles variantes ! 😅
+...et bien sûr je n'ai pas résisté à concocter de nouvelles variantes ! 😅
 
 <a href="images/2023/03/RumbleInTheHouse-variantes-FR.pdf">
   <figure>
@@ -36,4 +36,5 @@ article img { max-height: 20rem; }
 
 <!-- Com'
 * [x] https://www.trictrac.net/jeu-de-societe/rumble-in-the-house/ressources
+* [ ] https://boardgamegeek.com/boardgame/99437/rumble-in-the-house/files
 -->

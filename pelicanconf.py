@@ -46,6 +46,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2025-12-22', 'img_url': 'images/readings/QuatreSoeurs.jpg', 'description': ' Quatre soeurs - intégrale tomes 1 et 2 - Cati Baur (BD)'},
     {'date': '2025-12-18', 'img_url': 'images/readings/Offices-and-Humans.jpg', 'description': 'Offices & Humans Broché – Roope Eronen (BD)'},
     {'date': '2025-09-27', 'img_url': 'images/readings/une-volvo-blanche.jpg', 'description': 'Une Volvo blanche - Erik Svetoft (BD)'},
     {'date': '2025-08-26', 'img_url': 'images/readings/basketful-of-heads.jpg', 'description': 'Basketful of Heads - Joe Hill - Leomacs (comics)'},
