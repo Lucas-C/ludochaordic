@@ -1,6 +1,6 @@
 Title: Braquage en Plein Jour
 Date: 2019-07-19 20:00
-Tags: lang:fr, jdr, partie-jdr-hebdo, compte-rendu, playtest, opinion, gratuit, one-shot, zero-prep, pbta, creative-commons, twine, @Gulix, @Henri, @Loic, @Etienne, jeux
+Tags: lang:fr, jdr, partie-jdr-hebdo, compte-rendu, playtest, opinion, gratuit, one-shot, zero-prep, pbta, creative-commons, @Gulix, @Henri, @Loic, @Etienne, jeux
 Slug: braquage-en-plein-jour
 ---
 

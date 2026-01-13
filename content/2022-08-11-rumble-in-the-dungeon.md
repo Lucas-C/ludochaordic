@@ -62,5 +62,6 @@ article img { max-height: 20rem; }
 
 <!-- Com'
 * [x] https://boardgamegeek.com/thread/2915424/special-rooms-characters-abilities-exchange-charac
+* [x] https://boardgamegeek.com/boardgame/130827/rumble-in-the-dungeon/files
 * [x] https://www.trictrac.net/jeu-de-societe/rumble-in-the-dungeon/ressources & https://www.trictrac.net/forum/sujet/variantes-pour-rumble-in-the-dungeon
 -->

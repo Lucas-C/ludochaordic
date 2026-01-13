@@ -46,6 +46,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-01-13', 'img_url': 'images/readings/ESTRANGE-numero4.webp', 'description': ' ESTRANGE n°4 - François Theurel (revue)'},
     {'date': '2025-12-22', 'img_url': 'images/readings/QuatreSoeurs.jpg', 'description': ' Quatre soeurs - intégrale tomes 1 et 2 - Cati Baur (BD)'},
     {'date': '2025-12-18', 'img_url': 'images/readings/Offices-and-Humans.jpg', 'description': 'Offices & Humans Broché – Roope Eronen (BD)'},
     {'date': '2025-09-27', 'img_url': 'images/readings/une-volvo-blanche.jpg', 'description': 'Une Volvo blanche - Erik Svetoft (BD)'},
@@ -206,12 +207,7 @@ LINKS = (("Justin Mason's Weblog", 'https://jmason.ie/'),
          ("L'instant Présent", 'https://linstantpresent.chezsoi.org/'),
          ('Atelier COALA', 'https://atelier-coala.chezsoi.org/'),
          ('boka.l - Laure Coignard', 'https://boka-lc.com'),
-         # ('Steam Hidden Gems', 'https://www.canardpc.com/cat%C3%A9gorie/jeu-video/cabinet-de-curiosites/'),
-         # ('Le Cabinet de Curiosités de CanardPC', 'https://steam250.com/hidden_gems'),
-         # ('Fenêtre sur cour', 'https://www.arteradio.com/emission/fenetre_sur_cour'),
-         # ('John Carmack', 'https://twitter.com/id_aa_carmack/'),
-         # ('Jane McGonigal', 'https://twitter.com/avantgame'),
-         # ('Antoine Bauza', 'https://twitter.com/Toinito'),
+         ("L'Auberge des rêveurs", 'https://laubergedesreveurs.fr/'),
 )
 
 SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
@@ -314,6 +310,7 @@ SITEMAP_URL = './sitemap.xml'
 PINGBACK_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/xmlrpc'
 WEBMENTION_URL = 'https://webmention.io/chezsoi.org_lucas_blog_/webmention'
 WEBMENTION_IO_API_KEY = '_nitaHZFJP92imjlL6OlGQ'
+ENABLE_INDIEAUTH = True
 
 # microformats info for h-card:
 COUNTRY = 'France'
