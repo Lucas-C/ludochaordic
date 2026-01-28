@@ -1,7 +1,7 @@
 Title: Translate PICO-8 games with pico8-l10n
 Date: 2026-01-13
 Lang: en
-Tags: lang:en, indie-game, video-game, Lua, personal-project, traduction, l10n, open-source, gratuit, prog, jeux
+Tags: lang:en, indie-game, video-game, PICO-8, Lua, personal-project, traduction, l10n, open-source, creative-commons, gratuit, prog, jeux
 Image: images/2026/01/pico8-l10n-website-screenshot.png
 ---
 
@@ -58,6 +58,5 @@ Finally, I designed `pico8-l10n` to make it easy to share new `PICO-8` game tran
 so go on an contribute a PR if you want to translate your favorite game! 😊
 
 <!-- Com'
-* ping Kevin
 * linuxfr
 -->

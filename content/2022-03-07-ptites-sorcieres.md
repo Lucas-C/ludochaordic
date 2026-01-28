@@ -166,12 +166,12 @@ Voici enfin quelques illustrations supplémentaires, éventuellement pour repré
   </figcaption>
 </figure>
 
-[EDIT 2023/06/12]**: Gary Vanaka réalise également de très chouettes illustrations de sorciers & sorcières "modernes" :
+**[EDIT 2023/06/12]**: Gary Vanaka réalise également de très chouettes illustrations de sorciers & sorcières "modernes" :
 
-* https://www.artstation.com/artwork/NlzZP
-* https://www.artstation.com/artwork/3qZroE
-* https://www.artstation.com/artwork/2qZ1Aa
-* https://www.artstation.com/artwork/x5xDW
+* <https://www.artstation.com/artwork/NlzZP>
+* <https://www.artstation.com/artwork/3qZroE>
+* <https://www.artstation.com/artwork/2qZ1Aa>
+* <https://www.artstation.com/artwork/x5xDW>
 
 ## Musique
 Une _playlist_ issue des films du studio Ghibli (en particulier _Princesse Mononoké_ & _Mary and The Witch's Flower_),

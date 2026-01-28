@@ -1,5 +1,5 @@
 Title: Favorite games of 2025
-Date: 2026-01-13
+Date: 2026-01-27
 Lang: en
 Tags: lang:en, indie-game, video-game, gratuit, playtest, adventure-games, opinion, GreatOnes, jeux
 Status: draft

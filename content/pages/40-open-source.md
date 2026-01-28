@@ -3,15 +3,23 @@ Lang: en
 Tags: lang:en, cygwin, hesperides, isso, jenkins, luigi, open-source, pre-commit, python, pelican, shaarli
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=Lucas-C)
+* [FLOSS contributions](pages/open-source.html#floss-contributions)
+    + [Contributions made at SNCF Connect & Tech](pages/open-source.html#contributions-made-at-sncf-connect--tech)
+* [Pet projects, musings](pages/open-source.html#pet-projects-musings)
+    + [Video games](pages/open-source.html#video-games)
+    + [For board games & tabletop RPGs](pages/open-source.html#for-board-games--tabletop-rpgs)
+    + [Misc](pages/open-source.html#misc)
+* [Translation](pages/open-source.html#translation)
 
 ## FLOSS contributions
 Some _Free/Libre Open Source Software_ projects to which I have contributed:
 
 - [<img alt="Logo fpdf2" src="images/open-source/fpdf2-logo.png" style="max-width: 12rem"> fpdf2](https://github.com/PyFPDF/fpdf2) : minimalist PDF creation library for Python.
-I am the single maintainer of this project.
+I am one of the two maintainers of this project.
 I have implemented [many new features from `v2.1.0` onwards](https://github.com/PyFPDF/fpdf2/blob/master/CHANGELOG.md).
 _cf._ [related blog posts](tag/fpdf2.html).
+
+- [<img alt="Logo fpdf2" src="images/2025/10/pdfly-logo.png" style="max-width: 12rem"> pdfly](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html) : a pure-python CLI application for manipulating PDF files. I am the single maintainer of this project.
 
 - <img alt="Logo Python" src="images/open-source/python-logo.png" style="max-width: 16em">
 I made a few minor bug fixes to CPython: [GitHub PRs](https://github.com/python/cpython/pulls?utf8=%E2%9C%93&q=author%3ALucas-C)
@@ -63,11 +71,11 @@ I also made some maps for a Ludum Dare game, back in 2009 (the game is worth try
 <http://eriatic.wikidot.com/blog:triumph-mappack>
 
 
-### Contributions made at oui.sncf
+### Contributions made at SNCF Connect & Tech
 
-When working at [oui.sncf](https://jobs.oui.sncf), I had the opportunity to contribute to the following FLOSS projects:
+When working at [SNCF Connect & Tech](https://www.sncf-connect-tech.fr), I had the opportunity to contribute to the following FLOSS projects:
 
-- [`Hesperides`](https://github.com/voyages-sncf-technologies/hesperides):
+- [`Hesperides`](https://github.com/sncf-connect-tech/hesperides):
 a configuration management tool providing universal text file templating and properties editing through a REST API and a webapp.
 I have worked on its massive refactoring to [a new hexagonal architecture using CQRS](https://github.com/voyages-sncf-technologies/architecture-hexagonale-cqrs), and have been its maintainer for several years.
 
@@ -75,54 +83,75 @@ I have worked on its massive refactoring to [a new hexagonal architecture using 
 
 I also built the following ones :
 
-- [<img alt="Logo V.Board" src="images/open-source/logo-vboard.jpg" style="max-width: 6em"> `V.Board`](https://github.com/voyages-sncf-technologies/vboard) :
+- [<img alt="Logo V.Board" src="images/open-source/logo-vboard.jpg" style="max-width: 6em"> `V.Board`](https://github.com/sncf-connect-tech/vboard) :
 a "pins" dashboard to share news among an organization
 
-- [<img alt="Logo hesperides-jenkins-lib" src="images/open-source/hesperides-jenkins-lib-logo.png" style="max-width: 6em"> `hesperides-jenkins-lib`](https://github.com/voyages-sncf-technologies/hesperides-jenkins-lib) :
+- [<img alt="Logo hesperides-jenkins-lib" src="images/open-source/hesperides-jenkins-lib-logo.png" style="max-width: 6em"> `hesperides-jenkins-lib`](https://github.com/sncf-connect-tech/hesperides-jenkins-lib) :
 a shared lib for Jenkins pipelines to interact with Hesperides, the in-house configuration management system
 
-- [`orka-tools`](https://github.com/voyages-sncf-technologies/orka-tools) :
+- [`orka-tools`](https://github.com/sncf-connect-tech/orka-tools) :
 a set of useful Python scripts to interact with [Orka _(Orchestration with Kubernetes on Apple)_](https://orkadocs.macstadium.com/docs), a virtualization layer to orchestrate macOS in a cloud environment using Kubernetes on genuine Apple hardware
 
-- [`nexus_uploader`](https://github.com/voyages-sncf-technologies/nexus_uploader) :
+- [`nexus_uploader`](https://github.com/sncf-connect-tech/nexus_uploader) :
 a Python tool to help with the development & deployment of company-private Python packages on a Sonatype Nexus
 
 
 ## Pet projects, musings
 
-### Games
+### Video games
 - [Undying Dusk](https://github.com/Lucas-C/undying-dusk) : **a video game in a PDF format**, with a gameplay based on exploration and logic puzzles, in the tradition of dungeon crawlers:
 
 ![Game trailer](https://raw.githubusercontent.com/Lucas-C/undying-dusk/main/trailer/undying-dusk-trailer1.gif)
 
+- [pico8-l10n](https://github.com/Lucas-C/pico8-l10n) : a tool to translate [PICO-8](https://www.lexaloffle.com/pico-8.php) games using Gettext standard `.po` files. Written in Lua.
+
 - [The King Must Know](https://github.com/Lucas-C/OuiJam2018) : a Phaser JS short video game made with 2 colleagues during the Global Game Jam 2018
+
 - [tablut](https://github.com/Lucas-C/tablut/) : a PHP implementation of an old [Scandinavian](https://en.wikipedia.org/wiki/Tafl_games) duel board game for the online platform [BoardGameArena](https://boardgamearena.com), with [simple rules](http://en.doc.boardgamearena.com/Gamehelptablut)
+
 - [MemoryGame.js](https://github.com/Lucas-C/MemoryGame.js) : a simple HTML+JS memory game, forked from Mark Rolich repo to add support for images
 
-### For games & tabletop RPGs
+### For board games & tabletop RPGs
 - [5 Minute Dungeon - Target Assigner](https://chezsoi.org/lucas/5md/) : a minimal web app for a great board game variant - [related blog article](5-minute-dungeon-variante-cible.html)
 - [shared-img-reveal](https://github.com/Lucas-C/shared-img-reveal) : a minimal web application to share an image with your players, like a map, and progressively reveal it
 - [rpg-bonhomme](https://github.com/Lucas-C/rpg-bonhomme) : a tabletop RPG character sheet viewer, with a Python backend using a JSONP key-value store
 - [rpg-dice](https://chezsoi.org/lucas/jdr/rpg-dice) : perform dice rolls on a web page shared among players
 
-### Other
+### Misc
+- [youtube_playlist_watcher](https://github.com/Lucas-C/youtube_playlist_watcher) : backup Youtube playlists and alert you on songs deletions, written in Python
+- [music-emails-spybot](https://github.com/Lucas-C/music-emails-spybot) : Python script generating an HTML archive page of all mentioned songs in emails retrieved from IMAP server (e.g. Gmail)
+- [ecovoit](https://github.com/Lucas-C/ecovoit) : a web search engine for French carpooling offers _(deprecated)_
 - [OkCupid AutoPass bookmarklet](https://lucas-c.github.io/okcupid-auto-pass-cities/) : some extra filters for this nice dating website
 - [Python Black Box challenge](https://lucas-c.frama.io/python-blackbox-challenges/)
 - [genealogic-d3](https://github.com/Lucas-C/genealogic-d3) : genealogy tree visualization using [d3.js](https://d3js.org)
-- [youtube_playlist_watcher](https://github.com/Lucas-C/youtube_playlist_watcher) : backup Youtube playlists and alert you on songs deletions, written in Python
-- [music-emails-spybot](https://github.com/Lucas-C/music-emails-spybot) : Python script generating an HTML archive page of all mentioned songs in emails retrieved from IMAP server (e.g. Gmail)
 - [wisemapping-mindmap-viewer](https://github.com/Lucas-C/wisemapping-mindmap-viewer) : a simple HTML+JS mindmap viewer, fork of an original Java project,
 with a companion [brain_dump](https://github.com/Lucas-C/brain_dump) repo containing tools to manipulate simple mindmaps described as indented Markdown
-- [ecovoit](https://github.com/Lucas-C/ecovoit) : a web search engine for French carpooling offers _(deprecated)_
 - [nose-summary-report](https://pypi.org/project/nose-summary-report/) : nose plugin that generates a final summary of tests status as a table
 - [unicode-search](https://github.com/Lucas-C/unicode-search) : a NodeJS CLI program to search unicode characters by name
+- [xreload](https://github.com/Lucas-C/xreload) : Pypi-packaged version of Guido van Rossum original `xreload.py`
 
 
 ## Translation
-- [translation from English to French](https://github.com/CrowsCrowsCrows/the-temple-of-no/pull/1) of the short, open-source, interactive story game
-[The Temple of No](https://crowscrowscrows.itch.io/the-temple-of-no) by the [Crows Crows Crows](http://www.crowscrowscrows.com/) studio
-- [Havoc Brigade](https://gshowitt.itch.io/havoc-brigade), a 25 pages tabletop role-playing game by Grant Howitt, that I translated to French: [La Brigade du Chaos](la-brigade-du-chaos.html)
+- ![](images/2026/01/pico8-l10n-website-screenshot.png) [PICO-8 games translations](https://lucas-c.github.io/pico8-l10n/)
+- [translation from English to French](https://github.com/CrowsCrowsCrows/the-temple-of-no/pull/1) of the short, open-source, interactive story game.
+[The Temple of No](https://crowscrowscrows.itch.io/the-temple-of-no) by the [Crows Crows Crows](http://www.crowscrowscrows.com/) studio.
+- [Havoc Brigade](https://gshowitt.itch.io/havoc-brigade), a 25 pages tabletop role-playing game by Grant Howitt, that I translated to French: [La Brigade du Chaos](la-brigade-du-chaos.html).
+- [Run. Die. Repeat.](https://chezsoi.org/lucas/blog/run-die-repeat.html), [CYBER//PUNK](https://chezsoi.org/lucas/blog/cyberpunk.html), [This Is Not A Place Of Honour](https://chezsoi.org/lucas/blog/ce-nest-pas-une-place-dhonneur.html), [World of Dungeons : Turbo Breakers](https://chezsoi.org/lucas/blog/world-of-dungeons-turbo-breakers.html), [The Sky-Blind Spire](https://chezsoi.org/lucas/blog/la-tour-ciel-aveugle.html) : various short TTRPG that I translated from English to French.
 
+
+<script>
+['article h2', 'article h3'].forEach(selector => {
+  document.querySelectorAll(selector).forEach(title => {
+    title.id = title.textContent.toLowerCase()
+                    .replace(/[()?!:,'&@]/g, '')
+                    .replace(/[à]/g, 'a')
+                    .replace(/[ç]/g, 'c')
+                    .replace(/[éêè]/g, 'e')
+                    .replace(/[ï]/g, 'i')
+                    .replace(/ /g, '-')
+  })
+})
+</script>
 
 <style>
 .uk-article-content > ul > li {
