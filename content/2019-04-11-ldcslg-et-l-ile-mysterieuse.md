@@ -1,4 +1,4 @@
-Title: Le dernier café sur la droite & L'île mystérieuse
+Title: Le dernier café sur la gauche & L'île mystérieuse
 Date: 2019-04-11 22:00
 Tags: lang:fr, jdr, playtest, partie-jdr-hebdo, monopage, narration-collective, compte-rendu, opinion, one-shot, gratuit, traduction, zero-prep, damien-rahyll-c, shane-mclean, @Henri, @Matt, @Estelle, jeux
 Slug: ldcslg-et-l-ile-mysterieuse

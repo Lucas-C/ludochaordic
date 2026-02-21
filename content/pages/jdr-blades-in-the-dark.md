@@ -2230,6 +2230,12 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 > * Qu'est devenue Elaria ? Et le spectre de Lord Daaya ?
 
 <!--
+Pitch de la prochaine partie : les PJs ont une gueule de bois phénomènale,
+    alors que c'est la panique en ville car une météorite s'approche,
+    et qu'elle déverse finalement une armée de démons dans un quartier !
+
+Look for Bloodborne artbook on archive.org (cf. video de Alt-236)
+
 Travailler le personnage de Quill : que va-t-elle faire ?
 
 Partie orientée "RP" :

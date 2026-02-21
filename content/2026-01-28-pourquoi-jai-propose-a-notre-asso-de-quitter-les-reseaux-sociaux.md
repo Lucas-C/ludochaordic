@@ -131,9 +131,10 @@ On apprenait en juin dernier que des réseaux pédophiles étaient recommandés 
 
 Il existe de nombreuses alternatives à Facebook, Instagram, WhatsApp, etc.
 
-Être conscient des abus des ces plateformes et continuer à les employer est un choix lourd de conséquences.
+Employer les services de ces « Big Tech », c'est les soutenir.
+Être conscient des abus des ces plateformes et continuer à les utiliser est un choix lourd de conséquences.
 
-Au Kawasso, on a décidé d'arrêter des les utiliser, et tant pis si on perd en "visibilité".
+Au Kawasso, on a décidé d'arrêter des les employer, et tant pis si on perd en "visibilité".
 
 Merci d'avoir lu cet article jusqu'ici, et à bientôt 🙂
 

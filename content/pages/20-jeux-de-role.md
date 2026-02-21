@@ -5,20 +5,30 @@ Slug: jeux-de-role
 
 <!-- TODO: add Cyber//Punk -->
 
-> Quelques jeux, traductions et aides de jeu que j'ai écrit
-
 <img alt="Photo de plusieurs dés noirs polyhédriques" src="images/jdr/tabletop-rpg-dices.jpg" style="max-width: 30rem; margin-bottom: 4rem">
 
-Certains de mes jeux sont également sur **itch.io** : [lucas-c.itch.io](https://lucas-c.itch.io).
+## Quelques jeux, traductions et aides de jeu que j'ai conçu au fil des ans :
 
-Cette page détaille mes projets en développement, avec possibilité de s'abonner à une _newsletter_ :
-[> Projets en cours< ](pages/projets-en-cours.html).
-
-Tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) possèdent un _tag_ "**jdr**", et sont consultables [> en cliquant ici <](tag/jdr.html).
-
-Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages/jdr-favoris.html).
+<br>
 
 <div class="uk-grid">
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Critical Fondation - Aides de jeu</h2>
+    <img class="uk-align-center padded" src="images/2025/10/critical-fondation-boite.png" alt="Boîte de jeu de Critical Fondation">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Aides de jeu pour les deux saisons du jeu <a href="https://www.gigamic-adds.com/game/critical/foundation">Critical Fondation</a></dd>
+        <dt>Pour</dt><dd>1 MJ + 2 à 4 joueurs</dd>
+        <dt>Durée</dt><dd>quelques sessions</dd>
+      </dl>
+      <ul>
+        <li><a href="critical-fondation.html">Article de blog de présentation</a></li>
+        <li>un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf">CriticalFondation-Saison1-Diagramme.pdf (5 pages - 546 Ko)</a></li>
+        <li>quelques cartes de jeu supplémentaires : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf">CriticalFondation-Saison1-Cartes.pdf (2 pages - 2,3 Mo)</a></li>
+        <li>quelques notes de préparation de MJ, épisode par épisode : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf">Saison1-NotesEpisodes.pdf (7 pages - 463 Ko)</a> &amp; <a href="https://lucas-c.github.io/jdr/CriticalFondation/Saison2/CriticalFondation-Saison2-NotesEpisodes.pdf">Saison2-NotesEpisodes.pdf</a></li>
+      </ul>
+    </div>
+  </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Psi*Run - Scénarios & règles additionnelles</h2>
     <img class="uk-align-center" src="images/jdr/PsiRun-Implacables-page-2.png" alt="Page 3 du scénario Implacables pour Psi*Run">
@@ -226,7 +236,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Genius Loci &amp; Plus de place en enfer &amp; Ce n'est pas une place d'honneur</h2>
-    <img class="uk-align-center" src="images/jdr/genius-loci-pub.png" alt="Un petit pub">
+    <img class="uk-align-center padded" src="images/jdr/genius-loci-pub.png" alt="Un petit pub">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Traduction de 3 court jeux narratifs de Grant Howitt</dd>
@@ -253,7 +263,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Cheat Your Own Adventure &amp; Le dernier café sur la gauche</h2>
-    <img class="uk-align-center" src="images/jdr/dice.png" alt="Une paire de dés">
+    <img class="uk-align-center padded" src="images/jdr/dice.png" alt="Une paire de dés">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Traduction de 2 court jeux narratifs de Shane Mclean</dd>
@@ -276,7 +286,7 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Amères Victoires et Glorieuses Défaites</h2>
-    <img class="uk-align-center" src="images/jdr/gdav.png" alt="Un crâne avec une couronne">
+    <img class="uk-align-center padded" src="images/jdr/gdav.png" alt="Un crâne avec une couronne">
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre</dt><dd>Jeu complet en 10 pages</dd>
@@ -372,23 +382,22 @@ Enfin, je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages
   </section>
 </div>
 
-Plusieurs de ces PDFs ont été générés avec [puppeteer](https://github.com/puppeteer/puppeteer),
-et en conséquence leur accessibilité (a11y) est loin d'être idéale...
-J'en suis bien conscient, et j'espère pouvoir bientôt prendre le temps
-de changer de convertisseur HTML -> PDF au profit d'un outil plus respectueux des standards d'accessibilité.
-<!-- cf. brain_dump.txt & jdr/.travis.yml -->
+## Autre pages web en lien :
 
-De plus, si jamais vous aimeriez une version `.epub` de certains de mes jeux,
-n'hésitez pas à me le dire en commentaire !
-<!--
-* https://www.lifewire.com/create-epub-file-from-html-and-xml-3467282
-* EPUB v3 supports HTML5
-* validators: https://github.com/w3c/epubcheck
--->
+* je détaille ici mes projets en développement, avec possibilité de s'abonner à une _newsletter_ :
+[> Projets en cours <](pages/projets-en-cours.html)
+* je détaille sur cette autre page : [> Mes jeux de rôle favoris <](pages/jdr-favoris.html)
+* certains de mes jeux sont également sur **itch.io** : [> lucas-c.itch.io <](https://lucas-c.itch.io)
+* tous les articles du blog en lien avec les jeux de rôle (compte-rendus de parties, avis, variantes...) possèdent un _tag_ "**jdr**", et sont consultables [> en cliquant ici : #jdr <](tag/jdr.html)
+
+## Accessibilité numérique
+
+Les plus anciens PDFs ont été générés avec [puppeteer](https://github.com/puppeteer/puppeteer),
+et en conséquence leur [accessibilité numérique](https://fr.wikipedia.org/wiki/Accessibilit%C3%A9_num%C3%A9rique) est loin d'être idéale...
+Les plus récents ont été conçus avec [Weasyprint](https://weasyprint.org/)
+qui est bien plus respectueux des standards d'accessibilité.
 
 <style>
-.uk-article-content > p > img { margin-bottom: 10rem; }
-.uk-article-content > blockquote, .uk-article-content > p { font-size: 1.3rem; line-height: 2rem; }
-article .uk-grid { margin-top: 10rem; }
 h2 { text-align: center; }
+img.padded { padding: 2rem; }
 </style>

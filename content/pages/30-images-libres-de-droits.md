@@ -893,6 +893,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - [Eclipse Phase](http://www.eclipsephase.com)
 > Eclipse Phase releases (including print books, digital PDFs/ebooks, text, artwork, audio files, and this website) by Posthuman Studios are licensed under a Creative Commons Attribution-Noncommercial-Share Alike 4.0 License - [EclipsePhase CC Cicense](https://eclipsephase.com/cclicense/)
     * [all websites images from Google search](https://www.google.com/search?q=site%3Awww.eclipsephase.com&tbm=isch)
+    * [Eclipse Phase work](https://www.artstation.com/artwork/rRA6J) - Sam Hogg CC BY-NC-SA
     * [Unwinding](https://www.artstation.com/artwork/rKbBO) - Mitchell Malloy CC BY-NC-SA
     * [Ongoing Titan Activity](https://www.infectedbyart.com/contestpiece.asp?piece=7916) - Mitchell Malloy CC BY-NC-SA
     * [Jovian SIS Team](https://www.artstation.com/artwork/LmdXk) - Mitchell Malloy CC BY-NC-SA
