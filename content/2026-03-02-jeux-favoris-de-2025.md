@@ -2,7 +2,6 @@ Title: Jeux favoris de 2025
 Date: 2026-03-02 16:00
 Lang: fr
 Tags: lang:fr, indie-game, video-game, gratuit, playtest, adventure-games, opinion, shaarli, GreatOnes, jeux
-Image: images/2026/03/TypeHelp.png
 ---
 
 Un article où je partage quelques coups de cœur de 2025 ❤️
@@ -80,15 +79,15 @@ _Tag Shaarli : [#podcasts](https://chezsoi.org/shaarli/?searchtags=podcasts)_
 Documentaires : 
 
 * [Toubib](https://chezsoi.org/shaarli/shaare/-R1QTg) d'[Antoine Page](http://antoine-page.com/)
-* Ibelin - La vie remarquable d'un gamer
-* 120 battements par minute
+* [Ibelin - La vie remarquable d'un gamer (fiche Wikipédia)](https://fr.wikipedia.org/wiki/Ibelin_:_La_Vie_remarquable_d%27un_gamer)
+* [120 battements par minute (fiche Wikipédia)](https://fr.wikipedia.org/wiki/120_Battements_par_minute)
 
 ![Affiche de la série Empathie](images/2026/03/Empathie.jpg)
 
 Séries :
 
-* Empathie
-* Fleabag
+* [Empathie (fiche Wikipédia)](https://fr.wikipedia.org/wiki/Empathie_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)) - hâte de retrouver la saison 2 le mois prochain !
+* [Fleabag](https://fr.wikipedia.org/wiki/Fleabag) - même 10 ans après sa sortie, irrésistible cette série, on l'a binge-watché 😅
 * Andor saison 2
 
 ![here Is No Antimemetics Division](images/2026/03/ThereIsNoAntimemeticsDivision.jpg)

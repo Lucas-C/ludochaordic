@@ -285,7 +285,7 @@ MARKDOWN = {
 }
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ('ctags_generator', 'deadlinks', 'representative_image', 'image_preview_thumbnailer') #, 'w3c_validate')
+PLUGINS = ('ctags_generator', 'deadlinks', 'featured_image', 'image_preview_thumbnailer') #, 'w3c_validate')
 
 # Settings specific to the plugins:
 DEADLINK_VALIDATION = False  # à activer de temps en temps via "invoke build" inclus quelques faux positifs

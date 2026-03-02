@@ -2,7 +2,6 @@ Title: Simply adding HTML meta tags in Wordpress
 Date: 2025-08-10 10:00
 Lang: en
 Tags: lang:en, wordpress, plugin, html, metadata, source-code, semantic-web, seo, prog
-Image: images/2025/08/HTML-Meta-Tags.png
 ---
 
 Just a quick blog post about Wordpress configuration, mostly as a reminder to myself.

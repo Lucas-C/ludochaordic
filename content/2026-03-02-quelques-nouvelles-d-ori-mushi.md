@@ -1,7 +1,6 @@
 Title: Quelques nouvelles d'Ori Mushi
 Date: 2026-03-02 17:00
 Tags: lang:fr, jdr, jeux, gamedesign, mecaniques-de-jeu, mise-en-page, personal-project, playtest, narration-collective, ori-mushi, @Matt, @Noah, @Olivier
-Image: images/2026/03/OriMushi-LivretDAventures.png
 ---
 
 Le week-end dernier, nouvelle partie d'_**Ori Mushi**_,
@@ -14,9 +13,11 @@ Voici quelques-unes de mes réflexions de conception en ce moment.
 ## Donner des outils pour jouer en "table ouverte"
 Inspiré notamment de cet excellent article : [Les Marches de l’Ouest @ C'est pas du JDR](https://www.cestpasdujdr.fr/les-marches-de-louest/),
 j'ai développé quelques règles pour jouer en **table ouverte**,
-le mode de jeu que j'ai décidé d'adopter cette année, à raison d'une partie par mois.
+le mode de jeu que j'ai décidé d'adopter cette année.
+L'idée est de fixer une date de partie régulière (une par mois en ce qui concerne Ori Mushi) et de permettre à un groupe de joueurs "élargi" (entre 5 & 10 personnes) de s'inscrire aux parties, et de venir en fonction de leurs envies et de leurs disponibilités.
 
-Ces règles incluent notamment :
+J'ai donc défini quelques règles pour faciliter ce mode de jeu,
+et notamment :
 
 * une courte phase en début de partie pour introduire les nouveaux personnages, ainsi que les personnages "revenants" après une absence
 * un **Livret d'Aventures** qui remplace la carte dessinée collectivement que j'avais initialement mis en place. Ce livret permettra aux joueurs de conserver quelques notes de leurs aventures. Elles pourront leur resservir plus tard dans la campagne, mais surtout cela leur permettra à la fin d'obtenir un joli livret récapitulatif de cette histoire vécue ensemble !
@@ -70,8 +71,10 @@ _**Ori Mushi**_ finira par voir le jour en version imprimée,
 mais je vais prendre le temps d'en faire le jeu que j'ambitionne,
 même si je suis un peu lent 🐢😊
 
-Pour fini, le jeu a désormais une petite page web de présentation ici :
+Pour terminer, le jeu possède désormais une petite page web de présentation ici :
 <https://lucas-c.github.io/jdr/OriMushi/>
+
+Vous pouvez me laisser un message ci-dessous si le projet vous intéresse.
 
 <style>
 article img { max-height: 20rem; }
