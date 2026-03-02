@@ -1,6 +1,6 @@
 Title: Festival Meujeuteries & Merveilles : c'est dans deux mois !
 Date: 2026-02-21
-Tags: lang:fr, jdr, jeux, festival, faire-decouvrir-le-jdr, maine-et-loire, auberge-des-reveurs, association
+Tags: lang:fr, jdr, jeux, festival, faire-decouvrir-le-jdr, maine-et-loire, auberge-des-reveurs, association, Angers
 ---
 
 [![Affiche du festival de jeux de rôle Meujeuteries & Merveilles](images/2026/02/Affiche-MM-A4.png)](https://laubergedesreveurs.fr/festival-meujeuteries-et-merveilles/)

@@ -23,9 +23,9 @@ Slug: jeux-de-role
       </dl>
       <ul>
         <li><a href="critical-fondation.html">Article de blog de présentation</a></li>
-        <li>un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf">CriticalFondation-Saison1-Diagramme.pdf (5 pages - 546 Ko)</a></li>
-        <li>quelques cartes de jeu supplémentaires : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf">CriticalFondation-Saison1-Cartes.pdf (2 pages - 2,3 Mo)</a></li>
-        <li>quelques notes de préparation de MJ, épisode par épisode : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf">Saison1-NotesEpisodes.pdf (7 pages - 463 Ko)</a> &amp; <a href="https://lucas-c.github.io/jdr/CriticalFondation/Saison2/CriticalFondation-Saison2-NotesEpisodes.pdf">Saison2-NotesEpisodes.pdf</a></li>
+        <li>un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf">CriticalFondation-Saison1-Diagramme.pdf</a></li>
+        <li>quelques cartes de jeu supplémentaires : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf">CriticalFondation-Saison1-Cartes.pdf</a></li>
+        <li>quelques notes de préparation de MJ, épisode par épisode : <a href="https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf">Saison1-NotesEpisodes.pdf</a> &amp; <a href="https://lucas-c.github.io/jdr/CriticalFondation/Saison2/CriticalFondation-Saison2-NotesEpisodes.pdf">Saison2-NotesEpisodes.pdf</a></li>
       </ul>
     </div>
   </section>
@@ -178,7 +178,7 @@ Slug: jeux-de-role
         <dt>Durée</dt><dd>20min à 45min</dd>
       </dl>
       <ul>
-        <li><a href="https://chezsoi.org/s/RDRfrdirectPDFdownload">Traduction en français des règles du jeu (PDF, 37 Ko)</a></li>
+        <li><a href="https://chezsoi.org/s/RDRfrdirectPDFdownload">Traduction en français des règles du jeu (PDF)</a></li>
         <li>un scénario : <a href="https://lucas-c.itch.io/docteur-lestrange">Docteur Lestrange</li>
         <li>un autre scénario se jouant à distance&nbsp: <a href="https://lucas-c.itch.io/les-couloirs-du-temps">Les Couloirs du Temps</li>
         <li><a href="https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat">10 autres scénarios</li>

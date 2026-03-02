@@ -2,7 +2,7 @@ Title: Critical Fondation
 Date: 2025-10-20 23:55
 Tags: lang:fr, jdr, aide-de-jeu, jeux, opinion, enquete, thriller, personal-project, creative-commons, @Noah, @Matthias, @Karine, @Barbara
 ---
-Ce mois-ci, on m'a prêté le jeu de rôle [Critical - Fondation](https://www.gigamic-adds.com/game/critical/foundation), auquel j'ai eu l'occasion de jouer avec quatre copains.
+Ce mois-ci, on m'a prêté le jeu de rôle [Critical - Fondation](https://www.gigamic-adds.com/game/critical/foundation), édité par Gigamic et conçu par Kristoff Valla & Yohan Lemonnier, auquel j'ai eu l'occasion de jouer avec quatre copains.
 
 ![Boîte du jeu de rôle Critical Fondation](images/2025/10/critical-fondation-boite.png)
 

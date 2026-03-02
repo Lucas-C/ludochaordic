@@ -1,6 +1,6 @@
 Title: Festival Meujeuteries & Merveilles
 Date: 2025-11-12
-Tags: lang:fr, jdr, jeux, festival, faire-decouvrir-le-jdr, maine-et-loire, auberge-des-reveurs, association
+Tags: lang:fr, jdr, jeux, festival, faire-decouvrir-le-jdr, maine-et-loire, auberge-des-reveurs, association, Angers
 ---
 
 [![Affiche du festival de jeux de rôle Meujeuteries & Merveilles](images/2025/11/affiche-festival-meujeuteries-et-merveilles.png)](https://laubergedesreveurs.fr/festival-meujeuteries-et-merveilles/)

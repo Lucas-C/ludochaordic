@@ -13,6 +13,8 @@ Le jeu n'est encore qu'un prototype, mais j'étais très content de cette premi�
 Au fur et à mesure de sa conception, je vais partager sur ce blog quelques étapes de création,
 avec pour objectif de le faire imprimer à la fin de l'année 2025 🤞
 
+Retrouvez tous les articles de ce blog à propos à ce sujet avec le [tag #ori-mushi](https://chezsoi.org/lucas/blog/tag/ori-mushi.html).
+
 ## L'univers d'Ori Mushi
 Le monde d'Ori Mushi est une forme de Japon médiéval avec des éléments fantastiques.
 

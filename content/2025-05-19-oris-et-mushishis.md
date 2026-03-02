@@ -7,7 +7,9 @@ Le développement de mon jeu de rôle, **Ori Mushi**, se poursuit de manière pr
 <img alt="Ori Mushi" src="images/2025/05/OriMushi-titre.jpg" style="max-width: 20rem">
 
 J'ai un peu tardé à en donner des nouvelles ici, depuis [mon dernier article en mars](ori-mushi-colosses-mushis.html).
-Beaucoup de choses progressent, et je vais m'attarder sur quelques aspects en particuliers.
+Beaucoup de choses progressent, et je vais m'attarder sur quelques aspects en particulier.
+
+Retrouvez tous les articles de ce blog à propos à ce sujet avec le [tag #ori-mushi](https://chezsoi.org/lucas/blog/tag/ori-mushi.html).
 
 ## Ori Mushi c'est quoi ?
 C'est un **jeu de rôle** dans un univers de _fantasy_ inspiré du japon médiéval,

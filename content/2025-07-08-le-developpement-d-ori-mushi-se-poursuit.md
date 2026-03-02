@@ -16,3 +16,5 @@ donc je vais me contenter de quelques photos de croquis réalisés par les joueu
 ![Croquis d'Aurélien représentant une carte](images/2025/07/2025-07-05_CroquisAurelien-Carte2.jpg)
 
 ![Croquis d'Aurélien représentant une carte](images/2025/07/2025-07-05_CroquisAurelien-Carte.jpg)
+
+Retrouvez tous les articles de ce blog à propos à ce sujet avec le [tag #ori-mushi](https://chezsoi.org/lucas/blog/tag/ori-mushi.html).
