@@ -19,11 +19,11 @@ En 2025, voici les jeux vidéos que j'ai le plus aimé :
 
 ![Type Help](images/2026/03/TypeHelp.png)
 
-* [Type Help - William Rous (itch.io)](https://william-rous.itch.io/type-help)
-* [Stealth Crossword - ComputerJames (itch.io)](https://computerjames.itch.io/stealth-cw)
+* [Type Help - William Rous (itch.io)](https://william-rous.itch.io/type-help) (en anglais)
+* [Stealth Crossword - ComputerJames (itch.io)](https://computerjames.itch.io/stealth-cw) (en anglais)
 * Slice and Dice : [page dédiée au jeu](https://tann.fun/games/dice/) - [review by Thinky Games](https://thinkygames.com/reviews/slice-and-dice-youll-just-keep-rollin/)
 * plusieurs jeux d'Adam Saltsman : [Mole Mole](https://chezsoi.org/shaarli/shaare/I5xyPg), [Lil Kobold's Big Stew](https://chezsoi.org/shaarli/shaare/sgc1dA), [Prince of Prussia](https://chezsoi.org/shaarli/shaare/uLHQgw), [Vampire vs Pope Army](https://chezsoi.org/shaarli/shaare/w5xirA)<br><u>Note :</u> [j'ai traduit ces jeux en français](https://chezsoi.org/lucas/blog/translate-pico-8-games-with-pico8-l10n.html)
-* Frog Detective par Grace Bruxner & Thomas Bowker : [itch.io](https://fisho.itch.io/haunted-island) - [Steam](https://store.steampowered.com/app/963000/Frog_Detective_1__Lle_hante/?l=french)
+* Frog Detective par Grace Bruxner & Thomas Bowker : [itch.io](https://fisho.itch.io/haunted-island) - [Steam](https://store.steampowered.com/app/963000/Frog_Detective_1__Lle_hante/?l=french) (en anglais)s
 * [Anarcute](https://anarcute.com/index.php?lang=FR)
 * [Tukoni](https://www.tukoni.com.ua/en/game)
 * [Little Nightmare 2](https://fr.wikipedia.org/wiki/Little_Nightmares_II)
@@ -87,7 +87,7 @@ Documentaires :
 Séries :
 
 * [Empathie (fiche Wikipédia)](https://fr.wikipedia.org/wiki/Empathie_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)) - hâte de retrouver la saison 2 le mois prochain !
-* [Fleabag](https://fr.wikipedia.org/wiki/Fleabag) - même 10 ans après sa sortie, irrésistible cette série, on l'a binge-watché 😅
+* [Fleabag](https://fr.wikipedia.org/wiki/Fleabag) - même 10 ans après sa sortie, irrésistible cette série, on l'a binge-watché en 2 soirées 😅
 * Andor saison 2
 
 ![here Is No Antimemetics Division](images/2026/03/ThereIsNoAntimemeticsDivision.jpg)
