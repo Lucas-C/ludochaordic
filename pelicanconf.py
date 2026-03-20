@@ -46,6 +46,7 @@ EXTRA_PAGE_LINKS = (
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-03-20', 'img_url': 'images/readings/LaTopette-numero23.jpg', 'description': 'La Topette - Numéro 23 (journal)'},
     {'date': '2026-01-14', 'img_url': 'images/readings/MuktukWolfsbreath-HardBoiledShaman.jpg', 'description': 'Muktuk Wolfsbreath Hard-Boiled Shaman - Terry LaBan (comics)'},
     {'date': '2026-01-13', 'img_url': 'images/readings/ESTRANGE-numero4.webp', 'description': 'ESTRANGE n°4 - François Theurel (revue)'},
     {'date': '2025-12-22', 'img_url': 'images/readings/QuatreSoeurs.jpg', 'description': ' Quatre soeurs - intégrale tomes 1 et 2 - Cati Baur (BD)'},

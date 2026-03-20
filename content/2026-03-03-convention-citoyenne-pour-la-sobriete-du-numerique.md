@@ -1,9 +1,10 @@
-Title: Convention citoyenne pour la sobriété numérique
+Title: Mini-convention citoyenne pour la sobriété numérique
 Date: 2026-03-03 1:00
 Tags: lang:fr, sobriete-numerique, convention-citoyenne, consultation-democratique, ademe, cnrs, developpement-durable, Angers
+Slug: convention-citoyenne-pour-la-sobriete-numerique
 
 Depuis janvier, j'ai l'occasion de participer à un projet passionnant :
-une **convention citoyenne sur la sobriété numérique**.
+une mini **convention citoyenne sur la sobriété numérique**.
 
 ![Affiche de la mini-convention citoyenne sur la sobriété numérique](images/2026/03/annonce-mini-CC-Chevrolier.jpg)
 
