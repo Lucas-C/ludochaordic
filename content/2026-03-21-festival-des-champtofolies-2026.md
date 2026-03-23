@@ -19,7 +19,7 @@ Au programme de l'après-midi, plein d'animations à destination des familles :
 * un espace sensoriel dédié aux 0-3 ans
 * du maquillage
 * un village de tentes
-* des balades avec un poney
+* des balades à poney
 * des jeux en bois
 * des jeux de construction
 
