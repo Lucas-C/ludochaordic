@@ -2230,6 +2230,8 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 > * Qu'est devenue Elaria ? Et le spectre de Lord Daaya ?
 
 <!--
+https://www.youtube.com/watch?v=HHPZynI6pwQ
+
 Pitch de la prochaine partie : les PJs ont une gueule de bois phénomènale,
     alors que c'est la panique en ville car une météorite s'approche,
     et qu'elle déverse finalement une armée de démons dans un quartier !

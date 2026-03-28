@@ -63,6 +63,8 @@ racontez-moi comment s'est passée votre partie via un commentaire ! 🙂
 
 **EDIT** : il existe une discussion très riche autour de ce jeu sur le forum CasusNO dédié aux jeux de rôle : [CRITICAL FONDATION - Gigamic rimera-t-il avec réussite critique ?](https://www.casusno.fr/viewtopic.php?t=40929)
 
+**EDIT [25/03/2026]** : j'ai également réalisé une aide de jeu pour la saison 2 de la campagne du jeu : [Saison2-NotesEpisodes.pdf (11 pages - 2,2 Mo)](https://lucas-c.github.io/jdr/CriticalFondation/Saison2/CriticalFondation-Saison2-NotesEpisodes.pdf)
+
 <style>
 article img.thumbnail { max-height: 20rem; max-width: 20rem; }
 article iframe { display: block; margin: 1rem auto; }
