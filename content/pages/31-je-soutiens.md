@@ -17,7 +17,8 @@ Tags: lang:fr
 > Le Média est un site d'actualité français indépendant et gratuit. C'est, depuis juin 2021, une société coopérative d'intérêt collectif.
 
 [![Le Papier numérique](images/le-papier-numerique.jpg)](https://fr.ulule.com/le-papier-numerique-revue/?utm_campaign=presale_227156&utm_source=shared-from-Ulule-Checkout-on---http.referer--&utm_medium=uluid_1936867)
-> Depuis 2023, la _newsletter_ **Le Pavé numérique** analyse l’actualité des nouvelles technologies et du numérique et met en perspective les innovations, surprises et impacts politiques du monde numérique et de sa culture. Totalement indépendante, elle compte aujourd’hui plus de 17 000 abonnés et figure régulièrement dans le top 10 des newsletters françaises les plus lues. Forte de ce succès, l’équipe du Pavé numérique a décidé de lancer sa revue papier : **Le Papier numérique**.
+> Depuis 2023, la _newsletter_ **Le Pavé numérique** analyse l’actualité des nouvelles technologies et du numérique et met en perspective les innovations, surprises et impacts politiques du monde numérique et de sa culture. Totalement indépendante, elle compte aujourd’hui plus de 17 000 abonnés et figure régulièrement dans le top 10 des newsletters françaises les plus lues.
+> Forte de ce succès, l’équipe du Pavé numérique a décidé de lancer sa revue papier : **Le Papier numérique**.
 > Presse Non-Stop est un éditeur de presse indépendant fondé en 2003 par cinq journalistes, et toujours contrôlé par ses fondateurs, dont son directeur, Yvan Gaudé. La société édite aujourd’hui le magazine **Canard PC**.
 
 [![SPARK](images/spark.webp)](https://www.kisskissbankbank.com/fr/projects/spark-nouveau-media-culturel-independant)

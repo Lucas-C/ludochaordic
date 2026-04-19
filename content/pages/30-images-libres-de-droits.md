@@ -981,6 +981,7 @@ And possibly: `after:2020-01-01` / `before:2020-01-01`
 - [Wikimedia Commons : À propos des licences (FR)](https://commons.wikimedia.org/wiki/Commons:Licensing/fr)
 - [Wikimedia Commons : Réutilisation de contenu hors de Wikimedia](https://commons.wikimedia.org/wiki/Commons:R%C3%A9utilisation_de_contenu_hors_de_Wikimedia)
 - [Wikimedia Commons : Peter B. Hirtle chart, of Cornell University](https://commons.wikimedia.org/wiki/Commons:Hirtle_chart): to guide people in determining when images enter the public domain in the United States.
+- bibliothèque numérique **Gallica** de la Banque Nationale Française (BNF) : <https://gallica.bnf.fr/accueil/fr/html/accueil-fr> (tarifs pour usages commerciaux : [ici](https://www.bnf.fr/fr/faire-une-utilisation-commerciale-dune-reproduction))
 
 Dedicated to Vector graphics & flat / ClipArt images:
 
