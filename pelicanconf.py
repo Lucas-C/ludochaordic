@@ -238,7 +238,6 @@ SUPPORTS = (('La Topette', 'https://latopette.fr/', 'images/LaTopette.png', 'Abo
             ('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/LaQuadratureDuNet.png', 'Faites un don à la Quadrature'),
             ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/framasoft.jpg', 'Soutenez Framasoft'),
             ('Enercoop', 'https://www.enercoop.fr/', 'images/Logo_Enercoop.png', 'Soutenez Enercoop'),
-            ('andro switch', 'https://www.contraceptionmasculine.fr/andro-switch/', 'images/logo-andro-switch.png', 'La contraception masculine, renseignez-vous'),
             ('attac', 'https://france.attac.org/', 'images/attac.png', 'Soutenez attac'),
             ('Microformats', 'https://microformats.org/', 'images/microformats.png', 'Ce site adhère au standard microformats'),
             ('Webmention', 'https://indieweb.org/Webmention', 'images/webmention-button.svg', 'Ce site adhère au standard Webmention'),

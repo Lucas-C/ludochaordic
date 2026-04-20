@@ -3,8 +3,6 @@ Tags: lang:fr, jdr
 Slug: jeux-de-role
 ---
 
-<!-- TODO: add Cyber//Punk -->
-
 <img alt="Photo de plusieurs dés noirs polyhédriques" src="images/jdr/tabletop-rpg-dices.jpg" style="max-width: 30rem; margin-bottom: 4rem">
 
 ## Quelques jeux, traductions et aides de jeu que j'ai conçu au fil des ans :
@@ -30,7 +28,7 @@ Slug: jeux-de-role
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Psi*Run - Scénarios & règles additionnelles</h2>
+    <h2 class="uk-text-bold uk-text-primary">Psi*Run - Scénarios &amp; règles additionnelles</h2>
     <img class="uk-align-center" src="images/jdr/PsiRun-Implacables-page-2.png" alt="Page 3 du scénario Implacables pour Psi*Run">
     <div class="uk-thumbnail-caption">
       <p><u><b>Scénario Implacables :</b></u></p>
@@ -73,7 +71,7 @@ Slug: jeux-de-role
         <li>💻 un <b>terminal web interactif</b>, explorable par les joueurs durant la partie</li>
         <li>🤖 une description détaillée des <b>PNJs</b> et de leurs comportements durant le scénario</li>
         <li>🔗 des propositions pour vous aider à préparer la partie, et créer du <b>lien entre les PJs</b></li>
-        <li>🎬 plusieurs <b>scènes</b> de rebondissements à insérer dans les actes 2 & 3</li>
+        <li>🎬 plusieurs <b>scènes</b> de rebondissements à insérer dans les actes 2 &amp; 3</li>
         <li>🎶 des suggestions de morceaux pour étoffer la <b>bande son</b></li>
         <li>🖼️ une galerie Pinterest d'<b>illustrations</b> et quelques clips <b>vidéos</b></li>
       </ul>
@@ -96,6 +94,33 @@ Slug: jeux-de-role
         Une aide de jeu pour introduire des scènes d'interrogatoires dans vos parties de jeux de rôles.
         <br>
         Elle a été conçue pour <em>Blades in the Dark</em> mais peut s'employer dans d'autres univers de jeu.
+      </blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">CYBER//PUNK</h2>
+    <img class="uk-align-center" src="images/2023/12/CyberPunk.jpg" alt="Couverture du jeu de rôle CYBER//PUNK">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction d'un jeu monopage</dd>
+        <dt>Pour</dt><dd>1 MJ + 2 à 6 joueurs</dd>
+        <dt>Durée</dt><dd>quelques heures</dd>
+      </dl>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/cyberpunk">CYBER//PUNK (sur itch.io)</a></li>
+        <li><a href="cyberpunk.html">Article de blog de présentation</a></li>
+      </ul>
+      <blockquote>
+        NOUS SOMMES EN 20X6.
+        <br>
+        Vous formez une équipe de Runners – des agents mercenaires dont l'expertise est à vendre, dans un crépuscule semi-légal entre les mégacorporations monolithiques, les gangs vicieux et les habitants opprimés de The Sprawl, un dédale urbain baigné de néons.
+        <br>
+        TON OBJECTIF : Termines la mission et restes en vie.
+      </blockquote>
+      Il s'agit d'une traduction d'un jeu de David Brunell-Brutman, lui-même adapté de <em><b>Lasers &amp; Feelings</b></em> de John Harper.
+      <blockquote>
+        Un jeu de rôle inspiré des univers de <em>Blade Runner</em>, <em>Neuromancer</em>, <em>Ghost in the Shell</em> et <em>Shadowrun</em>. Incarnez un ex-flic hacker grisonnant, un sexbot dérangé devenu une arme vivante, et bien d'autres personnages.
+        Infiltrez les megacorpos, damez le pion aux yakuza, et volez des IA top-secrètes.
       </blockquote>
     </div>
   </section>
@@ -278,7 +303,7 @@ Slug: jeux-de-role
         <li><a href="https://chezsoi.org/s/LDCSLGPDFDownload">Le dernier café sur la gauche (PDF)</a></li>
       </ul>
       <blockquote>Dans <strong>Cheat Your Own Adventure</strong>, vous incarnez tour à tour le Lecteur d'un livre-dont-vous-êtes-le-héros
-      et le Narrateur qui offre des choix de pages où se rendrent ensuite. Réussirez-vous à aller au bout de l'aventure sans revenir en arrière ?</blockquote>
+      et le Narrateur qui offre des choix de pages où se rendre ensuite. Réussirez-vous à aller au bout de l'aventure sans revenir en arrière ?</blockquote>
       <hr>
       <blockquote><strong>Le dernier café sur la gauche</strong> est un court jeu narratif dont la particularité est qu'il recommandé de ne <strong>pas</strong>
       le lire entièrement avant de jouer, mais au fur et à mesure au cour de la partie.</blockquote>
@@ -400,4 +425,5 @@ qui est bien plus respectueux des standards d'accessibilité.
 <style>
 h2 { text-align: center; }
 img.padded { padding: 2rem; }
+.uk-grid > section { margin-top: 1rem; }
 </style>
