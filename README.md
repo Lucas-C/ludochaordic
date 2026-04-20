@@ -14,6 +14,10 @@ In case of repeated `FileNotFoundError: [Errno 2] No such file or directory: 'ou
 
     while ! python $opt/pelican-plugin-image-preview-thumbnailer/image_preview_thumbnailer.py output/pages/images-libres-de-droits.html; do sleep .5; done
 
+To upgrade dependencies:
+
+    pip-upgrade requirements.txt -p all
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Le contenu de ce dépôt est sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
