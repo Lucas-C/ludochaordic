@@ -156,6 +156,7 @@ Slug: jeux-de-role
       <ul>
         <li><a href="https://lucas-c.itch.io/la-brigade-du-chaos">La Brigade du Chaos (jeu complet sur itch.io)</a></li>
         <li><a href="https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions">Freiberg nid d'espions (aide de jeu sur itch.io)</a></li>
+        <li><a href="la-brigade-du-chaos.html">Article de blog de présentation</a></li>
       </ul>
       <blockquote>
         Incarnez la Brigade du Chaos, une escouade d'orcs chahuteurs en mission pour « infiltrer »

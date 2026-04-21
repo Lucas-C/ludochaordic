@@ -9,7 +9,7 @@ Slug: dans-la-nuit-longue-et-glacee
   <figcaption>The Phantom Hunter - William Blair Bruce</figcaption>
 </figure>
 
-[Dans la nuit longue et glaciale](http://troplongpaslu.fr/wp-content/uploads/2018/08/DLNLG_web.pdf) est un jeu
+[Dans la nuit longue et glaciale](https://troplongpaslu.fr/jeux-de-role-court/dans-la-nuit-longue-et-glaciale/) est un jeu
 de [Damien “Rahyll” C.](/lucas/blog/tag/damien-rahyll-c.html), qui n'en est pas à sa première bafouille puisqu'il a gagné le Game Chef 2016 avec [Matching Hearts](https://rpggeek.com/rpg/37904/matching-hearts).
 
 Le jeu place un joueur dans la peau d'un survivant d'un crash d'hélicoptère, livré à lui même seul dans la montagne.

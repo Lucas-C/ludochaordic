@@ -65,3 +65,5 @@ Merci Elliot pour la découverte ;)
 Création de pandas comprise, la partie de RPIDR a duré un peu moins de 2 heures.
 Nous avons fini la journée à playtester un prototype de JdR de ma conception,
 _Amères Victoires & Glorieuses Défaites_, dont je reparlerai très bientôt...
+
+**EDIT[2026/04/20]:** j'ai traduit le jeu en français : [LA VENGEANCE DE LA DIVISION DE RENSEIGNEMENT DES PANDAS ROUX ! (PDF)](https://chezsoi.org/s/LVDLDDRDPR)

@@ -74,7 +74,7 @@ Un personnage qui de part son statut ne peut pas devenir dirigeant dans le _sett
 - nous avons sous-employé l'unique mécanique de jeu relative aux cartes : **le baiser**,
 qui est le seul moyen d'en apprendre plus sur les rôles cachés.
 
-Au final je ferais avec plaisir une autre partie de _Queen_Killer_, à 4 joueurs,
+Au final je ferais avec plaisir une autre partie de _Queen-Killer_, à 4 joueurs,
 en essayant comme variante d'introduire ce nouveau _move_ que nous avons concocté a posteriori :
 
 > Si vous faites votre **mea culpa** et admettez avoir eu connaissance du projet d'assassinat de la reine,

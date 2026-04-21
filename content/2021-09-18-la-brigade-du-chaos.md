@@ -5,7 +5,7 @@ Tags: lang:fr, jdr, gratuit, traduction, grant-howitt, LeTTRPG, warhammer, lady-
 > Incarnez la Brigade du Chaos, une escouade d'orcs chahuteurs en mission pour « infiltrer » une ville humaine afin de kidnapper l'ignoble prince Holstein.
 
 <em>[![Couverture du jeu Havoc Brigade](images/2021/09/Havoc-Brigade-cover.jpg)](https://lucas-c.itch.io/la-brigade-du-chaos)
-<center>(cliquez sur l'image pour accéder au jeu)</center></em>
+<center>(cliquez sur l'image pour accéder à la page itch.io jeu)</center></em>
 
 La Brigade du Chaos est la [traduction](/lucas/blog/tag/traduction.html) de **Havoc Brigade** de Grant Howitt.
 
@@ -32,8 +32,8 @@ _Marvel Superheroic Roleplaying_ et l'excellent [Lady Blackbird](lady-blackbird.
 <img class="comic-strip" alt="BD" src="images/2021/09/havoc-brigade-comic-strip.png">
 
 <center><em>
-Portraits : [Jeff Preston](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-/ Licorne : [Mariana Ruiz Villarreal (LadyofHats)](https://commons.wikimedia.org/wiki/File:DnD_Unicorn.png) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
+Portraits : <a href="https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits">Jeff Preston</a> - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>
+/ Licorne : <a href="https://commons.wikimedia.org/wiki/File:DnD_Unicorn.png">Mariana Ruiz Villarreal (LadyofHats)</a> - <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr">CC00</a>
 </em></center>
 
 ---

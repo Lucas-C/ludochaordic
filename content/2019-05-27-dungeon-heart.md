@@ -13,7 +13,8 @@ Hier, en compagnie de trois fidèles _playtesteurs_ vétérans, j'ai eu l'occasi
 
 Très franchement, le jeu était carrément à la hauteur de mes attentes, et je crois qu'on s'est tous beaucoup amusés 😊
 
-J'ai été tellement conquis que j'ai même déjà traduit le jeu en français et écrit une petite extension d'une page !
+J'ai été tellement conquis que j'ai même déjà [traduit le jeu en français (PDF, 1,7 Mo)](https://chezsoi.org/s/DungeonHeartFr)
+et écrit [une petite extension d'une page](dungeon-heart-heroes-and-spells.html) !
 
 Dans cet article je compte présenter la version 1.6 de ce jeu que nous avons testé, faire un rapide compte rendu de notre partie,
 puis discuter les [mécaniques de jeu](/lucas/blog/tag/mecaniques-de-jeu.html) et explorer quelques variantes possibles.
@@ -390,7 +391,7 @@ I loved the core game mechanic, which I found really fun and well-thought.
 Around the table yesterday, we all were willing to play another game one of those days,
 so I think I can warmly recommend Dungeon Heart to any player who like those kind of original micro-RPG !
 
-As for myself, I'm going back to my small expansion named « Heroes & Spells » 😉
+As for myself, I'm going back to my small expansion named [« Heroes & Spells »](dungeon-heart-heroes-and-spells.html) 😉
 
 
 <style>
