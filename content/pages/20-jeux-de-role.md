@@ -11,6 +11,34 @@ Slug: jeux-de-role
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">La Vengeance des Pandas Roux de l'Espace</h2>
+    <img class="uk-align-center" src="images/2018/11/rpid-estampe-768x768.png" alt="">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction d'un jeu monopage</dd>
+        <dt>Pour</dt><dd>1 MJ + 2 à 6 joueurs</dd>
+      </dl>
+      <ul>
+        <li><a href="https://chezsoi.org/s/LVDLDDRDPR">LaVengeanceDesPandasRouxDeLEspace.pdf</a></li>
+        <li><a href="the-red-panda-intelligence-divisions-revenge.html">Article de blog de présentation</a></li>
+      </ul>
+        <blockquote>
+            Vous êtes une unité spéciale de Pandas roux ninjas de l’espace !
+        <br>Vous avez été enlevés sur Terre.
+        <br>Vous êtes très en colère, et vraiment, vraiment badass !!
+        <hr>
+           Vous vous réveillez dans un sous-sol de Las Vegas, et vous avez quatre objectifs :
+            <ul>
+              <li>Trouver qui vous a amené sur Terre</li>
+              <li>Comprendre pourquoi</li>
+              <li>Trouver un moyen de vous venger</li>
+              <li>Trouver un moyen de rentrer chez vous</li>
+            </ul>
+        </blockquote>
+        Traduction d'un jeu de rôle de <a href="https://melville.itch.io/">Melville (melville.itch.io)</a>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Critical Fondation - Aides de jeu</h2>
     <img class="uk-align-center padded" src="images/2025/10/critical-fondation-boite.png" alt="Boîte de jeu de Critical Fondation">
     <div class="uk-thumbnail-caption">
@@ -170,31 +198,6 @@ Slug: jeux-de-role
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Les Non-morts</h2>
-    <img class="uk-align-center" src="https://lucas-c.github.io/jdr/LesNonMorts/cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg" alt="Couverture du jeu : un motard zombie">
-    <div class="uk-thumbnail-caption">
-      <dl class="uk-description-list-list">
-        <dt>Genre</dt><dd>Jeu complet en 12 pages</dd>
-        <dt>Pour</dt><dd>2 à 5 joueurs, sans MJ</dd>
-        <dt>Durée</dt><dd>2h à 4h environ</dd>
-      </dl>
-      <ul>
-        <li><a href="https://chezsoi.org/s/LesNonMortsv10directPDFdownload">Les Non-morts (PDF, 1,3 Mo)</a></li>
-        <li><a href="les-non-morts.html">Article de blog de présentation</a></li>
-        <li><a href="https://lucas-c.itch.io/les-non-morts">Les Non-Morts sur itch.io</a></li>
-      </ul>
-      <blockquote>
-        Les Non-morts est un court jeu narratif compétitif,
-        à mi-chemin entre jeu de société et jeu de rôle sans meneur, dans une ambiance de film de mort-vivants de série Z :
-        un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.
-        <hr>
-        Les joueurs incarnent les réalisateurs / scénaristes d'un tel film, qui se sont succédés à la production, chaotique.
-        Au cours de la partie, ils vont dessiner collectivement le plan d'un lieu, et décrire les actions d'une poignée de survivants
-        de la catastrophe en cours, tentant de survivre à une marée de mort-vivants !
-      </blockquote>
-    </div>
-  </section>
-  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">Run. Die. Repeat</h2>
     <img class="uk-align-center" src="images/2020/01/RunDieRepeat.jpg" alt="Run. Die. Repeat">
     <div class="uk-thumbnail-caption">
@@ -217,24 +220,6 @@ Slug: jeux-de-role
       <hr>
       Un jeu ne nécessitant aucune préparation, conçu pour de courtes sessions effrénées, improvisées n’importe où, n’importe quand.
       </blockquote>
-    </div>
-  </section>
-  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Dungeon Hearts - Heroes &amp; Spells</h2>
-    <img class="uk-align-center" src="images/2019/06/aggron_stonebreak_the_ogre_magi_by_halycon450.png" alt="Aggron Stonebreak The Ogre Magi">
-    <div class="uk-thumbnail-caption">
-      <dl class="uk-description-list-list">
-        <dt>Genre</dt><dd>Traduction &amp; extension d'un jeu en 2 pages</dd>
-        <dt>Pour</dt><dd>1 à 4 joueurs, sans MJ</dd>
-        <dt>Durée</dt><dd>2h-4h environ</dd>
-      </dl>
-      <ul>
-        <li><a href="https://chezsoi.org/s/DungeonHeartBW16DirectPDFdownload">Traduction française du jeu (PDF)</a></li>
-        <li>L'extension <em>Heroes &amp; Spells</em> en français : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload">PDF</a></li>
-        <li>The expansion <em>Heroes &amp; Spells</em> in English : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16ENDirectPDFdownload">PDF</a></li>
-        <li><a href="dungeon-heart-heroes-and-spells.html">Article de blog de présentation</a></li>
-      </ul>
-      <blockquote>Incarnez les gardiens d’un donjon défendant leur demeure contre de méchants aventuriers.</blockquote>
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
@@ -331,6 +316,71 @@ Slug: jeux-de-role
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Les Non-morts</h2>
+    <img class="uk-align-center" src="https://lucas-c.github.io/jdr/LesNonMorts/cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg" alt="Couverture du jeu : un motard zombie">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Jeu complet en 12 pages</dd>
+        <dt>Pour</dt><dd>2 à 5 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>2h à 4h environ</dd>
+      </dl>
+      <ul>
+        <li><a href="https://chezsoi.org/s/LesNonMortsv10directPDFdownload">Les Non-morts (PDF, 1,3 Mo)</a></li>
+        <li><a href="les-non-morts.html">Article de blog de présentation</a></li>
+        <li><a href="https://lucas-c.itch.io/les-non-morts">Les Non-Morts sur itch.io</a></li>
+      </ul>
+      <blockquote>
+        Les Non-morts est un court jeu narratif compétitif,
+        à mi-chemin entre jeu de société et jeu de rôle sans meneur, dans une ambiance de film de mort-vivants de série Z :
+        un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.
+        <hr>
+        Les joueurs incarnent les réalisateurs / scénaristes d'un tel film, qui se sont succédés à la production, chaotique.
+        Au cours de la partie, ils vont dessiner collectivement le plan d'un lieu, et décrire les actions d'une poignée de survivants
+        de la catastrophe en cours, tentant de survivre à une marée de mort-vivants !
+      </blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">shared-img-reveal</h2>
+    <img class="uk-align-center" src="https://raw.githubusercontent.com/Lucas-C/shared-img-reveal/main/demo.png" alt="Image de démonstration de son fonctionnement">
+    <div class="uk-thumbnail-caption">
+      <q>Une application web pour partager une image avec vos joueurs, et la révéler progressivement. Gratuit et open-source</q>
+      <ul>
+        <li><a href="https://chezsoi.org/lucas/jdr/shared-img-reveal/">Version web</a></li>
+        <li><a href="https://github.com/Lucas-C/shared-img-reveal">Code sur GitHub</a></li>
+      </ul>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Dungeon Hearts - Heroes &amp; Spells</h2>
+    <img class="uk-align-center" src="images/2019/06/aggron_stonebreak_the_ogre_magi_by_halycon450.png" alt="Aggron Stonebreak The Ogre Magi">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Traduction &amp; extension d'un jeu en 2 pages</dd>
+        <dt>Pour</dt><dd>1 à 4 joueurs, sans MJ</dd>
+        <dt>Durée</dt><dd>2h-4h environ</dd>
+      </dl>
+      <ul>
+        <li><a href="https://chezsoi.org/s/DungeonHeartBW16DirectPDFdownload">Traduction française du jeu (PDF)</a></li>
+        <li>L'extension <em>Heroes &amp; Spells</em> en français : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload">PDF</a></li>
+        <li>The expansion <em>Heroes &amp; Spells</em> in English : <a href="https://lucas-c.github.io/jdr/DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html">web</a> - <a href="https://chezsoi.org/s/DungeonHeartHeroesAndSpells16ENDirectPDFdownload">PDF</a></li>
+        <li><a href="dungeon-heart-heroes-and-spells.html">Article de blog de présentation</a></li>
+      </ul>
+      <blockquote>Incarnez les gardiens d’un donjon défendant leur demeure contre de méchants aventuriers.</blockquote>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">rpg-bonhomme</h2>
+    <img class="uk-align-center" src="images/jdr/rpg-bonhomme.jpg" alt="Un masque de Guy Fawkes">
+    <div class="uk-thumbnail-caption">
+      <q>Éditeur/visualisateur de feuille de perso en ligne. Gratuit et open-source</q>
+      <ul>
+        <li><a href="https://chezsoi.org/lucas/jdr/rpg-bonhomme">Version web</a></li>
+        <li><a href="https://github.com/Lucas-C/rpg-bonhomme">Code sur GitHub</a></li>
+      </ul>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">La Tour</h2>
     <img class="uk-align-center" src="images/jdr/latour.png" alt="Une tour d'immeuble délabrée">
     <div class="uk-thumbnail-caption">
@@ -375,28 +425,6 @@ Slug: jeux-de-role
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">shared-img-reveal</h2>
-    <img class="uk-align-center" src="https://raw.githubusercontent.com/Lucas-C/shared-img-reveal/main/demo.png" alt="Image de démonstration de son fonctionnement">
-    <div class="uk-thumbnail-caption">
-      <q>Une application web pour partager une image avec vos joueurs, et la révéler progressivement. Gratuit et open-source</q>
-      <ul>
-        <li><a href="https://chezsoi.org/lucas/jdr/shared-img-reveal/">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/shared-img-reveal">Code sur GitHub</a></li>
-      </ul>
-    </div>
-  </section>
-  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">rpg-bonhomme</h2>
-    <img class="uk-align-center" src="images/jdr/rpg-bonhomme.jpg" alt="Un masque de Guy Fawkes">
-    <div class="uk-thumbnail-caption">
-      <q>Éditeur/visualisateur de feuille de perso en ligne. Gratuit et open-source</q>
-      <ul>
-        <li><a href="https://chezsoi.org/lucas/jdr/rpg-bonhomme">Version web</a></li>
-        <li><a href="https://github.com/Lucas-C/rpg-bonhomme">Code sur GitHub</a></li>
-      </ul>
-    </div>
-  </section>
-  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">rpg-dice</h2>
     <img class="uk-align-center" src="https://chezsoi.org/lucas/jdr/dice.png" alt="Une paire de dés">
     <div class="uk-thumbnail-caption">
@@ -427,4 +455,5 @@ qui est bien plus respectueux des standards d'accessibilité.
 h2 { text-align: center; }
 img.padded { padding: 2rem; }
 .uk-grid > section { margin-top: 1rem; }
+blockquote ul { padding-left: .5rem; margin: .5rem 0; font-size: 88%; }
 </style>
