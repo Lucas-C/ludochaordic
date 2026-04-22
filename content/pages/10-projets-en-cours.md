@@ -81,17 +81,17 @@ Je n'envoie pas plus de 4 emails par an,
 et vous pouvez vous désabonner quand vous voulez.
 
 ## Projets terminés
-Vous pouvez les retrouver sur [ma page itch.io](https://lucas-c.itch.io/)
+Vous pouvez retrouver mes créations ludiques sur [ma page itch.io](https://lucas-c.itch.io/)
 ainsi que sur [cette page du blog](pages/jeux-de-role.html).
 
 ## Autres activités
 Je suis salarié à temps partiel à [SNCF Connect](https://www.sncf-connect.com/),
-et membre de deux associations à Champtocé-sur-Loire,
-dont un café associatif, [le Kawasso](https://kawasso.odoo.com/).
+membre du café associatif de Champtocé-sur-Loire, [le Kawasso](https://kawasso.odoo.com/),
+et élu municipal dans cette commune.
 
 Je suis aussi mainteneur de projets libres et open-sources, dont notamment [fpdf2](https://py-pdf.github.io/fpdf2/).
 
-Vous trouverez d'autres infos sur moi sur la page [Bienvenue](pages/bienvenue.html).
+Vous trouverez quelques autres infos sur la page [Bienvenue](pages/bienvenue.html).
 
 ## Commentaires
 Si vous voulez me soutenir, déposez un message ci-dessous !

@@ -11,13 +11,12 @@ Bienvenue sur mon site 😉
 
 Je m'appelle Lucas Cimon.
 
-Je suis créateur de jeux,
-et ingénieur en développement logiciel.
+Je suis créateur de jeux, et ingénieur en développement logiciel.
 
 Je vis dans la commune de Champtocé-sur-Loire
 et travaille dans la région entre Angers et Nantes, actuellement pour [SNCF Connect](https://www.sncf-connect.com/).
 
-J'ai mis en place ce blog pour partager des découvertes en tout genre,
+J'ai mis en place ce blog en 2014 pour partager des découvertes en tout genre,
 des réflexions, des émotions, et certaines de mes créations.
 
 Vous pouvez retrouver mes projets créatif en développement ici : [Projets en cours](./projets-en-cours.html).
@@ -34,11 +33,14 @@ Il emploie également des technologies favorables à un [web décentralisé](htt
 commentaires [isso](https://posativ.org/isso/), instance [Shaarli](https://chezsoi.org/shaarli/) pour partager des notes & liens,
 support des pingbacks & [webmentions](https://www.w3.org/TR/webmention/)...
 
-
 <figure role="group" class="column-img right">
     <img src="images/Tom_Brown_Mathematics_CC-by-2-0_cropped.jpg">
     <figcaption>"Mathematics" par Tom Brown : <a href="https://www.flickr.com/photos/t_e_brown/8677750589">flickr</a></figcaption>
 </figure>
+
+### Contact
+
+Pour me contacter, envoyez-moi un email à `<mon prénom>.<mon nom>@gmail.com`
 
 ## Articles à lire
 
@@ -73,7 +75,6 @@ J'emploi des _tags_ pour classifier mes articles.
 Je fais de même avec les liens que je partage sur mon instance Shaarli, vous pouvez les retrouver ici : [_tag cloud_ Shaarli](https://chezsoi.org/shaarli/tags/cloud).
 
 <!-- tagcloud -->
-
 
 
 <style>
