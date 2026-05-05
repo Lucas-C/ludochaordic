@@ -66,7 +66,7 @@ Chacun des trois actes sera composé de 3 à 4 scénarios.
 Mon objectif initial de terminer et de faire imprimer ce jeu fin 2025 n'aura malheureusement pas été atteint.
 Tant pis, j'ai été trop ambitieux, mais je repars sur ce projet en 2026 très motivé, avec la conviction que je finirai par le mener à bout !
 Mettre en place des parties mensuelles va beaucoup m'aider à y consacrer régulièrement du temps.
-Pas d'objectif cette fois que le jeu soit terminé en fin décembre :
+Pas d'objectif cette fois que le jeu soit terminé à la fin de l'année :
 _**Ori Mushi**_ finira par voir le jour en version imprimée,
 mais je vais prendre le temps d'en faire le jeu que j'ambitionne,
 même si je suis un peu lent 🐢😊

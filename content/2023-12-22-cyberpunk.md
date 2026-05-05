@@ -55,6 +55,11 @@ Les `MERCS4US` étaient composés de ces 4 _Runners_ :
   <figcaption>Le véhicule des PJs - Illustration de <a href="https://www.artstation.com/artwork/YKv2Pd">Baptiste Cottel</a></figcaption>
 </figure>
 
+---
+
+**[EDIT 2026/05/04]** : un jeu monopage (en anglais) très proche en terme d'ambiance et de concept :
+[Chrome Shells & Neon Streets](https://www.drivethrurpg.com/fr/product/336887/chrome-shells-neon-streets-tricube-tales-one-page-rpg)
+
 <!-- Com'
 * [x] https://lucas-c.itch.io/cyberpunk
 * [x] https://dbb-8.itch.io/cyberpunk (comment)

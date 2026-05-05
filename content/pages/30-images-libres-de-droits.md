@@ -339,15 +339,6 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Dexter: Futuristic Debra](https://www.deviantart.com/tarakanovich/art/Dexter-Futuristic-Debra-481485290)
     * [Handsome Jakie](https://www.deviantart.com/tarakanovich/art/Handsome-Jakie-588655246) - CC BY-SA
     * [Troll's portrait study](https://www.deviantart.com/tarakanovich/art/Troll-s-portrait-study-483372635)
-- [Philipp Höhnel _aka_ mooncube](https://www.deviantart.com/moooncube/gallery) : CC BY-SA - B&W (N&B) sci-fi spaceships
-> Concept artist, designer, 3D modeller and illustrator from München, Germany. Linux and open source enthusiast
-> ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) - [official website](https://www.mooncube.space)
-    * [Inktober #27](https://www.deviantart.com/moooncube/art/Inktober-27-770063156)
-    * [Inktober #26](https://www.deviantart.com/moooncube/art/Inktober-26-769926568)
-    * [Inktober #24](https://www.deviantart.com/moooncube/art/Inktober24-769680911)
-    * [The Machinist](https://www.deviantart.com/moooncube/art/The-Machinist-704053565)
-    * [Character Design Thumbnails](https://www.deviantart.com/moooncube/art/Character-Design-Thumbnails-704897614)
-    * [Photostudy Helicopter](https://www.deviantart.com/moooncube/art/Photostudy-Helicopter-767759822)
 - [Ret Samys](https://www.deviantart.com/retsamys/gallery/39951222/free-stuff) : many CC BY mouse characters
 > German hobbyist who makes animations, creates vector graphics, write German poems, draws from time to time and is trying out some typography. Oh, and also code some CSS when bored.
     * [Mousetober 8 - Fragile Words, Read Carefully](https://www.deviantart.com/retsamys/art/Mousetober-8-Fragile-Words-Read-Carefully-816153767)
@@ -1018,6 +1009,9 @@ Dedicated to Vector graphics & flat / ClipArt images:
     * [@isacvale](https://openclipart.org/user-cliparts/isacvale)
     * [@tzunghaor](https://openclipart.org/user-cliparts/tzunghaor)
     * [tag: role-playing](https://openclipart.org/tag/role-playing): B&W isometric buildings
+        + [RPG map symbols Blacksmith 2](https://openclipart.org/detail/11412/rpg-map-symbols-blacksmith-2)
+        + [RPG map symbols Monastery 2](https://openclipart.org/detail/11484/rpg-map-symbols-monastery-2)
+        + [RPG map symbols Maze 2](https://openclipart.org/detail/11478/rpg-map-symbols-maze-2)
     * [tag: D & D](https://openclipart.org/tag/D%20&%20D)
 
 Dedicated to games:
@@ -1239,6 +1233,10 @@ Generators that produces character illustrations that have not been placed under
     * [Feather](https://www.fontspace.com/feather-font-f142436) : free only for personal use
     * [Sophieeeee's fonts](https://www.1001fonts.com/users/sophieeeee/) : free for commercial use; excellent for children books & comics; does not support French accents
     * [Nabana / MyOlivin](https://www.fontspace.com/nabana-font-f56603) : handwriting font, playful hand drawn, support French accents; with bold variant; not for commercial usages
+    * [Lunar Escape](https://www.1001fonts.com/lunar-escape-font.html) : futuristic scifi font
+    * [Cyclopia](https://www.dafont.com/cyclopia.font) : Vladimir Nikolic made a lot of other cool free "illustrated" fonts
+    * [Monterz](www.dafont.com/monsterz.font) : cute B&W monters
+    * [Alphabots](https://www.dafont.com/alphabots.font) : cute B&W robots
 - <https://github.com/ianhan/BitmapFonts> & <http://robhagemans.github.io/monobit/>
 
 <!-- Music & sound
