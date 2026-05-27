@@ -1,7 +1,8 @@
-Title: Pourquoi j'ai proposé à notre asso de quitter les réseaux sociaux
+Title: Pourquoi j'ai proposé à notre asso de quitter les réseaux sociaux des GAFAM
 Date: 2026-01-28
 Lang: fr
 Tags: lang:fr, champtoce, maine-et-loire, kawasso, cafe-associatif, reseau-sociaux, facebook, instagram
+Slug: pourquoi-jai-propose-a-notre-asso-de-quitter-les-reseaux-sociaux
 
 Depuis 3 ans je suis membre de la collégiale d'un café associatif à Champtocé-sur-Loire, le [Kawasso](https://kawasso.odoo.com/).
 

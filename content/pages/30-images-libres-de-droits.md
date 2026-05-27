@@ -1084,6 +1084,7 @@ Old public domain illustrations & photos:
     * [Pirates of the Spanish Main Trading Cards](https://comicbookplus.com/?dlid=72530)
     * [Robin Hood and his Merry Men](https://comicbookplus.com/?dlid=66173)
     * [An Album of Film Stars (1934)](https://comicbookplus.com/?dlid=75981)
+    * [Tor](https://comicbookplus.com/?cid=1111) : prehistory & dinosaurs
 - [DigitalComicMuseum](https://digitalcomicmuseum.com/)
 
 
