@@ -4,7 +4,7 @@ Tags: lang:fr, jdr, jeux, personal-project, framasoft, ori-mushi, wake3-frag-esc
 
 <!-- TODO : logo Studio Ludochaordic + add it to https://lucas-c.itch.io/ -->
 
-En ce moment, fin 2025, je travaille sur ces projets ludiques :
+En ce moment, mi 2026, je travaille sur ces projets ludiques :
 <br><br>
 
 <div class="uk-grid">
@@ -28,6 +28,44 @@ En ce moment, fin 2025, je travaille sur ces projets ludiques :
         <p>Faire imprimer ce jeu en livre.</p>
     </div>
   </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary" id="ori-mushi">Abductés</h2>
+    <img class="uk-align-center" src="images/2026/06/Abductes-monopage.jpg" alt="Abductés">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre :</dt><dd>Jeu de rôle <em>one shot</em></dd>
+        <dt>Statut :</dt><dd>Fini, en cours de traduction en anglais</dd>
+        <dt>Article de blog :</dt><dd>à venir ce mois-ci</dd>
+      </dl>
+      <h3>C'est quoi ?</h3>
+        <p>
+        Un très court jeu de rôle cinématographique,
+        pour un MJ et 3 à 4 joueurs,
+        entièrement basé sur le <em>roleplay</em>
+        </p>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary" id="ori-mushi">Caverneux</h2>
+    <img class="uk-align-center" src="images/2026/06/Caverneux-preview.png" alt="Abductés">
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre :</dt><dd>Jeu de rôle <em>one shot</em></dd>
+        <dt>Statut :</dt><dd>En cours de <em>playtest</em></dd>
+      </dl>
+      <h3>C'est quoi ?</h3>
+        <p>
+        Incarnez des <b><em>homo sapiens</em> dans une ère paléolithique fantasmée</b>, inspirée des comics PULP, où esprits animistes et dinosaures constituent votre quotidien.
+        </p>
+    </div>
+  </section>
+</div>
+
+---
+
+Ces projets sont pour le moment en pause :
+
+<div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary" id="rivages">Rivages</h2>
     <img class="uk-align-center" src="images/2025/01/Rivages-level01.jpg" alt="Capture d'écran du 1er niveau de Rivages">

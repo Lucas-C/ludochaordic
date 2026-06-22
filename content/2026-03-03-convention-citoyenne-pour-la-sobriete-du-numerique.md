@@ -10,11 +10,6 @@ une mini **convention citoyenne sur la sobriété numérique**.
 
 Organisée par le programme [Alt Impact](https://altimpact.fr/), un partenariat de l'ADEME, du CNRS et de l'INRIA, cette convention citoyenne se déroule au lycée Chevrollier à Angers.
 
-<!--div class="side-by-side">
-    <img alt="Logo du programme AltImpact" src="images/2026/03/logo_prog_altimpact.webp">
-    <img alt="" src="images/2026/03/Logo_Chevrollier.png">
-</div-->
-
 Concrètement, cette convention citoyenne implique 3 chercheurs et 14 citoyens participants. Elle se déroule sur 3 mois :
 une journée d'introduction, puis cinq soirées en semaine.
 Nous arrivons au terme de ce calendrier,
@@ -68,20 +63,3 @@ Je pense que c'est une expérience très riche,
 et qui plus est très saine pour notre démocratie 🙂
 
 > J'en profite pour remercier les chercheurs du CNRS qui ont tout organisé et nous ont accompagné, tous mes camarades du groupe citoyen, ainsi que la [Maison Watson](https://maisonwatson.fr/) à Angers qui nous a préparé de délicieux repas tout au long des soirées de la convention citoyenne 😋
-
-
-<style>
-.side-by-side {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: wrap;
-}
-.side-by-side > * { margin: 1rem; }
-@media (min-width:768px) {
-  .side-by-side > * {
-    display: block;
-    max-width: 45%;
-  }
-}
-</style>

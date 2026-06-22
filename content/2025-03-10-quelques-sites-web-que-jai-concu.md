@@ -1,6 +1,6 @@
 Title: Quelques sites web que j'ai conçu
 Date: 2025-03-10 10:00
-Tags: lang:fr, personal-project, kawasso, website, ecoconception, association, creative-commons, libre-software, open-source, source-code, static-site-generator, python, gratuit, prog
+Tags: lang:fr, personal-project, kawasso, website, ecoconception, association, creative-commons, libre-software, open-source, source-code, static-site-generator, python, wordpress, AutoHebergement, gratuit, prog
 ---
 Au cours des 18 derniers mois, j'ai eu l'occasion de concevoir plusieurs sites web pour des proches et des associations où je suis bénévole.
 
@@ -106,6 +106,39 @@ Mon retour d'expérience après quelques mois est que c'est **une offre très in
 <img alt="Capture d'écran du panneau d'administration des bases de donnée d'Odoo"
      src="images/2025/03/odoo-database.png" style="max-height: 15rem">
 
+## Wordpress
+
+<div class="side-by-side">
+    <a href="https://laubergedesreveurs.fr/">
+        <figure>
+            <img alt="Capture d'écran du site web" src="images/2025/03/laubergedesreveurs.fr.png">
+            <figcaption>laubergedesreveurs.fr</figcaption>
+        </figure>
+    </a>
+    <a href="https://antre-deletre.chezsoi.org/">
+        <figure>
+            <img alt="Capture d'écran du site web" src="images/2025/03/antre-deletre.chezsoi.org.png">
+            <figcaption>antre-deletre.chezsoi.org</figcaption>
+        </figure>
+    </a>
+    <a href="https://pousscoop.fr/">
+        <figure>
+            <img alt="Capture d'écran du site web" src="images/2025/03/pousscoop.fr.png">
+            <figcaption>pousscoop.fr</figcaption>
+        </figure>
+    </a>
+</div>
+
+[WordPress](https://fr.wikipedia.org/wiki/WordPress) est un logiciel bien connu pour construire et motoriser un site web.
+
+Voici un rapide bilan de ses avantages & inconvénients selon moi :
+
+* ➕ un site WordPress peut être très riche, extrêmement personnalisable et son écosystème de plugins permet de faire quasiment tout. J'ai par exemple déjà mis en place des formulaires de contact, des compteurs de suivi de la fréquentation d'un site, une _timeline_ chronologique, etc.
+* ➕ WordPress inclut un éditeur de contenu assez pratique, qui ravira les utilisateurs assez familiers des outils numériques
+* ➕ lorsque l'on possède quelques compétences techniques, il est assez facile d'auto-héberger son site WordPress. Il est aussi relativement facile de changer d'hébergeur de manière "transparente", sans impacter le site web ni devoir le reconstruire entièrement.
+* ➖ un site WordPress est moins frugal qu'un site statique : il nécessite plus de ressources (CPU & RAM) et une base de données
+* ➖ les sites WordPress sont une cible très courante d'attaques informatiques, il faut donc être très vigilant à leur sécurisation, et mettre en place des _backups_ réguliers (en testant bien sûr leur restauration)
+* ➖ WordPress est tellement complet qu'il peut constituer une "usine à gaz", difficile à pleinement maîtriser, et des connaissances en PHP sont un vrai plus pour le personnaliser
 
 ## Autres solutions
 Lors de futurs projets, je compte expérimenter d'autres solutions hybrides,

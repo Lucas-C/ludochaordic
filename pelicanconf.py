@@ -43,10 +43,32 @@ EXTRA_PAGE_LINKS = (
     ("Gopher access (beta)", "gopher://chezsoi.org/"),
 )
 
+# Listenings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
+LISTENINGS = (
+    {
+        'date': '2026-06-11',
+        'img_url': 'images/listenings/til-cow-tear-us-apart.jpg',
+        'description': "'Til Cows Tear Us Apart OST - Space Cowgirls - Bande son d'un jeu vidéo de Pierre Corbinais",
+        'url': 'https://tilcowstearusapart.bandcamp.com/album/til-cows-tear-us-apart-ost'
+    },
+    {
+        'date': '2026-06-10',
+        'img_url': 'images/listenings/kick-ass.jpg',
+        'description': "Bande son du film Kick-Ass",
+    },
+    {
+        'date': '2026-06-01',
+        'img_url': 'images/listenings/Blockhead-MusicByCavelight.avif',
+        'description': "Album Music By Cavelight de Blockhead",
+        'url': 'https://blockheadnyc.bandcamp.com/album/music-by-cavelight'
+    },
+)
+LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préférées ici : <a href="https://www.youtube.com/playlist?list=FLF8xTv55ZmwikWWmWLPEAZQ">playlist YouTube</a></p>'''
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
-    {'date': '2026-05-17', 'img_url': 'images/readings/Terrible.jpg', 'description': '«Terrible : l’enfant, la jeune fille et la sorcière - Gaël Henry (BD)'},
+    {'date': '2026-05-30', 'img_url': 'images/readings/LAtelierDesSorciers.jpg', 'description': "L'Atelier des sorciers - Kamome Shirahama (manga)"},
+    {'date': '2026-05-17', 'img_url': 'images/readings/Terrible.jpg', 'description': 'Terrible : l’enfant, la jeune fille et la sorcière - Gaël Henry (BD)'},
     {'date': '2026-05-03', 'img_url': 'images/readings/Dorohedoro-T03.jpg', 'description': 'Dorohedoro - Q Hayashida (manga)'},
     {'date': '2026-04-16', 'img_url': 'images/readings/Wolcano.jpg', 'description': 'Wolcano, la Sorcière du cul - Shyle Zalewski (BD)'},
     {'date': '2026-03-20', 'img_url': 'images/readings/LaTopette-numero23.jpg', 'description': 'La Topette - Numéro 23 (journal)'},
@@ -302,7 +324,7 @@ IMAGE_PROCESS = {
 LINKBACKS_CACHEPATH = os.environ.get('LINKBACKS_CACHEPATH')
 
 THEME = '../pelican-mg'
-DIRECT_TEMPLATES = ('index', 'tagcloud', 'past_readings')
+DIRECT_TEMPLATES = ('index', 'tagcloud', 'past_listenings', 'past_readings')
 DEFAULT_PAGINATION = False
 
 # Settings specific to the theme:
