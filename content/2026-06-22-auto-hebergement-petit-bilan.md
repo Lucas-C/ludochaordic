@@ -1,6 +1,6 @@
 Title: Auto hébergement : petit bilan
 Date: 2026-06-22
-Tags: lang:fr, alerting, service-monitoring, AutoHebergement, sysadmin, linux, ansible, infomaniak, scaleway, OVH, cybersecurity, framasoft, shaarli, caddy, gatus, pelican, php, prog
+Tags: lang:fr, alerting, service-monitoring, AutoHebergement, sysadmin, linux, ansible, infomaniak, scaleway, OVH, cybersecurity, framasoft, shaarli, caddy, gatus, pelican, php, systemd, prog
 ---
 
 J'évoque très rarement le sujet de l'**auto-hébergement** sur ce blog, alors que depuis 12 ans je consacre un temps conséquent à bidouiller plein de trucs dans ce domaine ! 😁
@@ -99,7 +99,7 @@ Et je me suis beaucoup amusé à bricoler ainsi 😁
 
 Parmi les points forts :
 
-- de nombreuses _tasks_ natives (_builtin_) sont disponibles. Combinées avec le système de _templates_ Jinja, elles m'ont permis de très facilement implémenter les étapes d'installation de mes services
+- de nombreuses _tasks_ natives (_builtin_) sont disponibles. Combinées avec le système de _templates_ Jinja, elles m'ont permis de très facilement implémenter les étapes d'installation de mes services, et notamment la création de _users_ et de services `systemd` dédiés. À ce sujet je recommande [ce papier de l'ANSSI pour "durcir" sa configuration systemd](https://www.sstic.org/media/SSTIC2017/SSTIC-actes/durcissement_systeme_avec_systemd/SSTIC2017-Article-durcissement_systeme_avec_systemd-ravier.pdf).
 - [`ansible-lint`](https://docs.ansible.com/projects/lint/) est très facile à mettre en place, et m'a appris à adopter de nombreuses bonnes pratiques
 - il existe quelques optimisations importantes à mettre en place pour rendre Ansible plus rapide, comme détaillé par exemple dans [cet article du site de Stéphane Robert](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ansible-increase-performance/)
 
@@ -276,3 +276,8 @@ Joyeux auto-hébergement à tous 😊
   max-width: 33%;
 }
 </style>
+
+<!-- Com'
+* [x] https://linuxfr.org/users/lucas-c/liens/auto-hebergement-petit-bilan
+* [x] https://old.reddit.com/r/AutoHebergement/comments/1ucwee7/auto_h%C3%A9bergement_petit_bilan/?
+-->
