@@ -279,5 +279,5 @@ Joyeux auto-hébergement à tous 😊
 
 <!-- Com'
 * [x] https://linuxfr.org/users/lucas-c/liens/auto-hebergement-petit-bilan
-* [x] https://old.reddit.com/r/AutoHebergement/comments/1ucwee7/auto_h%C3%A9bergement_petit_bilan/?
+* [x] https://reddit.com/r/AutoHebergement/comments/1ucwee7/auto_h%C3%A9bergement_petit_bilan/?
 -->

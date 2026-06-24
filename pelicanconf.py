@@ -67,6 +67,7 @@ LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préfér�
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-06-21', 'img_url': 'images/readings/LaLangueDesViperes.jpg', 'description': 'La Langue des vipères - Juliette Brocal (BD)'},
     {'date': '2026-05-30', 'img_url': 'images/readings/LAtelierDesSorciers.jpg', 'description': "L'Atelier des sorciers - Kamome Shirahama (manga)"},
     {'date': '2026-05-17', 'img_url': 'images/readings/Terrible.jpg', 'description': 'Terrible : l’enfant, la jeune fille et la sorcière - Gaël Henry (BD)'},
     {'date': '2026-05-03', 'img_url': 'images/readings/Dorohedoro-T03.jpg', 'description': 'Dorohedoro - Q Hayashida (manga)'},
@@ -242,13 +243,14 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('wikipedia', 'https://fr.wikipedia.org/wiki/Utilisateur:Dr_max_kurt'),
           ('itchio', 'https://lucas-c.itch.io'),
           ('stackoverflow', 'https://stackoverflow.com/users/636849/lucas-cimon'),
-          ('discord', 'https://discord.com/invite/BJeuEtX'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
-          ('reddit', 'https://www.reddit.com/user/lucas-c/posts/'))
+          ('reddit', 'https://www.reddit.com/user/lucas-c/posts/'),
+          ('scenariotheque', 'https://www.scenariotheque.org/auteurs/lucas-c'),
+          # ('discord', 'https://discord.com/invite/BJeuEtX'),
           # ('root-me', 'https://www.root-me.org/Lucas-C'),
           # ('reddit', 'https://www.reddit.com/user/drmaxkurt/posts/'),
           # ('deviantart', 'https://www.deviantart.com/drmaxkurt/favourites'),
-          # ('travis-ci', 'https://travis-ci.com/Lucas-C'),
+         )
 
 SUPPORTS = (('La Topette', 'https://latopette.fr/', 'images/LaTopette.png', 'Abonnez-vous à La Topette'),
             ('La Revue Dessinée', 'https://www.larevuedessinee.fr/', 'images/LaRevueDessinee.jpg', 'Abonnez-vous à la Revue Dessinée'),
