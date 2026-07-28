@@ -46,7 +46,7 @@ Slug: 2200-le-jugement-des-dieux
 > Elle élargit son culte, forma des alliances, recruta à son tour un disciple techno-mécanicien...
 
 > Et le jour de l'opération « coup de poing » tout se passa miraculeusement comme prévu.
-> Ils neutralisèrent les gardes, désactivèrent la sécurité, et attinrent le coeur du réseau
+> Ils neutralisèrent les gardes, désactivèrent la sécurité, et attinrent le cœur du réseau
 > informatique central bien avant l'arrivée de l'armée.
 > Prématurément âgée, tremblante mais triomphante, Shanon s'assit dans le fauteuil de télécontrôle
 > comme sur un trône.
@@ -56,13 +56,16 @@ Slug: 2200-le-jugement-des-dieux
 
 ---
 
+<br>
+
+_English version of the game: [there on itch.io](https://lucas-c.itch.io/2200-the-gods-judgement) & [there on DriveThruRPG](https://www.drivethrurpg.com/en/product/578026)_
+
+<br>
+
 Ces textes racontent quelques unes des histoires que nous avons écrit collectivement
 lors des _playtests_ du dernier jeu de rôle que j'ai écrit : **2200 : Le Jugement Des Dieux**.
 
-- PDF en français : [2200-le-jugement-des-dieux-v1.1.pdf](https://chezsoi.org/s/2200LJDD11DirectPDFDownload)
-- version web en français : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/>
-- PDF in English : [2200-the-gods-judgement-v1.1.pdf](https://chezsoi.org/s/2200TGJ11DirectPDFDownload)
-- web version in English : <https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/2200_the_gods_judgement.html>
+Page `itch.io` : [2200 : Le Jugement Des Dieux](https://lucas-c.itch.io/2200-le-jugement-des-dieux)
 
 Il s'agit d'un jeu de rôle [narratif](/lucas/blog/tag/narration-collective.html) pour 3 ou 4 joueurs, sans préparation nécessaire,
 dans lequel vous aller incarner un dieu, ancien ou moderne,
@@ -96,6 +99,13 @@ Cela ma motivé à traduire le jeu en anglais,
 et à mettre les 2 versions en ligne sur itch.io :
 <https://lucas-c.itch.io/2200-le-jugement-des-dieux>.
 
+
 <style>
 article img { width: 12rem; }
+article > section > p:nth-child(2) {
+    text-align: center;
+    font-size: large;
+    line-height: 1.8rem;
+    list-style-position: inside;
+}
 </style>

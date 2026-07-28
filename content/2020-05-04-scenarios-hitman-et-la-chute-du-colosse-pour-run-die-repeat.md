@@ -55,7 +55,7 @@ Le géant a plusieurs particularités :
 - ses points faibles :
   * un sceau runique luminescent au front (le seul des 3 visible aisément)
   * un harpon planté dans sa nuque qui, si retiré, « libèrera » la créature, qui fera demi-tour
-  * un énorme cristal bleu au niveau du coeur, battant lentement.
+  * un énorme cristal bleu au niveau du cœur, battant lentement.
     Il emet une attraction magnétique qui immobilisera le glaive contre son torse si le joueur l'escalade.
 ### Obstacles
 - dès que le joueur s'approche de lui, le colosse tentera de l'écrabouiller d'un pied ou de son arme

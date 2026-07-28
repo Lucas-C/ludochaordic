@@ -11,6 +11,40 @@ Slug: jeux-de-role
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
+    <h2 class="uk-text-bold uk-text-primary">Abductés</h2>
+    <a href="https://chezsoi.org/s/Abductesmonopage">
+      <img class="uk-align-center" src="images/2026/07/Abductes-monopage.jpg" alt="">
+    </a>
+    <div class="uk-thumbnail-caption">
+      <dl class="uk-description-list-list">
+        <dt>Genre</dt><dd>Court jeu de rôle <em>one-shot</em></dd>
+        <dt>Thèmes</dt><dd>enlèvement, science-fiction, négociation tendue, temps limité</dd>
+        <dt>Pour</dt><dd>1 MJ + 3 à 4 joueurs</dd>
+        <dt>Prix</dt><dd>3 €</dd>
+      </dl>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/abductes">La page itch.io du jeu</a></li>
+        <li><a href="abducted-negotiators-abductes.html">Article de blog de présentation</a></li>
+      </ul>
+      <blockquote>
+        Vous êtes enlevés par...
+        <br>
+        quelque chose.
+        <br>
+        Vous vous réveillez ensemble dans une pièce ressemblant à un cabinet de travail.
+        La femme assise derrière le bureau s'adresse à vous :
+        <br>
+        « Bienvenue. Je suis Olivia. »
+      </blockquote>
+      <p>
+        Un court jeu de rôle <em>one-shot</em>, axé sur le <em>roleplay</em>, et conçu pour surprendre les joueurs : ils sont placés au cœur d'une négociation dont l'enjeux les dépasse très largement.
+        <br>
+        Le matériel de jeu est composé d'une trentaine de cartes,
+        fournies dans le PDF, qu'il vous suffira d'imprimer.
+       </p>
+    </div>
+  </section>
+  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
     <h2 class="uk-text-bold uk-text-primary">La Vengeance des Pandas Roux de l'Espace</h2>
     <img class="uk-align-center" src="images/2018/11/rpid-estampe-768x768.png" alt="">
     <div class="uk-thumbnail-caption">
@@ -232,10 +266,14 @@ Slug: jeux-de-role
         <dt>Durée</dt><dd>3h environ</dd>
       </dl>
       <ul>
+        <li><a href="https://lucas-c.itch.io/2200-le-jugement-des-dieux">Page itch.io du jeu en français</a></li>
+        <li><a href="https://www.drivethrurpg.com/fr/product/578027">Page DriveThruRpg du jeu en français</a></li>
         <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/">Version web en français</a></li>
-        <li><a href="https://chezsoi.org/s/2200LJDD11DirectPDFDownload">PDF en français</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://lucas-c.itch.io/2200-the-gods-judgement">itch.io page of the English version</a></li>
+        <li><a href="https://www.drivethrurpg.com/fr/product/578026">DriveThruRpg page of the English version</a></li>
         <li><a href="https://lucas-c.github.io/jdr/2200_le_jugement_des_dieux/2200_the_gods_judgement.html">Web version in English</a></li>
-        <li><a href="https://chezsoi.org/s/2200TGJ11DirectPDFDownload">PDF in English</a></li>
       </ul>
       <blockquote>Dans ce jeu vous aller incarner un dieu, ancien ou moderne,
       ayant la charge de statuer du sort des mortels décédés en cette année 2200.
@@ -455,5 +493,6 @@ qui est bien plus respectueux des standards d'accessibilité.
 h2 { text-align: center; }
 img.padded { padding: 2rem; }
 .uk-grid > section { margin-top: 1rem; }
+article ul { list-style-position: inside; }
 blockquote ul { padding-left: .5rem; margin: .5rem 0; font-size: 88%; }
 </style>

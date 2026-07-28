@@ -46,6 +46,12 @@ EXTRA_PAGE_LINKS = (
 # Listenings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 LISTENINGS = (
     {
+        'date': '2026-07-19',
+        'img_url': 'images/listenings/CitizenSleeper.avif',
+        'description': 'Citizen Sleeper Original Soundtrack - Amos Roddy',
+        'url': 'https://amosroddy.bandcamp.com/album/citizen-sleeper-original-soundtrack'
+    },
+    {
         'date': '2026-06-11',
         'img_url': 'images/listenings/til-cow-tear-us-apart.jpg',
         'description': "'Til Cows Tear Us Apart OST - Space Cowgirls - Bande son d'un jeu vidéo de Pierre Corbinais",
@@ -67,6 +73,7 @@ LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préfér�
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-07-23', 'img_url': 'images/readings/Comment-la-tech-a-pris-le-pouvoir-aux-Etats-Unis.jpg', 'description': 'Comment la tech a pris le pouvoir aux États-Unis - Le papier numérique'},
     {'date': '2026-06-21', 'img_url': 'images/readings/LaLangueDesViperes.jpg', 'description': 'La Langue des vipères - Juliette Brocal (BD)'},
     {'date': '2026-05-30', 'img_url': 'images/readings/LAtelierDesSorciers.jpg', 'description': "L'Atelier des sorciers - Kamome Shirahama (manga)"},
     {'date': '2026-05-17', 'img_url': 'images/readings/Terrible.jpg', 'description': 'Terrible : l’enfant, la jeune fille et la sorcière - Gaël Henry (BD)'},

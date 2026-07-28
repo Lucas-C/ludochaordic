@@ -15,7 +15,7 @@ Voici un petit compte-rendu de notre première partie d'il y a quelques semaines
 [<img src="images/2017/09/f8023ad16d6734862e3899c200b0d612.jpg" alt="Ludius Dalmore" title="Ludius Dalmore">](images/2017/09/f8023ad16d6734862e3899c200b0d612.jpg)
 
 - **Ludius Dalmore** : chef du gang; ancien capitaine de navire chasseur de léviathans; très sec, avec une grande barbe; connu pour avoir fracassé des bâteaux dans le port de Duskwall; champion du vol de marchandise en cours de transport; se bat avec 2 haches
-- **Ethnos** (PJ: _Hound_) : noble des "Dagger Isles"; très pieux et repentant; ancien freelance recruté dans le gang par la soeur de Ludius
+- **Ethnos** (PJ: _Hound_) : noble des "Dagger Isles"; très pieux et repentant; ancien freelance recruté dans le gang par la sœur de Ludius
 - **Eric Stamp** (PJ: _Cutter_) : féroce combattant originaire de Tycheros, dont la violence est à la hauteur de la réputation de démons qu'ont ces "étrangers"; recruté après avoir détruit un bâtiment entier alors que le gang opérait un casse à proximité
 - **Elaria** (PJ: _Lurk_) : voleuse originaire d'une famille pauvre de travailleurs d'Akoros, recueillie par Ludius très jeune; a fait de la prison pour cambriolage; toxicomane
 - **Melvir** : _physicker_, vieil ami de Ludius du temps où ils naviguaient

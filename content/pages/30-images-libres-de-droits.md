@@ -958,7 +958,7 @@ And possibly: `after:2020-01-01` / `before:2020-01-01`
 - DeviantArt Creative Commons via Google:
     * [site:deviantart.com "creative commons" -Derivatives -NoDerivatives -"User Profile" -Explore -mandala](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-mandala&tbs=qdr:m) avec filtre "il y a moins d'un mois"
     * [site:deviantart.com -Derivatives -NoDerivatives -"User profile" -Explore -"AI tools" (artwork|"concept art"|illustration|character)](https://www.google.com/search?tbm=isch&tbs=sur:cl&q=site%3Adeviantart.com+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-%22AI+tools%22+%28artwork%7C%22concept+art%22%7Cillustration%7Ccharacter%29&tbs=qdr:m) avec filtre sur les Licences Creative Commons (`tbs=sur:cl`)
-- [OpenVerse](https://wordpress.org/openverse/search/)
+- [OpenVerse](https://wordpress.org/openverse/search/) : 800 million creative works, all under _Creative Commons_ license or is in the public domain
 - [Flickr CC search](https://www.flickr.com/search/?l=cc)
     * example: [British Library castles](https://www.flickr.com/search/?w=12403504%40N02&q=castle)
 - [Behance Creative Commons via Google](https://www.google.fr/search?tbm=isch&q=site%3Awww.behance.net+"creative+commons"+-"No+Derivative")
@@ -998,6 +998,7 @@ Dedicated to Vector graphics & flat / ClipArt images:
     * [Elf princess sketch image](https://freesvg.org/elf-princess-sketch-image)
     * [Attack the Tower 3rd Gen](https://freesvg.org/results)
     * [Yellow Green Leafy Sea Dragon](https://freesvg.org/1526744332)
+    * [Golden glowing cross](https://freesvg.org/glowing-cross)
 - [SVG Silh](https://svgsilh.com) - CC0
 - [svgrepo.com](https://www.svgrepo.com)
 - [CocoMaterial, the Open Source hand-drawn illustration library](https://cocomaterial.com/)
@@ -1045,7 +1046,7 @@ Mostly photos:
     * [fantasy-warrior-demon-undead-evil](https://pixabay.com/illustrations/fantasy-warrior-demon-undead-evil-8082370/)
     * [cyberpunk-futuriste-urbain](https://pixabay.com/fr/illustrations/cyberpunk-futuriste-urbain-7488618/)
 - [pxfuel](https://www.pxfuel.com)
-    * [analog, watch, illustration lot, time, clock, watches, time of, business, appointment, past](https://www.pxfuel.com/en/free-photo-ooqqp)
+    * [analog, watch, illustration lot, time, clock, watches, time of, business, appointment, past](https://www.hippopx.com/en/free-photo-ooqqp)
 - [Open Image Collections](https://blogs.ntu.edu.sg/openimagecollections/)
 - [rawpixel Public Domain images](https://www.rawpixel.com/category/53/public-domain) : Vintage Design Resources with a CC0 License
     * [Artists Collections](https://www.rawpixel.com/category/191/artist-collections)
@@ -1075,6 +1076,16 @@ Old public domain illustrations & photos:
     * [Watercolors](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Watercolors)
 - [New York Public Library Digital Collections](https://digitalcollections.nypl.org/collections)
 - [Old Book Illustrations](https://www.oldbookillustrations.com)
+    + Subject: [Landscape places](https://www.oldbookillustrations.com/illustrations/subjects/landscapes-places/)
+    + Artist: [Paget, Sidney](https://www.oldbookillustrations.com/artists/paget-sidney/)
+    + Artist: [Vallotton, Félix](https://www.oldbookillustrations.com/artists/vallotton-felix/)
+    + [The Cloud Kingdom](https://www.oldbookillustrations.com/illustrations/cloud-kingdom-opening/)
+    + [Dannemora mine](https://www.oldbookillustrations.com/illustrations/dannemora-mine/)
+    + [Down to the Pool](https://www.oldbookillustrations.com/illustrations/tavern-old-knew/) : taverne
+    + [Saint John Church, Thiers](https://www.oldbookillustrations.com/illustrations/saint-john-thiers/)
+    + [The Old Family Mansion](https://www.oldbookillustrations.com/illustrations/old-family-mansion/)
+    + [Strange Garden](https://www.oldbookillustrations.com/illustrations/strange-garden/) : magicien coupable
+    + [Windy Day](https://www.oldbookillustrations.com/illustrations/windy-day/) - tag: [#ship](https://www.oldbookillustrations.com/illustrations/tag/ship/)
 - [The Graphics Fairy](https://thegraphicsfairy.com)
 - [Wellcome Collection](https://wellcomecollection.org/works)
 

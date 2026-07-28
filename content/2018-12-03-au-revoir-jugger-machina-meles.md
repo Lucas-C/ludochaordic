@@ -45,7 +45,7 @@ Je cite [wikipedia](https://fr.wikipedia.org/wiki/Jugger) :
 Et donc, ce même été là en 2014, une dizaine d'amis sont venus nous rendre visite à Dublin,
 avant que nous ne plions bagage pour rentrer en France.
 
-Nous en avons profité pour leur faire découvrir le Jugger, qui avait été un véritable coup de coeur.
+Nous en avons profité pour leur faire découvrir le Jugger, qui avait été un véritable coup de cœur.
 Enfin quand je dis "nous", c'est grâce aux entraîneurs de l'équipe _Setenta_ de l'époque, qui nous ont tout appris&nbsp;:
 Mark, Seamus, Marion, mille fois merci !
 

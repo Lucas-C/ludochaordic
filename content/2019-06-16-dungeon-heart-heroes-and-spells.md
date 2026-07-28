@@ -21,7 +21,7 @@ Cette extension consiste simplement en une table aléatoire A4 dans laquelle les
 Elle contient des complications, des avantages pour les Gardiens, un mécanisme de _boss fight_ et des amorces narratives.
 
 Nous avons de plus utilisé une des variantes proposée dans l'article précédent :
-un aventurier de plus attaquait le donjon à chaque nouvelle phase d'invasion, mais si le coeur du donjon est atteint,
+un aventurier de plus attaquait le donjon à chaque nouvelle phase d'invasion, mais si le cœur du donjon est atteint,
 le nombre d'aventuriers de la prochaine vague redevient égal au nombre de joueurs.
 
 Malheureusement la partie nous a semblé tout aussi facile et « pliée » dès le 5e tour.
@@ -32,7 +32,7 @@ supprimer les types d'emplacement, mais permettre au Squelette de fournir un bon
 
 Pour cette partie, notre donjon était une gigantesque tour de granite blanc,
 penchant dangereusement le long d'une falaise au-dessus de l'océan.
-Son coeur était un mot magique secret, qui pouvait être entendu dans la plus haute salle de la tour
+Son cœur était un mot magique secret, qui pouvait être entendu dans la plus haute salle de la tour
 lorsque le vent s'y engouffrait.
 Elle contenait une horloge géante, un puit ouvert sur le vide, une bibliothèque labyrinthique,
 une fresque trompe-l'oeil sur une corniche, une chouette géante, de petits oiseaux blancs mangeurs d'hommes,

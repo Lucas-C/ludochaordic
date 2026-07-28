@@ -229,7 +229,7 @@ je vous recommande la lecture de cet article : [Quelques suggestions pour début
         <li><a href="scavengers-anomalies-nauchoresques.html">Une aide de jeu de mon cru</a></li>
       </ul>
       <blockquote>
-       En bordure de la Fédération Galactique s’étend la Nouvelle Frontière, là où l’on exploite les nouveaux mondes et les corps célestes pour faire tourner l’économie du Coeur Fédéral.
+       En bordure de la Fédération Galactique s’étend la Nouvelle Frontière, là où l’on exploite les nouveaux mondes et les corps célestes pour faire tourner l’économie du Cœur Fédéral.
        <br>
        Les autorités regardent ailleurs, les compagnies d’affrètement font la loi et les indépendants grattent les miettes. En dessous de tout ça, les charognards, des mercenaires qui explorent les épaves stellaires et en ramènent des trésors oubliés.
        <br>

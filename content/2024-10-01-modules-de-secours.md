@@ -1,6 +1,6 @@
 Title: Paradis Perdu - Modules de secours
 Date: 2024-10-01 2:00
-Tags: lang:fr, jdr, one-shot, aide-de-jeu, prix-libre, personal-project, creative-commons, yno, willy-favre, prix-libre, pinterest, @Aurelien, @Matt, @Anna, @Mirko, @Mickael, jeux
+Tags: lang:fr, jdr, one-shot, aide-de-jeu, personal-project, creative-commons, yno, willy-favre, prix-libre, pinterest, @Aurelien, @Matt, @Anna, @Mirko, @Mickael, jeux
 Slug: modules-de-secours
 ---
 ![Couvertures de Paradis Perdu & Modules de secours](images/2024/09/ModulesDeSecours-covers.jpg)

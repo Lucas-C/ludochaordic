@@ -78,7 +78,7 @@ elles doivent continuellement trouver de nouvelles approches pour faire face à 
 Dans beaucoup d'autres jeux de rôle, cette forme d'ingéniosité est une composante parmi bien d'autres de la partie,
 laissant la part belle, selon les jeux, à l'improvisation théatrale, à la réflexion, à la tactique ou à bien d'autres mécanismes.
 
-Dans _Run. Die. Repeat._, imaginer de nouvelles solutions, même improbables, est au coeur de la [« boucle ludique »](https://fr.wikipedia.org/wiki/Game_design#Gameplay). D'ailleurs, le jeu ne pénalisant absolument pas les idées loufoques,
+Dans _Run. Die. Repeat._, imaginer de nouvelles solutions, même improbables, est au cœur de la [« boucle ludique »](https://fr.wikipedia.org/wiki/Game_design#Gameplay). D'ailleurs, le jeu ne pénalisant absolument pas les idées loufoques,
 elles peuvent donner lieux à de grands moments d'hilarité autour de la table !
 
 Pour l'ancedote par exemple, lors d'une partie du scénario _Invasion_ hier,
