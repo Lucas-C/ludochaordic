@@ -4,6 +4,12 @@ Tags: lang:fr, jdr, bd, personal-project, narration-collective, creative-commons
 Slug: 2200-le-jugement-des-dieux
 ---
 
+<br>
+
+_English version of the game: [there on itch.io](https://lucas-c.itch.io/2200-the-gods-judgement) & [there on DriveThruRPG](https://www.drivethrurpg.com/en/product/578026)_
+
+<br>
+
 <figure role="group">
     <img alt="Whitelady par Tenseï aka Elliot Jolivet" src="images/2019/06/tensei-inktober2017-whitelady.jpg">
     <figcaption>Whitelady par Tenseï aka Elliot Jolivet - <a href="https://www.behance.net/gallery/58695271/InkTober-2017">Réalisé pour Iinktober 2017</a></figcaption>
@@ -55,12 +61,6 @@ Slug: 2200-le-jugement-des-dieux
 > mais diffuser sa conscience dans les cerveaux électroniques de machines dans le monde entier...
 
 ---
-
-<br>
-
-_English version of the game: [there on itch.io](https://lucas-c.itch.io/2200-the-gods-judgement) & [there on DriveThruRPG](https://www.drivethrurpg.com/en/product/578026)_
-
-<br>
 
 Ces textes racontent quelques unes des histoires que nous avons écrit collectivement
 lors des _playtests_ du dernier jeu de rôle que j'ai écrit : **2200 : Le Jugement Des Dieux**.

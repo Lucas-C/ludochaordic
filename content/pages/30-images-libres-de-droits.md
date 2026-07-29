@@ -141,6 +141,10 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [053](https://www.deviantart.com/nicosaba/art/053-558229291)
     * [204612699](https://www.deviantart.com/nicosaba/art/204612699-887380984)
     * [Princessss3](https://www.deviantart.com/nicosaba/art/Princessss3-906800136)
+    * [Amarant](https://www.deviantart.com/nicosaba/art/Amarant-537482895)
+    * [WASP IV](https://www.deviantart.com/nicosaba/art/Wasp-IV-655620151)
+    * [Hold You Still](https://www.deviantart.com/nicosaba/art/Hold-you-still-456866122)
+    * [Urban 002](https://www.deviantart.com/nicosaba/art/Urban-002-543470882)
 - Yann Blomquist _aka_ TinySecretDoor [fantasy portraits](https://www.deviantart.com/tinysecretdoor/gallery/52921157/Fantasy-Portraits) CC BY-NC:
 > Senior Concept Artist ⚔️ Drawer of People, Places & Things 🖌 Armorsmith ⚒ Lover of Chocolate 🍫 United Kingdom
     * [Fantasy Portraits 9](https://www.deviantart.com/tinysecretdoor/art/Fantasy-Portraits-9-547312601)
@@ -619,6 +623,10 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Lake Witch](https://www.deviantart.com/trentanthonyfrancis/art/Lake-Witch-1111827146)
     * [Nagrindarkona](https://www.deviantart.com/trentanthonyfrancis/art/Nagrindarkona-1112706209)
     * [The Bone Lady](https://www.deviantart.com/trentanthonyfrancis/art/The-Bone-Lady-1103268376)
+    * [GOD DIDN'T LISTEN](https://www.deviantart.com/trentanthonyfrancis/art/GOD-DIDN-T-LISTEN-4K-Desktop-Wallpaper-1158693568)
+    * [In This Together, Forever](https://www.deviantart.com/trentanthonyfrancis/art/In-This-Together-Forever-1352655633)
+    * [WAYFARER: ARION | 18 DELPHINI](https://www.deviantart.com/trentanthonyfrancis/art/WAYFARER-ARION-18-DELPHINI-946081905)
+    * [THE ART OF KEYSTONE // Page 23](https://www.deviantart.com/trentanthonyfrancis/art/THE-ART-OF-KEYSTONE-Page-23-949196423)
 - [TenPenBen](https://www.deviantart.com/tenpenben) - CC BY-SA
     * [CrossbowKnight](https://www.deviantart.com/tenpenben/art/TenPenBenCrossbowKnightDeviantArt-1045801738)
     * [NatureKnight](https://www.deviantart.com/tenpenben/art/NatureKnight-1049902081)
@@ -726,6 +734,11 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Witch](https://www.deviantart.com/syreni-desu/art/Witch-512543486)
     * [Enemy team : Leader](https://www.deviantart.com/syreni-desu/art/Original-Project-Enemy-team-Leader-557980687)
     * [Enemy team : number 9](https://www.deviantart.com/syreni-desu/art/Original-Project-Enemy-team-number-9-555595070)
+- [Angela Quidam](https://quidam.design/) : illustratrice & _graphic designer_ française, a partagé plusieurs artpacks CC BY-NC
+    * [Artpack Crossroad Chronicler](https://damdan.itch.io/art-pack-crossroad-chronicler): ![](https://img.itch.zone/aW1hZ2UvNTQ1MTk2LzI5MzcxODYuanBn/original/buDTJ%2B.jpg)
+    * [Artpack small ships, space ships](https://damdan.itch.io/art-pack-small-ships-space-ships): ![](https://img.itch.zone/aW1nLzY2MzMxMTMuanBn/original/t841Qa.jpg)
+    * [Artpack quill noir](https://damdan.itch.io/art-pack-quill-noir): ![](https://img.itch.zone/aW1hZ2UvNTQ0NzY0LzI4NDE3NTkuanBn/794x1000/b2SBU%2F.jpg)
+    * [Artpack 7 tower](https://damdan.itch.io/7towers): ![](https://img.itch.zone/aW1hZ2UvNjczMDg0LzM2NzkyOTUucG5n/original/ZStlII.png)
 - Midge Sinnaeve [Datafaces](https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f) CC0
 - [Emiel Boven google drive](https://drive.google.com/drive/folders/1UV63xx3Mue8TbVxImTdBDbzH9uljLmFh) CC BY
 
@@ -943,8 +956,8 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 - [ZzSprite 16x16 sprite generator](https://killedbyapixel.github.io/ZzSprite/)
 
 ## Photos
-- [Newcastle upon Tyne criminals of the 1930s](https://www.flickr.com/photos/twm_news/albums/72157631080087096)
-  _Tyne & Wear Archives & Museums_ - Free for non-commercial usage
+- Newcastle upon Tyne criminals of the 1930s: _Tyne & Wear Archives & Museums_ - Free for non-commercial usage
+    * [flickr album](https://www.flickr.com/photos/twm_news/albums/72157631080087096)
 
 ## Textures
 - [JurgaSan](https://www.deviantart.com/jurgasan/gallery/51630892/TEXTURE) - CC BY
@@ -1056,6 +1069,10 @@ Mostly photos:
     * [Compendium Of Demonology and Magic (ca. 1775)](https://publicdomainreview.org/collection/compendium-of-demonology-and-magic-ca-1775/)
     * [Don Quixote in the 20th Century (ca. 1905)](https://publicdomainreview.org/collection/pedro-de-rojas-don-quixote-in-the-20th-century/)
     * [Harry Clarke’s Illustrations for Poe’s Tales of Mystery and Imagination (1919) ](https://publicdomainreview.org/collection/harry-clarke-s-illustrations-for-poe-s-tales-of-mystery-and-imagination-1919/)
+- [Unsplash /illustrations](https://unsplash.com/fr/illustrations)
+    * [Simple illustration de gravure sur bois d’un crâne humain](https://unsplash.com/fr/illustrations/simple-illustration-de-gravure-sur-bois-dun-crane-humain-6W5MRcFKqHk)
+- [pexels](https://www.pexels.com): free stock photos
+
 
 Old public domain illustrations & photos:
 
@@ -1096,6 +1113,7 @@ Old public domain illustrations & photos:
     * [Robin Hood and his Merry Men](https://comicbookplus.com/?dlid=66173)
     * [An Album of Film Stars (1934)](https://comicbookplus.com/?dlid=75981)
     * [Tor](https://comicbookplus.com/?cid=1111) : prehistory & dinosaurs
+    * [Eerie](https://comicbookplus.com/?dlid=23587) : undead zombie
 - [DigitalComicMuseum](https://digitalcomicmuseum.com/)
 
 

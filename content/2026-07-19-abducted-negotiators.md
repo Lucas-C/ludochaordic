@@ -3,15 +3,9 @@ Date: 2026-07-19 20:00
 Tags: lang:fr, jdr, one-shot, gamedesign, personal-project, mecaniques-de-jeu, mise-en-page, aliens, science-fiction, negociation, cards, abduction, @Aurelien, @Matt, @Olivier, jeux
 ---
 
-<!-- POST-PUBLISHING :
-* [ ] AbductedNegotiators.md : contacter le réalisateur du court-métrage
-* [ ] Abductes.md : https://www.casusno.fr / https://www.reddit.com/r/jdr / CestPadDuJdr, PTGPTB...
-* [ ] itch.io : publish on https://itch.io/board/10022/release-announcements & add devlogs
--->
-
 <br>
 
-_English version of the game: [there on itch.io](https://lucas-c.itch.io/abducted-negotiators) & [there on DriveThruRPG](https://www.drivethrurpg.com/en/product/577659)_
+_English version of the game: [there on itch.io](https://lucas-c.itch.io/abducted-negotiators) & [there on DriveThruRPG](https://www.drivethrurpg.com/en/product/577659/Abducted-Negotiators?affiliate_id=637718)_
 
 <br>
 
@@ -30,7 +24,7 @@ pour une MJ et 3 à 4 joueurs lors d'une courte session de jeu _one-shot_,
 Vous pouvez acquérir le jeu ici :
 
 * [Abductés @ itch.io](https://lucas-c.itch.io/abductes)
-* [Abductés @ _DriveThruRPG_](https://www.drivethrurpg.com/fr/product/577661)
+* [Abductés @ _DriveThruRPG_](https://www.drivethrurpg.com/fr/product/577661/Abductes?affiliate_id=637718)
 
 <br>
 
