@@ -39,7 +39,7 @@ imaginés en début de partie, et vivre un enlèvement surnaturel par... quelque
 
 Puis, durant la scène centrale du jeu, ils découvrent la raison de leur abduction
 et doivent négocier des enjeux cruciaux en un temps limité :
-se rêveleront-ils altruistes ou tireront-ils individuellement leur épingle du jeu ?
+se révéleront-ils altruistes ou tireront-ils individuellement leur épingle du jeu ?
 
 **Abductés** est un jeu prévu pour raconter **une courte histoire intense,
 où des conséquences titanesques vont découler d'une unique scène de _roleplay_ improvisé**.

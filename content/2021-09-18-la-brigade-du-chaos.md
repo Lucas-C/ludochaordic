@@ -79,6 +79,6 @@ img.comic-strip { max-height: none; max-width: 100%; }
 * [x] https://forum.canardpc.com/threads/12905-JDR-Jeux-de-R%C3%B4le-Topic-G%C3%A9n%C3%A9ral?p=13548708&viewfull=1#post13548708
 * [x] https://www.reddit.com/r/jdr/comments/pt2p93/gratuit_oneshot_traduction_la_brigade_du_chaos/
 * [x] http://www.legrog.org/jeux-amateurs/la-brigade-du-chaos
-* [wip] https://www.annuairejdr.fr
+* [x] https://www.annuairejdr.fr/la-brigade-du-chaos-s2909.html
 -->
 

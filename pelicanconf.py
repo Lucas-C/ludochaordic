@@ -73,6 +73,7 @@ LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préfér�
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-08-02', 'img_url': 'images/readings/Zita-la-fille-de-l-espace-T2.jpg', 'description': "Zita, la fille de l'espace - tome 2 - Ben Hatke (BD)"},
     {'date': '2026-07-23', 'img_url': 'images/readings/Comment-la-tech-a-pris-le-pouvoir-aux-Etats-Unis.jpg', 'description': 'Comment la tech a pris le pouvoir aux États-Unis - Le papier numérique'},
     {'date': '2026-06-21', 'img_url': 'images/readings/LaLangueDesViperes.jpg', 'description': 'La Langue des vipères - Juliette Brocal (BD)'},
     {'date': '2026-05-30', 'img_url': 'images/readings/LAtelierDesSorciers.jpg', 'description': "L'Atelier des sorciers - Kamome Shirahama (manga)"},
@@ -253,6 +254,8 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           ('linkedin', 'https://www.linkedin.com/in/lucascimon'),
           ('reddit', 'https://www.reddit.com/user/lucas-c/posts/'),
           ('scenariotheque', 'https://www.scenariotheque.org/auteurs/lucas-c'),
+          ('drivethrurpg', 'https://www.drivethrurpg.com/fr/publisher/35338/ludochaordic'),
+          ('nownownow', 'https://nownownow.com/p/ZtsL'),
           # ('discord', 'https://discord.com/invite/BJeuEtX'),
           # ('root-me', 'https://www.root-me.org/Lucas-C'),
           # ('reddit', 'https://www.reddit.com/user/drmaxkurt/posts/'),
