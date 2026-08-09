@@ -46,6 +46,12 @@ EXTRA_PAGE_LINKS = (
 # Listenings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 LISTENINGS = (
     {
+        'date': '2026-08-05',
+        'img_url': 'images/listenings/skinshape.webp',
+        'description': 'Skinshape aka William Dorey',
+        'url': 'https://skinshape.bandcamp.com/'
+    },
+    {
         'date': '2026-07-19',
         'img_url': 'images/listenings/CitizenSleeper.avif',
         'description': 'Citizen Sleeper Original Soundtrack - Amos Roddy',

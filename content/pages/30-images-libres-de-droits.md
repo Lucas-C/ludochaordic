@@ -916,6 +916,9 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Rabbits & Demons](https://exeuntpress.itch.io/rabbits-and-demons): art pack of hand-drawn tracings of public domain woodcuts from the 16th through 18th centuries
     * [TTRPG Art Pack by Bertdrawsstuff](https://bertdrawsstuff.itch.io/ttrpg-art-pack)
     * [Lady Luck's Cartoon Spriteset](https://ladyluck.itch.io/lady-lucks-cartoon-spriteset)
+    * [Chao's Art Pack](https://chaoclypse.itch.io/chaos-art-pack-pwyw) & [Fallen Art Pack](https://chaoclypse.itch.io/fallen-art-pack) by Chaoclypse
+    * [Oozejar / Gourdin Konbo Club Illustrated Bestiary](https://gourdin-konbo-club.itch.io/illustrated-bestiary)
+    * [Ombremonde Landscape Illustrations](https://ombremonde.itch.io/pack-landscape-illustrations)
 - [Dragosha dungeon tiles](http://dragosha.com/free/dungeon-part-1-tiles.html) : CC BY-SA - ~400 images (at 288dpi): floors, tiles, borders, objects, light, fire and doors animation
   ![thumbnail](https://dragosha.com/free/images/2014-07-31%2016-56-30%20xenofantfla.jpg?crc=329762651)
 - "The Incredible Adventures of Van Helsing" monsters:

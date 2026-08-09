@@ -15,6 +15,7 @@ En ce moment, mi 2026, je travaille sur ces projets ludiques :
       <dl class="uk-description-list-list">
         <dt>Genre :</dt><dd>Jeu de rôle</dd>
         <dt>Statut :</dt><dd>En développement actif</dd>
+        <dt>Teaser : <a href="https://lucas-c.github.io/jdr/OriMushi/">sur cette page web</a></dt>
         <dt>Articles de blog :</dt><dd><a href="tag/ori-mushi.html">tag ori-mushi</a></dd>
         <dt>Inspirations :</dt><dd>Princesse Mononoke, Le Voyage de Chihiro, Avatar le maître de l'air, Naruto, Zelda, Shadow of the Colossus, Mushishi</dd>
       </dl>
@@ -26,23 +27,6 @@ En ce moment, mi 2026, je travaille sur ces projets ludiques :
         </p>
       <h3>L'ambition</h3>
         <p>Faire imprimer ce jeu en livre.</p>
-    </div>
-  </section>
-  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary" id="ori-mushi">Abductés</h2>
-    <img class="uk-align-center" src="images/2026/06/Abductes-monopage.jpg" alt="Abductés">
-    <div class="uk-thumbnail-caption">
-      <dl class="uk-description-list-list">
-        <dt>Genre :</dt><dd>Jeu de rôle <em>one shot</em></dd>
-        <dt>Statut :</dt><dd>Fini, en cours de traduction en anglais</dd>
-        <dt>Article de blog :</dt><dd>à venir ce mois-ci</dd>
-      </dl>
-      <h3>C'est quoi ?</h3>
-        <p>
-        Un très court jeu de rôle cinématographique,
-        pour un MJ et 3 à 4 joueurs,
-        entièrement basé sur le <em>roleplay</em>
-        </p>
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
