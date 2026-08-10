@@ -151,6 +151,7 @@ Je songe en particulier à tester ces outils :
 
 * [FrontAid](https://frontaid.io/): free, password-less login, GitHub-based, Swiss - BUT: closed source, no preview system
 * [Lektor](https://www.getlektor.com/): Python-based with jinja templates, but [admin access must be setup manually](https://github.com/lektor/lektor/issues/237#issuecomment-267307581), _e.g._ using `nginx`
+* [Decap CMS](https://decapcms.org/): free open source content management for static websites based on Git. There is also [CloudCannon](https://cloudcannon.com/git-cms/) & [Pages CMS](https://pagescms.org/)
 
 
 <style>

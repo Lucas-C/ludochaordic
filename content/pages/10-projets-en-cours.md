@@ -78,7 +78,7 @@ Ces projets sont pour le moment en pause :
     <div class="uk-thumbnail-caption">
       <dl class="uk-description-list-list">
         <dt>Genre :</dt><dd>Jeu de rôle</dd>
-        <dt>Statut :</dt><dd>50% - Développement en pause</dd>
+        <dt>Statut :</dt><dd>30% - Développement en pause</dd>
         <!--dt>Articles de blog :</dt><dd><a href="tag/undying-dusk.html">tag undying-dusk</a></dd-->
       </dl>
       <h3>C'est quoi ?</h3>

@@ -117,19 +117,20 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
 - [Session 16 - 1er février 2025](pages/jdr-blades-in-the-dark.html#session-16-1er-f-vrier-2025)
     * [Intro - The Goons](pages/jdr-blades-in-the-dark.html#intro-the-goons)
     * [Le passé d'Eric Stamp](pages/jdr-blades-in-the-dark.html#le-pass-d-eric-stamp)
-    * [Le passé de Mist](pages/jdr-blades-in-the-dark.html#le-pass-de-quess-jeduin)
-    * [A demon on the loose](pages/jdr-blades-in-the-dark.html#a-demon-on-the-loose)
+    * [Le passé de Mist / Quess Jeduin](pages/jdr-blades-in-the-dark.html#le-pass-de-mist-quess-jeduin)
+    * [_A demon on the loose_](pages/jdr-blades-in-the-dark.html#a-demon-on-the-loose)
     * [L'évasion de Lodius](pages/jdr-blades-in-the-dark.html#l-vasion-de-lodius)
     * [Vassock réclame son dû](pages/jdr-blades-in-the-dark.html#vassock-r-clame-son-d-)
     * [L'exécution publique](pages/jdr-blades-in-the-dark.html#l-ex-cution-publique)
     * [Un prisonnier gênant](pages/jdr-blades-in-the-dark.html#un-prisonnier-g-nant)
+- [Session 17 - 22 & 23 août 2026](pages/jdr-blades-in-the-dark.html#session-17-22-23-ao-t-2026)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
 
 
 ## Session 2 - décembre 2017
-Cette fois, j'ai le vrai manuel de jeu trouvé à Amsterdam ! C'est l'occasion de _retcon_ quelques éléments de l'univers pour mieux y coller.
+Cette fois, j'ai le vrai manuel de jeu en anglais, trouvé à Amsterdam ! C'est l'occasion de _retcon_ quelques éléments de l'univers pour mieux y coller.
 Présentation également de la [feuille de perso sur rpg-bonhomme](https://chezsoi.org/lucas/jdr/rpg-bonhomme/?layout=BladesInTheDark).
 
 ### Questionnaire aux joueurs pour se synchroniser sur les attentes / envies de tout le monde
@@ -173,9 +174,9 @@ il va organiser une cérémonie pour désenvoûter Lodius. Le gang doit toutefoi
 ### Éléments de l'univers établis durant la partie
 - la sœur de Lodius, **Justinia**, était en voyage et rentre demain
 - les _physickers_ consomment des potions d'alchimiste pour modifier leur corps
-- gang **Œil Blanc** == **Lampbacks** dans le bouquin VO
-- le chef du gang des **Crows**, **Roric**, vient d'être tué. **Crow's foot** est en effervescence,
-et déjà le gang de l'Œil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable
+- gang de l'**Œil Blanc** == _**Lampbacks**_ dans le bouquin VO
+- le chef du gang des **Crows**, **Roric**, vient d'être tué. -**Crow's Foot**- est en effervescence,
+et déjà le gang de l'Œil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable.
 
 
 ## One-shot "préquelle" avec d'autres joueurs et le système Psi*Run
@@ -252,10 +253,10 @@ Elaria l'accueille et lui résume les derniers événements.
 Justinia, furieuse et inquiète, se rend immédiatement chez Grell Jayan
 - Elaria décide de noyer sa colère personnelle dans l'alcool, et se rend au match de lutte auquel participe Melvir.
 Ethnos, après avoir appris d'un gamin des rues qu'il avait fait suivre Eric où ce dernier est désormais enfermé,
-retrouver Elaria et la convainc d'aller le délivrer ce soir. Ils envoient un messager à Baszos pour reporter leur rencontre.
+retrouve Elaria et la convainc d'aller le délivrer ce soir. Ils envoient un messager à Baszos pour reporter leur rencontre.
 - Eric de son côté, est enfermé dans une petite caserne de la milice située dans une ancienne chapelle.
 Ethnos et Elaria décident de s'y introduire par les égouts, répugnants et malodorants,
-tandis que des mendiants font diversion à la porte de la caserne pour occuper une partie gardes.
+tandis que des mendiants font diversion à la porte de la caserne pour occuper une partie des gardes.
 Il réussissent tous deux à se faufiler par le soupirail de la petite cours de la caserne puis de rejoindre le bâtiment principal.
 C'est à ce moment qu'un _bluecoat_ se décide à sortir, et il ne s'en faut que d'un cheveux, et d'un plongé en piqué d'Elaria,
 le couteau à la main, sur le malheureux garde, pour qu'ils ne se fassent repérer.
@@ -1974,7 +1975,7 @@ Raoul Clermont <!-- Thomas -->
 : Espion / éclaireur, chétif & blafard, grand manteau à capuche, très indépendant, rare sont ceux qui connaissent son visage.
 
 Pietro « Fork » Bucker <!-- Aurélien -->
-: Crâne rasé, physique de « taulard », gère le trafic & l'intimidation des récalcitrants, addict aux drogues, psychopath imprévisible.
+: Crâne rasé, physique de « taulard », gère le trafic & l'intimidation des récalcitrants, addict aux drogues, psychopathe imprévisible.
 
 Après un long labeur d'aménagement de la Tour de l'Observatoire, nouveau QG du gang,
 ces malfrats échangent quelques mots autour d'un verre de pinard.
@@ -1985,12 +1986,12 @@ Alors qu'ils s'approchent, Hal & Clermont entendent alors une voix dans leur tê
 
 Ils découvrent, caché dans le socle d'un petit telescope, l'une des jarres de pierre récupérées sur le _Torment_.
 Tandis que la tension monte et que Drav & Pietro en viennent au mains,
-Hal, incité par la voix dans sa tête, s'enfuit avec la jarre, et est poursuivit par Clermont.
+Hal, incité par la voix dans sa tête, s'enfuit avec la jarre, et est poursuivi par Clermont.
 
 Finalement Aldo s'interpose pour intercepter Hal, et la jarre de pierre s'écrase au sol...
 
 ### Le passé d'Eric Stamp
-Comme lors des sessions précédents, quelques éléments de son passé ont été définis collectivement :
+Comme lors des sessions précédents, quelques éléments du passé de ce PJ ont été définis collectivement :
 
 _**Tycheros** est un endroit mythique, et très rares sont les gens à Doskvol qui ont des informations fiables sur cette contrée.
 Ses habitants seraient des demi-démons... Est-ce vrai ? Sont-ils les enfants d'un démon ?
@@ -2017,8 +2018,8 @@ Eric a dû bander les poings pour le défendre.
 Il existe quelqu'un à Doskvol lié au passé d'Eric, que ce dernier évite soigneusement de côtoyer : qui-est-ce et pourquoi ce comportement ?
 : Eric a un amour secret, mais il a honte de son propre physique...
 
-### Le passé de Quess Jeduin
-Comme lors des sessions précédents, quelques éléments de son passé ont été définis collectivement :
+### Le passé de Mist / Quess Jeduin
+Comme lors des sessions précédents, quelques éléments du passé de ce PJ ont été définis collectivement :
 
 _Mist est originaire d'**U'Duasha**, une ville au milieu du désert iruvien, bâtie autour d'un gigantesque puits aux âmes. Quess Jeduin est rattaché de naissance à la maison Ankhayat, et a été formé à l'université de Vaasu, qui forme le futur de l'élite militaire et des capitaines de vaisseaux chasseurs de Léviathan._
 
@@ -2037,7 +2038,7 @@ D'où provient le surnom « Mist » ? Est-ce qu'il date de son passé iruvien ?
 : C'était un surnom attribué par les _goons_ du gang, mais à leur insu c'est aussi un mot prononcé par le premier démon qu'a évoqué Quess.
 
 La dernière fois que Mist a traversé la mer, il y a eu « un incident ». Que s'est-il passé ?
-: Un léviathan a percuté le navire ! 🤔
+: Un Léviathan a percuté le navire ! 🤔
 
 ### _A demon on the loose_
 De retour de leur expédition dans les Catacombes, les PJs découvrent que c'est les panique dans leur QG secret :
@@ -2079,8 +2080,8 @@ De son côté, Ethnos-Lodius est « à l'ombre », enfermé dans une cellule de 
 Ayant du temps « à tuer », il exerce sa capacité à projeter son esprit dans d'autres corps :
 une mouette d'abord, qui lui permet de situer sa cellule, puis il réussit à prendre le contrôle d'un soldat impérial en faction.
 
-En s'éloignant sur le chemin de ronde de la forteresse, il croisent d'autres gardes, et se fait porter malade.
-Il finit par changer de corps, dans celui d'un autre soldat, puis à ouvrir la porte de sa cellule
+En s'éloignant sur le chemin de ronde de la forteresse, il croise d'autres gardes, et se fait porter malade.
+Il finit par changer de corps, dans celui d'un autre soldat, puis à ouvrir la porte de sa cellule,
 à se libérer de ses entraves arcaniques, et à reprendre possession de son propre corps.
 Poursuivi par les gardes, il aperçoit l'inspecteur Smithson qui rapplique, et se retrouve acculé sur les remparts.
 Après une courte mais intense réflexion, il décide de s'élancer dans le vide, au dessus des récifs et de la mer vingt mètres plus bas...
@@ -2131,7 +2132,7 @@ signifiant sa mort définitive.
 ### L'exécution publique
 
 Le gang apprend qu'une exécution publique aura lieu dans l'après-midi,
-durant laquelle Lodius devait être guillotinée en même temps que des terroristes de Coalridge,
+durant laquelle Ethnos-Lodius devait être guillotinée en même temps que des terroristes de Coalridge,
 dont la tentative d'attentat avait été déjouée la veille.
 
 Le gang décide de se rendre sur place pour observer la situation.
@@ -2188,11 +2189,11 @@ Finalement, tout le gang réussit à profiter de la foule pour s'enfuir et retou
 
 ### Un prisonnier gênant
 
-Le gang craint que leur homme parle, et révèle l'emplacement de la Tour de l'Observatoire.
+Le gang craint que leur homme de main parle, et qu'il révèle l'emplacement de la Tour de l'Observatoire.
 Une opération au poste des _Bluecoats_ de Brightstone est donc organisée.
 
 Les PJs se faufilent par les égouts jusqu'à une plaque débouchant dans la cour de la caserne.
-Lodius emploie l'une de ses potions pour faire fondre le verrou,
+Ethnos emploie l'une de ses potions pour faire fondre le verrou,
 et ils projettent une _smoke bomb_ remplie de sérum faisant perdre la mémoire à travers la lucarne
 de la cellule où se trouve leur homme.
 
@@ -2221,7 +2222,7 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
     + [music to roleplay vampires in new york - dark, instrumental, suspense, guitar, thriller @ YouTube](https://www.youtube.com/watch?v=LeLRJEb1ins)
     + [Paris Rooftops - Sly 2 Band of Thieves Extended Music @ YouTube](https://www.youtube.com/watch?v=qxBz13WbRoU)
 
-## Session 17
+## Session 17 - 22 & 23 août 2026
 
 > * Sans leader(s) officiel(s), que va devenir le gang ?
 > * Quelles seront les répercussions de la révolte avortée des ouvriers de Coalridge ?
@@ -2229,14 +2230,20 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 > * Comment se déroulera le Grand Tournoi martial organisé par l'Écharpe Rouge, auquel Eric va participer sous un faux nom ?
 > * Qu'est devenue Elaria ? Et le spectre de Lord Daaya ?
 
-<!--
-https://www.youtube.com/watch?v=HHPZynI6pwQ
+<figure role="group">
+  <img loading="lazy" alt="Ethnos" src="images/bitd/Tensei/Ethnos-possession-garde.jpg">
+  <figcaption>Ethnos dans le corps d'un garde impérial - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+</figure>
 
-Pitch de la prochaine partie : les PJs ont une gueule de bois phénomènale,
+<!--
+Lire Score "Spirit Warden Escape" + Flame Without Shadow
+
+Music:
+* Poor Mans Poison - Give And Take: https://www.youtube.com/watch?v=HHPZynI6pwQ
+
+Pitch de la prochaine partie : les PJs ont une gueule de bois phénoménale,
     alors que c'est la panique en ville car une météorite s'approche,
     et qu'elle déverse finalement une armée de démons dans un quartier !
-
-Look for Bloodborne artbook on archive.org (cf. video de Alt-236)
 
 Travailler le personnage de Quill : que va-t-elle faire ?
 
@@ -2244,8 +2251,6 @@ Partie orientée "RP" :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
 * donner beaucoup de descriptions d'ambiance
 * exposer  scènes sans tension (contemplatives, intimistes...), plus propices à du roleplay
-
-Lire Score "Spirit Warden Escape" + Flame Without Shadow
 
 Petites annonces diffusées dans le n°83 des Chroniques du Crépuscule :
 + Mécène : Lord Scurlock (via Svekes) qui veut faire voler la croix de Mist
