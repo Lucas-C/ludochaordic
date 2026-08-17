@@ -43,7 +43,7 @@ Dans ce dernier article justement, j'avais mentionné la sortie d'un recueil de 
 Avec pas moins de **17 scénarios**, la proposition est alléchante !
 
 À la lecture, **cinq** d'entre eux ont vraiment retenu mon attention.
-Je n'en ai pour l'instant testé que deux, mais j'initie cet article
+Je n'en ai pour l'instant testé que <s>deux</s> trois, mais j'initie cet article
 pour les présenter tous les cinq, et je compléterai cette page
 à chaque fois que je testerai un nouveau scénario.
 
@@ -139,6 +139,8 @@ je les ai mises en page sur une feuille A4 ici :
 **Pitch** : conte horrifique japonais en huis clos.
 Une partie de _Futari Kakurenbo_ entre enfants va virer en jeu macabre, car un esprit maléfique a été invoqué...
 
+_Scénario non encore testé_
+
 ## Brako
 ![](images/2023/11/TheLeagueOfGentlemen-1960.jpg)
 
@@ -146,6 +148,8 @@ Une partie de _Futari Kakurenbo_ entre enfants va virer en jeu macabre, car un e
 
 **Pitch** : des truands sont recrutés au dernier moment pour braquer une banque, dans l'instant !
 Mais des retournements de situation auront lieu durant l'opération...
+
+_Scénario non encore testé_
 
 ## _Teasing_
 Un grand merci à Julien _DeathAmbre_ De Monte pour ces scénarios !

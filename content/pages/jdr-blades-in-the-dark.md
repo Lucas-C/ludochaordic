@@ -2185,11 +2185,11 @@ Tandis que Josef et sa protégée s'enfuient, le Lord Gouverneur pointe son ép�
 et un rayon électrique manque de peu de les foudroyer.
 
 Finalement, tout le gang réussit à profiter de la foule pour s'enfuir et retourner à la Tour de l'Observatoire,
-à l'exception d'un homme de main qui se fait coffrer par les _Bluecoats_.
+à l'exception d'un homme de main du gang qui se fait coffrer par les _Bluecoats_, Narkus.
 
 ### Un prisonnier gênant
 
-Le gang craint que leur homme de main parle, et qu'il révèle l'emplacement de la Tour de l'Observatoire.
+Le gang craint que leur acolyte, Narkus dit « Crickett », désormais aux mains de La Garde, ne craque et révèle l'emplacement de la Tour de l'Observatoire.
 Une opération au poste des _Bluecoats_ de Brightstone est donc organisée.
 
 Les PJs se faufilent par les égouts jusqu'à une plaque débouchant dans la cour de la caserne.
@@ -2236,23 +2236,50 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 </figure>
 
 <!--
-Lire Score "Spirit Warden Escape" + Flame Without Shadow
+* une brume mortelle se répand
+* une armée de démons franchit les barrières électrostatiques et se déverse dans le quartier de Six Towers
 
-Music:
-* Poor Mans Poison - Give And Take: https://www.youtube.com/watch?v=HHPZynI6pwQ
-
-Pitch de la prochaine partie : les PJs ont une gueule de bois phénoménale,
-    alors que c'est la panique en ville car une météorite s'approche,
-    et qu'elle déverse finalement une armée de démons dans un quartier !
-
-Travailler le personnage de Quill : que va-t-elle faire ?
+Prévoir une trame générale qui IMPLIQUE directement les PJs dans le "Cataclysme"
+Préparer la transition en Limier d'Ethnos, ainsi que son Hull
+Travailler les ambitions & actions des PNJs :
+* Quill : que va-t-elle faire ?
+* Maria Coseren
+* sergent Echols ?
+* Justinia ?
+* Valeris
+Compléter le récap de début de partie + envoyer un email à Matt avec quelques infos
 
 Partie orientée "RP" :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
 * donner beaucoup de descriptions d'ambiance
 * exposer  scènes sans tension (contemplatives, intimistes...), plus propices à du roleplay
 
-Petites annonces diffusées dans le n°83 des Chroniques du Crépuscule :
+Campagne / prochaines sessions :
+* donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
+* idée issue de Radio Roliste : temporiser l'adversité pour permettre à des tensions entre PJs d'apparaître
+* (anticiper) si le Harpon et l’Écharpe Rouge sont en guerre -> effets mécaniques ?
+* introduire magie des ombres, dirigeables...
+* employer des éléments issus de leurs inventaires comme ressorts de l'histoire
+* introduire DeepCuts-SecretDoc-EasternExpansion.pdf
+* introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
+
+* logbook = game changer, va modifier équilibre des forces de la ville...
+  -> peut permettre la libération des enfants de Setarra
+* dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
+-> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
+
+To print:
+* playbook Hound/Limier
+* FloodedDistrict.png
+* recap session 17
+* 6-Empty-Graves-v1.1-2up.pdf recto-verso
+* I°II°I.I.•II°IiI° (or GLYPHCRAWL) v1-0-1 SPREADS.pdf
+
+## Clocks
+* une faction adverse va antagoniser Le Harpon en le dépeignant comme un culte diabolique
+* demande humble d'aide de la part d'un habitant du territoire Harpon
+
+## Petites annonces diffusées dans le n°83 des Chroniques du Crépuscule :
 + Mécène : Lord Scurlock (via Svekes) qui veut faire voler la croix de Mist
   -> The Hive répondra à l'offre
 + "Vide maison" Lady Drake commandite le Score du manoir hanté de Lord Lomon
@@ -2266,105 +2293,15 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 + n°83 - Grande messe de l’Extase de la Chair
 + n°83 - Commerçant de Nightmarket tué avec graffiti "Il voit tout"
 
-Campagne / prochaines sessions :
-* donner un bonus à Josef pour avoir étudié le masque aux 1000 visages
-* qu'est devenu le sergent Echols ?
-* Justinia ?
-* idée issue de Radio Roliste : temporiser l'adversité pour permettre à des tensions entre PJs d'apparaître
-* (anticiper) si le Harpon et l’Écharpe Rouge sont en guerre -> effets mécaniques ?
-* introduire magie des ombres, dirigeables...
-* employer des éléments issus de leurs inventaires comme ressorts de l'histoire
-* les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...
-* introduire DeepCuts-SecretDoc-EasternExpansion.pdf
-* introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
-* heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
-* qu'est-ce qui peut revenir "hanter" les PJs dans leur background ?
-* huis clos ?
-* logbook = game changer, va modifier équilibre des forces de la ville...
-  -> peut permettre la libération des enfants de Setarra
-* sélectionner illustrations pour les PNJs principaux
-    + gimmick pour PNJs: renifle tout, les gens, les lieux
-* prendre inspis de Dirty MJ
-* dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
--> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
+## PJs
 
-CLOCKS:
-* une faction adverse va antagoniser Le Harpon en le dépeignant comme un culte diabolique
-* demande humble d'aide de la part d'un habitant du territoire Harpon
-
-Lodius :
+### Ethnos
 + plus il utilise ses pouvoirs, plus le risque de "décorporation" spontanée augmente
   -> selon le résultat du jet d'Attune, il peut se retrouver projeté dans un autre corps par accident,
-     ou à errer dans la Ghost Field, peut-être attiré par quelque chose...
+     ou à errer dans le Ghost Field, peut-être attiré par quelque chose...
 + chaque changement de corps lui fait perdre un point d'attribut
 
-Josef :
-+ PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Josef
-+ la famille Daava en veut probablement à Josef...
-
-Mist :
-+ Setarra veut se venger de lui, car il a annulé un pacte qu'ils avaient noué en remontant dans le temps
-+ rattaché à la maison Ankhayat à U'Duasha, formé à l'Université de Vaasu, qui forme le futur de l'élite militaire et des capitaines de vaisseau chasseur de Léviathan
-
-Elaria :
-* anticiper raison de son absence
-* Downtime pas encore fait
-* Simon aimerait bien jouer un autre archétype (Slide ?)
-
-Ressources to CRAFT:
-* make a diagram of DOWNTIME steps ?
--> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
-* a SCORE (using one of angers-ma-0*.jpg as illustration)
-
-Ressources TO MENTION:
-+ remercier Tim Denee pour son plan, et consulter ses autres sur flickr
-+ https://www.reddit.com/r/bladesinthedark/comments/188ky48/here_is_my_version_from_the_doskvol_district/
-+ [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
-  & newspaper template: https://jaderavens.itch.io/north-hook-lantern
-+ [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
-+ [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco, 1 page PDF
-+ [Favorite session zero questions](https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/)
-+ Scores:
-  * [Scurlock Manor](https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0)
-  * [Doskvol Riots of 847](https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0)
-  * [Gaddoc Rail](https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0)
-  * [The Crystal Cleaver of Griezt](https://www.reddit.com/r/bladesinthedark/comments/nc7klz/a_1page_heist_the_crystal_cleaver_of_griezt/)
-  * One-Shot : [The Soul Merchants](https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit)
--> l'idée des "ghost dealers" est très chouette !
-> Most citizens of Duskwall are terrified of ghosts. Lost, mad, destructive spirits, whose only desire is to return to the warm embrace of a warm body. They’ve lost their own, but are eager to adopt yours.
-> But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
-+ Blades in the Dark Art Hack Tutorial: https://imgur.com/gallery/3lxWySf
-    * angers-ma-01-solarized-0.27-1-fotosketcher-painting5-watercolor.jpg
-    * angers-ma-02-duotone-bw-contrast-0.4-fotosketcher-painting5-watercolor.jpg
-    * angers-ma-03-duotone-bw-contrast-0.4-brightness-0.1-fotosketcher-painting5-watercolor.jpg
-    * angers-ma-04-duotone-bw-contrast-0.38-brightness-0.1-fotosketcher-painting5-watercolor.jpg
-
-Sources d'inspis visuelles (jeux vidéo) : Dishonored, Thief, A Plague Tale, Steelrising, Vampyr, The Order 1886, Amnesya, Assassin's Creed Syndicate, Bloodborne
-Sources d'inspis visuelles (autres) : Peaky Blinders, Into The Odd
-    https://redditp.com/r/bladesinthedark
-
-Maps:
-* versions papiers incluses avec écran :
-    + Whitecrown / The Docks / Brightstone
-    + Charterhall
-    + Dunslough / Coalridge / Nightmarket
-* The Bridge District: https://i.imgur.com/LmQfBdl.jpeg
-* Lord Governor’s Stronghold @ WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/maps/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
-* Docks of the Dead: https://2minutetabletop.com/product/docks-of-the-dead/
-* Mine avec poches de liquide: https://2minutetabletop.com/product/thermal-mines-1/
-* QG Écharpe Rouge: https://2minutetabletop.com/product/japanese-castle/
-* Ghost Ship: https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
-* Tangle Town: http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
-* Les égouts :
-    + https://guillaumetavernierblog.wordpress.com/2017/04/17/87/
-    + https://guillaumetavernierblog.wordpress.com/2017/04/17/86/
-    + https://guillaumetavernierblog.wordpress.com/2017/04/17/80/
-    + https://2minutetabletop.com/product/sewer-map-assets/
-    + https://2minutetabletop.com/product/sewer-hideout/
-* Deathlands map: https://www.reddit.com/r/bladesinthedark/comments/153es4a/deathlands_map_i_made_for_my_groups_deathlands/
-
-Énigme à tiroirs des tatouages d'Ethnos-Lodius:
-
+Énigme à tiroirs de ses tatouages :
 1. [x] Écrit en Hadrathi (iruvien) de manière "stylisé" :
    53P355Ob n+ 7eW1ue un +910P uO+ 3P
    3We uO+ 3P 3u1e+1be> 37 51O5
@@ -2394,21 +2331,97 @@ Maps:
    TUNASPLUSBESOIN
 LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécu de transfert de corps peuvent octroyer des capacités démoniaques... Pour les maîtriser il faut déchiffrer leur sens !
 
-Tools:
+### Josef
++ PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Josef
++ la famille Daava en veut probablement à Josef...
 
+### Mist
++ Setarra veut se venger de lui, car il a annulé un pacte qu'ils avaient noué en remontant dans le temps
++ rattaché à la maison Ankhayat à U'Duasha, formé à l'Université de Vaasu, qui forme le futur de l'élite militaire et des capitaines de vaisseau chasseur de Léviathan
+
+### Elaria
+* anticiper raison de son absence
+* Downtime pas encore fait
+* Simon aimerait bien jouer un autre archétype (Slide ?)
+
+## Music
+* Poor Mans Poison - Give And Take: https://www.youtube.com/watch?v=HHPZynI6pwQ
+
+## Idées en vrac
+* les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...
+* heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
+* qu'est-ce qui peut revenir "hanter" les PJs dans leur background ?
+* huis clos ?
+* sélectionner illustrations pour les PNJs principaux
+  + gimmick pour PNJs: renifle tout, les gens, les lieux
+* prendre inspis de Dirty MJ
+
+"Flame Without Shadow" -> les PJs sont des BlueCoats - proto créé par John Harper
+* lore-and-settings/blades_flame_without_shadow_v3.pdf
+* https://githyankidiaspora.com/2020/03/03/5-cases-in-doskvol/
+
+## Ressources
+### Ressources to CRAFT
+* make a diagram of DOWNTIME steps ?
+-> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
+* a SCORE (using one of angers-ma-0*.jpg as illustration)
+
+### Ressources to MENTION:
++ remercier Tim Denee pour son plan, et consulter ses autres sur flickr
++ Whitehollow : https://rpggeek.com/filepage/293726/the-city-of-whitehollow-fan-expansion-v1
++ https://www.reddit.com/r/bladesinthedark/comments/188ky48/here_is_my_version_from_the_doskvol_district/
++ [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
+  & newspaper template: https://jaderavens.itch.io/north-hook-lantern
++ [Blades Roll20 Tabletop](https://www.reddit.com/r/bladesinthedark/comments/gobk7r/blades_roll20_tabletop/)
++ [Expanded Entanglements table](https://drive.google.com/file/d/1mUHHYdV0VU8Ey69oUzMxeLc1lMavFohC/view) by Francesco "Lupo" Pregliasco, 1 page PDF
++ [Favorite session zero questions](https://www.reddit.com/r/bladesinthedark/comments/g9ppf6/favorite_session_zero_questions/)
++ Scores:
+  * [Scurlock Manor](https://www.dropbox.com/s/giwsy1aiiq4apja/The%20Score%20-%20Scurlock%20Manor.pdf?dl=0)
+  * [Doskvol Riots of 847](https://www.dropbox.com/s/8pinwyc8mbban8t/The%20Score%20-%20Doskvol%20Riots%20of%20847.pdf?dl=0)
+  * [Gaddoc Rail](https://www.dropbox.com/s/8lqbowna9axup1d/The%20Score%20-%20Gaddoc%20Rail.pdf?dl=0)
+  * [The Crystal Cleaver of Griezt](https://www.reddit.com/r/bladesinthedark/comments/nc7klz/a_1page_heist_the_crystal_cleaver_of_griezt/)
+  * One-Shot : [The Soul Merchants](https://docs.google.com/document/d/1tA5tivR0OP2RSFzPbj4IlyBXDCYs8oNBXPc5I56jhRs/edit)
+-> l'idée des "ghost dealers" est très chouette !
+> Most citizens of Duskwall are terrified of ghosts. Lost, mad, destructive spirits, whose only desire is to return to the warm embrace of a warm body. They’ve lost their own, but are eager to adopt yours.
+> But there are also the addicts. Those who long to lose control. To drown, not in a bottle, or on the tip of a syringe, but under the complete and utter control of ghostly possession.
+
+## Maps
+* versions papiers incluses avec écran :
+    + Whitecrown / The Docks / Brightstone
+    + Charterhall
+    + Dunslough / Coalridge / Nightmarket
+* The Bridge District: https://i.imgur.com/LmQfBdl.jpeg
+* Lord Governor’s Stronghold @ WhiteCrown: https://chezsoi.org/lucas/blog/images/bitd/maps/degenesis-the-killing-game-hamza-palace-en-3264x2320.webp
+* Docks of the Dead: https://2minutetabletop.com/product/docks-of-the-dead/
+* Mine avec poches de liquide: https://2minutetabletop.com/product/thermal-mines-1/
+* QG Écharpe Rouge: https://2minutetabletop.com/product/japanese-castle/
+* Ghost Ship: https://www.reddit.com/r/dndmaps/comments/lmt6x6/animated_dragon_ghost_ship/
+* Tangle Town: http://dungeonsmaster.com/wp-content/uploads/2012/10/liar-assault-1-season-2-map-a.jpg
+* Les égouts :
+    + https://guillaumetavernierblog.wordpress.com/2017/04/17/87/
+    + https://guillaumetavernierblog.wordpress.com/2017/04/17/86/
+    + https://guillaumetavernierblog.wordpress.com/2017/04/17/80/
+    + https://2minutetabletop.com/product/sewer-map-assets/
+    + https://2minutetabletop.com/product/sewer-hideout/
+* Deathlands map: https://www.reddit.com/r/bladesinthedark/comments/153es4a/deathlands_map_i_made_for_my_groups_deathlands/
+
+## Tools
 * Pinterest images downloader: ./pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/blades-in-the-dark-places/ ( limkokhole/pinterest-downloader )
 * Reddit images downloader: bdfr download . --folder-scheme '' --link $POST_URL
 * Slideshow Chrome addon: https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk -> visit /gallery.html - Alt: sigal
 
-Online rpg-dice boards:
-* https://chezsoi.org/lucas/jdr/rpg-dice/Elaria?bitd=1
-* https://chezsoi.org/lucas/jdr/rpg-dice/Eric?bitd=1
-* https://chezsoi.org/lucas/jdr/rpg-dice/Josef?bitd=1
-* https://chezsoi.org/lucas/jdr/rpg-dice/Lodius?bitd=1
-* https://chezsoi.org/lucas/jdr/rpg-dice/Mist?bitd=1
+## Illustrations
+Sources d'inspis visuelles (jeux vidéo) : Dishonored, Thief, A Plague Tale, Steelrising, Vampyr, The Order 1886, Amnesya, Assassin's Creed Syndicate, Bloodborne
+Sources d'inspis visuelles (autres) : Peaky Blinders, Into The Odd
+    https://redditp.com/r/bladesinthedark
+
+Blades in the Dark Art Hack Tutorial: https://imgur.com/gallery/3lxWySf
+  * angers-ma-01-solarized-0.27-1-fotosketcher-painting5-watercolor.jpg
+  * angers-ma-02-duotone-bw-contrast-0.4-fotosketcher-painting5-watercolor.jpg
+  * angers-ma-03-duotone-bw-contrast-0.4-brightness-0.1-fotosketcher-painting5-watercolor.jpg
+  * angers-ma-04-duotone-bw-contrast-0.38-brightness-0.1-fotosketcher-painting5-watercolor.jpg
 
 ### AI-generated illustrations
-
 <div class="side-by-side" role="group">
   <figure role="group">
     <img loading="lazy" alt="Street gang in a industrial steampunk city" src="images/bitd/AI-generated/BingImagesCreator-street-gang-in-a-industrial-steampunk-city.jpg">

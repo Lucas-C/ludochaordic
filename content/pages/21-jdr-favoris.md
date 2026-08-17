@@ -318,6 +318,7 @@ Sur la Route (_For the Story_) de Nicolas Le Vif,
 ---
 
 <style>
-.uk-article-content > p { font-size: 1.3rem; line-height: 2rem; margin: 8rem 0; }
+article ul { list-style-position: inside; }
+.uk-article-content > p { font-size: 1.3rem; line-height: 2rem; margin: 4rem 0; }
 h2 { text-align: center; }
 </style>
