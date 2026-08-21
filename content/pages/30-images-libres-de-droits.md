@@ -147,6 +147,11 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Urban 002](https://www.deviantart.com/nicosaba/art/Urban-002-543470882)
 - Yann Blomquist _aka_ TinySecretDoor [fantasy portraits](https://www.deviantart.com/tinysecretdoor/gallery/52921157/Fantasy-Portraits) CC BY-NC:
 > Senior Concept Artist ⚔️ Drawer of People, Places & Things 🖌 Armorsmith ⚒ Lover of Chocolate 🍫 United Kingdom
+    * [Fantasy Portraits 1](https://www.deviantart.com/tinysecretdoor/art/Fantasy-Portraits-1-509571619)
+    * [Fantasy Portraits 2](https://www.deviantart.com/tinysecretdoor/art/Fantasy-Portraits-2-509791517)
+    * [Fantasy Portraits 3](https://www.deviantart.com/tinysecretdoor/art/fantasy-portraits-3-510001533)
+    * [Fantasy Portraits 4](https://www.deviantart.com/tinysecretdoor/art/Fantasy-Portraits-4-510236214)
+    * [Fantasy Portraits 8](https://www.deviantart.com/tinysecretdoor/art/Fantasy-Portraits-8-538194744)
     * [Fantasy Portraits 9](https://www.deviantart.com/tinysecretdoor/art/Fantasy-Portraits-9-547312601)
 - [Ilya Tetin _aka_ Hunternif](https://www.deviantart.com/hunternif/gallery/) : many (not all) CC BY-NC-SA - sci-fi
     * [Ascendant](https://www.deviantart.com/hunternif/art/Ascendant-808639419)
@@ -186,6 +191,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Rat Dog](https://www.deviantart.com/dumaker/art/Rat-Dog-833308670)
     * [Santa Compana](https://www.deviantart.com/dumaker/art/Santa-Compana-768584064)
     * [Dumaker Inktober 2017 #3](https://www.deviantart.com/dumaker/art/Dumaker-Inktober-2017-3-712073899)
+    * [Lady Nunca](https://www.deviantart.com/dumaker/art/Lady-Nunca-980010942)
 - [Jan Drenovec _aka_ drinke94](https://www.deviantart.com/drinke94/gallery/) CC BY-NC-SA - Magic/Warhammer-like fantasy
 > Mysterious artist from Slovenia
     * [Djaevel Oedger](https://www.deviantart.com/drinke94/art/Djaevel-Oedger-798029512)
@@ -639,6 +645,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
     * [Navigator](https://www.deviantart.com/cicakkia/art/Navigator-1115715346)
     * [Backpack](https://www.deviantart.com/cicakkia/art/Backpack-1104930253)
     * [Violin](https://www.deviantart.com/cicakkia/art/Violin-1116085375)
+    * [Theo](https://www.deviantart.com/cicakkia/art/Theo-1361917805)
 - [arw10](https://www.deviantart.com/arw10/gallery): Canadian hobbyist, Ben10 characters - CC BY
     * [Splicer](https://www.deviantart.com/arw10/art/Splicer-by-illuminate01-837547572)
     * [Vibration](https://www.deviantart.com/arw10/art/Vibration-By-Jeshway-871066071)
@@ -903,7 +910,6 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Jovian SIS Team](https://www.artstation.com/artwork/LmdXk) - Mitchell Malloy CC BY-NC-SA
 - [The Plague: Art Pack](https://www.drivethrurpg.com/product/420119/The-Plague-Art-Pack?src=newest&filters=0_45929_0_0_0): CC BY 4.0 - 128 AI-generated illustrations
 - [28 Room Backgrounds by OokamiKasumi](https://lemmasoft.renai.us/forums/viewtopic.php?t=16392) - CC BY-NC - [some more on her DeviantArt galery](https://www.deviantart.com/ookamikasumi/gallery/24187224/Stock-Backgrounds)
-  ![thumbnail](https://lemmasoft.renai.us/forums/download/file.php?id=14363&t=1&sid=c296adc09cd9085cc3f4fd05c508da4c) - ![thumbnail](https://lemmasoft.renai.us/forums/download/file.php?id=16995&t=1&sid=c296adc09cd9085cc3f4fd05c508da4c)
 - [itch.io](https://itch.io)
     * [@Axebane Free! Fantasy Stock Art](https://axebanegames.itch.io/free-fantasy-stock-art) : 74 hand-drawn B&W (N&B) images of fantasy items, including daggers, swords, axes, staves, shields, scrolls, spellbooks, potions, torches, war banners, tools...
     * [Free CC0 assets](https://itch.io/game-assets/assets-cc0/free)
@@ -919,6 +925,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
     * [Chao's Art Pack](https://chaoclypse.itch.io/chaos-art-pack-pwyw) & [Fallen Art Pack](https://chaoclypse.itch.io/fallen-art-pack) by Chaoclypse
     * [Oozejar / Gourdin Konbo Club Illustrated Bestiary](https://gourdin-konbo-club.itch.io/illustrated-bestiary)
     * [Ombremonde Landscape Illustrations](https://ombremonde.itch.io/pack-landscape-illustrations)
+    * [Fantasy Illustration Pack 01](https://hounskul.itch.io/fantasy-illustration-pack-01): Knights, creeps, skulls, knives, chains. We got it all. & [Fantasy Illustration Pack 02](https://hounskul.itch.io/fantasy-illustration-pack-02): Pointy helmets, axes, clouds, rocks, butterflies, and numbers
 - [Dragosha dungeon tiles](http://dragosha.com/free/dungeon-part-1-tiles.html) : CC BY-SA - ~400 images (at 288dpi): floors, tiles, borders, objects, light, fire and doors animation
   ![thumbnail](https://dragosha.com/free/images/2014-07-31%2016-56-30%20xenofantfla.jpg?crc=329762651)
 - "The Incredible Adventures of Van Helsing" monsters:
@@ -972,7 +979,7 @@ Armored, Cyberpunk, Dwarf, Elf, Manimal, Pirate, Robot, Scary, Steampunk, Troll,
 Useful syntax: `(artwork|"concept art"|illustration) -"No Derivative" -Derivatives -"AI tools" -"OpenAI" -site:intergalacticrobot.blogspot.com` -
 And possibly: `after:2020-01-01` / `before:2020-01-01`
 - DeviantArt Creative Commons via Google:
-    * [site:deviantart.com "creative commons" -Derivatives -NoDerivatives -"User Profile" -Explore -mandala](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-mandala&tbs=qdr:m) avec filtre "il y a moins d'un mois"
+    * [site:deviantart.com "creative commons" -Derivatives -NoDerivatives -"User Profile" -Explore -mandala -"AI tools"](https://www.google.fr/search?tbm=isch&q=site%3Adeviantart.com+%22creative+commons%22+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-mandala+-%22AI+tools%22&tbs=qdr:m) avec filtre "il y a moins d'un mois"
     * [site:deviantart.com -Derivatives -NoDerivatives -"User profile" -Explore -"AI tools" (artwork|"concept art"|illustration|character)](https://www.google.com/search?tbm=isch&tbs=sur:cl&q=site%3Adeviantart.com+-Derivatives+-NoDerivatives+-%22User+profile%22+-Explore+-%22AI+tools%22+%28artwork%7C%22concept+art%22%7Cillustration%7Ccharacter%29&tbs=qdr:m) avec filtre sur les Licences Creative Commons (`tbs=sur:cl`)
 - [OpenVerse](https://wordpress.org/openverse/search/) : 800 million creative works, all under _Creative Commons_ license or is in the public domain
 - [Flickr CC search](https://www.flickr.com/search/?l=cc)
@@ -1015,6 +1022,7 @@ Dedicated to Vector graphics & flat / ClipArt images:
     * [Attack the Tower 3rd Gen](https://freesvg.org/results)
     * [Yellow Green Leafy Sea Dragon](https://freesvg.org/1526744332)
     * [Golden glowing cross](https://freesvg.org/glowing-cross)
+    * [Statue of Liberty in a gas mask](https://freesvg.org/statue-of-liberty-in-a-gas-mask)
 - [SVG Silh](https://svgsilh.com) - CC0
 - [svgrepo.com](https://www.svgrepo.com)
 - [CocoMaterial, the Open Source hand-drawn illustration library](https://cocomaterial.com/)
@@ -1030,11 +1038,17 @@ Dedicated to Vector graphics & flat / ClipArt images:
         + [RPG map symbols Monastery 2](https://openclipart.org/detail/11484/rpg-map-symbols-monastery-2)
         + [RPG map symbols Maze 2](https://openclipart.org/detail/11478/rpg-map-symbols-maze-2)
     * [tag: D & D](https://openclipart.org/tag/D%20&%20D)
+    * [Labeled Bottle](https://openclipart.org/detail/353880/labeled-bottle)
 
 Dedicated to games:
 
 - [Kenney assets](https://kenney.nl/assets/)
 - [craftpix freebies](https://craftpix.net/freebies/) : free 2D game assets
+    * [Free Pixel Dungeon Props and Objects Asset Pack](https://craftpix.net/freebies/free-pixel-dungeon-props-and-objects-asset-pack/)
+    * [Free Top-Down Seabed Objects Pixel Art](https://craftpix.net/freebies/free-top-down-seabed-objects-pixel-art/)
+    * [Free Top-Down Ruins Pixel Art](https://craftpix.net/freebies/free-top-down-ruins-pixel-art/)
+    * [Free Rocky Area Objects Pixel Art](https://craftpix.net/freebies/free-rocky-area-objects-pixel-art/)
+    * [Free Top-Down Pixel Art Cave Objects](https://craftpix.net/freebies/free-top-down-pixel-art-cave-objects/)
 - [OpenGameArt](https://opengameart.org)
     * [Justin Nichol](https://opengameart.org/users/justin-nichol) - CC BY-SA:
         + [FLARE Portrait Pack (Number Four)](https://opengameart.org/content/flare-portrait-pack-number-four)
@@ -1052,7 +1066,12 @@ Dedicated to games:
         + [6 Post-Apocalyptical Snow Portraits](https://opengameart.org/content/6-post-apocalyptical-snow-portraits)
         + [Character Concepts for PARPG](https://opengameart.org/content/character-concepts-for-parpg)
         + [Four Post-Apocalyptic Portraits](https://opengameart.org/content/four-post-apocalyptic-portraits)
-- [Open source board game box art icons](https://sinisterdesign.net/open-source-board-game-box-art-icons/)
+- [Open source board game box art icons](https://sinisterdesign.net/open-source-board-game-box-art-icons/): ![thumbnail](https://sinisterdesign.net/blog/wp-content/uploads/2016/03/Box-Icons-Age-2-300x300.png)
+- [DriveThruRpg](https://www.drivethrurpg.com) has some free art packs:
+    * [Free Fantasy RPG Stock Art: Creative Commons Vol. 1](https://www.drivethrurpg.com/fr/product/427202/free-fantasy-rpg-stock-art-creative-commons-vol-1)
+    * [Free Fantasy RPG Stock Art: John D Batten Vol. 1](https://www.drivethrurpg.com/fr/product/429536/free-fantasy-rpg-stock-art-john-d-batten-vol-1)
+    * [Chamomile Has Illustrations](https://www.drivethrurpg.com/fr/product/380853/chamomile-has-illustrations)
+    * [Royalty-free Parchment Banners](https://www.drivethrurpg.com/fr/product/558506/royalty-free-parchment-banners-stock-art-pack?src=also_purchased)
 
 Mostly photos:
 
@@ -1074,6 +1093,7 @@ Mostly photos:
     * [Harry Clarke’s Illustrations for Poe’s Tales of Mystery and Imagination (1919) ](https://publicdomainreview.org/collection/harry-clarke-s-illustrations-for-poe-s-tales-of-mystery-and-imagination-1919/)
 - [Unsplash /illustrations](https://unsplash.com/fr/illustrations)
     * [Simple illustration de gravure sur bois d’un crâne humain](https://unsplash.com/fr/illustrations/simple-illustration-de-gravure-sur-bois-dun-crane-humain-6W5MRcFKqHk)
+    * [Fille surréaliste avec de nombreux bras, yeux d’étoile, sourire cousu](https://unsplash.com/fr/illustrations/fille-surrealiste-avec-de-nombreux-bras-yeux-detoile-sourire-cousu-3fPEFCotxeQ)
 - [pexels](https://www.pexels.com): free stock photos
 
 
@@ -1084,16 +1104,7 @@ Old public domain illustrations & photos:
     * [topic:propaganda](https://artvee.com/topics/propaganda/)
     * [topic:woods](https://artvee.com/topics/woods/)
 - [Europeana Collections](https://www.europeana.eu/portal/fr/search?view=grid&per_page=96&f%5BTYPE%5D%5B%5D=IMAGE)
-- The Met Museum Open Access collection:
-    * [Canvas](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Canvas)
-    * [Drawings](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Drawings)
-    * [Gouache](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Gouache)
-    * [Illustrations](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Illustrations)
-    * [Lithographs](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Lithographs)
-    * [Paintings](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Paintings)
-    * [Photographs](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Photographs)
-    * [Prints](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Prints)
-    * [Watercolors](https://www.metmuseum.org/art/collection/search#!?showOnly=withImage%7CopenAccess&offset=0&pageSize=0&sortBy=relevance&sortOrder=asc&perPage=20&searchField=All&material=Watercolors)
+- The [Met Museum Open Access collection](https://www.metmuseum.org/art/collection/search)
 - [New York Public Library Digital Collections](https://digitalcollections.nypl.org/collections)
 - [Old Book Illustrations](https://www.oldbookillustrations.com)
     + Subject: [Landscape places](https://www.oldbookillustrations.com/illustrations/subjects/landscapes-places/)
@@ -1192,6 +1203,10 @@ Generators that produces character illustrations that have not been placed under
 - [Alien RPG System Generator](https://donjon.bin.sh/alien/system/)
 - [Polygon map generator from Red Blob Games](https://www.redblobgames.com/maps/mapgen2/)
 - [Scallywag!](https://rawgit.com/wlievens/scallywag/master/index.html) : générateur de cartes au trésor
+- [DriveThruRpg](https://www.drivethrurpg.com) has some great maps & map assets:
+    * [Creative Commons Collection - Volume 1](https://www.drivethrurpg.com/fr/product/449834/creative-commons-collection-volume-1?src=also_purchased)
+    * [Creative Commons Collection - Volume 2](https://www.drivethrurpg.com/fr/product/473629/creative-commons-collection-volume-2?src=also_purchased)
+    * [Creative Commons Collection - Volume 3](https://www.drivethrurpg.com/fr/product/516870/creative-commons-collection-volume-3)
 
 
 # Online image tools

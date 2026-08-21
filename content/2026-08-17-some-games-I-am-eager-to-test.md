@@ -1,6 +1,6 @@
 Title: Some games I am eager to test
 Date: 2026-08-17 23:00
-Tags: lang:en, lang:fr, jeu-de-societe, board-game, jdr, print-play, monopage, gratuit, prix-libre, jeux
+Tags: lang:en, lang:fr, jeu-de-societe, board-game, jdr, print-play, monopage, gratuit, prix-libre, zero-prep, jeux
 ---
 
 _Page dédiée en français : [Les jeux qui me font envie](pages/jeux-qui-me-font-envie.html)_

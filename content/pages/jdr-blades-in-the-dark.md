@@ -158,7 +158,7 @@ _→ **3/3** ok_
 - bilan du stress et des blessures de chaque PJ
 
 ### Compte-rendu de partie
-<img loading="lazy" alt="Le fameux logbook" src="images/bitd/BitD_logbook.jpg" style="max-height: 20rem">
+<img loading="lazy" alt="Le fameux logbook" src="images/bitd/items/BitD_logbook.jpg" style="max-height: 20rem">
 
 - le gang des PJs découvrent une page du _logbook_ tachée de sang dans les affaires de Stravul
 - Ethnos envisage de remplacer Lodius à la tête du gang, et Eric de prétendre qu'il est toujours là mais ne se montre jamais,
@@ -682,7 +682,7 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img loading="lazy" alt="I Will Find You And I Will Kill You" src="images/bitd/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
+    <img loading="lazy" alt="I Will Find You And I Will Kill You" src="images/bitd/demons/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
     <figcaption>Argaz - <a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
   </figure>
   <figure role="group">
@@ -1398,7 +1398,7 @@ Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour 
 À Coalridge, tous les ponts reliant le quartier sont contrôlés par les _Bluecoats_, et l'armée impériale se prépare même à intervenir... Le gang s'y rend donc à la nage, et débarque en plein milieu d'une charge de miliciens en armure sur l'usine barricadée. Tandis qu'Elaria, Josef et Mist se faufilent à l'intérieur de l'enceinte, Eric tire sur les forces de l'ordre, et se retrouve rapidement tabassé et laissé pour mort. Mais sa grande résistance lui permet d'encaisser les coups puis de maîtriser deux _Bluecoats_, et de leur subtiliser leurs canons mortiers. Il s'en sert pour mettre les forces de l'ordre en déroute à grand coups d'explosions.
 
 <figure class="side-by-side" role="group">
-  <img loading="lazy" alt="Sand demon" src="images/bitd/NPCs/SandDemon.png">
+  <img loading="lazy" alt="Sand demon" src="images/bitd/demons/Ermgast.png">
   <img loading="lazy" alt="Bluecoat CRS" src="images/bitd/NPCs/Bluecoats-CRS.jpg">
   <figcaption>Ermgast, démon de sable &amp; CRS Bluecoat - Source : <a href="https://www.artstation.com/artwork/qAQaqN" target="_blank">costume illustration for Robin Hood Origins by Andrei Riabovitchev</a></figcaption>
 </figure>
@@ -1437,7 +1437,7 @@ Le reste du gang choisit alors de lancer une opération « coup de poing » et d
 Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque, sous un feu nourri de carreaux d'arbalète.
 
 <figure class="side-by-side" role="group" id="vassock">
-  <img loading="lazy" src="images/bitd/demon.png" alt="Démon invisible">
+  <img loading="lazy" src="images/bitd/demons/Vassock.png" alt="Démon invisible">
   <img loading="lazy" src="images/bitd/NPCs/Raffello.jpg" alt="Raffello">
   <figcaption>Vassock, démon invisible &amp; Raffello</figcaption>
 </figure>
@@ -1489,10 +1489,10 @@ L'après-midi même, le gang retourne chez Lord Scurlock pour lui remettre le ma
 Il est ravi de leur efficacité, et les paye grassement de six perles d'eau.
 Impressionné par le professionnalisme du Harpon, il leur propose un nouveau job...
 
-<a href="images/bitd/ChroniquesDuCrepuscule-MadeByAurelien.pdf">
+<a href="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule-MadeByAurelien.pdf">
   <figure>
-    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule-pdf-thumbnail.jpg">
-    <figcaption>Chroniques du Crépuscules - par Aurélien</figcaption>
+    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule-pdf-thumbnail.jpg">
+    <figcaption>Chroniques du Crépuscule - par Aurélien</figcaption>
   </figure>
 </a>
 
@@ -1666,10 +1666,10 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
 
 <img loading="lazy" alt="La table de jeu" src="images/bitd/photos/20240217_180118.jpg">
 
-<a href="images/bitd/ChroniquesDuCrepuscule2.pdf">
+<a href="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule2.pdf">
   <figure>
-    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule2-pdf-thumbnail.jpg">
-    <figcaption>Chroniques du Crépuscules n°2 - par Aurélien</figcaption>
+    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule2-pdf-thumbnail.jpg">
+    <figcaption>Chroniques du Crépuscule n°2 - par Aurélien</figcaption>
   </figure>
 </a>
 
@@ -1789,7 +1789,7 @@ Après de brefs échanges tendus, elle annonce qu'elle reviendra le lendemain so
     <figcaption>Valeris - Source : <a href="https://www.artstation.com/artwork/mqgV0d">Horst Borsodi by Ørjan Ruttenborg Svendsen</a></figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" src="images/bitd/HugeBomb-SteampunkGrenade-by-JuliaOrlova.jpg" alt="Huge Bomb">
+    <img loading="lazy" src="images/bitd/items/HugeBomb-SteampunkGrenade-by-JuliaOrlova.jpg" alt="Huge Bomb">
     <figcaption>Huge bomb - Source: <a href="https://www.artstation.com/artwork/WmZZ2N">Steampunk grenade by Julia Orlova</a></figcaption>
   </figure>
 </div>
@@ -1832,7 +1832,7 @@ Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résist
     <img loading="lazy" src="images/bitd/Tensei/BitD-Artworks-Portrait-by-Tensei.jpg" alt="Inspecteur Holdan" style="width: 20rem">
     <figcaption>Inspecteur Holdan - Illustration d'Elliot Jolivet aka Tenseï</figcaption>
   </figure>
-  <img loading="lazy" src="images/bitd/NPCs/Hull-BusteDInterrogatoire.jpg" alt="Hull - Buste d'interrogatoire" style="width: 12rem">
+  <img loading="lazy" src="images/bitd/Session15/Hull-BusteDInterrogatoire.jpg" alt="Hull - Buste d'interrogatoire" style="width: 12rem">
 </div>
 
 ### L'intel des Wraiths
@@ -1887,7 +1887,7 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
     <figcaption>Spectre - Source : <a href="https://www.artstation.com/artwork/mqQ69y">Shadow by Aleksandr Eykert</a></figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" src="images/bitd/Vlad-Marica-Demon-39_Regular.jpg" alt="Démon">
+    <img loading="lazy" src="images/bitd/demons/Vlad-Marica-Demon-39_Regular.jpg" alt="Démon">
     <figcaption>Démon - Source : <a href="http://vladmrk.blogspot.com/2014/01/asmodian-swordsman.html">Artwork by Vlad Marica</a></figcaption>
   </figure>
 </div>
@@ -2131,9 +2131,9 @@ signifiant sa mort définitive.
 
 ### L'exécution publique
 
-Le gang apprend qu'une exécution publique aura lieu dans l'après-midi,
-durant laquelle Ethnos-Lodius devait être guillotinée en même temps que des terroristes de Coalridge,
-dont la tentative d'attentat avait été déjouée la veille.
+Le gang apprend qu'une exécution publique aura lieu dans l'après-midi à Brightstone,
+durant laquelle Ethnos-Lodius devait être guillotiné en même temps que des "terroristes" de Coalridge,
+dont une tentative d'attentat à Brightstone même avait été déjouée la veille.
 
 Le gang décide de se rendre sur place pour observer la situation.
 Les forces de l'ordre ont déployé un dispositif impressionnant :
@@ -2222,7 +2222,16 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
     + [music to roleplay vampires in new york - dark, instrumental, suspense, guitar, thriller @ YouTube](https://www.youtube.com/watch?v=LeLRJEb1ins)
     + [Paris Rooftops - Sly 2 Band of Thieves Extended Music @ YouTube](https://www.youtube.com/watch?v=qxBz13WbRoU)
 
+<a href="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule3.pdf">
+  <figure>
+    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule3-pdf-thumbnail.jpg">
+    <figcaption>Chroniques du Crépuscule n°3 - par Aurélien</figcaption>
+  </figure>
+</a>
+
 ## Session 17 - 22 & 23 août 2026
+
+<img loading="lazy" alt="" src="images/bitd/Session17/bitd-session-17-cover.jpg">
 
 > * Sans leader(s) officiel(s), que va devenir le gang ?
 > * Quelles seront les répercussions de la révolte avortée des ouvriers de Coalridge ?
@@ -2239,15 +2248,16 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 * une brume mortelle se répand
 * une armée de démons franchit les barrières électrostatiques et se déverse dans le quartier de Six Towers
 
+Préparer la transition d'Ethnos en Limier, puis en Hull
 Prévoir une trame générale qui IMPLIQUE directement les PJs dans le "Cataclysme"
-Préparer la transition en Limier d'Ethnos, ainsi que son Hull
+Compléter le récap de début de partie + envoyer un email à Matt avec quelques infos
+
 Travailler les ambitions & actions des PNJs :
 * Quill : que va-t-elle faire ?
 * Maria Coseren
 * sergent Echols ?
 * Justinia ?
 * Valeris
-Compléter le récap de début de partie + envoyer un email à Matt avec quelques infos
 
 Partie orientée "RP" :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
@@ -2269,11 +2279,9 @@ Campagne / prochaines sessions :
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
 
 To print:
-* playbook Hound/Limier
-* FloodedDistrict.png
 * recap session 17
-* 6-Empty-Graves-v1.1-2up.pdf recto-verso
-* I°II°I.I.•II°IiI° (or GLYPHCRAWL) v1-0-1 SPREADS.pdf
+* BitD-PouvoirsEthnos.pdf
+* BitD-Artworks-Hull-plans-by-Tensei-A4.pdf
 
 ## Clocks
 * une faction adverse va antagoniser Le Harpon en le dépeignant comme un culte diabolique
@@ -2295,42 +2303,6 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 
 ## PJs
 
-### Ethnos
-+ plus il utilise ses pouvoirs, plus le risque de "décorporation" spontanée augmente
-  -> selon le résultat du jet d'Attune, il peut se retrouver projeté dans un autre corps par accident,
-     ou à errer dans le Ghost Field, peut-être attiré par quelque chose...
-+ chaque changement de corps lui fait perdre un point d'attribut
-
-Énigme à tiroirs de ses tatouages :
-1. [x] Écrit en Hadrathi (iruvien) de manière "stylisé" :
-   53P355Ob n+ 7eW1ue un +910P uO+ 3P
-   3We uO+ 3P 3u1e+1be> 37 51O5
-   -> à l'envers + 133T SPEAK:
-   SOIS LE CAPITAINE DE TON AME
-   DE TON DOIGT UN ANIMAL TU POSSÈDES
-   (permet de contrôler un animal après l'avoir touché)
-2. [x] Écrit dans un vieux patois de marin Severosi :
-   GH CRHK BHIEVE YRF CRHK
-   GBA PBECF G'NCCNEGVRAG
-   -> Cesar Cypher +13
-   TU PEUX OUVRIR LES YEUX
-   TON CORPS T'APPARTIENT
-   (permet de contrôle le PJ + animaux en même temps)
-3. [ ] Écrit en ancien tycherosi, dit "Babylonien" :
-   char(76)char(69)char(83)char(72)char(85)char(77)char(65)char(73)char(78)char(83)char(83)char(79)char(78)char(84)char(65)char(84)char(65)char(80)char(79)char(82)char(84)char(69)char(69)
-   char(84)char(79)char(85)char(67)char(72)char(69)char(76)char(69)char(85)char(82)char(67)char(79)char(69)char(85)char(82)
-   -> Code des templiers (attention au sens haut/bas) via dcode.fr:
-   LESHUMAINSSONTATAPORTEE
-   TOUCHELEURCOEUR
-   (permet de contrôler des humains en touchant leur cœur)
-4. [ ] Écrit en cunéiforme démonique, mais déguisé en skovic :
-   char(57)char(49)char(41)char(53)char(61)char(62)char(33)char(41)char(62)
-   char(62)char(69)char(61)char(33)char(46)char(47)char(39)char(69)char(46)char(35)char(49)char(46)char(53)char(42)char(61)
-   -> braille (attention au sens haut/bas) via dcode.fr:
-   DECONTACT
-   TUNASPLUSBESOIN
-LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécu de transfert de corps peuvent octroyer des capacités démoniaques... Pour les maîtriser il faut déchiffrer leur sens !
-
 ### Josef
 + PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Josef
 + la famille Daava en veut probablement à Josef...
@@ -2345,6 +2317,7 @@ LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécu de
 * Simon aimerait bien jouer un autre archétype (Slide ?)
 
 ## Music
+* [Prince of Persia - Warrior Within OST](https://www.youtube.com/playlist?list=PL39A80E0ABBF9D3B8)
 * Poor Mans Poison - Give And Take: https://www.youtube.com/watch?v=HHPZynI6pwQ
 
 ## Idées en vrac
@@ -2366,8 +2339,9 @@ LORE: Les tatouages en sang de Léviathan combinés à l'expérience survécu de
 -> post on https://community.bladesinthedark.com / https://www.reddit.com/r/bladesinthedark/ / https://bladesinthedark.com/fan-creations
 * a SCORE (using one of angers-ma-0*.jpg as illustration)
 
-### Ressources to MENTION:
+### Ressources to "MENTION":
 + remercier Tim Denee pour son plan, et consulter ses autres sur flickr
++ https://old.reddit.com/r/bladesinthedark/comments/1n2kk5o/i_made_faction_icons_for_all_factions_in_the_base/
 + Whitehollow : https://rpggeek.com/filepage/293726/the-city-of-whitehollow-fan-expansion-v1
 + https://www.reddit.com/r/bladesinthedark/comments/188ky48/here_is_my_version_from_the_doskvol_district/
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)
