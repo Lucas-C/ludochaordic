@@ -821,7 +821,7 @@ d'acquérir des artefacts entrés en possession du gang à un prix des plus all�
 L'idée étant que j'allais ensuite déterminer celle-ci secrètement, et introduire ces objets durant la partie,
 sans qu'ils ne sachent à quoi ils ressemblent ! Voici ce que les joueurs ont choisi :
     * un objet permettant à un groupe de personnes de "s'occulter" temporairement et devenir invisible aux yeux de tous
-    * un objet émettant une lueur fantomatique, qui permet de localiser les fissures du voile fantôme et la nature de ce qui en transpire
+    * un objet émettant une lueur fantomatique, qui permet de localiser les fissures du voile fantôme et la nature de ce qui en transpire <!-- candélabre -->
     * un objet permettant, telle une baguette de sourcier macabre, de trouver où sont les morts à proximité
 
 
@@ -1549,21 +1549,21 @@ De retour à Gruber & Fils, le Harpon découvre, placardé sur la grille, un avi
 ### The Torment
 
 Le Harpon se concentre ensuite sur le job qui leur a été confié par Lord Scurlock :
-retrouver **The Torment**, un navire skovlander disparu depuis quelques jours,
+retrouver è**The Torment**è, un navire skovlander disparu depuis quelques jours,
 et sa précieuse cargaison : un coffre contenant des jarres de pierre.
-Le gang se renseigne alors sur les docks à ce propos, et apprend que le gang des **Grinders**
+Le gang se renseigne alors sur les docks à ce propos, et apprend que le gang des è**Grinders**è
 pourrait très probablement être responsable de cette disparition.
 
 _Flash-forward_ quelques heures plus tard, alors que le gang du Harpon est ligoté à des tonneaux
 dans une grotte donnant sur la _Void Sea_, à l'extérieur de Doskvol.
-Face à eux : _The Torment_. Autour d'eux : les Grinders les tiennent en joue, et leur chef **Hutton** vient d'ordonner à son second **Sercy** de tous les abattre.
+Face à eux : _The Torment_. Autour d'eux : les -Grinders- les tiennent en joue, et leur chef **Hutton** vient d'ordonner à son second **Sercy** de tous les abattre.
 La situation semble désespérée.
 
 Eric, Mist et quelques-uns de leurs hommes sont suspendus par des chaînes dans une cascade d'eau trouble provenant des égouts. Avec l'aide de son démon familier **Nuv'Khet**, Mist réussit à les libérer progressivement de leurs entraves, mais sa tête se retrouve sous l'eau et il perd connaissance. Eric réussit à le sortir hors de l'eau, puis fait plonger le garde à proximité et se balançant vers lui, et bondit au sol pour récupérer leur équipement.
 
-De son côté, Elaria réussit subrepticement à se libérer de ses liens, et commence à délivrer ses hommes et à éliminer discrètement les gardes à proximité. Lodius lui s’attelle à contrôler des rats à proximité pour ronger ses liens, mais il est mis en joue par Sercy : il a alors le réflexe de déclencher une _smoke bomb_, ce qui lui sauve la vie. Tandis qu'il courre rejoindre Elaria, il est percuté par un Grinder avec une corne de rhino, et sombre lui aussi dans l'inconscience. Ses rats se chargeront néanmoins de le ramener en sécurité dans les égouts.
+De son côté, Elaria réussit subrepticement à se libérer de ses liens, et commence à délivrer ses hommes et à éliminer discrètement les gardes à proximité. Lodius lui s’attelle à contrôler des rats à proximité pour ronger ses liens, mais il est mis en joue par Sercy : il a alors le réflexe de déclencher une _smoke bomb_, ce qui lui sauve la vie. Tandis qu'il courre rejoindre Elaria, il est percuté la corne de rhino de Sercy, et sombre lui aussi dans l'inconscience. Ses rats se chargeront néanmoins de le ramener en sécurité dans les égouts.
 
-À l'autre bout de la grotte, Josef _attune to the Ghost Field_ pour attirer à lui les créatures qu'il perçoit en surface, au dessus de la grotte. Cela entraînera quelques instants plus tard l'arrivée de spectres et d'immenses démons, semblant avoir creusé comme un tunnel jusqu'à cet espace souterrain. Josef se coordonne ensuite avec l'homme de main attaché au même tonneau que lui pour faire chuter un Grinder dans l'eau, puis se placer sous une stalactite afin de se libérer de leurs entraves.
+À l'autre bout de la grotte, Josef _attune to the Ghost Field_ pour attirer à lui les créatures qu'il perçoit en surface, au dessus de la grotte. Cela entraînera quelques instants plus tard l'arrivée de spectres et d'immenses démons, semblant avoir creusé comme un tunnel jusqu'à cet espace souterrain. Josef se coordonne ensuite avec l'homme de main attaché au même tonneau que lui pour faire chuter un _Grinder_ dans l'eau, puis se placer sous une stalactite afin de se libérer de leurs entraves.
 
 Alors que _The Torment_ commence à quitter la grotte, propulsé par un système de poids-poulie, avec Hutton & Sercy à bord, Eric s'élance pour sauter à bord, et se raccroche in extremis à un canon. Josef lui lance une corde, et de son côté Elaria saute à l'eau pour passer à l'abordage, ignorant un de ses hommes qui se noie derrière elle.
 
@@ -1572,7 +1572,7 @@ Alors que _The Torment_ commence à quitter la grotte, propulsé par un système
   <figcaption>Le navire The Torment quittant la grotte où il était dissimulé</figcaption>
 </figure>
 
-Tandis que des barriques de poudre explosent dans la grotte, et qu'un de leurs hommes se fait dévorer par un démon, Eric monte sur le pont du bateau et affronte tour à tour Sercy, qu'il fait prisonnier, et un colosse tatoué cracheur d'encre. De son côté Elaria élimine Hutton, qui tombe à la mer le bras tranché. Dans les égouts, Lodius & Mist se replient et condamnent le passage souterrain pour éviter aux créatures libérées dans la grotte d'envahir Doskvol.
+Tandis que des barriques de poudre explosent dans la grotte, et qu'un de leurs hommes se fait dévorer par un démon, Eric monte sur le pont du bateau et affronte tour à tour Sercy, qu'il fait prisonnier, et Gustav, un colosse tatoué cracheur d'encre. De son côté Elaria élimine Hutton, qui tombe à la mer le bras tranché. Dans les égouts, Lodius & Mist se replient et condamnent le passage souterrain pour éviter aux créatures libérées dans la grotte d'envahir Doskvol.
 
 La Harpon ramène le navire sur les Docks, et transporte discrètement sa précieuse cargaison chez Gruber & Fils par charrette.
 
@@ -1846,11 +1846,11 @@ où ils achètent de précieuses informations :
 
 <div class="side-by-side" role="group">
   <figure role="group">
-    <img loading="lazy" src="images/bitd/NPCs/BrynnTalonsky.jpg" alt="Barmaid du Hooded Fox" style="width: 18rem">
+    <img loading="lazy" src="images/bitd/NPCs/Wraiths-BrynnTalonsky.jpg" alt="Barmaid du Hooded Fox" style="width: 18rem">
     <figcaption>Barmaid du Hooded Fox</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" src="images/bitd/NPCs/Kang.png" alt="Barman du Crépusculaire" style="width: 18rem">
+    <img loading="lazy" src="images/bitd/NPCs/Wraiths-Kang.png" alt="Barman du Crépusculaire" style="width: 18rem">
     <figcaption>Barman du Crépusculaire - Kang - Contact / membre des Wraiths</figcaption>
   </figure>
 </div>
@@ -1980,7 +1980,7 @@ Pietro « Fork » Bucker <!-- Aurélien -->
 Après un long labeur d'aménagement de la Tour de l'Observatoire, nouveau QG du gang,
 ces malfrats échangent quelques mots autour d'un verre de pinard.
 
-Ils s'aventurent à explorer les lieux, et croisent **Noah**, jeune recrue issue des Grinders.
+Ils s'aventurent à explorer les lieux, et croisent **Noah**, jeune recrue issue des _Grinders_.
 Celui-ci leur parle de l'Eyrie au sommet d'une tour, et ils s'y rendent tous.
 Alors qu'ils s'approchent, Hal & Clermont entendent alors une voix dans leur tête qui leur parle en murmurant...
 
@@ -2012,7 +2012,7 @@ Qui lui a appris l'art du déguisement et de la comédie, et pourquoi ?
 puis ayant pris goût au jeu sur les planches, de devenir acteur.
 
 Eric n'était pas prédisposé ni voué à une vie criminelle à l'origine. Est-ce que ses actes de violence, ou sa passion pour les plaisirs charnels en sont à l'origine, ou quelque chose d'autre dans son histoire ?
-: Alors que le cabaret-théâtre où il était acteur était menacé par les usuriers et le racket,
+: Alors que le cabaret-théâtre où il était acteur, Le Joyeux Rieur, était menacé par les usuriers et le racket,
 Eric a dû bander les poings pour le défendre.
 
 Il existe quelqu'un à Doskvol lié au passé d'Eric, que ce dernier évite soigneusement de côtoyer : qui-est-ce et pourquoi ce comportement ?
@@ -2110,7 +2110,7 @@ La situation est étrange : Ethnos, dans le corps d'un soldat impérial, souhait
 
 Eric & Josef arrivent également à la Goule Fendue, et Ethnos tente de leur prouver qui il est.
 Mais soudain Mist se jette sur Josef, hurlant à la vengeance !
-En effet, ce dernier et Lord Daaya partagent une sombre histoire, ayant entraîné la mort du fantôme.
+En effet, ce dernier et Lord Daaya partagent une sombre histoire, ayant entraîné le décès du spectre.
 
 Eric finit par maîtriser Mist possédé, tout le monde rejoint la Tour de l'Observatoire,
 et la possession de Lord Daaya cesse.
@@ -2244,6 +2244,8 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
   <figcaption>Ethnos dans le corps d'un garde impérial - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
+<!-- Inclure dernières illustrations d'Elliot -->
+
 <!--
 * une brume mortelle se répand
 * une armée de démons franchit les barrières électrostatiques et se déverse dans le quartier de Six Towers
@@ -2279,8 +2281,10 @@ Campagne / prochaines sessions :
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
 
 To print:
-* recap session 17
 * BitD-PouvoirsEthnos.pdf
+* BitD-RecapDebutDeSession17.pdf
+* BitD-Rituels.pdf
+* BitD-SpecialItems.pdf
 * BitD-Artworks-Hull-plans-by-Tensei-A4.pdf
 
 ## Clocks
@@ -2303,17 +2307,8 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 
 ## PJs
 
-### Josef
-+ PNJ Arden Joyen/Jayan, antiquaire, vieux maître de Josef
-+ la famille Daava en veut probablement à Josef...
-
-### Mist
-+ Setarra veut se venger de lui, car il a annulé un pacte qu'ils avaient noué en remontant dans le temps
-+ rattaché à la maison Ankhayat à U'Duasha, formé à l'Université de Vaasu, qui forme le futur de l'élite militaire et des capitaines de vaisseau chasseur de Léviathan
-
 ### Elaria
 * anticiper raison de son absence
-* Downtime pas encore fait
 * Simon aimerait bien jouer un autre archétype (Slide ?)
 
 ## Music
