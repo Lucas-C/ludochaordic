@@ -220,7 +220,7 @@ Cela rend l'iruvien furieux. Sabre à la main, il se met en position de duel pou
 désarmé, décide de s'enfuir dans le dédale de rues pour regagner la place du marché
 
 <figure>
-  <img loading="lazy" alt="Combatant iruvien" src="images/bitd/NPCs/iruvian_sword_fighter.jpg">
+  <img loading="lazy" alt="Combatant iruvien" src="images/bitd/NPCs/Milos.jpg">
   <figcaption>Milos</figcaption>
 </figure>
 
@@ -2222,12 +2222,21 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
     + [music to roleplay vampires in new york - dark, instrumental, suspense, guitar, thriller @ YouTube](https://www.youtube.com/watch?v=LeLRJEb1ins)
     + [Paris Rooftops - Sly 2 Band of Thieves Extended Music @ YouTube](https://www.youtube.com/watch?v=qxBz13WbRoU)
 
-<a href="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule3.pdf">
-  <figure>
-    <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule3-pdf-thumbnail.jpg">
-    <figcaption>Chroniques du Crépuscule n°3 - par Aurélien</figcaption>
-  </figure>
-</a>
+<div class="side-by-side" role="group">
+  <a href="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule3.pdf">
+    <figure>
+      <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule3-pdf-thumbnail.jpg">
+      <figcaption>Chroniques du Crépuscule n°3 - par Aurélien</figcaption>
+    </figure>
+  </a>
+  <a href="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule4.pdf">
+    <figure>
+      <img loading="lazy" alt="PDF preview" src="images/bitd/ChroniquesDuCrepuscule/ChroniquesDuCrepuscule4-pdf-thumbnail.jpg">
+      <figcaption>Chroniques du Crépuscule n°4 - par Aurélien</figcaption>
+    </figure>
+  </a>
+</div>
+
 
 ## Session 17 - 22 & 23 août 2026
 
@@ -2247,20 +2256,6 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 <!-- Inclure dernières illustrations d'Elliot -->
 
 <!--
-* une brume mortelle se répand
-* une armée de démons franchit les barrières électrostatiques et se déverse dans le quartier de Six Towers
-
-Préparer la transition d'Ethnos en Limier, puis en Hull
-Prévoir une trame générale qui IMPLIQUE directement les PJs dans le "Cataclysme"
-Compléter le récap de début de partie + envoyer un email à Matt avec quelques infos
-
-Travailler les ambitions & actions des PNJs :
-* Quill : que va-t-elle faire ?
-* Maria Coseren
-* sergent Echols ?
-* Justinia ?
-* Valeris
-
 Partie orientée "RP" :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
 * donner beaucoup de descriptions d'ambiance
@@ -2271,21 +2266,10 @@ Campagne / prochaines sessions :
 * idée issue de Radio Roliste : temporiser l'adversité pour permettre à des tensions entre PJs d'apparaître
 * (anticiper) si le Harpon et l’Écharpe Rouge sont en guerre -> effets mécaniques ?
 * introduire magie des ombres, dirigeables...
-* employer des éléments issus de leurs inventaires comme ressorts de l'histoire
-* introduire DeepCuts-SecretDoc-EasternExpansion.pdf
-* introduire 2 derniers "artefacts magiques" inventés par les joueurs dans une partie précédente
-
 * logbook = game changer, va modifier équilibre des forces de la ville...
   -> peut permettre la libération des enfants de Setarra
 * dernier emploi de la croix -> finiront par remonter le temps au début de la campagne [idée issue de l'article de Hu&Mu sur FATE of Cthulhu]
 -> comme ils connaîtront déjà le déroulement de 90% des événements, ils deviennent de facto quasi-omniscients !
-
-To print:
-* BitD-PouvoirsEthnos.pdf
-* BitD-RecapDebutDeSession17.pdf
-* BitD-Rituels.pdf
-* BitD-SpecialItems.pdf
-* BitD-Artworks-Hull-plans-by-Tensei-A4.pdf
 
 ## Clocks
 * une faction adverse va antagoniser Le Harpon en le dépeignant comme un culte diabolique
