@@ -989,7 +989,7 @@ mais Aldo est néanmoins dévoré vivant sous leurs yeux.
 
 Il s'injecte alors un sérum de physicker dans le bras, et se transforme partiellement...
 
-<img loading="lazy" alt="Eric transformé" src="images/bitd/NPCs/KingShark.jpg">
+<img loading="lazy" alt="Eric transformé" src="images/bitd/PCs/EricHalfShark.jpg">
 
 Armé de son marteau qu'il fait tournoyer, il fait un ravage parmi les mort-vivants.
 Malheureusement, Justinia meurt dans l'effondrement d'un bâtiment en flammes.
@@ -2096,7 +2096,7 @@ Après une courte mais intense réflexion, il décide de s'élancer dans le vide
     <figcaption>Soldat impérial - Source : inconnue / Pinterest</figcaption>
   </figure>
   <figure role="group">
-    <img loading="lazy" alt="Inspecteur Smithson" src="images/bitd/Session16/Inspecteur.jpg">
+    <img loading="lazy" alt="Inspecteur Smithson" src="images/bitd/Session16/Inspector-Smithson.jpg">
     <figcaption>Inspecteur Smithson - Source : <a href="https://www.artstation.com/artwork/6aPNQ6">Character concept by 5518 Studios</a></figcaption>
   </figure>
 </div>
@@ -2237,7 +2237,6 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
   </a>
 </div>
 
-
 ## Session 17 - 22 & 23 août 2026
 
 <img loading="lazy" alt="" src="images/bitd/Session17/bitd-session-17-cover.jpg">
@@ -2248,14 +2247,88 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 > * Comment se déroulera le Grand Tournoi martial organisé par l'Écharpe Rouge, auquel Eric va participer sous un faux nom ?
 > * Qu'est devenue Elaria ? Et le spectre de Lord Daaya ?
 
-<figure role="group">
-  <img loading="lazy" alt="Ethnos" src="images/bitd/Tensei/Ethnos-possession-garde.jpg">
-  <figcaption>Ethnos dans le corps d'un garde impérial - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
-</figure>
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" alt="Ethnos" src="images/bitd/Tensei/Ethnos-possession-garde.jpg">
+    <figcaption>Ethnos dans le corps d'un garde impérial - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  </figure>
+  <a href="BitD-RecapDebutDeSession17.pdf">
+    <figure>
+      <img loading="lazy" alt="PDF preview" src="images/bitd/BitD-RecapDebutDeSession17-pdf-thumbnail.jpg">
+      <figcaption>Récap' de début de session 17</figcaption>
+    </figure>
+  </a>
+</div>
 
-<!-- Inclure dernières illustrations d'Elliot -->
+<!-- Images : ring & ring 2e jour + TheComet.jpg -->
+
+<div class="side-by-side" role="group">
+  <figure>
+    <img loading="lazy" alt="Aldo" src="images/bitd/NPCs/Aldo.png">
+    <figcaption>Aldo - Source : <a href="https://de.pinterest.com/pin/568298046745478529/">Pinterest</a></figcaption>
+  </figure>
+  <figure>
+    <img loading="lazy" alt="Marlane" src="images/bitd/NPCs/Marlane.png">
+    <figcaption>Marlane - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @Reddit</a></figcaption>
+  </figure>
+</div>
+
+<div class="side-by-side" role="group">
+  <figure>
+    <img loading="lazy" alt="Dima Klev" src="images/bitd/NPCs/DimaKlev-portrait.jpg">
+    <figcaption>Dima Klev - Stéphane Wootha Richard</figcaption>
+  </figure>
+  <figure>
+    <img loading="lazy" alt="Le combattant masqué" src="images/bitd/Session17/LeGrandTournoi/mysterious-fighter.jpg">
+    <figcaption>Le combattant masqué au Grand Tournoi - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @Reddit</a></figcaption>
+  </figure>
+</div>
+
+<div class="side-by-side" role="group">
+  <figure>
+    <img loading="lazy" alt="Sercy" src="images/bitd/NPCs/Sercy.jpg">
+    <figcaption>Sercy - 4e match du Grand Tournoi - Source : <a href="https://fr.pinterest.com/pin/568298046752359910/">Pinterest</a></figcaption>
+  </figure>
+  <figure>
+    <img loading="lazy" alt="Omar Silk" src="images/bitd/Session17/LeGrandTournoi/OmarSilk.jpg">
+    <figcaption>Omar Silk - 4e match du Grand Tournoi - Source : <a href="https://sikeysipi.pro/boards/eastern-myth-samurai">sikeysipi.pro</a></figcaption>
+  </figure>
+</div>
+
+<div class="side-by-side" role="group">
+  <figure role="group">
+    <img loading="lazy" alt="Elstera Avrathi" src="images/bitd/NPCs/ElsteraAvrathi.jpg">
+    <figcaption>Elstera Avrathi - Artwork for Dishonored</figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" alt="Sergent Echols" src="images/bitd/NPCs/SergentEchols.jpg">
+    <figcaption>Sergent Echols, salement abîmé par la boisson - Source : <a href="https://de.pinterest.com/pin/69524387998169118/">Pinterest</a></figcaption>
+  </figure>
+</div>
+
+### Ressources
+- ambiance musicale :
+    * [Prince of Persia - Warrior Within OST (playlist YouTube)](https://www.youtube.com/playlist?list=PL39A80E0ABBF9D3B8)
+    * [Poor Mans Poison - Give And Take (YouTube)](https://www.youtube.com/watch?v=HHPZynI6pwQ)
+- aides de jeu « maison » :
+    * [BitD-Afflictions.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Afflictions.pdf)
+    * [BitD-DemonSheet.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-DemonSheet.pdf)
+    * [BitD-PouvoirsEthnos.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PouvoirsEthnos.pdf)
+    * [BitD-PCsQuickSummary.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PCsQuickSummary.pdf)
+    * [BitD-Rituels.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Rituels.pdf)
+- contributions des joueurs :
+    * [Souvenirs d'Orlan Skora, Garde Impérial (PDF)](ontent/images/bitd/BitD-SouvenirsDeOrlanSkora.pdf)
+<!-- Keeping it secret for now
+    * [BitD-SpecialItems.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-SpecialItems.pdf)
+-->
 
 <!--
+A préparer pour prochaine session :
+* préparer en amont avec Matt des trucs concernant Mist & les démons
+* import/copy playlists BitD into my own + enable watch cron + build a BitD music page ?
+* gang des Gondoliers : ambitions & intentions ?
+* réintroduire PNJ Sylvia Derengathi ?
+
 Partie orientée "RP" :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
 * donner beaucoup de descriptions d'ambiance
@@ -2294,10 +2367,6 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 ### Elaria
 * anticiper raison de son absence
 * Simon aimerait bien jouer un autre archétype (Slide ?)
-
-## Music
-* [Prince of Persia - Warrior Within OST](https://www.youtube.com/playlist?list=PL39A80E0ABBF9D3B8)
-* Poor Mans Poison - Give And Take: https://www.youtube.com/watch?v=HHPZynI6pwQ
 
 ## Idées en vrac
 * les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...

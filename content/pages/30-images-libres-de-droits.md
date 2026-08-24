@@ -585,6 +585,7 @@ Cette page restera en constante évolution, j'y ajouterai régulièrement de nou
 > [...] I believe this change can only come about through **creative destruction**.
     * [Mordor](https://www.e-tribart.fr/blog/wp-content/uploads/2016/08/wootha7.jpg)
     * [Doctor Strange](https://express.adobe.com/page/ucLFuLOEKK9Uo/images/dc03da9f-60f8-489d-b686-d05b5bd54d22.jpg)
+    * More on `archive.org`: [Wootha Public Domain Release](https://archive.org/details/Wootha_Public_Domain)
 - [Arben Krasniqi _aka_ SilentEmotionn](https://www.deviantart.com/silentemotionn/gallery): CC BY
 > A passionate digital artist exploring the limitless possibilities of blending art and technology.
 > With a love for both traditional and digital mediums
