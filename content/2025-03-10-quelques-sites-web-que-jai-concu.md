@@ -1,6 +1,6 @@
 Title: Quelques sites web que j'ai conçu
 Date: 2025-03-10 10:00
-Tags: lang:fr, personal-project, kawasso, website, ecoconception, association, creative-commons, libre-software, open-source, source-code, static-site-generator, python, wordpress, AutoHebergement, gratuit, prog
+Tags: lang:fr, personal-project, kawasso, website, ecoconception, association, creative-commons, libre-software, open-source, source-code, static-site-generator, python, wordpress, html, source-code, AutoHebergement, gratuit, prog
 ---
 Au cours des 18 derniers mois, j'ai eu l'occasion de concevoir plusieurs sites web pour des proches et des associations où je suis bénévole.
 

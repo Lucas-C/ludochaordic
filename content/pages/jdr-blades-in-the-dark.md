@@ -124,6 +124,11 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [L'exécution publique](pages/jdr-blades-in-the-dark.html#l-ex-cution-publique)
     * [Un prisonnier gênant](pages/jdr-blades-in-the-dark.html#un-prisonnier-g-nant)
 - [Session 17 - 22 & 23 août 2026](pages/jdr-blades-in-the-dark.html#session-17-22-23-ao-t-2026)
+    * [Un nouveau chef ?](pages/jdr-blades-in-the-dark.html#un-nouveau-chef-)
+    * [Le Grand Tournoi](pages/jdr-blades-in-the-dark.html#le-grand-tournoi)
+    * [Le corps de Lodius](pages/jdr-blades-in-the-dark.html#le-corps-de-lodius)
+    * [Intermède](pages/jdr-blades-in-the-dark.html#interm-de)
+    * [La comète](pages/jdr-blades-in-the-dark.html#la-com-te)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -219,7 +224,7 @@ lui arrachant son écharpe à mains nues, puis finalement décide de s'enfuir.
 Cela rend l'iruvien furieux. Sabre à la main, il se met en position de duel pour régler son compte à Eric,
 désarmé, décide de s'enfuir dans le dédale de rues pour regagner la place du marché
 
-<figure>
+<figure id="milos">
   <img loading="lazy" alt="Combatant iruvien" src="images/bitd/NPCs/Milos.jpg">
   <figcaption>Milos</figcaption>
 </figure>
@@ -267,7 +272,7 @@ par où le gang s'échappe en passant par les toits.
 Au final, l'opération est une réussite, et Eric a même pu récupérer au passage ses affaires, l'écharpe rouge volé à son adversaire un peu plus tôt,
 et quelques pièces.
 - alors qu'ils s'éloignent silencieusement en barque, leur comparse de fortune révèle qui il est :
-**Aldo**, un ancien membre du gang des Crows, désormais pourchassé par Lyssa car il l'a vu assassiner Roric !
+[**Aldo**](pages/jdr-blades-in-the-dark.html#aldo), un ancien membre du gang des Crows, désormais pourchassé par Lyssa car il l'a vu assassiner Roric !
 
 <figure role="group">
   <img loading="lazy" alt="La planque du gang du Harpon" src="images/bitd/HarpoonGangHQ.jpg">
@@ -304,7 +309,7 @@ qui a massacré tout le monde sur son passage
 </figure>
 
 - en fin d'après-midi, à la pause, les PJs se retrouvent pour mettre en commun leurs infos, établir un plan
-et envoyer un message à Aldo & Melvir stationnés en barque à quelques encablures par l'intermédiaire de la buse d'Ethnos.
+et envoyer un message à [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo) & Melvir stationnés en barque à quelques encablures par l'intermédiaire de la buse d'Ethnos.
 Un peu plus tard, Elaria se charge de déclencher un incendie dans les abattoirs pour faire office de diversion,
 tandis qu'Eric déclenche encore plus la panique en criant au retour du fantôme. Il s'éclipse alors en courant avec un tonnelet
 vers l'eau du port dans laquelle il plonge, avant de se saisir d'une barque et de s'enfuir en simulant toujours la panique.
@@ -345,12 +350,12 @@ A ses trousses, Ethnos dans le corps de Lodius lui cours après en lui criant de
 
 ## Session 5 - 1er août 2019
 
-<figure role="group">
+<figure role="group" id="ethnos">
   <img loading="lazy" alt="Ethnos" src="images/bitd/PCs/Ethnos.jpg">
   <figcaption>Le personnage d'Ethnos par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
 
-- la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec Aldo, Justinia et Melvir,
+- la partie débute alors que les PJs arrivent à leur planque à bord de deux barques, avec [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo), Justinia et Melvir,
 mais aussi Grell Jayan blessé au ventre et le corps inanimé d'Ethnos
 
 - Ethnos, dans le corps de Lodius recouvert d'étranges tatouages mouvants, entrepose son corps originel au milieu de sacs de sel,
@@ -410,7 +415,7 @@ dans une explosion de flammes, sous les yeux d'une foule de badauds éberlués
 
 ## Session 6 - 8 février 2020
 
-<figure role="group">
+<figure role="group" id="lodius">
   <img loading="lazy" alt="Lodius Dalmore" src="images/bitd/PCs/Lodius.jpg">
   <figcaption>Lodius Dalmore par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
@@ -458,7 +463,7 @@ et est visiblement prêt à se battre pour le défendre, mais annonce être prê
 
 - l'information leur étant parvenu qu'on cherchait à recruter leurs services à la Goule Fendue,
 les PJs s'y rendent pour rencontrer un petit groupe de **Silver Nails**, un gang d'anciens légionnaires chasseurs de démons,
-mené par **Jenny Holt**, et son second le sergent **Echols**.
+mené par **Jenny Holt**, et son second le sergent [**Echols**](pages/jdr-blades-in-the-dark.html#echols).
 Ceux-ci recherchent un transporteur pour se rendre au **district perdu**, car ils ont des informations pour y dénicher
 un trésor de guerre, mais n'ont pas les contacts, l'équipement ni les compétences pour franchir la barrière illégalement.
 Ils posent 2 conditions : que des garanties leur soit exposées sur comment comptent s'y prendre les PJs,
@@ -466,11 +471,11 @@ et qu'ils soient eux-même présents pour l'opération.
 Les PJs proposent de leur rendre une réponse sous moins de 3 jours, pour une opération qui aurait lieu dans 5.
 
 <div class="side-by-side" role="group">
-  <figure role="group">
+  <figure role="group" id="darmot">
     <img loading="lazy" alt="Darmot portrait" src="images/bitd/NPCs/Darmot.jpg">
     <figcaption>Darmot portrait (Carlos Carbrera)</figcaption>
   </figure>
-  <figure role="group">
+  <figure role="group" id="jenny-holt">
     <img loading="lazy" alt="Jenny Holt, Silver Nails" src="images/bitd/NPCs/JennyHolt.jpg">
     <figcaption>Jenny Holt, Silver Nails <a href="https://www.artstation.com/artwork/oYl0q" target="_blank">(Cedric Peyravernay)</a></figcaption>
   </figure>
@@ -485,18 +490,18 @@ Les PJs reçoivent même un cadeau de la part du gang de l'Écharpe Rouge : un c
 de parfum et de pierres précieuses.
 
 <div class="side-by-side" role="group">
-  <figure role="group">
+  <figure role="group" id="mylera-klev">
     <img loading="lazy" alt="Mylera Klev" src="images/bitd/NPCs/MyleraKlev.jpg">
     <figcaption>Mylera Klev <a href="https://www.artstation.com/artwork/Ka1Lmy" target="_blank">(Windrider 2 by Mona Finden)</a></figcaption>
   </figure>
-  <figure role="group">
+  <figure role="group" id="oru">
     <img loading="lazy" alt="Oru" src="images/bitd/NPCs/Oru.jpg">
     <figcaption>Oru <a href="https://www.artstation.com/artwork/Ln9KA" target="_blank">(Old Master by Silviu Sadoschi)</a></figcaption>
   </figure>
 </div>
 
 - la nuit étant déjà bien avancée, et secouée par un orage aux relents spectraux, avec de nombreux Échos dans l'air,
-les PJs passent à l'action sur l'entrepôt de l'Œil Blanc qu'ils ont identifié, et où Aldo les attendait.
+les PJs passent à l'action sur l'entrepôt de l'Œil Blanc qu'ils ont identifié, et où [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo) les attendait.
 Après une infiltration réussie, ils font face à plus de résistance que prévue, pour finalement débarquer en pleine cérémonie
 d'invocation d'un démon, en présence de **Baszos Baz** lui-même !
 Les PJs se replient finalement, en détruisant tout de même le laboratoire de l'entrepôt au passage.
@@ -681,11 +686,11 @@ Face à l'auberge en partie détruite, Elaria lance au patron :
 > « Vous adresserez la note à l'Œil Blanc. »
 
 <div class="side-by-side" role="group">
-  <figure role="group">
+  <figure role="group" id="argaz">
     <img loading="lazy" alt="I Will Find You And I Will Kill You" src="images/bitd/demons/I-Will-Find-You-And-I-Will-Kill-You-Meme-Demon.png">
     <figcaption>Argaz - <a href="https://www.artstation.com/artwork/mlgD8">Demon Assassin - Andrey Korolev</a></figcaption>
   </figure>
-  <figure role="group">
+  <figure role="group" id="baszos-baz">
     <img loading="lazy" alt="Baszos Baz" src="images/bitd/NPCs/BaszosBaz.jpg">
     <figcaption>Baszos Baz - John Harper</figcaption>
   </figure>
@@ -721,7 +726,7 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
 </figure>
 
 <div class="side-by-side" role="group">
-  <figure role="group">
+  <figure role="group" id="justinia">
     <img loading="lazy" alt="Justinia (Talyn by Banished-shadow)" src="images/bitd/NPCs/Justinia.png">
     <figcaption>Justinia (<a href="https://www.deviantart.com/banished-shadow/art/Talyn-569327626">Talyn by Banished-shadow</a>)</figcaption>
   </figure>
@@ -729,7 +734,7 @@ Au passage, un excellent site recense tous les Hacks du jeu : [The Throve](https
     <img loading="lazy" alt="Early Morning Lights - Joseph Feely" src="images/bitd/places/facades_and_streets/JosephFeely-EarlyMorningLights.jpg">
     <figcaption><a href="https://www.artstation.com/artwork/3ddmVE">Early Morning Lights - Joseph Feely</a></figcaption>
   </figure>
-  <figure role="group">
+  <figure role="group" id="josef">
     <img loading="lazy" alt="Josef Tucker (Daud By Infernal Guardian'17)" src="images/bitd/PCs/JosefTucker.jpg">
     <figcaption>Josef Tucker (Daud By Infernal Guardian'17)</figcaption>
   </figure>
@@ -783,7 +788,7 @@ Le lendemain matin, le gang entreprend donc d'essayer de rassurer la populace en
 puis de recruter des hommes : **Josef Tucker** tout d'abord, un _whisper_ versé dans les illusions,
 également ancien barman à la Goule Fendue devant de l'argent au gang, ainsi qu'une demi-douzaine de sous-fifres triés sur le volet.
 
-Ethnos-Lodius et Aldo se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire
+Ethnos-Lodius et [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo) se rendent au lieu de la négociation avec les autres gangs, un restaurant iruvien dans le territoire
 de l'Écharpe Rouge, mais Justinia manque au rendez-vous... Sur place, ils retrouvent Mylera, Oru et Bell.
 Les négociations se déroulent sans accroc :
 l'Écharpe Rouge récupère le territoire sud, les artefacts magiques que possédait Baszos et le _business_ de la prostitution;
@@ -839,11 +844,11 @@ sans qu'ils ne sachent à quoi ils ressemblent ! Voici ce que les joueurs ont ch
     </video>
     <figcaption>Video créé avec <a href="https://photomosh.com">PhotoMosh</a></figcaption>
   </figure-->
-  <figure role="group">
+  <figure role="group" id="scurlock">
     <img loading="lazy" alt="Lord Scurlock" src="images/bitd/NPCs/LordScurlock.jpg">
     <figcaption>Lord Scurlock - <a href="https://www.deviantart.com/miles-johnston/art/Dnd-Rudolph-Van-Richten-331873119">Dnd - Rudolph Van Richten by Miles-Johnston</a></figcaption>
   </figure>
-  <figure role="group">
+  <figure role="group" id="boden">
     <img loading="lazy" alt="Inspector Boden" src="images/bitd/NPCs/Inspector-Boden.jpg">
     <figcaption>Inspector Boden - <a href="https://quarkmaster.tumblr.com/post/158062423277/nq70-watch-inspector-watch-inspector-career">Watch Inspector by Mitchell Malloy</a></figcaption>
   </figure>
@@ -956,7 +961,7 @@ Des tirs de boulets de canon commencent à démolir le bâtiment.
 ([bande son @YouTube](https://www.youtube.com/watch?v=987shv-gJrc))
 
 Dans la prison, une foule frénétique monte les étages dans leur direction.
-Ils sauvent in extremis **Aldo** qui leur ramène leur matériel.
+Ils sauvent in extremis [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo) qui leur ramène leur matériel.
 Josef leur apprend que Justinia les attend avec une barque en bas de la falaise, au niveau d'une entrée d’égout.
 Mais comment la rejoindre avec cette horde possédée qui remonte vers eux ?!
 
@@ -983,7 +988,7 @@ Puis il se dirige en courant vers la Goule Fendue, en flammes, suivi par le gang
 > (Elaria) « Ils en ont après TOI Ethnos ! »
 
 Les _booby-traps_ autour du galion ralentissent la horde de mort-vivants,
-mais Aldo est néanmoins dévoré vivant sous leurs yeux.
+mais [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo) est néanmoins dévoré vivant sous leurs yeux.
 
 > (Eric) « Écartez-vous, je vais les retenir ! »
 
@@ -1276,7 +1281,7 @@ Ils finissent par atteindre la loco, et font face à Bell dans un affrontement f
 
 Les membres rescapés du Harpon, ainsi qu'un unique Crows qui a préféré se rendre, finissent de prendre le contrôle du train, et grâce à Josef qui manœuvre habilement la locomotive de tête, ils réussissent à attacher de nouveau l'ensemble des wagons.
 Après une courte hésitation où ils envisagent d'abandonner tous les passagers dans les _deathlands_, le gang décide de diriger le train vers Doskvol. Ils sont suivis dans les airs par une gigantesque nuée de silhouettes rapaces...
-Une fois la barrière électroplasmique de la ville franchie, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par Aldo, et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
+Une fois la barrière électroplasmique de la ville franchie, ils déchargent la marchandise depuis un pont ferroviaire vers une embarcation en contrebas amenée par [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo), et c'est ainsi que ce termine ce _hit & run_, aux lueurs de l'aube.
 
 <figure role="group">
   <img loading="lazy" alt="Les abords du fleuve Dosk à l'aube" src="images/bitd/places/Bridge-river.webp">
@@ -1348,8 +1353,8 @@ et que Mal sème les graines de la révolte dans l'assemblée,
 Quill fait reproche à Elaria d'être partie et de les avoir abandonné...
 
 <figure class="side-by-side" role="group" id="quill">
-  <img loading="lazy" src="images/bitd/NPCs/Quill.jpg" alt="Quill">
-  <img loading="lazy" src="images/bitd/NPCs/Sera-Coalridge.png" alt="Sera">
+  <img loading="lazy" src="images/bitd/NPCs/Quill.jpg" alt="Quill" id="quill">
+  <img loading="lazy" src="images/bitd/NPCs/Sera-Coalridge.png" alt="Sera" id="sera">
   <figcaption>Quill &amp; Sera</figcaption>
 </figure>
 
@@ -1398,14 +1403,14 @@ Le gang se rend alors sur place en personne, sauf Lodius qui se rend à la tour 
 À Coalridge, tous les ponts reliant le quartier sont contrôlés par les _Bluecoats_, et l'armée impériale se prépare même à intervenir... Le gang s'y rend donc à la nage, et débarque en plein milieu d'une charge de miliciens en armure sur l'usine barricadée. Tandis qu'Elaria, Josef et Mist se faufilent à l'intérieur de l'enceinte, Eric tire sur les forces de l'ordre, et se retrouve rapidement tabassé et laissé pour mort. Mais sa grande résistance lui permet d'encaisser les coups puis de maîtriser deux _Bluecoats_, et de leur subtiliser leurs canons mortiers. Il s'en sert pour mettre les forces de l'ordre en déroute à grand coups d'explosions.
 
 <figure class="side-by-side" role="group">
-  <img loading="lazy" alt="Sand demon" src="images/bitd/demons/Ermgast.png">
+  <img loading="lazy" alt="Sand demon" src="images/bitd/demons/Ermgast.png" id="ermgast">
   <img loading="lazy" alt="Bluecoat CRS" src="images/bitd/NPCs/Bluecoats-CRS.jpg">
   <figcaption>Ermgast, démon de sable &amp; CRS Bluecoat - Source : <a href="https://www.artstation.com/artwork/qAQaqN" target="_blank">costume illustration for Robin Hood Origins by Andrei Riabovitchev</a></figcaption>
 </figure>
 
 <figure class="side-by-side" role="group">
-  <img loading="lazy" src="images/bitd/NPCs/LucretiusDream.png" alt="Lucretius Dream">
-  <img loading="lazy" src="images/bitd/NPCs/ulf_ironborn.png" alt="Ulf Ironborn">
+  <img loading="lazy" src="images/bitd/NPCs/LucretiusDream.png" alt="Lucretius Dream" id="lucretius">
+  <img loading="lazy" src="images/bitd/NPCs/ulf_ironborn.png" alt="Ulf Ironborn" id="ulf-ironborn">
   <figcaption>Lucretius Dream &amp; Ulf Ironborn</figcaption>
 </figure>
 
@@ -1437,8 +1442,8 @@ Le reste du gang choisit alors de lancer une opération « coup de poing » et d
 Cette opération de sauvetage se conclut finalement par une fuite du gang hors du club, en abandonnant un de leurs hommes derrière eux, pour se fondre dans la foule et rejoindre leur planque, sous un feu nourri de carreaux d'arbalète.
 
 <figure class="side-by-side" role="group" id="vassock">
-  <img loading="lazy" src="images/bitd/demons/Vassock.png" alt="Démon invisible">
-  <img loading="lazy" src="images/bitd/NPCs/Raffello.jpg" alt="Raffello">
+  <img loading="lazy" src="images/bitd/demons/Vassock.png" alt="Démon invisible" id="vassock">
+  <img loading="lazy" src="images/bitd/NPCs/Raffello.jpg" alt="Raffello" id="raffello">
   <figcaption>Vassock, démon invisible &amp; Raffello</figcaption>
 </figure>
 
@@ -1480,7 +1485,7 @@ Le gang finit par mettre les voiles, sans même être inquiété par le navire v
 </figure>
 
 <figure class="side-by-side" role="group">
-  <img loading="lazy" src="images/bitd/PCs/Elaria2.jpg" alt="Elaria">
+  <img loading="lazy" src="images/bitd/PCs/Elaria2.jpg" alt="Elaria" id="elaria">
   <img loading="lazy" alt="3 membres du Harpon : Mist, Lodius et Eric" src="images/bitd/PCs/Gang3-Mist-Lodius-Eric.jpg" style="flex: 2 0">
   <figcaption>4 membres du Harpon : Elaria, Mist, Lodius et Eric, par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
@@ -1556,7 +1561,7 @@ pourrait très probablement être responsable de cette disparition.
 
 _Flash-forward_ quelques heures plus tard, alors que le gang du Harpon est ligoté à des tonneaux
 dans une grotte donnant sur la _Void Sea_, à l'extérieur de Doskvol.
-Face à eux : _The Torment_. Autour d'eux : les -Grinders- les tiennent en joue, et leur chef **Hutton** vient d'ordonner à son second **Sercy** de tous les abattre.
+Face à eux : _The Torment_. Autour d'eux : les -Grinders- les tiennent en joue, et leur chef **Hutton** vient d'ordonner à son second [**Sercy**](pages/jdr-blades-in-the-dark.html#sercy) de tous les abattre.
 La situation semble désespérée.
 
 Eric, Mist et quelques-uns de leurs hommes sont suspendus par des chaînes dans une cascade d'eau trouble provenant des égouts. Avec l'aide de son démon familier **Nuv'Khet**, Mist réussit à les libérer progressivement de leurs entraves, mais sa tête se retrouve sous l'eau et il perd connaissance. Eric réussit à le sortir hors de l'eau, puis fait plonger le garde à proximité et se balançant vers lui, et bondit au sol pour récupérer leur équipement.
@@ -1593,7 +1598,7 @@ mais plusieurs insurgés doutent de la confiance qu'ils peuvent lui accorder.
 S'ensuit un _meeting_ public avec tous les ouvriers révoltés, où Ulf, Quill, Mal, les représentants syndicaux,
 et **Olivia**, fille adoptive de Lucretius, prennent parole pour défendre leurs idées.
 
-<figure role="group">
+<figure role="group" id="olivia-dream">
   <img loading="lazy" src="images/bitd/NPCs/OliviaDream.png" alt="Olivia Dream, fille adoptive de Lucretius">
   <figcaption>Olivia Dream, fille adoptive de Lucretius - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @ Reddit</a></figcaption>
 </figure>
@@ -1630,7 +1635,7 @@ Tandis que Mist, Elaria et Josef se précipitent dans le hangar au rez-de-chauss
   <figcaption>Échassier - Source : <a href="https://dishonored.fandom.com/wiki/Tallboys?file=Concept_art_tallboys.jpg">Dishonored wiki</a></figcaption>
 </figure>
 
-Une fois le hangar sous leur contrôle, Elaria et Josef vont prêter main forte à leurs camarades via l'escalier, tandis que Mist emprunte la passerelle métallique extérieure pour monter le long de la tour, où il subit les tirs d'un sniper plus haut ainsi que des attaques surprises de Cendreux surgissant du _Ghost Field_. À l'étage, après avoir démonté l'arbalète électroplasmique à répétition de l'Échassier et l'avoir mis dans les main d'Aldo, le gang réussit à prendre le dessus sur leurs adversaires.
+Une fois le hangar sous leur contrôle, Elaria et Josef vont prêter main forte à leurs camarades via l'escalier, tandis que Mist emprunte la passerelle métallique extérieure pour monter le long de la tour, où il subit les tirs d'un sniper plus haut ainsi que des attaques surprises de Cendreux surgissant du _Ghost Field_. À l'étage, après avoir démonté l'arbalète électroplasmique à répétition de l'Échassier et l'avoir mis dans les main d'[**Aldo**](pages/jdr-blades-in-the-dark.html#aldo), le gang réussit à prendre le dessus sur leurs adversaires.
 
 Le gang progresse petit à petit jusqu'en haut de la tour, employant parfois des raccourcis avec une _Ghost Key_, jusqu'à faire face à Henner, qui provoque Elaria en duel.
 Celle-ci en finit promptement avec son adversaire, et le Harpon devient maître de la tour.
@@ -1638,7 +1643,7 @@ Celle-ci en finit promptement avec son adversaire, et le Harpon devient maître 
 > Mais combien de fois va-t-il falloir qu'on tue l'Œil Blanc pour qu'ils restent morts !?
 > - Elaria
 
-<figure role="group">
+<figure role="group" id="henner">
   <img loading="lazy" src="images/bitd/NPCs/Henner-ThirdEye.jpg" alt="Henner">
   <figcaption>Henner - Source : <a href="https://degenesis.com/world/icons/pregnoctics/enigma">Enigma, Degenesis artwork</a></figcaption>
 </figure>
@@ -1657,7 +1662,7 @@ Alors que l'opération se révèle un succès, le gang apprend qu'un inspecteur 
         * **À quoi ressemble votre gang, paré à l'action ?** Choix 2
         * **Quelle distraction avez-vous dû interdire, et pourquoi ?** Le lancer de couteaux
         * **Comment vous débarrassez-vous des cadavres ?** Bien lestés, ils s'entassent au fond du Dosk
-        * **Laquelle de ces brutes envisageriez-vous de recruter ?** Marlane (recrutée via Josef)
+        * **Laquelle de ces brutes envisageriez-vous de recruter ?** [Marlane](pages/jdr-blades-in-the-dark.html#marlane) (recrutée via Josef)
         * **Comment obtenez-vous vos renseignements ?** Grâce aux commerçants sous votre « protection »
         * **Quelle est cette étrange boutique sur votre territoire ?** Un kiosque de vendeur de journaux
         * **Comment gérez-vous les témoins gênants ?** Intimidation : ils vous craignent plus que les _Bluecoats_
@@ -1780,11 +1785,11 @@ Mist & Josef s'y rendent, et comprennent qu'ils s'agit de la diva **Maria Cosere
 Après de brefs échanges tendus, elle annonce qu'elle reviendra le lendemain soir pour avoir ses réponses.
 
 <div class="side-by-side" role="group">
-  <figure role="group">
+  <figure role="group" id="maria-coseren">
     <img loading="lazy" src="images/bitd/NPCs/DivaMariaCoseren.jpg" alt="La diva Maria Coseren">
     <figcaption>La diva Maria Coseren - Source: <a href="https://ztkuko.tumblr.com/post/84486403582/maariamph-i-saw-a-hot-lady-at-a-grocery-store">hot lady by ztkuko</a></figcaption>
   </figure>
-  <figure role="group">
+  <figure role="group" id="valeris">
     <img loading="lazy" src="images/bitd/NPCs/Valeris.jpg" alt="Valeris">
     <figcaption>Valeris - Source : <a href="https://www.artstation.com/artwork/mqgV0d">Horst Borsodi by Ørjan Ruttenborg Svendsen</a></figcaption>
   </figure>
@@ -1828,7 +1833,7 @@ Les inspecteurs finissent par confronter Ethnos-Lodius, via un buste _Hull_ perm
 Enfin, ils lui injectent un _Sérum de Véracité_, auquel Ethnos-Lodius résiste, et il ne lâche rien.
 
 <div class="side-by-side" role="group">
-  <figure role="group">
+  <figure role="group" id="holdan">
     <img loading="lazy" src="images/bitd/Tensei/BitD-Artworks-Portrait-by-Tensei.jpg" alt="Inspecteur Holdan" style="width: 20rem">
     <figcaption>Inspecteur Holdan - Illustration d'Elliot Jolivet aka Tenseï</figcaption>
   </figure>
@@ -1988,7 +1993,7 @@ Ils découvrent, caché dans le socle d'un petit telescope, l'une des jarres de 
 Tandis que la tension monte et que Drav & Pietro en viennent au mains,
 Hal, incité par la voix dans sa tête, s'enfuit avec la jarre, et est poursuivi par Clermont.
 
-Finalement Aldo s'interpose pour intercepter Hal, et la jarre de pierre s'écrase au sol...
+Finalement [**Aldo**](pages/jdr-blades-in-the-dark.html#aldo) s'interpose pour intercepter Hal, et la jarre de pierre s'écrase au sol...
 
 ### Le passé d'Eric Stamp
 Comme lors des sessions précédents, quelques éléments du passé de ce PJ ont été définis collectivement :
@@ -1999,7 +2004,7 @@ Leurs ancêtres ont-ils passé un pacte avec un Prince Démon pour échapper au 
 Ou bien s'agit-il réellement d'un mythe, forgé par l'Empereur Immortel pour dissimuler l'origine
 des expérimentations qu'il a commandité, et qui ont provoqué les transformations des Tycherosi ?_
 
-<figure role="group">
+<figure role="group" id="eric">
   <img loading="lazy" alt="Eric Stamp" src="images/bitd/PCs/EricStamp2.jpg">
   <figcaption>Illustration d'Eric Stamp par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
@@ -2023,7 +2028,7 @@ Comme lors des sessions précédents, quelques éléments du passé de ce PJ ont
 
 _Mist est originaire d'**U'Duasha**, une ville au milieu du désert iruvien, bâtie autour d'un gigantesque puits aux âmes. Quess Jeduin est rattaché de naissance à la maison Ankhayat, et a été formé à l'université de Vaasu, qui forme le futur de l'élite militaire et des capitaines de vaisseaux chasseurs de Léviathan._
 
-<figure role="group">
+<figure role="group" id="mist">
   <img loading="lazy" alt="Mist" src="images/bitd/PCs/Mist.jpg">
   <figcaption>Illustration de Mist par <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
 </figure>
@@ -2095,8 +2100,8 @@ Après une courte mais intense réflexion, il décide de s'élancer dans le vide
     <img loading="lazy" alt="Soldat impérial" src="images/bitd/Session16/ImperialGuard-02.jpg">
     <figcaption>Soldat impérial - Source : inconnue / Pinterest</figcaption>
   </figure>
-  <figure role="group">
-    <img loading="lazy" alt="Inspecteur Smithson" src="images/bitd/Session16/Inspector-Smithson.jpg">
+  <figure role="group" id="smithson">
+    <img loading="lazy" alt="Inspecteur Smithson" src="images/bitd/NPCs/Inspector-Smithson.jpg">
     <figcaption>Inspecteur Smithson - Source : <a href="https://www.artstation.com/artwork/6aPNQ6">Character concept by 5518 Studios</a></figcaption>
   </figure>
 </div>
@@ -2173,7 +2178,7 @@ mais un Spirit Warden s'interpose.
 Il réussit à l'esquiver, mais au moment de sauter sur le sol de la place avec Quill,
 une main la retient en derrière : le Lord Gouverneur l'a sorti du _Ghost Field_ avec son gant !
 
-<figure role="group">
+<figure role="group" id="gouverneur">
   <img loading="lazy" alt="Lord Gouverneur" src="images/bitd/Session16/LordGovernor.jpg">
   <figcaption>Lord Gouverneur - Source : <a href="https://www.artstation.com/artwork/nE2KJo" target="_blank">Concept art from Birch</a></figcaption>
 </figure>
@@ -2239,20 +2244,18 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 
 ## Session 17 - 22 & 23 août 2026
 
-<img loading="lazy" alt="" src="images/bitd/Session17/bitd-session-17-cover.jpg">
-
 > * Sans leader(s) officiel(s), que va devenir le gang ?
 > * Quelles seront les répercussions de la révolte avortée des ouvriers de Coalridge ?
 > * Comment réagira le Lord Gouverneur face à l'affront qui lui a été fait ?
 > * Comment se déroulera le Grand Tournoi martial organisé par l'Écharpe Rouge, auquel Eric va participer sous un faux nom ?
 > * Qu'est devenue Elaria ? Et le spectre de Lord Daaya ?
 
-<div class="side-by-side" role="group">
+<div class="side-by-side" role="group" id="orlan">
   <figure role="group">
     <img loading="lazy" alt="Ethnos" src="images/bitd/Tensei/Ethnos-possession-garde.jpg">
-    <figcaption>Ethnos dans le corps d'un garde impérial - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+    <figcaption>Ethnos dans le corps d'Orlan Skora, garde impérial - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
   </figure>
-  <a href="BitD-RecapDebutDeSession17.pdf">
+  <a href="images/bitd/BitD-RecapDebutDeSession17.pdf">
     <figure>
       <img loading="lazy" alt="PDF preview" src="images/bitd/BitD-RecapDebutDeSession17-pdf-thumbnail.jpg">
       <figcaption>Récap' de début de session 17</figcaption>
@@ -2260,34 +2263,126 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
   </a>
 </div>
 
-<!-- Images : ring & ring 2e jour + TheComet.jpg -->
+### Un nouveau chef ?
+Les PJs se réunissent pour évoquer l'absence de « figure publique connue » désormais à la tête du gang du Harpon, avec l'exécution de Lodius et la disparition d'Elaria.
+Eric est envisagé un temps comme _leader_, mais leur choix se porte finalement sur **Aldo**.
+Ils s'entretiennent avec lui, et Aldo leur avoue qu'il envisageait justement de leur annoncer son souhait de partir « à la retraite ». Dans l'immédiat, avec la disparation d'Elaria et de Lodius, il accepte d'endosser ce rôle, à condition que la situation ne perdure pas indéfiniment.
 
 <div class="side-by-side" role="group">
-  <figure>
+  <figure id="aldo">
     <img loading="lazy" alt="Aldo" src="images/bitd/NPCs/Aldo.png">
     <figcaption>Aldo - Source : <a href="https://de.pinterest.com/pin/568298046745478529/">Pinterest</a></figcaption>
   </figure>
-  <figure>
+  <figure id="marlane">
     <img loading="lazy" alt="Marlane" src="images/bitd/NPCs/Marlane.png">
     <figcaption>Marlane - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @Reddit</a></figcaption>
   </figure>
 </div>
 
+### Le Grand Tournoi
+Eric & **Marlane** sont identifiés pour participer au tournoi.
+Pour évaluer le niveau de Marlane, Eric l'affronte au cours d'un bref duel, entourés des membres du gang présents qui sont ravis d'assister à ce combat improvisé. En définitive, celui-ci s'avère expéditif, et Eric envoie Marlane valdinguer d'un coup de pied à l'étage supérieur, à travers le plafond.
+
+Finalement, il est décidé que Marlane participe à la compétition à l'arme blanche, <!-- il n'a d'ailleurs pas été déterminé quel fut son classement -> jet de gang (Tier II => 3d6) ? --> tandis qu'Eric prendra part à la compétition à mains nues.
+
+Le premier match de ce dernier le voit affronter **Dima Klev**, la fille de [Mylera Klev](pages/jdr-blades-in-the-dark.html#mylera-klev), la cheffe de l'Écharpe Rouge. Eric se retrouve rapidement aveuglé par du sable puis entravé par son écharpe, et renversé au sol. Mais il finit par reprendre le dessus et à remporter ce duel.
+
 <div class="side-by-side" role="group">
   <figure>
+    <img loading="lazy" alt="Ring" src="images/bitd/Session17/LeGrandTournoi/ring.jpg">
+    <figcaption>Ring de la 1ère journée du Grand Tournoi - Artwork issu du jeu The Witcher 3</figcaption>
+  </figure>
+  <figure id="dima-klev">
     <img loading="lazy" alt="Dima Klev" src="images/bitd/NPCs/DimaKlev-portrait.jpg">
     <figcaption>Dima Klev - Stéphane Wootha Richard</figcaption>
   </figure>
+</div>
+
+Lors de son deuxième match Eric affronte un mystérieux combattant masqué.
+Mais dès le début de l'affrontement, Eric se retrouve empoisonné par une fléchette lancée discrètement par quelqu'un dans le public.
+
+Ethnos poursuit alors le coupable à travers la foule, mais finit par tomber nez à nez dans la tribune des bourgeois avec la juge **Elstera Avrathi** !
+Il est alors poursuivi par tous les membres de l'Écharpe Rouge,
+et finit par se planquer dans la tente d'Irvan Sudik, le marchand iruvien qui lui avait précédemment vendu des plaques d'acier électrocaptif.
+
+Du côté de l'arène, un conflit d'arbitrage oppose les deux combattants,
+Eric étant accusé d'avoir triché en employant une arme dissimulée dans sa main,
+mais ayant par ailleurs été empoisonné...
+Finalement, le combattant masqué concède à Eric la victoire.
+Il s’avérera plus tard qu'il s'agissait d'Ulf IronBorn.
+
+Tout au long de cette journée, un gamin tente de dérober son pendentif de croix à Mist, mais il se fait systématiquement attraper par ce dernier.
+Par ailleurs, les paris misant sur la victoire d'Eric effectués par Josef, Mist & Ethnos durant les deux premiers match leur permettent de gagner un peu d'argent, bien que ce dernier ne puisse finalement pas réclamer son gain au terme du second match,
+ayant été « grillé » par Avrathi lors de ce tournoi.
+
+<div class="side-by-side" role="group">
   <figure>
     <img loading="lazy" alt="Le combattant masqué" src="images/bitd/Session17/LeGrandTournoi/mysterious-fighter.jpg">
     <figcaption>Le combattant masqué au Grand Tournoi - Source : <a href="https://www.reddit.com/r/bladesinthedark/comments/13vtmkg/ai_generated_npc_portraits_for_my_blades_game/">AI generated NPC portraits by Phil_Tucker @Reddit</a></figcaption>
   </figure>
+  <figure role="group" id="elstera-avrathi">
+    <img loading="lazy" alt="Elstera Avrathi" src="images/bitd/NPCs/ElsteraAvrathi.jpg">
+    <figcaption>Elstera Avrathi - Artwork for Dishonored</figcaption>
+  </figure>
 </div>
+
+Suite à ce duel, [la diva Coseren](pages/jdr-blades-in-the-dark.html#maria-coseren)
+vient trouver les PJs dans la tente qui leur est dédiée en tant que participants,
+et leur propose un contrat : dérober à l'amiral Bowmore les plans des grands chantiers d'urbanisme que le Lord Gouverneur prévoie à Doskvol.
+Son prix : honorer la « dette » du vol de son masque, plus une petite somme d'argent complémentaire.
+
+Pour le dernier match de la journée, Eric affronte Sercy, un rescapé des _Grinders_ qui laisse en tendre qu'il est responsable de son empoisonnement.
+Malgré un coup de corne perforant reçu à l'abdomen,
+Eric finit à nouveau par triompher de ce troisième affrontement.
+
+<figure id="sercy">
+  <img loading="lazy" alt="Sercy" src="images/bitd/NPCs/Sercy.jpg">
+  <figcaption>Sercy - 3e match du Grand Tournoi - Source : <a href="https://fr.pinterest.com/pin/568298046752359910/">Pinterest</a></figcaption>
+</figure>
+
+### Le corps de Lodius
+_en cours de rédaction_
+
+* Justinia & Ethnos à Brightstone
+* Ethnos traque les _Bluecoats_ & l'inspecteur Smithson jusqu'au tribunal à Charterhall
+* Score : Elstera Avrathi + Smithson, ascenseur, tunnels du niveau -3
+* confrontation avec le spectre de Lodius qui a pris possession d'Ethnos
+
+### Intermède
+_en cours de rédaction_
+
+* Mist recrute Lee et prépare le départ de Quill en Iruvie
+* les PJs apprennent qu'Elaria est à IronHook
+* _Hull_ (Coquille) d'Ethnos : récupération des plaques d'acier electrocaptif + crâne
 
 <div class="side-by-side" role="group">
   <figure>
-    <img loading="lazy" alt="Sercy" src="images/bitd/NPCs/Sercy.jpg">
-    <figcaption>Sercy - 4e match du Grand Tournoi - Source : <a href="https://fr.pinterest.com/pin/568298046752359910/">Pinterest</a></figcaption>
+    <img loading="lazy" alt="Hull blueprints by Tensei" src="images/bitd/Tensei/BitD-Artworks-Hull-blueprints-by-Tensei.jpg">
+    <figcaption>Plans du <em>Hull</em> (Coquille) d'Ethnos - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  </figure>
+  <figure>
+    <img loading="lazy" alt="Hull plans by Tensei" src="images/bitd/Tensei/BitD-Artworks-Hull-plans-by-Tensei.jpg">
+    <figcaption><em>Hull</em> (Coquille) d'Ethnos - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+  </figure>
+</div>
+
+### La comète
+_en cours de rédaction_
+
+* l'alerte de Kristoff Dahava
+* l'entretien avec le sergent Echols
+* capture d'un bateau
+* annonce d'Eric au Grand Tournoi
+* visite de Scurlock
+* Eric en _tallboy_
+* de retour dans les catacombes
+
+<!-- Images : TheComet.jpg + photo souvenir -->
+
+<div class="side-by-side" role="group">
+  <figure>
+    <img loading="lazy" alt="Ring" src="images/bitd/Session17/LeGrandTournoi/ring-de-la-finale.jpg">
+    <figcaption>Ring de la 2e journée du Grand Tournoi - Source : <a href="https://fr.pinterest.com/pin/34832597113933307/">Pinterest</a></figcaption>
   </figure>
   <figure>
     <img loading="lazy" alt="Omar Silk" src="images/bitd/Session17/LeGrandTournoi/OmarSilk.jpg">
@@ -2295,16 +2390,10 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
   </figure>
 </div>
 
-<div class="side-by-side" role="group">
-  <figure role="group">
-    <img loading="lazy" alt="Elstera Avrathi" src="images/bitd/NPCs/ElsteraAvrathi.jpg">
-    <figcaption>Elstera Avrathi - Artwork for Dishonored</figcaption>
-  </figure>
-  <figure role="group">
-    <img loading="lazy" alt="Sergent Echols" src="images/bitd/NPCs/SergentEchols.jpg">
-    <figcaption>Sergent Echols, salement abîmé par la boisson - Source : <a href="https://de.pinterest.com/pin/69524387998169118/">Pinterest</a></figcaption>
-  </figure>
-</div>
+<figure role="group" id="echols">
+  <img loading="lazy" alt="Sergent Echols" src="images/bitd/NPCs/SergentEchols.jpg">
+  <figcaption>Sergent Echols, salement abîmé par la boisson - Source : <a href="https://de.pinterest.com/pin/69524387998169118/">Pinterest</a></figcaption>
+</figure>
 
 ### Ressources
 - ambiance musicale :
@@ -2323,13 +2412,20 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 -->
 
 <!--
+XP & downtime non fait en fin de session
+
 A préparer pour prochaine session :
+* organiser une visio pour discuter de la suite :
+  + on continue ? fast-forward après la comète ?
+  + time travel back avec la croix ?
+  + jouer des perso d'un autre gang ? Des Bluecoats / inspecteurs ?
+  + Blades 68 ?
 * préparer en amont avec Matt des trucs concernant Mist & les démons
 * import/copy playlists BitD into my own + enable watch cron + build a BitD music page ?
 * gang des Gondoliers : ambitions & intentions ?
 * réintroduire PNJ Sylvia Derengathi ?
 
-Partie orientée "RP" :
+Partie orientée "RP" / players-driven, avec un seul événement majeur prévu (l'impact de la comète) :
 * beaucoup questionner les joueurs sur l'attitude de leurs PJs, ce qu'ils disent de vive voix
 * donner beaucoup de descriptions d'ambiance
 * exposer  scènes sans tension (contemplatives, intimistes...), plus propices à du roleplay
@@ -2362,12 +2458,6 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 + n°83 - Grande messe de l’Extase de la Chair
 + n°83 - Commerçant de Nightmarket tué avec graffiti "Il voit tout"
 
-## PJs
-
-### Elaria
-* anticiper raison de son absence
-* Simon aimerait bien jouer un autre archétype (Slide ?)
-
 ## Idées en vrac
 * les PJs se voient tous proposer une offre alléchante qui signifierait trahir le gang...
 * heist of Scurlock manor... (scène des monstres dans les miroirs): https://www.youtube.com/watch?v=Qir5t9RbEHo
@@ -2388,6 +2478,7 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 * a SCORE (using one of angers-ma-0*.jpg as illustration)
 
 ### Ressources to "MENTION":
++ playbook Magician -> commentaire itch.io pour partager mes Demon Sheets
 + remercier Tim Denee pour son plan, et consulter ses autres sur flickr
 + https://old.reddit.com/r/bladesinthedark/comments/1n2kk5o/i_made_faction_icons_for_all_factions_in_the_base/
 + Whitehollow : https://rpggeek.com/filepage/293726/the-city-of-whitehollow-fan-expansion-v1
@@ -2532,7 +2623,7 @@ function buildId(s) {
 });
 // Make all article images clickable / openable in a new tab:
 document.querySelectorAll("article img").forEach((img) => {
-    if (img.parentElement.tagName !== "A") {
+    if (img.parentElement.tagName !== "A" && img.parentElement.parentElement.tagName !== "A") {
         var a = document.createElement('a');
         a.href = img.src;
         a.target = "_blank";
