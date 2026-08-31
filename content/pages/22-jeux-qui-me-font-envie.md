@@ -66,19 +66,21 @@ Sur cette page, je partage quelques jeux - surtout des jeux de rôle - que j'ai 
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Les Orphelins du RadX (avec le système Push)</h2>
-    <img class="uk-align-center" src="images/games-to-test/the-RadX-orphans.png" alt="">
+    <h2 class="uk-text-bold uk-text-primary">D3TROIT</h2>
+    <img class="uk-align-center" src="images/games-to-test/D3TROIT.png" alt="">
     <dl class="uk-description-list-list">
-      <dt>Genre</dt><dd>JdR monopage</dd>
-      <dt>Pour</dt><dd>1 MJ + 2 à 5 joueurs</dd>
-      <dt>Durée</dt><dd>One-shot de quelques heures</dd>
-      <dt>Disponibilité</dt><dd>gratuit / prix libre</dd>
+      <dt>Genre</dt><dd>Policier</dd>
+      <dt>Pour</dt><dd>1 MJ + 3 à 5 joueurs</dd>
+      <dt>Durée</dt><dd>Courte campagne de 6+ enquêtes</dd>
+      <dt>Disponibilité</dt><dd>le livre m'a été offert</dd>
     </dl>
+    <blockquote>
+    Dans D3TROIT, les joueuses incarnent des policiers dignes d’une série télévisée comme The Shield ou The Wire ou d’un polar à la Michael Connelly, à ceci près qu’au lieu de courir après des criminels ordinaires, ils travaillent pour les Affaires internes.
+    <br>
     <div class="uk-thumbnail-caption">
       <ul>
-        <li><a href="https://gulix.itch.io/the-radx-orphans">Page itch.io du jeu</a></li>
-        <li><a href="https://www.gulix.fr">Blog de Gulix, l'auteur</a></li>
-        <li><a href="https://capacle.itch.io/push">Page itch.io du système Push de Cezar Capacle</a></li>
+        <li><a href="https://www.les12singes.com/155-d3troit">Page dédiée de l'éditeur</a></li>
+        <li><a href="https://hu-mu.blogspot.com/2025/09/campagne-de-financement-pour-d3troit.html">Article concernant la campagne de foulancement sur le blog Hugin &amp; Munin</a></li>
       </ul>
     </div>
   </section>

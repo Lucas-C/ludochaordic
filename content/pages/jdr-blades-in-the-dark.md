@@ -125,10 +125,10 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Un prisonnier gênant](pages/jdr-blades-in-the-dark.html#un-prisonnier-g-nant)
 - [Session 17 - 22 & 23 août 2026](pages/jdr-blades-in-the-dark.html#session-17-22-23-ao-t-2026)
     * [Un nouveau chef ?](pages/jdr-blades-in-the-dark.html#un-nouveau-chef-)
-    * [Le Grand Tournoi](pages/jdr-blades-in-the-dark.html#le-grand-tournoi)
     * [Le corps de Lodius](pages/jdr-blades-in-the-dark.html#le-corps-de-lodius)
+    * [Le Grand Tournoi](pages/jdr-blades-in-the-dark.html#le-grand-tournoi)
     * [Intermède](pages/jdr-blades-in-the-dark.html#interm-de)
-    * [La comète](pages/jdr-blades-in-the-dark.html#la-com-te)
+    * [Le retour de Kotar](pages/jdr-blades-in-the-dark.html#le-retour-de-kotar)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -180,7 +180,7 @@ il va organiser une cérémonie pour désenvoûter Lodius. Le gang doit toutefoi
 - la sœur de Lodius, **Justinia**, était en voyage et rentre demain
 - les _physickers_ consomment des potions d'alchimiste pour modifier leur corps
 - gang de l'**Œil Blanc** == _**Lampbacks**_ dans le bouquin VO
-- le chef du gang des **Crows**, **Roric**, vient d'être tué. -**Crow's Foot**- est en effervescence,
+- le chef du gang des **Crows**, **Roric**, vient d'être tué. _**Crow's Foot**_ est en effervescence,
 et déjà le gang de l'Œil Blanc et celui de l'Écharpe Rouge tentent de s'emparer de ce territoire vulnérable.
 
 
@@ -1075,7 +1075,7 @@ Après un affrontement rapide, le gang finit par sauter à l'eau et à s'échapp
 Mist manque néanmoins d'y laisser la peau en se noyant.
 
 Peu après, une fois au sec, ils apprennent que les Crows ont une dent contre eux,
-ayant été expulsés de la tour de l'horloge par les _Bluecoats_ suite à leur opération "coup de poing" de la journée,
+ayant été expulsés de la tour de l'horloge par les _Bluecoats_ suite à leur opération « coup de poing » de la journée,
 tandis que le Harpon lui même risque de voir son QG du galion démolit par ordre de l'administration de Doskvol !
 
 ### Ressources
@@ -1793,7 +1793,7 @@ Après de brefs échanges tendus, elle annonce qu'elle reviendra le lendemain so
     <img loading="lazy" src="images/bitd/NPCs/Valeris.jpg" alt="Valeris">
     <figcaption>Valeris - Source : <a href="https://www.artstation.com/artwork/mqgV0d">Horst Borsodi by Ørjan Ruttenborg Svendsen</a></figcaption>
   </figure>
-  <figure role="group">
+  <figure role="group" id="huge-bomb">
     <img loading="lazy" src="images/bitd/items/HugeBomb-SteampunkGrenade-by-JuliaOrlova.jpg" alt="Huge Bomb">
     <figcaption>Huge bomb - Source: <a href="https://www.artstation.com/artwork/WmZZ2N">Steampunk grenade by Julia Orlova</a></figcaption>
   </figure>
@@ -1877,9 +1877,12 @@ Enfin, ils croisent un _Hull_ mécanique semblant surveiller les lieux, et déci
   </figure>
   <figure role="group">
     <img loading="lazy" src="images/bitd/places/catacombs/ACU_DK_Concept_Art_Cavern_1420564826.png" alt="Catacombes sous l'Université Immortelle">
-    <figcaption>Caverne sous l'Université Immortelle - Source : artwork pour Assassin's Creed Unity - Dead Kings</figcaption>
+    <figcaption>Catacombes sous l'Université Immortelle - Source : artwork pour Assassin's Creed Unity - Dead Kings</figcaption>
   </figure>
-  <img loading="lazy" src="images/bitd/places/catacombs/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg" alt="Catacombes sous l'Université Immortelle">
+  <figure role="group" id="catacombs-big-cavern">
+    <img loading="lazy" src="images/bitd/places/catacombs/the_cult_of_the_statue_by_drawingnightmare-d4qzid8.jpg" alt="Catacombes sous l'Université Immortelle">
+    <figcaption>Grande caverne sous l'Université Immortelle</figcaption>
+  </figure>
 </div>
 
 <div class="side-by-side" role="group">
@@ -2051,7 +2054,7 @@ du sang et des cadavres sont répandus.
 Aldo et Clermont, qui agonise prostré au pied d'un mur, leur expliquent la situation :
 la jarre brisée à libéré un terrifiant démon tentaculaire, qui s'est réfugié dans l'Eyrie.
 
-<figure role="group">
+<figure role="group" id="eyrie">
   <img loading="lazy" alt="Eyrie" src="images/bitd/Session16/Observatory.jpg">
   <figcaption>Eyrie - Source : <a href="https://polycount.com/discussion/153896/skywind-dwemer-observatory" target="_blank">Dwemer observatory from Morrowind by Roman Dubina</a></figcaption>
 </figure>
@@ -2194,7 +2197,7 @@ Finalement, tout le gang réussit à profiter de la foule pour s'enfuir et retou
 
 ### Un prisonnier gênant
 
-Le gang craint que leur acolyte, Narkus dit « Crickett », désormais aux mains de La Garde, ne craque et révèle l'emplacement de la Tour de l'Observatoire.
+Le gang craint que leur acolyte, Narkus dit « Cricket », désormais aux mains de La Garde, ne craque et révèle l'emplacement de la Tour de l'Observatoire.
 Une opération au poste des _Bluecoats_ de Brightstone est donc organisée.
 
 Les PJs se faufilent par les égouts jusqu'à une plaque débouchant dans la cour de la caserne.
@@ -2247,12 +2250,12 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 > * Sans leader(s) officiel(s), que va devenir le gang ?
 > * Quelles seront les répercussions de la révolte avortée des ouvriers de Coalridge ?
 > * Comment réagira le Lord Gouverneur face à l'affront qui lui a été fait ?
-> * Comment se déroulera le Grand Tournoi martial organisé par l'Écharpe Rouge, auquel Eric va participer sous un faux nom ?
+> * Comment se déroulera le Grand Tournoi martial de l'Écharpe Rouge, auquel Eric va participer ?
 > * Qu'est devenue Elaria ? Et le spectre de Lord Daaya ?
 
-<div class="side-by-side" role="group" id="orlan">
-  <figure role="group">
-    <img loading="lazy" alt="Ethnos" src="images/bitd/Tensei/Ethnos-possession-garde.jpg">
+<div class="side-by-side" role="group">
+  <figure role="group" id="orlan-skora">
+    <img loading="lazy" alt="Orlan Skora" src="images/bitd/Tensei/Ethnos-possession-garde.jpg">
     <figcaption>Ethnos dans le corps d'Orlan Skora, garde impérial - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
   </figure>
   <a href="images/bitd/BitD-RecapDebutDeSession17.pdf">
@@ -2264,7 +2267,7 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
 </div>
 
 ### Un nouveau chef ?
-Les PJs se réunissent pour évoquer l'absence de « figure publique connue » désormais à la tête du gang du Harpon, avec l'exécution de Lodius et la disparition d'Elaria.
+Les PJs se réunissent pour évoquer l'absence de « figure publique connue » désormais à la tête du gang du Harpon, avec « l'exécution » de Lodius et la disparition d'Elaria.
 Eric est envisagé un temps comme _leader_, mais leur choix se porte finalement sur **Aldo**.
 Ils s'entretiennent avec lui, et Aldo leur avoue qu'il envisageait justement de leur annoncer son souhait de partir « à la retraite ». Dans l'immédiat, avec la disparation d'Elaria et de Lodius, il accepte d'endosser ce rôle, à condition que la situation ne perdure pas indéfiniment.
 
@@ -2279,11 +2282,35 @@ Ils s'entretiennent avec lui, et Aldo leur avoue qu'il envisageait justement de 
   </figure>
 </div>
 
-### Le Grand Tournoi
-Eric & **Marlane** sont identifiés pour participer au tournoi.
-Pour évaluer le niveau de Marlane, Eric l'affronte au cours d'un bref duel, entourés des membres du gang présents qui sont ravis d'assister à ce combat improvisé. En définitive, celui-ci s'avère expéditif, et Eric envoie Marlane valdinguer d'un coup de pied à l'étage supérieur, à travers le plafond.
+### Le corps de Lodius
+Ethnos possède désormais le corps d'[**Orlan Skora**](pages/jdr-blades-in-the-dark.html#orlan-skora), un garde impérial.
+Il apprend d'Aldo que [Justinia](pages/jdr-blades-in-the-dark.html#justinia), la sœur de Lodius, a été très secouée par son exécution et la manière dont son cadavre a été exposé en place publique à _Brightstone_.
+Lodius la retrouve sur place, alors que la pluie tombe dru et que des _Bluecoats_ sont justement en train de décrocher et récupérer le cadavre de Lodius.
 
-Finalement, il est décidé que Marlane participe à la compétition à l'arme blanche, <!-- il n'a d'ailleurs pas été déterminé quel fut son classement -> jet de gang (Tier II => 3d6) ? --> tandis qu'Eric prendra part à la compétition à mains nues.
+En parallèle, Eric avait missionné une femme de _Crow's Foot_ pour surveiller le corps de Lodius, en jouant les mères endeuillées par sa faute.
+Ethnos n'a pas connaissance de cela mais croise en effet une femme hagarde, que les _Bluecoats_ font de leur mieux pour retenir de se jeter sur le corps de Lodius qu'ils ont décroché.
+Il envisage d'intervenir mais se ravise après avoir repéré la présence de chiens et de l'inspecteur [Smithson](pages/jdr-blades-in-the-dark.html#smithson).
+Il décide donc plutôt d'entamer une filature, qui le mène à les suivre jusqu'au tribunal à _Charterhall_, où [Elaria s'était fait poursuivre par le passé](#session-9-16-octobre-2021).
+Sur place, il découvre que Smithson fait son rapport à la juge **Elstera Avrathi**, et que le corps de Lodius est emmené à la morgue sous le palais de justice.
+
+De retour à la Tour de l'Observatoire, le gang se concerte et il est décidé d'organiser une descente dans cette morgue pour récupérer le corps de Lodius, afin de lui donner les funérailles qu'il mérite.
+
+Tout commence très mal pour le Harpon, déguisés en _Bluecoats_, qui se retrouve face à un réceptionniste peu coopératif dans le hall d'accueil de la morgue, tandis que Smithson et ses hommes débarquent derrière eux, et que la juge Avrathi descend l'escalier en direction de la morgue, accompagnée d'assistants transportant un imposant coffret en bois.
+
+La situation dégénère en fusillade, et tandis que Mist emploie son familier pour forcer la serrure métallique du couloir de la morgue, Ethnos perce le coffret d'une balle de pistolet électroplasmique, libérant le spectre de Lodius !
+
+Celui-ci, furieux, se met à poursuivre le gang dans les couloir de la morgue.
+Ils parviennent à récupérer le corps de Lodius, Eric massacre une dizaine de fonctionnaires de justice dans l'ascenseur principal, et ils s'enfuient finalement par un conduit sous cet ascenseur, qui les mène jusqu'à des galeries au niveau -3 sous le tribunal, un étage souterrain normalement inaccessible. Ils y découvrent un étrange trait blanc, constitué d'un mélange de craie et de sel.
+
+Durant leur fuite, le spectre de Lodius s'est finalement introduit dans le corps d'Orlan Skora pour le posséder.
+Ethnos se retrouve alors à perdre le contrôle de son corps lors de courtes absences, et se réveille une fois debout aux côtés de Justinia dans le parc Jayan à _Charterhall_.
+De retour à la Tour de l'Horloge, un rituel est donc organisé par Josef pour exorciser Lodius. La situation tourne mal, et Lodius exprime sa fureur, exprimant qu'il trouve les PJs illégitimes pour mener le gang qu'il a fondé, et que les valeurs initiales du Harpon sont aujourd'hui bafouées par eux. Son esprit est finalement maîtrisé et enfermé dans une bouteille.
+
+### Le Grand Tournoi
+Eric & **Marlane** sont identifiés pour participer au tournoi au nom du Harpon.
+Pour évaluer le niveau de Marlane, Eric l'affronte au cours d'un bref duel, entourés des membres du gang présents qui sont ravis d'assister à ce combat improvisé. En définitive, celui-ci s'avère expéditif : Eric envoie Marlane valdinguer d'un coup de pied à l'étage supérieur, à travers le plafond.
+
+En fin de compte, il est décidé que Marlane participe à la compétition à l'arme blanche, <!-- il n'a d'ailleurs pas été déterminé quel fut son classement -> jet de gang (Tier II => 3d6) ? --> tandis qu'Eric prendra part à la compétition à mains nues.
 
 Le premier match de ce dernier le voit affronter **Dima Klev**, la fille de [Mylera Klev](pages/jdr-blades-in-the-dark.html#mylera-klev), la cheffe de l'Écharpe Rouge. Eric se retrouve rapidement aveuglé par du sable puis entravé par son écharpe, et renversé au sol. Mais il finit par reprendre le dessus et à remporter ce duel.
 
@@ -2331,53 +2358,66 @@ vient trouver les PJs dans la tente qui leur est dédiée en tant que participan
 et leur propose un contrat : dérober à l'amiral Bowmore les plans des grands chantiers d'urbanisme que le Lord Gouverneur prévoie à Doskvol.
 Son prix : honorer la « dette » du vol de son masque, plus une petite somme d'argent complémentaire.
 
-Pour le dernier match de la journée, Eric affronte Sercy, un rescapé des _Grinders_ qui laisse en tendre qu'il est responsable de son empoisonnement.
+Pour le dernier match de la journée, Eric affronte Sercy, un rescapé des _Grinders_ qui laisse entendre qu'il est responsable de son empoisonnement.
 Malgré un coup de corne perforant reçu à l'abdomen,
 Eric finit à nouveau par triompher de ce troisième affrontement.
 
-<figure id="sercy">
-  <img loading="lazy" alt="Sercy" src="images/bitd/NPCs/Sercy.jpg">
-  <figcaption>Sercy - 3e match du Grand Tournoi - Source : <a href="https://fr.pinterest.com/pin/568298046752359910/">Pinterest</a></figcaption>
-</figure>
-
-### Le corps de Lodius
-_en cours de rédaction_
-
-* Justinia & Ethnos à Brightstone
-* Ethnos traque les _Bluecoats_ & l'inspecteur Smithson jusqu'au tribunal à Charterhall
-* Score : Elstera Avrathi + Smithson, ascenseur, tunnels du niveau -3
-* confrontation avec le spectre de Lodius qui a pris possession d'Ethnos
+<div class="side-by-side" role="group">
+  <figure id="sercy">
+    <img loading="lazy" alt="Sercy" src="images/bitd/NPCs/Sercy.jpg">
+    <figcaption>Sercy - 3e match du Grand Tournoi - Source : <a href="https://fr.pinterest.com/pin/568298046752359910/">Pinterest</a></figcaption>
+  </figure>
+  <figure id="lee">
+    <img loading="lazy" alt="Lee" src="images/bitd/NPCs/Lee.jpg">
+    <figcaption>Lee - Source : <a href="https://fr.pinterest.com/pin/637611259784082241/" target="_blank">Pinterest</a></figcaption>
+  </figure>
+</div>
 
 ### Intermède
-_en cours de rédaction_
+Josef & Mist s'entretiennent avec [Quill](pages/jdr-blades-in-the-dark.html#quill) à propos de son avenir.
+Celle-ci est reconnaissante au gang mais également mécontente de se sentir prisonnière. Elle exprime qu'elle souhaite poursuivre des études afin de venir en aide un jour aux habitants de _Coalridge_ en employant la voie judiciaire. Elle manque de moyens et se sait traquée par les autorités aujourd'hui, et sollicite donc l'aide du Harpon.
 
-* Mist recrute Lee et prépare le départ de Quill en Iruvie
-* les PJs apprennent qu'Elaria est à IronHook
-* _Hull_ (Coquille) d'Ethnos : récupération des plaques d'acier electrocaptif + crâne
+Mist lui propose alors de partir en Iruvie pour poursuivre ses études, et Quill accepte. Mist entame alors des préparatifs en ce sens en faisant jouer ses contacts. Il recrute également un apprenti démonologue, **Lee**, étudiant à l'Université Immortelle endetté auprès de plusieurs démons.
+
+Les PJs apprennent par [Valeris](pages/jdr-blades-in-the-dark.html#valeris) qu'Elaria a été capturée lors de la répression militaire à _Coalridge_, et qu'elle est désormais enfermée dans le quartier de haute sécurité de la prison d'_IronHook_.
+
+Ethnos se rend à l'emplacement initial du QG du Harpon et du galion qui a brûlé. Sur place, il découvre que des fondations pour de nouveaux bâtiments sont en train d'être réalisées. À la recherche de son crâne, présent dans le galion au moment de l'incendie, il suit son instinct, se met à creuser et finit par le retrouver !
+Deux _Bluecoats_ l'interpellent alors, reconnaissant Orlan Skora, qui fut l'un des leurs. Ethnos réussit à faire illusion et les embobine, promettant de revenir boire un verre avec eux bientôt au Poney Qui Tousse.
+
+Avec son ancien crâne et les plaques d'acier électrocaptif, Ethnos réussit à finir sont projet de _Hull_ (Coquille), qu'il révèle alors au gang :
 
 <div class="side-by-side" role="group">
   <figure>
     <img loading="lazy" alt="Hull blueprints by Tensei" src="images/bitd/Tensei/BitD-Artworks-Hull-blueprints-by-Tensei.jpg">
-    <figcaption>Plans du <em>Hull</em> (Coquille) d'Ethnos - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+    <figcaption>Plans du <em>Hull</em> d'Ethnos - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
   </figure>
   <figure>
     <img loading="lazy" alt="Hull plans by Tensei" src="images/bitd/Tensei/BitD-Artworks-Hull-plans-by-Tensei.jpg">
-    <figcaption><em>Hull</em> (Coquille) d'Ethnos - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
+    <figcaption><em>Hull</em> d'Ethnos - <a href="https://illutensei.com" target="_blank">Elliot Jolivet aka Tenseï</a></figcaption>
   </figure>
 </div>
 
-### La comète
-_en cours de rédaction_
+### Le retour de Kotar
+Ethnos est alerté par Kristoff Dahava, son contact du _Path of Echoes_, que quelque de grave se prépare pour ce soir. Il s'avère que tous les bateaux quittant Doskvol aujourd'hui sont pleins, et que les notables bien informés de la ville ont tous décidé de « partir en vacances » avec leurs familles aujourd'hui.
 
-* l'alerte de Kristoff Dahava
-* l'entretien avec le sergent Echols
-* capture d'un bateau
-* annonce d'Eric au Grand Tournoi
-* visite de Scurlock
-* Eric en _tallboy_
-* de retour dans les catacombes
+Le gang mène son enquête, et retrouve la trace du sergent Echols, rescapé des défunts _Silver Nails_, qui a plongé dans la boisson. Ils l'interrogent 
+et comprennent qu'une cérémonie massive va être organisée ce soir dans les catacombes sous l'Université Immortelle, un rituel organisé par le Cercle de la Flamme où Jenny Holt sera sacrifiée et qui pourrait permettre le retour du démon **Kotar**. Trois reliques sont nécessaires pour organiser cela : la main de Kotar, le cœur de Kotar et l'œil de Kotar, en possession de Scurlock mais convoitée par le Cercle de la Flamme...
 
-<!-- Images : TheComet.jpg + photo souvenir -->
+<div class="side-by-side" role="group">
+  <figure role="group" id="echols">
+    <img loading="lazy" alt="Sergent Echols" src="images/bitd/NPCs/SergentEchols.jpg">
+    <figcaption>Sergent Echols, salement abîmé par la boisson - Source&nbsp;: <a href="https://de.pinterest.com/pin/69524387998169118/">Pinterest</a></figcaption>
+  </figure>
+  <figure role="group">
+    <img loading="lazy" alt="Le rituel souterrain qui dirige la trajectoire de la comète" src="images/bitd/Session17/Doskvol_horizontal_map_with_line.jpg">
+    <figcaption>Le rituel souterrain qui dirige la trajectoire de la comète</figcaption>
+  </figure>
+</div>
+
+Grâce aux informations récoltées par Mist, complétées par des mesures prises avec le télescope de l'[Eyrie](pages/jdr-blades-in-the-dark.html#eyrie), le gang comprend également que la comète dont il a été fait mention dans les Chroniques du Crépuscule va bien s'abattre sur Doskvol !
+Sa trajectoire correspond au tracé cabalistique réalisé dans les galeries sous la ville...
+
+Les PJs ordonnent alors à l'intégralité des membres du gang de concentrer sur une mission prioritaire : la capture d'un bateau afin de pouvoir s'enfuir de la ville. L'opération prend quelques heures mais s'avère un succès, et le gang entre en possession d'une péniche.
 
 <div class="side-by-side" role="group">
   <figure>
@@ -2390,9 +2430,31 @@ _en cours de rédaction_
   </figure>
 </div>
 
-<figure role="group" id="echols">
-  <img loading="lazy" alt="Sergent Echols" src="images/bitd/NPCs/SergentEchols.jpg">
-  <figcaption>Sergent Echols, salement abîmé par la boisson - Source : <a href="https://de.pinterest.com/pin/69524387998169118/">Pinterest</a></figcaption>
+Pendant ce temps, Eric affronte son Omar Silk, son quatrième adversaire, qu'il réussit à vaincre au prix d'une nouvelle blessure sévère.
+Eric décide néanmoins de profiter de la finale pour haranguer la foule présente, annonçant qu'il abandonne le Grand Tournoi car Doskvol va être détruit par une comète, et que les notables nantis le savent et fuient déjà la ville, abandonnant le reste de la population à son sort ! Eric exhorte la population à se rendre sur _Whitecrown_ pour se réfugier et manifester leur colère.
+Cette allocution sème la panique, et provoque l'effet escompté, provoquant un afflux massif d'habitants vers l'île au Nord de la ville.
+
+Le gang réalise alors que la Tour de l'Horloge, en l'absence de la grande majorité des hommes du gang, a reçu la visite de [Lors Scurlock](pages/jdr-blades-in-the-dark.html#scurlock), qui a pris l'apparence d'Orlan. Ils retrouvent le corps original de ce dernier en lambeaux, leur QG pillé et saccagé, et surtout : les jarres contenant les œufs de Setarra ont été dérobées !
+
+Le gang décide alors en priorité d'organiser une action « coup de poing » dans les catacombes pour stopper le rituel.
+Tandis que la majorité du gang s'y rend en péniche,
+Eric décide lui d'employer un _tallboy_ pour traverser la ville et le pont menant à _Whitecrown_.
+Il sème la panique, piétine un grand nombre de civils et de soldats impériaux, et est copieusement assailli de tirs de leur part, jusqu'à ce que son engin finisse par rendre l'âme. Il se jette alors à terre, et muni de son épée démoniaque, se tranche un passage jusqu'à l'extrémité du pont, pour disparaître dans les ruelles de _Whitecrown_ et semer ses poursuivants.
+
+Le quartier est par ailleurs le théâtre d'une véritable guerre civile, où des démons affrontent dans les rues les forces impériales : zeppelins, _tallboys_, soldats en armures lourdes...
+Durant un court instant, un rayon de lumière s'abat du ciel pour frapper le bastion du Lord Gouverneur.
+
+Le gang se retrouve finalement dans [la grande caverne qu'ils avaient précédemment visitée au cœur des catacombes](pages/jdr-blades-in-the-dark.html#catacombs-big-cavern), où une foule est réunie pour assister au rituel.
+Les PJs décident alors d'employer leur [_huge bomb_](pages/jdr-blades-in-the-dark.html#huge-bomb) pour mettre fin à la cérémonie, ce qui provoque une intervention de _whispers_ dans l'assemblée.
+Mist provoque un _demonic rift_ et Ethnos emploie les capacités surhumaines de son _Hull_ pour réussir à activer et protéger la bombe, puis à s'enfuir avant qu'elle n'explose. Eric de son coté entame un massacre à l'épée démoniaque dans les rangs des cultistes, affrontant et triomphant de gigantesques démons, et découpant en morceaux les porteurs des reliques de Kotar.
+
+Tout se conclut par une grande explosion provoquant l'effondrement de la caverne.
+
+Les membres du Harpon rescapés s'éloignent en bateau, observant la comète désormais visible dans le ciel qui se dirige vers eux...
+
+<figure role="group">
+  <img loading="lazy" alt="The Comet" src="images/bitd/Session17/TheComet.jpg">
+  <figcaption>La comète - Source : <a href="https://mx.pinterest.com/pin/1129418412798495922/">Pinterest : Art Engineer</a></figcaption>
 </figure>
 
 ### Ressources
@@ -2400,7 +2462,6 @@ _en cours de rédaction_
     * [Prince of Persia - Warrior Within OST (playlist YouTube)](https://www.youtube.com/playlist?list=PL39A80E0ABBF9D3B8)
     * [Poor Mans Poison - Give And Take (YouTube)](https://www.youtube.com/watch?v=HHPZynI6pwQ)
 - aides de jeu « maison » :
-    * [BitD-Afflictions.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Afflictions.pdf)
     * [BitD-DemonSheet.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-DemonSheet.pdf)
     * [BitD-PouvoirsEthnos.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PouvoirsEthnos.pdf)
     * [BitD-PCsQuickSummary.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PCsQuickSummary.pdf)
@@ -2408,8 +2469,20 @@ _en cours de rédaction_
 - contributions des joueurs :
     * [Souvenirs d'Orlan Skora, Garde Impérial (PDF)](ontent/images/bitd/BitD-SouvenirsDeOrlanSkora.pdf)
 <!-- Keeping it secret for now
+    * [BitD-Afflictions.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Afflictions.pdf)
     * [BitD-SpecialItems.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-SpecialItems.pdf)
 -->
+
+<figure role="group">
+  <img loading="lazy" alt="La table de jeu" src="images/bitd/photos/20260823_120447.jpg">
+</figure>
+
+## Session 18
+
+> * La comète détruira-t-elle Doskvol ?
+> * Elaria pourra-t-elle être libérée d'IronHook ?
+> * Qui a survécu à l'effondrement des catacombes, et que sont devenues les reliques de Kotar ?
+> * Maintenant que Scurlock est entré en possession des œufs de Setarra, quels sont ses plans ?
 
 <!--
 XP & downtime non fait en fin de session
