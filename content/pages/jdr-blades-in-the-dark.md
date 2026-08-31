@@ -123,12 +123,14 @@ Vous êtes dans une ville hantée de l'ère victorienne, piégé à l'intérieur
     * [Vassock réclame son dû](pages/jdr-blades-in-the-dark.html#vassock-r-clame-son-d-)
     * [L'exécution publique](pages/jdr-blades-in-the-dark.html#l-ex-cution-publique)
     * [Un prisonnier gênant](pages/jdr-blades-in-the-dark.html#un-prisonnier-g-nant)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-13)
 - [Session 17 - 22 & 23 août 2026](pages/jdr-blades-in-the-dark.html#session-17-22-23-ao-t-2026)
     * [Un nouveau chef ?](pages/jdr-blades-in-the-dark.html#un-nouveau-chef-)
     * [Le corps de Lodius](pages/jdr-blades-in-the-dark.html#le-corps-de-lodius)
     * [Le Grand Tournoi](pages/jdr-blades-in-the-dark.html#le-grand-tournoi)
     * [Intermède](pages/jdr-blades-in-the-dark.html#interm-de)
     * [Le retour de Kotar](pages/jdr-blades-in-the-dark.html#le-retour-de-kotar)
+    * [Ressources](pages/jdr-blades-in-the-dark.html#ressources-14)
 
 ## Session 1 - août 2017
 Pour le résumé de la première partie, se référer à [l'article de blog où j'en parle](premiere-partie-test-de-blades-in-dark.html).
@@ -2434,7 +2436,10 @@ Pendant ce temps, Eric affronte son Omar Silk, son quatrième adversaire, qu'il 
 Eric décide néanmoins de profiter de la finale pour haranguer la foule présente, annonçant qu'il abandonne le Grand Tournoi car Doskvol va être détruit par une comète, et que les notables nantis le savent et fuient déjà la ville, abandonnant le reste de la population à son sort ! Eric exhorte la population à se rendre sur _Whitecrown_ pour se réfugier et manifester leur colère.
 Cette allocution sème la panique, et provoque l'effet escompté, provoquant un afflux massif d'habitants vers l'île au Nord de la ville.
 
-Le gang réalise alors que la Tour de l'Horloge, en l'absence de la grande majorité des hommes du gang, a reçu la visite de [Lors Scurlock](pages/jdr-blades-in-the-dark.html#scurlock), qui a pris l'apparence d'Orlan. Ils retrouvent le corps original de ce dernier en lambeaux, leur QG pillé et saccagé, et surtout : les jarres contenant les œufs de Setarra ont été dérobées !
+Le gang réalise alors que la Tour de l'Horloge, en l'absence de la grande majorité des hommes du gang, a reçu la visite de [Lors Scurlock](pages/jdr-blades-in-the-dark.html#scurlock), qui a pris l'apparence d'Orlan. Ils retrouvent le corps original de ce dernier en lambeaux, leur QG pillé et saccagé, et surtout : les jarres contenant les œufs de Setarra ont été dérobées ! Il a laissé un mot pour le gang :
+
+> Merci d'avoir rempli ce contrat.<br>
+> - S.
 
 Le gang décide alors en priorité d'organiser une action « coup de poing » dans les catacombes pour stopper le rituel.
 Tandis que la majorité du gang s'y rend en péniche,
@@ -2462,7 +2467,7 @@ Les membres du Harpon rescapés s'éloignent en bateau, observant la comète dé
     * [Prince of Persia - Warrior Within OST (playlist YouTube)](https://www.youtube.com/playlist?list=PL39A80E0ABBF9D3B8)
     * [Poor Mans Poison - Give And Take (YouTube)](https://www.youtube.com/watch?v=HHPZynI6pwQ)
 - aides de jeu « maison » :
-    * [BitD-DemonSheet.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-DemonSheet.pdf)
+    * [BitD-FeuilleDeDemon-2up.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-FeuilleDeDemon-2up.pdf) & [BitD-DemonSheet-2up.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-DemonSheet-2up.pdf)
     * [BitD-PouvoirsEthnos.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PouvoirsEthnos.pdf)
     * [BitD-PCsQuickSummary.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PCsQuickSummary.pdf)
     * [BitD-Rituels.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Rituels.pdf)
