@@ -2215,7 +2215,7 @@ mais les PJs sont plus rapides et s’éclipsent en un clin d'œil, bloquant la 
     + [an impressive collection of AI-generated BitD illustrations on Pinterest](https://fr.pinterest.com/Moodboards_and_settings/)
     + [collection of underground artworks](https://fotoblik.ru/kanalizatsiya-art)
 - aides de jeu :
-    + [Flooded district map by UnknownZ14Z @ Reddit/bladesinthedark](https://old.reddit.com/r/bladesinthedark/comments/1e1savi/how_does_my_flooded_zone_look_on_the_map/)
+    + [Flooded district map by UnknownZ14Z @ Reddit/bladesinthedark](https://reddit.com/r/bladesinthedark/comments/1e1savi/how_does_my_flooded_zone_look_on_the_map/)
     + [10 tips after a year of GMing (2 seasons) BitD campaign @ Reddit/bladesinthedark](https://reddit.com/r/bladesinthedark/comments/1g78xtn/10_tips_after_a_year_of_gming_2_seasons_blades_in/)
     + [Symbols for Underworld factions, inspired by alchemy symbols and hobo codes @ Reddit/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/1c10mz3/simple_symbols_for_underworld_factions_im_using/)
     + [Far Tycheros - 15 Pages of Lore @ Reddit/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/ve1snv/far_tycheros_15_pages_of_lore_map_included_3_new/)
@@ -2471,6 +2471,10 @@ Les membres du Harpon rescapés s'éloignent en bateau, observant la comète dé
     * [BitD-PouvoirsEthnos.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PouvoirsEthnos.pdf)
     * [BitD-PCsQuickSummary.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-PCsQuickSummary.pdf)
     * [BitD-Rituels.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Rituels.pdf)
+- posts Reddit créés dans [r/bladesinthedark](https://reddit.com/r/bladesinthedark/) :
+    * [Original illustration - Orlan Skora, possessed imperial guard, by EJ](https://reddit.com/r/bladesinthedark/comments/1vuh8yg/bitd_original_illustration_orlan_skora_possessed/)
+    * [Preparing some demon cards for my Magician PC](https://reddit.com/r/bladesinthedark/comments/1vuh0m2/bitd_preparing_some_demon_cards_for_my_magician_pc/)
+    * [Original illustration - A new Hull body for Ethnos, by EJ](https://reddit.com/r/bladesinthedark/comments/1w437jc/bitd_original_illustration_a_new_hull_body_for/)
 - contributions des joueurs :
     * [Souvenirs d'Orlan Skora, Garde Impérial (PDF)](ontent/images/bitd/BitD-SouvenirsDeOrlanSkora.pdf)
 <!-- Keeping it secret for now
@@ -2558,7 +2562,7 @@ Autres mentions issues des Chroniques du Crépuscule à exploiter :
 ### Ressources to "MENTION":
 + playbook Magician -> commentaire itch.io pour partager mes Demon Sheets
 + remercier Tim Denee pour son plan, et consulter ses autres sur flickr
-+ https://old.reddit.com/r/bladesinthedark/comments/1n2kk5o/i_made_faction_icons_for_all_factions_in_the_base/
++ https://reddit.com/r/bladesinthedark/comments/1n2kk5o/i_made_faction_icons_for_all_factions_in_the_base/
 + Whitehollow : https://rpggeek.com/filepage/293726/the-city-of-whitehollow-fan-expansion-v1
 + https://www.reddit.com/r/bladesinthedark/comments/188ky48/here_is_my_version_from_the_doskvol_district/
 + [Doskvol Echo newspapers](https://drive.google.com/drive/folders/1ADEyCbtWzmFS-YUaLGy8EgvOH-C11eAA)

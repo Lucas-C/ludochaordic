@@ -79,6 +79,7 @@ LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préfér�
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-09-07', 'img_url': 'images/readings/le-fleau-vert.webp', 'description': "Le fléau vert - Michaël Sanlaville (BD)"},
     {'date': '2026-08-16', 'img_url': 'images/games-to-test/la-couronne-de-sel.jpg', 'description': "La Couronne de Sel - Tania Herrero (JdR)"},
     {'date': '2026-08-02', 'img_url': 'images/readings/Zita-la-fille-de-l-espace-T2.jpg', 'description': "Zita, la fille de l'espace - tome 2 - Ben Hatke (BD)"},
     {'date': '2026-07-23', 'img_url': 'images/readings/Comment-la-tech-a-pris-le-pouvoir-aux-Etats-Unis.jpg', 'description': 'Comment la tech a pris le pouvoir aux États-Unis - Le papier numérique'},
