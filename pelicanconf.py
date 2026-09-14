@@ -46,6 +46,12 @@ EXTRA_PAGE_LINKS = (
 # Listenings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 LISTENINGS = (
     {
+        'date': '2026-09-14',
+        'img_url': 'images/listenings/GodSaveTheAnimals.jpg',
+        'description': 'Alex G',
+        'url': 'https://sandy.bandcamp.com/album/god-save-the-animals'
+    },
+    {
         'date': '2026-08-05',
         'img_url': 'images/listenings/skinshape.webp',
         'description': 'Skinshape aka William Dorey',
