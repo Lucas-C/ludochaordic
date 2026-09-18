@@ -16,18 +16,20 @@ if logging.root.handlers:  # handlers are only set the 2nd time this file is eva
 AUTHOR = 'Lucas Cimon'
 SITENAME = 'Ludochaordic'
 SITESUBTITLE = 'Fantaisies programatico-ludiques'
+LOGO_IMAGE = 'images/logo-black-horizontal.svg'
+NAVBAR_LOGO_IMAGE = 'images/logo-white-horizontal.svg'
 DESCRIPTION = '''
 <a href="pages/bienvenue.html">Bienvenue</a> !
 <br>
-En vrac, ce blog traite de <a href="tag/jeux.html">jeux</a> (<a href="tag/jeu-de-societe.html">jeux société</a>, <a href="tag/jdr.html">jeux de rôle</a> et <a href="tag/logic-puzzle.html">puzzles logiques</a>),
+Ce blog traite de <a href="tag/jeux.html">jeux</a> (<a href="tag/jeu-de-societe.html">jeux société</a>, <a href="tag/jdr.html">jeux de rôle</a> et <a href="tag/logic-puzzle.html">puzzles logiques</a>),
 de <a href="tag/prog.html">programmation</a> (et particulièrement du <a href="tag/python.html">langage Python</a>)
-et parfois un peu même de <a href="tag/maths.html">mathématiques</a>.
+et parfois un peu de <a href="tag/maths.html">mathématiques</a>.
 <br>
-Vous trouverez également ici <a href="pages/jeux-de-role.html">mes créations de jeux de rôle</a>,
-les <a href="pages/slides.html">slides</a> de présentations que j'ai donné,
-et <a href="past_readings.html">mes lectures passés</a>.
+Vous trouverez ici <a href="pages/jeux-de-role.html">mes créations de jeux de rôle</a>,
+mes <a href="past_readings.html">lectures passés</a> et quelques <a href="past_listenings.html">albums que j'écoute</a>.
 <br>
-<b>NOUVEAU</b> : une <em>newsletter</em> permet désormais de suivre l'actu de mes créations ludiques → <a href="pages/projets-en-cours.html">Projets en cours</a>.
+Il y aussi quelques <a href="pages/projets-en-cours.html">projets en cours</a>
+et une <a href="pages/images-libres-de-droits.html">collection d'images sous licences libres</a>.
 <br>
 Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.org/shaarli/">Shaarli</a>.
 <br>
@@ -85,6 +87,7 @@ LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préfér�
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-09-18', 'img_url': 'images/readings/LesCinqConteursDeBagdad.jpg', 'description': 'Les Cinq Conteurs de Bagdad - Fabien Vehlmann & Duchazeau (BD)'},
     {'date': '2026-09-14', 'img_url': 'images/readings/LeCapitaineEcarlate.jpg', 'description': 'Le Capitaine Écarlate - Emmanuel Guibert & David B (BD)'},
     {'date': '2026-09-07', 'img_url': 'images/readings/le-fleau-vert.webp', 'description': 'Le fléau vert - Michaël Sanlaville (BD)'},
     {'date': '2026-08-16', 'img_url': 'images/games-to-test/la-couronne-de-sel.jpg', 'description': 'La Couronne de Sel - Tania Herrero (JdR)'},

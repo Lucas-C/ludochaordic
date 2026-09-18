@@ -26,31 +26,31 @@ Tags: lang:fr
 
 <https://linktr.ee/sparkstories>
 
-[![SOCIETER, une série documentaire présentée par Usul](images/societer.jpg)](https://fr.ulule.com/societer-usul/)
+[![SOCIETER, une série documentaire présentée par Usul](images/supports/societer.jpg)](https://fr.ulule.com/societer-usul/)
 > Une série vidéo-documentaire qui fait réflechir, dans la continuité de [_Mes Chers Contemporains_](https://www.youtube.com/playlist?list=PLGSaf5hn5IaY7CObyjKyMH-Jeom0mMyo_).
 
-[![La Croix-Rouge](images/Croix-Rouge-FR.jpg)](https://www.croix-rouge.fr/)
+[![La Croix-Rouge](images/supports/Croix-Rouge-FR.jpg)](https://www.croix-rouge.fr/)
 > La **Croix-Rouge** française est une association d'aide humanitaire française fondée en 1864.
 > Elle a pour objectif de venir en aide aux personnes en difficulté en France et à l'étranger.
 > Ses missions fondamentales sont l'urgence, le secourisme, l'action sociale, la formation, la santé et l'action internationale.
 
-[![Handicap internationnal](images/HandicapInternationnal.webp)](https://www.handicap-international.fr/)
+[![Handicap internationnal](images/supports/HandicapInternationnal.webp)](https://www.handicap-international.fr/)
 > Handicap International est une ONG de solidarité internationale qui intervient dans une soixantaine de pays,
 > dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes, aux côtés des personnes handicapées et des populations vulnérables
 
-[![EFS - Don du sang](images/efs-don-du-sang.jpg)](https://dondesang.efs.sante.fr/don-de-sang)
+[![EFS - Don du sang](images/supports/efs-don-du-sang.jpg)](https://dondesang.efs.sante.fr/don-de-sang)
 > Sans engagement, libre, ponctuel, le **don de sang** change la vie d'un million de personnes en France chaque année : une femme qui accouche, une personne victime d'un accident, un malade atteint de cancer. Chacun de vos dons compte, donnez maintenant.
 > <u>Carte :</u> [trouvez une collecte près de chez vous](https://dondesang.efs.sante.fr/trouver-une-collecte).
 
-[![Framasoft](images/framasoft.jpg)](https://fr.wikipedia.org/wiki/Framasoft)
+[![Framasoft](images/supports/framasoft.jpg)](https://fr.wikipedia.org/wiki/Framasoft)
 > **Framasoft** est un réseau d'éducation populaire consacré principalement au logiciel libre.
 > Espace d'orientation, d'informations, d'actualités, d'échanges et de projets, Framasoft est une porte d'entrée francophone du logiciel libre.
 > Sa communauté assiste, conseille et crée des ressources à destination de ceux qui découvrent et font leurs premiers pas pour remplacer leurs logiciels propriétaires par des logiciels libres.
 
-[![La Quadrature du Net](images/LaQuadratureDuNet.png)](https://www.laquadrature.net/)
+[![La Quadrature du Net](images/supports/LaQuadratureDuNet.png)](https://www.laquadrature.net/)
 > **La Quadrature du Net** promeut et défend les libertés fondamentales dans l’environnement numérique. L’association lutte contre la censure et la surveillance, que celles-ci viennent des États ou des entreprises privées. Elle questionne la façon dont le numérique et la société s’influencent mutuellement. Elle œuvre pour un Internet libre, décentralisé et émancipateur.
 
-[![Enercoop](images/Logo_Enercoop.png)](https://www.enercoop.fr/notre-projet)
+[![Enercoop](images/supports/Logo_Enercoop.png)](https://www.enercoop.fr/notre-projet)
 > Créé en 2005, **Enercoop** est pionnier de la fourniture d'électricité renouvelable, et suit un modèle coopératif favorisant l'emploi local, la démocratie et la transparence.
 
 <style>

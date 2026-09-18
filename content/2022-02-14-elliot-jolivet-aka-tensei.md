@@ -112,6 +112,8 @@ Si vous aimez son travail, retrouvez d'autres créations d'EJ ici :
   ainsi qu'une [peinture numérique de la ville d'Almaty au Kazakhstan](https://www.instagram.com/p/CU-Yqa0oXiW/)
 * [sa page ArtStation](https://www.artstation.com/ej_tensei), toute récente
 
+**EDIT [2026/09/18]** : Elliot a réalisé le nouveau logo _Ludochaordic_ : [plus de détails dans cet article](un-logo-ludochaordic.html).
+
 <style>
 article img { max-height: 80vh; }
 </style>
