@@ -48,6 +48,18 @@ EXTRA_PAGE_LINKS = (
 # Listenings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 LISTENINGS = (
     {
+        'date': '2026-09-30',
+        'img_url': 'images/listenings/fyrs-dangerous-beauties.avif',
+        'description': 'FYRS - The Dangerous Beauties',
+        'url': 'https://fyrs.bandcamp.com/album/the-dangerous-beauties'
+    },
+    {
+        'date': '2026-09-28',
+        'img_url': 'images/listenings/vampire-weekend-only-god-was-above-us.jpg',
+        'description': 'Vampire Weekend - Only God Was Above Us',
+        'url': 'https://en.wikipedia.org/wiki/Only_God_Was_Above_Us'
+    },
+    {
         'date': '2026-09-14',
         'img_url': 'images/listenings/GodSaveTheAnimals.jpg',
         'description': 'Alex G',
@@ -87,6 +99,7 @@ LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préfér�
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-09-22', 'img_url': 'images/readings/gasparddelanuit01.jpg', 'description': "Gaspard de la Nuit - De l'autre côté du masque - Stephen Desberg et Johan De Moor (BD)"},
     {'date': '2026-09-18', 'img_url': 'images/readings/LesCinqConteursDeBagdad.jpg', 'description': 'Les Cinq Conteurs de Bagdad - Fabien Vehlmann & Duchazeau (BD)'},
     {'date': '2026-09-14', 'img_url': 'images/readings/LeCapitaineEcarlate.jpg', 'description': 'Le Capitaine Écarlate - Emmanuel Guibert & David B (BD)'},
     {'date': '2026-09-07', 'img_url': 'images/readings/le-fleau-vert.webp', 'description': 'Le fléau vert - Michaël Sanlaville (BD)'},
