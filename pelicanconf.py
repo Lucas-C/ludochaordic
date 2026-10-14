@@ -48,6 +48,12 @@ EXTRA_PAGE_LINKS = (
 # Listenings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 LISTENINGS = (
     {
+        'date': '2026-10-14',
+        'img_url': 'images/listenings/Morcheeba-HeadUpHigh.jpg',
+        'description': 'Morcheeba - Head up High',
+        'url': 'https://www.youtube.com/playlist?list=OLAK5uy_ln6G815j5pR3QTU1_fLGHxLO759SVLjNA'
+    },
+    {
         'date': '2026-09-30',
         'img_url': 'images/listenings/fyrs-dangerous-beauties.avif',
         'description': 'FYRS - The Dangerous Beauties',
@@ -293,22 +299,22 @@ SOCIAL = (('shaarli', 'https://chezsoi.org/shaarli'),
           # ('deviantart', 'https://www.deviantart.com/drmaxkurt/favourites'),
          )
 
-SUPPORTS = (('La Topette', 'https://latopette.fr/', 'images/LaTopette.png', 'Abonnez-vous à La Topette'),
-            ('La Revue Dessinée', 'https://www.larevuedessinee.fr/', 'images/LaRevueDessinee.jpg', 'Abonnez-vous à la Revue Dessinée'),
-            ('Backseat', 'https://www.youtube.com/@backseat_fr', 'images/backseat.jpg', 'Soutenez Backseat'),
-            ('SPARK', 'https://www.youtube.com/@Spark-Stories-FR', 'images/spark.webp', 'Soutenez SPARK'),
-            ('Mediapart', 'https://www.mediapart.fr/', 'images/mediapart.svg', 'Soutenez Mediapart'),
-            ('Blast', 'https://www.blast-info.fr/', 'images/blast.jpg', 'Soutenez Blast'),
-            ('Le Media', 'https://www.lemediatv.fr/', 'images/LeMedia.jpg', 'Soutenez Le Media'),
-            ('Fonds Pour Une Press Libre', 'https://fondspresselibre.org/', 'images/logo-FondsPourUnePressLibre.png', 'Soutenez Mediapart et le Fonds Pour Une Press Libre'),
-            ('Fakir', 'https://www.fakirpresse.info/', 'images/fakir.jpg', 'Abonnez-vous à Fakir'),
-            ('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/LaQuadratureDuNet.png', 'Faites un don à la Quadrature'),
-            ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/framasoft.jpg', 'Soutenez Framasoft'),
-            ('Enercoop', 'https://www.enercoop.fr/', 'images/Logo_Enercoop.png', 'Soutenez Enercoop'),
-            ('attac', 'https://france.attac.org/', 'images/attac.png', 'Soutenez attac'),
-            ('Microformats', 'https://microformats.org/', 'images/microformats.png', 'Ce site adhère au standard microformats'),
-            ('Webmention', 'https://indieweb.org/Webmention', 'images/webmention-button.svg', 'Ce site adhère au standard Webmention'),
-            ('Low-tech', 'https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html', 'images/low-tech.svg', 'Ce site adhère à la philosophie low-tech'))
+SUPPORTS = (('La Topette', 'https://latopette.fr/', 'images/supports/LaTopette.png', 'Abonnez-vous à La Topette'),
+            ('La Revue Dessinée', 'https://www.larevuedessinee.fr/', 'images/supports/LaRevueDessinee.jpg', 'Abonnez-vous à la Revue Dessinée'),
+            ('Backseat', 'https://www.youtube.com/@backseat_fr', 'images/supports/backseat.jpg', 'Soutenez Backseat'),
+            ('SPARK', 'https://www.youtube.com/@Spark-Stories-FR', 'images/supports/spark.webp', 'Soutenez SPARK'),
+            ('Mediapart', 'https://www.mediapart.fr/', 'images/supports/mediapart.svg', 'Soutenez Mediapart'),
+            ('Blast', 'https://www.blast-info.fr/', 'images/supports/blast.jpg', 'Soutenez Blast'),
+            ('Le Media', 'https://www.lemediatv.fr/', 'images/supports/LeMedia.jpg', 'Soutenez Le Media'),
+            ('Fonds Pour Une Press Libre', 'https://fondspresselibre.org/', 'images/supports/logo-FondsPourUnePressLibre.png', 'Soutenez Mediapart et le Fonds Pour Une Press Libre'),
+            ('Fakir', 'https://www.fakirpresse.info/', 'images/supports/fakir.jpg', 'Abonnez-vous à Fakir'),
+            ('LaQuadratureDuNet', 'https://soutien.laquadrature.net', 'images/supports/LaQuadratureDuNet.png', 'Faites un don à la Quadrature'),
+            ('Framasoft', 'https://soutenir.framasoft.org/liste-temoignages', 'images/supports/framasoft.jpg', 'Soutenez Framasoft'),
+            ('Enercoop', 'https://www.enercoop.fr/', 'images/supports/Logo_Enercoop.png', 'Soutenez Enercoop'),
+            ('attac', 'https://france.attac.org/', 'images/supports/attac.png', 'Soutenez attac'),
+            ('Microformats', 'https://microformats.org/', 'images/supports/microformats.png', 'Ce site adhère au standard microformats'),
+            ('Webmention', 'https://indieweb.org/Webmention', 'images/supports/webmention-button.svg', 'Ce site adhère au standard Webmention'),
+            ('Low-tech', 'https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html', 'images/supports/low-tech.svg', 'Ce site adhère à la philosophie low-tech'))
 
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
