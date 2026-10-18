@@ -37,7 +37,32 @@ Enfin, je partage des liens et des actualités sur mon <a href="https://chezsoi.
 <br>
 <small><em>(les mots en bleu ci-dessus sont des liens cliquables, visitez-les ! </em>😉<em>)</em></small>
 <br>
+<a href="https://lucas-c.itch.io/" class="link-to-my-games">
+  <p>
+    Retrouvez tous mes jeux
+    <br>
+    sur itch.io ici :
+  </p>
+  <img alt="" src="theme/itchio.svg" style="width: 4rem">
+</a>
+<br>
 Ce blog a %(years)d ans et contient %(articles_count)d articles.
+<style>
+.link-to-my-games {
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: .5rem auto 0;
+}
+@media (min-width: 1130px) {
+  .link-to-my-games {
+    float: right;
+    margin-right: calc((100%% - 1130px)/2);
+    margin-top: -8rem;
+  }
+}
+</style>
 '''
 
 EXTRA_PAGE_LINKS = (
