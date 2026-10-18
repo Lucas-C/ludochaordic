@@ -29,3 +29,5 @@ La voici donc en une page au format PDF :
 </a>
 
 Un grand merci à Brian M. d'avoir partagé cette variante simple et très sympa à jouer en couple !
+
+Page dédiée : [Variante 2 joueurs pour Dixit sur itch.io](https://lucas-c.itch.io/variante-2-joueurs-pour-dixit)

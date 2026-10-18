@@ -48,6 +48,8 @@ Vous pouvez retrouver toutes mes autres variantes de jeux ici : [tag **variante*
 
 **[EDIT 2023/03/31]** : j'ai aussi conçu [quelques variantes pour _Rumble in the House_](rumble-in-the-house.html)
 
+Page dédiée : [Variantes pour Rumble in the Dungeon/House sur itch.io](https://lucas-c.itch.io/variante-cible-pour-5min-dungeon)
+
 <style>
 article img { max-height: 20rem; }
 @media (min-width:768px) {

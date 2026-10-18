@@ -24,6 +24,8 @@ Cette variante nécessite d'imprimer une feuille A4 contenant quelques cartes à
 Je serais ravi d'avoir vos retours si vous jouez à cette variante :
 racontez-moi comment s'est passée votre partie en commentaire ! 🙂
 
+Page dédiée : [Variantes pour Rumble in the Dungeon/House sur itch.io](https://lucas-c.itch.io/variante-cible-pour-5min-dungeon)
+
 <style>
 article img { max-height: 20rem; max-width: 30rem; }
 </style>

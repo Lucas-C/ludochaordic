@@ -30,6 +30,8 @@ J'espère que ces variantes vous plairont ! N'hésitez pas à me faire vos retou
 
 **EDIT** : en décembre 2025 j'ai partagé une nouvelle variante dans cet autre article : [Nouvelle variante en équipes pour Rumble in the House](nouvelle-variante-en-equipes-pour-rumble-in-the-house.html).
 
+Page dédiée : [Variantes pour Rumble in the Dungeon/House sur itch.io](https://lucas-c.itch.io/variante-cible-pour-5min-dungeon)
+
 <style>
 article img { max-height: 20rem; }
 </style>

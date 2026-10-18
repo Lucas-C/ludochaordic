@@ -46,6 +46,8 @@ J'ai donc décidé de **traduire cette variante en français**
 et de **développer une petite application web** pour facilement sélectionner
 des CIBLES aléatoires à chaque partie :
 
+Page dédiée : [Variante CIBLE sur itch.io](https://lucas-c.itch.io/variante-cible-pour-5min-dungeon)
+
 <div class="side-by-side">
   <a href="images/2021/12/5_Minute_Dungeon_Variante_CIBLE.pdf">
     <figure>

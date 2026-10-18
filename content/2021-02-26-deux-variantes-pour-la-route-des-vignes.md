@@ -42,6 +42,8 @@ Bon jeu 😉
 
 Je ne l'ai pas encore beaucoup testé, et je serais ravir d'avoir vos retours dessus !
 
+Page dédiée : [Variantes pour La Route Des Vignes sur itch.io](https://lucas-c.itch.io/variantes-pour-la-route-des-vignes)
+
 **EDIT (plus tard dans la journée)** : bon, j'ai finalement été inspiré pour une seconde variante : **Vignerons**
 
 <a href="images/jeux/LaRouteDesVignes-Variante-Vignerons-FR.pdf">
