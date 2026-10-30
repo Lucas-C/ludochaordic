@@ -1,6 +1,6 @@
 Title: Les Remplaçants, extension gratuite pour Athlètes de Compète
 Date: 2026-10-18 14:00
-Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, gratuit, jeux, athletes-de-compet
+Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, gratuit, jeux, athletes-de-compete
 ---
 ![Cards preview](images/2026/10/les-remplacants-cards-preview.png)
 
@@ -20,9 +20,11 @@ ou sur [la page itch.io dédiée à cette extension](https://lucas-c.itch.io/les
       -> ajouter une photo une fois imprimé
 * [x] https://lucas-c.itch.io/les-remplacants
 * [x] https://forum.trictrac.net/t/athletes-de-compete-quand-les-fous-du-volant-rencontrent-mario-kart-qui-rencontre-les-monty-python-qui/225637/581?u=lucas-c
-* [wip] https://boardgamegeek.com/boardgame/454103/magical-athlete/files
-* [ ] https://boardgamegeek.com/boardgame/454103/magical-athlete/forums/0
-* [ ] https://boardgamegeek.com/filepage/325358/action-andy-27-new-racers-based-on-meeplesource-me
-* [ ] https://boardgamegeek.com/filepage/327878/leafs-fan-expansion-for-magical-athlete
-* [ ] https://boardgamegeek.com/filepage/318420/magical-athlete-custom-racers
+* [x] https://boardgamegeek.com/boardgame/454103/magical-athlete/files
+* [x] https://boardgamegeek.com/thread/3784530/les-remplacants-10-athletes-supplementaires-en-fra
+* [x] https://boardgamegeek.com/filepage/325358/action-andy-27-new-racers-based-on-meeplesource-me
+* [x] https://boardgamegeek.com/filepage/327878/leafs-fan-expansion-for-magical-athlete
+* [x] https://boardgamegeek.com/filepage/318420/magical-athlete-custom-racers
+* [x] commentaire : https://ludovox.fr/athletes-de-compete-les-plombs/#comment-140597
+* [x] https://reddit.com/r/jeudeplateau/comments/1x9ptwz/les_rempla%C3%A7ants_une_extension_gratuite_pour/
 -->
