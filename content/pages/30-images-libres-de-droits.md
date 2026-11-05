@@ -1067,7 +1067,6 @@ Dedicated to games:
         + [6 Post-Apocalyptical Snow Portraits](https://opengameart.org/content/6-post-apocalyptical-snow-portraits)
         + [Character Concepts for PARPG](https://opengameart.org/content/character-concepts-for-parpg)
         + [Four Post-Apocalyptic Portraits](https://opengameart.org/content/four-post-apocalyptic-portraits)
-- [Open source board game box art icons](https://sinisterdesign.net/open-source-board-game-box-art-icons/): ![thumbnail](https://sinisterdesign.net/blog/wp-content/uploads/2016/03/Box-Icons-Age-2-300x300.png)
 - [DriveThruRpg](https://www.drivethrurpg.com) has some free art packs:
     * [Free Fantasy RPG Stock Art: Creative Commons Vol. 1](https://www.drivethrurpg.com/fr/product/427202/free-fantasy-rpg-stock-art-creative-commons-vol-1)
     * [Free Fantasy RPG Stock Art: John D Batten Vol. 1](https://www.drivethrurpg.com/fr/product/429536/free-fantasy-rpg-stock-art-john-d-batten-vol-1)
@@ -1143,6 +1142,8 @@ Old public domain illustrations & photos:
     * [game play](https://www.iconfinder.com/iconsets/game-play) : straight lines
     * [Sketchy icons](https://www.iconfinder.com/iconsets/Sketchy_icons_by_ma) : down arrow, feather, cloud, glasses, diamond, fox... (free for personal use only)
     * [Rabbits icon pack](https://www.iconfinder.com/iconsets/rabbits_icons)
+- [Open source board game box art icons](https://sinisterdesign.net/open-source-board-game-box-art-icons/): ![thumbnail](https://sinisterdesign.net/blog/wp-content/uploads/2016/03/Box-Icons-Age-2-300x300.png)
+- [600 clean and minimal game Icons ultimate pack](https://sungraphica.itch.io/minimal-game-icons-pack)
 
 
 # Avatars
