@@ -29,3 +29,5 @@ Durant encore quelques jours, certains liens pointant vers `chezsoi.org` risquen
 La remise en place de ce blog s'est avérée assez rapide, donc j'espère que tout sera réglé assez vite.
 
 Si jamais cela vous empêche d'accéder à certains services, veuillez bien m'excuser pour la gêne occasionnée.
+
+**EDIT** : cet article fait suite à cet incident pour détailler un peu mon infrastructure : [_Auto hébergement : petit bilan_](auto-hebergement-petit-bilan.html).

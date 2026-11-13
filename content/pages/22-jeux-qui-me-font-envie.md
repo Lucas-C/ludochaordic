@@ -7,18 +7,21 @@ Sur cette page, je partage quelques jeux - surtout des jeux de rôle - que j'ai 
 
 <div class="uk-grid">
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">Critical : Sanctuaire</h2>
-    <img class="uk-align-center" src="images/games-to-test/critical-sanctuaire.jpg" alt="">
+    <h2 class="uk-text-bold uk-text-primary">D3TROIT</h2>
+    <img class="uk-align-center" src="images/games-to-test/D3TROIT.png" alt="">
     <dl class="uk-description-list-list">
-      <dt>Genre</dt><dd>Fantasy</dd>
-      <dt>Pour</dt><dd>1 MJ + 2 à 4 joueurs</dd>
-      <dt>Durée</dt><dd>9 épisodes d'environ 1h</dd>
-      <dt>Disponibilité</dt><dd>j'ai acquis la boîte de la 1ère saison</dd>
+      <dt>Genre</dt><dd>Policier</dd>
+      <dt>Pour</dt><dd>1 MJ + 3 à 5 joueurs</dd>
+      <dt>Durée</dt><dd>Courte campagne de 6+ enquêtes</dd>
+      <dt>Disponibilité</dt><dd>le livre m'a été offert</dd>
     </dl>
+    <blockquote>
+    Dans D3TROIT, les joueuses incarnent des policiers dignes d’une série télévisée comme The Shield ou The Wire ou d’un polar à la Michael Connelly, à ceci près qu’au lieu de courir après des criminels ordinaires, ils travaillent pour les Affaires internes.
+    <br>
     <div class="uk-thumbnail-caption">
       <ul>
-        <li><a href="critical-fondation.html">L'article que j'ai dédié au jeu Critical Fondation</a></li>
-        <li><a href="https://www.gigamic.com/jeu-de-communication/936-critical-sanctuaire-s1-3421271875819.html">Le jeu sur le site web de l'éditeur</a></li>
+        <li><a href="https://www.les12singes.com/155-d3troit">Page dédiée de l'éditeur</a></li>
+        <li><a href="https://hu-mu.blogspot.com/2025/09/campagne-de-financement-pour-d3troit.html">Article concernant la campagne de foulancement sur le blog Hugin &amp; Munin</a></li>
       </ul>
     </div>
   </section>
@@ -66,54 +69,18 @@ Sur cette page, je partage quelques jeux - surtout des jeux de rôle - que j'ai 
     </div>
   </section>
   <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">D3TROIT</h2>
-    <img class="uk-align-center" src="images/games-to-test/D3TROIT.png" alt="">
+    <h2 class="uk-text-bold uk-text-primary">Critical : Sanctuaire</h2>
+    <img class="uk-align-center" src="images/games-to-test/critical-sanctuaire.jpg" alt="">
     <dl class="uk-description-list-list">
-      <dt>Genre</dt><dd>Policier</dd>
-      <dt>Pour</dt><dd>1 MJ + 3 à 5 joueurs</dd>
-      <dt>Durée</dt><dd>Courte campagne de 6+ enquêtes</dd>
-      <dt>Disponibilité</dt><dd>le livre m'a été offert</dd>
+      <dt>Genre</dt><dd>Fantasy</dd>
+      <dt>Pour</dt><dd>1 MJ + 2 à 4 joueurs</dd>
+      <dt>Durée</dt><dd>9 épisodes d'environ 1h</dd>
+      <dt>Disponibilité</dt><dd>j'ai acquis la boîte de la 1ère saison</dd>
     </dl>
-    <blockquote>
-    Dans D3TROIT, les joueuses incarnent des policiers dignes d’une série télévisée comme The Shield ou The Wire ou d’un polar à la Michael Connelly, à ceci près qu’au lieu de courir après des criminels ordinaires, ils travaillent pour les Affaires internes.
-    <br>
     <div class="uk-thumbnail-caption">
       <ul>
-        <li><a href="https://www.les12singes.com/155-d3troit">Page dédiée de l'éditeur</a></li>
-        <li><a href="https://hu-mu.blogspot.com/2025/09/campagne-de-financement-pour-d3troit.html">Article concernant la campagne de foulancement sur le blog Hugin &amp; Munin</a></li>
-      </ul>
-    </div>
-  </section>
-  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">6 Empty Graves</h2>
-    <img class="uk-align-center" src="images/games-to-test/6-empty-graves.jpg" alt="">
-    <dl class="uk-description-list-list">
-      <dt>Genre</dt><dd>Jeu de dés solo</dd>
-      <dt>Disponibilité</dt><dd>gratuit / prix libre</dd>
-    </dl>
-    <blockquote>
-    6 Empty Graves is a solo print-and-play tactical duelling RPG.
-    </blockquote>
-    <div class="uk-thumbnail-caption">
-      <ul>
-        <li><a href="https://aaronbest.itch.io/six-empty-graves">Page itch.io du jeu</a></li>
-      </ul>
-    </div>
-  </section>
-  <section class="uk-width-1-1 uk-width-small-1-2 uk-width-medium-1-3">
-    <h2 class="uk-text-bold uk-text-primary">I°II°I.I.•II°IiI° (or GLYPHCRAWL)</h2>
-    <img class="uk-align-center" src="images/games-to-test/glyphcrawl.png" alt="">
-    <dl class="uk-description-list-list">
-      <dt>Genre</dt><dd>Jeu de dés solo</dd>
-      <dt>Disponibilité</dt><dd>j'ai acquis le PDF (1.75$)</dd>
-    </dl>
-    <blockquote>
-    A onepage, wordless TTRPG. The rest is yours to discover.
-    All the information is on the page.
-    </blockquote>
-    <div class="uk-thumbnail-caption">
-      <ul>
-        <li><a href="https://thecoppercompendium.itch.io/glyphcrawl">Page itch.io du jeu</a></li>
+        <li><a href="critical-fondation.html">L'article que j'ai dédié au jeu Critical Fondation</a></li>
+        <li><a href="https://www.gigamic.com/jeu-de-communication/936-critical-sanctuaire-s1-3421271875819.html">Le jeu sur le site web de l'éditeur</a></li>
       </ul>
     </div>
   </section>

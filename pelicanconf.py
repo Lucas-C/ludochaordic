@@ -143,6 +143,7 @@ LISTENINGS_INTRO = '''<p>J'ai aussi rassemblé pas mal de mes chansons préfér�
 # Readings, from most recent to oldest - BEWARE: descriptions should NOT contain double quotes "", or HTML alt/title attributes will break
 READINGS = (
     # {'date': '2024-05-?', 'img_url': 'images/readings/', 'description': 'Thèque 2 - Nick Seaver - Robin James - Laura Forlano - Julie Le Baron (Essai)'}, # https://audimat-editions.fr/catalogue/teque2
+    {'date': '2026-11-13', 'img_url': 'images/readings/HelloSunshine.jpg', 'description': 'Hello Sunshine - Keezy Young (comics)'},
     {'date': '2026-11-03', 'img_url': 'images/readings/UneGrossesseSurQuatre.webp', 'description': 'Une grossesse sur quatre - Camille Drouet Chades & Manon Mugnier (BD)'},
     {'date': '2026-10-30', 'img_url': 'images/readings/Herakles.jpg', 'description': 'Herakles - Edouard Cour (BD)'},
     {'date': '2026-10-15', 'img_url': 'images/readings/les-grandes-oubliees.webp', 'description': 'Les grandes oubliées - Titiou Lecoq (BD)'},
