@@ -2,12 +2,10 @@ Title: Les Remplaçants, extension gratuite pour Athlètes de Compète
 Date: 2026-10-18 14:00
 Tags: lang:fr, jeu-de-societe, board-game, boardgamegeek, variante, gratuit, jeux, athletes-de-compete
 ---
-![Cards preview](images/2026/10/les-remplacants-cards-preview.png)
-
 Cette extension vous propose 10 nouveaux athlètes : découpez les cartes et les pions correspondants sur les pages suivantes, et intégrez-les à vos parties !
 
 Vous pouvez télécharger l'extension ici sur `itch.io` :
-[![PDF preview](images/2026/10/les-remplacants-pdf-preview.png)](https://lucas-c.itch.io/les-remplacants)
+[![PDF preview](images/2026/10/les-remplacants-cards-preview-v2.jpg)](https://lucas-c.itch.io/les-remplacants)
 
 Matériel nécessaire : ciseaux, colle, imprimante couleur et optionnellement papier cartonné.
 
@@ -15,9 +13,16 @@ Je serais ravi d'avoir vos retours si vous jouez à cette variante :
 racontez-moi comment s'est passée votre partie en commentaire ici,
 ou sur [la page itch.io dédiée à cette extension](https://lucas-c.itch.io/les-remplacants) ! 🙂
 
+![Photo du plateau de jeu avec Les Remplaçants](images/2026/10/les-remplacants-photo.jpg)
+
+**EDIT [16/11/2026]** : après plusieurs parties de test de ces athlètes, j'ai publié une **v2** qui intègre les changements suivants :
+
+* après plusieurs parties, certaines athlètes ne se sont pas avérés particulièrement amusants à jouer, je les ai donc enlevés : _Ankou_, _Loulou Tout Seul_, _Luchador Zombie_, _Toucan_, _Twisters_
+* le pouvoir de _Kangourou_ a été modifié pour le rendre plus amusant à jouer
+* un nouvel athlète a été ajouté : _Catapulte_
+
 <!-- Com'
-* [ ] https://chezsoi.org/lucas/blog/les-remplacants-extension-gratuite-pour-athletes-de-compete.html
-      -> ajouter une photo une fois imprimé
+* [x] https://chezsoi.org/lucas/blog/les-remplacants-extension-gratuite-pour-athletes-de-compete.html
 * [x] https://lucas-c.itch.io/les-remplacants
 * [x] https://forum.trictrac.net/t/athletes-de-compete-quand-les-fous-du-volant-rencontrent-mario-kart-qui-rencontre-les-monty-python-qui/225637/581?u=lucas-c
 * [x] https://boardgamegeek.com/boardgame/454103/magical-athlete/files
